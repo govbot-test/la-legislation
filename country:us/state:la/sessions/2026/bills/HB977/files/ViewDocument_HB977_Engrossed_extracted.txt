@@ -1,0 +1,1184 @@
+Title: HOUSE BILL NO. 977
+Official Title: HOUSE BILL NO. 977
+Number of Sections: 10
+Source: versions - HB977 Engrossed
+Media Type: application/pdf
+Strikethrough Detection: 16 sections found
+
+================================================================================
+
+Section 1:
+HLS 26RS-1636 ENGROSSED
+2026 Regular Session
+BY REPRESENTATIVE BEAULLIEU
+COMMERCIAL REGULATIONS: Provides relative to minors' use of applications
+1 AN ACT
+2 To amend and reenact the heading of Chapter 20-A of Title 51 of the Louisiana Revised
+3 Statutes of 1950, to enact Part II of Chapter 20-A of Title 51 of the Louisiana
+4 Revised Statutes of 1950, to be comprised of R.S. 51:1771 through 1775, and to
+5 repeal Act No. 481 of the 2025 Regular Session, relative to minors' use of
+6 applications; to provide for definitions; to provide for application store requirements;
+7 to provide for developer requirements; to provide for protections; to provide for
+8 liability; to provide for applicability; to provide for enforcement; to provide for
+9 penalties; to provide for severability; to provide for an effective date; and to provide
+10 for related matters.
+11 Be it enacted by the Legislature of Louisiana:
+12 Section 1. Act No. 481 of the 2025 Regular Session shall not become effective.
+13 Section 2. The heading of Chapter 20-A of Title 51 of the Louisiana Revised
+14 Statutes of 1950 is hereby amended and reenacted and Part II of Chapter 20-A of Title 51
+15 of the Louisiana Revised Statutes of 1950, comprised of R.S. 51:1771 through 1775, is
+16 hereby enacted to read as follows to read as follows:
+17 CHAPTER 20-A. PROTECTION OF CHILDREN'S INTERNET DATA ONLINE
+18 PROTECTIONS FOR MINORS
+19 PART I. PROTECTION OF CHILDREN'S INTERNET DATA
+20 §1761. Legislative findings
+21 * * *
+Page 1 of 16
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-1636 ENGROSSED
+HB NO. 977
+1 PART II. PROTECTION OF CHILDREN ON APPLICATIONS
+2 §1771. Definitions
+3 As used in this Part, the following terms have the following meanings:
+4 (1) "Age category" means one of the following categories of individuals
+5 based on age:
+6 (a) "Child" means an individual who is under thirteen years old.
+7 (b) "Younger teenager" means an individual who is at least thirteen years old
+8 and under sixteen years old.
+9 (c) "Older teenager" means an individual who is at least sixteen years old
+10 and under eighteen years old.
+11 (d) "Adult" means an individual who is at least eighteen years old.
+12 (2) "Age category data" means information about a user's age that is
+13 collected by a covered application store provider and shared with a developer.
+14 (3) "Age rating" means a classification that provides an assessment of the
+15 suitability of an application's content for different age groups.
+16 (4) "Application" means a software program that is designed to run on a
+17 connected device or a mobile device.
+18 (5) "Connected device" means a smartphone, tablet, computer, gaming
+19 console, or virtual reality device that enables users to connect to the internet and
+20 download software applications.
+21 (6) "Content description" means a description of the specific content
+22 elements that informed an application's age rating.
+23 (7) "Covered application store" means a publicly available website, software
+24 application, or electronic service that allows users to download applications from
+25 third-party developers onto a mobile device or connected device.
+26 (8) "Covered application store provider" means a person who owns, operates,
+27 or controls a covered application store that allows users in this state to download
+28 applications.
+Page 2 of 16
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-1636 ENGROSSED
+HB NO. 977
+1 (9) "Developer" means a person who owns or controls an application made
+2 available through a covered application store in this state.
+3 (10) "Minor" means an individual who is under the age of eighteen and is not
+4 emancipated or married.
+5 (11) "Minor account" means an account with a covered application store
+6 provider that is established by an individual who the covered application store
+7 provider has determined through its age verification methods is under eighteen years
+8 of age, and is not emancipated or married, and requires affiliation with a parent
+9 account.
+10 (12) "Mobile device" means a phone or general-purpose tablet that does all
+11 of the following:
+12 (a) Provides cellular or wireless connectivity.
+13 (b) Is capable of connecting to the internet.
+14 (c) Runs a mobile operating system.
+15 (d) Is capable of running applications through the mobile operating system.
+16 (13) "Mobile operating system" means software that does all of the
+17 following:
+18 (a) Manages mobile device hardware resources.
+19 (b) Provides common services for mobile device programs.
+20 (c) Controls memory allocation.
+21 (d) Provides interfaces for applications to access device functionality.
+22 (14) "Parent" means, with respect to a minor, individuals who have legal
+23 authority to make decisions on behalf of the minor.
+24 (15) "Parent account" means an account with a covered application store
+25 provider that is both of the following:
+26 (a) Is verified to be established by an individual whom the covered
+27 application store provider has determined is at least eighteen years old through the
+28 covered application store provider's age verification methods.
+29 (b) May be affiliated with one or more minor accounts.
+Page 3 of 16
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-1636 ENGROSSED
+HB NO. 977
+1 (16) "Parental consent disclosure" means the following information that a
+2 covered application store provider is required to provide to a parent before obtaining
+3 parental consent:
+4 (a) If the covered application store provider has an age rating for the
+5 application or in-application purchase, the application's or in-application purchase's
+6 age rating.
+7 (b) If the covered application store provider has a content description for the
+8 application or in-application purchase, the application's or in-application's content
+9 description.
+10 (c) A description of:
+11 (i) The personal data collected by an application from a user.
+12 (ii) The personal data shared by the application with a third party.
+13 (d) If personal data is collected by the application, the methods implemented
+14 by the developer to protect the personal data.
+15 (17)(a) "Pre-loaded application" means an application that is present on a
+16 mobile device at the time of purchase, initial activation, or first use of the device by
+17 a consumer.
+18 (b) Pre-loaded application does not include core operating system functions,
+19 essential device drivers, basic-device operations, essential phone applications,
+20 settings applications, emergency services applications, or security or system
+21 maintenance applications essential to device functionality.
+22 (18) "Significant change" means a material modification to an application's
+23 terms of service or privacy policy that:
+24 (a) Changes the categories of data collected, stored, or shared.
+25 (b) Alters the application's age rating or content descriptions.
+26 (c) Adds new monetization features, including in-application purchases and
+27 advertisements.
+28 (d) Materially changes the application's functionality or user experience.
+Page 4 of 16
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-1636 ENGROSSED
+HB NO. 977
+1 (19) "Verifiable parental consent" means authorization that is all of the
+2 following:
+3 (a) Is provided to a covered application store by an individual whom a
+4 covered application store provider has verified is an adult.
+5 (b) Is given after the covered application store provider has clearly and
+6 conspicuously provided the parental consent disclosure to the individual.
+7 (c) Requires the parent to make an affirmative choice to grant consent or
+8 decline consent.
+9 §1772. Application stores
+10 A. A covered application store provider shall:
+11 (1) At the time an individual who is located in this state creates an account
+12 with a covered application store provider, do both of the following:
+13 (a) Request age information from the individual.
+14 (b)(i) Verify the individual's age category using commercially available
+15 methods that are reasonably designed to ensure accuracy, including but not limited
+16 to a means of verification provided through the use of a real-time age verification
+17 system authorized by the commissioner of the office of motor vehicles.
+18 (ii) For individuals under eighteen years of age, a method is commercially
+19 available if it includes affirmative age attestation by someone who is reasonably
+20 believed to be the parent or legal guardian, along with other information collected
+21 in the ordinary course of account creation or use.
+22 (2) If the age verification methods or process described in Paragraph (1) of
+23 this Subsection determines the individual to be a minor, the covered application store
+24 provider shall do both of the following:
+25 (a) Require the account to be affiliated with a parent account.
+26 (b)(i) Obtain verifiable parental consent from the holder of the affiliated
+27 parent account before allowing the minor to do any of the following:
+28 (aa) Download an application.
+29 (bb) Purchase an application.
+Page 5 of 16
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-1636 ENGROSSED
+HB NO. 977
+1 (cc) Access an application that has been pre-loaded into a device.
+2 (dd) Enable the functionality to make in-application purchases.
+3 (ii) Relative to Subitem (i)(cc) of this Subparagraph, if the pre-loaded
+4 application is developed by the covered application store provider, verifiable parental
+5 consent is not necessary if the pre-loaded application implements default safety
+6 protections for minors, where applicable.
+7 (3) After receiving notice of a significant change from a developer, notify
+8 the user of the significant change, and for a minor account, notify the holder of the
+9 affiliated parent account and obtain renewed verifiable parental consent.
+10 (4) Provide to a developer, in response to a request authorized pursuant to
+11 R.S. 51:1773:
+12 (a) The age category for a user located in this state.
+13 (b) The status of verified parental consent for a minor located in this state.
+14 (5) Notify a developer when a parent revokes parental consent.
+15 (6) Protect personal age verification data by doing all of the following:
+16 (a) Limiting collection and processing to data necessary for:
+17 (i) Verifying a user's age.
+18 (ii) Obtaining parental consent.
+19 (iii) Maintaining compliance records.
+20 (b) Transmitting personal age verification data using industry-standard
+21 encryption protocols that ensure data integrity and data confidentiality.
+22 B. A covered application store provider shall not do any of the following:
+23 (1) Enforce a contract or terms of service against a minor unless a covered
+24 application store provider has obtained verifiable parental consent.
+25 (2) Knowingly misrepresent the information in the parental consent
+26 disclosure.
+27 (3) Share age verification data except between a covered application store
+28 provider and a developer as required by this Part or as required by law.
+Page 6 of 16
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-1636 ENGROSSED
+HB NO. 977
+1 §1773. Developer requirements
+2 A. A developer shall do all of the following:
+3 (1) Verify through the covered application store's data sharing methods:
+4 (a) The age category of users located in this state.
+5 (b) For a minor account, whether verifiable parental consent has been
+6 obtained.
+7 (2) Obtain verifiable parental consent from the holder of the affiliated parent
+8 account before allowing the minor to download an application, purchase an
+9 application, create a profile, or make an in-application purchase.
+10 (3) Notify covered application store providers of a significant change to the
+11 application.
+12 (4) Enforce all age-related restrictions.
+13 (5) Enforce any developer-created age-related restrictions.
+14 (6) Ensure compliance with applicable laws and regulations. Any developer
+15 required by R.S. 9:2800.29 or R.S. 51:1751 through 1753 to age-verify users at the
+16 application level shall continue to be responsible for age verification. No provision
+17 in this Part shall be construed to eliminate this responsibility. A developer who is
+18 required by law to conduct age verification at the application level, but to whom R.S.
+19 9:2800.29 or R.S. 51:1751 through 1753 does not apply, may utilize the age signal
+20 from the covered application store to fulfill its age verification obligation.
+21 (7) Implement any developer-created safety-related features or defaults.
+22 (8) Request from the covered application store provider personal age
+23 verification data or parental consent:
+24 (a) At the time a user downloads an application or purchases an application.
+25 (b) When implementing a significant change to the application.
+26 (c) To comply with applicable law.
+27 B. A developer may request personal age verification data or parental
+28 consent:
+Page 7 of 16
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-1636 ENGROSSED
+HB NO. 977
+1 (1) No more than once during a twelve-month period to verify the accuracy
+2 of user age verification data or continued account use within the verified age
+3 category.
+4 (2) When there is reasonable suspicion of account transfer or misuse outside
+5 the verified age category.
+6 (3) At the time a user creates a new account with a developer.
+7 C.(1) A developer, other than one required to verify age pursuant to R.S.
+8 9:2800.29 or R.S. 51:1751 through 1753, shall use the verified age signal from an
+9 operating system or application store, pursuant to Paragraph (A)(6) of this Section,
+10 to do all of the following:
+11 (a) Enforce legally required minimum age restrictions.
+12 (b) Ensure compliance with all laws and other obligations.
+13 (c) In the provision of any age-appropriate defaults, safeguards, or
+14 experiences, except as provided in this Section.
+15 (2) If the developer determines that an internal age signal conflicts with the
+16 age signal from a covered application store, the developer may rely on the signal
+17 from the covered application store unless the developer has actual knowledge that
+18 its internal signal is more accurate. If the developer has actual knowledge that its
+19 internal signal is more accurate, such as if the user provided proof of age to the
+20 developer, the developer shall use its internal signal or the lower of the two signals.
+21 D. A developer shall not do any of the following:
+22 (1) Enforce a contract or terms of service against a minor unless the
+23 developer has verified through the covered application store provider that verifiable
+24 parental consent has been obtained.
+25 (2) Knowingly misrepresent any information in the parental consent
+26 disclosure.
+27 (3) Sell age category data to any person.
+Page 8 of 16
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-1636 ENGROSSED
+HB NO. 977
+1 §1774. Protections
+2 A.(1) A covered application store provider is not liable for a violation of this
+3 Part if the covered application store provider demonstrates a good faith effort to
+4 comply with the requirements in R.S. 51:1772.
+5 (2) A developer is not liable for a violation of this Part if the developer
+6 demonstrates that the developer complied with the requirements in R.S. 51:1773.
+7 B. For the purposes of setting the age category of an application and
+8 providing content description disclosure to a covered application store provider, a
+9 developer complies with R.S. 51:1773(C) if the developer uses widely adopted
+10 industry standards to determine the application's age category and the content
+11 description disclosures and if the developer applies those standards consistently and
+12 in good faith.
+13 C. The protection described in this Section applies only to actions brought
+14 pursuant to this Part and shall not limit a developer or covered application store
+15 provider's liability under any applicable law.
+16 D. Nothing in this Part shall displace any other available remedies or rights
+17 authorized under the laws of this state or the United States.
+18 E. Nothing in this Part shall be construed to do any of the following:
+19 (1) Prevent a covered application store provider or developer from taking
+20 reasonable measures to do any of the following:
+21 (a) Block, detect, or prevent distribution to minors of unlawful material,
+22 obscene material, or other harmful material.
+23 (b) Block or filter spam.
+24 (c) Prevent criminal activity.
+25 (d) Protect the application store or application security.
+26 (2) Require a covered application store provider to disclose user information
+27 to a developer beyond age category or verification of parental consent status.
+Page 9 of 16
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-1636 ENGROSSED
+HB NO. 977
+1 (3) Allow a covered application store provider or developer to implement
+2 measures required by this Part in a manner that is arbitrary, capricious,
+3 anticompetitive, or unlawful.
+4 (4) Require a developer to collect, retain, reidentify, or link any information
+5 beyond any of the following:
+6 (a) What is necessary to verify age categories and parental consent status as
+7 required by this Chapter.
+8 (b) What is collected, retained, reidentified, or linked in the developer's
+9 ordinary course of business.
+10 (5) Relieve a developer of its obligation to conduct age verification as
+11 required by R.S. 9:2800.29 or R.S. 51:1751 through 1753.
+12 (6) Require a covered application store provider or developer to obtain
+13 parental consent for an application that meets all of the following conditions:
+14 (a) Provides direct access to emergency services, including:
+15 (i) 911.
+16 (ii) Crisis hotlines.
+17 (iii) Emergency assistance services legally available to minors.
+18 (b) Limits data collection to information necessary to provide emergency
+19 services in compliance with 15 U.S.C. 6501 et seq., Children's Online Privacy
+20 Protection Act.
+21 (c) Provides access without requiring account creation or collection of
+22 unnecessary personal information.
+23 (d) Is operated by or in partnership with any of the following:
+24 (i) A government entity.
+25 (ii) A nonprofit organization.
+26 (iii) An authorized emergency service provider.
+27 §1775. Enforcement; penalties
+28 A. The attorney general may bring a civil action to enforce any violations of
+29 this Part.
+Page 10 of 16
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-1636 ENGROSSED
+HB NO. 977
+1 B. A covered application store or developer that violates the provisions of
+2 this Part shall be subject to a civil fine of up to ten thousand dollars per violation set
+3 by the attorney general.
+4 C.(1) At least forty-five days before the day on which the attorney general
+5 initiates an enforcement action against a person who is subject to the requirements
+6 of this Part, the attorney general shall provide the person with a written notice that
+7 identifies each alleged violation and an explanation of the basis for each allegation.
+8 (2) Except as provided in Paragraph (3) of this Subsection, the attorney
+9 general shall not initiate an action if the person cures the notice violation within
+10 forty-five days after the date on which the person receives the notice by providing
+11 the attorney general with a written statement indicating that the violation is cured and
+12 no further violations will occur.
+13 (3) The attorney general may initiate a civil action against a person who does
+14 either of the following:
+15 (a) Fails to cure a violation after receiving the written notice described in
+16 Paragraph (1) of this Subsection.
+17 (b) Commits another violation of the same provision after curing a violation
+18 and providing a written statement in accordance with Paragraph (2) of this
+19 Subsection.
+20 (4) If a court of competent jurisdiction grants judgment or injunctive relief
+21 to the attorney general, the court shall award the attorney general reasonable attorney
+22 fees, court costs, and investigative costs.
+23 (5) A person who violates an administrative order or court order issued for
+24 a violation of this Part shall be subject to a civil penalty of not more than five
+25 thousand dollars for each violation set by the attorney general. A civil penalty in
+26 accordance with this Section may be imposed in any civil action brought by the
+27 attorney general.
+28 (6) All monies received from the payment of a fine or civil penalty imposed
+29 and collected pursuant to the provisions of this Section shall be used by the attorney
+Page 11 of 16
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-1636 ENGROSSED
+HB NO. 977
+1 general for consumer protection enforcement efforts or to promote consumer
+2 protection and education.
+3 Section 3. If any provision of this Act or the application thereof is held invalid, such
+4 invalidity shall not affect other provisions or applications of this Act which can be given
+5 effect without the invalid provisions or applications, and to this end the provisions of this
+6 Act are hereby declared severable.
+7 Section 4. The Louisiana State Law Institute is authorized and directed to amend
+8 R.S. 51:1761 through 1763 to change every reference from "Chapter" to "Part".
+9 Section 5. Section 1 and this Section of this Act shall become effective upon
+10 signature by the governor or, if not signed by the governor, upon expiration of the time for
+11 bills to become law without signature by the governor, as provided by Article III, Section
+12 18 of the Constitution of Louisiana. If vetoed by the governor and subsequently approved
+13 by the legislature, this Act shall become effective on the day following such approval.
+14 Section 6. Sections 2, 3, 4 and this Section of this Act shall become effective on July
+15 1, 2027.
+DIGEST
+The digest printed below was prepared by House Legislative Services. It constitutes no part
+of the legislative instrument. The keyword, one-liner, abstract, and digest do not constitute
+part of the law or proof or indicia of legislative intent. [R.S. 1:13(B) and 24:177(E)]
+HB 977 Engrossed 2026 Regular Session Beaullieu
+Abstract: Provides relative to minors' use of applications.
+Proposed law repeals Act No. 481 of the 2025 Regular Session.
+Not yet effective law provides for minors' use of applications, definitions, a covered
+application store provider's responsibilities and a developer's responsibilities.
+Not yet effective law provides for liabilities and protections and for enforcement and
+penalties.
+Proposed law repeals not yet effective law.
+Proposed law provides relative to application stores and developers in regards to minors.
+Proposed law changes present law to amend the title of proposed law.
+Proposed law defines "age category", "child", "younger teenager", "older teenager", "adult",
+"age category data", "age rating", "application", "connected device", "content description",
+"covered application store", "covered application store provider", "developer", "minor",
+Page 12 of 16
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-1636 ENGROSSED
+HB NO. 977
+"minor account", "mobile device", "mobile operating system", "parent", "parent account",
+"parental consent disclosure", "pre-loaded application", "significant change", and "verifiable
+parental consent".
+Proposed law requires a covered application store provider to do the following:
+(1) Request age information from an individual and verify the individual's age category
+at the time an individual, who is located in the state, creates an account.
+(2) If the age verification methods or process described in proposed law determines the
+individual to be a minor, require the account to be affiliated with a parent account
+and obtain verifiable parental consent from the holder of the affiliated parent account
+before allowing the minor to download an application, purchase an application,
+access an application that has been pre-loaded into a device, or enable the
+functionality make an in-application purchase. Relative to proposed law, if the
+pre-loaded application is developed by the covered application store provider,
+verifiable parental consent is not necessary if the pre-loaded application implements
+default safety protections for minors, where applicable.
+(3) After receiving notice of a significant change from a developer, notify the user of the
+significant change and, for a minor account, notify the holder of the affiliated parent
+account, and obtain renewed verifiable parental consent.
+(4) Provide information to a developer in response to a request authorized by proposed
+law.
+(5) Notify a developer when a parent revokes parental consent.
+(6) Protect personal age verification data by limiting collection and processing of certain
+data and by transmitting personal age verification data using certain protocols.
+Proposed law provides for what a covered application store provider shall not do.
+Proposed law provides that a developer shall:
+(1) Verify through the covered application store's data sharing methods the age category
+of users located in this state, and for a minor account, whether verifiable parental
+consent has been obtained.
+(2) Obtain verifiable parental consent from the holder of the affiliated parent account
+before allowing the minor to download an application, purchase an application,
+create a profile, or make an in-application purchase.
+(3) Notify covered application store providers of a significant change to the application.
+(4) Enforce all age-related restrictions.
+(5) Enforce any developer-created age-related restrictions.
+(6) Ensure compliance with applicable laws and regulations. Any developer required
+by proposed law to age-verify users at the application level shall continue to be
+responsible for age verification. No provision in proposed law shall be construed to
+remove this responsibility. A developer who is required by law to conduct age
+verification at the application level, but to whom present law does not apply, may
+utilize the age signal from the covered application store to fulfill its age verification
+obligation.
+(7) Implement any developer-created safety-related features or defaults.
+Page 13 of 16
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-1636 ENGROSSED
+HB NO. 977
+(8) Request from the covered application store provider personal age verification data
+or parental consent at the time a user downloads an application or purchases an
+application, when implementing a significant change to the application, and to
+comply with applicable law.
+Proposed law provides for when a developer may request personal age verification data or
+parental consent.
+Proposed law provides that a developer, other than one required to verify age pursuant to
+present law, shall use the verified age signal from an operating system or application store,
+pursuant to proposed law, to do all of the following:
+(1) Enforce legally required minimum age restrictions.
+(2) Ensure compliance with all laws and other obligations.
+(3) In the provision of any age-appropriate defaults, safeguards, or experiences, except
+as provided present law.
+Proposed law provides that if the developer determines that an internal age signal conflicts
+with the age signal from a covered application store, the developer may rely on the signal
+from the covered application store unless the developer has actual knowledge that its internal
+signal is more accurate. If the developer has actual knowledge that its internal signal is more
+accurate, such as if the user provided proof of age to the developer, the developer shall use
+its internal signal or the lower of the two signals.
+Proposed law provides for what a developer shall not do.
+Proposed law provides for when a covered application store provider is not liable for a
+violation of proposed law.
+Proposed law provides for when a developer is not liable for a violation of proposed law.
+Proposed law provides that for the purposes of setting the age category of an application and
+providing content description disclosure to a covered application store provider, a developer
+complies with proposed law if the developer uses widely adopted industry standards to
+determine the application's age category and the content description disclosures and the
+developer applies those standards consistently and in good faith.
+Proposed law provides for applicability of the protection described in proposed law.
+Proposed law provides that nothing in proposed law shall displace any other available
+remedies or rights authorized under the laws of this state or the United States.
+Proposed law shall not be construed to do any of the following:
+(1) Prevent a covered application store provider or developer from taking certain actions.
+(2) Require a covered application store provider to disclose user information to a
+developer beyond age category or verification of parental consent status.
+(3) Allow a covered application store provider or developer to implement measures
+required by proposed law in a manner that is arbitrary, capricious, anticompetitive,
+or unlawful.
+(4) Require a developer to collect, retain, reidentify, or link any information beyond
+what is necessary to verify age categories and parental consent status as required by
+Page 14 of 16
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-1636 ENGROSSED
+HB NO. 977
+proposed law or what is collected, retained, reidentified, or linked in the developer's
+ordinary course of business.
+(5) Relieve a developer of its obligation to conduct age verification as required by
+present law.
+(6) Require a covered application store provider or developer to obtain parental consent
+for an application that meets certain requirements.
+Proposed law provides that the attorney general may bring a civil action to enforce any
+violation of proposed law.
+Proposed law provides that a covered application store or developer that violates the
+provisions of proposed law shall be subject to a civil fine of up to $10,000 per violation set
+by the attorney general.
+Proposed law requires the attorney general to give notice to any violators.
+Proposed law provides for when the attorney general may initiate a civil action against a
+person who fails to cure a violation.
+Proposed law provides relative to reasonable attorney fees, court costs, and investigative
+costs.
+Proposed law requires a person who violates an administrative order or court order issued
+for a violation of proposed law to pay a civil penalty of not more than $5,000 per violation
+set by the attorney general. Further provides that a civil penalty may be imposed in any civil
+action brought by the attorney general under proposed law.
+Proposed law provides that monies received from the payment of a fine or civil penalty
+imposed and collected pursuant to the provisions of proposed law shall be used by the
+attorney general for consumer protection enforcement efforts or to promote consumer
+protection and education.
+Proposed law provides for severability.
+Proposed law directs the La. State Law Institute to make technical changes.
+Certain proposed law provisions effective upon signature of governor or lapse of time for
+gubernatorial action.
+Certain proposed law provisions effective July 1, 2027.
+(Amends the heading of Chapter 20-A of Title 51 of the Louisiana Revised Statutes of 1950;
+Adds R.S. 51:1771-1775; Repeals Act No. 481 of the 25RS)
+Summary of Amendments Adopted by House
+The Committee Amendments Proposed by House Committee on Commerce to the
+original bill:
+
+Section 2:
+1. Make technical changes.
+
+Section 3:
+2. Add the definition for "pre-loaded application".
+
+Section 4:
+3. Amend for when obtaining verifiable parental consent is required.
+Page 15 of 16
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-1636 ENGROSSED
+HB NO. 977
+
+Section 5:
+4. Add provisions of present law to compliance requirements outlined in proposed
+law.
+
+Section 6:
+5. Amend when a developer shall use the verified age signal from an operating
+system or application store.
+
+Section 7:
+6. Add for what age signal shall be used by a developer.
+
+Section 8:
+7. Change proposed law from a developer shall not share age category data with
+any person and instead provide that a developer shall not sell age category data
+to any person.
+
+Section 9:
+8. Amend proposed law to provide that a covered application store provider is not
+liable for a violation of proposed law if the covered application store
+demonstrates a good faith effort to comply with the requirements of proposed
+law.
+
+Section 10:
+9. Provide that nothing in proposed law shall be construed to require a covered
+application store provider or developer to obtain parental consent for an
+application that meets certain requirements.
+Page 16 of 16
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+[DELETED: 6E A N 4 o t 2 R S r t m u o]
+[DELETED: 6E  " c d m i a a u a t i " d m a s t c g  " d m a d o t s c]
+[DELETED: 6E s  " o s m s t d a o t  I v t b e b a i w t c]
+[DELETED: 6E  I t c a s p h a a r f t d d b o e p a a e s a o s o s]
+[DELETED: 6E]
+[DELETED: 6E  R t S ( t S t p  T p a v d u i  K m t i i t p c]
+[DELETED: 6E  F a m a w v p c h b b a t m t d a a p a  R f t c a s p p a  A d m r p a v d o p]
+[DELETED: 6E u a v d o c a u w t v a  I t p o a a d s o  E a c o t o s a a m u t  K m a i i t p c]
+[DELETED: 6E  F t p o s t a c o a a a s t d t a a c a t c]
+[DELETED: 6E r b t P i a m t i a c O P a w r a c o c o]
+[DELETED: 6E p a w s i a w P ( o t]
+[DELETED: 6E f c p e e o t p cd2nB y e l p f m u o a d a c y e p f l a p a f e]
+[DELETED: 6E)R)I a a t h b p i a d o e t p a i d b t c a s p)A)P)N)P)V)O)N)E)E)E)I]
+[DELETED: 6E)R w a t a)E)E)I)P)R a c a s p t d u i t )A)R]
+[DELETED: 6E)R)R l p t a c a s o d t v t g f c p e e o t p c.M.A.A]
+[DELETED: 6E.A.A.A.C.A f a v o p l i t c a s.P s p o d t o p c f a]
+
+
+================================================================================
+
+Raw Text:
+HLS 26RS-1636 ENGROSSED
+2026 Regular Session
+HOUSE BILL NO. 977
+BY REPRESENTATIVE BEAULLIEU
+COMMERCIAL REGULATIONS: Provides relative to minors' use of applications
+1 AN ACT
+2 To amend and reenact the heading of Chapter 20-A of Title 51 of the Louisiana Revised
+3 Statutes of 1950, to enact Part II of Chapter 20-A of Title 51 of the Louisiana
+4 Revised Statutes of 1950, to be comprised of R.S. 51:1771 through 1775, and to
+5 repeal Act No. 481 of the 2025 Regular Session, relative to minors' use of
+6 applications; to provide for definitions; to provide for application store requirements;
+7 to provide for developer requirements; to provide for protections; to provide for
+8 liability; to provide for applicability; to provide for enforcement; to provide for
+9 penalties; to provide for severability; to provide for an effective date; and to provide
+10 for related matters.
+11 Be it enacted by the Legislature of Louisiana:
+12 Section 1. Act No. 481 of the 2025 Regular Session shall not become effective.
+13 Section 2. The heading of Chapter 20-A of Title 51 of the Louisiana Revised
+14 Statutes of 1950 is hereby amended and reenacted and Part II of Chapter 20-A of Title 51
+15 of the Louisiana Revised Statutes of 1950, comprised of R.S. 51:1771 through 1775, is
+16 hereby enacted to read as follows to read as follows:
+17 CHAPTER 20-A. PROTECTION OF CHILDREN'S INTERNET DATA ONLINE
+18 PROTECTIONS FOR MINORS
+19 PART I. PROTECTION OF CHILDREN'S INTERNET DATA
+20 §1761. Legislative findings
+21 * * *
+Page 1 of 16
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1636 ENGROSSED
+HB NO. 977
+1 PART II. PROTECTION OF CHILDREN ON APPLICATIONS
+2 §1771. Definitions
+3 As used in this Part, the following terms have the following meanings:
+4 (1) "Age category" means one of the following categories of individuals
+5 based on age:
+6 (a) "Child" means an individual who is under thirteen years old.
+7 (b) "Younger teenager" means an individual who is at least thirteen years old
+8 and under sixteen years old.
+9 (c) "Older teenager" means an individual who is at least sixteen years old
+10 and under eighteen years old.
+11 (d) "Adult" means an individual who is at least eighteen years old.
+12 (2) "Age category data" means information about a user's age that is
+13 collected by a covered application store provider and shared with a developer.
+14 (3) "Age rating" means a classification that provides an assessment of the
+15 suitability of an application's content for different age groups.
+16 (4) "Application" means a software program that is designed to run on a
+17 connected device or a mobile device.
+18 (5) "Connected device" means a smartphone, tablet, computer, gaming
+19 console, or virtual reality device that enables users to connect to the internet and
+20 download software applications.
+21 (6) "Content description" means a description of the specific content
+22 elements that informed an application's age rating.
+23 (7) "Covered application store" means a publicly available website, software
+24 application, or electronic service that allows users to download applications from
+25 third-party developers onto a mobile device or connected device.
+26 (8) "Covered application store provider" means a person who owns, operates,
+27 or controls a covered application store that allows users in this state to download
+28 applications.
+Page 2 of 16
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1636 ENGROSSED
+HB NO. 977
+1 (9) "Developer" means a person who owns or controls an application made
+2 available through a covered application store in this state.
+3 (10) "Minor" means an individual who is under the age of eighteen and is not
+4 emancipated or married.
+5 (11) "Minor account" means an account with a covered application store
+6 provider that is established by an individual who the covered application store
+7 provider has determined through its age verification methods is under eighteen years
+8 of age, and is not emancipated or married, and requires affiliation with a parent
+9 account.
+10 (12) "Mobile device" means a phone or general-purpose tablet that does all
+11 of the following:
+12 (a) Provides cellular or wireless connectivity.
+13 (b) Is capable of connecting to the internet.
+14 (c) Runs a mobile operating system.
+15 (d) Is capable of running applications through the mobile operating system.
+16 (13) "Mobile operating system" means software that does all of the
+17 following:
+18 (a) Manages mobile device hardware resources.
+19 (b) Provides common services for mobile device programs.
+20 (c) Controls memory allocation.
+21 (d) Provides interfaces for applications to access device functionality.
+22 (14) "Parent" means, with respect to a minor, individuals who have legal
+23 authority to make decisions on behalf of the minor.
+24 (15) "Parent account" means an account with a covered application store
+25 provider that is both of the following:
+26 (a) Is verified to be established by an individual whom the covered
+27 application store provider has determined is at least eighteen years old through the
+28 covered application store provider's age verification methods.
+29 (b) May be affiliated with one or more minor accounts.
+Page 3 of 16
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1636 ENGROSSED
+HB NO. 977
+1 (16) "Parental consent disclosure" means the following information that a
+2 covered application store provider is required to provide to a parent before obtaining
+3 parental consent:
+4 (a) If the covered application store provider has an age rating for the
+5 application or in-application purchase, the application's or in-application purchase's
+6 age rating.
+7 (b) If the covered application store provider has a content description for the
+8 application or in-application purchase, the application's or in-application's content
+9 description.
+10 (c) A description of:
+11 (i) The personal data collected by an application from a user.
+12 (ii) The personal data shared by the application with a third party.
+13 (d) If personal data is collected by the application, the methods implemented
+14 by the developer to protect the personal data.
+15 (17)(a) "Pre-loaded application" means an application that is present on a
+16 mobile device at the time of purchase, initial activation, or first use of the device by
+17 a consumer.
+18 (b) Pre-loaded application does not include core operating system functions,
+19 essential device drivers, basic-device operations, essential phone applications,
+20 settings applications, emergency services applications, or security or system
+21 maintenance applications essential to device functionality.
+22 (18) "Significant change" means a material modification to an application's
+23 terms of service or privacy policy that:
+24 (a) Changes the categories of data collected, stored, or shared.
+25 (b) Alters the application's age rating or content descriptions.
+26 (c) Adds new monetization features, including in-application purchases and
+27 advertisements.
+28 (d) Materially changes the application's functionality or user experience.
+Page 4 of 16
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1636 ENGROSSED
+HB NO. 977
+1 (19) "Verifiable parental consent" means authorization that is all of the
+2 following:
+3 (a) Is provided to a covered application store by an individual whom a
+4 covered application store provider has verified is an adult.
+5 (b) Is given after the covered application store provider has clearly and
+6 conspicuously provided the parental consent disclosure to the individual.
+7 (c) Requires the parent to make an affirmative choice to grant consent or
+8 decline consent.
+9 §1772. Application stores
+10 A. A covered application store provider shall:
+11 (1) At the time an individual who is located in this state creates an account
+12 with a covered application store provider, do both of the following:
+13 (a) Request age information from the individual.
+14 (b)(i) Verify the individual's age category using commercially available
+15 methods that are reasonably designed to ensure accuracy, including but not limited
+16 to a means of verification provided through the use of a real-time age verification
+17 system authorized by the commissioner of the office of motor vehicles.
+18 (ii) For individuals under eighteen years of age, a method is commercially
+19 available if it includes affirmative age attestation by someone who is reasonably
+20 believed to be the parent or legal guardian, along with other information collected
+21 in the ordinary course of account creation or use.
+22 (2) If the age verification methods or process described in Paragraph (1) of
+23 this Subsection determines the individual to be a minor, the covered application store
+24 provider shall do both of the following:
+25 (a) Require the account to be affiliated with a parent account.
+26 (b)(i) Obtain verifiable parental consent from the holder of the affiliated
+27 parent account before allowing the minor to do any of the following:
+28 (aa) Download an application.
+29 (bb) Purchase an application.
+Page 5 of 16
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1636 ENGROSSED
+HB NO. 977
+1 (cc) Access an application that has been pre-loaded into a device.
+2 (dd) Enable the functionality to make in-application purchases.
+3 (ii) Relative to Subitem (i)(cc) of this Subparagraph, if the pre-loaded
+4 application is developed by the covered application store provider, verifiable parental
+5 consent is not necessary if the pre-loaded application implements default safety
+6 protections for minors, where applicable.
+7 (3) After receiving notice of a significant change from a developer, notify
+8 the user of the significant change, and for a minor account, notify the holder of the
+9 affiliated parent account and obtain renewed verifiable parental consent.
+10 (4) Provide to a developer, in response to a request authorized pursuant to
+11 R.S. 51:1773:
+12 (a) The age category for a user located in this state.
+13 (b) The status of verified parental consent for a minor located in this state.
+14 (5) Notify a developer when a parent revokes parental consent.
+15 (6) Protect personal age verification data by doing all of the following:
+16 (a) Limiting collection and processing to data necessary for:
+17 (i) Verifying a user's age.
+18 (ii) Obtaining parental consent.
+19 (iii) Maintaining compliance records.
+20 (b) Transmitting personal age verification data using industry-standard
+21 encryption protocols that ensure data integrity and data confidentiality.
+22 B. A covered application store provider shall not do any of the following:
+23 (1) Enforce a contract or terms of service against a minor unless a covered
+24 application store provider has obtained verifiable parental consent.
+25 (2) Knowingly misrepresent the information in the parental consent
+26 disclosure.
+27 (3) Share age verification data except between a covered application store
+28 provider and a developer as required by this Part or as required by law.
+Page 6 of 16
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1636 ENGROSSED
+HB NO. 977
+1 §1773. Developer requirements
+2 A. A developer shall do all of the following:
+3 (1) Verify through the covered application store's data sharing methods:
+4 (a) The age category of users located in this state.
+5 (b) For a minor account, whether verifiable parental consent has been
+6 obtained.
+7 (2) Obtain verifiable parental consent from the holder of the affiliated parent
+8 account before allowing the minor to download an application, purchase an
+9 application, create a profile, or make an in-application purchase.
+10 (3) Notify covered application store providers of a significant change to the
+11 application.
+12 (4) Enforce all age-related restrictions.
+13 (5) Enforce any developer-created age-related restrictions.
+14 (6) Ensure compliance with applicable laws and regulations. Any developer
+15 required by R.S. 9:2800.29 or R.S. 51:1751 through 1753 to age-verify users at the
+16 application level shall continue to be responsible for age verification. No provision
+17 in this Part shall be construed to eliminate this responsibility. A developer who is
+18 required by law to conduct age verification at the application level, but to whom R.S.
+19 9:2800.29 or R.S. 51:1751 through 1753 does not apply, may utilize the age signal
+20 from the covered application store to fulfill its age verification obligation.
+21 (7) Implement any developer-created safety-related features or defaults.
+22 (8) Request from the covered application store provider personal age
+23 verification data or parental consent:
+24 (a) At the time a user downloads an application or purchases an application.
+25 (b) When implementing a significant change to the application.
+26 (c) To comply with applicable law.
+27 B. A developer may request personal age verification data or parental
+28 consent:
+Page 7 of 16
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1636 ENGROSSED
+HB NO. 977
+1 (1) No more than once during a twelve-month period to verify the accuracy
+2 of user age verification data or continued account use within the verified age
+3 category.
+4 (2) When there is reasonable suspicion of account transfer or misuse outside
+5 the verified age category.
+6 (3) At the time a user creates a new account with a developer.
+7 C.(1) A developer, other than one required to verify age pursuant to R.S.
+8 9:2800.29 or R.S. 51:1751 through 1753, shall use the verified age signal from an
+9 operating system or application store, pursuant to Paragraph (A)(6) of this Section,
+10 to do all of the following:
+11 (a) Enforce legally required minimum age restrictions.
+12 (b) Ensure compliance with all laws and other obligations.
+13 (c) In the provision of any age-appropriate defaults, safeguards, or
+14 experiences, except as provided in this Section.
+15 (2) If the developer determines that an internal age signal conflicts with the
+16 age signal from a covered application store, the developer may rely on the signal
+17 from the covered application store unless the developer has actual knowledge that
+18 its internal signal is more accurate. If the developer has actual knowledge that its
+19 internal signal is more accurate, such as if the user provided proof of age to the
+20 developer, the developer shall use its internal signal or the lower of the two signals.
+21 D. A developer shall not do any of the following:
+22 (1) Enforce a contract or terms of service against a minor unless the
+23 developer has verified through the covered application store provider that verifiable
+24 parental consent has been obtained.
+25 (2) Knowingly misrepresent any information in the parental consent
+26 disclosure.
+27 (3) Sell age category data to any person.
+Page 8 of 16
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1636 ENGROSSED
+HB NO. 977
+1 §1774. Protections
+2 A.(1) A covered application store provider is not liable for a violation of this
+3 Part if the covered application store provider demonstrates a good faith effort to
+4 comply with the requirements in R.S. 51:1772.
+5 (2) A developer is not liable for a violation of this Part if the developer
+6 demonstrates that the developer complied with the requirements in R.S. 51:1773.
+7 B. For the purposes of setting the age category of an application and
+8 providing content description disclosure to a covered application store provider, a
+9 developer complies with R.S. 51:1773(C) if the developer uses widely adopted
+10 industry standards to determine the application's age category and the content
+11 description disclosures and if the developer applies those standards consistently and
+12 in good faith.
+13 C. The protection described in this Section applies only to actions brought
+14 pursuant to this Part and shall not limit a developer or covered application store
+15 provider's liability under any applicable law.
+16 D. Nothing in this Part shall displace any other available remedies or rights
+17 authorized under the laws of this state or the United States.
+18 E. Nothing in this Part shall be construed to do any of the following:
+19 (1) Prevent a covered application store provider or developer from taking
+20 reasonable measures to do any of the following:
+21 (a) Block, detect, or prevent distribution to minors of unlawful material,
+22 obscene material, or other harmful material.
+23 (b) Block or filter spam.
+24 (c) Prevent criminal activity.
+25 (d) Protect the application store or application security.
+26 (2) Require a covered application store provider to disclose user information
+27 to a developer beyond age category or verification of parental consent status.
+Page 9 of 16
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1636 ENGROSSED
+HB NO. 977
+1 (3) Allow a covered application store provider or developer to implement
+2 measures required by this Part in a manner that is arbitrary, capricious,
+3 anticompetitive, or unlawful.
+4 (4) Require a developer to collect, retain, reidentify, or link any information
+5 beyond any of the following:
+6 (a) What is necessary to verify age categories and parental consent status as
+7 required by this Chapter.
+8 (b) What is collected, retained, reidentified, or linked in the developer's
+9 ordinary course of business.
+10 (5) Relieve a developer of its obligation to conduct age verification as
+11 required by R.S. 9:2800.29 or R.S. 51:1751 through 1753.
+12 (6) Require a covered application store provider or developer to obtain
+13 parental consent for an application that meets all of the following conditions:
+14 (a) Provides direct access to emergency services, including:
+15 (i) 911.
+16 (ii) Crisis hotlines.
+17 (iii) Emergency assistance services legally available to minors.
+18 (b) Limits data collection to information necessary to provide emergency
+19 services in compliance with 15 U.S.C. 6501 et seq., Children's Online Privacy
+20 Protection Act.
+21 (c) Provides access without requiring account creation or collection of
+22 unnecessary personal information.
+23 (d) Is operated by or in partnership with any of the following:
+24 (i) A government entity.
+25 (ii) A nonprofit organization.
+26 (iii) An authorized emergency service provider.
+27 §1775. Enforcement; penalties
+28 A. The attorney general may bring a civil action to enforce any violations of
+29 this Part.
+Page 10 of 16
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1636 ENGROSSED
+HB NO. 977
+1 B. A covered application store or developer that violates the provisions of
+2 this Part shall be subject to a civil fine of up to ten thousand dollars per violation set
+3 by the attorney general.
+4 C.(1) At least forty-five days before the day on which the attorney general
+5 initiates an enforcement action against a person who is subject to the requirements
+6 of this Part, the attorney general shall provide the person with a written notice that
+7 identifies each alleged violation and an explanation of the basis for each allegation.
+8 (2) Except as provided in Paragraph (3) of this Subsection, the attorney
+9 general shall not initiate an action if the person cures the notice violation within
+10 forty-five days after the date on which the person receives the notice by providing
+11 the attorney general with a written statement indicating that the violation is cured and
+12 no further violations will occur.
+13 (3) The attorney general may initiate a civil action against a person who does
+14 either of the following:
+15 (a) Fails to cure a violation after receiving the written notice described in
+16 Paragraph (1) of this Subsection.
+17 (b) Commits another violation of the same provision after curing a violation
+18 and providing a written statement in accordance with Paragraph (2) of this
+19 Subsection.
+20 (4) If a court of competent jurisdiction grants judgment or injunctive relief
+21 to the attorney general, the court shall award the attorney general reasonable attorney
+22 fees, court costs, and investigative costs.
+23 (5) A person who violates an administrative order or court order issued for
+24 a violation of this Part shall be subject to a civil penalty of not more than five
+25 thousand dollars for each violation set by the attorney general. A civil penalty in
+26 accordance with this Section may be imposed in any civil action brought by the
+27 attorney general.
+28 (6) All monies received from the payment of a fine or civil penalty imposed
+29 and collected pursuant to the provisions of this Section shall be used by the attorney
+Page 11 of 16
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1636 ENGROSSED
+HB NO. 977
+1 general for consumer protection enforcement efforts or to promote consumer
+2 protection and education.
+3 Section 3. If any provision of this Act or the application thereof is held invalid, such
+4 invalidity shall not affect other provisions or applications of this Act which can be given
+5 effect without the invalid provisions or applications, and to this end the provisions of this
+6 Act are hereby declared severable.
+7 Section 4. The Louisiana State Law Institute is authorized and directed to amend
+8 R.S. 51:1761 through 1763 to change every reference from "Chapter" to "Part".
+9 Section 5. Section 1 and this Section of this Act shall become effective upon
+10 signature by the governor or, if not signed by the governor, upon expiration of the time for
+11 bills to become law without signature by the governor, as provided by Article III, Section
+12 18 of the Constitution of Louisiana. If vetoed by the governor and subsequently approved
+13 by the legislature, this Act shall become effective on the day following such approval.
+14 Section 6. Sections 2, 3, 4 and this Section of this Act shall become effective on July
+15 1, 2027.
+DIGEST
+The digest printed below was prepared by House Legislative Services. It constitutes no part
+of the legislative instrument. The keyword, one-liner, abstract, and digest do not constitute
+part of the law or proof or indicia of legislative intent. [R.S. 1:13(B) and 24:177(E)]
+HB 977 Engrossed 2026 Regular Session Beaullieu
+Abstract: Provides relative to minors' use of applications.
+Proposed law repeals Act No. 481 of the 2025 Regular Session.
+Not yet effective law provides for minors' use of applications, definitions, a covered
+application store provider's responsibilities and a developer's responsibilities.
+Not yet effective law provides for liabilities and protections and for enforcement and
+penalties.
+Proposed law repeals not yet effective law.
+Proposed law provides relative to application stores and developers in regards to minors.
+Proposed law changes present law to amend the title of proposed law.
+Proposed law defines "age category", "child", "younger teenager", "older teenager", "adult",
+"age category data", "age rating", "application", "connected device", "content description",
+"covered application store", "covered application store provider", "developer", "minor",
+Page 12 of 16
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1636 ENGROSSED
+HB NO. 977
+"minor account", "mobile device", "mobile operating system", "parent", "parent account",
+"parental consent disclosure", "pre-loaded application", "significant change", and "verifiable
+parental consent".
+Proposed law requires a covered application store provider to do the following:
+(1) Request age information from an individual and verify the individual's age category
+at the time an individual, who is located in the state, creates an account.
+(2) If the age verification methods or process described in proposed law determines the
+individual to be a minor, require the account to be affiliated with a parent account
+and obtain verifiable parental consent from the holder of the affiliated parent account
+before allowing the minor to download an application, purchase an application,
+access an application that has been pre-loaded into a device, or enable the
+functionality make an in-application purchase. Relative to proposed law, if the
+pre-loaded application is developed by the covered application store provider,
+verifiable parental consent is not necessary if the pre-loaded application implements
+default safety protections for minors, where applicable.
+(3) After receiving notice of a significant change from a developer, notify the user of the
+significant change and, for a minor account, notify the holder of the affiliated parent
+account, and obtain renewed verifiable parental consent.
+(4) Provide information to a developer in response to a request authorized by proposed
+law.
+(5) Notify a developer when a parent revokes parental consent.
+(6) Protect personal age verification data by limiting collection and processing of certain
+data and by transmitting personal age verification data using certain protocols.
+Proposed law provides for what a covered application store provider shall not do.
+Proposed law provides that a developer shall:
+(1) Verify through the covered application store's data sharing methods the age category
+of users located in this state, and for a minor account, whether verifiable parental
+consent has been obtained.
+(2) Obtain verifiable parental consent from the holder of the affiliated parent account
+before allowing the minor to download an application, purchase an application,
+create a profile, or make an in-application purchase.
+(3) Notify covered application store providers of a significant change to the application.
+(4) Enforce all age-related restrictions.
+(5) Enforce any developer-created age-related restrictions.
+(6) Ensure compliance with applicable laws and regulations. Any developer required
+by proposed law to age-verify users at the application level shall continue to be
+responsible for age verification. No provision in proposed law shall be construed to
+remove this responsibility. A developer who is required by law to conduct age
+verification at the application level, but to whom present law does not apply, may
+utilize the age signal from the covered application store to fulfill its age verification
+obligation.
+(7) Implement any developer-created safety-related features or defaults.
+Page 13 of 16
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1636 ENGROSSED
+HB NO. 977
+(8) Request from the covered application store provider personal age verification data
+or parental consent at the time a user downloads an application or purchases an
+application, when implementing a significant change to the application, and to
+comply with applicable law.
+Proposed law provides for when a developer may request personal age verification data or
+parental consent.
+Proposed law provides that a developer, other than one required to verify age pursuant to
+present law, shall use the verified age signal from an operating system or application store,
+pursuant to proposed law, to do all of the following:
+(1) Enforce legally required minimum age restrictions.
+(2) Ensure compliance with all laws and other obligations.
+(3) In the provision of any age-appropriate defaults, safeguards, or experiences, except
+as provided present law.
+Proposed law provides that if the developer determines that an internal age signal conflicts
+with the age signal from a covered application store, the developer may rely on the signal
+from the covered application store unless the developer has actual knowledge that its internal
+signal is more accurate. If the developer has actual knowledge that its internal signal is more
+accurate, such as if the user provided proof of age to the developer, the developer shall use
+its internal signal or the lower of the two signals.
+Proposed law provides for what a developer shall not do.
+Proposed law provides for when a covered application store provider is not liable for a
+violation of proposed law.
+Proposed law provides for when a developer is not liable for a violation of proposed law.
+Proposed law provides that for the purposes of setting the age category of an application and
+providing content description disclosure to a covered application store provider, a developer
+complies with proposed law if the developer uses widely adopted industry standards to
+determine the application's age category and the content description disclosures and the
+developer applies those standards consistently and in good faith.
+Proposed law provides for applicability of the protection described in proposed law.
+Proposed law provides that nothing in proposed law shall displace any other available
+remedies or rights authorized under the laws of this state or the United States.
+Proposed law shall not be construed to do any of the following:
+(1) Prevent a covered application store provider or developer from taking certain actions.
+(2) Require a covered application store provider to disclose user information to a
+developer beyond age category or verification of parental consent status.
+(3) Allow a covered application store provider or developer to implement measures
+required by proposed law in a manner that is arbitrary, capricious, anticompetitive,
+or unlawful.
+(4) Require a developer to collect, retain, reidentify, or link any information beyond
+what is necessary to verify age categories and parental consent status as required by
+Page 14 of 16
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1636 ENGROSSED
+HB NO. 977
+proposed law or what is collected, retained, reidentified, or linked in the developer's
+ordinary course of business.
+(5) Relieve a developer of its obligation to conduct age verification as required by
+present law.
+(6) Require a covered application store provider or developer to obtain parental consent
+for an application that meets certain requirements.
+Proposed law provides that the attorney general may bring a civil action to enforce any
+violation of proposed law.
+Proposed law provides that a covered application store or developer that violates the
+provisions of proposed law shall be subject to a civil fine of up to $10,000 per violation set
+by the attorney general.
+Proposed law requires the attorney general to give notice to any violators.
+Proposed law provides for when the attorney general may initiate a civil action against a
+person who fails to cure a violation.
+Proposed law provides relative to reasonable attorney fees, court costs, and investigative
+costs.
+Proposed law requires a person who violates an administrative order or court order issued
+for a violation of proposed law to pay a civil penalty of not more than $5,000 per violation
+set by the attorney general. Further provides that a civil penalty may be imposed in any civil
+action brought by the attorney general under proposed law.
+Proposed law provides that monies received from the payment of a fine or civil penalty
+imposed and collected pursuant to the provisions of proposed law shall be used by the
+attorney general for consumer protection enforcement efforts or to promote consumer
+protection and education.
+Proposed law provides for severability.
+Proposed law directs the La. State Law Institute to make technical changes.
+Certain proposed law provisions effective upon signature of governor or lapse of time for
+gubernatorial action.
+Certain proposed law provisions effective July 1, 2027.
+(Amends the heading of Chapter 20-A of Title 51 of the Louisiana Revised Statutes of 1950;
+Adds R.S. 51:1771-1775; Repeals Act No. 481 of the 25RS)
+Summary of Amendments Adopted by House
+The Committee Amendments Proposed by House Committee on Commerce to the
+original bill:
+1. Make technical changes.
+2. Add the definition for "pre-loaded application".
+3. Amend for when obtaining verifiable parental consent is required.
+Page 15 of 16
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1636 ENGROSSED
+HB NO. 977
+4. Add provisions of present law to compliance requirements outlined in proposed
+law.
+5. Amend when a developer shall use the verified age signal from an operating
+system or application store.
+6. Add for what age signal shall be used by a developer.
+7. Change proposed law from a developer shall not share age category data with
+any person and instead provide that a developer shall not sell age category data
+to any person.
+8. Amend proposed law to provide that a covered application store provider is not
+liable for a violation of proposed law if the covered application store
+demonstrates a good faith effort to comply with the requirements of proposed
+law.
+9. Provide that nothing in proposed law shall be construed to require a covered
+application store provider or developer to obtain parental consent for an
+application that meets certain requirements.
+Page 16 of 16
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+[DELETED: 6E A N 4 o t 2 R S r t m u o]
+[DELETED: 6E  " c d m i a a u a t i " d m a s t c g  " d m a d o t s c]
+[DELETED: 6E s  " o s m s t d a o t  I v t b e b a i w t c]
+[DELETED: 6E  I t c a s p h a a r f t d d b o e p a a e s a o s o s]
+[DELETED: 6E]
+[DELETED: 6E  R t S ( t S t p  T p a v d u i  K m t i i t p c]
+[DELETED: 6E  F a m a w v p c h b b a t m t d a a p a  R f t c a s p p a  A d m r p a v d o p]
+[DELETED: 6E u a v d o c a u w t v a  I t p o a a d s o  E a c o t o s a a m u t  K m a i i t p c]
+[DELETED: 6E  F t p o s t a c o a a a s t d t a a c a t c]
+[DELETED: 6E r b t P i a m t i a c O P a w r a c o c o]
+[DELETED: 6E p a w s i a w P ( o t]
+[DELETED: 6E f c p e e o t p cd2nB y e l p f m u o a d a c y e p f l a p a f e]
+[DELETED: 6E)R)I a a t h b p i a d o e t p a i d b t c a s p)A)P)N)P)V)O)N)E)E)E)I]
+[DELETED: 6E)R w a t a)E)E)I)P)R a c a s p t d u i t )A)R]
+[DELETED: 6E)R)R l p t a c a s o d t v t g f c p e e o t p c.M.A.A]
+[DELETED: 6E.A.A.A.C.A f a v o p l i t c a s.P s p o d t o p c f a]

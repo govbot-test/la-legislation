@@ -1,0 +1,608 @@
+Title: HOUSE BILL NO. 750
+Official Title: HOUSE BILL NO. 750
+Number of Sections: 11
+Source: versions - HB750 Engrossed
+Media Type: application/pdf
+Strikethrough Detection: 8 sections found
+
+================================================================================
+
+Section 1:
+HLS 26RS-639 ENGROSSED
+2026 Regular Session
+BY REPRESENTATIVE COX AND SENATOR DUPLESSIS
+CONSUMERS/PROTECTION: Provides for easy cancellation of automatic renewal
+subscriptions
+1 AN ACT
+2 To enact Chapter 70 of Title 51 of the Louisiana Revised Statutes of 1950, to be comprised
+3 of R.S. 51:3301 through 3304, relative to automatic renewal contracts; to provide
+4 definitions; to provide for required disclosures; to establish cancellation mechanism
+5 requirements; to provide for certain required renewal notifications; to provide for
+6 recordkeeping; to provide for exemptions; to provide for violations and penalties; to
+7 provide a period within which to cure a violation without penalty; and to provide for
+8 related matters.
+9 Be it enacted by the Legislature of Louisiana:
+10 Section 1. Chapter 70 of Title 51 of the Louisiana Revised Statutes of 1950,
+11 comprised of R.S. 51:3301 through 3304, is hereby enacted to read as follows:
+12 CHAPTER 70. CLICK-TO-CANCEL ACT
+13 §3301. Short title
+14 This Chapter shall be known and may be cited as the "Click-to-Cancel Act".
+15 §3302. Definitions
+16 In this Chapter, unless the context clearly indicates otherwise, the following
+17 terms have the following definitions:
+18 (1) "Automatic renewal contract" means a plan or arrangement in which a
+19 paid subscription or purchasing agreement for goods or services is automatically
+Page 1 of 8
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-639 ENGROSSED
+HB NO. 750
+1 renewed at the end of a definite term for a subsequent term or on a continuous or
+2 recurring basis.
+3 (2) "Automatic renewal offer terms" or "continuous service renewal offer
+4 terms" means clear and conspicuous disclosures of all of the following:
+5 (a) That the contract will automatically renew or extend following the initial
+6 period for a set term not to exceed one year unless the consumer provides express
+7 written consent to a longer renewal term.
+8 (b) The cancellation policy that applies to the offer.
+9 (c) Any recurring charges to the consumer's method of payment under the
+10 automatic renewal contract.
+11 (d) The length of an automatic renewal term.
+12 (e) Any minimum purchase obligation.
+13 (3)(a) "Clear and conspicuous" or "clearly and conspicuously" means all of
+14 the following:
+15 (i) For a text disclosure, presented in larger type than the surrounding text;
+16 in contrasting type, font, or color to the surrounding text of the same size; or set off
+17 from the surrounding text by symbols or other marks that clearly call attention to the
+18 language.
+19 (ii) For an audio disclosure, presented in a volume and cadence sufficient to
+20 be readily audible and understandable.
+21 (b) The term excludes disclosures requiring additional action to view, such
+22 as clicking a hyperlink or hovering over an icon, or disclosures containing
+23 information that interferes with, detracts from, or contradicts the negative option
+24 features and other material terms of the offer.
+25 (4) "Consumer" means a person who purchases or attempts to purchase
+26 merchandise, for personal, family, or household purposes.
+27 (5) "Merchandise" means any objects, wares, goods, commodities,
+28 intangibles, real estate, or services.
+Page 2 of 8
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-639 ENGROSSED
+HB NO. 750
+1 (6) "Person" means a natural person or that natural person's legal
+2 representative, or a juridical person or an agent or mandatary of that juridical person.
+3 (7) "Trial period" means a period of time during which a consumer may
+4 sample a product or service for free or at a discounted price as an inducement for the
+5 consumer to purchase that product or service or a similar product or service.
+6 §3303. Automatic renewal contracts; requirements; prohibitions
+7 A. A person who conducts business in this state shall not offer an automatic
+8 renewal contract to a consumer in this state if that person does any of the following:
+9 (1) Fails to present the automatic renewal offer terms or continuous service
+10 offer terms clearly and conspicuously before the subscription or purchasing
+11 agreement is fulfilled and in visual proximity to the request for acceptance of the
+12 offer, or, if the offer is conveyed by voice, in temporal proximity to the request for
+13 acceptance. If the offer includes a free or discounted trial period offer, the person
+14 shall clearly and conspicuously explain the price that will be charged after the trial
+15 period ends or the manner in which the pricing will change upon conclusion of the
+16 trial period.
+17 (2) Charges the consumer's method of payment for an automatic renewal or
+18 continuous service without first obtaining the consumer's affirmative consent to an
+19 agreement that clearly and conspicuously displays the automatic renewal offer terms
+20 or continuous service offer terms, including the terms of an automatic renewal offer
+21 or continuous service offer that is made at a promotional or discounted price for a
+22 limited period of time.
+23 (3) Fails to provide the consumer with an acknowledgment that includes the
+24 automatic renewal offer terms or continuous service offer terms, cancellation policy,
+25 and cancellation instructions in a manner capable of being retained by the consumer.
+26 If the automatic renewal offer or continuous service offer includes a discount, free
+27 gift, or trial period, the person shall also disclose in the acknowledgment how to
+28 cancel, and shall allow the consumer to cancel, the automatic renewal or continuous
+29 service before the consumer is charged for the goods or services.
+Page 3 of 8
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-639 ENGROSSED
+HB NO. 750
+1 (4) Fails to obtain the consumer's express affirmative acceptance of the
+2 automatic renewal or continuous service offer terms.
+3 (5) Includes any information that interferes with, detracts from, contradicts,
+4 or otherwise undermines the consumer's ability to provide express affirmative
+5 acceptance to the automatic renewal or continuous service offer.
+6 (6) Fails to maintain reasonable business records sufficient to demonstrate
+7 the consumer's affirmative consent for a period of not less than one year from the
+8 date of acceptance or termination of the contract, whichever is later.
+9 (7) Fails to provide the consumer, before confirming the consumer's billing
+10 information and as may be required by Subsection B of this Section, a clear and
+11 conspicuous notice stating all of the following:
+12 (a) The automatic renewal or continuous service will automatically renew
+13 unless the consumer cancels.
+14 (b) The length and any additional terms of the renewal period.
+15 (c) The amount or range of costs the consumer will be charged and the
+16 frequency of those charges unless the consumer takes timely steps to prevent or stop
+17 those charges.
+18 (d) All methods for the consumer to cancel the automatic renewal or
+19 continuous service.
+20 (e) If the notice is sent electronically, a link directing the consumer to the
+21 cancellation process, or another reasonably accessible electronic method if no link
+22 exists.
+23 (f) Contact information for the person offering the automatic renewal
+24 contract.
+25 (8) Fails to provide a reasonable, readily accessible mechanism for the
+26 consumer to cancel the automatic renewal contract or trial period offer, avoid
+27 charges or increased charges for the good or service, and stop any recurring charges.
+28 The cancellation mechanism shall not be unreasonably burdensome or designed to
+Page 4 of 8
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-639 ENGROSSED
+HB NO. 750
+1 deter cancellation. The mechanism shall provide for cancellation online, or by email,
+2 telephone, or another commonly used communication method.
+3 B. If a material change occurs in the terms of an automatic renewal contract
+4 accepted by a consumer in this state, the person who offered the contract shall
+5 provide the consumer with a clear and conspicuous notice of the material change and
+6 information on how to cancel the contract, including information on the simple
+7 mechanism described in Paragraph (A)(8) of this Section, in a manner capable of
+8 being retained by the consumer.
+9 C. A person who offers an automatic renewal contract to a consumer shall
+10 notify the consumer that the contract will automatically renew or continue unless the
+11 consumer cancels the contract. The notice shall inform the consumer of the process
+12 for canceling the automatic renewal contract, provide clear and accurate information
+13 about the identity of the sender, and be consistent with Paragraph (A)(4) of this
+14 Section. The person shall provide the notice by any of the following methods:
+15 (1) Postal mail.
+16 (2) Electronic mail.
+17 (3) Another easily accessible form of communication, such as a text message
+18 or a mobile phone application notification, if the consumer specifically authorizes
+19 the person to provide notice in that form or if the consumer customarily uses that
+20 form to communicate with the person.
+21 D.(1) A person selling a good or service by an automatic renewal contract
+22 shall provide notice to the consumer prior to renewal in any of the following
+23 circumstances:
+24 (a) The renewal term is twelve months or longer.
+25 (b) There is a material change in the contract terms, including a price
+26 increase.
+27 (c) The contract converts from a trial period to a paid subscription.
+Page 5 of 8
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-639 ENGROSSED
+HB NO. 750
+1 (2) Notice given pursuant to Paragraph (1) of this Subsection shall be
+2 provided at least fifteen days prior to the renewal or conversion and shall include all
+3 of the following:
+4 (a) The renewal terms.
+5 (b) The amount to be charged.
+6 (c) Instructions on how to cancel.
+7 E.(1) Prior to the initiation of any enforcement action or assessment of civil
+8 penalties pursuant to this Chapter, a person shall be provided written notice of the
+9 alleged violation and shall have thirty days to cure that violation.
+10 (2) If the person cures the violation within the thirty-day period and provides
+11 written confirmation of that cure, no civil penalty shall be imposed for that violation.
+12 (3) This Subsection does not apply to willful or repeated violations.
+13 F. This Section does not apply to all of the following:
+14 (1) The Louisiana Rental-Purchase Agreement Act as provided in R.S.
+15 9:3351 through 3362.
+16 (2) A bank, trust company, savings and loan association, savings bank, credit
+17 union, finance or credit company, industrial loan company, or any foreign bank
+18 maintaining a branch or agency licensed under the laws of the United States, or any
+19 subsidiary or affiliate of these.
+20 (3) An insurer licensed under Title 22 of the Louisiana Revised Statutes of
+21 1950.
+22 (4) A contract entered into before January 1, 2011.
+23 (5) A person with fewer than fifty employees or with annual gross revenue
+24 of less than five million dollars is exempt from the notice requirements of Subsection
+25 D of this Section if that person complies with the disclosure, consent, and
+26 cancellation provisions of this Chapter.
+27 G. A person that demonstrates a good faith effort to comply with the
+28 provisions of this Chapter and maintains reasonable compliance procedures shall not
+Page 6 of 8
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-639 ENGROSSED
+HB NO. 750
+1 be liable for technical or inadvertent violations that do not result in material harm to
+2 the consumer.
+3 §3304. Violations; penalties; unfair acts or practices
+4 A. A person who violates the provisions of this Chapter shall make
+5 restitution to the affected consumer for any actual financial harm directly resulting
+6 from the violation. Any private right of action shall be limited to recovery of actual
+7 damages. Attorney fees may be awarded only upon a finding of willful violation.
+8 B. A person who violates the provisions of this Chapter shall be subject to
+9 a civil penalty set by the attorney general of no more than five hundred dollars per
+10 violation.
+11 C. A violation of this Chapter shall be a deceptive and unfair trade practice
+12 and shall subject the violator to actions and penalties provided in the Unfair Trade
+13 Practices and Consumer Protection Law, R.S. 51:1401 et seq.
+DIGEST
+The digest printed below was prepared by House Legislative Services. It constitutes no part
+of the legislative instrument. The keyword, one-liner, abstract, and digest do not constitute
+part of the law or proof or indicia of legislative intent. [R.S. 1:13(B) and 24:177(E)]
+HB 750 Engrossed 2026 Regular Session Cox
+Abstract: Provides for simple cancellation of automatic renewals.
+Proposed law defines "automatic renewal contract", "automatic renewal offer terms",
+"continuous service renewal offer terms", "clear and conspicuous", "clearly and
+conspicuously", "consumer", "merchandise", "person", and "trial period".
+Proposed law provides that an automatic renewal contract offered to a consumer in this state
+must clearly and conspicuously disclose the automatic renewal offer terms, cancellation
+policy, and cancellation instructions to the consumer and obtain that consumer's affirmative
+acceptance before the consumer can be charged.
+Proposed law prohibits the inclusion of any information that interferes with or detracts from
+the consumer's ability to provide affirmative acceptance.
+Proposed law requires that business records sufficient to demonstrate the consumer's
+affirmative acceptance of the terms be maintained for a period of not less than one year from
+the date of acceptance or date of termination of the contract, whichever is later.
+Proposed law provides that the cancellation mechanism for an automatic renewal contract
+be at least as easy to use as the mechanism used to accept the automatic renewal offer terms.
+Proposed law provides that consumers must be promptly notified of material changes in the
+automatic renewal contract or any upcoming automatic renewal payments if the renewal
+Page 7 of 8
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-639 ENGROSSED
+HB NO. 750
+term is 12 months or longer, if there is a material change in contract terms, or if the contract
+converts from a trial period to a paid subscription.
+Proposed law provides for a 30-day period within which a person who violates proposed law
+may cure that violation without penalty.
+Proposed law provides for exemptions.
+Proposed law provides for penalties for violations of proposed law.
+(Adds R.S. 51:3301-3304)
+Summary of Amendments Adopted by House
+The Committee Amendments Proposed by House Committee on Commerce to the
+original bill:
+
+Section 2:
+1. Make technical changes.
+
+Section 3:
+2. Change the definition of "consumer" from a person who purchases or attempts
+to purchase merchandise to a person who purchases or attempts to purchase
+merchandise, for personal, family, or household purposes.
+
+Section 4:
+3. Reduce the time period that records of the consumer's affirmative consent must
+be kept from the date of acceptance or termination of the contract, from 3 years
+to 1 year.
+
+Section 5:
+4. Change the required cancellation mechanism from the same medium used to
+accept the automatic renewal contract to one that is reasonable, readily
+accessible, not unreasonably burdensome, or designed to deter cancellation.
+
+Section 6:
+5. Change the requirement to notify the consumer of an upcoming automatic
+renewal from each automatic renewal to only renewal terms of 12 months or
+longer, or when there is a material change in contract terms, or a conversion from
+trial period to paid subscription.
+
+Section 7:
+6. Require notice of an upcoming automatic renewal to include renewal terms,
+amount to be charged, and instructions on how to cancel.
+
+Section 8:
+7. Provide a 30-day period within which a person in violation of proposed law may
+cure that violation without penalty.
+
+Section 9:
+8. Exempt a person with fewer than 50 employees or with an annual gross revenue
+of less than $5 million from the notice requirements of proposed law if that
+person complies with disclosure, consent, and cancellation requirements.
+
+Section 10:
+9. Provide that a person who demonstrates a good faith effort to comply with the
+provisions of proposed law shall not be held liable for technical or inadvertent
+violations.
+
+Section 11:
+10. Change the possible penalty for a violation from financial damages, court costs,
+and attorney fees to actual damages only and attorney fees only for willful
+violations.
+Page 8 of 8
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+[DELETED: 9E  P f e c o a r 1 C 7 o T 5 o t L R S o 1]
+[DELETED: 9E c a h o h o a i o d c  " m a o w g c]
+[DELETED: 9E  " m a n p o t n p l t c a c b t s o p]
+[DELETED: 9E o u t c a t p e a  A m f t c t c t a r o  C i f t p o t a r t c t a r c o t p o a]
+[DELETED: 9E p n t t c p t r i a o t f c]
+[DELETED: 9E p P t S s b o t S i t p c w t d c a  A p t d a g f e t c w t]
+[DELETED: 9E  A p w v t p o t C s md2nC l d " r c " r o t s r o t " a c " a l r t b r s t d t c]
+[DELETED: 9E.M.C.R.C t a r c t o t i r r.C t r t n t c o a u a.R.P.E.P.C f w]
+
+
+================================================================================
+
+Raw Text:
+HLS 26RS-639 ENGROSSED
+2026 Regular Session
+HOUSE BILL NO. 750
+BY REPRESENTATIVE COX AND SENATOR DUPLESSIS
+CONSUMERS/PROTECTION: Provides for easy cancellation of automatic renewal
+subscriptions
+1 AN ACT
+2 To enact Chapter 70 of Title 51 of the Louisiana Revised Statutes of 1950, to be comprised
+3 of R.S. 51:3301 through 3304, relative to automatic renewal contracts; to provide
+4 definitions; to provide for required disclosures; to establish cancellation mechanism
+5 requirements; to provide for certain required renewal notifications; to provide for
+6 recordkeeping; to provide for exemptions; to provide for violations and penalties; to
+7 provide a period within which to cure a violation without penalty; and to provide for
+8 related matters.
+9 Be it enacted by the Legislature of Louisiana:
+10 Section 1. Chapter 70 of Title 51 of the Louisiana Revised Statutes of 1950,
+11 comprised of R.S. 51:3301 through 3304, is hereby enacted to read as follows:
+12 CHAPTER 70. CLICK-TO-CANCEL ACT
+13 §3301. Short title
+14 This Chapter shall be known and may be cited as the "Click-to-Cancel Act".
+15 §3302. Definitions
+16 In this Chapter, unless the context clearly indicates otherwise, the following
+17 terms have the following definitions:
+18 (1) "Automatic renewal contract" means a plan or arrangement in which a
+19 paid subscription or purchasing agreement for goods or services is automatically
+Page 1 of 8
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-639 ENGROSSED
+HB NO. 750
+1 renewed at the end of a definite term for a subsequent term or on a continuous or
+2 recurring basis.
+3 (2) "Automatic renewal offer terms" or "continuous service renewal offer
+4 terms" means clear and conspicuous disclosures of all of the following:
+5 (a) That the contract will automatically renew or extend following the initial
+6 period for a set term not to exceed one year unless the consumer provides express
+7 written consent to a longer renewal term.
+8 (b) The cancellation policy that applies to the offer.
+9 (c) Any recurring charges to the consumer's method of payment under the
+10 automatic renewal contract.
+11 (d) The length of an automatic renewal term.
+12 (e) Any minimum purchase obligation.
+13 (3)(a) "Clear and conspicuous" or "clearly and conspicuously" means all of
+14 the following:
+15 (i) For a text disclosure, presented in larger type than the surrounding text;
+16 in contrasting type, font, or color to the surrounding text of the same size; or set off
+17 from the surrounding text by symbols or other marks that clearly call attention to the
+18 language.
+19 (ii) For an audio disclosure, presented in a volume and cadence sufficient to
+20 be readily audible and understandable.
+21 (b) The term excludes disclosures requiring additional action to view, such
+22 as clicking a hyperlink or hovering over an icon, or disclosures containing
+23 information that interferes with, detracts from, or contradicts the negative option
+24 features and other material terms of the offer.
+25 (4) "Consumer" means a person who purchases or attempts to purchase
+26 merchandise, for personal, family, or household purposes.
+27 (5) "Merchandise" means any objects, wares, goods, commodities,
+28 intangibles, real estate, or services.
+Page 2 of 8
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-639 ENGROSSED
+HB NO. 750
+1 (6) "Person" means a natural person or that natural person's legal
+2 representative, or a juridical person or an agent or mandatary of that juridical person.
+3 (7) "Trial period" means a period of time during which a consumer may
+4 sample a product or service for free or at a discounted price as an inducement for the
+5 consumer to purchase that product or service or a similar product or service.
+6 §3303. Automatic renewal contracts; requirements; prohibitions
+7 A. A person who conducts business in this state shall not offer an automatic
+8 renewal contract to a consumer in this state if that person does any of the following:
+9 (1) Fails to present the automatic renewal offer terms or continuous service
+10 offer terms clearly and conspicuously before the subscription or purchasing
+11 agreement is fulfilled and in visual proximity to the request for acceptance of the
+12 offer, or, if the offer is conveyed by voice, in temporal proximity to the request for
+13 acceptance. If the offer includes a free or discounted trial period offer, the person
+14 shall clearly and conspicuously explain the price that will be charged after the trial
+15 period ends or the manner in which the pricing will change upon conclusion of the
+16 trial period.
+17 (2) Charges the consumer's method of payment for an automatic renewal or
+18 continuous service without first obtaining the consumer's affirmative consent to an
+19 agreement that clearly and conspicuously displays the automatic renewal offer terms
+20 or continuous service offer terms, including the terms of an automatic renewal offer
+21 or continuous service offer that is made at a promotional or discounted price for a
+22 limited period of time.
+23 (3) Fails to provide the consumer with an acknowledgment that includes the
+24 automatic renewal offer terms or continuous service offer terms, cancellation policy,
+25 and cancellation instructions in a manner capable of being retained by the consumer.
+26 If the automatic renewal offer or continuous service offer includes a discount, free
+27 gift, or trial period, the person shall also disclose in the acknowledgment how to
+28 cancel, and shall allow the consumer to cancel, the automatic renewal or continuous
+29 service before the consumer is charged for the goods or services.
+Page 3 of 8
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-639 ENGROSSED
+HB NO. 750
+1 (4) Fails to obtain the consumer's express affirmative acceptance of the
+2 automatic renewal or continuous service offer terms.
+3 (5) Includes any information that interferes with, detracts from, contradicts,
+4 or otherwise undermines the consumer's ability to provide express affirmative
+5 acceptance to the automatic renewal or continuous service offer.
+6 (6) Fails to maintain reasonable business records sufficient to demonstrate
+7 the consumer's affirmative consent for a period of not less than one year from the
+8 date of acceptance or termination of the contract, whichever is later.
+9 (7) Fails to provide the consumer, before confirming the consumer's billing
+10 information and as may be required by Subsection B of this Section, a clear and
+11 conspicuous notice stating all of the following:
+12 (a) The automatic renewal or continuous service will automatically renew
+13 unless the consumer cancels.
+14 (b) The length and any additional terms of the renewal period.
+15 (c) The amount or range of costs the consumer will be charged and the
+16 frequency of those charges unless the consumer takes timely steps to prevent or stop
+17 those charges.
+18 (d) All methods for the consumer to cancel the automatic renewal or
+19 continuous service.
+20 (e) If the notice is sent electronically, a link directing the consumer to the
+21 cancellation process, or another reasonably accessible electronic method if no link
+22 exists.
+23 (f) Contact information for the person offering the automatic renewal
+24 contract.
+25 (8) Fails to provide a reasonable, readily accessible mechanism for the
+26 consumer to cancel the automatic renewal contract or trial period offer, avoid
+27 charges or increased charges for the good or service, and stop any recurring charges.
+28 The cancellation mechanism shall not be unreasonably burdensome or designed to
+Page 4 of 8
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-639 ENGROSSED
+HB NO. 750
+1 deter cancellation. The mechanism shall provide for cancellation online, or by email,
+2 telephone, or another commonly used communication method.
+3 B. If a material change occurs in the terms of an automatic renewal contract
+4 accepted by a consumer in this state, the person who offered the contract shall
+5 provide the consumer with a clear and conspicuous notice of the material change and
+6 information on how to cancel the contract, including information on the simple
+7 mechanism described in Paragraph (A)(8) of this Section, in a manner capable of
+8 being retained by the consumer.
+9 C. A person who offers an automatic renewal contract to a consumer shall
+10 notify the consumer that the contract will automatically renew or continue unless the
+11 consumer cancels the contract. The notice shall inform the consumer of the process
+12 for canceling the automatic renewal contract, provide clear and accurate information
+13 about the identity of the sender, and be consistent with Paragraph (A)(4) of this
+14 Section. The person shall provide the notice by any of the following methods:
+15 (1) Postal mail.
+16 (2) Electronic mail.
+17 (3) Another easily accessible form of communication, such as a text message
+18 or a mobile phone application notification, if the consumer specifically authorizes
+19 the person to provide notice in that form or if the consumer customarily uses that
+20 form to communicate with the person.
+21 D.(1) A person selling a good or service by an automatic renewal contract
+22 shall provide notice to the consumer prior to renewal in any of the following
+23 circumstances:
+24 (a) The renewal term is twelve months or longer.
+25 (b) There is a material change in the contract terms, including a price
+26 increase.
+27 (c) The contract converts from a trial period to a paid subscription.
+Page 5 of 8
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-639 ENGROSSED
+HB NO. 750
+1 (2) Notice given pursuant to Paragraph (1) of this Subsection shall be
+2 provided at least fifteen days prior to the renewal or conversion and shall include all
+3 of the following:
+4 (a) The renewal terms.
+5 (b) The amount to be charged.
+6 (c) Instructions on how to cancel.
+7 E.(1) Prior to the initiation of any enforcement action or assessment of civil
+8 penalties pursuant to this Chapter, a person shall be provided written notice of the
+9 alleged violation and shall have thirty days to cure that violation.
+10 (2) If the person cures the violation within the thirty-day period and provides
+11 written confirmation of that cure, no civil penalty shall be imposed for that violation.
+12 (3) This Subsection does not apply to willful or repeated violations.
+13 F. This Section does not apply to all of the following:
+14 (1) The Louisiana Rental-Purchase Agreement Act as provided in R.S.
+15 9:3351 through 3362.
+16 (2) A bank, trust company, savings and loan association, savings bank, credit
+17 union, finance or credit company, industrial loan company, or any foreign bank
+18 maintaining a branch or agency licensed under the laws of the United States, or any
+19 subsidiary or affiliate of these.
+20 (3) An insurer licensed under Title 22 of the Louisiana Revised Statutes of
+21 1950.
+22 (4) A contract entered into before January 1, 2011.
+23 (5) A person with fewer than fifty employees or with annual gross revenue
+24 of less than five million dollars is exempt from the notice requirements of Subsection
+25 D of this Section if that person complies with the disclosure, consent, and
+26 cancellation provisions of this Chapter.
+27 G. A person that demonstrates a good faith effort to comply with the
+28 provisions of this Chapter and maintains reasonable compliance procedures shall not
+Page 6 of 8
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-639 ENGROSSED
+HB NO. 750
+1 be liable for technical or inadvertent violations that do not result in material harm to
+2 the consumer.
+3 §3304. Violations; penalties; unfair acts or practices
+4 A. A person who violates the provisions of this Chapter shall make
+5 restitution to the affected consumer for any actual financial harm directly resulting
+6 from the violation. Any private right of action shall be limited to recovery of actual
+7 damages. Attorney fees may be awarded only upon a finding of willful violation.
+8 B. A person who violates the provisions of this Chapter shall be subject to
+9 a civil penalty set by the attorney general of no more than five hundred dollars per
+10 violation.
+11 C. A violation of this Chapter shall be a deceptive and unfair trade practice
+12 and shall subject the violator to actions and penalties provided in the Unfair Trade
+13 Practices and Consumer Protection Law, R.S. 51:1401 et seq.
+DIGEST
+The digest printed below was prepared by House Legislative Services. It constitutes no part
+of the legislative instrument. The keyword, one-liner, abstract, and digest do not constitute
+part of the law or proof or indicia of legislative intent. [R.S. 1:13(B) and 24:177(E)]
+HB 750 Engrossed 2026 Regular Session Cox
+Abstract: Provides for simple cancellation of automatic renewals.
+Proposed law defines "automatic renewal contract", "automatic renewal offer terms",
+"continuous service renewal offer terms", "clear and conspicuous", "clearly and
+conspicuously", "consumer", "merchandise", "person", and "trial period".
+Proposed law provides that an automatic renewal contract offered to a consumer in this state
+must clearly and conspicuously disclose the automatic renewal offer terms, cancellation
+policy, and cancellation instructions to the consumer and obtain that consumer's affirmative
+acceptance before the consumer can be charged.
+Proposed law prohibits the inclusion of any information that interferes with or detracts from
+the consumer's ability to provide affirmative acceptance.
+Proposed law requires that business records sufficient to demonstrate the consumer's
+affirmative acceptance of the terms be maintained for a period of not less than one year from
+the date of acceptance or date of termination of the contract, whichever is later.
+Proposed law provides that the cancellation mechanism for an automatic renewal contract
+be at least as easy to use as the mechanism used to accept the automatic renewal offer terms.
+Proposed law provides that consumers must be promptly notified of material changes in the
+automatic renewal contract or any upcoming automatic renewal payments if the renewal
+Page 7 of 8
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-639 ENGROSSED
+HB NO. 750
+term is 12 months or longer, if there is a material change in contract terms, or if the contract
+converts from a trial period to a paid subscription.
+Proposed law provides for a 30-day period within which a person who violates proposed law
+may cure that violation without penalty.
+Proposed law provides for exemptions.
+Proposed law provides for penalties for violations of proposed law.
+(Adds R.S. 51:3301-3304)
+Summary of Amendments Adopted by House
+The Committee Amendments Proposed by House Committee on Commerce to the
+original bill:
+1. Make technical changes.
+2. Change the definition of "consumer" from a person who purchases or attempts
+to purchase merchandise to a person who purchases or attempts to purchase
+merchandise, for personal, family, or household purposes.
+3. Reduce the time period that records of the consumer's affirmative consent must
+be kept from the date of acceptance or termination of the contract, from 3 years
+to 1 year.
+4. Change the required cancellation mechanism from the same medium used to
+accept the automatic renewal contract to one that is reasonable, readily
+accessible, not unreasonably burdensome, or designed to deter cancellation.
+5. Change the requirement to notify the consumer of an upcoming automatic
+renewal from each automatic renewal to only renewal terms of 12 months or
+longer, or when there is a material change in contract terms, or a conversion from
+trial period to paid subscription.
+6. Require notice of an upcoming automatic renewal to include renewal terms,
+amount to be charged, and instructions on how to cancel.
+7. Provide a 30-day period within which a person in violation of proposed law may
+cure that violation without penalty.
+8. Exempt a person with fewer than 50 employees or with an annual gross revenue
+of less than $5 million from the notice requirements of proposed law if that
+person complies with disclosure, consent, and cancellation requirements.
+9. Provide that a person who demonstrates a good faith effort to comply with the
+provisions of proposed law shall not be held liable for technical or inadvertent
+violations.
+10. Change the possible penalty for a violation from financial damages, court costs,
+and attorney fees to actual damages only and attorney fees only for willful
+violations.
+Page 8 of 8
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+[DELETED: 9E  P f e c o a r 1 C 7 o T 5 o t L R S o 1]
+[DELETED: 9E c a h o h o a i o d c  " m a o w g c]
+[DELETED: 9E  " m a n p o t n p l t c a c b t s o p]
+[DELETED: 9E o u t c a t p e a  A m f t c t c t a r o  C i f t p o t a r t c t a r c o t p o a]
+[DELETED: 9E p n t t c p t r i a o t f c]
+[DELETED: 9E p P t S s b o t S i t p c w t d c a  A p t d a g f e t c w t]
+[DELETED: 9E  A p w v t p o t C s md2nC l d " r c " r o t s r o t " a c " a l r t b r s t d t c]
+[DELETED: 9E.M.C.R.C t a r c t o t i r r.C t r t n t c o a u a.R.P.E.P.C f w]

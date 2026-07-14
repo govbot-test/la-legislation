@@ -1,0 +1,333 @@
+Title: HOUSE BILL NO. 831
+Official Title: HOUSE BILL NO. 831
+Number of Sections: 1
+Source: versions - HB831 Original
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+HLS 26RS-1113 ORIGINAL
+2026 Regular Session
+BY REPRESENTATIVE FIRMENT
+INSURANCE/PROPERTY: Prohibits certain pricing practices in property damage claims
+1 AN ACT
+2 To enact R.S. 22:1930 and 1930.1, and R.S. 37:2160.1, relative to prohibited pricing
+3 practices in property damage claims; to prohibit charging different prices for the
+4 same product or service based solely on insurer payment in property damage claims;
+5 to designate such practices as fraudulent insurance acts; to provide for exceptions,
+6 including preferred vendor programs; to prohibit insurers from engaging in
+7 inconsistent or selective application of pricing sources when relying on a primary
+8 estimating tool or database in adjusting property damage claims; to designate such
+9 practices, when committed with such frequency as to indicate a general business
+10 practice, as unfair methods of competition and unfair or deceptive acts or practices
+11 in the business of insurance; to provide for penalties; to provide for applicability to
+12 licensed contractors; and to provide for related matters.
+13 Be it enacted by the Legislature of Louisiana:
+14 Section 1. R.S. 22:1930 and 1930.1 are hereby enacted to read as follows:
+15 §1930. Prohibited pricing practices in property damage claims; offense
+16 A. This Section applies only to claims for property damage under a policy
+17 of property and casualty insurance, excluding automobile or health insurance claims.
+18 B. A person commits an offense if:
+Page 1 of 5
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-1113 ORIGINAL
+HB NO. 831
+1 (1) The person knowingly or intentionally charges two different prices for
+2 providing a substantially similar scope of work under comparable conditions in
+3 connection with a property damage claim, and
+4 (2) The higher price charged is based primarily on the fact that an insurer
+5 will pay all or part of the price of the product or service.
+6 C. This Section does not apply to:
+7 (1) Prices or rates established pursuant to a written contract or agreement
+8 between the person providing the product or service and the insurer including but not
+9 limited to preferred vendor programs, managed repair networks, or other negotiated
+10 arrangements where the insurer and provider have agreed to specific pricing terms
+11 in exchange for volume, quality assurances, or other considerations.
+12 (2) Adjustments to prices based on verifiable differences in the scope of
+13 work, materials, labor, or other factors not primarily related to insurer involvement.
+14 D. An offense pursuant to this Section is a fraudulent insurance act pursuant
+15 to R.S. 22:1923 and the violator shall be subject to the additional penalties,
+16 enforcement, and reporting requirements provided in this Part, including referral to
+17 the commissioner for administrative action, such as license suspension or revocation,
+18 and civil penalties as authorized pursuant to R.S. 22:1924.
+19 E. The commissioner may adopt rules pursuant to the Administrative
+20 Procedure Act to implement the provisions of this Section, including guidelines for
+21 distinguishing prohibited practices from legitimate negotiated arrangements.
+22 F. Nothing in this Section shall be construed to create or imply a private
+23 cause of action.
+24 §1930.1. Inconsistent or selective pricing by insurers in property damage claims;
+25 unfair methods of competition and unfair or deceptive acts or practices
+26 A. This Section applies only to claims for property damage under a policy
+27 of property and casualty insurance, excluding claims under automobile insurance
+28 policies or health insurance policies.
+Page 2 of 5
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-1113 ORIGINAL
+HB NO. 831
+1 B. Committing or performing with such frequency as to indicate a general
+2 business practice any of the following shall be an unfair method of competition and
+3 an unfair or deceptive act or practice in the business of insurance pursuant to R.S.
+4 22:1964:
+5 (1) Relying primarily on a pricing database, estimating software, or similar
+6 tool for determining repair or replacement costs in adjusting a property damage
+7 claim; and
+8 (2) Materially and inconsistently deviating from the database or tool by
+9 applying lower pricing from alternative sources, without consistent application or
+10 without documented justification based on verifiable market data, such as
+11 comparable local quotes or supplier pricing applicable to the claim location and
+12 scope of work.
+13 C. This Section shall not prohibit:
+14 (1) Adjustments to claim estimates based on independent appraisals,
+15 engineering reports, verifiable local market conditions, or other relevant evidence.
+16 (2) Use of preferred vendor programs or negotiated rates as provided in R.S.
+17 22:1930(C), provided such programs apply consistent pricing methodologies.
+18 (3) Good faith negotiations with policyholders or their representatives to
+19 resolve disputes over pricing or estimates.
+20 D. Violations of this Section shall be subject to the enforcement provisions
+21 of R.S. 22:1961 et seq., including but not limited to cease and desist orders,
+22 monetary penalties, license suspension or revocation, and any other remedies
+23 available for unfair or deceptive acts or practices in the business of insurance.
+24 E. The commissioner may adopt rules pursuant to the Administrative
+25 Procedure Act to implement this Section, including requirements for documentation
+26 of pricing adjustments and standards for determining when practices occur with such
+27 frequency as to indicate a general business practice.
+28 F. Nothing in this Section shall be construed to create or imply a private
+29 cause of action.
+Page 3 of 5
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-1113 ORIGINAL
+HB NO. 831
+1 Section 2. R.S. 37:2160.1 is hereby enacted to read as follows:
+2 §2160.1. Prohibited pricing practices in property damage claims; applicability to
+3 contractors
+4 A. In addition to the prohibited acts provided in this Chapter, a licensed
+5 contractor or subcontractor shall not engage in any practice prohibited by R.S.
+6 22:1930 in connection with a property damage claim.
+7 B. A violation of this Section shall be grounds for disciplinary action by the
+8 State Licensing Board for Contractors, including but not limited to fines, suspension,
+9 or revocation of license, as provided in R.S. 37:2156.1 and 37:2159.
+10 C. This Section shall not be construed to prohibit or hinder preferred vendor
+11 arrangements, managed repair programs, or other contractual agreements between
+12 contractors and insurers that comply with R.S. 22:1930(C).
+DIGEST
+The digest printed below was prepared by House Legislative Services. It constitutes no part
+of the legislative instrument. The keyword, one-liner, abstract, and digest do not constitute
+part of the law or proof or indicia of legislative intent. [R.S. 1:13(B) and 24:177(E)]
+HB 831 Original 2026 Regular Session Firment
+Abstract: Prohibits specified pricing practices pertaining to property damage claims.
+Designates the act of charging different prices for identical products or services
+based primarily on insurer involvement as a fraudulent insurance act. Forbids
+insurers from selectively applying pricing sources when utilizing a primary
+estimating tool. Outlines exceptions, establishes penalties, grants rulemaking
+authority, and stipulates applicability to licensed contractors.
+Proposed law prohibits any individual from knowingly or intentionally charging two
+different prices for the same product or service in connection with a property damage claim,
+where the higher price is predicated on the fact that an insurer will cover all or part of the
+associated costs.
+Proposed law outlines exceptions for pricing established under formal written agreements
+with insurers, including but not limited to, preferred vendor programs, as well as for
+adjustments that are based on verifiable differences in the scope of work, materials, labor,
+or other factors that are not exclusively related to insurer involvement. Violations of this
+provision are designated as fraudulent insurance acts, subject to penalties and enforcement
+under current law. Authorizes the commissioner of insurance to promulgate pertinent rules.
+Proposed law prohibits insurers from selectively applying pricing sources when adjusting
+a property damage claim if they rely primarily on a pricing database or estimating tool.
+Requires consistent use of the primary tool unless deviations are supported by documented,
+verifiable market data. Provides exceptions for independent appraisals, engineering reports,
+local market conditions, preferred vendor programs that apply consistent pricing
+methodologies, and good faith negotiations. Classifies violations committed with such
+Page 4 of 5
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-1113 ORIGINAL
+HB NO. 831
+frequency as to indicate a general business practice as unfair methods of competition and
+unfair or deceptive acts or practices subject to enforcement under present law. Authorizes
+the commissioner of insurance to adopt rules, including documentation standards.
+Proposed law prohibits licensed contractors and subcontractors from engaging in any
+practice prohibited by proposed R.S. 22:1930 when performing work related to a property
+damage claim. Makes violations grounds for disciplinary action by the State Licensing
+Board for Contractors and clarifies that compliant preferred vendor or managed repair
+arrangements are not restricted.
+Proposed law does not create or imply a private right of action.
+(Adds R.S. 22:1930 and 1930.1, and R.S. 37:2160.1)
+Page 5 of 5
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+[DELETED: 3O e R 2 a 1 a R 3 r t p p p v p t p i f e i]
+[DELETED: 3O R 2 a t v s b s t t a p  T c m a r p t t A]
+[DELETED: 3O d j b o v m d s a  A t c e b o i a R 2 e s i b n l t c a d o p l s o r a a o r T c m a r p t t A]
+[DELETED: 3Ol2nF  P s p t p d c o i a a F f s a p s w u a p t  O e e p g r l p a i f k o i c t i i b n l t p p a w a f m c p v p t a c p]
+[DELETED: 3O l p l c a s f e i a]
+
+
+================================================================================
+
+Raw Text:
+HLS 26RS-1113 ORIGINAL
+2026 Regular Session
+HOUSE BILL NO. 831
+BY REPRESENTATIVE FIRMENT
+INSURANCE/PROPERTY: Prohibits certain pricing practices in property damage claims
+1 AN ACT
+2 To enact R.S. 22:1930 and 1930.1, and R.S. 37:2160.1, relative to prohibited pricing
+3 practices in property damage claims; to prohibit charging different prices for the
+4 same product or service based solely on insurer payment in property damage claims;
+5 to designate such practices as fraudulent insurance acts; to provide for exceptions,
+6 including preferred vendor programs; to prohibit insurers from engaging in
+7 inconsistent or selective application of pricing sources when relying on a primary
+8 estimating tool or database in adjusting property damage claims; to designate such
+9 practices, when committed with such frequency as to indicate a general business
+10 practice, as unfair methods of competition and unfair or deceptive acts or practices
+11 in the business of insurance; to provide for penalties; to provide for applicability to
+12 licensed contractors; and to provide for related matters.
+13 Be it enacted by the Legislature of Louisiana:
+14 Section 1. R.S. 22:1930 and 1930.1 are hereby enacted to read as follows:
+15 §1930. Prohibited pricing practices in property damage claims; offense
+16 A. This Section applies only to claims for property damage under a policy
+17 of property and casualty insurance, excluding automobile or health insurance claims.
+18 B. A person commits an offense if:
+Page 1 of 5
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1113 ORIGINAL
+HB NO. 831
+1 (1) The person knowingly or intentionally charges two different prices for
+2 providing a substantially similar scope of work under comparable conditions in
+3 connection with a property damage claim, and
+4 (2) The higher price charged is based primarily on the fact that an insurer
+5 will pay all or part of the price of the product or service.
+6 C. This Section does not apply to:
+7 (1) Prices or rates established pursuant to a written contract or agreement
+8 between the person providing the product or service and the insurer including but not
+9 limited to preferred vendor programs, managed repair networks, or other negotiated
+10 arrangements where the insurer and provider have agreed to specific pricing terms
+11 in exchange for volume, quality assurances, or other considerations.
+12 (2) Adjustments to prices based on verifiable differences in the scope of
+13 work, materials, labor, or other factors not primarily related to insurer involvement.
+14 D. An offense pursuant to this Section is a fraudulent insurance act pursuant
+15 to R.S. 22:1923 and the violator shall be subject to the additional penalties,
+16 enforcement, and reporting requirements provided in this Part, including referral to
+17 the commissioner for administrative action, such as license suspension or revocation,
+18 and civil penalties as authorized pursuant to R.S. 22:1924.
+19 E. The commissioner may adopt rules pursuant to the Administrative
+20 Procedure Act to implement the provisions of this Section, including guidelines for
+21 distinguishing prohibited practices from legitimate negotiated arrangements.
+22 F. Nothing in this Section shall be construed to create or imply a private
+23 cause of action.
+24 §1930.1. Inconsistent or selective pricing by insurers in property damage claims;
+25 unfair methods of competition and unfair or deceptive acts or practices
+26 A. This Section applies only to claims for property damage under a policy
+27 of property and casualty insurance, excluding claims under automobile insurance
+28 policies or health insurance policies.
+Page 2 of 5
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1113 ORIGINAL
+HB NO. 831
+1 B. Committing or performing with such frequency as to indicate a general
+2 business practice any of the following shall be an unfair method of competition and
+3 an unfair or deceptive act or practice in the business of insurance pursuant to R.S.
+4 22:1964:
+5 (1) Relying primarily on a pricing database, estimating software, or similar
+6 tool for determining repair or replacement costs in adjusting a property damage
+7 claim; and
+8 (2) Materially and inconsistently deviating from the database or tool by
+9 applying lower pricing from alternative sources, without consistent application or
+10 without documented justification based on verifiable market data, such as
+11 comparable local quotes or supplier pricing applicable to the claim location and
+12 scope of work.
+13 C. This Section shall not prohibit:
+14 (1) Adjustments to claim estimates based on independent appraisals,
+15 engineering reports, verifiable local market conditions, or other relevant evidence.
+16 (2) Use of preferred vendor programs or negotiated rates as provided in R.S.
+17 22:1930(C), provided such programs apply consistent pricing methodologies.
+18 (3) Good faith negotiations with policyholders or their representatives to
+19 resolve disputes over pricing or estimates.
+20 D. Violations of this Section shall be subject to the enforcement provisions
+21 of R.S. 22:1961 et seq., including but not limited to cease and desist orders,
+22 monetary penalties, license suspension or revocation, and any other remedies
+23 available for unfair or deceptive acts or practices in the business of insurance.
+24 E. The commissioner may adopt rules pursuant to the Administrative
+25 Procedure Act to implement this Section, including requirements for documentation
+26 of pricing adjustments and standards for determining when practices occur with such
+27 frequency as to indicate a general business practice.
+28 F. Nothing in this Section shall be construed to create or imply a private
+29 cause of action.
+Page 3 of 5
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1113 ORIGINAL
+HB NO. 831
+1 Section 2. R.S. 37:2160.1 is hereby enacted to read as follows:
+2 §2160.1. Prohibited pricing practices in property damage claims; applicability to
+3 contractors
+4 A. In addition to the prohibited acts provided in this Chapter, a licensed
+5 contractor or subcontractor shall not engage in any practice prohibited by R.S.
+6 22:1930 in connection with a property damage claim.
+7 B. A violation of this Section shall be grounds for disciplinary action by the
+8 State Licensing Board for Contractors, including but not limited to fines, suspension,
+9 or revocation of license, as provided in R.S. 37:2156.1 and 37:2159.
+10 C. This Section shall not be construed to prohibit or hinder preferred vendor
+11 arrangements, managed repair programs, or other contractual agreements between
+12 contractors and insurers that comply with R.S. 22:1930(C).
+DIGEST
+The digest printed below was prepared by House Legislative Services. It constitutes no part
+of the legislative instrument. The keyword, one-liner, abstract, and digest do not constitute
+part of the law or proof or indicia of legislative intent. [R.S. 1:13(B) and 24:177(E)]
+HB 831 Original 2026 Regular Session Firment
+Abstract: Prohibits specified pricing practices pertaining to property damage claims.
+Designates the act of charging different prices for identical products or services
+based primarily on insurer involvement as a fraudulent insurance act. Forbids
+insurers from selectively applying pricing sources when utilizing a primary
+estimating tool. Outlines exceptions, establishes penalties, grants rulemaking
+authority, and stipulates applicability to licensed contractors.
+Proposed law prohibits any individual from knowingly or intentionally charging two
+different prices for the same product or service in connection with a property damage claim,
+where the higher price is predicated on the fact that an insurer will cover all or part of the
+associated costs.
+Proposed law outlines exceptions for pricing established under formal written agreements
+with insurers, including but not limited to, preferred vendor programs, as well as for
+adjustments that are based on verifiable differences in the scope of work, materials, labor,
+or other factors that are not exclusively related to insurer involvement. Violations of this
+provision are designated as fraudulent insurance acts, subject to penalties and enforcement
+under current law. Authorizes the commissioner of insurance to promulgate pertinent rules.
+Proposed law prohibits insurers from selectively applying pricing sources when adjusting
+a property damage claim if they rely primarily on a pricing database or estimating tool.
+Requires consistent use of the primary tool unless deviations are supported by documented,
+verifiable market data. Provides exceptions for independent appraisals, engineering reports,
+local market conditions, preferred vendor programs that apply consistent pricing
+methodologies, and good faith negotiations. Classifies violations committed with such
+Page 4 of 5
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1113 ORIGINAL
+HB NO. 831
+frequency as to indicate a general business practice as unfair methods of competition and
+unfair or deceptive acts or practices subject to enforcement under present law. Authorizes
+the commissioner of insurance to adopt rules, including documentation standards.
+Proposed law prohibits licensed contractors and subcontractors from engaging in any
+practice prohibited by proposed R.S. 22:1930 when performing work related to a property
+damage claim. Makes violations grounds for disciplinary action by the State Licensing
+Board for Contractors and clarifies that compliant preferred vendor or managed repair
+arrangements are not restricted.
+Proposed law does not create or imply a private right of action.
+(Adds R.S. 22:1930 and 1930.1, and R.S. 37:2160.1)
+Page 5 of 5
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+[DELETED: 3O e R 2 a 1 a R 3 r t p p p v p t p i f e i]
+[DELETED: 3O R 2 a t v s b s t t a p  T c m a r p t t A]
+[DELETED: 3O d j b o v m d s a  A t c e b o i a R 2 e s i b n l t c a d o p l s o r a a o r T c m a r p t t A]
+[DELETED: 3Ol2nF  P s p t p d c o i a a F f s a p s w u a p t  O e e p g r l p a i f k o i c t i i b n l t p p a w a f m c p v p t a c p]
+[DELETED: 3O l p l c a s f e i a]
