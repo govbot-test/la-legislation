@@ -1,0 +1,1976 @@
+Title: HOUSE BILL NO. 921
+Official Title: HOUSE BILL NO. 921
+Number of Sections: 1
+Source: versions - HB921 Original
+Media Type: application/pdf
+Strikethrough Detection: 26 sections found
+
+================================================================================
+
+Section 1:
+HLS 26RS-127 ORIGINAL
+2026 Regular Session
+BY REPRESENTATIVE MUSCARELLO
+PRIVATE SECURITY: Provides relative to private security examiners
+1 AN ACT
+2 To amend and reenact R.S. 37:3270, 3271, 3272(A)(2), (5), (6), (9), (11), (13) through (15),
+3 (17), and (18), 3273(B) and (C), 3274(A)(1) through (5), (7), and (11), (B)(1)
+4 through (4), (6), (7), (10), and (11), (C), and (D), 3275, 3279(A)(3), 3283(A), (D),
+5 and (F)(1) and (2), 3284(B)(1), (4), and (5), (E), (F), and (J), 3287(C), 3288,
+6 3292(B), and 3293(C)(1), to enact R.S. 37:3272(21) through (25), 3273(I),
+7 3274(A)(12), 3279.1, 3284.1, 3292(C) and to repeal R.S. 37:3272(20), relative to
+8 private security examiners; to provide for purpose; to provide for short title; to
+9 provide for definitions; to provide for membership; to provide for qualifications of
+10 the board; to provide for powers and duties of the board; to provide for the duties of
+11 the executive director; to provide for the procedures of approval, denial, and appeals
+12 regarding licensees; to provide for a security officer and security operations manager
+13 registration card; to provide for training of security officers; to create security canine
+14 and detector canine programs; to provide for license renewals; to provide for
+15 violations and penalties; to provide for cease and desist orders; and to provide for
+16 related matters.
+17 Be it enacted by the Legislature of Louisiana:
+18 Section 1. R.S. 37:3270, 3271, 3272(A)(2), (5), (6), (9), (11), (13) through (15), (17),
+19 and (18), 3273(B) and (C), 3274(A)(1) through (5), (7), and (11), (B)(1) through (4), (6), (7),
+20 (10), and (11), (C), and (D), 3275, 3279(A)(3), 3283(A), (D), and (F)(1) and (2),
+Page 1 of 26
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-127 ORIGINAL
+HB NO. 921
+1 3284(B)(1), (4), and (5), (E), (F), and (J), 3287(C), 3288, 3292(B), and 3293(C)(1) are
+2 hereby amended and reenacted and R.S. 37:3272(21) through (25), 3273(I), 3274(A)(12),
+3 3279.1, 3284.1, 3292(C) are hereby enacted to read as follows:
+4 §3270. Declaration of purpose
+5 A. The Legislature of Louisiana declares that it is necessary to require the
+6 licensure and regulation of private security agents and businesses to be in the best
+7 interest of the citizens of this state licensees, qualifying agents, and security officers
+8 to promote professionalism and serve the citizens of this state.
+9 B. The purpose of this Chapter is to require qualifying criteria establish
+10 qualifying criteria and oversight mechanisms in a professional field in which
+11 unqualified or unethical individuals may injure the public. The requirements of this
+12 Chapter will are intended to contribute to the safety, health, and welfare, and
+13 accountability of the people of Louisiana.
+14 §3271. Private security law; short title
+15 This Chapter shall be known and may be cited as the Private Security
+16 Regulatory and Licensing Law "Louisiana Private Security Licensing and Regulatory
+17 Act".
+18 §3272. General definition of terms
+19 A. As used in this Chapter, the following terms shall have the following
+20 meanings ascribed to them unless otherwise defined in this Chapter:
+21 * * *
+22 (2) "Armed security officer" is an individual who provides security services
+23 and who at any time wears, carries, possesses, or has access to a firearm or any other
+24 weapon defined by the board. All other defensive or offensive weapons not
+25 approved by the board are prohibited means an individual employed by a licensed
+26 contract security company or proprietary security organization who carries or has
+27 access to an approved firearm in the performance of official duties and who has met
+28 all qualifications, training, and certification requirements established by the board.
+29 * * *
+Page 2 of 26
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-127 ORIGINAL
+HB NO. 921
+1 (5) "Branch manager" means the individual endowed with the responsibility
+2 and liability for a branch office designated by the licensee responsible for the
+3 management, supervision, and regulatory compliance of a branch office licensed by
+4 the board.
+5 (6) "Branch office" means a separate office which is part of a company
+6 licensed by the board any separate business location operated pursuant to a license
+7 issued by the board.
+8 * * *
+9 (9) "Executive secretary director" means the chief administrative officer of
+10 the board.
+11 * * *
+12 (11) "Licensee" means any person to whom a license is granted in
+13 accordance with the provisions of this Chapter or business entity licensed by the
+14 board in accordance with this Chapter.
+15 * * *
+16 (13) "Person" means an individual, firm, association, company, partnership,
+17 corporation, nonprofit organization, limited liability company, or other legal entity
+18 recognized in accordance with the laws of this state.
+19 (14) "Principal corporate officer" means the president, vice president,
+20 treasurer, secretary, or comptroller, or any other person who performs functions for
+21 the corporation corresponding to those performed by the foregoing officers who
+22 performs equivalent duties within the business organization.
+23 (15) "Private security business" is any entity that provides protection to
+24 persons and property, excluding any law enforcement agency, but including any of
+25 the following:
+26 (a) Contract security company; or.
+27 (b) Armored car company or armed courier company.
+28 * * *
+Page 3 of 26
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-127 ORIGINAL
+HB NO. 921
+1 (17) "Registrant" means an individual who holds a valid registration card
+2 issued by the board a current registration issued by the board in accordance with this
+3 Chapter.
+4 (18) "Registration card" means the identification card issued by the board to
+5 a registrant as evidence that the registrant has met the required minimum
+6 qualifications a physical or digital credential issued by the board evidencing that the
+7 registrant has met the qualifications and training required by this Chapter.
+8 * * *
+9 (21) "Canine handler" means a licensed security officer registered with the
+10 board who has completed a board-approved training program and who is certified to
+11 deploy with a security canine or detector canine.
+12 (22) "Canine team" means a canine and its assigned handler who function
+13 as a unit.
+14 (23) "Detector canine" means a dog specifically trained and certified for use
+15 in private-security operations to detect explosives or controlled dangerous substances
+16 by olfactory means. Detector canines shall operate solely for detection and
+17 notification purposes and shall not be used to conduct searches, seizures, or arrests.
+18 (24) "Digital credential" means an electronic license or registration card
+19 issued by the board that verifies the person's qualifications and status.
+20 (25) "Security canine" means a dog specifically trained and certified for use
+21 in private-security patrol operations, including deterrence, handler protection, and
+22 property protection.
+23 * * *
+24 §3273. Louisiana State Board of Private Security Examiners; creation; qualification;
+25 domicile; term of office; confirmation; oath of office; compensation
+26 * * *
+27 B.(1) The board shall consist of nine members all domiciled in this state and
+28 approved by the governor. appointed by the governor. One member shall be
+29 appointed from and shall reside in each of the five public service commission
+Page 4 of 26
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-127 ORIGINAL
+HB NO. 921
+1 districts established by law. Four members shall be appointed from the state at large.
+2 Each member shall be a citizen of the United States of America, a resident of
+3 Louisiana, and at least thirty years of age, and shall have been actively engaged in
+4 the private security business for at least five years. One of the members appointed
+5 at large shall be a representative of a nationally operated security company. Each
+6 member shall be licensed or registered with the board or a corporate officer of a
+7 licensed company.
+8 (2)(a) Five members will be members of the private security industry,
+9 appointed by the governor, and shall be one of the following:
+10 (i) Company owner.
+11 (ii) Qualifying agent.
+12 (iii) Instructor.
+13 (b) From the five members listed in this Paragraph, one member shall reside
+14 from each of the five districts composed as follows:
+15 (i) District 1: The parishes of Orleans, Plaquemines, and St. Bernard.
+16 (ii) District 2: The parishes of Assumption, Jefferson, Lafourche, St. Charles,
+17 St. James, St. John the Baptist, St. Tammany, Terrebonne, and Washington.
+18 (iii) District 3: The parishes of Ascension, East Baton Rouge, East Feliciana,
+19 Iberville, Livingston, St. Helena, St. Martin, Tangipahoa, West Baton Rouge, and
+20 West Feliciana.
+21 (iv) District 4: The parishes of Acadia, Allen, Avoyelles, Beauregard,
+22 Calcasieu, Cameron, Evangeline, Grant, Iberia, Jefferson Davis, Lafayette,
+23 Natchitoches, Pointe Coupee, Rapides, Sabine, St. Landry, St. Mary, Vermilion, and
+24 Vernon.
+25 (v) District 5: The parishes of Bienville, Bossier, Caddo, Caldwell,
+26 Catahoula, Claiborne, Concordia, DeSoto, East Carroll, Franklin, Jackson, LaSalle,
+27 Lincoln, Madison, Morehouse, Ouachita, Red River, Richland, Tensas, Union,
+28 Webster, West Carroll, and Winn.
+Page 5 of 26
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-127 ORIGINAL
+HB NO. 921
+1 (c) One of the five members listed in this Paragraph shall be affiliated with
+2 a nationally operated security company.
+3 (d) Each member listed in this Paragraph shall be licensed with the board or
+4 serve as a corporate officer of a licensed security company.
+5 (e) Each member listed in this Paragraph shall have been actively engaged
+6 in the private security industry for a minimum of five years.
+7 (3) Four members will be at-large appointments appointed from the
+8 following agencies:
+9 (a) One at-large member nominated from the tourism industry by the
+10 lieutenant governor.
+11 (b) One at-large member nominated from the insurance industry by the
+12 commissioner of the Louisiana Department of Insurance.
+13 (c) One at-large member nominated from the law enforcement community
+14 by the superintendent of the office of State Police.
+15 (d) One at-large member nominated from the Academy Directors
+16 Association by the director of the Louisiana Commission on Law Enforcement.
+17 (4) The governor may remove any or all members of the board for
+18 inefficiency or neglect of duty.
+19 C. The board shall be domiciled in Baton Rouge, but shall be authorized to
+20 may meet elsewhere in the state.
+21 * * *
+22 I. The board is prohibited from adopting any rules or regulations that would
+23 impose additional eligibility requirements for membership.
+24 §3274. Powers, duties, authorities, and responsibilities; meetings; quorum
+25 A. The board shall:
+26 (1) Examine all applicants to be licensed and regulated under in accordance
+27 with the provisions of this Chapter through written or digital application and
+28 verification systems.
+Page 6 of 26
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-127 ORIGINAL
+HB NO. 921
+1 (2) Administer a written an examination for prospective licensees at least
+2 twice each year.
+3 (3) Adopt and promulgate rules and regulations to govern the practice of
+4 private security in the state of Louisiana this state in accordance with the
+5 Administrative Procedure Act.
+6 (4) Issue, suspend, modify, place on probation, or revoke digital or physical
+7 licenses or registration cards to provide credentials authorizing private security in the
+8 state of Louisiana services within this state.
+9 (5) Report to the attorney general of the state of Louisiana all persons
+10 violating the provisions of this Chapter Refer matters of potential criminal or civil
+11 violation to appropriate authorities as deemed necessary, in consultation with the
+12 board's legal counsel.
+13 * * *
+14 (7) Report annually, no later than March 1, to the governor, the secretary of
+15 the department, and the legislature on its activities to the governor, the legislative
+16 auditor, and commissioner of administration on its operations, finances, and
+17 regulatory activities.
+18 * * *
+19 (11) Adopt rules to authorize the assessment of administrative penalties in
+20 the form of fines not to exceed five hundred dollars per violation and cost of the
+21 board's proceedings pursuant to this Chapter.
+22 (12) Adopt rules to regulate private security canine programs and
+23 deployments, including the licensing, training, certification, deployment,
+24 recertification, and discipline of canine handlers, security canines, and detector
+25 canines, in compliance with applicable state and federal law.
+26 B. The board may:
+27 (1) Adopt and enforce rules and regulations, bylaws, and rules of
+28 professional conduct as the board may deem necessary and proper to regulate private
+29 security businesses in the state of Louisiana in this state, to provide for the efficient
+Page 7 of 26
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-127 ORIGINAL
+HB NO. 921
+1 operation of the board, and otherwise to discharge its duties and powers under in
+2 accordance with this Chapter.
+3 (2) Prescribe and adopt regulations, standards, procedures, and policies
+4 governing the manner and conditions under which credit shall be given by the board
+5 for participation in a program of continuing professional education such as the board
+6 may consider necessary and appropriate to maintain the highest standards of the
+7 private security industry in the state of Louisiana. in accordance with the
+8 Administrative Procedure Act, governing the manner and conditions in which credit
+9 may be granted by the board for participation in continuing professional education
+10 programs, when such requirements are reasonably related to maintaining professional
+11 competence and protecting public safety within the private security industry in this
+12 state.
+13 (3) Authorize any the chairperson, executive director, or any designated
+14 member of the board to make any affidavit necessary for the issuance of any
+15 injunction or other legal process authorized under pursuant to this Chapter or under
+16 the rules and regulations of the board.
+17 (4) Issue subpoenas to require attendance and testimony and the production
+18 of documents, for the purpose of enforcing the laws relative to the private security
+19 industry and securing evidence of violations thereof or subpoenas duces tecum to
+20 require attendance, testimony, or production of records necessary to enforce this
+21 Chapter and obtain evidence of violations.
+22 * * *
+23 (6) Appoint a qualified executive secretary director.
+24 (7) Employ clerical assistance staff as necessary to carry out the
+25 administrative work functions of the board.
+26 * * *
+27 (10) Purchase, lease, or otherwise acquire any real or personal property,
+28 including making or entering into mortgages, as may be necessary or convenient to
+29 the exercise of its powers in order to accomplish the purposes of this Chapter. The
+Page 8 of 26
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-127 ORIGINAL
+HB NO. 921
+1 board shall take title to and hold such property in its name as an agency of the state,
+2 under the fiscal control of the division of administration and subject to state property
+3 management requirements.
+4 (11) When a state of emergency has been declared in this state pursuant to
+5 R.S. 14:329.6, authorize the temporary operation of out-of-state private security
+6 businesses within the state and the use of its employees within the state for the
+7 duration of the state of emergency or for a stipulated amount of time after declaration
+8 of the state of emergency, not to exceed thirty days from the last day of the declared
+9 state of emergency, if the private security business:
+10 (a) Is licensed in another state in which the qualifications, insurance, and
+11 training, and other similar requirements are at least equal to those required under this
+12 Chapter are substantially equivalent to those of this Chapter.
+13 (b) Has notified the board that they intend of intent to operate in the state and
+14 submits all information required documentation requested by the board.
+15 C. The chairman chairperson and executive secretary director of the board,
+16 or in their absence any other member of the board, may administer oaths in the
+17 taking of testimony upon any matter appertaining to the duties and powers of the
+18 board.
+19 D. The board shall meet quarterly every other month at regular meetings
+20 each year. A special meeting may be held at such time and place as specified by the
+21 executive secretary director on call of the chairman chairperson or any four
+22 members. The executive secretary director shall give written notice of all meetings
+23 to the members of the board and to the interested public, and may conduct meetings
+24 by electronic means in accordance with the Open Meetings Law, R.S. 42:11 et seq.
+25 * * *
+26 §3275. Executive secretary director; duties
+27 The position of executive secretary director of the board is hereby created.
+28 The executive secretary director shall be appointed by the board and shall serve as
+29 its chief administrator administrative and operational officer. He shall not be a
+Page 9 of 26
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-127 ORIGINAL
+HB NO. 921
+1 member of the board, but shall be a full-time employee of the board, to be paid
+2 compensation compensated in an amount to be determined by the board. The
+3 executive secretary director shall perform such the duties as may be and exercise the
+4 authority as prescribed by the board, and shall employ such persons as he deems
+5 necessary and fix their compensation. including oversight of licensing operations,
+6 technology systems, compliance programs, and enforcement of this Chapter. The
+7 executive director shall employ, supervise, and assign personnel as necessary and fix
+8 their compensation within the limits of the board's approved budget. He shall have
+9 no financial or business interests, contingent dealings or otherwise, in the security
+10 services investigative business, watch, guard, or patrol agency while so employed or
+11 for a period of direct or indirect financial or business interest in any private security
+12 while employed or for five years thereafter.
+13 * * *
+14 §3279. Approval, denial; procedure; appeals; prior qualifications
+15 A. The procedure of the board in approving or denying an application shall
+16 be as follows:
+17 * * *
+18 (3)(a) If the grounds for denial are subject to correction by the applicant, the
+19 notice of denial shall so state and the applicant shall be given ten days after receipt
+20 of such notice or, upon application, a reasonable additional period of time within
+21 which to make the required correction.
+22 (b) If the application is denied, the applicant, within thirty days after receipt
+23 of notice of denial from the board, may request a hearing on the denial, pursuant to
+24 R.S. 37:3279.1. Within ten days after the filing of such request for hearing by the
+25 applicant, the board shall schedule a hearing to be held after due notice to the
+26 applicant. The hearing shall be conducted in accordance with the Administrative
+27 Procedure Act.
+28 * * *
+29 §3279.1. Appeals; hearings; procedures; due process
+Page 10 of 26
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-127 ORIGINAL
+HB NO. 921
+1 A. The board shall conduct all adjudicatory proceedings in accordance with
+2 the Administrative Procedure Act, R.S. 49:950 et seq., and the provisions of this
+3 Chapter.
+4 B. The board shall communicate to the applicant or licensee all denials,
+5 suspensions, orders, administrative penalties, and revocations in writing.
+6 C. Upon written notice of adverse or disciplinary action from the board, the
+7 applicant or licensee has the right to elect to file a hearing with the board or the
+8 Division of Administrative Law within thirty days from the receipt of the notice.
+9 (1) If the applicant or licensee elects to have a hearing by the board and does
+10 not prevail, the ruling of the board may be appealable with the Division of
+11 Administrative Law.
+12 (2) If the applicant or licensee elects to have a hearing by the Division of
+13 Administrative Law, the ruling shall be appealable by either the board or the
+14 applicant or licensee, whichever does not prevail.
+15 D. Any party subject to a hearing may be represented by legal counsel and
+16 present evidence and testimony, and has the right to due process.
+17 E. All hearings shall be recorded, and a complete record of all proceedings
+18 shall be made.
+19 F. The appellant shall assume all costs associated with appeals.
+20 * * *
+21 §3283. Security officer and security operations manager registrant; card;
+22 application; qualifications; investigation; denial, suspension, or revocation;
+23 validity; renewal; change of address
+24 A.(1) Each person who performs the functions and duties of a security
+25 officer or security operations manager within this state as defined in this Chapter
+26 shall apply to the board for a registration card.
+27 (2) The portion of the board application indicating temporary registration
+28 shall be carried by the applicant when he is within the scope of his employment until
+29 such time as he receives his permanent registration card from the board.
+Page 11 of 26
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-127 ORIGINAL
+HB NO. 921
+1 (3) (2)(a) Individuals An individual required to obtain a registration card
+2 under this Chapter shall file for a registration card and, upon completion thereof, the
+3 licensee shall immediately forward the application shall submit a sworn application
+4 to the board for review.
+5 (b) Every applicant shall remit all required fees with the application to the
+6 board.
+7 (4)(a) Every applicant for a registration card shall make and deliver to the
+8 licensee a sworn application in writing upon a form prescribed by the board.
+9 (b) (3)(a) The board shall prescribe by rule the form for such application and
+10 procedures for their its submission, consideration and disposition, including the fee
+11 to accompany the application.
+12 (c)(b) To be eligible to apply for a registration card an individual shall have
+13 the same qualifications required of an applicant provided in R.S. 37:3276 but may
+14 be a resident alien.
+15 * * *
+16 D. After receipt of an application for a registration card, the board shall
+17 conduct an investigation to determine whether the facts set forth in the application
+18 are true. Actions by the board to approve or deny an application for a registration
+19 card shall be the same as that action taken to deny or approve an application for
+20 license as provided in R.S. 37:3279 37:3279.1.
+21 * * *
+22 F.(1) Registration cards issued by the board shall be valid for a period of two
+23 years. The registrant shall be required to advise the board of any changes in his
+24 status or permanent address during the valid period. The cardholder shall file a
+25 registration card renewal form with the board not less than thirty days prior to the
+26 expiration of the card, together with the fee for renewal. The renewal application
+27 shall include a statement by the registrant that the registrant continues to meet the
+28 qualifications as set forth by the board.
+Page 12 of 26
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-127 ORIGINAL
+HB NO. 921
+1 (2) The board may refuse to renew a registration card, and shall promptly
+2 notify the cardholder of its intent to refuse to renew. The cardholder, within fifteen
+3 days after receipt of such notice, may request a hearing on such refusal, in the same
+4 manner and in accordance with the same procedure as that provided in R.S. 37:3279
+5 37:3279.1.
+6 * * *
+7 §3284. Training of security officers; requirements
+8 * * *
+9 B.(1) Any security officer employed after the effective date of this Chapter
+10 shall complete, within thirty days of his first work assignment, either eight hours of
+11 classroom training or an approved curriculum-based training course under a licensed
+12 instructor and successfully pass an examination on the prescribed material which
+13 shall include the following topics: A security officer shall complete, prior to his first
+14 work assignment, a minimum of sixteen hours of board-required training consisting
+15 of Security Officer Standards and Training, or S.O.S.T, by a board-licensed
+16 instructor and successfully pass an examination for each course.
+17 (a) Orientation to R.S. 37:3270 through 3299 and the board's rules and
+18 regulations.
+19 (b) Legal powers and limitations of a security officer.
+20 (c) Emergency procedures.
+21 (d) General duties/field notes/report writing.
+22 * * *
+23 (4) Security officers shall have sixty days from the date of the first work
+24 assignment to complete either an additional eight hours of classroom training or an
+25 approved curriculum-based training course under a licensed instructor, as prescribed
+26 by the board, and successfully pass a fifty-question test administered by the licensed
+27 instructor by achieving a minimum score of seventy percent who are registered in
+28 other states with licensing requirements similar to this state and law enforcement
+29 officers identified in this Section, may attend, prior to his first work assignment, four
+Page 13 of 26
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-127 ORIGINAL
+HB NO. 921
+1 hours of board-required training consisting of Security Officer Standards and
+2 Training, or S.O.S.T, by a board-licensed instructor and successfully pass an
+3 examination.
+4 (5) No more than two sixteen hours of the training requirements provided for
+5 in Paragraphs (1), and (2), and (4) of this Subsection may be conducted during a
+6 twenty-four-hour period.
+7 * * *
+8 E. All classroom training required by this Chapter shall be administered by
+9 a licensed instructor who is approved by the board, meets the qualifications of an
+10 applicant as required by R.S. 37:3276(A)(1) through (6), and at least one of the
+11 following:
+12 (1) Is approved by the board.
+13 (2) Meets the qualifications of an applicant as required by R.S.
+14 37:3276(A)(1) through (6);
+15 (3)(1) Has a minimum of three years supervisory experience with a contract
+16 security company, proprietary security organization, or with any federal, state, local,
+17 parochial, municipal, or United States military law enforcement agency; or.
+18 (4)(2) Degree Has a degree in administration of justice or the equivalent
+19 thereof from an accredited college or university; or.
+20 (5)(3) Is P.O.S.T. certified instructor; or.
+21 (6)(4) Teaching Has a teaching certificate issued by the state of Louisiana,
+22 Department of Education, or the equivalent thereof, and one year supervisory
+23 experience in the security field.
+24 F. All firearms training required by this Chapter shall be administered by a
+25 licensed instructor who does both of the following:
+26 (1) Meets the same qualifications of a classroom instructor as required by
+27 Subsection E; and.
+28 (2) Has successfully completed training and possesses a National Rifle
+29 Association Security or Police Firearms Instructor certificate, or a P.O.S.T. Firearm
+Page 14 of 26
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-127 ORIGINAL
+HB NO. 921
+1 Instructor Certificate, or a Department of Energy Firearms Instructor Certificate, or
+2 certification by a branch of the United States military.
+3 * * *
+4 J. Current and former law enforcement officers or current or former military
+5 law enforcement officers who have successfully completed a P.O.S.T. certification
+6 and firearms training program or equivalent within one year prior to application may
+7 submit proof of such documentation to the board as proof of training, which shall be
+8 considered the equivalent of the classroom training for security officers as required
+9 in Paragraphs (B)(1), and (2), and (4) of this Section, but shall not exempt them from
+10 the requirements of Paragraph (D)(1) of this Section.
+11 * * *
+12 §3284.1. Security canine and detector canine programs
+13 A. The board shall license and regulate canine handlers and canine teams.
+14 B. The board shall approve all canine training programs and shall establish
+15 minimum standards for certification and recertification of security canines, detector
+16 canines, and their handlers.
+17 C. No canine may be deployed by a licensee unless both the canine and its
+18 handler are certified in accordance with rules adopted by the board.
+19 D. Detector canine programs shall be conducted in compliance with all
+20 applicable federal laws and regulations, including but not limited to those
+21 administered by the United States Drug Enforcement Administration and the Bureau
+22 of Alcohol, Tobacco, Firearms, and Explosives.
+23 E. Any positive indication of explosives or controlled dangerous substances
+24 by a detector canine team shall be immediately reported to the appropriate law
+25 enforcement authority.
+26 F. The board shall require each licensee employing canine teams to maintain
+27 liability insurance coverage.
+28 * * *
+29 §3287. Renewal of license, certificate; penalty
+Page 15 of 26
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-127 ORIGINAL
+HB NO. 921
+1 * * *
+2 C. The licensee, within fifteen thirty days after receipt of such notice of
+3 intent to refuse to renew a license, may request a hearing on such refusal pursuant
+4 to R.S. 37:3279.1. A licensee shall be permitted to continue to be engaged in
+5 business while his renewal application is pending.
+6 §3288. Administrative penalties
+7 A.(1) Any person who is determined by the board, after reasonable notice
+8 and opportunity for a fair and impartial hearing held conducted in accordance with
+9 the Administrative Procedure Act and R.S. 37:3279.1, to have committed an
+10 egregious act that is a or willful violation of this Chapter or regulation or rule issued
+11 thereunder or any rule or regulation adopted pursuant to this Chapter is subject to an
+12 administrative penalty of not more than five thousand dollars per violation per day
+13 and shall subject such person to revocation of his license. The board may, upon
+14 written findings of fact and conclusions of law, impose probation, suspension, or
+15 revocation of any license or registration issued in accordance with this Chapter.
+16 Such egregious acts shall include but not be limited to the following:
+17 (a) Knowingly operating Operating a private security business without
+18 meeting maintaining the insurance requirements as provided for in this Chapter.
+19 (b) Consistently Repeatedly or deliberately operating a private security
+20 business in violation of the insurance requirements provided for in this Chapter.
+21 (c) Submitting fraudulent documents to the board as required or requested
+22 by the board or causing to be submitted false, forged, fraudulent, or materially
+23 misleading documents or information to the board.
+24 (d) Forgery of, altering, or falsifying any documentation or information
+25 submitted or required to be submitted to the board.
+26 (e) Operating a private security business without obtaining the required
+27 firearms training or allowing personnel to operate in a capacity requiring firearms
+28 authorization without the required firearms training, certification, or qualification.
+Page 16 of 26
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-127 ORIGINAL
+HB NO. 921
+1 (2) Any person committing any non-egregious acts in a non-egregious
+2 violation of this Chapter or any regulation or rule issued thereunder pursuant to this
+3 Chapter is subject to an administrative penalty of not more than one thousand dollars
+4 per violation per day. In lieu of a fine for a first-time, non-willful violation, the
+5 board may issue a written warning or require the violator to complete a corrective
+6 action plan within a prescribed time period.
+7 B. The board, in accordance with the Administrative Procedure Act, may and
+8 the division of administration shall adopt a schedule of administrative penalties and
+9 corrective actions for minor violations that can be assessed by the executive
+10 secretary director when the violator waives the right to an administrative hearing.
+11 * * *
+12 §3292. Violations; penalties
+13 * * *
+14 B.(1) Whoever willfully violates any provisions of this Chapter shall, for a
+15 first offense, be fined not less than one hundred dollars nor more than five hundred
+16 dollars, or imprisoned for not less than ten days nor more than five months, or both.
+17 (2) For a second offense within five years of the first offense, the offender
+18 shall be fined not less than five hundred dollars nor more than one thousand dollars,
+19 or imprisoned for not less than thirty days nor more than one year, or both.
+20 C. If a violation of this Section involves engaging in the private security
+21 business without ever having submitted an application for licensure to the board, the
+22 following penalties apply:
+23 (1) A fine not less than one thousand dollars nor more than two thousand
+24 dollars.
+25 (2) Imprisonment, if imposed, shall include a mandatory minimum of thirty
+26 days without benefit of probation, parole, or suspension of sentence.
+27 §3293. Cease and desist order; injunctive relief
+28 * * *
+Page 17 of 26
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-127 ORIGINAL
+HB NO. 921
+1 C.(1) Upon a proper showing by the board that such person or firm has
+2 engaged in any activity, conduct, or practice prohibited by this Chapter, the court
+3 shall issue a temporary restraining order restraining the person or firm from engaging
+4 in unlawful activity, conduct, or practices pending the hearing on a preliminary
+5 injunction, and in due course a permanent injunction shall be issued after a hearing
+6 pursuant to R.S. 37:3279.1, commanding the cessation of the unlawful activity,
+7 conduct, or practices complained of, all without the necessity of the board having to
+8 give bond as usually required in such cases.
+9 * * *
+10 Section 2. R.S. 37:3272(20) is hereby be repealed in its entirety.
+11 Section 3. The Louisiana Law Institute is hereby directed to change all references
+12 from "chairman" to "chairperson" and from "executive secretary" to "executive director" in
+13 Chapter 47 of Title 37.
+14 Section 4. The Louisiana Law Institute is hereby directed to change all references
+15 from "Private Security and Licensing Law" to "Louisiana Private Security Licensing and
+16 Regulatory Act" throughout the revised statutes.
+DIGEST
+The digest printed below was prepared by House Legislative Services. It constitutes no part
+of the legislative instrument. The keyword, one-liner, abstract, and digest do not constitute
+part of the law or proof or indicia of legislative intent. [R.S. 1:13(B) and 24:177(E)]
+HB 921 Original 2026 Regular Session Muscarello
+Abstract: Provides relative to private security examiners.
+Present law provides relative to licensing of private security examiners.
+Present law provides for purpose.
+Proposed law amends present law and adds clarifying language.
+Present law provides that the Chapter may be known and cited as the Private Security
+Regulatory and Licensing Law.
+Proposed law amends proposed law and instead provides that the Chapter shall be cited as
+"Louisiana Private Security Licensing and Regulatory Act".
+Present law provides for definitions.
+Page 18 of 26
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-127 ORIGINAL
+HB NO. 921
+Proposed law amends the definitions of "armed security officer", "branch manager", "branch
+office", "licensee", "person", "principal corporate officer", "private security business",
+"registrant", and "registration card".
+Proposed law adds the definitions of "canine handler", "canine team", "detector canine",
+"digital credential", and "security canine".
+Present law provides for the definition of "security operations manager".
+Proposed law repeals present law.
+Present law provides that the board shall consist of nine members appointed by the governor.
+One member shall be appointed from and shall reside in each of the five public service
+commission districts established by law. Four members shall be appointed from the state
+at large. Each member shall be a citizen of the U.S., a resident of this state, at least 30 years
+of age, and shall have been actively engaged in the private security business for at least five
+years. One of the members appointed at large shall be a representative of a nationally
+operated security company. Each member shall be licensed or registered with the board or
+a corporate officer of a licensed company.
+Proposed law amends present law and provides that the board shall consist of nine members
+all domiciled in this state and approved by the governor. Each member shall be a citizen of
+the U.S., a resident of this state, and at least 30 years of age.
+Proposed law provides that five members will be members of the private security industry,
+appointed by the governor, and shall be one of the following a company owner, qualifying
+agent, or instructor. One of each member shall reside from each of the five districts
+composed of certain parishes. One of the members shall be affiliated with a nationally
+operated security company. Each member shall be licensed with the board or serve as a
+corporate officer of a licensed security company, and shall have been actively engaged in
+the private security industry for a minimum of five years.
+Proposed law provides that four members will be at-large appointments appointed from the
+following agencies:
+(1) One at-large member nominated from the tourism industry by the lieutenant
+governor.
+(2) One at-large member nominated from the insurance industry by the commissioner
+of the La. Dept. of Insurance.
+(3) One at-large member nominated from the law enforcement community by the
+superintendent of the office of State Police.
+(4) One at-large member nominated from the Academy Directors Assoc. by the director
+of the La. Commission on Law Enforcement.
+Proposed law provides that the governor may remove any or all members of the board for
+inefficiency or neglect of duty.
+Proposed law provides that the board is prohibited from adopting any rules or regulations
+that would impose additional eligibility requirements for membership.
+Present law provides that the board shall:
+(1) Examine all applicants to be licensed and regulated under the provisions of this
+present law.
+Page 19 of 26
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-127 ORIGINAL
+HB NO. 921
+(2) Administer a written examination for prospective licensees at least twice each year.
+(3) Adopt rules and regulations to govern the practice of private security in the state of
+Louisiana.
+(4) Issue, suspend, modify, or revoke licenses or registration cards to provide private
+security in the state of Louisiana.
+(5) Report to the attorney general of the state of La. all persons violating the provisions
+of this present law.
+(6) Report annually, no later than March 1, to the governor, the secretary of the
+department, and the legislature on its activities.
+(7) Adopt rules to authorize the assessment of administrative penalties in the form of
+fines not to exceed five hundred dollars per violation and cost of the board's
+proceedings.
+Proposed law amends present law to require that the board shall instead:
+(1) Examine all applicants to be licensed and regulated in accordance with the provisions
+of this present and proposed law through written or digital application and
+verification systems.
+(2) Administer an examination for prospective licensees.
+(3) Adopt and promulgate rules and regulations to govern the practice of private security
+in this state in accordance with the APA.
+(4) Issue, suspend, modify, place on probation, or revoke digital or physical licenses or
+registration credentials authorizing private security services within this state.
+(5) Refer matters of potential criminal or civil violation to appropriate authorities as
+deemed necessary, in consultation with the board's legal counsel.
+(6) Report annually to the governor, the legislative auditor, and commissioner of
+administration on its operations, finances, and regulatory activities.
+(7) Adopt rules to authorize the assessment of administrative penalties pursuant to this
+present and proposed law.
+Proposed law requires the board to adopt rules to regulate private security canine programs
+and deployments, including the licensing, training, certification, deployment, recertification,
+and discipline of canine handlers, security canines, and detector canines, in compliance with
+applicable state and federal law.
+Present law provides that the board may:
+(1) Prescribe and adopt regulations, standards, procedures, and policies governing the
+manner and conditions under which credit shall be given by the board for
+participation in a program of continuing professional education such as the board
+may consider necessary and appropriate to maintain the highest standards of the
+private security industry in the state of La.
+(2) Authorize any member of the board to make any affidavit necessary for the issuance
+of any injunction or other legal process authorized under present law or under the
+rules and regulations of the board.
+Page 20 of 26
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-127 ORIGINAL
+HB NO. 921
+(3) Issue subpoenas to require attendance and testimony and the production of
+documents, for the purpose of enforcing the laws relative to the private security
+industry and securing evidence of violations thereof.
+(4) Employ clerical assistance necessary to carry out the administrative work of the
+board.
+(5) Purchase or otherwise acquire any real or personal property, including making or
+entering into mortgages, as may be necessary or convenient to the exercise of its
+powers in order to accomplish the purposes of present law. The board shall take title
+to and hold such property in its name as an agency of the state.
+(6) When a state of emergency has been declared in this state pursuant to present law,
+authorize the operation of out-of-state private security businesses within the state and
+the use of its employees within the state for the duration of the state of emergency
+or for a stipulated amount of time after declaration of the state of emergency, not to
+exceed 30 days from the last day of the declared state of emergency, if the private
+security business is licensed in another state in which the qualifications, insurance,
+training, and other similar requirements are at least equal to those required under
+present law and as notified the board that they intend to operate in the state and
+submits all information requested by the board.
+Proposed law amends present law to allow the board to:
+(1) Prescribe and adopt regulations, standards, procedures, and policies in accordance
+with the APA, governing the manner and conditions in which credit may be granted
+by the board for participation in continuing professional education programs, when
+such requirements are reasonably related to maintaining professional competence
+and protecting public safety within the private security industry in this state.
+(2) Authorize the chairperson, executive director, or any designated member of the
+board to make any affidavit necessary for the issuance of any injunction or other
+legal process authorized pursuant to this present and proposed law or under the rules
+and regulations of the board.
+(3) Issue subpoenas or subpoenas duces tecum to require attendance, testimony, or
+production of records necessary to enforce this present and proposed law and obtain
+evidence of violations.
+(4) Employ staff as necessary to carry out the functions of the board.
+(5) Purchase, lease, or otherwise acquire any real or personal property, including making
+or entering into mortgages, as may be necessary or convenient to the exercise of its
+powers in order to accomplish the purposes of present and proposed law. The board
+shall take title to and hold such property in its name as an agency of the state, under
+the fiscal control of the division of administration and subject to state property
+management requirements.
+(6) When a state of emergency has been declared in this state pursuant to present law
+authorize the temporary operation of out-of-state private security businesses within
+the state and the use of its employees within the state for the duration of the state of
+emergency or for a stipulated amount of time after declaration of the state of
+emergency, not to exceed 30 days from the last day of the declared state of
+emergency, if the private security business is licensed in another state in which the
+qualifications, insurance, and training are substantially equivalent to those of this
+present and proposed law and has notified the board of intent to operate and submits
+all required documentation requested by the board.
+Page 21 of 26
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-127 ORIGINAL
+HB NO. 921
+Present law provides that the board shall meet quarterly at regular meetings each year
+Proposed law amends present law and provides that the board shall meet every other month
+at regular meetings each year and adds that the board may conduct meetings by electronic
+means in accordance with present law.
+Present law provides for the duties of the executive secretary.
+Proposed law makes clarifying changes and adds that the authority from the board can
+include oversight of licensing operations, technology systems, compliance programs, and
+enforcement of present and proposed law.
+Proposed law provides that the executive director shall employ, supervise, and assign
+personnel as necessary and fix their compensation within the limits of the board's approved
+budget.
+Present law provides that the secretary shall have no financial or business interests,
+contingent dealings or otherwise, in the security services investigative business, watch,
+guard, or patrol agency while so employed or for a period of five years thereafter.
+Proposed law instead provides that director shall have no direct or indirect financial or
+business interest in any private security while employed or for five years thereafter.
+Present law provides that the procedure of the board in approving or denying an application,
+if the grounds for denial are subject to correction by the applicant.
+Present law allows that if the application is denied, the applicant, within 30 days after receipt
+of notice of denial from the board, may request a hearing on the denial. Within 10 after the
+filing of such request for hearing by the applicant, the board shall schedule a hearing to be
+held after due notice to the applicant. The hearing shall be conducted in accordance with the
+APA.
+Proposed law instead provides that if the application is denied, the applicant, within 30 days
+after receipt of notice of denial from the board, may request a hearing on the denial, pursuant
+to proposed law.
+Proposed law provides the processes for appeals, hearings, and due process for an applicant
+or licensee.
+Proposed law provides that the board shall conduct all adjudicatory proceedings in
+accordance with present and proposed law and shall communicate to the applicant or
+licensee all denials, suspensions, orders, administrative penalties, and revocations in writing.
+Proposed law provides that upon written notice of adverse or disciplinary action from the
+board, the applicant or licensee has the right to elect to file a hearing with the board or the
+Division of Administrative Law within 30 days from the receipt of the notice. Proposed law
+further provides that if the applicant or licensee elects to have a hearing by the board and
+does not prevail, the ruling of the board may be appealable with the Division of
+Administrative Law and if the applicant or licensee elects to have a hearing by the Division
+of Administrative Law, the ruling shall be appealable by either the board or the applicant or
+licensee, whichever does not prevail.
+Proposed law provides that any party subject to a hearing may be represented by legal
+counsel and present evidence and testimony, and has the right to due process. Proposed law
+further provides that all hearings shall be recorded, and a complete record of all proceedings
+shall be made and that the appellant shall assume all costs associated with appeals.
+Present law provides for security officer and security operations manager registrant card.
+Page 22 of 26
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-127 ORIGINAL
+HB NO. 921
+Present law provides that the portion of the board application indicating temporary
+registration shall be carried by the applicant when he is within the scope of his employment
+until such time as he receives his permanent registration card from the board.
+Present law provides that individuals required to obtain a registration card under this shall
+file for a registration card and, upon completion thereof, the licensee shall immediately
+forward the application to the board and that every applicant for a registration card shall
+make and deliver to the licensee a sworn application in writing upon a form prescribed by
+the board.
+Proposed law removes present law and instead provides that an individual required to obtain
+a registration card shall submit a sworn application to the board for review and every
+applicant shall remit all required fees with the application to the board.
+Present law provides that actions by the board to approve or deny an application for a
+registration card shall be the same as that action taken to deny or approve an application for
+license as provided in present law.
+Proposed law amends present law to instead outline the board's process to deny or approve
+an application for license in proposed law.
+Present law provides that registration cards issued by the board shall be valid for a period
+of two years and that the cardholder shall file a registration card renewal form with the board
+not less than 30 days prior to the expiration of the card, together with the fee for renewal.
+Proposed law removes the 30 day requirement.
+Present law provides that the board may refuse to renew a registration card, and shall
+promptly notify the cardholder of its intent to refuse to renew. The cardholder, within 15
+days after receipt of such notice, may request a hearing on such refusal, in the same manner
+and in accordance with the same procedure as that provided in present law.
+Proposed law provides that the hearing procedure shall be in a manner of proposed law.
+Present law provides that any security officer employed after the effective date of present
+law shall complete, within 30 days of his first work assignment, either eight hours of
+classroom training or an approved curriculum-based training course under a licensed
+instructor and successfully pass an examination on the prescribed material.
+Proposed law removes present law and instead provides that a security officer shall
+complete, prior to his first work assignment, a minimum of 16 hours of board-required
+training consisting of Security Officer Standards and Training, or S.O.S.T, by a board-
+licensed instructor and successfully pass an examination for each course.
+Present law provides that security officers shall have 60 days from the date of the first work
+assignment to complete either an additional eight hours of classroom training or an approved
+curriculum-based training course under a licensed instructor, as prescribed by the board, and
+successfully pass a 50 question test administered by the licensed instructor by achieving a
+minimum score of 70%.
+Proposed law deletes present law and instead provides that security officers who are
+registered in other states with licensing requirements similar to this state, and law
+enforcement officers identified in this present and proposed law, may attend, prior to his first
+work assignment, four hours of board-required training consisting of Security Officer
+Standards and Training, or S.O.S.T, by a board-licensed instructor and successfully pass an
+examination.
+Page 23 of 26
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-127 ORIGINAL
+HB NO. 921
+Present law provides that no more than two of the training requirements provided for may
+be conducted during a 24 hour period.
+Proposed law increases two to 16.
+Present law requires that all classroom training and all firearms training required by present
+law shall be administered by a licensed instructor who meets certain requirements.
+Proposed law makes technical changes.
+Proposed law adds that the board shall license and regulate canine handlers and canine
+teams, approve all canine training programs, and shall establish minimum standards for
+certification and recertification of security canines, detector canines, and their handlers.
+Proposed law provides relative to detector canine programs.
+Proposed law provides for the reporting of positive indication of explosives or controlled
+dangerous substances.
+Proposed law requires each licensee employing canine teams to maintain liability insurance
+coverage.
+Present law provides that a licensee, within 15 days after receipt of such notice of intent to
+refuse to renew a license, may request a hearing on such refusal.
+Proposed law increases the days to 30 and clarifies that the hearing shall be pursuant to
+proposed law.
+Present law provides that any person who is determined by the board, after reasonable notice
+and opportunity for a fair and impartial hearing held in accordance with the APA to have
+committed an egregious act that is a violation of present law or regulation or rule issued
+thereunder is subject to an administrative penalty of not more than $5000 per violation per
+day and shall subject such person to revocation of his license. Such egregious acts shall
+include but not be limited to the following:
+(a) Knowingly operating a private security business without meeting the insurance
+requirements as provided for in present law.
+(b) Consistently operating a private security business in violation of the insurance
+requirements provided for in this present law.
+(c) Submitting fraudulent documents to the board as required or requested by the board.
+(d) Forgery of any documentation submitted to the board.
+(e) Operating a private security business without obtaining the required firearms
+training.
+Proposed law amends present law to instead provide that any person who is determined by
+the board, after reasonable notice and opportunity for a fair and impartial hearing conducted
+in accordance with the APA and proposed law, to have committed an egregious act or willful
+violation of present and proposed law or regulation or rule issued thereunder or any rule or
+regulation adopted pursuant to present and proposed law is subject to an administrative
+penalty of not more than $5,000 per violation per day and shall subject such person to
+revocation of his license. The board may, upon written findings of fact and conclusions of
+law, impose probation, suspension, or revocation of any license or registration issued in
+accordance with present and proposed law. Such egregious acts shall include but not be
+limited to the following:
+Page 24 of 26
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-127 ORIGINAL
+HB NO. 921
+(1) Operating a private security business without maintaining the insurance requirements
+as provided for in present and proposed law.
+(2) Repeatedly or deliberately operating a private security business in violation of the
+insurance requirements provided for in this present and proposed law.
+(3) Submitting fraudulent documents to the board as required or requested by the board
+or causing to be submitted false, forged, fraudulent, or materially misleading
+documents or information to the board.
+(4) Forgery of, altering, or falsifying any documentation or information submitted or
+required to be submitted to the board.
+(5) Operating a private security business without obtaining the required firearms training
+or allowing personnel to operate in a capacity requiring firearms authorization
+without the required firearms training, certification, or qualification.
+Present law provides that any person committing any non-egregious acts in violation of
+present law or any regulation or rule issued thereunder is subject to an administrative penalty
+of not more than $1000 per violation per day.
+Proposed law adds that in lieu of a fine for a first-time, non-willful violation, the board may
+issue a written warning or require the violator to complete a corrective action plan within a
+prescribed time period.
+Present law provides that the board, in accordance with the APA, may adopt a schedule of
+administrative penalties for minor violations that can be assessed by the executive secretary
+when the violator waives the right to an administrative hearing.
+Proposed law provides that the division of administration shall also adopt a schedule of
+administrative penalties and corrective actions for minor violations.
+Present law provides for fines for violation of present law.
+Proposed law provides that the present law shall apply to first offenses.
+Proposed law provides for fines after a first offense.
+Proposed law provides for fines and imprisonment for violations that involve engaging in
+the private security business without ever having submitted an application for licensure to
+the board.
+Present law provides for a restraining order for acts prohibited by present law.
+Proposed law amends the hearing process for restraining orders.
+Proposed law provides for technical changes in present law.
+Proposed law directs the La. Law Institute to change all references of "executive secretary"
+to "executive director" throughout the Chapter.
+Proposed law directs the La. Law Institute change all references from "Private Security and
+Licensing Law" to "Louisiana Private Security Licensing and Regulatory Act" throughout
+the revised statutes.
+(Amends R.S. 37:3270, 3271, 3272(A)(2), (5), (6), (9), (11), (13)-(15), (17), and (18),
+3273(B) and (C), 3274(A)(1)-(5), (7), and (11), (B)(1)-(4), (6), (7), (10), and (11), (C), and
+Page 25 of 26
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-127 ORIGINAL
+HB NO. 921
+(D), 3275, 3279(A)(3), 3283(A), (D), and (F)(1) and (2), 3284(B)(1), (4), and (5), (E), (F),
+and (J), 3287(C), 3288, 3292(B), and 3293(C)(1); Adds R.S. 37:3272(21)-(25), 3273(I),
+3274(A)(12), 3279.1, 3284.1, 3292(C); Repeals R.S. 37:3272(20))
+Page 26 of 26
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+[DELETED: 7O ( 3 a 3 ( ( a ( 3 ( a ( ( ( a ( 3 3 a 3 t e R 3 t ( 3 d c p t p f l r t p f a ( ( a ( 3 3 3 ( a ( a (]
+[DELETED: 7O c a o m i a p f i w w a i t c t t s h a w a C s b k a m b c a t P S d b t b  A o d o o w n]
+[DELETED: 7O l f a b o d b t l r f t  " m a p t w a l i g i  " c o m t p v p]
+[DELETED: 7O r a e t t r h m t r m o m D c s o s f d a b t g a b t g  O m s b r e t f p s]
+[DELETED: 7O F m w b t p i  D 4 T p o A A A B C E G I J D L  D 5 T p o B B C C M M O R R R T U]
+[DELETED: 7O  F m w b a a a f t  O a m n f t t i b t  O a m n f t A D  T g m r a o a m o t b f t p o t C t w o d a a]
+[DELETED: 7O s i t s o L t s i a w t a c o a o i o f a  A r t r p s c p a i t l t c d  A a e r a r b a r o]
+[DELETED: 7O s i i t s o L i a w t o t b t m a a n f t i o a  E c a s a n t c o t]
+[DELETED: 7O s d o c o t c c o a f]
+[DELETED: 7O a a b b T]
+[DELETED: 7O p t r o t b m b a w t D o L t r s b a b e t b o t  S o a s o m r c]
+[DELETED: 7O]
+[DELETED: 7O S O S a T o S b a b]
+[DELETED: 7O o b t c o S O S a o S b a b i a s p a  M t q o a a a r b R o E o t e t a o y s]
+[DELETED: 7O f l a r i b n l t t]
+[DELETED: 7O A P A a R 3 t h c a  K o O a p s b w R o d o a]
+[DELETED: 7O  A p c a n a i a n a f m v t c b a b t e]
+[DELETED: 7Ol2nM]
+[DELETED: 7O " " " c o " s b o i O o e m s r f e o t f d)O a m n f t t i b t l)O)O a m n f t l e c b t)O)E]
+[DELETED: 7O   A)I)R)R a n l t M 1 t t g t s o t)A n t e f h d p v a c o t b)E t p a p l t w o d a a A)A)I)R)R a t t g t l a a c o)A)P a c u w c s b g b t b f)A]
+[DELETED: 7O I s t r a a t a t p)E P)W P)A)I)E)P)W o f a s a o t a d o t s o n t e 3 d f t l d o t d s o]
+[DELETED: 7O l t e d e s l p t t s s h n f o b i l p t t b s c a a p i p c t a o n p t r o t b m b a w t D o]
+[DELETED: 7O l p t t p o t b a i t t o a a c t c u a l l r p l a i p t a s o s l d p l a i p t s o w a i o s w l r s t t s a l a f h o b t c o S O]
+[DELETED: 7O)K)C o a p s b i v o t i)S)F)O a p s b w o t r f]
+[DELETED: 7O)O)R S c t b s f f f o m m)F O a p t o i a c r f a]
+[DELETED: 7O]
+
+
+================================================================================
+
+Raw Text:
+HLS 26RS-127 ORIGINAL
+2026 Regular Session
+HOUSE BILL NO. 921
+BY REPRESENTATIVE MUSCARELLO
+PRIVATE SECURITY: Provides relative to private security examiners
+1 AN ACT
+2 To amend and reenact R.S. 37:3270, 3271, 3272(A)(2), (5), (6), (9), (11), (13) through (15),
+3 (17), and (18), 3273(B) and (C), 3274(A)(1) through (5), (7), and (11), (B)(1)
+4 through (4), (6), (7), (10), and (11), (C), and (D), 3275, 3279(A)(3), 3283(A), (D),
+5 and (F)(1) and (2), 3284(B)(1), (4), and (5), (E), (F), and (J), 3287(C), 3288,
+6 3292(B), and 3293(C)(1), to enact R.S. 37:3272(21) through (25), 3273(I),
+7 3274(A)(12), 3279.1, 3284.1, 3292(C) and to repeal R.S. 37:3272(20), relative to
+8 private security examiners; to provide for purpose; to provide for short title; to
+9 provide for definitions; to provide for membership; to provide for qualifications of
+10 the board; to provide for powers and duties of the board; to provide for the duties of
+11 the executive director; to provide for the procedures of approval, denial, and appeals
+12 regarding licensees; to provide for a security officer and security operations manager
+13 registration card; to provide for training of security officers; to create security canine
+14 and detector canine programs; to provide for license renewals; to provide for
+15 violations and penalties; to provide for cease and desist orders; and to provide for
+16 related matters.
+17 Be it enacted by the Legislature of Louisiana:
+18 Section 1. R.S. 37:3270, 3271, 3272(A)(2), (5), (6), (9), (11), (13) through (15), (17),
+19 and (18), 3273(B) and (C), 3274(A)(1) through (5), (7), and (11), (B)(1) through (4), (6), (7),
+20 (10), and (11), (C), and (D), 3275, 3279(A)(3), 3283(A), (D), and (F)(1) and (2),
+Page 1 of 26
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-127 ORIGINAL
+HB NO. 921
+1 3284(B)(1), (4), and (5), (E), (F), and (J), 3287(C), 3288, 3292(B), and 3293(C)(1) are
+2 hereby amended and reenacted and R.S. 37:3272(21) through (25), 3273(I), 3274(A)(12),
+3 3279.1, 3284.1, 3292(C) are hereby enacted to read as follows:
+4 §3270. Declaration of purpose
+5 A. The Legislature of Louisiana declares that it is necessary to require the
+6 licensure and regulation of private security agents and businesses to be in the best
+7 interest of the citizens of this state licensees, qualifying agents, and security officers
+8 to promote professionalism and serve the citizens of this state.
+9 B. The purpose of this Chapter is to require qualifying criteria establish
+10 qualifying criteria and oversight mechanisms in a professional field in which
+11 unqualified or unethical individuals may injure the public. The requirements of this
+12 Chapter will are intended to contribute to the safety, health, and welfare, and
+13 accountability of the people of Louisiana.
+14 §3271. Private security law; short title
+15 This Chapter shall be known and may be cited as the Private Security
+16 Regulatory and Licensing Law "Louisiana Private Security Licensing and Regulatory
+17 Act".
+18 §3272. General definition of terms
+19 A. As used in this Chapter, the following terms shall have the following
+20 meanings ascribed to them unless otherwise defined in this Chapter:
+21 * * *
+22 (2) "Armed security officer" is an individual who provides security services
+23 and who at any time wears, carries, possesses, or has access to a firearm or any other
+24 weapon defined by the board. All other defensive or offensive weapons not
+25 approved by the board are prohibited means an individual employed by a licensed
+26 contract security company or proprietary security organization who carries or has
+27 access to an approved firearm in the performance of official duties and who has met
+28 all qualifications, training, and certification requirements established by the board.
+29 * * *
+Page 2 of 26
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-127 ORIGINAL
+HB NO. 921
+1 (5) "Branch manager" means the individual endowed with the responsibility
+2 and liability for a branch office designated by the licensee responsible for the
+3 management, supervision, and regulatory compliance of a branch office licensed by
+4 the board.
+5 (6) "Branch office" means a separate office which is part of a company
+6 licensed by the board any separate business location operated pursuant to a license
+7 issued by the board.
+8 * * *
+9 (9) "Executive secretary director" means the chief administrative officer of
+10 the board.
+11 * * *
+12 (11) "Licensee" means any person to whom a license is granted in
+13 accordance with the provisions of this Chapter or business entity licensed by the
+14 board in accordance with this Chapter.
+15 * * *
+16 (13) "Person" means an individual, firm, association, company, partnership,
+17 corporation, nonprofit organization, limited liability company, or other legal entity
+18 recognized in accordance with the laws of this state.
+19 (14) "Principal corporate officer" means the president, vice president,
+20 treasurer, secretary, or comptroller, or any other person who performs functions for
+21 the corporation corresponding to those performed by the foregoing officers who
+22 performs equivalent duties within the business organization.
+23 (15) "Private security business" is any entity that provides protection to
+24 persons and property, excluding any law enforcement agency, but including any of
+25 the following:
+26 (a) Contract security company; or.
+27 (b) Armored car company or armed courier company.
+28 * * *
+Page 3 of 26
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-127 ORIGINAL
+HB NO. 921
+1 (17) "Registrant" means an individual who holds a valid registration card
+2 issued by the board a current registration issued by the board in accordance with this
+3 Chapter.
+4 (18) "Registration card" means the identification card issued by the board to
+5 a registrant as evidence that the registrant has met the required minimum
+6 qualifications a physical or digital credential issued by the board evidencing that the
+7 registrant has met the qualifications and training required by this Chapter.
+8 * * *
+9 (21) "Canine handler" means a licensed security officer registered with the
+10 board who has completed a board-approved training program and who is certified to
+11 deploy with a security canine or detector canine.
+12 (22) "Canine team" means a canine and its assigned handler who function
+13 as a unit.
+14 (23) "Detector canine" means a dog specifically trained and certified for use
+15 in private-security operations to detect explosives or controlled dangerous substances
+16 by olfactory means. Detector canines shall operate solely for detection and
+17 notification purposes and shall not be used to conduct searches, seizures, or arrests.
+18 (24) "Digital credential" means an electronic license or registration card
+19 issued by the board that verifies the person's qualifications and status.
+20 (25) "Security canine" means a dog specifically trained and certified for use
+21 in private-security patrol operations, including deterrence, handler protection, and
+22 property protection.
+23 * * *
+24 §3273. Louisiana State Board of Private Security Examiners; creation; qualification;
+25 domicile; term of office; confirmation; oath of office; compensation
+26 * * *
+27 B.(1) The board shall consist of nine members all domiciled in this state and
+28 approved by the governor. appointed by the governor. One member shall be
+29 appointed from and shall reside in each of the five public service commission
+Page 4 of 26
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-127 ORIGINAL
+HB NO. 921
+1 districts established by law. Four members shall be appointed from the state at large.
+2 Each member shall be a citizen of the United States of America, a resident of
+3 Louisiana, and at least thirty years of age, and shall have been actively engaged in
+4 the private security business for at least five years. One of the members appointed
+5 at large shall be a representative of a nationally operated security company. Each
+6 member shall be licensed or registered with the board or a corporate officer of a
+7 licensed company.
+8 (2)(a) Five members will be members of the private security industry,
+9 appointed by the governor, and shall be one of the following:
+10 (i) Company owner.
+11 (ii) Qualifying agent.
+12 (iii) Instructor.
+13 (b) From the five members listed in this Paragraph, one member shall reside
+14 from each of the five districts composed as follows:
+15 (i) District 1: The parishes of Orleans, Plaquemines, and St. Bernard.
+16 (ii) District 2: The parishes of Assumption, Jefferson, Lafourche, St. Charles,
+17 St. James, St. John the Baptist, St. Tammany, Terrebonne, and Washington.
+18 (iii) District 3: The parishes of Ascension, East Baton Rouge, East Feliciana,
+19 Iberville, Livingston, St. Helena, St. Martin, Tangipahoa, West Baton Rouge, and
+20 West Feliciana.
+21 (iv) District 4: The parishes of Acadia, Allen, Avoyelles, Beauregard,
+22 Calcasieu, Cameron, Evangeline, Grant, Iberia, Jefferson Davis, Lafayette,
+23 Natchitoches, Pointe Coupee, Rapides, Sabine, St. Landry, St. Mary, Vermilion, and
+24 Vernon.
+25 (v) District 5: The parishes of Bienville, Bossier, Caddo, Caldwell,
+26 Catahoula, Claiborne, Concordia, DeSoto, East Carroll, Franklin, Jackson, LaSalle,
+27 Lincoln, Madison, Morehouse, Ouachita, Red River, Richland, Tensas, Union,
+28 Webster, West Carroll, and Winn.
+Page 5 of 26
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-127 ORIGINAL
+HB NO. 921
+1 (c) One of the five members listed in this Paragraph shall be affiliated with
+2 a nationally operated security company.
+3 (d) Each member listed in this Paragraph shall be licensed with the board or
+4 serve as a corporate officer of a licensed security company.
+5 (e) Each member listed in this Paragraph shall have been actively engaged
+6 in the private security industry for a minimum of five years.
+7 (3) Four members will be at-large appointments appointed from the
+8 following agencies:
+9 (a) One at-large member nominated from the tourism industry by the
+10 lieutenant governor.
+11 (b) One at-large member nominated from the insurance industry by the
+12 commissioner of the Louisiana Department of Insurance.
+13 (c) One at-large member nominated from the law enforcement community
+14 by the superintendent of the office of State Police.
+15 (d) One at-large member nominated from the Academy Directors
+16 Association by the director of the Louisiana Commission on Law Enforcement.
+17 (4) The governor may remove any or all members of the board for
+18 inefficiency or neglect of duty.
+19 C. The board shall be domiciled in Baton Rouge, but shall be authorized to
+20 may meet elsewhere in the state.
+21 * * *
+22 I. The board is prohibited from adopting any rules or regulations that would
+23 impose additional eligibility requirements for membership.
+24 §3274. Powers, duties, authorities, and responsibilities; meetings; quorum
+25 A. The board shall:
+26 (1) Examine all applicants to be licensed and regulated under in accordance
+27 with the provisions of this Chapter through written or digital application and
+28 verification systems.
+Page 6 of 26
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-127 ORIGINAL
+HB NO. 921
+1 (2) Administer a written an examination for prospective licensees at least
+2 twice each year.
+3 (3) Adopt and promulgate rules and regulations to govern the practice of
+4 private security in the state of Louisiana this state in accordance with the
+5 Administrative Procedure Act.
+6 (4) Issue, suspend, modify, place on probation, or revoke digital or physical
+7 licenses or registration cards to provide credentials authorizing private security in the
+8 state of Louisiana services within this state.
+9 (5) Report to the attorney general of the state of Louisiana all persons
+10 violating the provisions of this Chapter Refer matters of potential criminal or civil
+11 violation to appropriate authorities as deemed necessary, in consultation with the
+12 board's legal counsel.
+13 * * *
+14 (7) Report annually, no later than March 1, to the governor, the secretary of
+15 the department, and the legislature on its activities to the governor, the legislative
+16 auditor, and commissioner of administration on its operations, finances, and
+17 regulatory activities.
+18 * * *
+19 (11) Adopt rules to authorize the assessment of administrative penalties in
+20 the form of fines not to exceed five hundred dollars per violation and cost of the
+21 board's proceedings pursuant to this Chapter.
+22 (12) Adopt rules to regulate private security canine programs and
+23 deployments, including the licensing, training, certification, deployment,
+24 recertification, and discipline of canine handlers, security canines, and detector
+25 canines, in compliance with applicable state and federal law.
+26 B. The board may:
+27 (1) Adopt and enforce rules and regulations, bylaws, and rules of
+28 professional conduct as the board may deem necessary and proper to regulate private
+29 security businesses in the state of Louisiana in this state, to provide for the efficient
+Page 7 of 26
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-127 ORIGINAL
+HB NO. 921
+1 operation of the board, and otherwise to discharge its duties and powers under in
+2 accordance with this Chapter.
+3 (2) Prescribe and adopt regulations, standards, procedures, and policies
+4 governing the manner and conditions under which credit shall be given by the board
+5 for participation in a program of continuing professional education such as the board
+6 may consider necessary and appropriate to maintain the highest standards of the
+7 private security industry in the state of Louisiana. in accordance with the
+8 Administrative Procedure Act, governing the manner and conditions in which credit
+9 may be granted by the board for participation in continuing professional education
+10 programs, when such requirements are reasonably related to maintaining professional
+11 competence and protecting public safety within the private security industry in this
+12 state.
+13 (3) Authorize any the chairperson, executive director, or any designated
+14 member of the board to make any affidavit necessary for the issuance of any
+15 injunction or other legal process authorized under pursuant to this Chapter or under
+16 the rules and regulations of the board.
+17 (4) Issue subpoenas to require attendance and testimony and the production
+18 of documents, for the purpose of enforcing the laws relative to the private security
+19 industry and securing evidence of violations thereof or subpoenas duces tecum to
+20 require attendance, testimony, or production of records necessary to enforce this
+21 Chapter and obtain evidence of violations.
+22 * * *
+23 (6) Appoint a qualified executive secretary director.
+24 (7) Employ clerical assistance staff as necessary to carry out the
+25 administrative work functions of the board.
+26 * * *
+27 (10) Purchase, lease, or otherwise acquire any real or personal property,
+28 including making or entering into mortgages, as may be necessary or convenient to
+29 the exercise of its powers in order to accomplish the purposes of this Chapter. The
+Page 8 of 26
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-127 ORIGINAL
+HB NO. 921
+1 board shall take title to and hold such property in its name as an agency of the state,
+2 under the fiscal control of the division of administration and subject to state property
+3 management requirements.
+4 (11) When a state of emergency has been declared in this state pursuant to
+5 R.S. 14:329.6, authorize the temporary operation of out-of-state private security
+6 businesses within the state and the use of its employees within the state for the
+7 duration of the state of emergency or for a stipulated amount of time after declaration
+8 of the state of emergency, not to exceed thirty days from the last day of the declared
+9 state of emergency, if the private security business:
+10 (a) Is licensed in another state in which the qualifications, insurance, and
+11 training, and other similar requirements are at least equal to those required under this
+12 Chapter are substantially equivalent to those of this Chapter.
+13 (b) Has notified the board that they intend of intent to operate in the state and
+14 submits all information required documentation requested by the board.
+15 C. The chairman chairperson and executive secretary director of the board,
+16 or in their absence any other member of the board, may administer oaths in the
+17 taking of testimony upon any matter appertaining to the duties and powers of the
+18 board.
+19 D. The board shall meet quarterly every other month at regular meetings
+20 each year. A special meeting may be held at such time and place as specified by the
+21 executive secretary director on call of the chairman chairperson or any four
+22 members. The executive secretary director shall give written notice of all meetings
+23 to the members of the board and to the interested public, and may conduct meetings
+24 by electronic means in accordance with the Open Meetings Law, R.S. 42:11 et seq.
+25 * * *
+26 §3275. Executive secretary director; duties
+27 The position of executive secretary director of the board is hereby created.
+28 The executive secretary director shall be appointed by the board and shall serve as
+29 its chief administrator administrative and operational officer. He shall not be a
+Page 9 of 26
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-127 ORIGINAL
+HB NO. 921
+1 member of the board, but shall be a full-time employee of the board, to be paid
+2 compensation compensated in an amount to be determined by the board. The
+3 executive secretary director shall perform such the duties as may be and exercise the
+4 authority as prescribed by the board, and shall employ such persons as he deems
+5 necessary and fix their compensation. including oversight of licensing operations,
+6 technology systems, compliance programs, and enforcement of this Chapter. The
+7 executive director shall employ, supervise, and assign personnel as necessary and fix
+8 their compensation within the limits of the board's approved budget. He shall have
+9 no financial or business interests, contingent dealings or otherwise, in the security
+10 services investigative business, watch, guard, or patrol agency while so employed or
+11 for a period of direct or indirect financial or business interest in any private security
+12 while employed or for five years thereafter.
+13 * * *
+14 §3279. Approval, denial; procedure; appeals; prior qualifications
+15 A. The procedure of the board in approving or denying an application shall
+16 be as follows:
+17 * * *
+18 (3)(a) If the grounds for denial are subject to correction by the applicant, the
+19 notice of denial shall so state and the applicant shall be given ten days after receipt
+20 of such notice or, upon application, a reasonable additional period of time within
+21 which to make the required correction.
+22 (b) If the application is denied, the applicant, within thirty days after receipt
+23 of notice of denial from the board, may request a hearing on the denial, pursuant to
+24 R.S. 37:3279.1. Within ten days after the filing of such request for hearing by the
+25 applicant, the board shall schedule a hearing to be held after due notice to the
+26 applicant. The hearing shall be conducted in accordance with the Administrative
+27 Procedure Act.
+28 * * *
+29 §3279.1. Appeals; hearings; procedures; due process
+Page 10 of 26
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-127 ORIGINAL
+HB NO. 921
+1 A. The board shall conduct all adjudicatory proceedings in accordance with
+2 the Administrative Procedure Act, R.S. 49:950 et seq., and the provisions of this
+3 Chapter.
+4 B. The board shall communicate to the applicant or licensee all denials,
+5 suspensions, orders, administrative penalties, and revocations in writing.
+6 C. Upon written notice of adverse or disciplinary action from the board, the
+7 applicant or licensee has the right to elect to file a hearing with the board or the
+8 Division of Administrative Law within thirty days from the receipt of the notice.
+9 (1) If the applicant or licensee elects to have a hearing by the board and does
+10 not prevail, the ruling of the board may be appealable with the Division of
+11 Administrative Law.
+12 (2) If the applicant or licensee elects to have a hearing by the Division of
+13 Administrative Law, the ruling shall be appealable by either the board or the
+14 applicant or licensee, whichever does not prevail.
+15 D. Any party subject to a hearing may be represented by legal counsel and
+16 present evidence and testimony, and has the right to due process.
+17 E. All hearings shall be recorded, and a complete record of all proceedings
+18 shall be made.
+19 F. The appellant shall assume all costs associated with appeals.
+20 * * *
+21 §3283. Security officer and security operations manager registrant; card;
+22 application; qualifications; investigation; denial, suspension, or revocation;
+23 validity; renewal; change of address
+24 A.(1) Each person who performs the functions and duties of a security
+25 officer or security operations manager within this state as defined in this Chapter
+26 shall apply to the board for a registration card.
+27 (2) The portion of the board application indicating temporary registration
+28 shall be carried by the applicant when he is within the scope of his employment until
+29 such time as he receives his permanent registration card from the board.
+Page 11 of 26
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-127 ORIGINAL
+HB NO. 921
+1 (3) (2)(a) Individuals An individual required to obtain a registration card
+2 under this Chapter shall file for a registration card and, upon completion thereof, the
+3 licensee shall immediately forward the application shall submit a sworn application
+4 to the board for review.
+5 (b) Every applicant shall remit all required fees with the application to the
+6 board.
+7 (4)(a) Every applicant for a registration card shall make and deliver to the
+8 licensee a sworn application in writing upon a form prescribed by the board.
+9 (b) (3)(a) The board shall prescribe by rule the form for such application and
+10 procedures for their its submission, consideration and disposition, including the fee
+11 to accompany the application.
+12 (c)(b) To be eligible to apply for a registration card an individual shall have
+13 the same qualifications required of an applicant provided in R.S. 37:3276 but may
+14 be a resident alien.
+15 * * *
+16 D. After receipt of an application for a registration card, the board shall
+17 conduct an investigation to determine whether the facts set forth in the application
+18 are true. Actions by the board to approve or deny an application for a registration
+19 card shall be the same as that action taken to deny or approve an application for
+20 license as provided in R.S. 37:3279 37:3279.1.
+21 * * *
+22 F.(1) Registration cards issued by the board shall be valid for a period of two
+23 years. The registrant shall be required to advise the board of any changes in his
+24 status or permanent address during the valid period. The cardholder shall file a
+25 registration card renewal form with the board not less than thirty days prior to the
+26 expiration of the card, together with the fee for renewal. The renewal application
+27 shall include a statement by the registrant that the registrant continues to meet the
+28 qualifications as set forth by the board.
+Page 12 of 26
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-127 ORIGINAL
+HB NO. 921
+1 (2) The board may refuse to renew a registration card, and shall promptly
+2 notify the cardholder of its intent to refuse to renew. The cardholder, within fifteen
+3 days after receipt of such notice, may request a hearing on such refusal, in the same
+4 manner and in accordance with the same procedure as that provided in R.S. 37:3279
+5 37:3279.1.
+6 * * *
+7 §3284. Training of security officers; requirements
+8 * * *
+9 B.(1) Any security officer employed after the effective date of this Chapter
+10 shall complete, within thirty days of his first work assignment, either eight hours of
+11 classroom training or an approved curriculum-based training course under a licensed
+12 instructor and successfully pass an examination on the prescribed material which
+13 shall include the following topics: A security officer shall complete, prior to his first
+14 work assignment, a minimum of sixteen hours of board-required training consisting
+15 of Security Officer Standards and Training, or S.O.S.T, by a board-licensed
+16 instructor and successfully pass an examination for each course.
+17 (a) Orientation to R.S. 37:3270 through 3299 and the board's rules and
+18 regulations.
+19 (b) Legal powers and limitations of a security officer.
+20 (c) Emergency procedures.
+21 (d) General duties/field notes/report writing.
+22 * * *
+23 (4) Security officers shall have sixty days from the date of the first work
+24 assignment to complete either an additional eight hours of classroom training or an
+25 approved curriculum-based training course under a licensed instructor, as prescribed
+26 by the board, and successfully pass a fifty-question test administered by the licensed
+27 instructor by achieving a minimum score of seventy percent who are registered in
+28 other states with licensing requirements similar to this state and law enforcement
+29 officers identified in this Section, may attend, prior to his first work assignment, four
+Page 13 of 26
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-127 ORIGINAL
+HB NO. 921
+1 hours of board-required training consisting of Security Officer Standards and
+2 Training, or S.O.S.T, by a board-licensed instructor and successfully pass an
+3 examination.
+4 (5) No more than two sixteen hours of the training requirements provided for
+5 in Paragraphs (1), and (2), and (4) of this Subsection may be conducted during a
+6 twenty-four-hour period.
+7 * * *
+8 E. All classroom training required by this Chapter shall be administered by
+9 a licensed instructor who is approved by the board, meets the qualifications of an
+10 applicant as required by R.S. 37:3276(A)(1) through (6), and at least one of the
+11 following:
+12 (1) Is approved by the board.
+13 (2) Meets the qualifications of an applicant as required by R.S.
+14 37:3276(A)(1) through (6);
+15 (3)(1) Has a minimum of three years supervisory experience with a contract
+16 security company, proprietary security organization, or with any federal, state, local,
+17 parochial, municipal, or United States military law enforcement agency; or.
+18 (4)(2) Degree Has a degree in administration of justice or the equivalent
+19 thereof from an accredited college or university; or.
+20 (5)(3) Is P.O.S.T. certified instructor; or.
+21 (6)(4) Teaching Has a teaching certificate issued by the state of Louisiana,
+22 Department of Education, or the equivalent thereof, and one year supervisory
+23 experience in the security field.
+24 F. All firearms training required by this Chapter shall be administered by a
+25 licensed instructor who does both of the following:
+26 (1) Meets the same qualifications of a classroom instructor as required by
+27 Subsection E; and.
+28 (2) Has successfully completed training and possesses a National Rifle
+29 Association Security or Police Firearms Instructor certificate, or a P.O.S.T. Firearm
+Page 14 of 26
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-127 ORIGINAL
+HB NO. 921
+1 Instructor Certificate, or a Department of Energy Firearms Instructor Certificate, or
+2 certification by a branch of the United States military.
+3 * * *
+4 J. Current and former law enforcement officers or current or former military
+5 law enforcement officers who have successfully completed a P.O.S.T. certification
+6 and firearms training program or equivalent within one year prior to application may
+7 submit proof of such documentation to the board as proof of training, which shall be
+8 considered the equivalent of the classroom training for security officers as required
+9 in Paragraphs (B)(1), and (2), and (4) of this Section, but shall not exempt them from
+10 the requirements of Paragraph (D)(1) of this Section.
+11 * * *
+12 §3284.1. Security canine and detector canine programs
+13 A. The board shall license and regulate canine handlers and canine teams.
+14 B. The board shall approve all canine training programs and shall establish
+15 minimum standards for certification and recertification of security canines, detector
+16 canines, and their handlers.
+17 C. No canine may be deployed by a licensee unless both the canine and its
+18 handler are certified in accordance with rules adopted by the board.
+19 D. Detector canine programs shall be conducted in compliance with all
+20 applicable federal laws and regulations, including but not limited to those
+21 administered by the United States Drug Enforcement Administration and the Bureau
+22 of Alcohol, Tobacco, Firearms, and Explosives.
+23 E. Any positive indication of explosives or controlled dangerous substances
+24 by a detector canine team shall be immediately reported to the appropriate law
+25 enforcement authority.
+26 F. The board shall require each licensee employing canine teams to maintain
+27 liability insurance coverage.
+28 * * *
+29 §3287. Renewal of license, certificate; penalty
+Page 15 of 26
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-127 ORIGINAL
+HB NO. 921
+1 * * *
+2 C. The licensee, within fifteen thirty days after receipt of such notice of
+3 intent to refuse to renew a license, may request a hearing on such refusal pursuant
+4 to R.S. 37:3279.1. A licensee shall be permitted to continue to be engaged in
+5 business while his renewal application is pending.
+6 §3288. Administrative penalties
+7 A.(1) Any person who is determined by the board, after reasonable notice
+8 and opportunity for a fair and impartial hearing held conducted in accordance with
+9 the Administrative Procedure Act and R.S. 37:3279.1, to have committed an
+10 egregious act that is a or willful violation of this Chapter or regulation or rule issued
+11 thereunder or any rule or regulation adopted pursuant to this Chapter is subject to an
+12 administrative penalty of not more than five thousand dollars per violation per day
+13 and shall subject such person to revocation of his license. The board may, upon
+14 written findings of fact and conclusions of law, impose probation, suspension, or
+15 revocation of any license or registration issued in accordance with this Chapter.
+16 Such egregious acts shall include but not be limited to the following:
+17 (a) Knowingly operating Operating a private security business without
+18 meeting maintaining the insurance requirements as provided for in this Chapter.
+19 (b) Consistently Repeatedly or deliberately operating a private security
+20 business in violation of the insurance requirements provided for in this Chapter.
+21 (c) Submitting fraudulent documents to the board as required or requested
+22 by the board or causing to be submitted false, forged, fraudulent, or materially
+23 misleading documents or information to the board.
+24 (d) Forgery of, altering, or falsifying any documentation or information
+25 submitted or required to be submitted to the board.
+26 (e) Operating a private security business without obtaining the required
+27 firearms training or allowing personnel to operate in a capacity requiring firearms
+28 authorization without the required firearms training, certification, or qualification.
+Page 16 of 26
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-127 ORIGINAL
+HB NO. 921
+1 (2) Any person committing any non-egregious acts in a non-egregious
+2 violation of this Chapter or any regulation or rule issued thereunder pursuant to this
+3 Chapter is subject to an administrative penalty of not more than one thousand dollars
+4 per violation per day. In lieu of a fine for a first-time, non-willful violation, the
+5 board may issue a written warning or require the violator to complete a corrective
+6 action plan within a prescribed time period.
+7 B. The board, in accordance with the Administrative Procedure Act, may and
+8 the division of administration shall adopt a schedule of administrative penalties and
+9 corrective actions for minor violations that can be assessed by the executive
+10 secretary director when the violator waives the right to an administrative hearing.
+11 * * *
+12 §3292. Violations; penalties
+13 * * *
+14 B.(1) Whoever willfully violates any provisions of this Chapter shall, for a
+15 first offense, be fined not less than one hundred dollars nor more than five hundred
+16 dollars, or imprisoned for not less than ten days nor more than five months, or both.
+17 (2) For a second offense within five years of the first offense, the offender
+18 shall be fined not less than five hundred dollars nor more than one thousand dollars,
+19 or imprisoned for not less than thirty days nor more than one year, or both.
+20 C. If a violation of this Section involves engaging in the private security
+21 business without ever having submitted an application for licensure to the board, the
+22 following penalties apply:
+23 (1) A fine not less than one thousand dollars nor more than two thousand
+24 dollars.
+25 (2) Imprisonment, if imposed, shall include a mandatory minimum of thirty
+26 days without benefit of probation, parole, or suspension of sentence.
+27 §3293. Cease and desist order; injunctive relief
+28 * * *
+Page 17 of 26
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-127 ORIGINAL
+HB NO. 921
+1 C.(1) Upon a proper showing by the board that such person or firm has
+2 engaged in any activity, conduct, or practice prohibited by this Chapter, the court
+3 shall issue a temporary restraining order restraining the person or firm from engaging
+4 in unlawful activity, conduct, or practices pending the hearing on a preliminary
+5 injunction, and in due course a permanent injunction shall be issued after a hearing
+6 pursuant to R.S. 37:3279.1, commanding the cessation of the unlawful activity,
+7 conduct, or practices complained of, all without the necessity of the board having to
+8 give bond as usually required in such cases.
+9 * * *
+10 Section 2. R.S. 37:3272(20) is hereby be repealed in its entirety.
+11 Section 3. The Louisiana Law Institute is hereby directed to change all references
+12 from "chairman" to "chairperson" and from "executive secretary" to "executive director" in
+13 Chapter 47 of Title 37.
+14 Section 4. The Louisiana Law Institute is hereby directed to change all references
+15 from "Private Security and Licensing Law" to "Louisiana Private Security Licensing and
+16 Regulatory Act" throughout the revised statutes.
+DIGEST
+The digest printed below was prepared by House Legislative Services. It constitutes no part
+of the legislative instrument. The keyword, one-liner, abstract, and digest do not constitute
+part of the law or proof or indicia of legislative intent. [R.S. 1:13(B) and 24:177(E)]
+HB 921 Original 2026 Regular Session Muscarello
+Abstract: Provides relative to private security examiners.
+Present law provides relative to licensing of private security examiners.
+Present law provides for purpose.
+Proposed law amends present law and adds clarifying language.
+Present law provides that the Chapter may be known and cited as the Private Security
+Regulatory and Licensing Law.
+Proposed law amends proposed law and instead provides that the Chapter shall be cited as
+"Louisiana Private Security Licensing and Regulatory Act".
+Present law provides for definitions.
+Page 18 of 26
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-127 ORIGINAL
+HB NO. 921
+Proposed law amends the definitions of "armed security officer", "branch manager", "branch
+office", "licensee", "person", "principal corporate officer", "private security business",
+"registrant", and "registration card".
+Proposed law adds the definitions of "canine handler", "canine team", "detector canine",
+"digital credential", and "security canine".
+Present law provides for the definition of "security operations manager".
+Proposed law repeals present law.
+Present law provides that the board shall consist of nine members appointed by the governor.
+One member shall be appointed from and shall reside in each of the five public service
+commission districts established by law. Four members shall be appointed from the state
+at large. Each member shall be a citizen of the U.S., a resident of this state, at least 30 years
+of age, and shall have been actively engaged in the private security business for at least five
+years. One of the members appointed at large shall be a representative of a nationally
+operated security company. Each member shall be licensed or registered with the board or
+a corporate officer of a licensed company.
+Proposed law amends present law and provides that the board shall consist of nine members
+all domiciled in this state and approved by the governor. Each member shall be a citizen of
+the U.S., a resident of this state, and at least 30 years of age.
+Proposed law provides that five members will be members of the private security industry,
+appointed by the governor, and shall be one of the following a company owner, qualifying
+agent, or instructor. One of each member shall reside from each of the five districts
+composed of certain parishes. One of the members shall be affiliated with a nationally
+operated security company. Each member shall be licensed with the board or serve as a
+corporate officer of a licensed security company, and shall have been actively engaged in
+the private security industry for a minimum of five years.
+Proposed law provides that four members will be at-large appointments appointed from the
+following agencies:
+(1) One at-large member nominated from the tourism industry by the lieutenant
+governor.
+(2) One at-large member nominated from the insurance industry by the commissioner
+of the La. Dept. of Insurance.
+(3) One at-large member nominated from the law enforcement community by the
+superintendent of the office of State Police.
+(4) One at-large member nominated from the Academy Directors Assoc. by the director
+of the La. Commission on Law Enforcement.
+Proposed law provides that the governor may remove any or all members of the board for
+inefficiency or neglect of duty.
+Proposed law provides that the board is prohibited from adopting any rules or regulations
+that would impose additional eligibility requirements for membership.
+Present law provides that the board shall:
+(1) Examine all applicants to be licensed and regulated under the provisions of this
+present law.
+Page 19 of 26
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-127 ORIGINAL
+HB NO. 921
+(2) Administer a written examination for prospective licensees at least twice each year.
+(3) Adopt rules and regulations to govern the practice of private security in the state of
+Louisiana.
+(4) Issue, suspend, modify, or revoke licenses or registration cards to provide private
+security in the state of Louisiana.
+(5) Report to the attorney general of the state of La. all persons violating the provisions
+of this present law.
+(6) Report annually, no later than March 1, to the governor, the secretary of the
+department, and the legislature on its activities.
+(7) Adopt rules to authorize the assessment of administrative penalties in the form of
+fines not to exceed five hundred dollars per violation and cost of the board's
+proceedings.
+Proposed law amends present law to require that the board shall instead:
+(1) Examine all applicants to be licensed and regulated in accordance with the provisions
+of this present and proposed law through written or digital application and
+verification systems.
+(2) Administer an examination for prospective licensees.
+(3) Adopt and promulgate rules and regulations to govern the practice of private security
+in this state in accordance with the APA.
+(4) Issue, suspend, modify, place on probation, or revoke digital or physical licenses or
+registration credentials authorizing private security services within this state.
+(5) Refer matters of potential criminal or civil violation to appropriate authorities as
+deemed necessary, in consultation with the board's legal counsel.
+(6) Report annually to the governor, the legislative auditor, and commissioner of
+administration on its operations, finances, and regulatory activities.
+(7) Adopt rules to authorize the assessment of administrative penalties pursuant to this
+present and proposed law.
+Proposed law requires the board to adopt rules to regulate private security canine programs
+and deployments, including the licensing, training, certification, deployment, recertification,
+and discipline of canine handlers, security canines, and detector canines, in compliance with
+applicable state and federal law.
+Present law provides that the board may:
+(1) Prescribe and adopt regulations, standards, procedures, and policies governing the
+manner and conditions under which credit shall be given by the board for
+participation in a program of continuing professional education such as the board
+may consider necessary and appropriate to maintain the highest standards of the
+private security industry in the state of La.
+(2) Authorize any member of the board to make any affidavit necessary for the issuance
+of any injunction or other legal process authorized under present law or under the
+rules and regulations of the board.
+Page 20 of 26
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-127 ORIGINAL
+HB NO. 921
+(3) Issue subpoenas to require attendance and testimony and the production of
+documents, for the purpose of enforcing the laws relative to the private security
+industry and securing evidence of violations thereof.
+(4) Employ clerical assistance necessary to carry out the administrative work of the
+board.
+(5) Purchase or otherwise acquire any real or personal property, including making or
+entering into mortgages, as may be necessary or convenient to the exercise of its
+powers in order to accomplish the purposes of present law. The board shall take title
+to and hold such property in its name as an agency of the state.
+(6) When a state of emergency has been declared in this state pursuant to present law,
+authorize the operation of out-of-state private security businesses within the state and
+the use of its employees within the state for the duration of the state of emergency
+or for a stipulated amount of time after declaration of the state of emergency, not to
+exceed 30 days from the last day of the declared state of emergency, if the private
+security business is licensed in another state in which the qualifications, insurance,
+training, and other similar requirements are at least equal to those required under
+present law and as notified the board that they intend to operate in the state and
+submits all information requested by the board.
+Proposed law amends present law to allow the board to:
+(1) Prescribe and adopt regulations, standards, procedures, and policies in accordance
+with the APA, governing the manner and conditions in which credit may be granted
+by the board for participation in continuing professional education programs, when
+such requirements are reasonably related to maintaining professional competence
+and protecting public safety within the private security industry in this state.
+(2) Authorize the chairperson, executive director, or any designated member of the
+board to make any affidavit necessary for the issuance of any injunction or other
+legal process authorized pursuant to this present and proposed law or under the rules
+and regulations of the board.
+(3) Issue subpoenas or subpoenas duces tecum to require attendance, testimony, or
+production of records necessary to enforce this present and proposed law and obtain
+evidence of violations.
+(4) Employ staff as necessary to carry out the functions of the board.
+(5) Purchase, lease, or otherwise acquire any real or personal property, including making
+or entering into mortgages, as may be necessary or convenient to the exercise of its
+powers in order to accomplish the purposes of present and proposed law. The board
+shall take title to and hold such property in its name as an agency of the state, under
+the fiscal control of the division of administration and subject to state property
+management requirements.
+(6) When a state of emergency has been declared in this state pursuant to present law
+authorize the temporary operation of out-of-state private security businesses within
+the state and the use of its employees within the state for the duration of the state of
+emergency or for a stipulated amount of time after declaration of the state of
+emergency, not to exceed 30 days from the last day of the declared state of
+emergency, if the private security business is licensed in another state in which the
+qualifications, insurance, and training are substantially equivalent to those of this
+present and proposed law and has notified the board of intent to operate and submits
+all required documentation requested by the board.
+Page 21 of 26
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-127 ORIGINAL
+HB NO. 921
+Present law provides that the board shall meet quarterly at regular meetings each year
+Proposed law amends present law and provides that the board shall meet every other month
+at regular meetings each year and adds that the board may conduct meetings by electronic
+means in accordance with present law.
+Present law provides for the duties of the executive secretary.
+Proposed law makes clarifying changes and adds that the authority from the board can
+include oversight of licensing operations, technology systems, compliance programs, and
+enforcement of present and proposed law.
+Proposed law provides that the executive director shall employ, supervise, and assign
+personnel as necessary and fix their compensation within the limits of the board's approved
+budget.
+Present law provides that the secretary shall have no financial or business interests,
+contingent dealings or otherwise, in the security services investigative business, watch,
+guard, or patrol agency while so employed or for a period of five years thereafter.
+Proposed law instead provides that director shall have no direct or indirect financial or
+business interest in any private security while employed or for five years thereafter.
+Present law provides that the procedure of the board in approving or denying an application,
+if the grounds for denial are subject to correction by the applicant.
+Present law allows that if the application is denied, the applicant, within 30 days after receipt
+of notice of denial from the board, may request a hearing on the denial. Within 10 after the
+filing of such request for hearing by the applicant, the board shall schedule a hearing to be
+held after due notice to the applicant. The hearing shall be conducted in accordance with the
+APA.
+Proposed law instead provides that if the application is denied, the applicant, within 30 days
+after receipt of notice of denial from the board, may request a hearing on the denial, pursuant
+to proposed law.
+Proposed law provides the processes for appeals, hearings, and due process for an applicant
+or licensee.
+Proposed law provides that the board shall conduct all adjudicatory proceedings in
+accordance with present and proposed law and shall communicate to the applicant or
+licensee all denials, suspensions, orders, administrative penalties, and revocations in writing.
+Proposed law provides that upon written notice of adverse or disciplinary action from the
+board, the applicant or licensee has the right to elect to file a hearing with the board or the
+Division of Administrative Law within 30 days from the receipt of the notice. Proposed law
+further provides that if the applicant or licensee elects to have a hearing by the board and
+does not prevail, the ruling of the board may be appealable with the Division of
+Administrative Law and if the applicant or licensee elects to have a hearing by the Division
+of Administrative Law, the ruling shall be appealable by either the board or the applicant or
+licensee, whichever does not prevail.
+Proposed law provides that any party subject to a hearing may be represented by legal
+counsel and present evidence and testimony, and has the right to due process. Proposed law
+further provides that all hearings shall be recorded, and a complete record of all proceedings
+shall be made and that the appellant shall assume all costs associated with appeals.
+Present law provides for security officer and security operations manager registrant card.
+Page 22 of 26
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-127 ORIGINAL
+HB NO. 921
+Present law provides that the portion of the board application indicating temporary
+registration shall be carried by the applicant when he is within the scope of his employment
+until such time as he receives his permanent registration card from the board.
+Present law provides that individuals required to obtain a registration card under this shall
+file for a registration card and, upon completion thereof, the licensee shall immediately
+forward the application to the board and that every applicant for a registration card shall
+make and deliver to the licensee a sworn application in writing upon a form prescribed by
+the board.
+Proposed law removes present law and instead provides that an individual required to obtain
+a registration card shall submit a sworn application to the board for review and every
+applicant shall remit all required fees with the application to the board.
+Present law provides that actions by the board to approve or deny an application for a
+registration card shall be the same as that action taken to deny or approve an application for
+license as provided in present law.
+Proposed law amends present law to instead outline the board's process to deny or approve
+an application for license in proposed law.
+Present law provides that registration cards issued by the board shall be valid for a period
+of two years and that the cardholder shall file a registration card renewal form with the board
+not less than 30 days prior to the expiration of the card, together with the fee for renewal.
+Proposed law removes the 30 day requirement.
+Present law provides that the board may refuse to renew a registration card, and shall
+promptly notify the cardholder of its intent to refuse to renew. The cardholder, within 15
+days after receipt of such notice, may request a hearing on such refusal, in the same manner
+and in accordance with the same procedure as that provided in present law.
+Proposed law provides that the hearing procedure shall be in a manner of proposed law.
+Present law provides that any security officer employed after the effective date of present
+law shall complete, within 30 days of his first work assignment, either eight hours of
+classroom training or an approved curriculum-based training course under a licensed
+instructor and successfully pass an examination on the prescribed material.
+Proposed law removes present law and instead provides that a security officer shall
+complete, prior to his first work assignment, a minimum of 16 hours of board-required
+training consisting of Security Officer Standards and Training, or S.O.S.T, by a board-
+licensed instructor and successfully pass an examination for each course.
+Present law provides that security officers shall have 60 days from the date of the first work
+assignment to complete either an additional eight hours of classroom training or an approved
+curriculum-based training course under a licensed instructor, as prescribed by the board, and
+successfully pass a 50 question test administered by the licensed instructor by achieving a
+minimum score of 70%.
+Proposed law deletes present law and instead provides that security officers who are
+registered in other states with licensing requirements similar to this state, and law
+enforcement officers identified in this present and proposed law, may attend, prior to his first
+work assignment, four hours of board-required training consisting of Security Officer
+Standards and Training, or S.O.S.T, by a board-licensed instructor and successfully pass an
+examination.
+Page 23 of 26
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-127 ORIGINAL
+HB NO. 921
+Present law provides that no more than two of the training requirements provided for may
+be conducted during a 24 hour period.
+Proposed law increases two to 16.
+Present law requires that all classroom training and all firearms training required by present
+law shall be administered by a licensed instructor who meets certain requirements.
+Proposed law makes technical changes.
+Proposed law adds that the board shall license and regulate canine handlers and canine
+teams, approve all canine training programs, and shall establish minimum standards for
+certification and recertification of security canines, detector canines, and their handlers.
+Proposed law provides relative to detector canine programs.
+Proposed law provides for the reporting of positive indication of explosives or controlled
+dangerous substances.
+Proposed law requires each licensee employing canine teams to maintain liability insurance
+coverage.
+Present law provides that a licensee, within 15 days after receipt of such notice of intent to
+refuse to renew a license, may request a hearing on such refusal.
+Proposed law increases the days to 30 and clarifies that the hearing shall be pursuant to
+proposed law.
+Present law provides that any person who is determined by the board, after reasonable notice
+and opportunity for a fair and impartial hearing held in accordance with the APA to have
+committed an egregious act that is a violation of present law or regulation or rule issued
+thereunder is subject to an administrative penalty of not more than $5000 per violation per
+day and shall subject such person to revocation of his license. Such egregious acts shall
+include but not be limited to the following:
+(a) Knowingly operating a private security business without meeting the insurance
+requirements as provided for in present law.
+(b) Consistently operating a private security business in violation of the insurance
+requirements provided for in this present law.
+(c) Submitting fraudulent documents to the board as required or requested by the board.
+(d) Forgery of any documentation submitted to the board.
+(e) Operating a private security business without obtaining the required firearms
+training.
+Proposed law amends present law to instead provide that any person who is determined by
+the board, after reasonable notice and opportunity for a fair and impartial hearing conducted
+in accordance with the APA and proposed law, to have committed an egregious act or willful
+violation of present and proposed law or regulation or rule issued thereunder or any rule or
+regulation adopted pursuant to present and proposed law is subject to an administrative
+penalty of not more than $5,000 per violation per day and shall subject such person to
+revocation of his license. The board may, upon written findings of fact and conclusions of
+law, impose probation, suspension, or revocation of any license or registration issued in
+accordance with present and proposed law. Such egregious acts shall include but not be
+limited to the following:
+Page 24 of 26
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-127 ORIGINAL
+HB NO. 921
+(1) Operating a private security business without maintaining the insurance requirements
+as provided for in present and proposed law.
+(2) Repeatedly or deliberately operating a private security business in violation of the
+insurance requirements provided for in this present and proposed law.
+(3) Submitting fraudulent documents to the board as required or requested by the board
+or causing to be submitted false, forged, fraudulent, or materially misleading
+documents or information to the board.
+(4) Forgery of, altering, or falsifying any documentation or information submitted or
+required to be submitted to the board.
+(5) Operating a private security business without obtaining the required firearms training
+or allowing personnel to operate in a capacity requiring firearms authorization
+without the required firearms training, certification, or qualification.
+Present law provides that any person committing any non-egregious acts in violation of
+present law or any regulation or rule issued thereunder is subject to an administrative penalty
+of not more than $1000 per violation per day.
+Proposed law adds that in lieu of a fine for a first-time, non-willful violation, the board may
+issue a written warning or require the violator to complete a corrective action plan within a
+prescribed time period.
+Present law provides that the board, in accordance with the APA, may adopt a schedule of
+administrative penalties for minor violations that can be assessed by the executive secretary
+when the violator waives the right to an administrative hearing.
+Proposed law provides that the division of administration shall also adopt a schedule of
+administrative penalties and corrective actions for minor violations.
+Present law provides for fines for violation of present law.
+Proposed law provides that the present law shall apply to first offenses.
+Proposed law provides for fines after a first offense.
+Proposed law provides for fines and imprisonment for violations that involve engaging in
+the private security business without ever having submitted an application for licensure to
+the board.
+Present law provides for a restraining order for acts prohibited by present law.
+Proposed law amends the hearing process for restraining orders.
+Proposed law provides for technical changes in present law.
+Proposed law directs the La. Law Institute to change all references of "executive secretary"
+to "executive director" throughout the Chapter.
+Proposed law directs the La. Law Institute change all references from "Private Security and
+Licensing Law" to "Louisiana Private Security Licensing and Regulatory Act" throughout
+the revised statutes.
+(Amends R.S. 37:3270, 3271, 3272(A)(2), (5), (6), (9), (11), (13)-(15), (17), and (18),
+3273(B) and (C), 3274(A)(1)-(5), (7), and (11), (B)(1)-(4), (6), (7), (10), and (11), (C), and
+Page 25 of 26
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-127 ORIGINAL
+HB NO. 921
+(D), 3275, 3279(A)(3), 3283(A), (D), and (F)(1) and (2), 3284(B)(1), (4), and (5), (E), (F),
+and (J), 3287(C), 3288, 3292(B), and 3293(C)(1); Adds R.S. 37:3272(21)-(25), 3273(I),
+3274(A)(12), 3279.1, 3284.1, 3292(C); Repeals R.S. 37:3272(20))
+Page 26 of 26
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+[DELETED: 7O ( 3 a 3 ( ( a ( 3 ( a ( ( ( a ( 3 3 a 3 t e R 3 t ( 3 d c p t p f l r t p f a ( ( a ( 3 3 3 ( a ( a (]
+[DELETED: 7O c a o m i a p f i w w a i t c t t s h a w a C s b k a m b c a t P S d b t b  A o d o o w n]
+[DELETED: 7O l f a b o d b t l r f t  " m a p t w a l i g i  " c o m t p v p]
+[DELETED: 7O r a e t t r h m t r m o m D c s o s f d a b t g a b t g  O m s b r e t f p s]
+[DELETED: 7O F m w b t p i  D 4 T p o A A A B C E G I J D L  D 5 T p o B B C C M M O R R R T U]
+[DELETED: 7O  F m w b a a a f t  O a m n f t t i b t  O a m n f t A D  T g m r a o a m o t b f t p o t C t w o d a a]
+[DELETED: 7O s i t s o L t s i a w t a c o a o i o f a  A r t r p s c p a i t l t c d  A a e r a r b a r o]
+[DELETED: 7O s i i t s o L i a w t o t b t m a a n f t i o a  E c a s a n t c o t]
+[DELETED: 7O s d o c o t c c o a f]
+[DELETED: 7O a a b b T]
+[DELETED: 7O p t r o t b m b a w t D o L t r s b a b e t b o t  S o a s o m r c]
+[DELETED: 7O]
+[DELETED: 7O S O S a T o S b a b]
+[DELETED: 7O o b t c o S O S a o S b a b i a s p a  M t q o a a a r b R o E o t e t a o y s]
+[DELETED: 7O f l a r i b n l t t]
+[DELETED: 7O A P A a R 3 t h c a  K o O a p s b w R o d o a]
+[DELETED: 7O  A p c a n a i a n a f m v t c b a b t e]
+[DELETED: 7Ol2nM]
+[DELETED: 7O " " " c o " s b o i O o e m s r f e o t f d)O a m n f t t i b t l)O)O a m n f t l e c b t)O)E]
+[DELETED: 7O   A)I)R)R a n l t M 1 t t g t s o t)A n t e f h d p v a c o t b)E t p a p l t w o d a a A)A)I)R)R a t t g t l a a c o)A)P a c u w c s b g b t b f)A]
+[DELETED: 7O I s t r a a t a t p)E P)W P)A)I)E)P)W o f a s a o t a d o t s o n t e 3 d f t l d o t d s o]
+[DELETED: 7O l t e d e s l p t t s s h n f o b i l p t t b s c a a p i p c t a o n p t r o t b m b a w t D o]
+[DELETED: 7O l p t t p o t b a i t t o a a c t c u a l l r p l a i p t a s o s l d p l a i p t s o w a i o s w l r s t t s a l a f h o b t c o S O]
+[DELETED: 7O)K)C o a p s b i v o t i)S)F)O a p s b w o t r f]
+[DELETED: 7O)O)R S c t b s f f f o m m)F O a p t o i a c r f a]
+[DELETED: 7O]

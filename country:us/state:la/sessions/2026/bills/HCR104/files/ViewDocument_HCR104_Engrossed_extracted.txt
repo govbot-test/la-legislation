@@ -1,0 +1,445 @@
+Title: ENERGY: Urges and requests the Department of Conservation and Energy and the
+Official Title: ENERGY: Urges and requests the Department of Conservation and Energy and the
+Number of Sections: 1
+Source: versions - HCR104 Engrossed
+Media Type: application/pdf
+Strikethrough Detection: 7 sections found
+
+================================================================================
+
+Section 1:
+HLS 26RS-3975 ENGROSSED
+2026 Regular Session
+HOUSE CONCURRENT RESOLUTION NO. 104
+BY REPRESENTATIVE COATES
+Louisiana Geological Survey to study and develop recommendations for the
+collection, retention, and access to the state's subsurface data
+1 A CONCURRENT RESOLUTION
+2 To urge and request the Department of Conservation and Energy and the Louisiana
+3 Geological Survey to establish an advisory committee to review existing laws and
+4 regulations governing subsurface data, to identify opportunities for interagency
+5 coordination and modernization regarding the collection, retention, and accessibility
+6 of well logs, core samples, and other subsurface data held by the state, and to
+7 develop a proposal for a comprehensive subsurface data system for submission to the
+8 legislature.
+9 WHEREAS, the legislature, through R.S. 30:1 et seq. and related provisions
+10 governing natural resources and conservation, has long recognized the importance of
+11 subsurface data, resource management, and geological information to the state’s economic
+12 and environmental interests; and
+13 WHEREAS, the Louisiana Geological Survey (LGS), established pursuant to R.S.
+14 17:1492, is located at Louisiana State University and Agricultural and Mechanical College
+15 and is charged with maintaining current surface and subsurface geological surveys of the
+16 entire state and working in cooperation with other state entities and political subdivisions as
+17 appropriate and required by law; and
+18 WHEREAS, the LGS maintains the Well Log and Core Repository, which is a
+19 unique public research facility that houses tens of thousands of well logs and physical core
+Page 1 of 7
+HLS 26RS-3975 ENGROSSED
+HCR NO. 104
+1 samples from hundreds of wells across Louisiana and the Gulf Coast region, including
+2 unique data not available in other state systems; and
+3 WHEREAS, these collections are critical to understanding Louisiana's subsurface
+4 geology and support a wide range of activities, including energy development, groundwater
+5 management, environmental protection, geological hazard assessment, and academic
+6 research; and
+7 WHEREAS, recent activity and interest from industry, government, and academic
+8 stakeholders highlight the continued and growing relevance of the repository and the existing
+9 facility and associated systems present opportunities for modernization, including physical
+10 infrastructure, storage capacity, digital cataloging, and public accessibility; and
+11 WHEREAS, the Department of Conservation and Energy, created pursuant to R.S.
+12 36:351, is responsible for the conservation, management, and development of water,
+13 minerals, and other natural resources of the state, and exercises authority over matters
+14 including the filing of well logs, electrical surveys, drilling records, and other subsurface
+15 data; and
+16 WHEREAS, R.S. 30:4(B) authorizes the secretary to collect data, make
+17 investigations and inspections, examine properties, leases, papers, books, and records, and
+18 provide for the keeping of records and making of reports and R.S. 30:4(C)(2) further
+19 authorizes the secretary to require the making of reports showing the location of all oil and
+20 gas wells and the filing of logs, electrical surveys, and other drilling records; and
+21 WHEREAS, R.S. 44:1(B) establishes confidentiality periods for electrical well
+22 surveys and other electric logs filed with the former office of conservation, including one
+23 year for wells shallower than fifteen thousand feet and two years for wells fifteen thousand
+24 feet deep or deeper, with extensions available upon demonstration of continued leasehold
+25 interest, and these confidentiality periods, first established in the late 1970's, have not been
+26 substantively revised to reflect current industry conditions, data technologies, or public
+27 interest considerations; and
+28 WHEREAS, R.S. 30:213(A)(2) provides that for any geophysical or geological
+29 survey permit issued on or after July 1, 2004, the permit holder retains ownership of the data
+30 gathered and is not required to submit such data to the state, although the State Mineral and
+Page 2 of 7
+HLS 26RS-3975 ENGROSSED
+HCR NO. 104
+1 Energy Board and employees of the office of state resources are permitted to review it, and
+2 this change from the prior submission requirement applicable to pre-2004 permits has
+3 resulted in a significant gap in the state's holdings of seismic and geophysical data; and
+4 WHEREAS, R.S. 44:18 provides that all geophysical and geological survey
+5 information furnished to the State Mineral and Energy Board or the office of state resources
+6 pursuant to R.S. 30:213 is confidential and exempt from public records laws and R.S.
+7 30:209.1 further provides that information and data acquired by the board from geological
+8 and geophysical surveys shall be confidential and available only to the board and the
+9 secretary for official administration of publicly owned lands; and
+10 WHEREAS, R.S. 30:212 provides that the State Mineral and Energy Board has
+11 exclusive authority to grant permits to conduct geophysical and geological surveys on
+12 state-owned lands, including water bottoms, with permits granted pursuant to rules
+13 promulgated by the Department of Conservation and Energy; and
+14 WHEREAS, existing statutes and regulations governing the filing of well logs,
+15 electrical surveys, and drilling records do not specify requirements for digital or electronic
+16 formats, and the absence of standardized digital submission requirements may impede
+17 efforts to aggregate, digitize, and make accessible the state's subsurface data holdings,
+18 particularly legacy data stored on obsolete media formats; and
+19 WHEREAS, a substantial portion of the state’s subsurface data exists in legacy
+20 analog and digital formats, including tapes, disks, servers, microfilm, microfiche, and other
+21 media, which present challenges for preservation, integration, and access; and
+22 WHEREAS, no existing statute expressly establishes a framework for interagency
+23 coordination or data-sharing between the offices of the Department of Conservation and
+24 Energy and the Louisiana Geological Survey with respect to subsurface data, and the
+25 establishment of such a framework may be necessary to avoid duplication of effort and to
+26 ensure comprehensive data coverage; and
+27 WHEREAS, a thorough subsurface data set would include, but not be limited to, Log
+28 ASCII Standard (LAS) files, well logs, mud logs, drilling surveys, seismic data, unit orders,
+29 unit contours, geologic units, geographic units, survey plats, and any and all data regardless
+30 of original storage medium, whether analog or digital formats; and
+Page 3 of 7
+HLS 26RS-3975 ENGROSSED
+HCR NO. 104
+1 WHEREAS, the legislature recognizes that maintaining, preserving, and enhancing
+2 access to these materials is important to the state's long-term economic development,
+3 scientific advancement, and resource management objectives; and
+4 WHEREAS, the development of a robust and comprehensive data set of all
+5 subsurface data collected to date will serve the public interest by supporting responsible
+6 mineral resource development, environmental protection, geologic hazard assessment,
+7 groundwater management, carbon storage siting, and informed land use planning; and
+8 WHEREAS, the legislature desires to better understand the history, current status,
+9 and future needs of the Well Log and Core Repository in order to inform potential future
+10 investments and policy decisions; and
+11 WHEREAS, a coordinated review of both the physical holdings of these agencies and
+12 the applicable statutes, rules, and regulations governing the collection, retention, submission,
+13 confidentiality, and public accessibility of such holdings is necessary and timely and would
+14 assist the legislature in identifying any legislative action that may be appropriate to facilitate
+15 the establishment of a comprehensive data set while balancing the legitimate interests of data
+16 owners and the public.
+17 THEREFORE, BE IT RESOLVED that the Legislature of Louisiana does hereby
+18 urge and request the Department of Conservation and Energy to collaborate with the
+19 Louisiana Geological Survey to review applicable statutes, rules, and regulations governing
+20 the collection, retention, submission, and accessibility of subsurface geological data; identify
+21 existing collections of subsurface data, the policies that govern them, and any needed
+22 improvements to physical and intellectual access to the collections; and develop a proposal
+23 for modernizing the collection, retention, and accessibility of the state's subsurface data.
+24 BE IT FURTHER RESOLVED that, in developing a proposal, the Department of
+25 Conservation and Energy and the Louisiana Geological Survey shall convene an advisory
+26 committee to provide input and guidance, which shall include:
+27 (1) The chairman of the House Committee on Natural Resources and Environment,
+28 or his designee.
+29 (2) The chairman of the Senate Committee on Natural Resources, or his designee.
+Page 4 of 7
+HLS 26RS-3975 ENGROSSED
+HCR NO. 104
+1 (3) Representatives from relevant state agencies selected by the secretary of the
+2 department and the director of the Louisiana Geological Survey.
+3 (4) Representatives from industry with experience in subsurface data and resource
+4 development selected by the secretary of the department and the director of the Louisiana
+5 Geological Survey.
+6 (5) Representatives from academic institutions with relevant expertise selected by
+7 the secretary of the department and the director of the Louisiana Geological Survey.
+8 BE IT FURTHER RESOLVED that the Department of Conservation and Energy and
+9 the Louisiana Geological Survey, in conducting their review, are encouraged to consult and
+10 coordinate with the office of permitting and compliance, the office of enforcement, the office
+11 of state resources, the office of energy, and any other relevant state entities to identify all
+12 subsurface data in the possession of, or accessible to, the state regardless of the medium or
+13 format in which such data is stored.
+14 BE IT FURTHER RESOLVED that the Department of Conservation and Energy and
+15 the Louisiana Geological Survey include in their review an assessment of the following:
+16 (1) Whether existing confidentiality periods established in R.S. 44:1(B) remain
+17 appropriate in light of current industry conditions, data technologies, and the public interest
+18 in accessible subsurface data.
+19 (2) The impact of the data ownership and retention provisions of R.S. 30:213(A)(2)
+20 on the state's ability to establish a comprehensive subsurface data set, including any potential
+21 mechanisms for voluntary data contribution or acquisition.
+22 (3) Whether the adoption of standardized digital submission requirements for well
+23 logs, electrical surveys, and drilling records would facilitate the establishment and
+24 maintenance of a comprehensive data set.
+25 (4) Whether a formal interagency data-sharing framework between the offices of the
+26 department and the Louisiana Geological Survey would improve coordination and reduce
+27 duplication of effort.
+28 (5) Evaluation of policies that would promote or require the submission of well log
+29 data in digital format, including industry-standard formats such as LAS files, to improve
+30 accessibility, interoperability, and long-term preservation of such data.
+Page 5 of 7
+HLS 26RS-3975 ENGROSSED
+HCR NO. 104
+1 BE IT FURTHER RESOLVED that the proposal shall include recommendations
+2 regarding the LGS Well Log and Core Repository, developed with sufficient flexibility to
+3 allow for consideration of a range of potential approaches and shall include, but not be
+4 limited to:
+5 (1) A description of the history and development of the well log and core repository.
+6 (2) A summary of recent changes, renovations, and progress.
+7 (3) An assessment of current capabilities, limitations, and needs.
+8 (4) Consideration of options for facility modernization, expansion, and long-term
+9 preservation of materials.
+10 (5) Consideration of opportunities for enhanced digital access, cataloging, and
+11 integration with other data systems, including the digitization and standardization of well log
+12 data, such as LAS files, where appropriate, and potential interoperability or integration with
+13 existing state systems such as the Strategic Online Natural Resources Information System
+14 (SONRIS).
+15 (6) Identification of potential partnerships, including public, private, and academic
+16 collaborations.
+17 (7) Preliminary considerations related to implementation, including phasing and
+18 potential funding approaches.
+19 BE IT FURTHER RESOLVED that the Department of Conservation and Energy and
+20 the Louisiana Geological Survey shall submit the proposal, with written findings and
+21 recommendations, no later than March 1, 2027, to the following:
+22 (1) The House Committee on Natural Resources and Environment.
+23 (2) The Senate Committee on Natural Resources.
+24 (3) The Natural Resources Commission.
+25 BE IT FURTHER RESOLVED that it is the intent of the legislature that this effort
+26 provide a clear and informed foundation for future policy decisions, investments, and actions
+27 related to the preservation and utilization of Louisiana's subsurface data resources.
+28 BE IT FURTHER RESOLVED that a copy of this Resolution be transmitted to the
+29 secretary of the Department of Conservation and Energy, the director of the Louisiana
+30 Geological Survey, and the chairman of the State Mineral and Energy Board.
+Page 6 of 7
+HLS 26RS-3975 ENGROSSED
+HCR NO. 104
+DIGEST
+The digest printed below was prepared by House Legislative Services. It constitutes no part
+of the legislative instrument. The keyword, one-liner, abstract, and digest do not constitute
+part of the law or proof or indicia of legislative intent. [R.S. 1:13(B) and 24:177(E)]
+HCR 104 Engrossed 2026 Regular Session Coates
+Urges and requests the Dept. of Conservation and Energy and the La. Geological Survey to
+establish an advisory committee to review existing law and regulations governing subsurface
+data, identify opportunities for interagency coordination and modernization regarding the
+collection, retention, and accessibility of well logs, core samples, and other subsurface data
+held by the state, and develop a proposal for a comprehensive subsurface data system, with
+written findings and recommendations, for submission to the legislature by March 1, 2027.
+Page 7 of 7
+[DELETED: 5E  U a r t D o C a E a t G S t s a d r f t u a r t D o C a E a t L g s t i o f i t l t R 3 e s a r p n r a c h l r t i o]
+[DELETED: 5E e p g h a a a i r f t c m a d o w R 3 a t s t c d m k o r o r 3 f R 4 e c p f e w]
+[DELETED: 5E R 4 p t a g a g s g s s b t t b t l i w b w p g p t r r a t L G S w r t s a t]
+[DELETED: 5E t m i i t t s l e d t d o a r a c d s o a r d e p g h a a r t D o C a E t c w t d]
+[DELETED: 5E e s a d r w f t e a]
+[DELETED: 5E L G S s s t p w w f a]
+[DELETED: 5Ed2nC]
+
+
+================================================================================
+
+Raw Text:
+HLS 26RS-3975 ENGROSSED
+2026 Regular Session
+HOUSE CONCURRENT RESOLUTION NO. 104
+BY REPRESENTATIVE COATES
+ENERGY: Urges and requests the Department of Conservation and Energy and the
+Louisiana Geological Survey to study and develop recommendations for the
+collection, retention, and access to the state's subsurface data
+1 A CONCURRENT RESOLUTION
+2 To urge and request the Department of Conservation and Energy and the Louisiana
+3 Geological Survey to establish an advisory committee to review existing laws and
+4 regulations governing subsurface data, to identify opportunities for interagency
+5 coordination and modernization regarding the collection, retention, and accessibility
+6 of well logs, core samples, and other subsurface data held by the state, and to
+7 develop a proposal for a comprehensive subsurface data system for submission to the
+8 legislature.
+9 WHEREAS, the legislature, through R.S. 30:1 et seq. and related provisions
+10 governing natural resources and conservation, has long recognized the importance of
+11 subsurface data, resource management, and geological information to the state’s economic
+12 and environmental interests; and
+13 WHEREAS, the Louisiana Geological Survey (LGS), established pursuant to R.S.
+14 17:1492, is located at Louisiana State University and Agricultural and Mechanical College
+15 and is charged with maintaining current surface and subsurface geological surveys of the
+16 entire state and working in cooperation with other state entities and political subdivisions as
+17 appropriate and required by law; and
+18 WHEREAS, the LGS maintains the Well Log and Core Repository, which is a
+19 unique public research facility that houses tens of thousands of well logs and physical core
+Page 1 of 7
+
+HLS 26RS-3975 ENGROSSED
+HCR NO. 104
+1 samples from hundreds of wells across Louisiana and the Gulf Coast region, including
+2 unique data not available in other state systems; and
+3 WHEREAS, these collections are critical to understanding Louisiana's subsurface
+4 geology and support a wide range of activities, including energy development, groundwater
+5 management, environmental protection, geological hazard assessment, and academic
+6 research; and
+7 WHEREAS, recent activity and interest from industry, government, and academic
+8 stakeholders highlight the continued and growing relevance of the repository and the existing
+9 facility and associated systems present opportunities for modernization, including physical
+10 infrastructure, storage capacity, digital cataloging, and public accessibility; and
+11 WHEREAS, the Department of Conservation and Energy, created pursuant to R.S.
+12 36:351, is responsible for the conservation, management, and development of water,
+13 minerals, and other natural resources of the state, and exercises authority over matters
+14 including the filing of well logs, electrical surveys, drilling records, and other subsurface
+15 data; and
+16 WHEREAS, R.S. 30:4(B) authorizes the secretary to collect data, make
+17 investigations and inspections, examine properties, leases, papers, books, and records, and
+18 provide for the keeping of records and making of reports and R.S. 30:4(C)(2) further
+19 authorizes the secretary to require the making of reports showing the location of all oil and
+20 gas wells and the filing of logs, electrical surveys, and other drilling records; and
+21 WHEREAS, R.S. 44:1(B) establishes confidentiality periods for electrical well
+22 surveys and other electric logs filed with the former office of conservation, including one
+23 year for wells shallower than fifteen thousand feet and two years for wells fifteen thousand
+24 feet deep or deeper, with extensions available upon demonstration of continued leasehold
+25 interest, and these confidentiality periods, first established in the late 1970's, have not been
+26 substantively revised to reflect current industry conditions, data technologies, or public
+27 interest considerations; and
+28 WHEREAS, R.S. 30:213(A)(2) provides that for any geophysical or geological
+29 survey permit issued on or after July 1, 2004, the permit holder retains ownership of the data
+30 gathered and is not required to submit such data to the state, although the State Mineral and
+Page 2 of 7
+
+HLS 26RS-3975 ENGROSSED
+HCR NO. 104
+1 Energy Board and employees of the office of state resources are permitted to review it, and
+2 this change from the prior submission requirement applicable to pre-2004 permits has
+3 resulted in a significant gap in the state's holdings of seismic and geophysical data; and
+4 WHEREAS, R.S. 44:18 provides that all geophysical and geological survey
+5 information furnished to the State Mineral and Energy Board or the office of state resources
+6 pursuant to R.S. 30:213 is confidential and exempt from public records laws and R.S.
+7 30:209.1 further provides that information and data acquired by the board from geological
+8 and geophysical surveys shall be confidential and available only to the board and the
+9 secretary for official administration of publicly owned lands; and
+10 WHEREAS, R.S. 30:212 provides that the State Mineral and Energy Board has
+11 exclusive authority to grant permits to conduct geophysical and geological surveys on
+12 state-owned lands, including water bottoms, with permits granted pursuant to rules
+13 promulgated by the Department of Conservation and Energy; and
+14 WHEREAS, existing statutes and regulations governing the filing of well logs,
+15 electrical surveys, and drilling records do not specify requirements for digital or electronic
+16 formats, and the absence of standardized digital submission requirements may impede
+17 efforts to aggregate, digitize, and make accessible the state's subsurface data holdings,
+18 particularly legacy data stored on obsolete media formats; and
+19 WHEREAS, a substantial portion of the state’s subsurface data exists in legacy
+20 analog and digital formats, including tapes, disks, servers, microfilm, microfiche, and other
+21 media, which present challenges for preservation, integration, and access; and
+22 WHEREAS, no existing statute expressly establishes a framework for interagency
+23 coordination or data-sharing between the offices of the Department of Conservation and
+24 Energy and the Louisiana Geological Survey with respect to subsurface data, and the
+25 establishment of such a framework may be necessary to avoid duplication of effort and to
+26 ensure comprehensive data coverage; and
+27 WHEREAS, a thorough subsurface data set would include, but not be limited to, Log
+28 ASCII Standard (LAS) files, well logs, mud logs, drilling surveys, seismic data, unit orders,
+29 unit contours, geologic units, geographic units, survey plats, and any and all data regardless
+30 of original storage medium, whether analog or digital formats; and
+Page 3 of 7
+
+HLS 26RS-3975 ENGROSSED
+HCR NO. 104
+1 WHEREAS, the legislature recognizes that maintaining, preserving, and enhancing
+2 access to these materials is important to the state's long-term economic development,
+3 scientific advancement, and resource management objectives; and
+4 WHEREAS, the development of a robust and comprehensive data set of all
+5 subsurface data collected to date will serve the public interest by supporting responsible
+6 mineral resource development, environmental protection, geologic hazard assessment,
+7 groundwater management, carbon storage siting, and informed land use planning; and
+8 WHEREAS, the legislature desires to better understand the history, current status,
+9 and future needs of the Well Log and Core Repository in order to inform potential future
+10 investments and policy decisions; and
+11 WHEREAS, a coordinated review of both the physical holdings of these agencies and
+12 the applicable statutes, rules, and regulations governing the collection, retention, submission,
+13 confidentiality, and public accessibility of such holdings is necessary and timely and would
+14 assist the legislature in identifying any legislative action that may be appropriate to facilitate
+15 the establishment of a comprehensive data set while balancing the legitimate interests of data
+16 owners and the public.
+17 THEREFORE, BE IT RESOLVED that the Legislature of Louisiana does hereby
+18 urge and request the Department of Conservation and Energy to collaborate with the
+19 Louisiana Geological Survey to review applicable statutes, rules, and regulations governing
+20 the collection, retention, submission, and accessibility of subsurface geological data; identify
+21 existing collections of subsurface data, the policies that govern them, and any needed
+22 improvements to physical and intellectual access to the collections; and develop a proposal
+23 for modernizing the collection, retention, and accessibility of the state's subsurface data.
+24 BE IT FURTHER RESOLVED that, in developing a proposal, the Department of
+25 Conservation and Energy and the Louisiana Geological Survey shall convene an advisory
+26 committee to provide input and guidance, which shall include:
+27 (1) The chairman of the House Committee on Natural Resources and Environment,
+28 or his designee.
+29 (2) The chairman of the Senate Committee on Natural Resources, or his designee.
+Page 4 of 7
+
+HLS 26RS-3975 ENGROSSED
+HCR NO. 104
+1 (3) Representatives from relevant state agencies selected by the secretary of the
+2 department and the director of the Louisiana Geological Survey.
+3 (4) Representatives from industry with experience in subsurface data and resource
+4 development selected by the secretary of the department and the director of the Louisiana
+5 Geological Survey.
+6 (5) Representatives from academic institutions with relevant expertise selected by
+7 the secretary of the department and the director of the Louisiana Geological Survey.
+8 BE IT FURTHER RESOLVED that the Department of Conservation and Energy and
+9 the Louisiana Geological Survey, in conducting their review, are encouraged to consult and
+10 coordinate with the office of permitting and compliance, the office of enforcement, the office
+11 of state resources, the office of energy, and any other relevant state entities to identify all
+12 subsurface data in the possession of, or accessible to, the state regardless of the medium or
+13 format in which such data is stored.
+14 BE IT FURTHER RESOLVED that the Department of Conservation and Energy and
+15 the Louisiana Geological Survey include in their review an assessment of the following:
+16 (1) Whether existing confidentiality periods established in R.S. 44:1(B) remain
+17 appropriate in light of current industry conditions, data technologies, and the public interest
+18 in accessible subsurface data.
+19 (2) The impact of the data ownership and retention provisions of R.S. 30:213(A)(2)
+20 on the state's ability to establish a comprehensive subsurface data set, including any potential
+21 mechanisms for voluntary data contribution or acquisition.
+22 (3) Whether the adoption of standardized digital submission requirements for well
+23 logs, electrical surveys, and drilling records would facilitate the establishment and
+24 maintenance of a comprehensive data set.
+25 (4) Whether a formal interagency data-sharing framework between the offices of the
+26 department and the Louisiana Geological Survey would improve coordination and reduce
+27 duplication of effort.
+28 (5) Evaluation of policies that would promote or require the submission of well log
+29 data in digital format, including industry-standard formats such as LAS files, to improve
+30 accessibility, interoperability, and long-term preservation of such data.
+Page 5 of 7
+
+HLS 26RS-3975 ENGROSSED
+HCR NO. 104
+1 BE IT FURTHER RESOLVED that the proposal shall include recommendations
+2 regarding the LGS Well Log and Core Repository, developed with sufficient flexibility to
+3 allow for consideration of a range of potential approaches and shall include, but not be
+4 limited to:
+5 (1) A description of the history and development of the well log and core repository.
+6 (2) A summary of recent changes, renovations, and progress.
+7 (3) An assessment of current capabilities, limitations, and needs.
+8 (4) Consideration of options for facility modernization, expansion, and long-term
+9 preservation of materials.
+10 (5) Consideration of opportunities for enhanced digital access, cataloging, and
+11 integration with other data systems, including the digitization and standardization of well log
+12 data, such as LAS files, where appropriate, and potential interoperability or integration with
+13 existing state systems such as the Strategic Online Natural Resources Information System
+14 (SONRIS).
+15 (6) Identification of potential partnerships, including public, private, and academic
+16 collaborations.
+17 (7) Preliminary considerations related to implementation, including phasing and
+18 potential funding approaches.
+19 BE IT FURTHER RESOLVED that the Department of Conservation and Energy and
+20 the Louisiana Geological Survey shall submit the proposal, with written findings and
+21 recommendations, no later than March 1, 2027, to the following:
+22 (1) The House Committee on Natural Resources and Environment.
+23 (2) The Senate Committee on Natural Resources.
+24 (3) The Natural Resources Commission.
+25 BE IT FURTHER RESOLVED that it is the intent of the legislature that this effort
+26 provide a clear and informed foundation for future policy decisions, investments, and actions
+27 related to the preservation and utilization of Louisiana's subsurface data resources.
+28 BE IT FURTHER RESOLVED that a copy of this Resolution be transmitted to the
+29 secretary of the Department of Conservation and Energy, the director of the Louisiana
+30 Geological Survey, and the chairman of the State Mineral and Energy Board.
+Page 6 of 7
+
+HLS 26RS-3975 ENGROSSED
+HCR NO. 104
+DIGEST
+The digest printed below was prepared by House Legislative Services. It constitutes no part
+of the legislative instrument. The keyword, one-liner, abstract, and digest do not constitute
+part of the law or proof or indicia of legislative intent. [R.S. 1:13(B) and 24:177(E)]
+HCR 104 Engrossed 2026 Regular Session Coates
+Urges and requests the Dept. of Conservation and Energy and the La. Geological Survey to
+establish an advisory committee to review existing law and regulations governing subsurface
+data, identify opportunities for interagency coordination and modernization regarding the
+collection, retention, and accessibility of well logs, core samples, and other subsurface data
+held by the state, and develop a proposal for a comprehensive subsurface data system, with
+written findings and recommendations, for submission to the legislature by March 1, 2027.
+Page 7 of 7
+
+[DELETED: 5E  U a r t D o C a E a t G S t s a d r f t u a r t D o C a E a t L g s t i o f i t l t R 3 e s a r p n r a c h l r t i o]
+[DELETED: 5E e p g h a a a i r f t c m a d o w R 3 a t s t c d m k o r o r 3 f R 4 e c p f e w]
+[DELETED: 5E R 4 p t a g a g s g s s b t t b t l i w b w p g p t r r a t L G S w r t s a t]
+[DELETED: 5E t m i i t t s l e d t d o a r a c d s o a r d e p g h a a r t D o C a E t c w t d]
+[DELETED: 5E e s a d r w f t e a]
+[DELETED: 5E L G S s s t p w w f a]
+[DELETED: 5Ed2nC]

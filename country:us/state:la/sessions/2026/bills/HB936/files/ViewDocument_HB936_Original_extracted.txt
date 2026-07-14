@@ -1,0 +1,1242 @@
+Title: HOUSE BILL NO. 936
+Official Title: HOUSE BILL NO. 936
+Number of Sections: 1
+Source: versions - HB936 Original
+Media Type: application/pdf
+Strikethrough Detection: 18 sections found
+
+================================================================================
+
+Section 1:
+HLS 26RS-1294 ORIGINAL
+2026 Regular Session
+BY REPRESENTATIVE JORDAN
+INSURANCE: Provides relative to captive insurers
+1 AN ACT
+2 To enact Subpart T of Part I of Chapter 2 of Title 22 of the Louisiana Revised Statutes of
+3 1950, to be comprised of R.S. 22:550.41 through 550.68, relative to captive insurers;
+4 to create the Louisiana Captive Insurance Act; to authorize the formation and
+5 regulation of captive insurance companies including pure captive insurers,
+6 association captives, group captives and protected cell companies; to establish
+7 licensing, capitalization, solvency, and reporting requirements; to provide for
+8 economic development through captive domicile; and to provide for related matters.
+9 Be it enacted by the Legislature of Louisiana:
+10 Section 1. Subpart T of Part I of Chapter 2 of Title 22 of the Louisiana Revised
+11 Statutes of 1950, comprised of R.S. 22:550.41 through 550.68 is hereby amended and
+12 reenacted to read as follows:
+13 SUBPART T. CAPTIVE INSURANCE ACT
+14 §550.41. Short title
+This Act shall be known and may be cited as the "Louisiana Captive
+15
+16 Insurance Act."
+17 §550.42. Definitions
+18 As used in this Chapter, the following terms have the meanings ascribed to
+19 them:
+Page 1 of 18
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-1294 ORIGINAL
+HB NO. 936
+1 (1) "Association captive insurer" means a captive insurer that insures risks
+2 of the members of one or more associations and their affiliated companies and
+3 employees, formed and sponsored by those associations.
+4 (2) "Branch captive insurer" means an alien captive insurer licensed to write
+5 insurance in this state, maintaining assets and liabilities related to this state's
+6 operations in a segregated branch account.
+7 (3) "Business plan" means the document submitted with a captive
+8 application describing the proposed insurer's underwriting strategy, risk profile,
+9 capitalization plan, governance structure, and projected financial performance.
+10 (4) "Captive insurer" means any pure captive insurer, association captive
+11 insurer, group captive insurer, sponsored captive insurer, or protected cell company
+12 formed or licensed pursuant to this Chapter.
+13 (5) "Cell" means a separate and distinct account within a protected cell
+14 company established pursuant to this Chapter, with its own separately maintained
+15 assets and liabilities, owned by one or more participants and maintained separate
+16 from all other cells and from the protected cell company's general account.
+17 (6) "Cell owner" means a participant who owns or has an equity interest in
+18 a cell of a protected cell company.
+19 (7) "Core account" means the assets and liabilities of a protected cell
+20 company that are not attributable to any cell.
+21 (8) "Fronting insurer" means a licensed insurer that issues policies on behalf
+22 of a captive insurer through a contractual arrangement, retaining no or minimal risk.
+23 (9) "Group captive insurer" means a captive insurer owned by two or more
+24 unaffiliated companies or persons that insures only the risks of its owners, their
+25 affiliated companies, or the risks of members of an industry group.
+26 (10) "Inactive captive" means a captive insurer that has ceased writing new
+27 insurance and is in the process of winding down its affairs.
+28 (11) "Minimum capital" means the minimum paid-in capital required for
+29 formation and ongoing operation of a captive insurer as specified in this Chapter.
+Page 2 of 18
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-1294 ORIGINAL
+HB NO. 936
+1 (12) "Minimum surplus" means the minimum surplus required for formation
+2 and ongoing operation of a captive insurer as specified in this Chapter.
+3 (13) "Participant" means a person who is insured by a sponsored captive
+4 insurer under a participant contract, or who holds an ownership interest in a cell of
+5 a protected cell company.
+6 (14) "Participant contract" means the agreement between a sponsored captive
+7 insurer and a participant that defines the terms of the participant's access to the
+8 sponsored captive's facilities.
+9 (15) "Protected cell" has the same meaning as "cell."
+10 (16) "Protected cell company" or "PCC" means a captive insurer that
+11 maintains two or more separate cells, each with distinct assets and liabilities
+12 attributed to individual participants, segregated from all other cells and from the
+13 general assets of the protected cell company.
+14 (17) "Pure captive insurer" means a captive insurer that insures only the risks
+15 of its parent, affiliated companies, or controlled unaffiliated entities.
+16 (18) "Sponsor" means the entity that owns and operates a sponsored captive
+17 insurer and provides the required capital for the sponsored captive's general account.
+18 (19) "Sponsored captive insurer" means a captive insurer that insures the
+19 risks of participants through separate participant accounts, with the sponsor
+20 providing the general account capital.
+21 §550.43. Authority to form; types of captive insurers authorized
+22 A. The following types of captive insurers may be formed and licensed in
+23 this state pursuant to this Subpart:
+24 (1) Pure captive insurers.
+25 (2) Association captive insurers.
+26 (3) Group captive insurers.
+27 (4) Sponsored captive insurers.
+28 (5) Protected cell companies.
+29 (6) Branch captive insurers.
+Page 3 of 18
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-1294 ORIGINAL
+HB NO. 936
+1 B. A captive insurer may be incorporated as a stock insurer, a mutual insurer,
+2 a limited liability company, or such other entity as may be approved by the
+3 commissioner.
+4 C. A captive insurer may be formed under the laws of this state or may be
+5 a foreign or alien captive seeking licensure as a branch captive insurer in this state.
+6 §550.44. Application for license
+7 A. A captive insurer seeking a license to do business in this state shall file
+8 with the commissioner a written application for a license, accompanied by the
+9 applicable fee. The application shall include:
+10 (1) A copy of the proposed organizational documents, including articles of
+11 incorporation or organization and bylaws or operating agreement.
+12 (2) A business plan meeting the requirements of this Chapter.
+13 (3) Evidence of the required minimum capital and surplus.
+14 (4) A pro forma balance sheet and income statement for the first three years
+15 of operation.
+16 (5) The name and qualifications of the proposed captive manager, if any.
+17 (6) The name and qualifications of the proposed actuary.
+18 (7) A description of the risks to be insured.
+19 (8) Information regarding proposed reinsurance arrangements, if any.
+20 (9) Such other information as the commissioner may require by rule.
+21 B. All applications shall be reviewed by the commissioner, who may, as part
+22 of the review process, conduct an examination of the proposed captive, require
+23 additional information, or hold a hearing.
+24 C. The commissioner shall approve or deny an application within ninety
+25 days of receipt of a complete application. If the commissioner fails to act within
+26 ninety days, the application shall be deemed approved.
+27 D. The commissioner shall approve a license if the commissioner determines
+28 that:
+29 (1) The applicant meets all requirements of this Chapter and applicable rules.
+Page 4 of 18
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-1294 ORIGINAL
+HB NO. 936
+1 (2) The proposed business plan is sound and the proposed captive is likely
+2 to meet its obligations to insureds.
+3 (3) The proposed captive will not be used for purposes contrary to the
+4 interests of the public or the integrity of the insurance market.
+5 §550.45. Minimum capital and surplus requirements
+6 A. The minimum capital and surplus requirements for captive insurers
+7 licensed pursuant to this Chapter are as follows:
+8 (1) Pure captive insurer: minimum capital of two hundred fifty thousand
+9 dollars and minimum surplus of two hundred fifty thousand dollars for a combined
+10 minimum of five hundred thousand dollars.
+11 (2) Association captive insurer: minimum capital of five hundred thousand
+12 dollars and minimum surplus of five hundred thousand dollars for a combined
+13 minimum of one million dollars.
+14 (3) Group captive insurer: minimum capital of five hundred thousand dollars
+15 and minimum surplus of five hundred thousand dollars for a combined minimum of
+16 one million dollars.
+17 (4) Sponsored captive insurer: minimum capital of five hundred thousand
+18 dollars and minimum surplus of five hundred thousand dollars for the general
+19 account.
+20 (5) Protected cell company: minimum capital and surplus for the core
+21 account of two hundred fifty thousand dollars with a minimum of one hundred
+22 thousand dollars of capital and surplus attributable to each cell.
+23 B. The commissioner may, by rule or order, establish higher capital and
+24 surplus requirements for a particular captive insurer based on the type, volume, or
+25 nature of insurance business transacted, or other relevant risk factors.
+26 C. Capital and surplus may be contributed in the form of cash, letters of
+27 credit from financial institutions approved by the commissioner, trust arrangements,
+28 or such other forms of security as the commissioner may approve.
+Page 5 of 18
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-1294 ORIGINAL
+HB NO. 936
+1 D. The commissioner shall annually review the adequacy of minimum
+2 capital and surplus requirements and shall adjust them as necessary to reflect
+3 changes in economic conditions, actuarial standards, or market practices.
+4 §550.46. Licensing fees
+5 A. Captive insurers shall pay to the Department the following fees:
+6 (1) Initial application fee of two thousand five hundred dollars for a pure
+7 captive insurer; five thousand dollars for an association, group, or sponsored captive
+8 insurer; and seven thousand five hundred dollars for a protected cell company.
+9 (2) Annual renewal fee: the same as the initial application fee.
+10 (3) Cell addition fee for protected cell companies: five hundred dollars per
+11 cell added after initial licensing.
+12 B. Fees collected pursuant to this section shall be deposited in a special fund
+13 established for use by the Department in administering this Chapter and developing
+14 this state's captive industry.
+15 §550.47. Formation of protected cell companies
+16 A. A protected cell company shall be formed under the laws of this state as
+17 a single legal entity with the authority to establish and maintain two or more cells for
+18 the purpose of insuring the risks of cell owners.
+19 B. The organizational documents of a protected cell company shall:
+20 (1) Identify the company as a protected cell company.
+21 (2) Authorize the establishment and maintenance of cells.
+22 (3) Require that the assets of each cell be segregated from the assets of all
+23 other cells and from the general assets of the protected cell company.
+24 (4) Prohibit the assets attributable to a cell from being charged with the
+25 liabilities of any other cell or the general liabilities of the protected cell company.
+26 (5) Specify the rights and obligations of cell owners with respect to their
+27 cells.
+28 §550.48. Cell establishment and governance
+Page 6 of 18
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-1294 ORIGINAL
+HB NO. 936
+1 A. A protected cell company may establish one or more cells with the prior
+2 written approval of the commissioner. Each cell shall be established pursuant to a
+3 written cell agreement that specifies:
+4 (1) The identity and ownership interest of the cell owner.
+5 (2) The risks to be insured through the cell.
+6 (3) The minimum capital and surplus to be maintained in the cell.
+7 (4) The rights of the cell owner regarding management and control of the
+8 cell.
+9 (5) The circumstances under which the cell may be terminated.
+10 (6) The allocation of investment income, underwriting profits and losses, and
+11 expenses between the cell and the core account.
+12 B. Each cell shall maintain separate books of account and financial records.
+13 The protected cell company shall maintain a clear accounting separation between the
+14 assets and liabilities of each cell and the core account.
+15 C. The name of each cell shall include the name of the protected cell
+16 company and a designation that identifies the particular cell.
+17 §550.49. Segregation of cell assets; core account
+18 A. The assets of each cell of a protected cell company shall be:
+19 (1) Held separately from the assets of all other cells and the core account.
+20 (2) Used only to pay losses and expenses attributable to risks insured by that
+21 cell.
+22 (3) Not subject to the claims of creditors of any other cell or of the protected
+23 cell company in its general capacity, except as provided in Subsection C of this
+24 Section.
+25 B. The assets of the core account may be used to meet obligations of the
+26 protected cell company that are not attributable to any individual cell, including
+27 administrative expenses, formation costs, and regulatory compliance obligations.
+28 C. Notwithstanding the general rule of segregation, the assets of the core
+29 account may be used to satisfy the obligations of a cell if:
+Page 7 of 18
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-1294 ORIGINAL
+HB NO. 936
+1 (1) The cell assets are insufficient to satisfy those obligations.
+2 (2) The cell agreement expressly permits such use.
+3 (3) The commissioner has approved such use in writing.
+4 D. No judgment against a protected cell company with respect to obligations
+5 attributable to a particular cell shall be enforceable against the assets of any other
+6 cell or the core account, except as provided in this Section.
+7 §550.50. Small carrier group captive provisions
+8 A. In recognition of the market access challenges faced by small commercial
+9 transportation carriers, the commissioner shall:
+10 (1) Develop expedited application procedures for protected cell companies
+11 sponsored by trade associations whose members consist primarily of small
+12 commercial carriers, defined as carriers operating five or fewer vehicles.
+13 (2) Allow reduced minimum cell capitalization requirements of fifty
+14 thousand dollars per cell for cells owned by carriers meeting the definition of a small
+15 carrier.
+16 (3) Provide technical assistance to trade associations seeking to establish
+17 group captive or protected cell structures for their members.
+18 B. Trade associations sponsoring captive structures under this section shall
+19 be required to demonstrate adequate financial strength, governance capacity, and
+20 actuarial support to manage the captive responsibly.
+21 C. The commissioner shall prepare and publish annually a report on small
+22 carrier captive activity in this state, including the number of small carriers accessing
+23 captive coverage, the premium savings achieved, and recommendations for program
+24 improvements.
+25 §550.51. Governance requirements
+26 A. Each captive insurer shall maintain a board of directors or equivalent
+27 governing body with a minimum of three members, at least one of whom shall be a
+28 resident of this state.
+29 B. The governing body shall:
+Page 8 of 18
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-1294 ORIGINAL
+HB NO. 936
+1 (1) Meet at least annually, with a quorum present.
+2 (2) Adopt and maintain a written governance policy.
+3 (3) Oversee the captive's financial condition and compliance with this
+4 Chapter.
+5 (4) Review and approve the annual actuarial report.
+6 (5) Maintain minutes of all meetings, available for inspection by the
+7 commissioner.
+8 C. A captive insurer may employ a captive manager licensed by the
+9 commissioner to perform day-to-day management functions. The use of a captive
+10 manager does not relieve the governing body of its oversight responsibilities.
+11 §550.52. Captive managers; licensing
+12 A. No person shall act as a captive manager in this state without first
+13 obtaining a captive manager license from the commissioner.
+14 B. A captive manager license applicant shall demonstrate:
+15 (1) Relevant experience in insurance, risk management, or captive
+16 management.
+17 (2) Financial responsibility and sound business practices.
+18 (3) Compliance with applicable education requirements established by the
+19 commissioner.
+20 (4) Payment of the required license fee.
+21 C. A captive manager license shall be renewed annually. The commissioner
+22 may revoke or suspend a license for cause following notice and an opportunity for
+23 a hearing.
+24 D. The commissioner shall, through rule, establish standards of conduct for
+25 captive managers, including fiduciary duties to captive insurers and their
+26 policyholders.
+27 §550.53. Actuarial requirements
+Page 9 of 18
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-1294 ORIGINAL
+HB NO. 936
+1 A. Each captive insurer shall retain a qualified actuary, who shall be a
+2 Fellow of the Casualty Actuarial Society, a Fellow of the Society of Actuaries, or a
+3 member in good standing of the American Academy of Actuaries.
+4 B. The actuary shall annually prepare and certify a statement of actuarial
+5 opinion addressing:
+6 (1) The adequacy of the captive's loss reserves.
+7 (2) The appropriateness of the captive's premium pricing relative to the risks
+8 insured.
+9 (3) The captive's projected solvency for the upcoming year.
+10 (4) Any significant actuarial risks or concerns identified by the actuary.
+11 C. The actuarial opinion shall be submitted to the commissioner as part of
+12 the annual report required under this Chapter.
+13 §550.54. Investment requirements
+14 A. A captive insurer shall invest its assets in accordance with a written
+15 investment policy approved by its governing body and the commissioner.
+16 B. The investment policy shall provide for:
+17 (1) Preservation of capital as the primary investment objective.
+18 (2) Diversification appropriate to the nature and duration of the captive's
+19 liabilities.
+20 (3) Liquidity sufficient to meet expected claims obligations.
+21 (4) Compliance with applicable investment standards established by the
+22 commissioner.
+23 C. A captive insurer shall not invest more than ten percent of its admitted
+24 assets in the securities of any single issuer, other than obligations of the United
+25 States government.
+26 §550.55. Reinsurance
+27 A. A captive insurer may obtain reinsurance from any insurer authorized to
+28 transact reinsurance in this state or from a reinsurer approved by the commissioner.
+Page 10 of 18
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-1294 ORIGINAL
+HB NO. 936
+1 B. A captive insurer may cede one hundred percent of its risks to a reinsurer
+2 if the reinsurance arrangement is approved by the commissioner and the captive
+3 retains sufficient financial substance to meet its direct obligations to insureds.
+4 C. Reinsurance recoverables shall be admitted as assets only to the extent
+5 that the reinsurer meets credit for reinsurance standards established by the
+6 commissioner.
+7 §550.56. Annual report
+8 A. Each captive insurer shall file an annual report with the commissioner no
+9 later than April thirtieth of each year. The annual report shall include:
+10 (1) Annual financial statements audited by an independent certified public
+11 accountant licensed in this state or another state acceptable to the commissioner.
+12 (2) The actuarial opinion required under Section 1314.
+13 (3) A statement of any material changes in the captive's business plan,
+14 ownership, or governance.
+15 (4) A description of any claims or losses that individually exceeded ten
+16 percent of the captive's surplus.
+17 (5) Such other information as the commissioner may require by rule.
+18 B. Protected cell companies shall include in their annual report separate
+19 financial statements for each cell and for the core account.
+20 C. The commissioner may, for good cause shown, grant an extension of the
+21 filing deadline not to exceed sixty days.
+22 §550.57. Examination authority
+23 A. The commissioner may examine the affairs of any captive insurer at any
+24 time the commissioner deems it necessary for the protection of policyholders or the
+25 public.
+26 B. The commissioner shall conduct a routine examination of each captive
+27 insurer at least once every five years.
+Page 11 of 18
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-1294 ORIGINAL
+HB NO. 936
+1 C. The costs of any examination shall be borne by the captive insurer being
+2 examined, except that the commissioner may waive examination costs for small
+3 captives upon a finding that such waiver is in the public interest.
+4 D. Examination reports shall be confidential and not subject to public
+5 disclosure, except that the commissioner may share examination reports with other
+6 insurance regulatory authorities.
+7 §550.58. Confidentiality of captive information
+8 A. All financial information, reports, and business plans submitted to the
+9 commissioner pursuant to this Chapter shall be confidential and not subject to public
+10 records disclosure under this state's law.
+11 B. The commissioner may share confidential captive information with the
+12 National Association of Insurance Commissioners or with the insurance regulatory
+13 authorities of another state or jurisdiction under a written agreement of
+14 confidentiality.
+15 C. The confidentiality provisions of this section shall not be construed to
+16 prevent the commissioner from disclosing to the public aggregate data regarding the
+17 this state's captive market that does not identify individual captives.
+18 §550.59. Premium tax
+19 A. Each captive insurer licensed in this state shall pay to the Department of
+20 Revenue an annual premium tax on direct premiums written on this state's risks,
+21 computed as follows:
+22 (1) Four-tenths of one percent on the first twenty million dollars of direct
+23 premiums.
+24 (2) Three-tenths of one percent on the next twenty million dollars of direct
+25 premiums.
+26 (3) Two-tenths of one percent on the next twenty million dollars of direct
+27 premiums.
+28 (4) One-tenth of one percent on direct premiums in excess of sixty million
+29 dollars.
+Page 12 of 18
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-1294 ORIGINAL
+HB NO. 936
+1 B. The minimum annual premium tax payable by any captive insurer under
+2 this section shall be five thousand dollars.
+3 C. Captive insurers are exempt from any other premium tax, surplus lines
+4 tax, or fire marshal tax that would otherwise apply to insurance transactions.
+5 D. Premium taxes paid pursuant to this section shall not be subject to
+6 retaliatory tax provisions applicable to other insurers.
+7 §550.60. Grounds for regulatory action
+8 A. The commissioner may suspend, revoke, or place in conservatorship a
+9 captive insurer upon a finding that:
+10 (1) The captive insurer has failed to maintain the required minimum capital
+11 or surplus.
+12 (2) The captive insurer has materially misrepresented information in its
+13 application, annual report, or other regulatory filing.
+14 (3) The captive insurer is in a financially hazardous condition.
+15 (4) The captive insurer's management has engaged in conduct that is
+16 hazardous to policyholders or the public.
+17 (5) The captive insurer has failed to comply with any requirement of this
+18 Chapter or applicable rules.
+19 (6) The captive insurer has failed to pay claims in a timely manner.
+20 B. Prior to taking action under this Section, the commissioner shall provide
+21 the captive insurer with written notice of the proposed action and an opportunity for
+22 a hearing within thirty days, unless the commissioner determines that an emergency
+23 exists requiring immediate action.
+24 §550.61. Civil penalties
+25 A. A captive insurer that violates any provision of this Chapter or any rule
+26 promulgated hereunder shall be subject to a civil penalty not to exceed twenty-five
+27 thousand dollars per violation.
+28 B. A person who acts as a captive manager without a license shall be subject
+29 to a civil penalty not to exceed fifty thousand dollars per violation.
+Page 13 of 18
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-1294 ORIGINAL
+HB NO. 936
+1 C. All penalties collected under this Section shall be deposited in the
+2 Department's captive insurance development fund.
+3 §550.62. Receivership and liquidation
+4 A. A captive insurer that is determined to be insolvent or in hazardous
+5 financial condition shall be subject to the receivership and liquidation provisions of
+6 this state's insurance law to the extent consistent with this Chapter.
+7 B. In the event of a protected cell company's insolvency, the assets of each
+8 cell shall be applied first to the obligations of that cell. Only after the cell's
+9 obligations are satisfied may remaining cell assets be applied to the obligations of
+10 the core account or other cells, and only to the extent authorized by the cell
+11 agreement and approved by the commissioner.
+12 C. Captive insurers are not required to participate in the Louisiana Insurance
+13 Guaranty Association (LIGA). Policyholders of captive insurers are not entitled to
+14 LIGA guaranty fund protection.
+15 §550.63. Louisiana Captive Insurance Development Fund
+16 A. There is hereby created in the state treasury a special fund to be known
+17 as the Louisiana Captive Insurance Development Fund.
+18 B. The fund shall receive:
+19 (1) All application and renewal fees collected under this Chapter.
+20 (2) Civil penalties collected under Section 1322.
+21 (3) Such other appropriations or transfers as the Legislature may provide.
+22 C. Monies in the fund shall be used by the commissioner to:
+23 (1) Hire and retain specialized staff for captive regulation, including
+24 actuaries, financial analysts, and legal counsel.
+25 (2) Market this state as a captive domicile at national and international
+26 insurance industry events.
+27 (3) Develop technical assistance programs for small businesses, minority-
+28 owned enterprises, and trade associations seeking to form captives.
+29 (4) Fund research and education on captive insurance and risk management.
+Page 14 of 18
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-1294 ORIGINAL
+HB NO. 936
+1 §550.64. Captive Insurance Advisory Committee
+2 A. The commissioner shall establish a Captive Insurance Advisory
+3 Committee to advise the commissioner on the development and administration of
+4 this state's captive insurance market.
+5 B. The advisory committee shall consist of twelve members appointed by
+6 the commissioner, including:
+7 (1) Two captive insurance managers licensed in this state.
+8 (2) Two representatives of this state's trade associations with captive or self-
+9 insurance programs.
+10 (3) One licensed actuary with captive insurance experience.
+11 (4) One attorney specializing in insurance law.
+12 (5) One certified public accountant with insurance industry experience.
+13 (6) One representative of small or minority-owned businesses.
+14 (7) One representative from the commercial transportation industry.
+15 (8) One representative from the financial services industry.
+16 (9) One member of the general public.
+17 (10) One representative from this state's institution of higher education with
+18 an insurance or risk management program.
+19 C. The advisory committee shall meet at least twice annually and shall
+20 provide the commissioner with written recommendations on captive regulatory
+21 policy, fee structures, and economic development strategies.
+22 §550.65. Rulemaking authority
+23 The commissioner shall have authority to promulgate rules and regulations
+24 necessary to implement the provisions of this Chapter, including rules governing
+25 application procedures, capital and surplus requirements, investment standards,
+26 captive manager licensing, governance requirements, and examination procedures.
+27 §550.66. Exemption from other insurance laws
+Page 15 of 18
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-1294 ORIGINAL
+HB NO. 936
+1 A. Captive insurers licensed pursuant to this Chapter are exempt from all
+2 provisions of the Louisiana Insurance Code applicable to admitted insurers, except
+3 as specifically provided in this Chapter or by rule of the commissioner.
+4 B. Captive insurers shall not be subject to this state's surplus lines laws with
+5 respect to business written by the captive on risks of its owner, members, or
+6 participants.
+7 C. Nothing in this Chapter shall be construed to exempt captive insurers
+8 from laws of general applicability, including laws governing fraud, deceptive trade
+9 practices, and contractual obligations.
+10 §550.67. Applicability of other provisions
+11 To the extent not inconsistent with this Chapter, the provisions of this state's
+12 insurance law relating to insurer formation, corporate governance, and financial
+13 regulation shall apply to captive insurers. In the event of a conflict between this
+14 Chapter and other provisions of this state's insurance law, this Chapter shall control.
+15 Section 2. This Act shall take effect upon signature by the Governor, or, if not
+16 signed by the Governor, upon expiration of the time for bills to become law without
+17 the Governor's signature, as provided by Article III, Section 18 of the Constitution
+18 of Louisiana.
+DIGEST
+The digest printed below was prepared by House Legislative Services. It constitutes no part
+of the legislative instrument. The keyword, one-liner, abstract, and digest do not constitute
+part of the law or proof or indicia of legislative intent. [R.S. 1:13(B) and 24:177(E)]
+HB 936 Original 2026 Regular Session Jordan
+Abstract: Creates the Louisiana Captive Insurance Act. Establishes the formation,
+regulation, licensing, capitalization, solvency, and reporting requirements for the
+Louisiana Captive Insurance Act. Provides definitions necessary for the Louisiana
+Captive Insurance Act. Provides for economic development through captive
+domicile.
+Proposed law provides for definitions.
+Proposed law establishes the types of captive insurers who are authorized to form and be
+licensed in this state.
+Proposed law provides the requirements for a captive insurer seeking licensure.
+Page 16 of 18
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-1294 ORIGINAL
+HB NO. 936
+Proposed law establishes minimum capital and surplus requirements for licensed captive
+insurers.
+Proposed law authorizes the commissioner to establish higher capital and surplus
+requirements for a particular captive insurer.
+Proposed law authorizes the commissioner to annually review the minimum capital and
+surplus requirements and adjust them as necessary.
+Proposed law requires licensing fees and licensing requirements based on types of captive
+insurers, association, group, or protected cell company.
+Proposed law establishes the formation, requirements, and governance of protected cell
+companies and captive insurers.
+Proposed law permits the commissioner authority to expedite application procedures, reduce
+minimum cell capitalization requirements, and provide technical assistance to trade
+associations for small carrier group captives.
+Proposed law authorizes the commissioner to establish standards of conduct for captive
+managers.
+Proposed law requires captive insurers to retain a qualified actuarial.
+Proposed law provides requirements for a qualified actuarial.
+Proposed law permits captive insurers to invest assets with a written investment policy
+approved by its governing body and the commissioner.
+Proposed law allows captive insurers to obtain reinsurance from any insurer authorized to
+transact reinsurance in this state or from a reinsurer approved by the commissioner.
+Proposed law requires captive insurers and protected cell companies to file an annual report
+with the commissioner no later than April 30 of each year.
+Proposed law includes requirements for the annual report that shall be submitted by captive
+insurers an protected cell companies.
+Proposed law permits the commissioner to examine the affairs of any captive insurer, at any
+time, for the protection of policyholders or the public.
+Proposed law protects all financial information, reports, and business plans submitted by
+the captive insurer to the commissioner as confidential and is not subject to public records
+disclosure.
+Proposed law requires captive insurers to pay an annual tax premium to the department of
+revenue.
+Proposed law establishes the grounds for regulatory action, in which, the commissioner may
+suspend, revoke, or place in conservatorship a captive insurer.
+Proposed law imposes civil penalties for captive insurers that commit violations.
+Proposed law provides the receivership and liquidation process for captive insurers that are
+insolvent or in hazardous financial condition.
+Proposed law establishes a captive insurance development fund for this state.
+Page 17 of 18
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-1294 ORIGINAL
+HB NO. 936
+Proposed law establishes a captive insurance advisory committee, which shall consist of 12
+members appointed by the commissioner.
+Proposed law provides exemptions for captive insurers.
+Proposed law provides the applicability of governing provisions when provisions conflict.
+Proposed law provides the effective date of act shall take effect upon signature by the
+governor.
+(Adds 22:550.41- 550.68)
+Page 18 of 18
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+[DELETED: 4O c t L C I A t a t f a o c i c i p c i c g c a p c c t e c s a r r t p f A s b k a m b c a t " C]
+[DELETED: 4O i t s m a a l r t t s  " p m t d s w a c  " a m t a a l o a p c]
+[DELETED: 4O  " c c o " m a c i t t o m s c e w d a a l o p t s p a w t s]
+[DELETED: 4O l l c o s o e a m b a b t b t]
+[DELETED: 4O c s a m s o f h t d f t g  P c c m c a s f t c]
+[DELETED: 4O a s r a s a t a n t r]
+[DELETED: 4O e c]
+[DELETED: 4O b t a w m c p o s  A r m c c r o f]
+[DELETED: 4O  O c f c a c w t  M m o a m a f i b t  A c i m e a c m l b t s  R e i i r m o c m i f d t c i a t]
+[DELETED: 4O]
+[DELETED: 4O t r m c f r s e b t]
+[DELETED: 4O   r b a n s t p o a s o j u a w a o]
+[DELETED: 4O  T c i m h e i c t i]
+[DELETED: 4O  A p c u t S s b d i t s b a f t t o o t c O a t c c a o o c a o t t e a b t c  H a r s s f c r i]
+[DELETED: 4O  T c s e a C I A t c w w r o c r p c a s r i s]
+[DELETED: 4O t b w b t c o r o i o m ol2nJ  C t L C I A  E t f I A  P f e d t c]
+[DELETED: 4O l a t c t e h c a s c c r a p t a t t]
+[DELETED: 4O]
+
+
+================================================================================
+
+Raw Text:
+HLS 26RS-1294 ORIGINAL
+2026 Regular Session
+HOUSE BILL NO. 936
+BY REPRESENTATIVE JORDAN
+INSURANCE: Provides relative to captive insurers
+1 AN ACT
+2 To enact Subpart T of Part I of Chapter 2 of Title 22 of the Louisiana Revised Statutes of
+3 1950, to be comprised of R.S. 22:550.41 through 550.68, relative to captive insurers;
+4 to create the Louisiana Captive Insurance Act; to authorize the formation and
+5 regulation of captive insurance companies including pure captive insurers,
+6 association captives, group captives and protected cell companies; to establish
+7 licensing, capitalization, solvency, and reporting requirements; to provide for
+8 economic development through captive domicile; and to provide for related matters.
+9 Be it enacted by the Legislature of Louisiana:
+10 Section 1. Subpart T of Part I of Chapter 2 of Title 22 of the Louisiana Revised
+11 Statutes of 1950, comprised of R.S. 22:550.41 through 550.68 is hereby amended and
+12 reenacted to read as follows:
+13 SUBPART T. CAPTIVE INSURANCE ACT
+14 §550.41. Short title
+This Act shall be known and may be cited as the "Louisiana Captive
+15
+16 Insurance Act."
+17 §550.42. Definitions
+18 As used in this Chapter, the following terms have the meanings ascribed to
+19 them:
+Page 1 of 18
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1294 ORIGINAL
+HB NO. 936
+1 (1) "Association captive insurer" means a captive insurer that insures risks
+2 of the members of one or more associations and their affiliated companies and
+3 employees, formed and sponsored by those associations.
+4 (2) "Branch captive insurer" means an alien captive insurer licensed to write
+5 insurance in this state, maintaining assets and liabilities related to this state's
+6 operations in a segregated branch account.
+7 (3) "Business plan" means the document submitted with a captive
+8 application describing the proposed insurer's underwriting strategy, risk profile,
+9 capitalization plan, governance structure, and projected financial performance.
+10 (4) "Captive insurer" means any pure captive insurer, association captive
+11 insurer, group captive insurer, sponsored captive insurer, or protected cell company
+12 formed or licensed pursuant to this Chapter.
+13 (5) "Cell" means a separate and distinct account within a protected cell
+14 company established pursuant to this Chapter, with its own separately maintained
+15 assets and liabilities, owned by one or more participants and maintained separate
+16 from all other cells and from the protected cell company's general account.
+17 (6) "Cell owner" means a participant who owns or has an equity interest in
+18 a cell of a protected cell company.
+19 (7) "Core account" means the assets and liabilities of a protected cell
+20 company that are not attributable to any cell.
+21 (8) "Fronting insurer" means a licensed insurer that issues policies on behalf
+22 of a captive insurer through a contractual arrangement, retaining no or minimal risk.
+23 (9) "Group captive insurer" means a captive insurer owned by two or more
+24 unaffiliated companies or persons that insures only the risks of its owners, their
+25 affiliated companies, or the risks of members of an industry group.
+26 (10) "Inactive captive" means a captive insurer that has ceased writing new
+27 insurance and is in the process of winding down its affairs.
+28 (11) "Minimum capital" means the minimum paid-in capital required for
+29 formation and ongoing operation of a captive insurer as specified in this Chapter.
+Page 2 of 18
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1294 ORIGINAL
+HB NO. 936
+1 (12) "Minimum surplus" means the minimum surplus required for formation
+2 and ongoing operation of a captive insurer as specified in this Chapter.
+3 (13) "Participant" means a person who is insured by a sponsored captive
+4 insurer under a participant contract, or who holds an ownership interest in a cell of
+5 a protected cell company.
+6 (14) "Participant contract" means the agreement between a sponsored captive
+7 insurer and a participant that defines the terms of the participant's access to the
+8 sponsored captive's facilities.
+9 (15) "Protected cell" has the same meaning as "cell."
+10 (16) "Protected cell company" or "PCC" means a captive insurer that
+11 maintains two or more separate cells, each with distinct assets and liabilities
+12 attributed to individual participants, segregated from all other cells and from the
+13 general assets of the protected cell company.
+14 (17) "Pure captive insurer" means a captive insurer that insures only the risks
+15 of its parent, affiliated companies, or controlled unaffiliated entities.
+16 (18) "Sponsor" means the entity that owns and operates a sponsored captive
+17 insurer and provides the required capital for the sponsored captive's general account.
+18 (19) "Sponsored captive insurer" means a captive insurer that insures the
+19 risks of participants through separate participant accounts, with the sponsor
+20 providing the general account capital.
+21 §550.43. Authority to form; types of captive insurers authorized
+22 A. The following types of captive insurers may be formed and licensed in
+23 this state pursuant to this Subpart:
+24 (1) Pure captive insurers.
+25 (2) Association captive insurers.
+26 (3) Group captive insurers.
+27 (4) Sponsored captive insurers.
+28 (5) Protected cell companies.
+29 (6) Branch captive insurers.
+Page 3 of 18
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1294 ORIGINAL
+HB NO. 936
+1 B. A captive insurer may be incorporated as a stock insurer, a mutual insurer,
+2 a limited liability company, or such other entity as may be approved by the
+3 commissioner.
+4 C. A captive insurer may be formed under the laws of this state or may be
+5 a foreign or alien captive seeking licensure as a branch captive insurer in this state.
+6 §550.44. Application for license
+7 A. A captive insurer seeking a license to do business in this state shall file
+8 with the commissioner a written application for a license, accompanied by the
+9 applicable fee. The application shall include:
+10 (1) A copy of the proposed organizational documents, including articles of
+11 incorporation or organization and bylaws or operating agreement.
+12 (2) A business plan meeting the requirements of this Chapter.
+13 (3) Evidence of the required minimum capital and surplus.
+14 (4) A pro forma balance sheet and income statement for the first three years
+15 of operation.
+16 (5) The name and qualifications of the proposed captive manager, if any.
+17 (6) The name and qualifications of the proposed actuary.
+18 (7) A description of the risks to be insured.
+19 (8) Information regarding proposed reinsurance arrangements, if any.
+20 (9) Such other information as the commissioner may require by rule.
+21 B. All applications shall be reviewed by the commissioner, who may, as part
+22 of the review process, conduct an examination of the proposed captive, require
+23 additional information, or hold a hearing.
+24 C. The commissioner shall approve or deny an application within ninety
+25 days of receipt of a complete application. If the commissioner fails to act within
+26 ninety days, the application shall be deemed approved.
+27 D. The commissioner shall approve a license if the commissioner determines
+28 that:
+29 (1) The applicant meets all requirements of this Chapter and applicable rules.
+Page 4 of 18
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1294 ORIGINAL
+HB NO. 936
+1 (2) The proposed business plan is sound and the proposed captive is likely
+2 to meet its obligations to insureds.
+3 (3) The proposed captive will not be used for purposes contrary to the
+4 interests of the public or the integrity of the insurance market.
+5 §550.45. Minimum capital and surplus requirements
+6 A. The minimum capital and surplus requirements for captive insurers
+7 licensed pursuant to this Chapter are as follows:
+8 (1) Pure captive insurer: minimum capital of two hundred fifty thousand
+9 dollars and minimum surplus of two hundred fifty thousand dollars for a combined
+10 minimum of five hundred thousand dollars.
+11 (2) Association captive insurer: minimum capital of five hundred thousand
+12 dollars and minimum surplus of five hundred thousand dollars for a combined
+13 minimum of one million dollars.
+14 (3) Group captive insurer: minimum capital of five hundred thousand dollars
+15 and minimum surplus of five hundred thousand dollars for a combined minimum of
+16 one million dollars.
+17 (4) Sponsored captive insurer: minimum capital of five hundred thousand
+18 dollars and minimum surplus of five hundred thousand dollars for the general
+19 account.
+20 (5) Protected cell company: minimum capital and surplus for the core
+21 account of two hundred fifty thousand dollars with a minimum of one hundred
+22 thousand dollars of capital and surplus attributable to each cell.
+23 B. The commissioner may, by rule or order, establish higher capital and
+24 surplus requirements for a particular captive insurer based on the type, volume, or
+25 nature of insurance business transacted, or other relevant risk factors.
+26 C. Capital and surplus may be contributed in the form of cash, letters of
+27 credit from financial institutions approved by the commissioner, trust arrangements,
+28 or such other forms of security as the commissioner may approve.
+Page 5 of 18
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1294 ORIGINAL
+HB NO. 936
+1 D. The commissioner shall annually review the adequacy of minimum
+2 capital and surplus requirements and shall adjust them as necessary to reflect
+3 changes in economic conditions, actuarial standards, or market practices.
+4 §550.46. Licensing fees
+5 A. Captive insurers shall pay to the Department the following fees:
+6 (1) Initial application fee of two thousand five hundred dollars for a pure
+7 captive insurer; five thousand dollars for an association, group, or sponsored captive
+8 insurer; and seven thousand five hundred dollars for a protected cell company.
+9 (2) Annual renewal fee: the same as the initial application fee.
+10 (3) Cell addition fee for protected cell companies: five hundred dollars per
+11 cell added after initial licensing.
+12 B. Fees collected pursuant to this section shall be deposited in a special fund
+13 established for use by the Department in administering this Chapter and developing
+14 this state's captive industry.
+15 §550.47. Formation of protected cell companies
+16 A. A protected cell company shall be formed under the laws of this state as
+17 a single legal entity with the authority to establish and maintain two or more cells for
+18 the purpose of insuring the risks of cell owners.
+19 B. The organizational documents of a protected cell company shall:
+20 (1) Identify the company as a protected cell company.
+21 (2) Authorize the establishment and maintenance of cells.
+22 (3) Require that the assets of each cell be segregated from the assets of all
+23 other cells and from the general assets of the protected cell company.
+24 (4) Prohibit the assets attributable to a cell from being charged with the
+25 liabilities of any other cell or the general liabilities of the protected cell company.
+26 (5) Specify the rights and obligations of cell owners with respect to their
+27 cells.
+28 §550.48. Cell establishment and governance
+Page 6 of 18
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1294 ORIGINAL
+HB NO. 936
+1 A. A protected cell company may establish one or more cells with the prior
+2 written approval of the commissioner. Each cell shall be established pursuant to a
+3 written cell agreement that specifies:
+4 (1) The identity and ownership interest of the cell owner.
+5 (2) The risks to be insured through the cell.
+6 (3) The minimum capital and surplus to be maintained in the cell.
+7 (4) The rights of the cell owner regarding management and control of the
+8 cell.
+9 (5) The circumstances under which the cell may be terminated.
+10 (6) The allocation of investment income, underwriting profits and losses, and
+11 expenses between the cell and the core account.
+12 B. Each cell shall maintain separate books of account and financial records.
+13 The protected cell company shall maintain a clear accounting separation between the
+14 assets and liabilities of each cell and the core account.
+15 C. The name of each cell shall include the name of the protected cell
+16 company and a designation that identifies the particular cell.
+17 §550.49. Segregation of cell assets; core account
+18 A. The assets of each cell of a protected cell company shall be:
+19 (1) Held separately from the assets of all other cells and the core account.
+20 (2) Used only to pay losses and expenses attributable to risks insured by that
+21 cell.
+22 (3) Not subject to the claims of creditors of any other cell or of the protected
+23 cell company in its general capacity, except as provided in Subsection C of this
+24 Section.
+25 B. The assets of the core account may be used to meet obligations of the
+26 protected cell company that are not attributable to any individual cell, including
+27 administrative expenses, formation costs, and regulatory compliance obligations.
+28 C. Notwithstanding the general rule of segregation, the assets of the core
+29 account may be used to satisfy the obligations of a cell if:
+Page 7 of 18
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1294 ORIGINAL
+HB NO. 936
+1 (1) The cell assets are insufficient to satisfy those obligations.
+2 (2) The cell agreement expressly permits such use.
+3 (3) The commissioner has approved such use in writing.
+4 D. No judgment against a protected cell company with respect to obligations
+5 attributable to a particular cell shall be enforceable against the assets of any other
+6 cell or the core account, except as provided in this Section.
+7 §550.50. Small carrier group captive provisions
+8 A. In recognition of the market access challenges faced by small commercial
+9 transportation carriers, the commissioner shall:
+10 (1) Develop expedited application procedures for protected cell companies
+11 sponsored by trade associations whose members consist primarily of small
+12 commercial carriers, defined as carriers operating five or fewer vehicles.
+13 (2) Allow reduced minimum cell capitalization requirements of fifty
+14 thousand dollars per cell for cells owned by carriers meeting the definition of a small
+15 carrier.
+16 (3) Provide technical assistance to trade associations seeking to establish
+17 group captive or protected cell structures for their members.
+18 B. Trade associations sponsoring captive structures under this section shall
+19 be required to demonstrate adequate financial strength, governance capacity, and
+20 actuarial support to manage the captive responsibly.
+21 C. The commissioner shall prepare and publish annually a report on small
+22 carrier captive activity in this state, including the number of small carriers accessing
+23 captive coverage, the premium savings achieved, and recommendations for program
+24 improvements.
+25 §550.51. Governance requirements
+26 A. Each captive insurer shall maintain a board of directors or equivalent
+27 governing body with a minimum of three members, at least one of whom shall be a
+28 resident of this state.
+29 B. The governing body shall:
+Page 8 of 18
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1294 ORIGINAL
+HB NO. 936
+1 (1) Meet at least annually, with a quorum present.
+2 (2) Adopt and maintain a written governance policy.
+3 (3) Oversee the captive's financial condition and compliance with this
+4 Chapter.
+5 (4) Review and approve the annual actuarial report.
+6 (5) Maintain minutes of all meetings, available for inspection by the
+7 commissioner.
+8 C. A captive insurer may employ a captive manager licensed by the
+9 commissioner to perform day-to-day management functions. The use of a captive
+10 manager does not relieve the governing body of its oversight responsibilities.
+11 §550.52. Captive managers; licensing
+12 A. No person shall act as a captive manager in this state without first
+13 obtaining a captive manager license from the commissioner.
+14 B. A captive manager license applicant shall demonstrate:
+15 (1) Relevant experience in insurance, risk management, or captive
+16 management.
+17 (2) Financial responsibility and sound business practices.
+18 (3) Compliance with applicable education requirements established by the
+19 commissioner.
+20 (4) Payment of the required license fee.
+21 C. A captive manager license shall be renewed annually. The commissioner
+22 may revoke or suspend a license for cause following notice and an opportunity for
+23 a hearing.
+24 D. The commissioner shall, through rule, establish standards of conduct for
+25 captive managers, including fiduciary duties to captive insurers and their
+26 policyholders.
+27 §550.53. Actuarial requirements
+Page 9 of 18
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1294 ORIGINAL
+HB NO. 936
+1 A. Each captive insurer shall retain a qualified actuary, who shall be a
+2 Fellow of the Casualty Actuarial Society, a Fellow of the Society of Actuaries, or a
+3 member in good standing of the American Academy of Actuaries.
+4 B. The actuary shall annually prepare and certify a statement of actuarial
+5 opinion addressing:
+6 (1) The adequacy of the captive's loss reserves.
+7 (2) The appropriateness of the captive's premium pricing relative to the risks
+8 insured.
+9 (3) The captive's projected solvency for the upcoming year.
+10 (4) Any significant actuarial risks or concerns identified by the actuary.
+11 C. The actuarial opinion shall be submitted to the commissioner as part of
+12 the annual report required under this Chapter.
+13 §550.54. Investment requirements
+14 A. A captive insurer shall invest its assets in accordance with a written
+15 investment policy approved by its governing body and the commissioner.
+16 B. The investment policy shall provide for:
+17 (1) Preservation of capital as the primary investment objective.
+18 (2) Diversification appropriate to the nature and duration of the captive's
+19 liabilities.
+20 (3) Liquidity sufficient to meet expected claims obligations.
+21 (4) Compliance with applicable investment standards established by the
+22 commissioner.
+23 C. A captive insurer shall not invest more than ten percent of its admitted
+24 assets in the securities of any single issuer, other than obligations of the United
+25 States government.
+26 §550.55. Reinsurance
+27 A. A captive insurer may obtain reinsurance from any insurer authorized to
+28 transact reinsurance in this state or from a reinsurer approved by the commissioner.
+Page 10 of 18
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1294 ORIGINAL
+HB NO. 936
+1 B. A captive insurer may cede one hundred percent of its risks to a reinsurer
+2 if the reinsurance arrangement is approved by the commissioner and the captive
+3 retains sufficient financial substance to meet its direct obligations to insureds.
+4 C. Reinsurance recoverables shall be admitted as assets only to the extent
+5 that the reinsurer meets credit for reinsurance standards established by the
+6 commissioner.
+7 §550.56. Annual report
+8 A. Each captive insurer shall file an annual report with the commissioner no
+9 later than April thirtieth of each year. The annual report shall include:
+10 (1) Annual financial statements audited by an independent certified public
+11 accountant licensed in this state or another state acceptable to the commissioner.
+12 (2) The actuarial opinion required under Section 1314.
+13 (3) A statement of any material changes in the captive's business plan,
+14 ownership, or governance.
+15 (4) A description of any claims or losses that individually exceeded ten
+16 percent of the captive's surplus.
+17 (5) Such other information as the commissioner may require by rule.
+18 B. Protected cell companies shall include in their annual report separate
+19 financial statements for each cell and for the core account.
+20 C. The commissioner may, for good cause shown, grant an extension of the
+21 filing deadline not to exceed sixty days.
+22 §550.57. Examination authority
+23 A. The commissioner may examine the affairs of any captive insurer at any
+24 time the commissioner deems it necessary for the protection of policyholders or the
+25 public.
+26 B. The commissioner shall conduct a routine examination of each captive
+27 insurer at least once every five years.
+Page 11 of 18
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1294 ORIGINAL
+HB NO. 936
+1 C. The costs of any examination shall be borne by the captive insurer being
+2 examined, except that the commissioner may waive examination costs for small
+3 captives upon a finding that such waiver is in the public interest.
+4 D. Examination reports shall be confidential and not subject to public
+5 disclosure, except that the commissioner may share examination reports with other
+6 insurance regulatory authorities.
+7 §550.58. Confidentiality of captive information
+8 A. All financial information, reports, and business plans submitted to the
+9 commissioner pursuant to this Chapter shall be confidential and not subject to public
+10 records disclosure under this state's law.
+11 B. The commissioner may share confidential captive information with the
+12 National Association of Insurance Commissioners or with the insurance regulatory
+13 authorities of another state or jurisdiction under a written agreement of
+14 confidentiality.
+15 C. The confidentiality provisions of this section shall not be construed to
+16 prevent the commissioner from disclosing to the public aggregate data regarding the
+17 this state's captive market that does not identify individual captives.
+18 §550.59. Premium tax
+19 A. Each captive insurer licensed in this state shall pay to the Department of
+20 Revenue an annual premium tax on direct premiums written on this state's risks,
+21 computed as follows:
+22 (1) Four-tenths of one percent on the first twenty million dollars of direct
+23 premiums.
+24 (2) Three-tenths of one percent on the next twenty million dollars of direct
+25 premiums.
+26 (3) Two-tenths of one percent on the next twenty million dollars of direct
+27 premiums.
+28 (4) One-tenth of one percent on direct premiums in excess of sixty million
+29 dollars.
+Page 12 of 18
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1294 ORIGINAL
+HB NO. 936
+1 B. The minimum annual premium tax payable by any captive insurer under
+2 this section shall be five thousand dollars.
+3 C. Captive insurers are exempt from any other premium tax, surplus lines
+4 tax, or fire marshal tax that would otherwise apply to insurance transactions.
+5 D. Premium taxes paid pursuant to this section shall not be subject to
+6 retaliatory tax provisions applicable to other insurers.
+7 §550.60. Grounds for regulatory action
+8 A. The commissioner may suspend, revoke, or place in conservatorship a
+9 captive insurer upon a finding that:
+10 (1) The captive insurer has failed to maintain the required minimum capital
+11 or surplus.
+12 (2) The captive insurer has materially misrepresented information in its
+13 application, annual report, or other regulatory filing.
+14 (3) The captive insurer is in a financially hazardous condition.
+15 (4) The captive insurer's management has engaged in conduct that is
+16 hazardous to policyholders or the public.
+17 (5) The captive insurer has failed to comply with any requirement of this
+18 Chapter or applicable rules.
+19 (6) The captive insurer has failed to pay claims in a timely manner.
+20 B. Prior to taking action under this Section, the commissioner shall provide
+21 the captive insurer with written notice of the proposed action and an opportunity for
+22 a hearing within thirty days, unless the commissioner determines that an emergency
+23 exists requiring immediate action.
+24 §550.61. Civil penalties
+25 A. A captive insurer that violates any provision of this Chapter or any rule
+26 promulgated hereunder shall be subject to a civil penalty not to exceed twenty-five
+27 thousand dollars per violation.
+28 B. A person who acts as a captive manager without a license shall be subject
+29 to a civil penalty not to exceed fifty thousand dollars per violation.
+Page 13 of 18
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1294 ORIGINAL
+HB NO. 936
+1 C. All penalties collected under this Section shall be deposited in the
+2 Department's captive insurance development fund.
+3 §550.62. Receivership and liquidation
+4 A. A captive insurer that is determined to be insolvent or in hazardous
+5 financial condition shall be subject to the receivership and liquidation provisions of
+6 this state's insurance law to the extent consistent with this Chapter.
+7 B. In the event of a protected cell company's insolvency, the assets of each
+8 cell shall be applied first to the obligations of that cell. Only after the cell's
+9 obligations are satisfied may remaining cell assets be applied to the obligations of
+10 the core account or other cells, and only to the extent authorized by the cell
+11 agreement and approved by the commissioner.
+12 C. Captive insurers are not required to participate in the Louisiana Insurance
+13 Guaranty Association (LIGA). Policyholders of captive insurers are not entitled to
+14 LIGA guaranty fund protection.
+15 §550.63. Louisiana Captive Insurance Development Fund
+16 A. There is hereby created in the state treasury a special fund to be known
+17 as the Louisiana Captive Insurance Development Fund.
+18 B. The fund shall receive:
+19 (1) All application and renewal fees collected under this Chapter.
+20 (2) Civil penalties collected under Section 1322.
+21 (3) Such other appropriations or transfers as the Legislature may provide.
+22 C. Monies in the fund shall be used by the commissioner to:
+23 (1) Hire and retain specialized staff for captive regulation, including
+24 actuaries, financial analysts, and legal counsel.
+25 (2) Market this state as a captive domicile at national and international
+26 insurance industry events.
+27 (3) Develop technical assistance programs for small businesses, minority-
+28 owned enterprises, and trade associations seeking to form captives.
+29 (4) Fund research and education on captive insurance and risk management.
+Page 14 of 18
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1294 ORIGINAL
+HB NO. 936
+1 §550.64. Captive Insurance Advisory Committee
+2 A. The commissioner shall establish a Captive Insurance Advisory
+3 Committee to advise the commissioner on the development and administration of
+4 this state's captive insurance market.
+5 B. The advisory committee shall consist of twelve members appointed by
+6 the commissioner, including:
+7 (1) Two captive insurance managers licensed in this state.
+8 (2) Two representatives of this state's trade associations with captive or self-
+9 insurance programs.
+10 (3) One licensed actuary with captive insurance experience.
+11 (4) One attorney specializing in insurance law.
+12 (5) One certified public accountant with insurance industry experience.
+13 (6) One representative of small or minority-owned businesses.
+14 (7) One representative from the commercial transportation industry.
+15 (8) One representative from the financial services industry.
+16 (9) One member of the general public.
+17 (10) One representative from this state's institution of higher education with
+18 an insurance or risk management program.
+19 C. The advisory committee shall meet at least twice annually and shall
+20 provide the commissioner with written recommendations on captive regulatory
+21 policy, fee structures, and economic development strategies.
+22 §550.65. Rulemaking authority
+23 The commissioner shall have authority to promulgate rules and regulations
+24 necessary to implement the provisions of this Chapter, including rules governing
+25 application procedures, capital and surplus requirements, investment standards,
+26 captive manager licensing, governance requirements, and examination procedures.
+27 §550.66. Exemption from other insurance laws
+Page 15 of 18
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1294 ORIGINAL
+HB NO. 936
+1 A. Captive insurers licensed pursuant to this Chapter are exempt from all
+2 provisions of the Louisiana Insurance Code applicable to admitted insurers, except
+3 as specifically provided in this Chapter or by rule of the commissioner.
+4 B. Captive insurers shall not be subject to this state's surplus lines laws with
+5 respect to business written by the captive on risks of its owner, members, or
+6 participants.
+7 C. Nothing in this Chapter shall be construed to exempt captive insurers
+8 from laws of general applicability, including laws governing fraud, deceptive trade
+9 practices, and contractual obligations.
+10 §550.67. Applicability of other provisions
+11 To the extent not inconsistent with this Chapter, the provisions of this state's
+12 insurance law relating to insurer formation, corporate governance, and financial
+13 regulation shall apply to captive insurers. In the event of a conflict between this
+14 Chapter and other provisions of this state's insurance law, this Chapter shall control.
+15 Section 2. This Act shall take effect upon signature by the Governor, or, if not
+16 signed by the Governor, upon expiration of the time for bills to become law without
+17 the Governor's signature, as provided by Article III, Section 18 of the Constitution
+18 of Louisiana.
+DIGEST
+The digest printed below was prepared by House Legislative Services. It constitutes no part
+of the legislative instrument. The keyword, one-liner, abstract, and digest do not constitute
+part of the law or proof or indicia of legislative intent. [R.S. 1:13(B) and 24:177(E)]
+HB 936 Original 2026 Regular Session Jordan
+Abstract: Creates the Louisiana Captive Insurance Act. Establishes the formation,
+regulation, licensing, capitalization, solvency, and reporting requirements for the
+Louisiana Captive Insurance Act. Provides definitions necessary for the Louisiana
+Captive Insurance Act. Provides for economic development through captive
+domicile.
+Proposed law provides for definitions.
+Proposed law establishes the types of captive insurers who are authorized to form and be
+licensed in this state.
+Proposed law provides the requirements for a captive insurer seeking licensure.
+Page 16 of 18
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1294 ORIGINAL
+HB NO. 936
+Proposed law establishes minimum capital and surplus requirements for licensed captive
+insurers.
+Proposed law authorizes the commissioner to establish higher capital and surplus
+requirements for a particular captive insurer.
+Proposed law authorizes the commissioner to annually review the minimum capital and
+surplus requirements and adjust them as necessary.
+Proposed law requires licensing fees and licensing requirements based on types of captive
+insurers, association, group, or protected cell company.
+Proposed law establishes the formation, requirements, and governance of protected cell
+companies and captive insurers.
+Proposed law permits the commissioner authority to expedite application procedures, reduce
+minimum cell capitalization requirements, and provide technical assistance to trade
+associations for small carrier group captives.
+Proposed law authorizes the commissioner to establish standards of conduct for captive
+managers.
+Proposed law requires captive insurers to retain a qualified actuarial.
+Proposed law provides requirements for a qualified actuarial.
+Proposed law permits captive insurers to invest assets with a written investment policy
+approved by its governing body and the commissioner.
+Proposed law allows captive insurers to obtain reinsurance from any insurer authorized to
+transact reinsurance in this state or from a reinsurer approved by the commissioner.
+Proposed law requires captive insurers and protected cell companies to file an annual report
+with the commissioner no later than April 30 of each year.
+Proposed law includes requirements for the annual report that shall be submitted by captive
+insurers an protected cell companies.
+Proposed law permits the commissioner to examine the affairs of any captive insurer, at any
+time, for the protection of policyholders or the public.
+Proposed law protects all financial information, reports, and business plans submitted by
+the captive insurer to the commissioner as confidential and is not subject to public records
+disclosure.
+Proposed law requires captive insurers to pay an annual tax premium to the department of
+revenue.
+Proposed law establishes the grounds for regulatory action, in which, the commissioner may
+suspend, revoke, or place in conservatorship a captive insurer.
+Proposed law imposes civil penalties for captive insurers that commit violations.
+Proposed law provides the receivership and liquidation process for captive insurers that are
+insolvent or in hazardous financial condition.
+Proposed law establishes a captive insurance development fund for this state.
+Page 17 of 18
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1294 ORIGINAL
+HB NO. 936
+Proposed law establishes a captive insurance advisory committee, which shall consist of 12
+members appointed by the commissioner.
+Proposed law provides exemptions for captive insurers.
+Proposed law provides the applicability of governing provisions when provisions conflict.
+Proposed law provides the effective date of act shall take effect upon signature by the
+governor.
+(Adds 22:550.41- 550.68)
+Page 18 of 18
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+[DELETED: 4O c t L C I A t a t f a o c i c i p c i c g c a p c c t e c s a r r t p f A s b k a m b c a t " C]
+[DELETED: 4O i t s m a a l r t t s  " p m t d s w a c  " a m t a a l o a p c]
+[DELETED: 4O  " c c o " m a c i t t o m s c e w d a a l o p t s p a w t s]
+[DELETED: 4O l l c o s o e a m b a b t b t]
+[DELETED: 4O c s a m s o f h t d f t g  P c c m c a s f t c]
+[DELETED: 4O a s r a s a t a n t r]
+[DELETED: 4O e c]
+[DELETED: 4O b t a w m c p o s  A r m c c r o f]
+[DELETED: 4O  O c f c a c w t  M m o a m a f i b t  A c i m e a c m l b t s  R e i i r m o c m i f d t c i a t]
+[DELETED: 4O]
+[DELETED: 4O t r m c f r s e b t]
+[DELETED: 4O   r b a n s t p o a s o j u a w a o]
+[DELETED: 4O  T c i m h e i c t i]
+[DELETED: 4O  A p c u t S s b d i t s b a f t t o o t c O a t c c a o o c a o t t e a b t c  H a r s s f c r i]
+[DELETED: 4O  T c s e a C I A t c w w r o c r p c a s r i s]
+[DELETED: 4O t b w b t c o r o i o m ol2nJ  C t L C I A  E t f I A  P f e d t c]
+[DELETED: 4O l a t c t e h c a s c c r a p t a t t]
+[DELETED: 4O]
