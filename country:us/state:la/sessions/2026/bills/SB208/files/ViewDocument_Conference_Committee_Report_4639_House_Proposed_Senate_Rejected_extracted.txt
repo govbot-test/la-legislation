@@ -1,0 +1,187 @@
+Title: To the Honorable President and Members of the Senate and to the Honorable Speaker and
+Official Title: To the Honorable President and Members of the Senate and to the Honorable Speaker and
+Number of Sections: 5
+Source: versions - Conference Committee Report, #4639, House Proposed, Senate Rejected
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+CCRSB208 539 4639
+CONFERENCE COMMITTEE REPORT
+SB 208 2026 Regular Session Cathey
+June 1, 2026
+Members of the House of Representatives.
+Ladies and Gentlemen:
+We, the conferees appointed to confer over the disagreement between the two houses
+concerning Senate Bill No. 208 by Senator Cathey, recommend the following concerning the
+Engrossed bill:
+
+Section 2:
+1. That all House Floor Amendments proposed by Representative McFarland and
+adopted by the House of Representatives on May 19, 2026, be adopted.
+
+Section 3:
+2. That the following amendments to the engrossed bill be adopted:
+AMENDMENT NO. 1
+On page 1, line 2, after "enact" delete the remainder of the line and insert the following:
+"R.S. 29:296(F)(3), (I), and (J),"
+AMENDMENT NO. 2
+On page 1, line 7, after "reenacted and" delete the remainder of the line and insert the
+following:
+"R.S. 29:296"
+AMENDMENT NO. 3
+On page 1, delete lines 11 through 15
+Respectfully submitted,
+Senators: Representatives:
+Senator Stewart Cathey Jr. Representative Jack G. McFarland
+Senator Mike Reese Representative Robby Carter
+Senator Kirk Talbot Representative Jeffery "Jeff" Wiley
+Page 1 of 3
+CONFERENCE COMMITTEE REPORT DIGEST
+SB 208 2026 Regular Session Cathey
+Keyword and summary of the bill as proposed by the Conference Committee
+VETERANS. Provides relative to certain services provided to veterans. (gov sig)
+Report adopts House amendments to:
+
+Section 4:
+1. Make technical changes.
+Report amends the bill to:
+
+Section 5:
+1. Delete proposed law prohibition that no person receive compensation for any
+services rendered in connection with any claim for a veteran that has never
+received a disability rating.
+Digest of the bill as proposed by the Conference Committee
+Present law provides for certain circumstances that an individual or business is prohibited
+from providing services to veterans for compensation.
+Present law provides for limitations on the amount of compensation received for providing
+the services.
+Present law requires the person providing services to veterans to provide a written disclosure
+containing certain information regarding veteran's services.
+Present law provides that violations of present law constitute an unfair, false, misleading, or
+deceptive act or practice in the conduct of trade or commerce under the Unfair Trade
+Practices and Consumer Protection Law.
+Present law requires entities that assist veterans with initial disability claims to provide
+certain information to the Dept. of Veterans Affairs.
+Present law prohibits any person from receiving compensation for any of the following:
+(1) Referring any individual to another person to advise or assist the individual with any
+veterans' benefits matter.
+(2) Rendering services in connection with any claim filed within the one-year
+presumptive period of active-duty release.
+(3) Providing any services rendered in connection with any claim for pension benefits.
+Present law prohibits businesses engaging in the preparation of an initial claim or appeal of
+a disability rating for a fee from doing any of the following:
+(1) Utilizing an international call center or data centers for processing veterans' personal
+information.
+(2) Gaining direct access to any personal medical, financial, or government benefits
+login, username, or password information.
+Proposed law retains present law and adds an additional prohibition against charging a fee
+for the termination of any contract or agreement, except for those fees charged for actual
+work performed prior to the request for termination.
+Proposed law provides for a private right of action for a veteran against any person who
+collected or intended to collect a fee from the veteran in connection with any contract or
+agreement where the person's negligent or reckless conduct caused a reduction of a disability
+rating, a denial of benefits, or a delay causing economic loss.
+Proposed law provides that the person bringing a successful right of action be entitled to
+actual damages, lost retroactive benefits, diminished monthly compensation, and attorney
+fees.
+Proposed law provides that the person bringing a successful right of action be entitled to
+treble damages for intentional misconduct.
+Proposed law requires that it is not to be construed to regulate accredited agents, attorneys,
+or representatives as defined by federal rules or representation before the U.S. Department
+of Veterans Affairs.
+Effective upon signature of the governor or lapse of time for gubernatorial action.
+(Amends R.S. 29:296(H); adds R.S. 29:296(F)(3), (I), and (J))
+[DELETED: 82nC.T A.T:R.ReRtR]
+[DELETED: 82nC.M.D)R)R s i c w a c f w t o)P)U)G]
+
+
+================================================================================
+
+Raw Text:
+CCRSB208 539 4639
+CONFERENCE COMMITTEE REPORT
+SB 208 2026 Regular Session Cathey
+June 1, 2026
+To the Honorable President and Members of the Senate and to the Honorable Speaker and
+Members of the House of Representatives.
+Ladies and Gentlemen:
+We, the conferees appointed to confer over the disagreement between the two houses
+concerning Senate Bill No. 208 by Senator Cathey, recommend the following concerning the
+Engrossed bill:
+1. That all House Floor Amendments proposed by Representative McFarland and
+adopted by the House of Representatives on May 19, 2026, be adopted.
+2. That the following amendments to the engrossed bill be adopted:
+AMENDMENT NO. 1
+On page 1, line 2, after "enact" delete the remainder of the line and insert the following:
+"R.S. 29:296(F)(3), (I), and (J),"
+AMENDMENT NO. 2
+On page 1, line 7, after "reenacted and" delete the remainder of the line and insert the
+following:
+"R.S. 29:296"
+AMENDMENT NO. 3
+On page 1, delete lines 11 through 15
+Respectfully submitted,
+Senators: Representatives:
+Senator Stewart Cathey Jr. Representative Jack G. McFarland
+Senator Mike Reese Representative Robby Carter
+Senator Kirk Talbot Representative Jeffery "Jeff" Wiley
+Page 1 of 3
+
+CONFERENCE COMMITTEE REPORT DIGEST
+SB 208 2026 Regular Session Cathey
+Keyword and summary of the bill as proposed by the Conference Committee
+VETERANS. Provides relative to certain services provided to veterans. (gov sig)
+Report adopts House amendments to:
+1. Make technical changes.
+Report amends the bill to:
+1. Delete proposed law prohibition that no person receive compensation for any
+services rendered in connection with any claim for a veteran that has never
+received a disability rating.
+Digest of the bill as proposed by the Conference Committee
+Present law provides for certain circumstances that an individual or business is prohibited
+from providing services to veterans for compensation.
+Present law provides for limitations on the amount of compensation received for providing
+the services.
+Present law requires the person providing services to veterans to provide a written disclosure
+containing certain information regarding veteran's services.
+Present law provides that violations of present law constitute an unfair, false, misleading, or
+deceptive act or practice in the conduct of trade or commerce under the Unfair Trade
+Practices and Consumer Protection Law.
+Present law requires entities that assist veterans with initial disability claims to provide
+certain information to the Dept. of Veterans Affairs.
+Present law prohibits any person from receiving compensation for any of the following:
+(1) Referring any individual to another person to advise or assist the individual with any
+veterans' benefits matter.
+(2) Rendering services in connection with any claim filed within the one-year
+presumptive period of active-duty release.
+(3) Providing any services rendered in connection with any claim for pension benefits.
+Present law prohibits businesses engaging in the preparation of an initial claim or appeal of
+a disability rating for a fee from doing any of the following:
+(1) Utilizing an international call center or data centers for processing veterans' personal
+information.
+(2) Gaining direct access to any personal medical, financial, or government benefits
+login, username, or password information.
+Proposed law retains present law and adds an additional prohibition against charging a fee
+for the termination of any contract or agreement, except for those fees charged for actual
+work performed prior to the request for termination.
+Proposed law provides for a private right of action for a veteran against any person who
+collected or intended to collect a fee from the veteran in connection with any contract or
+
+agreement where the person's negligent or reckless conduct caused a reduction of a disability
+rating, a denial of benefits, or a delay causing economic loss.
+Proposed law provides that the person bringing a successful right of action be entitled to
+actual damages, lost retroactive benefits, diminished monthly compensation, and attorney
+fees.
+Proposed law provides that the person bringing a successful right of action be entitled to
+treble damages for intentional misconduct.
+Proposed law requires that it is not to be construed to regulate accredited agents, attorneys,
+or representatives as defined by federal rules or representation before the U.S. Department
+of Veterans Affairs.
+Effective upon signature of the governor or lapse of time for gubernatorial action.
+(Amends R.S. 29:296(H); adds R.S. 29:296(F)(3), (I), and (J))
+
+[DELETED: 82nC.T A.T:R.ReRtR]
+[DELETED: 82nC.M.D)R)R s i c w a c f w t o)P)U)G]

@@ -1,0 +1,219 @@
+Title: SENATE BILL NO. 303
+Official Title: SENATE BILL NO. 303
+Number of Sections: 4
+Source: versions - SB303 Reengrossed
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+SLS 26RS-441 REENGROSSED
+2026 Regular Session
+BY SENATOR CLOUD
+PROCUREMENT CODE. Creates the "Interstate Technology Collaboration Act" to provide
+for use of cooperative purchasing for information technology system procurement. (gov sig)
+1 AN ACT
+2 To amend and reenact R.S. 39:1702(A)(1), relative to the Louisiana Procurement Code; to
+3 provide for cooperative purchasing for information technology systems; to provide
+4 for an effective date; and to provide for related matters.
+5 Be it enacted by the Legislature of Louisiana:
+6 Section 1. R.S. 39:1702(A)(1) is hereby amended and enacted to read as follows:
+7 §1702. Cooperative purchasing authorized; participation in federal General Services
+8 Administration vendor list
+9 A.(1) Any public procurement unit may either participate in, sponsor,
+10 conduct, or administer a cooperative purchasing agreement for the acquisition of any
+11 supplies, services, personal, professional, consulting, and social services,
+12 information technology services and information technology systems as
+13 provided in Part V-A of Chapter 1 of Subtitle I of this Title, major repairs, or
+14 construction with one or more public procurement units or external procurement
+15 activities or one or more private procurement units in accordance with an agreement
+16 entered into between the participants. Such cooperative purchasing may include but
+17 is not limited to joint or multi-party contracts between public procurement units and
+Page 1 of 3
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+SLS 26RS-441 REENGROSSED
+SB NO. 303
+1 open-ended state public procurement unit contracts which are made available to local
+2 public procurement units. Such cooperative purchasing may include but is not
+3 limited to:
+4 (a) Joint or multi-party contracts between public procurement units.
+5 (b) Open-ended state public procurement unit contracts which are made
+6 available to public procurement units.
+7 (c) Contracts between a public procurement unit and an external
+8 procurement activity under which the public procurement unit accesses and
+9 utilizes an existing information technology system belonging to the external
+10 procurement activity in exchange for payment of a share of the costs associated
+11 with the system. The public procurement unit shall not be required to
+12 participate in a competitive procurement process for such contracts, provided
+13 that the external procurement activity originally acquired the system by means
+14 of a contract procured through a competitive procurement process.
+15 * * *
+16 Section 2. This Act shall be known and may be cited as the "Interstate Technology
+17 Collaboration Act".
+18 Section 3. This Act shall become effective upon signature by the governor or, if not
+19 signed by the governor, upon expiration of the time for bills to become law without signature
+20 by the governor, as provided by Article III, Section 18 of the Constitution of Louisiana. If
+21 vetoed by the governor and subsequently approved by the legislature, this Act shall become
+22 effective on the day following such approval.
+The original instrument and the following digest, which constitutes no part
+of the legislative instrument, were prepared by Senate Legislative Services.
+The keyword, summary, and digest do not constitute part of the law or proof
+or indicia of legislative intent. [R.S. 1:13(B) and 24:177(E)]
+DIGEST
+SB 303 Reengrossed 2026 Regular Session Cloud
+Present law allows public procurement units to participate, sponsor, conduct, or administer
+cooperative purchasing agreements with other entities to purchase any supplies, personal
+services, professional services, consulting services, social services, major repairs, or
+construction services with one or more public procurement units, external procurement
+activities, or private procurement units in accordance with an agreement between the parties.
+Page 2 of 3
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+SLS 26RS-441 REENGROSSED
+SB NO. 303
+Proposed law retains present law and adds information technology services and information
+technology systems to the list.
+Present law provides that cooperative purchasing may include but is not limited to joint or
+multi-party contracts between public procurement units and open-ended state public
+procurement unit contracts made available to other public procurement units.
+Proposed law retains present law and adds that cooperative purchasing may include but is
+not limited to contracts between a public procurement unit and an external procurement
+activity allowing the public unit to access and use an existing information technology system
+owned by the external procurement activity in exchange for payment of a share of system
+costs.
+Proposed law exempts a public procurement unit from conducting a separate competitive
+procurement process for information technology services, provided the external procurement
+activity originally acquired the system through a competitive procurement process.
+Proposed law shall be known and may be cited as the "Interstate Technology Collaboration
+Act".
+Effective upon signature of the governor or lapse of time for gubernatorial action.
+(Amends R.S. 39:1702(A)(1))
+Summary of Amendments Adopted by Senate
+Committee Amendments Proposed by Senate Committee on Finance to the original
+bill
+
+Section 2:
+1. Name the bill the "Interstate Technology Collaboration Act".
+
+Section 3:
+2. Make technical changes.
+Summary of Amendments Adopted by Senate
+Senate Floor Amendments to engrossed bill
+
+Section 4:
+1. Adds information technology systems to the list of supplies and services
+eligible to be procured through cooperative purchasing.
+Page 3 of 3
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+[DELETED: 1RATpfBS§AA A p p u m e p i s0c1s s p p c a s s2i t s a i t s a3p4c5a6e7i]
+[DELETED: 1Ropl((a( C b a p p u a a epu0p1w t s T p p u s n b r t2p3t4o5*6S7C8S9s0b1v2ed2nC p s c s s s m r o]
+[DELETED: 1R c b p p u a o s p.N.M.A]
+
+
+================================================================================
+
+Raw Text:
+SLS 26RS-441 REENGROSSED
+2026 Regular Session
+SENATE BILL NO. 303
+BY SENATOR CLOUD
+PROCUREMENT CODE. Creates the "Interstate Technology Collaboration Act" to provide
+for use of cooperative purchasing for information technology system procurement. (gov sig)
+1 AN ACT
+2 To amend and reenact R.S. 39:1702(A)(1), relative to the Louisiana Procurement Code; to
+3 provide for cooperative purchasing for information technology systems; to provide
+4 for an effective date; and to provide for related matters.
+5 Be it enacted by the Legislature of Louisiana:
+6 Section 1. R.S. 39:1702(A)(1) is hereby amended and enacted to read as follows:
+7 §1702. Cooperative purchasing authorized; participation in federal General Services
+8 Administration vendor list
+9 A.(1) Any public procurement unit may either participate in, sponsor,
+10 conduct, or administer a cooperative purchasing agreement for the acquisition of any
+11 supplies, services, personal, professional, consulting, and social services,
+12 information technology services and information technology systems as
+13 provided in Part V-A of Chapter 1 of Subtitle I of this Title, major repairs, or
+14 construction with one or more public procurement units or external procurement
+15 activities or one or more private procurement units in accordance with an agreement
+16 entered into between the participants. Such cooperative purchasing may include but
+17 is not limited to joint or multi-party contracts between public procurement units and
+Page 1 of 3
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-441 REENGROSSED
+SB NO. 303
+1 open-ended state public procurement unit contracts which are made available to local
+2 public procurement units. Such cooperative purchasing may include but is not
+3 limited to:
+4 (a) Joint or multi-party contracts between public procurement units.
+5 (b) Open-ended state public procurement unit contracts which are made
+6 available to public procurement units.
+7 (c) Contracts between a public procurement unit and an external
+8 procurement activity under which the public procurement unit accesses and
+9 utilizes an existing information technology system belonging to the external
+10 procurement activity in exchange for payment of a share of the costs associated
+11 with the system. The public procurement unit shall not be required to
+12 participate in a competitive procurement process for such contracts, provided
+13 that the external procurement activity originally acquired the system by means
+14 of a contract procured through a competitive procurement process.
+15 * * *
+16 Section 2. This Act shall be known and may be cited as the "Interstate Technology
+17 Collaboration Act".
+18 Section 3. This Act shall become effective upon signature by the governor or, if not
+19 signed by the governor, upon expiration of the time for bills to become law without signature
+20 by the governor, as provided by Article III, Section 18 of the Constitution of Louisiana. If
+21 vetoed by the governor and subsequently approved by the legislature, this Act shall become
+22 effective on the day following such approval.
+The original instrument and the following digest, which constitutes no part
+of the legislative instrument, were prepared by Senate Legislative Services.
+The keyword, summary, and digest do not constitute part of the law or proof
+or indicia of legislative intent. [R.S. 1:13(B) and 24:177(E)]
+DIGEST
+SB 303 Reengrossed 2026 Regular Session Cloud
+Present law allows public procurement units to participate, sponsor, conduct, or administer
+cooperative purchasing agreements with other entities to purchase any supplies, personal
+services, professional services, consulting services, social services, major repairs, or
+construction services with one or more public procurement units, external procurement
+activities, or private procurement units in accordance with an agreement between the parties.
+Page 2 of 3
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-441 REENGROSSED
+SB NO. 303
+Proposed law retains present law and adds information technology services and information
+technology systems to the list.
+Present law provides that cooperative purchasing may include but is not limited to joint or
+multi-party contracts between public procurement units and open-ended state public
+procurement unit contracts made available to other public procurement units.
+Proposed law retains present law and adds that cooperative purchasing may include but is
+not limited to contracts between a public procurement unit and an external procurement
+activity allowing the public unit to access and use an existing information technology system
+owned by the external procurement activity in exchange for payment of a share of system
+costs.
+Proposed law exempts a public procurement unit from conducting a separate competitive
+procurement process for information technology services, provided the external procurement
+activity originally acquired the system through a competitive procurement process.
+Proposed law shall be known and may be cited as the "Interstate Technology Collaboration
+Act".
+Effective upon signature of the governor or lapse of time for gubernatorial action.
+(Amends R.S. 39:1702(A)(1))
+Summary of Amendments Adopted by Senate
+Committee Amendments Proposed by Senate Committee on Finance to the original
+bill
+1. Name the bill the "Interstate Technology Collaboration Act".
+2. Make technical changes.
+Summary of Amendments Adopted by Senate
+Senate Floor Amendments to engrossed bill
+1. Adds information technology systems to the list of supplies and services
+eligible to be procured through cooperative purchasing.
+Page 3 of 3
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+[DELETED: 1RATpfBS§AA A p p u m e p i s0c1s s p p c a s s2i t s a i t s a3p4c5a6e7i]
+[DELETED: 1Ropl((a( C b a p p u a a epu0p1w t s T p p u s n b r t2p3t4o5*6S7C8S9s0b1v2ed2nC p s c s s s m r o]
+[DELETED: 1R c b p p u a o s p.N.M.A]

@@ -1,0 +1,728 @@
+Title: Substitute for Original House Bill No. 947 by Representative Mena as proposed by the
+Official Title: Substitute for Original House Bill No. 947 by Representative Mena as proposed by the
+Number of Sections: 17
+Source: versions - House Committee Amendment, #4713, COM, Draft
+Media Type: application/pdf
+Strikethrough Detection: 8 sections found
+
+================================================================================
+
+Section 1:
+HCAHB947 4875 4713
+HOUSE COMMITTEE AMENDMENTS
+2026 Regular Session
+House Committee on Commerce
+This document reflects the content of a substitute bill but is not in a bill form; page
+numbers in this document DO NOT correspond to page numbers in the substitute bill
+itself.
+To amend and reenact R.S. 9:154(A)(19) and (E), 160(D), and to enact R.S. 9:153(13)(j) and
+(17) through (22), 154(A)(20) and (F), 159(E), 160.1 through 160.5, and 164(F),
+relative to digital assets; to provide for definitions; to establish standards for the
+custody of unclaimed digital assets presumed abandoned; to provide for a
+presumption for digital assets; to provide for the delivery of abandoned digital assets
+to the administrator's custody; to provide for the maintenance of abandoned digital
+assets by the holder; to provide for the sale or liquidation of abandoned digital assets
+by the holder, administrator, or third-party contracted by the administrator; to require
+annual reports by the administrator; to provide for the discontinuance of reports by
+the administrator; and to provide for an effective date; to authorize the law institute
+to make changes; and to provide for related matters.
+Be it enacted by the Legislature of Louisiana:
+
+Section 2:
+Section 1. R.S. 9:154(A)(19) and (E) and 160(D) are hereby amended and reenacted
+and R.S. 9:153(13)(j) and (17) through (22), 154(A)(20) and (F), 159(E), 160.1 through
+
+Section 3:
+160.5, and 164(F) are hereby enacted to read as follows:
+
+Section 4:
+§153. Definitions
+As used in this Chapter:
+* * *
+(13) "Property" means a fixed and certain interest in intangible property that
+is held, issued, or owed in the course of a holder's business, or by a government or
+governmental entity, and all income or increments therefrom. The term includes
+property that is referred to as or evidenced by the following:
+* * *
+(j) Digital assets.
+Page 1 of 10
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HCAHB947 4875 4713
+* * *
+(17) "Designated custodian" means a banking organization or a business
+association that, on behalf of the administrator, receives and maintains securities or
+digital assets from holders pending transfer to claimants or liquidation.
+(18)(a) "Digital asset" means any of the following that are held in a digital
+asset account:
+(i) Virtual currency.
+(ii) Cryptocurrency.
+(iii) Natively electronic assets, including stablecoins or non-fungible tokens.
+(iv) Any other digital-only asset that confers economic, proprietary, or
+access rights or powers.
+(b) "Digital asset" does not include any of the following:
+(i) A security.
+(ii) Game-related digital content.
+(iii) A gift card.
+(iv) A loyalty card.
+(19) "Digital asset account" means a customer account, a digital asset wallet,
+or other repository device maintained by an owner with a digital asset holder that
+may contain one or more types of digital assets, money, or other property.
+(20) "Digital asset holder" means a holder that establishes or maintains a
+digital asset account for an owner.
+(21) "Digital asset wallet" means a software application or other mechanism
+that provides a means to hold, store, or transfer a digital asset.
+(22) "Private key" means a unique element of cryptographic data used to sign
+and authorize a transfer of a digital asset.
+* * *
+
+Section 5:
+§154. Presumptions of abandonment
+A. Property is presumed abandoned if it is unclaimed by the apparent owner
+during the time set forth below for the particular property for the following:
+* * *
+Page 2 of 10
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HCAHB947 4875 4713
+(19) A digital asset, three years after the apparent owner's last indication of
+interest in the digital asset.
+(19) (20) All other property, five years after the obligation to pay or
+distribute the property arises.
+* * *
+E.(1) Notwithstanding Subsection D of this Section, an indication of an
+owner's interest in a digital asset or digital asset account includes any of the
+following actions by the owner:
+(a) Conducting a transaction involving the digital asset account, including
+buying or selling digital assets, or depositing into or withdrawing from the account
+fiat currency or other property, whether by a one-time transaction or a recurring
+transaction previously authorized by the owner.
+(b) Accessing the digital asset account electronically.
+(c) Conducting any activity with respect to another digital asset account or
+any other property owned by that owner and held by that same digital asset holder.
+(d) Any other action taken by an owner that reasonably demonstrates to the
+digital asset holder that the owner is aware of the existence of the property.
+(2) Failure of an owner to respond to a communication from a digital asset
+holder does not constitute an indication of the interest of an owner.
+F. Property shall be payable or distributable for purposes of this Chapter
+notwithstanding the owner's failure to make demand or present an instrument or
+document otherwise required to obtain payment.
+* * *
+
+Section 6:
+§159. Report of abandoned property
+* * *
+E.(1) The holder of property presumed abandoned shall send written notice
+to the apparent owner not more than one hundred twenty days nor less than sixty
+days before filing the report required by this Section, stating that the holder is in
+possession of property subject to this Chapter if each of the following applies:
+Page 3 of 10
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HCAHB947 4875 4713
+(1)(a) The holder has in its records an address for the apparent owner that the
+holder's records do not disclose to be inaccurate.
+(2)(b) The claim of the apparent owner is not barred by the statute of
+limitations.
+(3)(c) The value of the property is fifty dollars or more.
+(2) If the property is a digital asset, the notice required by Paragraph (1) of
+this Subsection shall inform the apparent owner that the property may be liquidated
+if the apparent owner does not provide a timely response to the holder.
+* * *
+
+Section 7:
+§160. Payment or delivery of abandoned property
+* * *
+D. An issuer, the holder, and any transfer agent or other person acting on
+behalf of the issuer or holder pursuant to them in accordance with this Section, R.S.
+9:160.1, 160.2, 160.3, or 160.4 is not liable to the apparent owner and shall be
+indemnified against claims of any person in accordance with R.S. 9:162.
+* * *
+
+Section 8:
+§160.1. Digital assets; liquidation order or directive; before report required by R.S.
+9:159
+A.(1) Notwithstanding the provisions of R.S. 9:160, the administrator may
+direct or order a digital asset holder to liquidate a digital asset before the date on
+which the filing of a report required by R.S. 9:159 for the digital asset is due.
+(2) Any order or directive issued pursuant to this Subsection shall be
+accompanied by the summary required pursuant to R.S. 9:160.4.
+B. If a digital asset holder receives an order or directive pursuant to
+Subsection A of this Section and reasonably believes the digital asset cannot be
+liquidated, or the digital asset holder cannot cause the digital asset to be liquidated,
+the digital asset holder shall promptly provide the administrator with written notice
+stating the reasons why.
+Page 4 of 10
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HCAHB947 4875 4713
+C. Upon receiving notice pursuant to Subsection B of this Section, the
+administrator shall direct the digital asset holder concerning an alternative
+disposition of the digital asset.
+
+Section 9:
+§160.2. Payment or delivery of abandoned digital asset; after receipt of report
+required by R.S. 9:159
+A.(1) If property reported to the administrator is a digital asset, and the
+digital asset holder has the ability to transfer the digital asset, the digital asset holder
+shall transfer that digital asset, or the control necessary to transfer that digital asset,
+to the administrator within thirty days from the date on which that digital asset is
+reported.
+(2) A digital asset holder who delivers a digital asset pursuant to Paragraph
+(1) of this Subsection shall provide the administrator, upon request, with a record
+evidencing delivery to the administrator's designated custodian.
+(3) Within thirty days after the date on which the digital asset holder delivers
+a digital asset pursuant to Paragraph (1) of this Subsection, the digital asset holder
+shall provide the administrator with a reconciliation of the delivered digital asset
+with respect to the report filed regarding the digital asset.
+B. Notwithstanding Paragraph (A)(1) of this Section, if the administrator
+determines a reported digital asset cannot be accepted due to any factor or factors in
+R.S. 9:160.4, it may direct or order the digital asset holder to sell or otherwise
+liquidate the digital asset and deliver the net proceeds to the administrator.
+C.(1) A digital asset holder is not required to deliver a digital asset in
+accordance with Paragraph (A)(1) of this Section if the digital asset holder does not
+have the private key or other authority that is necessary to transfer the digital asset.
+Instead, the digital asset holder described in this Paragraph shall do all the following:
+(a) Report the digital asset in accordance with R.S. 9:159.
+(b) Maintain the digital asset until the digital asset holder obtains the ability
+to transfer the digital asset.
+(c) Determine no less than annually as to whether the digital asset holder has
+obtained the ability to transfer the digital asset.
+Page 5 of 10
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HCAHB947 4875 4713
+(d) After obtaining the ability to transfer the digital asset, deliver the digital
+asset to the administrator at the next reporting cycle.
+E. Between receipt of a digital asset in its native form and when R.S.
+9:160.3(A) is applicable, no digital asset delivered to the administrator in its native
+form shall be liquidated except when either of the following occurs:
+(1) A request is received by a claimant pursuant to R.S. 9:160.3(B).
+(2)(a) The digital asset cannot reasonably be maintained in custody by the
+administrator due to technological, security, or regulatory limitations.
+(b) The cost of custody, administration, or security of the digital asset
+exceeds the value of the digital asset.
+
+Section 10:
+§160.3. Disposal of digital assets; liquidation; recovery of value
+A. The administrator shall not sell or liquidate a digital asset until three years
+after the digital asset is received by the administrator.
+B. Upon approval of a claim, the claimant may request the administrator to
+dispose of a digital asset by sale or liquidation and remit the net proceeds to the
+claimant.
+
+Section 11:
+§160.4. Administrator to provide an order or directive to liquidate digital assets
+A. Any order or directive issued by the administrator to require a holder of
+a digital asset to sell or liquidate shall be based upon at least one of the following:
+(1) The ability of the administrator to manage digital assets in their native
+form at the time the report is received.
+(2) Whether the reporting file format supports the receipt of digital assets in
+their native form.
+(3) Whether the database management system of the administrator supports
+digital assets in their native form.
+(4) Whether the costs of custody and administration of the reported digital
+assets in native form would exceed the value of the reported digital assets.
+B. Any order or directive issued by the administrator to a digital asset holder
+to liquidate or sell a digital asset shall include a summary of the factor or factors in
+Subsection A of this Section that led to the order or directive.
+Page 6 of 10
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HCAHB947 4875 4713
+C. The administrator shall not order or direct a holder to deliver the
+liquidated value of a digital asset presumed abandoned solely on the basis that the
+administrator does not have a designated custodian in place or a designated custodian
+is not yet operational.
+
+Section 12:
+§160.5. General provisions applying to digital assets
+Notwithstanding any law to the contrary, all of the following shall apply:
+(1) The delivery of a digital asset or its liquidated value to the administrator's
+designated custodian constitutes payment or delivery for purposes of this Chapter.
+(2) A digital asset listed on an established exchange may not be sold or
+liquidated pursuant to any authority in this Chapter for less than the price prevailing
+on the exchange at the time of sale.
+(3) The sale or liquidation of a digital asset not listed on an established
+exchange that is sold or liquidated pursuant to any authority in this Chapter may be
+by any commercially reasonable method, and the price received shall be considered
+the prevailing price for valuation purposes.
+(4) Notwithstanding any provision to the contrary, the administrator,
+designated custodian of the administrator, or digital asset holder shall not be held
+liable for any loss or gain that may or would have been obtained had a digital asset
+been held and transferred in its native form or sold or liquidated pursuant to any
+authority in this Chapter.
+(5) The administrator may decline to offer a digital asset for sale if the
+administrator considers that the probable cost of sale will exceed the proceeds of that
+sale.
+(6) A purchaser of a digital asset at a sale conducted by the administrator
+pursuant to this Chapter takes that digital asset free of any claim of the owner or
+previous holder and of any person claiming through or under the owner or previous
+holder.
+(7) The administrator shall execute all documents and take all actions
+necessary to complete the transfer of ownership of a digital asset.
+* * *
+Page 7 of 10
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HCAHB947 4875 4713
+
+Section 13:
+§164. Public sale of abandoned property
+* * *
+F. The provisions of this Section do not apply to digital assets.
+
+Section 14:
+Section 2. The treasurer shall include information regarding the implementation of
+this Act in his annual report required by Article IV, Section 9 of the Constitution of
+Louisiana.
+
+Section 15:
+Section 3. If the treasurer contracts with a designated custodian to carry out the
+provisions of this Act, then the treasurer shall notify the legislature in writing within thirty
+days of the execution of that contract.
+
+Section 16:
+Section 4. The Louisiana State Law Institute is hereby authorized and directed to
+correct any cross-references to any renumbered paragraphs, if necessary, consistent with the
+provisions of this Act.
+
+Section 17:
+Section 5. (A) This Act shall become effective on January 1, 2027.
+(B) Section 2 of this Act shall become null and void and cease to be effective when
+the treasurer makes the report required by Section 3 of this Act.
+DIGEST
+The digest printed below was prepared by House Legislative Services. It constitutes no part
+of the legislative instrument. The keyword, one-liner, abstract, and digest do not constitute
+part of the law or proof or indicia of legislative intent. [R.S. 1:13(B) and 24:177(E)]
+HB Draft 2026 Regular Session
+Abstract: Provides relative to unclaimed digital assets.
+Present law provides for definitions.
+Proposed law amends definition of "property" and adds definitions for "designated
+custodian", "digital asset", "digital asset account", "digital asset holder", "digital asset
+wallet", and "private key".
+Present law provides for particular time periods after which particular kinds of property are
+presumed abandoned.
+Proposed law adds provision providing that digital assets are presumed abandoned three
+years after the apparent owner's last indication of interest in that asset and otherwise retains
+present law.
+Proposed law provides relative to what actions by an owner may be considered an indication
+of interest in his digital asset.
+Present law provides for when the holder of property presumed abandoned shall send written
+notice to the apparent owner regarding the property.
+Page 8 of 10
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HCAHB947 4875 4713
+Proposed law adds that, relative to digital assets, the notice shall inform the owner that the
+property may be liquidated if the owner does not provide a timely response to the holder, but
+otherwise retains present law.
+Present law provides that the holder of abandoned property is not liable to the apparent
+owner for their actions in accordance with present law regarding property presumed
+abandoned.
+Proposed law amends present law to provide that the exemption from liability extends to
+actions by holders of abandoned digital assets relative to proposed law, but otherwise retains
+present law.
+Proposed law provides that the administrator may direct or order a digital asset holder to
+liquidate a digital asset before the date on which the filing of a report required by present law
+is due.
+Proposed law provides for alternative dispositions of the digital asset presumed abandoned.
+Proposed law provides that if a digital asset is reported to the administrator and the digital
+asset holder has the ability to transfer that digital asset, that holder shall transfer that asset
+to the administrator within 30 days from the date of the report of that asset to the
+administrator, and for record-keeping relative to the transfer.
+Proposed law provides for procedure relative to when a digital asset holder does not have
+the means necessary to transfer the abandoned digital asset.
+Proposed law provides that an abandoned digital asset shall not be liquidated until three
+years after its receipt by the administrator. Proposed law provides for exemptions for which
+a digital asset may be liquidated before three years have elapsed.
+Proposed law provides for when the administrator may order or direct a digital asset holder
+to liquidate digital assets presumed abandoned.
+Proposed law provides that the delivery of the digital asset or its liquidated value to the
+administrator constitutes delivery for purposes of proposed law.
+Proposed law provides certain requirements on the sale or liquidation of an abandoned
+digital asset, and provides that the administrator or its designated custodian shall not be held
+liable for any loss or gain resulting from a liquidation.
+Proposed law provides for when the administrator may decline to offer a digital asset for
+sale.
+Proposed law provides for free and clear title to the purchasers of abandoned digital assets
+sold by the administrator.
+Proposed law provides that the administrator shall execute any documents or actions
+necessary to complete transfer of ownership of digital assets.
+Present law provides for certain procedures relative to the public sale of abandoned property.
+Proposed law amends present law to provide that these provisions do not apply to abandoned
+digital assets.
+Proposed law provides that the treasurer shall include information regarding the
+implementation of proposed law in his annual report to the legislature and governor required
+by present law.Proposed law provides that the treasurer shall cease including this
+information if the treasurer contracts with a designated custodian to carry out the provisions
+of proposed law.
+Page 9 of 10
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HCAHB947 4875 4713
+Proposed law effective January 1, 2027.
+(Amends R.S. 9:154(A)(19) and (E), 160(D); Adds R.S. 9:153(13)(j) and (17) through (22),
+154(A)(20) and (F), 159(E), 160.1-160.5, 164(F))
+Page 10 of 10
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+[DELETED:  o u d a p a t p f ]
+[DELETED:   A o a t c o]
+[DELETED:  (  A o p f y a t o t p o i i a d a o d a a i a o t]
+[DELETED:  b t  A o o d i p t t S s b  I a d a h r a o o d p t]
+[DELETED:  s d t d a h c a a]
+[DELETED:   T a s n o o d a h t d t  N a p t t c t a  T a s e a d a t a a]
+[DELETED:  A h a r r A S o t C ot2 l a d o " a a d f " " a " a a " a h " a]
+[DELETED:  f t a i a w p l r p p t a w 3 d f t d o t r o t a t t l p t t a s e a d o a l p t t t s i i r t p l l p t t t s c i t]
+
+
+================================================================================
+
+Raw Text:
+HCAHB947 4875 4713
+HOUSE COMMITTEE AMENDMENTS
+2026 Regular Session
+Substitute for Original House Bill No. 947 by Representative Mena as proposed by the
+House Committee on Commerce
+This document reflects the content of a substitute bill but is not in a bill form; page
+numbers in this document DO NOT correspond to page numbers in the substitute bill
+itself.
+To amend and reenact R.S. 9:154(A)(19) and (E), 160(D), and to enact R.S. 9:153(13)(j) and
+(17) through (22), 154(A)(20) and (F), 159(E), 160.1 through 160.5, and 164(F),
+relative to digital assets; to provide for definitions; to establish standards for the
+custody of unclaimed digital assets presumed abandoned; to provide for a
+presumption for digital assets; to provide for the delivery of abandoned digital assets
+to the administrator's custody; to provide for the maintenance of abandoned digital
+assets by the holder; to provide for the sale or liquidation of abandoned digital assets
+by the holder, administrator, or third-party contracted by the administrator; to require
+annual reports by the administrator; to provide for the discontinuance of reports by
+the administrator; and to provide for an effective date; to authorize the law institute
+to make changes; and to provide for related matters.
+Be it enacted by the Legislature of Louisiana:
+Section 1. R.S. 9:154(A)(19) and (E) and 160(D) are hereby amended and reenacted
+and R.S. 9:153(13)(j) and (17) through (22), 154(A)(20) and (F), 159(E), 160.1 through
+160.5, and 164(F) are hereby enacted to read as follows:
+§153. Definitions
+As used in this Chapter:
+* * *
+(13) "Property" means a fixed and certain interest in intangible property that
+is held, issued, or owed in the course of a holder's business, or by a government or
+governmental entity, and all income or increments therefrom. The term includes
+property that is referred to as or evidenced by the following:
+* * *
+(j) Digital assets.
+Page 1 of 10
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HCAHB947 4875 4713
+* * *
+(17) "Designated custodian" means a banking organization or a business
+association that, on behalf of the administrator, receives and maintains securities or
+digital assets from holders pending transfer to claimants or liquidation.
+(18)(a) "Digital asset" means any of the following that are held in a digital
+asset account:
+(i) Virtual currency.
+(ii) Cryptocurrency.
+(iii) Natively electronic assets, including stablecoins or non-fungible tokens.
+(iv) Any other digital-only asset that confers economic, proprietary, or
+access rights or powers.
+(b) "Digital asset" does not include any of the following:
+(i) A security.
+(ii) Game-related digital content.
+(iii) A gift card.
+(iv) A loyalty card.
+(19) "Digital asset account" means a customer account, a digital asset wallet,
+or other repository device maintained by an owner with a digital asset holder that
+may contain one or more types of digital assets, money, or other property.
+(20) "Digital asset holder" means a holder that establishes or maintains a
+digital asset account for an owner.
+(21) "Digital asset wallet" means a software application or other mechanism
+that provides a means to hold, store, or transfer a digital asset.
+(22) "Private key" means a unique element of cryptographic data used to sign
+and authorize a transfer of a digital asset.
+* * *
+§154. Presumptions of abandonment
+A. Property is presumed abandoned if it is unclaimed by the apparent owner
+during the time set forth below for the particular property for the following:
+* * *
+Page 2 of 10
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HCAHB947 4875 4713
+(19) A digital asset, three years after the apparent owner's last indication of
+interest in the digital asset.
+(19) (20) All other property, five years after the obligation to pay or
+distribute the property arises.
+* * *
+E.(1) Notwithstanding Subsection D of this Section, an indication of an
+owner's interest in a digital asset or digital asset account includes any of the
+following actions by the owner:
+(a) Conducting a transaction involving the digital asset account, including
+buying or selling digital assets, or depositing into or withdrawing from the account
+fiat currency or other property, whether by a one-time transaction or a recurring
+transaction previously authorized by the owner.
+(b) Accessing the digital asset account electronically.
+(c) Conducting any activity with respect to another digital asset account or
+any other property owned by that owner and held by that same digital asset holder.
+(d) Any other action taken by an owner that reasonably demonstrates to the
+digital asset holder that the owner is aware of the existence of the property.
+(2) Failure of an owner to respond to a communication from a digital asset
+holder does not constitute an indication of the interest of an owner.
+F. Property shall be payable or distributable for purposes of this Chapter
+notwithstanding the owner's failure to make demand or present an instrument or
+document otherwise required to obtain payment.
+* * *
+§159. Report of abandoned property
+* * *
+E.(1) The holder of property presumed abandoned shall send written notice
+to the apparent owner not more than one hundred twenty days nor less than sixty
+days before filing the report required by this Section, stating that the holder is in
+possession of property subject to this Chapter if each of the following applies:
+Page 3 of 10
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HCAHB947 4875 4713
+(1)(a) The holder has in its records an address for the apparent owner that the
+holder's records do not disclose to be inaccurate.
+(2)(b) The claim of the apparent owner is not barred by the statute of
+limitations.
+(3)(c) The value of the property is fifty dollars or more.
+(2) If the property is a digital asset, the notice required by Paragraph (1) of
+this Subsection shall inform the apparent owner that the property may be liquidated
+if the apparent owner does not provide a timely response to the holder.
+* * *
+§160. Payment or delivery of abandoned property
+* * *
+D. An issuer, the holder, and any transfer agent or other person acting on
+behalf of the issuer or holder pursuant to them in accordance with this Section, R.S.
+9:160.1, 160.2, 160.3, or 160.4 is not liable to the apparent owner and shall be
+indemnified against claims of any person in accordance with R.S. 9:162.
+* * *
+§160.1. Digital assets; liquidation order or directive; before report required by R.S.
+9:159
+A.(1) Notwithstanding the provisions of R.S. 9:160, the administrator may
+direct or order a digital asset holder to liquidate a digital asset before the date on
+which the filing of a report required by R.S. 9:159 for the digital asset is due.
+(2) Any order or directive issued pursuant to this Subsection shall be
+accompanied by the summary required pursuant to R.S. 9:160.4.
+B. If a digital asset holder receives an order or directive pursuant to
+Subsection A of this Section and reasonably believes the digital asset cannot be
+liquidated, or the digital asset holder cannot cause the digital asset to be liquidated,
+the digital asset holder shall promptly provide the administrator with written notice
+stating the reasons why.
+Page 4 of 10
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HCAHB947 4875 4713
+C. Upon receiving notice pursuant to Subsection B of this Section, the
+administrator shall direct the digital asset holder concerning an alternative
+disposition of the digital asset.
+§160.2. Payment or delivery of abandoned digital asset; after receipt of report
+required by R.S. 9:159
+A.(1) If property reported to the administrator is a digital asset, and the
+digital asset holder has the ability to transfer the digital asset, the digital asset holder
+shall transfer that digital asset, or the control necessary to transfer that digital asset,
+to the administrator within thirty days from the date on which that digital asset is
+reported.
+(2) A digital asset holder who delivers a digital asset pursuant to Paragraph
+(1) of this Subsection shall provide the administrator, upon request, with a record
+evidencing delivery to the administrator's designated custodian.
+(3) Within thirty days after the date on which the digital asset holder delivers
+a digital asset pursuant to Paragraph (1) of this Subsection, the digital asset holder
+shall provide the administrator with a reconciliation of the delivered digital asset
+with respect to the report filed regarding the digital asset.
+B. Notwithstanding Paragraph (A)(1) of this Section, if the administrator
+determines a reported digital asset cannot be accepted due to any factor or factors in
+R.S. 9:160.4, it may direct or order the digital asset holder to sell or otherwise
+liquidate the digital asset and deliver the net proceeds to the administrator.
+C.(1) A digital asset holder is not required to deliver a digital asset in
+accordance with Paragraph (A)(1) of this Section if the digital asset holder does not
+have the private key or other authority that is necessary to transfer the digital asset.
+Instead, the digital asset holder described in this Paragraph shall do all the following:
+(a) Report the digital asset in accordance with R.S. 9:159.
+(b) Maintain the digital asset until the digital asset holder obtains the ability
+to transfer the digital asset.
+(c) Determine no less than annually as to whether the digital asset holder has
+obtained the ability to transfer the digital asset.
+Page 5 of 10
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HCAHB947 4875 4713
+(d) After obtaining the ability to transfer the digital asset, deliver the digital
+asset to the administrator at the next reporting cycle.
+E. Between receipt of a digital asset in its native form and when R.S.
+9:160.3(A) is applicable, no digital asset delivered to the administrator in its native
+form shall be liquidated except when either of the following occurs:
+(1) A request is received by a claimant pursuant to R.S. 9:160.3(B).
+(2)(a) The digital asset cannot reasonably be maintained in custody by the
+administrator due to technological, security, or regulatory limitations.
+(b) The cost of custody, administration, or security of the digital asset
+exceeds the value of the digital asset.
+§160.3. Disposal of digital assets; liquidation; recovery of value
+A. The administrator shall not sell or liquidate a digital asset until three years
+after the digital asset is received by the administrator.
+B. Upon approval of a claim, the claimant may request the administrator to
+dispose of a digital asset by sale or liquidation and remit the net proceeds to the
+claimant.
+§160.4. Administrator to provide an order or directive to liquidate digital assets
+A. Any order or directive issued by the administrator to require a holder of
+a digital asset to sell or liquidate shall be based upon at least one of the following:
+(1) The ability of the administrator to manage digital assets in their native
+form at the time the report is received.
+(2) Whether the reporting file format supports the receipt of digital assets in
+their native form.
+(3) Whether the database management system of the administrator supports
+digital assets in their native form.
+(4) Whether the costs of custody and administration of the reported digital
+assets in native form would exceed the value of the reported digital assets.
+B. Any order or directive issued by the administrator to a digital asset holder
+to liquidate or sell a digital asset shall include a summary of the factor or factors in
+Subsection A of this Section that led to the order or directive.
+Page 6 of 10
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HCAHB947 4875 4713
+C. The administrator shall not order or direct a holder to deliver the
+liquidated value of a digital asset presumed abandoned solely on the basis that the
+administrator does not have a designated custodian in place or a designated custodian
+is not yet operational.
+§160.5. General provisions applying to digital assets
+Notwithstanding any law to the contrary, all of the following shall apply:
+(1) The delivery of a digital asset or its liquidated value to the administrator's
+designated custodian constitutes payment or delivery for purposes of this Chapter.
+(2) A digital asset listed on an established exchange may not be sold or
+liquidated pursuant to any authority in this Chapter for less than the price prevailing
+on the exchange at the time of sale.
+(3) The sale or liquidation of a digital asset not listed on an established
+exchange that is sold or liquidated pursuant to any authority in this Chapter may be
+by any commercially reasonable method, and the price received shall be considered
+the prevailing price for valuation purposes.
+(4) Notwithstanding any provision to the contrary, the administrator,
+designated custodian of the administrator, or digital asset holder shall not be held
+liable for any loss or gain that may or would have been obtained had a digital asset
+been held and transferred in its native form or sold or liquidated pursuant to any
+authority in this Chapter.
+(5) The administrator may decline to offer a digital asset for sale if the
+administrator considers that the probable cost of sale will exceed the proceeds of that
+sale.
+(6) A purchaser of a digital asset at a sale conducted by the administrator
+pursuant to this Chapter takes that digital asset free of any claim of the owner or
+previous holder and of any person claiming through or under the owner or previous
+holder.
+(7) The administrator shall execute all documents and take all actions
+necessary to complete the transfer of ownership of a digital asset.
+* * *
+Page 7 of 10
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HCAHB947 4875 4713
+§164. Public sale of abandoned property
+* * *
+F. The provisions of this Section do not apply to digital assets.
+Section 2. The treasurer shall include information regarding the implementation of
+this Act in his annual report required by Article IV, Section 9 of the Constitution of
+Louisiana.
+Section 3. If the treasurer contracts with a designated custodian to carry out the
+provisions of this Act, then the treasurer shall notify the legislature in writing within thirty
+days of the execution of that contract.
+Section 4. The Louisiana State Law Institute is hereby authorized and directed to
+correct any cross-references to any renumbered paragraphs, if necessary, consistent with the
+provisions of this Act.
+Section 5. (A) This Act shall become effective on January 1, 2027.
+(B) Section 2 of this Act shall become null and void and cease to be effective when
+the treasurer makes the report required by Section 3 of this Act.
+DIGEST
+The digest printed below was prepared by House Legislative Services. It constitutes no part
+of the legislative instrument. The keyword, one-liner, abstract, and digest do not constitute
+part of the law or proof or indicia of legislative intent. [R.S. 1:13(B) and 24:177(E)]
+HB Draft 2026 Regular Session
+Abstract: Provides relative to unclaimed digital assets.
+Present law provides for definitions.
+Proposed law amends definition of "property" and adds definitions for "designated
+custodian", "digital asset", "digital asset account", "digital asset holder", "digital asset
+wallet", and "private key".
+Present law provides for particular time periods after which particular kinds of property are
+presumed abandoned.
+Proposed law adds provision providing that digital assets are presumed abandoned three
+years after the apparent owner's last indication of interest in that asset and otherwise retains
+present law.
+Proposed law provides relative to what actions by an owner may be considered an indication
+of interest in his digital asset.
+Present law provides for when the holder of property presumed abandoned shall send written
+notice to the apparent owner regarding the property.
+Page 8 of 10
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HCAHB947 4875 4713
+Proposed law adds that, relative to digital assets, the notice shall inform the owner that the
+property may be liquidated if the owner does not provide a timely response to the holder, but
+otherwise retains present law.
+Present law provides that the holder of abandoned property is not liable to the apparent
+owner for their actions in accordance with present law regarding property presumed
+abandoned.
+Proposed law amends present law to provide that the exemption from liability extends to
+actions by holders of abandoned digital assets relative to proposed law, but otherwise retains
+present law.
+Proposed law provides that the administrator may direct or order a digital asset holder to
+liquidate a digital asset before the date on which the filing of a report required by present law
+is due.
+Proposed law provides for alternative dispositions of the digital asset presumed abandoned.
+Proposed law provides that if a digital asset is reported to the administrator and the digital
+asset holder has the ability to transfer that digital asset, that holder shall transfer that asset
+to the administrator within 30 days from the date of the report of that asset to the
+administrator, and for record-keeping relative to the transfer.
+Proposed law provides for procedure relative to when a digital asset holder does not have
+the means necessary to transfer the abandoned digital asset.
+Proposed law provides that an abandoned digital asset shall not be liquidated until three
+years after its receipt by the administrator. Proposed law provides for exemptions for which
+a digital asset may be liquidated before three years have elapsed.
+Proposed law provides for when the administrator may order or direct a digital asset holder
+to liquidate digital assets presumed abandoned.
+Proposed law provides that the delivery of the digital asset or its liquidated value to the
+administrator constitutes delivery for purposes of proposed law.
+Proposed law provides certain requirements on the sale or liquidation of an abandoned
+digital asset, and provides that the administrator or its designated custodian shall not be held
+liable for any loss or gain resulting from a liquidation.
+Proposed law provides for when the administrator may decline to offer a digital asset for
+sale.
+Proposed law provides for free and clear title to the purchasers of abandoned digital assets
+sold by the administrator.
+Proposed law provides that the administrator shall execute any documents or actions
+necessary to complete transfer of ownership of digital assets.
+Present law provides for certain procedures relative to the public sale of abandoned property.
+Proposed law amends present law to provide that these provisions do not apply to abandoned
+digital assets.
+Proposed law provides that the treasurer shall include information regarding the
+implementation of proposed law in his annual report to the legislature and governor required
+by present law.Proposed law provides that the treasurer shall cease including this
+information if the treasurer contracts with a designated custodian to carry out the provisions
+of proposed law.
+Page 9 of 10
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HCAHB947 4875 4713
+Proposed law effective January 1, 2027.
+(Amends R.S. 9:154(A)(19) and (E), 160(D); Adds R.S. 9:153(13)(j) and (17) through (22),
+154(A)(20) and (F), 159(E), 160.1-160.5, 164(F))
+Page 10 of 10
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+[DELETED:  o u d a p a t p f ]
+[DELETED:   A o a t c o]
+[DELETED:  (  A o p f y a t o t p o i i a d a o d a a i a o t]
+[DELETED:  b t  A o o d i p t t S s b  I a d a h r a o o d p t]
+[DELETED:  s d t d a h c a a]
+[DELETED:   T a s n o o d a h t d t  N a p t t c t a  T a s e a d a t a a]
+[DELETED:  A h a r r A S o t C ot2 l a d o " a a d f " " a " a a " a h " a]
+[DELETED:  f t a i a w p l r p p t a w 3 d f t d o t r o t a t t l p t t a s e a d o a l p t t t s i i r t p l l p t t t s c i t]

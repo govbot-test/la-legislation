@@ -1,0 +1,164 @@
+Title: Amendments proposed by Senate Committee on Health and Welfare to Engrossed House
+Official Title: Amendments proposed by Senate Committee on Health and Welfare to Engrossed House
+Number of Sections: 1
+Source: versions - Senate Committee Amendment, #3841, H&W, Draft
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+SCAHB223 3005 3841
+SENATE COMMITTEE AMENDMENTS
+2026 Regular Session
+Bill No. 223 by Representative Miller
+1 AMENDMENT NO. 1
+2 On page 1, line 2, delete "enact R.S. 49:191(3)(b)" and insert"amend and reenact R.S.
+3 49:191(4) and Children's Code Art. 610(A)(4)(a) and to enact Children's Code Arts 603(33)
+4 and 610(4)(d)"
+5 AMENDMENT NO. 2
+6 On page 1, line 15, after "July 1," change "2031" to "2028"
+7 AMENDMENT NO. 3
+8 On page 1, line 19, change "R.S. 49:193" to "R.S. 49:190.1 and 193"
+9 AMENDMENT NO. 4
+10 On page 2, line 1, delete "R.S. 49:191(3)(b) is hereby enacted" and insert "R.S. 49:191(4)(a)
+11 is hereby amended and reenacted"
+12 AMENDMENT NO. 5
+13 On page 2, delete lines 10 through 13 and insert the following:
+14 "(4) July 1, 2025 2027:
+15 (a) The Department of Children and Family Services and all statutory entities made
+16 a part of the department by law.
+17 Section 5. Children's Code Art. 610(A)(4)(a) is hereby amended and reenacted and
+18 Children's Code Arts 603(33) and 610(4)(d) are hereby enacted to read as follows:
+19 Art. 603. Definitions
+20 As used in this Title:
+21 * * *
+22 (33) "Secure web based platform" means a type of software that allows for the secure
+23 creation and transmission of reports required pursuant to Article 610.
+24 * * *
+25 Art. 610. Reporting procedure; reports to the legislature and the United States
+26 Department of Defense Family Advocacy Program
+27 A. A reporter shall immediately report suspected child abuse or neglect or that child
+28 abuse or neglect was a contributing factor in a child's death in the following ways:
+29 * * *
+30 (4) Reports to the department shall be made as follows:
+31 (a) A mandatory reporter, with the exception of law enforcement as specified in
+32 Subsubparagraph (d) of this Subparagraph, shall make a report of suspected abuse or neglect
+33 requiring immediate assistance via the designated state child protection reporting hotline
+34 telephone number. A report of suspected abuse or neglect which is of a nonemergency nature
+35 may be reported via the Louisiana Department of Children and Family Services Mandated
+36 Reporter Portal online. Reports may also be made in person at any child welfare office.
+37 * * *
+38 (d) A mandatory reporter who is a police officer or law enforcement official may
+39 submit reports directly to the Department of Children and Family Services through a secure
+40 web based platform. The secure web based platform may utilize prompts or other methods
+41 to assist the person completing the report to provide information pursuant to Paragraph (B)
+42 of this Article as well as information deemed relevant or important. The Department of
+43 Children and Family Services shall not refuse to receive, log, or process a report submitted
+44 via the secure web based platform.
+Page 1 of 2
+SCAHB223 3005 3841
+1 (i) A law enforcement agency may authorize its employees to create or transmit
+2 reports required by this Article through a secure web based platform designated by the
+3 agency. An agency may only designate one secure web based platform for its employees to
+4 use to create or transmit the reports, and the agency may designate a secure web based
+5 platform only if the following conditions are met:
+6 (aa) The secure web based platform functions in compliance with applicable federal
+7 law.
+8 (bb) The agency is satisfied that the secure web based platform complies with the
+9 Health Insurance Portability and Accountability Act, Federal Bureau of Investigation's
+10 Criminal Justice Information Services Security Policy, or Family Educational Rights and
+11 Privacy Act, as applicable.
+12 (cc) The secure web based platform provider demonstrates to the agency that it has
+13 been deemed compliant with the relevant security standard by a federal, state, or local
+14 government agency or by a third party that has been approved by a federal, state, or local
+15 government agency for security and compliance attestation.
+16 (ii) A law enforcement agency that utilizes a secure web based platform shall notify
+17 the Department of Children and Family Services not less than ten days before implementing
+18 the secure web based platform. The notice shall identify the name of the secure web based
+19 platform provider and any domain names utilized by the secure web based platform to
+20 submit reports."
+Page 2 of 2
+[DELETED: AO4aAOAOA0O1i2A3O4"5(6a7S8C9A0A1*2(3c4*5A 6 R p t t l a t U S6D7A8a9*0(1(2S3r4t5m6R7*8(9s0w1t2o3C4v]
+[DELETED: (raup(l(H a A A I0C1P2(3b4g5g6(7t8t9p0s]
+
+
+================================================================================
+
+Raw Text:
+SCAHB223 3005 3841
+SENATE COMMITTEE AMENDMENTS
+2026 Regular Session
+Amendments proposed by Senate Committee on Health and Welfare to Engrossed House
+Bill No. 223 by Representative Miller
+1 AMENDMENT NO. 1
+2 On page 1, line 2, delete "enact R.S. 49:191(3)(b)" and insert"amend and reenact R.S.
+3 49:191(4) and Children's Code Art. 610(A)(4)(a) and to enact Children's Code Arts 603(33)
+4 and 610(4)(d)"
+5 AMENDMENT NO. 2
+6 On page 1, line 15, after "July 1," change "2031" to "2028"
+7 AMENDMENT NO. 3
+8 On page 1, line 19, change "R.S. 49:193" to "R.S. 49:190.1 and 193"
+9 AMENDMENT NO. 4
+10 On page 2, line 1, delete "R.S. 49:191(3)(b) is hereby enacted" and insert "R.S. 49:191(4)(a)
+11 is hereby amended and reenacted"
+12 AMENDMENT NO. 5
+13 On page 2, delete lines 10 through 13 and insert the following:
+14 "(4) July 1, 2025 2027:
+15 (a) The Department of Children and Family Services and all statutory entities made
+16 a part of the department by law.
+17 Section 5. Children's Code Art. 610(A)(4)(a) is hereby amended and reenacted and
+18 Children's Code Arts 603(33) and 610(4)(d) are hereby enacted to read as follows:
+19 Art. 603. Definitions
+20 As used in this Title:
+21 * * *
+22 (33) "Secure web based platform" means a type of software that allows for the secure
+23 creation and transmission of reports required pursuant to Article 610.
+24 * * *
+25 Art. 610. Reporting procedure; reports to the legislature and the United States
+26 Department of Defense Family Advocacy Program
+27 A. A reporter shall immediately report suspected child abuse or neglect or that child
+28 abuse or neglect was a contributing factor in a child's death in the following ways:
+29 * * *
+30 (4) Reports to the department shall be made as follows:
+31 (a) A mandatory reporter, with the exception of law enforcement as specified in
+32 Subsubparagraph (d) of this Subparagraph, shall make a report of suspected abuse or neglect
+33 requiring immediate assistance via the designated state child protection reporting hotline
+34 telephone number. A report of suspected abuse or neglect which is of a nonemergency nature
+35 may be reported via the Louisiana Department of Children and Family Services Mandated
+36 Reporter Portal online. Reports may also be made in person at any child welfare office.
+37 * * *
+38 (d) A mandatory reporter who is a police officer or law enforcement official may
+39 submit reports directly to the Department of Children and Family Services through a secure
+40 web based platform. The secure web based platform may utilize prompts or other methods
+41 to assist the person completing the report to provide information pursuant to Paragraph (B)
+42 of this Article as well as information deemed relevant or important. The Department of
+43 Children and Family Services shall not refuse to receive, log, or process a report submitted
+44 via the secure web based platform.
+Page 1 of 2
+
+SCAHB223 3005 3841
+1 (i) A law enforcement agency may authorize its employees to create or transmit
+2 reports required by this Article through a secure web based platform designated by the
+3 agency. An agency may only designate one secure web based platform for its employees to
+4 use to create or transmit the reports, and the agency may designate a secure web based
+5 platform only if the following conditions are met:
+6 (aa) The secure web based platform functions in compliance with applicable federal
+7 law.
+8 (bb) The agency is satisfied that the secure web based platform complies with the
+9 Health Insurance Portability and Accountability Act, Federal Bureau of Investigation's
+10 Criminal Justice Information Services Security Policy, or Family Educational Rights and
+11 Privacy Act, as applicable.
+12 (cc) The secure web based platform provider demonstrates to the agency that it has
+13 been deemed compliant with the relevant security standard by a federal, state, or local
+14 government agency or by a third party that has been approved by a federal, state, or local
+15 government agency for security and compliance attestation.
+16 (ii) A law enforcement agency that utilizes a secure web based platform shall notify
+17 the Department of Children and Family Services not less than ten days before implementing
+18 the secure web based platform. The notice shall identify the name of the secure web based
+19 platform provider and any domain names utilized by the secure web based platform to
+20 submit reports."
+Page 2 of 2
+
+[DELETED: AO4aAOAOA0O1i2A3O4"5(6a7S8C9A0A1*2(3c4*5A 6 R p t t l a t U S6D7A8a9*0(1(2S3r4t5m6R7*8(9s0w1t2o3C4v]
+[DELETED: (raup(l(H a A A I0C1P2(3b4g5g6(7t8t9p0s]
