@@ -1,0 +1,380 @@
+Title: SENATE BILL NO. 336
+Official Title: SENATE BILL NO. 336
+Number of Sections: 1
+Source: versions - SB336 Act
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+2026 Regular Session ACT No. 16 ENROLLED
+BY SENATOR LUNEAU
+1 AN ACT
+2 To enact R.S. 46:438.9 and 438.10, relative to civil actions; to provide relative to the
+3 Medical Assistance Programs Integrity Law; to provide relative to civil investigative
+4 demand, deposition, and subpoena; to provide with respect to conditions and
+5 requirements; to provide relative to contempt of court; to provide for terms and
+6 definitions; to provide relative to discovery; to provide with respect to written
+7 interrogatories and production and inspection of documents and things; to provide
+8 relative to civil proceedings and legal delays; to provide with respect to civil
+9 procedure; and to provide for related matters.
+10 Be it enacted by the Legislature of Louisiana:
+11 Section 1. R.S. 46:438.9 and 438.10 are hereby enacted to read as follows:
+12 §438.9. Civil investigative demand
+13 A.(1) When the attorney general has information, evidence, or reason to
+14 believe that a person or an entity may be in possession, custody, or control of
+15 any documentary material, information, or physical evidence relevant to an
+16 investigation of a violation of Subpart B of Part VI-A of this Chapter, he may
+17 issue to the person or entity a civil investigative demand to require answering
+18 under oath and in writing any interrogatories or the production for inspection,
+19 copying, or reproduction of documentary material, information, or physical
+20 evidence before the commencement of a civil proceeding. A civil investigative
+21 demand issued pursuant to this Section shall state a general description of the
+Page 1 of 6
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+SB NO. 336 ENROLLED
+1 subject matter being investigated. Each investigative demand shall set a return
+2 date of not earlier than twenty days after service of the demand upon the
+3 person, legal representative, or agent for service of process.
+4 (2) A civil investigative demand for answers to written interrogatories
+5 shall set forth with specificity the written interrogatories to be answered. A civil
+6 investigative demand for the production of documentary material shall describe
+7 each class of documentary material to be produced with definiteness and
+8 certainty to permit the material to be fairly identified.
+9 (3) A civil investigative demand may not contain an unreasonable
+10 requirement if contained in a subpoena or subpoena duces tecum issued by a
+11 court in a grand jury investigation or require the production of written answers
+12 to interrogatories, or the production of documentary material that is privileged
+13 from disclosure.
+14 (4) The production of documentary material in response to a civil
+15 investigative demand served under this Section shall be made under a sworn
+16 certificate stating that all of the documentary material required by the demand
+17 and in the possession, custody, or control of the person to whom the demand is
+18 directed has been produced and made available to the attorney general. If the
+19 demand is made on a natural person, the person to whom the demand is
+20 directed shall make the certification. If the demand is on a person other than a
+21 natural person, a person having knowledge of the facts and circumstances
+22 relating to the production of material and authorized to act on behalf of the
+23 person shall make the certification.
+24 B. A civil investigative demand issued pursuant to this Section may be
+25 served by the sheriff or a post-certified investigator employed by the attorney
+26 general when the demand is issued to a resident or domestic business entity
+27 found in this state. A civil investigative demand issued to a nonresident or a
+28 foreign business entity shall be served as provided for in the Code of Civil
+29 Procedure.
+30 C. Upon failure of the person or business entity to comply with the civil
+Page 2 of 6
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+SB NO. 336 ENROLLED
+1 investigative demand, the attorney general may file a motion with a district
+2 court of proper jurisdiction to compel compliance with the civil investigative
+3 demand. Failure to comply with a court order shall be punishable by contempt
+4 of court.
+5 D. Except as otherwise provided in this Section, no documentary
+6 material, answers to interrogatories, or copies of material or interrogatories,
+7 produced pursuant to this Section or information derived therefrom, or
+8 transcripts and information derived from investigative depositions conducted
+9 pursuant to R.S. 46:438.10 shall be subject to disclosure, discovery, subpoena,
+10 or other means of legal compulsion for release by any person or entity except
+11 as determined by the attorney general and subject to the imposition of any
+12 conditions for effective enforcement of the laws of this state.
+13 E. Nothing in this Section shall be construed to prohibit or limit the
+14 attorney general from sharing any documentary material, answers to
+15 interrogatories, or copies, or information derived therefrom, or transcripts and
+16 information derived from investigative depositions conducted pursuant to R.S.
+17 46:438.10 with any other state government, the United States government, or
+18 any state or federal agency, or any person or entity that assists in the
+19 investigation or prosecution involved in the subject matter of the civil
+20 investigative demand.
+21 F. The attorney general may use documentary material derived from
+22 information obtained pursuant to this Section, or copies of the material, in the
+23 manner the attorney general determines necessary for the enforcement of the
+24 laws of this state, including instituting a civil proceeding with the court.
+25 G. The attorney general, upon the written request of a person or entity
+26 required to produce documentary material pursuant to this Section, shall
+27 destroy or return to the person or entity any material which has not become a
+28 part of the record by introduction into evidence in any court, grand jury, or
+29 agency proceeding if the case or proceeding has been completed, or proceedings
+30 have not been instituted within a reasonable time after analysis of all
+Page 3 of 6
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+SB NO. 336 ENROLLED
+1 documentary material and other information produced in the course of the
+2 investigation.
+3 H. Documentary material, answers to written interrogatories, or oral
+4 testimony provided pursuant to a civil investigative demand or investigative
+5 deposition are exempt from disclosure under the Public Records Law, R.S. 44:1
+6 et seq.
+7 I. "Documentary material" as used in this Section includes but is not
+8 limited to all electronically stored information including writings, drawings,
+9 graphs, charts, photographs, sound recordings, images, and other data or data
+10 compilations that are subject to a request for production under Federal Rule of
+11 Civil Procedure 34.
+12 J. A person who has received a civil investigative demand pursuant to
+13 Subsection A of this Section may seek to modify or set aside the demand by
+14 filing a petition through ordinary proceedings with the court in the judicial
+15 district within which the person resides, is found, or transacts business. If no
+16 such jurisdiction exists, the person may file the petition in the Nineteenth
+17 Judicial District Court.
+18 (1) A petition filed pursuant to this Subsection shall be filed within
+19 twenty days after the date of service of the civil investigative demand authorized
+20 in accordance with this Section, or at any time before the return date specified
+21 in the demand, whichever date is earlier.
+22 (2) The petition shall specify each ground upon which the petitioner is
+23 seeking relief in accordance with Subsection A of this Section, and may be based
+24 upon any failure of the demand to comply with the provisions of this Section or
+25 upon any constitutional or other legal right or privilege of the person.
+26 (3) During the pendency of proceedings, the court in its discretion may
+27 stay the running of the time allowed for compliance with the demand, in whole
+28 or in part, except that the person filing the petition shall comply with any
+29 portions of the demand not sought to be modified or set aside.
+30 §438.10. Investigative deposition
+Page 4 of 6
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+SB NO. 336 ENROLLED
+1 A.(1) When the attorney general has information, evidence, or reason to
+2 believe that a person or entity has information related to an investigation of a
+3 violation of Subpart B of Part VI-A of this Chapter, he may issue an
+4 investigative subpoena for deposition testimony to any person or entity that may
+5 have information or knowledge relevant to the matter under investigation, or
+6 for the purpose of revealing, identifying, or explaining documentary material
+7 or other physical evidence sought.
+8 (2) The investigative subpoena shall contain a general description of the
+9 matter under investigation, and a notice informing the deponent of his right to
+10 counsel at the deposition with an opportunity for cross-examination. The
+11 deposition shall be conducted at the deponent's principal place of business,
+12 place of residence, domicile, or, if agreeable to the deponent, some other place
+13 convenient to the attorney general or the deponent and the deponent's attorney
+14 or designated lawful representative.
+15 (3) The deposition shall be held on a date not earlier than seven days
+16 after the date on which demand was received, unless the attorney general
+17 determines that exceptional circumstances exist that warrant the
+18 commencement of the testimony within a shorter period of time.
+19 B. An investigative subpoena issued pursuant to this Section may be
+20 served by the sheriff or a post-certified investigator employed by the attorney
+21 general when the demand is issued to a resident or domestic business entity
+22 found in this state. An investigative subpoena issued to a nonresident or a
+23 foreign business entity may be served pursuant to the Code of Civil Procedure.
+24 C. When an investigative subpoena is issued to a business entity, the
+25 entity shall designate one or more officers, directors, or managing agents, and
+26 may set forth, for each person designated, the matters on which he is to testify.
+27 The person designated shall testify to the matters known or reasonably available
+28 to the organization.
+29 D. Upon failure of the person or business entity to comply with the
+30 investigative subpoena, the attorney general may file a motion with a district
+Page 5 of 6
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+SB NO. 336 ENROLLED
+1 court of proper jurisdiction to compel compliance with the investigative
+2 subpoena. Failure to comply with a court order is punishable by contempt of
+3 court.
+PRESIDENT OF THE SENATE
+SPEAKER OF THE HOUSE OF REPRESENTATIVES
+GOVERNOR OF THE STATE OF LOUISIANA
+APPROVED:
+Page 6 of 6
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+[DELETED: nEATMd d a s t p w r t c ard t p d t p r wir t c p a l d t p w r t cp0B1S2§3A4b5a6i7i8u9c0e1d]
+[DELETED: 6Esdp(sie c o d m t b p w d ac( A c i d m n c a u0r1c2t3f4( T p o d m i r t a c5i6c7a8d9d i m o a n p t p t w t d i0d1n2r3p4B5s6g7f8f9P0C]
+[DELETED: 6EicdoD E a o p i t S n dmp p t t S o i d t otp0o1a2c3E4a g f s a d m a t5i6i748a s o f a o a p o e t a i t9i o p i i t s m o t c0i1F2i3m4l5G6r t p d m p t t S s7d8p9a0h n b i w a r t a a o a]
+[DELETED: 6EdiHtdeIlg0c1C2J3S4f5d6s j e t p m f t p i t N7J8(9t0i1i2(3s4u5u6(7s8o9p0§]
+[DELETED: 6EAbv o S B o P V o t C h m i aihfo(m0c a t d w a o f c T1d2p3c4o5(6a o w7d t e c e t w t8c9B0s1g2f3f4C5e6m7T8t9D0i]
+[DELETED: 6Ec o p j t c c w t isc]
+
+
+================================================================================
+
+Raw Text:
+2026 Regular Session ACT No. 16 ENROLLED
+SENATE BILL NO. 336
+BY SENATOR LUNEAU
+1 AN ACT
+2 To enact R.S. 46:438.9 and 438.10, relative to civil actions; to provide relative to the
+3 Medical Assistance Programs Integrity Law; to provide relative to civil investigative
+4 demand, deposition, and subpoena; to provide with respect to conditions and
+5 requirements; to provide relative to contempt of court; to provide for terms and
+6 definitions; to provide relative to discovery; to provide with respect to written
+7 interrogatories and production and inspection of documents and things; to provide
+8 relative to civil proceedings and legal delays; to provide with respect to civil
+9 procedure; and to provide for related matters.
+10 Be it enacted by the Legislature of Louisiana:
+11 Section 1. R.S. 46:438.9 and 438.10 are hereby enacted to read as follows:
+12 §438.9. Civil investigative demand
+13 A.(1) When the attorney general has information, evidence, or reason to
+14 believe that a person or an entity may be in possession, custody, or control of
+15 any documentary material, information, or physical evidence relevant to an
+16 investigation of a violation of Subpart B of Part VI-A of this Chapter, he may
+17 issue to the person or entity a civil investigative demand to require answering
+18 under oath and in writing any interrogatories or the production for inspection,
+19 copying, or reproduction of documentary material, information, or physical
+20 evidence before the commencement of a civil proceeding. A civil investigative
+21 demand issued pursuant to this Section shall state a general description of the
+Page 1 of 6
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SB NO. 336 ENROLLED
+1 subject matter being investigated. Each investigative demand shall set a return
+2 date of not earlier than twenty days after service of the demand upon the
+3 person, legal representative, or agent for service of process.
+4 (2) A civil investigative demand for answers to written interrogatories
+5 shall set forth with specificity the written interrogatories to be answered. A civil
+6 investigative demand for the production of documentary material shall describe
+7 each class of documentary material to be produced with definiteness and
+8 certainty to permit the material to be fairly identified.
+9 (3) A civil investigative demand may not contain an unreasonable
+10 requirement if contained in a subpoena or subpoena duces tecum issued by a
+11 court in a grand jury investigation or require the production of written answers
+12 to interrogatories, or the production of documentary material that is privileged
+13 from disclosure.
+14 (4) The production of documentary material in response to a civil
+15 investigative demand served under this Section shall be made under a sworn
+16 certificate stating that all of the documentary material required by the demand
+17 and in the possession, custody, or control of the person to whom the demand is
+18 directed has been produced and made available to the attorney general. If the
+19 demand is made on a natural person, the person to whom the demand is
+20 directed shall make the certification. If the demand is on a person other than a
+21 natural person, a person having knowledge of the facts and circumstances
+22 relating to the production of material and authorized to act on behalf of the
+23 person shall make the certification.
+24 B. A civil investigative demand issued pursuant to this Section may be
+25 served by the sheriff or a post-certified investigator employed by the attorney
+26 general when the demand is issued to a resident or domestic business entity
+27 found in this state. A civil investigative demand issued to a nonresident or a
+28 foreign business entity shall be served as provided for in the Code of Civil
+29 Procedure.
+30 C. Upon failure of the person or business entity to comply with the civil
+Page 2 of 6
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SB NO. 336 ENROLLED
+1 investigative demand, the attorney general may file a motion with a district
+2 court of proper jurisdiction to compel compliance with the civil investigative
+3 demand. Failure to comply with a court order shall be punishable by contempt
+4 of court.
+5 D. Except as otherwise provided in this Section, no documentary
+6 material, answers to interrogatories, or copies of material or interrogatories,
+7 produced pursuant to this Section or information derived therefrom, or
+8 transcripts and information derived from investigative depositions conducted
+9 pursuant to R.S. 46:438.10 shall be subject to disclosure, discovery, subpoena,
+10 or other means of legal compulsion for release by any person or entity except
+11 as determined by the attorney general and subject to the imposition of any
+12 conditions for effective enforcement of the laws of this state.
+13 E. Nothing in this Section shall be construed to prohibit or limit the
+14 attorney general from sharing any documentary material, answers to
+15 interrogatories, or copies, or information derived therefrom, or transcripts and
+16 information derived from investigative depositions conducted pursuant to R.S.
+17 46:438.10 with any other state government, the United States government, or
+18 any state or federal agency, or any person or entity that assists in the
+19 investigation or prosecution involved in the subject matter of the civil
+20 investigative demand.
+21 F. The attorney general may use documentary material derived from
+22 information obtained pursuant to this Section, or copies of the material, in the
+23 manner the attorney general determines necessary for the enforcement of the
+24 laws of this state, including instituting a civil proceeding with the court.
+25 G. The attorney general, upon the written request of a person or entity
+26 required to produce documentary material pursuant to this Section, shall
+27 destroy or return to the person or entity any material which has not become a
+28 part of the record by introduction into evidence in any court, grand jury, or
+29 agency proceeding if the case or proceeding has been completed, or proceedings
+30 have not been instituted within a reasonable time after analysis of all
+Page 3 of 6
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SB NO. 336 ENROLLED
+1 documentary material and other information produced in the course of the
+2 investigation.
+3 H. Documentary material, answers to written interrogatories, or oral
+4 testimony provided pursuant to a civil investigative demand or investigative
+5 deposition are exempt from disclosure under the Public Records Law, R.S. 44:1
+6 et seq.
+7 I. "Documentary material" as used in this Section includes but is not
+8 limited to all electronically stored information including writings, drawings,
+9 graphs, charts, photographs, sound recordings, images, and other data or data
+10 compilations that are subject to a request for production under Federal Rule of
+11 Civil Procedure 34.
+12 J. A person who has received a civil investigative demand pursuant to
+13 Subsection A of this Section may seek to modify or set aside the demand by
+14 filing a petition through ordinary proceedings with the court in the judicial
+15 district within which the person resides, is found, or transacts business. If no
+16 such jurisdiction exists, the person may file the petition in the Nineteenth
+17 Judicial District Court.
+18 (1) A petition filed pursuant to this Subsection shall be filed within
+19 twenty days after the date of service of the civil investigative demand authorized
+20 in accordance with this Section, or at any time before the return date specified
+21 in the demand, whichever date is earlier.
+22 (2) The petition shall specify each ground upon which the petitioner is
+23 seeking relief in accordance with Subsection A of this Section, and may be based
+24 upon any failure of the demand to comply with the provisions of this Section or
+25 upon any constitutional or other legal right or privilege of the person.
+26 (3) During the pendency of proceedings, the court in its discretion may
+27 stay the running of the time allowed for compliance with the demand, in whole
+28 or in part, except that the person filing the petition shall comply with any
+29 portions of the demand not sought to be modified or set aside.
+30 §438.10. Investigative deposition
+Page 4 of 6
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SB NO. 336 ENROLLED
+1 A.(1) When the attorney general has information, evidence, or reason to
+2 believe that a person or entity has information related to an investigation of a
+3 violation of Subpart B of Part VI-A of this Chapter, he may issue an
+4 investigative subpoena for deposition testimony to any person or entity that may
+5 have information or knowledge relevant to the matter under investigation, or
+6 for the purpose of revealing, identifying, or explaining documentary material
+7 or other physical evidence sought.
+8 (2) The investigative subpoena shall contain a general description of the
+9 matter under investigation, and a notice informing the deponent of his right to
+10 counsel at the deposition with an opportunity for cross-examination. The
+11 deposition shall be conducted at the deponent's principal place of business,
+12 place of residence, domicile, or, if agreeable to the deponent, some other place
+13 convenient to the attorney general or the deponent and the deponent's attorney
+14 or designated lawful representative.
+15 (3) The deposition shall be held on a date not earlier than seven days
+16 after the date on which demand was received, unless the attorney general
+17 determines that exceptional circumstances exist that warrant the
+18 commencement of the testimony within a shorter period of time.
+19 B. An investigative subpoena issued pursuant to this Section may be
+20 served by the sheriff or a post-certified investigator employed by the attorney
+21 general when the demand is issued to a resident or domestic business entity
+22 found in this state. An investigative subpoena issued to a nonresident or a
+23 foreign business entity may be served pursuant to the Code of Civil Procedure.
+24 C. When an investigative subpoena is issued to a business entity, the
+25 entity shall designate one or more officers, directors, or managing agents, and
+26 may set forth, for each person designated, the matters on which he is to testify.
+27 The person designated shall testify to the matters known or reasonably available
+28 to the organization.
+29 D. Upon failure of the person or business entity to comply with the
+30 investigative subpoena, the attorney general may file a motion with a district
+Page 5 of 6
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SB NO. 336 ENROLLED
+1 court of proper jurisdiction to compel compliance with the investigative
+2 subpoena. Failure to comply with a court order is punishable by contempt of
+3 court.
+PRESIDENT OF THE SENATE
+SPEAKER OF THE HOUSE OF REPRESENTATIVES
+GOVERNOR OF THE STATE OF LOUISIANA
+APPROVED:
+Page 6 of 6
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+[DELETED: nEATMd d a s t p w r t c ard t p d t p r wir t c p a l d t p w r t cp0B1S2§3A4b5a6i7i8u9c0e1d]
+[DELETED: 6Esdp(sie c o d m t b p w d ac( A c i d m n c a u0r1c2t3f4( T p o d m i r t a c5i6c7a8d9d i m o a n p t p t w t d i0d1n2r3p4B5s6g7f8f9P0C]
+[DELETED: 6EicdoD E a o p i t S n dmp p t t S o i d t otp0o1a2c3E4a g f s a d m a t5i6i748a s o f a o a p o e t a i t9i o p i i t s m o t c0i1F2i3m4l5G6r t p d m p t t S s7d8p9a0h n b i w a r t a a o a]
+[DELETED: 6EdiHtdeIlg0c1C2J3S4f5d6s j e t p m f t p i t N7J8(9t0i1i2(3s4u5u6(7s8o9p0§]
+[DELETED: 6EAbv o S B o P V o t C h m i aihfo(m0c a t d w a o f c T1d2p3c4o5(6a o w7d t e c e t w t8c9B0s1g2f3f4C5e6m7T8t9D0i]
+[DELETED: 6Ec o p j t c c w t isc]

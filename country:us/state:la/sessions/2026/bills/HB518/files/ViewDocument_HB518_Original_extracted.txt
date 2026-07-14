@@ -1,0 +1,701 @@
+Title: HOUSE BILL NO. 518
+Official Title: HOUSE BILL NO. 518
+Number of Sections: 11
+Source: versions - HB518 Original
+Media Type: application/pdf
+Strikethrough Detection: 11 sections found
+
+================================================================================
+
+Section 1:
+HLS 26RS-438 ORIGINAL
+2026 Regular Session
+BY REPRESENTATIVE WILFORD CARTER
+REAPPORTIONMENT/JUDGES: Establishes election sections for the election of judges
+to the City Court of Lake Charles
+1 AN ACT
+2 To amend and reenact R.S. 13:1952(13), relative to the City Court of Lake Charles; to
+3 provide for election sections for the election of judges to the court; to provide for the
+4 assignment of judgeships for election purposes; to provide for an effective date; and
+5 to provide for related matters.
+6 Be it enacted by the Legislature of Louisiana:
+7 Section 1. R.S. 13:1952(13) is hereby amended and reenacted to read as follows:
+8 §1952. Courts created by special legislative Act
+9 The following city courts, heretofore created and established by special
+10 legislative Act, are hereby recognized and continued in existence and, except as
+11 otherwise provided in this Section, their territorial jurisdiction shall extend through
+12 the city and ward or wards wherein the city in which they are domiciled is located,
+13 as extended from time to time:
+14 * * *
+15 (13)(a) The City Court of Lake Charles, domiciled in the city of Lake
+16 Charles, parish of Calcasieu, having two city judges and a city marshal;.
+17 (b) For the purpose of electing judges, the court shall be divided into two
+18 election sections.
+19 (i) Election section one is composed of Precincts 300, 301, 302, 303, 304,
+20 305, 307, 308, 309E, 309W, 310, 311, 312, 313E, 313W, 315E, 316E, 317, 318,
+Page 1 of 4
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-438 ORIGINAL
+HB NO. 518
+1 319N, 319S, 320E, 320W, 321, 322, 323, 324, 327, 328, 329, 330, 332N, 360 (Part -
+2 that portion within Ward 3), 361, 364, and 371N of Calcasieu Parish.
+3 (ii) Election section two is composed of Precincts 306, 314, 315W, 316W,
+4 325, 326, 331, 332S, 333, 334, 335, 336, 337, 338, 339, 340, 362, 363, 365, 366,
+5 367, 368, 369, 370, 371S, and 372 of Calcasieu Parish.
+6 (c) The judgeship designated as Division B shall be elected from election
+7 section one, and the judgeship designated as Division A shall be elected from
+8 election section two.
+9 * * *
+10 Section 2.(A) The precincts referenced in this Act are those contained in the file
+11 named "2026 Precinct Shapefiles (01-27-2026)" available on the website of the Legislature
+12 of Louisiana on the effective date of this Section. The 2026 Precinct Shapefiles are based
+13 upon those Voting Districts (VTDs) contained in the 2020 Census Redistricting TIGER/Line
+14 Shapefiles for the State of Louisiana as those filed have been modified and validated through
+15 the data verification program of the Louisiana House of Representatives and the Louisiana
+16 Senate to represent precinct changes submitted through January 27, 2026, to the Legislature
+17 of Louisiana by parish governing authorities pursuant to the provisions of R.S. 18:532 and
+18 532.1.
+19 (B) When a precinct referenced in this Act has been subdivided by action of the
+20 parish governing authority on a nongeographic basis or subdivided by action of the parish
+21 governing authority on a geographic basis in accordance with the provisions of R.S.
+22 18:532.1, the enumeration in this Act of the general precinct designation shall include all
+23 nongeographic and all geographic subdivisions thereof, however such subdivisions may be
+24 designated.
+25 (C) The territorial limits of the districts as provided in this Act shall continue in
+26 effect until changed by law regardless of any subsequent change made to the precincts by
+27 the parish governing authority.
+Page 2 of 4
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-438 ORIGINAL
+HB NO. 518
+1 Section 3. Any election to elect a judge to the City Court of Lake Charles occurring
+2 after the effective date of this Act shall be conducted within the appropriate election section
+3 established by the provisions of Section 1 of this Act.
+4 Section 4. This Act shall become effective upon signature by the governor or, if not
+5 signed by the governor, upon expiration of the time for bills to become law without signature
+6 by the governor, as provided by Article III, Section 18 of the Constitution of Louisiana. If
+7 vetoed by the governor and subsequently approved by the legislature, this Act shall become
+8 effective on the day following such approval.
+DIGEST
+The digest printed below was prepared by House Legislative Services. It constitutes no part
+of the legislative instrument. The keyword, one-liner, abstract, and digest do not constitute
+part of the law or proof or indicia of legislative intent. [R.S. 1:13(B) and 24:177(E)]
+HB 518 Original 2026 Regular Session Wilford Carter
+Abstract: Provides for the composition of two election sections in the City Court of Lake
+Charles and provides for the assignment of judgeships to those election sections for
+election purposes.
+Statistical summaries of proposed law, as well as maps illustrating proposed district
+boundaries accompany this digest. (Attached to the bill version on the internet.)
+Present law provides that the City Court of Lake Charles is domiciled in the city of Lake
+Charles and that the territorial jurisdiction of the court extends through the city and ward or
+wards wherein the city is located, as extended from time to time. Provides that the court has
+two city judges and one city marshal. Proposed law retains present law.
+Proposed law creates two election sections in the City Court of Lake Charles. Provides that
+one judge shall be elected by the qualified electors of election section one, and one judge
+shall be elected by the qualified electors of election section two. Provides that the judgeship
+designated as Division A of the City Court of Lake Charles is assigned to election section
+two for election purposes. Provides that the judgeship designated as Division B of the City
+Court of Lake Charles is assigned to election section one for election purposes. Specifies
+that any election to elect a judge to the court occurring after the effective date of proposed
+law shall be conducted within the appropriate election section established by proposed law.
+Proposed law specifies that precincts referenced in district descriptions are those precincts
+contained in the file named "2026 Precinct Shapefiles (01-27-2026)" available on the
+legislature's website. The 2026 Precinct Shapefiles are based upon Voting Districts (VTDs)
+contained in the 2020 Census Redistricting TIGER/Line Shapefiles for the State of La. as
+those files have been modified and validated through data verification program of the La.
+House of Representatives and the La. Senate to represent precinct changes submitted through
+Jan. 27, 2026, to the Legislature of La. by parish governing authorities.
+Proposed law additionally specifies that if any such precinct has been subdivided by action
+of the parish governing authority on a nongeographic basis or subdivided by action of the
+parish governing authority on a geographic basis in accordance with present law, the
+enumeration of the general precinct designation shall include all nongeographic and all
+Page 3 of 4
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-438 ORIGINAL
+HB NO. 518
+geographic subdivisions thereof. Further provides that the territorial limits of the districts
+as enacted shall continue in effect until changed by law regardless of any subsequent change
+made to the precincts by the parish governing authority.
+Population data in the summaries accompanying this digest are derived from 2020 Census
+Redistricting Data (Public Law 94-171), Summary File for La. Population data, statistical
+information, and maps are supplied for purposes of information and analysis and comprise
+no part of proposed law.
+Effective upon signature of governor or lapse of time for gubernatorial action.
+(Amends R.S. 13:1952(13))
+Page 4 of 4
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+Plan Statistics
+Plan: HLS 26RS-438 (W.Carter)
+Districts: # of Members Actual Population Ideal Population Absolute Deviation Relative Deviation
+District 1 1 55,372 56,025 -653 -1.166%
+District 2 1 56,679 56,025 654 1.167%
+Grand Total: 2 112,051 112,050
+Ideal Population Per Member: 56025 Ideal - Actual: -1
+Number of Districts for Plan Type: 2
+Remainder: 1
+Unassigned Population: 0
+Range of District Populations: 55,372 to 56,679
+Absolute Mean Deviation: 654
+Absolute Range: -653 to 654
+Absolute Overall Range: 1,307
+Relative Mean Deviation: 1.17%
+Relative Range: -1.17% to 1.17%
+Relative Overall Range: 2.34%
+Precinct 360 is split in two places by the ward line. In the first instance, the easternmost ward line is a straight
+vertical line extension from Pujol Rd. (Hwy. 397) to the river. In the second instance, the northernmost boundary
+is a straight horizontal line from Goos Ferry Rd. Ext. to the river. The 2020 census blocks do not align with the
+ward line. In the first instance, there are 2 census blocks split by the ward line with 37 people in those blocks. In
+the second instance there are 4 census blocks split by the ward line with 118 people in those blocks. This
+report is the closest approximation of the population of District 1 using the nearsest 2020 census tabulation
+boundaries.
+Total Population
+Plan: HLS 26RS-438 (W.Carter)
+Total VAP VAP
+Total Total Total Total American Total Total American Hispanic
+Population White Black Asian Indian Other Hispanic VAP Total VAP White VAP Black VAP Asian Indian VAP Other Total
+District 1 55,372 13,247 38,604 800 483 2,238 2,668 41,772 11,314 27,864 609 369 1,616 1,806
+
+Section 2:
+100.000% 23.924% 69.718% 1.445% 0.872% 4.042% 4.818% 100.000% 27.085% 66.705% 1.458% 0.883% 3.869% 4.323%
+District 2 56,679 40,882 9,208 2,576 944 3,069 3,681 43,798 32,693 6,340 1,854 740 2,171 2,537
+
+Section 3:
+100.000% 72.129% 16.246% 4.545% 1.666% 5.415% 6.494% 100.000% 74.645% 14.476% 4.233% 1.690% 4.957% 5.793%
+Grand Total 112,051 54,129 47,812 3,376 1,427 5,307 6,349 85,570 44,007 34,204 2,463 1,109 3,787 4,343
+
+Section 4:
+100.000% 48.307% 42.670% 3.013% 1.274% 4.736% 5.666% 100.000% 51.428% 39.972% 2.878% 1.296% 4.426% 5.075%
+Precinct 360 is split in two places by the ward line. In the first instance, the easternmost ward line is a straight
+vertical line extension from Pujol Rd. (Hwy. 397) to the river. In the second instance, the northernmost boundary
+is a straight horizontal line from Goos Ferry Rd. Ext. to the river. The 2020 census blocks do not align with the
+ward line. In the first instance, there are 2 census blocks split by the ward line with 37 people in those blocks. In
+the second instance there are 4 census blocks split by the ward line with 118 people in those blocks. This
+report is the closest approximation of the population of District 1 using the nearsest 2020 census tabulation
+boundaries.
+Date: February 7, 2026 District Summary
+Time: 12:09 PM
+DB: LA_2026_01 Plan: HLS 26RS-438 (W.Carter)
+Page: 1 of 1
+Plan Type: Lake Charles City Court (Ward 3
+Total
+Total Total Total Total American Total Total
+Population White Black Asian Indian Other Hispanic
+District 1
+Calcasieu 55,372 13,247 38,604 800 483 2,238 2,668
+District 1 55,372 13,247 38,604 800 483 2,238 2,668
+
+Section 5:
+100.000% 23.924% 69.718% 1.445% 0.872% 4.042% 4.818%
+District 2
+Calcasieu 56,679 40,882 9,208 2,576 944 3,069 3,681
+District 2 56,679 40,882 9,208 2,576 944 3,069 3,681
+
+Section 6:
+100.000% 72.129% 16.246% 4.545% 1.666% 5.415% 6.494%
+Grand Total 112,051 54,129 47,812 3,376 1,427 5,307 6,349
+
+Section 7:
+100.000% 48.307% 42.670% 3.013% 1.274% 4.736% 5.666%
+Precinct 360 is split in two places by the ward line. In the first instance, the easternmost ward line is a straight
+vertical line extension from Pujol Rd. (Hwy. 397) to the river. In the second instance, the northernmost boundary
+is a straight horizontal line from Goos Ferry Rd. Ext. to the river. The 2020 census blocks do not align with the
+ward line. In the first instance, there are 2 census blocks split by the ward line with 37 people in those blocks. In
+the second instance there are 4 census blocks split by the ward line with 118 people in those blocks. This
+report is the closest approximation of the population of District 1 using the nearsest 2020 census tabulation
+boundaries.
+Voter Registration
+Plan: HLS 26RS-438 (W.Carter)
+Reg Dem Reg Rep Reg Other
+Reg Total Reg White Reg Black Reg Other Total Total Total
+Dec 2025 Dec 2025 Dec 2025 Dec 2025 Dec 2025 Dec 2025 Dec 2025
+District 1 21,635 5,165 15,376 1,094 13,357 2,833 5,447
+
+Section 8:
+51.793% 23.873% 71.070% 5.057% 61.738% 13.095% 25.177%
+District 2 27,439 22,672 3,130 1,637 6,181 13,466 7,792
+
+Section 9:
+62.649% 82.627% 11.407% 5.966% 22.526% 49.076% 28.398%
+Grand Total 49,074 27,837 18,506 2,731 19,538 16,299 13,239
+Precinct 360 is split in two places by the ward line. In the first instance, the easternmost ward line is a straight
+vertical line extension from Pujol Rd. (Hwy. 397) to the river. In the second instance, the northernmost boundary
+is a straight horizontal line from Goos Ferry Rd. Ext. to the river. The 2020 census blocks do not align with the
+ward line. In the first instance, there are 2 census blocks split by the ward line with 37 people in those blocks. In
+the second instance there are 4 census blocks split by the ward line with 118 people in those blocks. This
+report is the closest approximation of the population of District 1 using the nearsest 2020 census tabulation
+boundaries.
+Splits
+Plan: HLS 26RS-438 (W.Carter)
+Total VAP
+Total Total Total Total American Total American Reg Total Reg White Reg Black Reg Other
+Population White Black Asian Indian Other VAP Total VAP White VAP Black VAP Asian Indian VAP Other Dec 2025 Dec 2025 Dec 2025 Dec 2025
+District 1
+*Calcasieu 55,372 13,247 38,604 800 483 2,238 41,772 11,314 27,864 609 369 1,616 21,635 5,165 15,376 1,094
+District 1 55,372 13,247 38,604 800 483 2,238 41,772 11,314 27,864 609 369 1,616 21,635 5,165 15,376 1,094
+
+Section 10:
+100.000% 23.924% 69.718% 1.445% 0.872% 4.042% 100.000% 27.085% 66.705% 1.458% 0.883% 3.869% 51.793% 23.873% 71.070% 5.057%
+District 2
+*Calcasieu 56,679 40,882 9,208 2,576 944 3,069 43,798 32,693 6,340 1,854 740 2,171 27,439 22,672 3,130 1,637
+District 2 56,679 40,882 9,208 2,576 944 3,069 43,798 32,693 6,340 1,854 740 2,171 27,439 22,672 3,130 1,637
+
+Section 11:
+100.000% 72.129% 16.246% 4.545% 1.666% 5.415% 100.000% 74.645% 14.476% 4.233% 1.690% 4.957% 62.649% 82.627% 11.407% 5.966%
+Precinct 360 is split in two places by the ward line. In the first instance, the easternmost ward line is a straight
+vertical line extension from Pujol Rd. (Hwy. 397) to the river. In the second instance, the northernmost boundary
+is a straight horizontal line from Goos Ferry Rd. Ext. to the river. The 2020 census blocks do not align with the
+ward line. In the first instance, there are 2 census blocks split by the ward line with 37 people in those blocks. In
+the second instance there are 4 census blocks split by the ward line with 118 people in those blocks. This
+report is the closest approximation of the population of District 1 using the nearsest 2020 census tabulation
+boundaries.
+HLS 26RS-438 (W.Carter) Lake Charles City Court (Ward 3)
+163
+162E 165 166W
+664 162W 166E 164
+460E
+167
+860N
+360
+463
+461 464
+300 860S
+400 440
+301
+441 304
+401 302 305 361
+303
+307
+404
+308 309W 309E 861W
+403
+310
+406 407 408 405 306 314 ! 1 312
+313E
+317 321
+318
+316W 316E 322 323 324 861E
+326 327
+467 328
+362 325
+330
+331
+363 CCaallccaassiieeuu 335 332S 329
+333
+337
+338 364
+336
+339
+340
+371N
+366
+372
+369
+368
+!
+2
+367
+468
+260
+365
+370
+371S
+469
+Map Layers
+5N
+Parishes
+16B
+V 4 TDs CCaammeerroonn
+5S
+16A
+Districts
+16B
+2/18/2026 4:41:28 PM
+HLS 26RS-438 (W.Carter) Lake Charles City Court (Ward 3) (Precinct 360)
+163
+164
+166W
+165
+166E
+860N
+167
+360
+CCaallccaassiieeuu
+300 860S
+301
+464 !
+1
+304
+305 361
+307
+303
+Map Layers
+308 309W 309E 861W
+Parishes
+310
+VTDs
+311
+312 313E
+315W 315E Districts
+!
+2 861E
+313W
+2/18/2026 4:32:18 PM
+[DELETED: 8O c c c s]
+[DELETED: 8O o j d D A s b f a o a g b i a w t p o R]
+[DELETED: 8Ol2nW s o p l a w a m i p d i t f n " P S ( a o t g a o a g b i a p l t]
+[DELETED: 8O]
+[DELETED: 115255-3-215955641:#sAnInAnR:2111:5::6:52to5:1:-3to6:2:-%to1:1:-::]
+[DELETED: 1521734804328284214246939161%2%6%1%0%4%4%1%2%6%1%0%3%42594298269439314833601470212%7%1%4%1%5%6%1%7%1%4%1%4%5lTlTlTlAnTlTlAnHnWeBkAnInOrHcVlVeVkVnInVrTlVPVl115942361757698047342319374%4%4%3%1%4%5%1%5%3%2%1%4%5]
+[DELETED: u521734804328215217348043282%2%6%1%0%4%4u594298269439325942982694393%7%1%4%1%5%6lTlTlTlAnTlTnWeBkAnInOrHl1159423617576%4%4%3%1%4%5]
+[DELETED: 12555161417235%2%7%5%6%1%222922301761167%8%1%5%2%4%2lReRkRrTlTlT5D5D5D5D5D5DmRpRl4427162118191]
+[DELETED: u521734804328421424693916255516115217348043284214246939162555161%2%6%1%0%4%1%2%6%1%0%3%5%2%7%5u594298269439483360147021292230125942982694394833601470212922301%7%1%4%1%5%1%7%1%4%1%4%6%8%1%5lTlTlTlAnTlAnRlReRkRnWeBkAnInOrVlVeVkVnInVrD5D5D5DlV]
+[DELETED: alcasiealcasieameroamero512386383E323]
+[DELETED: alcasiealcasie]
+
+
+================================================================================
+
+Raw Text:
+HLS 26RS-438 ORIGINAL
+2026 Regular Session
+HOUSE BILL NO. 518
+BY REPRESENTATIVE WILFORD CARTER
+REAPPORTIONMENT/JUDGES: Establishes election sections for the election of judges
+to the City Court of Lake Charles
+1 AN ACT
+2 To amend and reenact R.S. 13:1952(13), relative to the City Court of Lake Charles; to
+3 provide for election sections for the election of judges to the court; to provide for the
+4 assignment of judgeships for election purposes; to provide for an effective date; and
+5 to provide for related matters.
+6 Be it enacted by the Legislature of Louisiana:
+7 Section 1. R.S. 13:1952(13) is hereby amended and reenacted to read as follows:
+8 §1952. Courts created by special legislative Act
+9 The following city courts, heretofore created and established by special
+10 legislative Act, are hereby recognized and continued in existence and, except as
+11 otherwise provided in this Section, their territorial jurisdiction shall extend through
+12 the city and ward or wards wherein the city in which they are domiciled is located,
+13 as extended from time to time:
+14 * * *
+15 (13)(a) The City Court of Lake Charles, domiciled in the city of Lake
+16 Charles, parish of Calcasieu, having two city judges and a city marshal;.
+17 (b) For the purpose of electing judges, the court shall be divided into two
+18 election sections.
+19 (i) Election section one is composed of Precincts 300, 301, 302, 303, 304,
+20 305, 307, 308, 309E, 309W, 310, 311, 312, 313E, 313W, 315E, 316E, 317, 318,
+Page 1 of 4
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-438 ORIGINAL
+HB NO. 518
+1 319N, 319S, 320E, 320W, 321, 322, 323, 324, 327, 328, 329, 330, 332N, 360 (Part -
+2 that portion within Ward 3), 361, 364, and 371N of Calcasieu Parish.
+3 (ii) Election section two is composed of Precincts 306, 314, 315W, 316W,
+4 325, 326, 331, 332S, 333, 334, 335, 336, 337, 338, 339, 340, 362, 363, 365, 366,
+5 367, 368, 369, 370, 371S, and 372 of Calcasieu Parish.
+6 (c) The judgeship designated as Division B shall be elected from election
+7 section one, and the judgeship designated as Division A shall be elected from
+8 election section two.
+9 * * *
+10 Section 2.(A) The precincts referenced in this Act are those contained in the file
+11 named "2026 Precinct Shapefiles (01-27-2026)" available on the website of the Legislature
+12 of Louisiana on the effective date of this Section. The 2026 Precinct Shapefiles are based
+13 upon those Voting Districts (VTDs) contained in the 2020 Census Redistricting TIGER/Line
+14 Shapefiles for the State of Louisiana as those filed have been modified and validated through
+15 the data verification program of the Louisiana House of Representatives and the Louisiana
+16 Senate to represent precinct changes submitted through January 27, 2026, to the Legislature
+17 of Louisiana by parish governing authorities pursuant to the provisions of R.S. 18:532 and
+18 532.1.
+19 (B) When a precinct referenced in this Act has been subdivided by action of the
+20 parish governing authority on a nongeographic basis or subdivided by action of the parish
+21 governing authority on a geographic basis in accordance with the provisions of R.S.
+22 18:532.1, the enumeration in this Act of the general precinct designation shall include all
+23 nongeographic and all geographic subdivisions thereof, however such subdivisions may be
+24 designated.
+25 (C) The territorial limits of the districts as provided in this Act shall continue in
+26 effect until changed by law regardless of any subsequent change made to the precincts by
+27 the parish governing authority.
+Page 2 of 4
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-438 ORIGINAL
+HB NO. 518
+1 Section 3. Any election to elect a judge to the City Court of Lake Charles occurring
+2 after the effective date of this Act shall be conducted within the appropriate election section
+3 established by the provisions of Section 1 of this Act.
+4 Section 4. This Act shall become effective upon signature by the governor or, if not
+5 signed by the governor, upon expiration of the time for bills to become law without signature
+6 by the governor, as provided by Article III, Section 18 of the Constitution of Louisiana. If
+7 vetoed by the governor and subsequently approved by the legislature, this Act shall become
+8 effective on the day following such approval.
+DIGEST
+The digest printed below was prepared by House Legislative Services. It constitutes no part
+of the legislative instrument. The keyword, one-liner, abstract, and digest do not constitute
+part of the law or proof or indicia of legislative intent. [R.S. 1:13(B) and 24:177(E)]
+HB 518 Original 2026 Regular Session Wilford Carter
+Abstract: Provides for the composition of two election sections in the City Court of Lake
+Charles and provides for the assignment of judgeships to those election sections for
+election purposes.
+Statistical summaries of proposed law, as well as maps illustrating proposed district
+boundaries accompany this digest. (Attached to the bill version on the internet.)
+Present law provides that the City Court of Lake Charles is domiciled in the city of Lake
+Charles and that the territorial jurisdiction of the court extends through the city and ward or
+wards wherein the city is located, as extended from time to time. Provides that the court has
+two city judges and one city marshal. Proposed law retains present law.
+Proposed law creates two election sections in the City Court of Lake Charles. Provides that
+one judge shall be elected by the qualified electors of election section one, and one judge
+shall be elected by the qualified electors of election section two. Provides that the judgeship
+designated as Division A of the City Court of Lake Charles is assigned to election section
+two for election purposes. Provides that the judgeship designated as Division B of the City
+Court of Lake Charles is assigned to election section one for election purposes. Specifies
+that any election to elect a judge to the court occurring after the effective date of proposed
+law shall be conducted within the appropriate election section established by proposed law.
+Proposed law specifies that precincts referenced in district descriptions are those precincts
+contained in the file named "2026 Precinct Shapefiles (01-27-2026)" available on the
+legislature's website. The 2026 Precinct Shapefiles are based upon Voting Districts (VTDs)
+contained in the 2020 Census Redistricting TIGER/Line Shapefiles for the State of La. as
+those files have been modified and validated through data verification program of the La.
+House of Representatives and the La. Senate to represent precinct changes submitted through
+Jan. 27, 2026, to the Legislature of La. by parish governing authorities.
+Proposed law additionally specifies that if any such precinct has been subdivided by action
+of the parish governing authority on a nongeographic basis or subdivided by action of the
+parish governing authority on a geographic basis in accordance with present law, the
+enumeration of the general precinct designation shall include all nongeographic and all
+Page 3 of 4
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-438 ORIGINAL
+HB NO. 518
+geographic subdivisions thereof. Further provides that the territorial limits of the districts
+as enacted shall continue in effect until changed by law regardless of any subsequent change
+made to the precincts by the parish governing authority.
+Population data in the summaries accompanying this digest are derived from 2020 Census
+Redistricting Data (Public Law 94-171), Summary File for La. Population data, statistical
+information, and maps are supplied for purposes of information and analysis and comprise
+no part of proposed law.
+Effective upon signature of governor or lapse of time for gubernatorial action.
+(Amends R.S. 13:1952(13))
+Page 4 of 4
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+Plan Statistics
+Plan: HLS 26RS-438 (W.Carter)
+Districts: # of Members Actual Population Ideal Population Absolute Deviation Relative Deviation
+District 1 1 55,372 56,025 -653 -1.166%
+District 2 1 56,679 56,025 654 1.167%
+Grand Total: 2 112,051 112,050
+Ideal Population Per Member: 56025 Ideal - Actual: -1
+Number of Districts for Plan Type: 2
+Remainder: 1
+Unassigned Population: 0
+Range of District Populations: 55,372 to 56,679
+Absolute Mean Deviation: 654
+Absolute Range: -653 to 654
+Absolute Overall Range: 1,307
+Relative Mean Deviation: 1.17%
+Relative Range: -1.17% to 1.17%
+Relative Overall Range: 2.34%
+Precinct 360 is split in two places by the ward line. In the first instance, the easternmost ward line is a straight
+vertical line extension from Pujol Rd. (Hwy. 397) to the river. In the second instance, the northernmost boundary
+is a straight horizontal line from Goos Ferry Rd. Ext. to the river. The 2020 census blocks do not align with the
+ward line. In the first instance, there are 2 census blocks split by the ward line with 37 people in those blocks. In
+the second instance there are 4 census blocks split by the ward line with 118 people in those blocks. This
+report is the closest approximation of the population of District 1 using the nearsest 2020 census tabulation
+boundaries.
+
+Total Population
+Plan: HLS 26RS-438 (W.Carter)
+Total VAP VAP
+Total Total Total Total American Total Total American Hispanic
+Population White Black Asian Indian Other Hispanic VAP Total VAP White VAP Black VAP Asian Indian VAP Other Total
+District 1 55,372 13,247 38,604 800 483 2,238 2,668 41,772 11,314 27,864 609 369 1,616 1,806
+100.000% 23.924% 69.718% 1.445% 0.872% 4.042% 4.818% 100.000% 27.085% 66.705% 1.458% 0.883% 3.869% 4.323%
+District 2 56,679 40,882 9,208 2,576 944 3,069 3,681 43,798 32,693 6,340 1,854 740 2,171 2,537
+100.000% 72.129% 16.246% 4.545% 1.666% 5.415% 6.494% 100.000% 74.645% 14.476% 4.233% 1.690% 4.957% 5.793%
+Grand Total 112,051 54,129 47,812 3,376 1,427 5,307 6,349 85,570 44,007 34,204 2,463 1,109 3,787 4,343
+100.000% 48.307% 42.670% 3.013% 1.274% 4.736% 5.666% 100.000% 51.428% 39.972% 2.878% 1.296% 4.426% 5.075%
+Precinct 360 is split in two places by the ward line. In the first instance, the easternmost ward line is a straight
+vertical line extension from Pujol Rd. (Hwy. 397) to the river. In the second instance, the northernmost boundary
+is a straight horizontal line from Goos Ferry Rd. Ext. to the river. The 2020 census blocks do not align with the
+ward line. In the first instance, there are 2 census blocks split by the ward line with 37 people in those blocks. In
+the second instance there are 4 census blocks split by the ward line with 118 people in those blocks. This
+report is the closest approximation of the population of District 1 using the nearsest 2020 census tabulation
+boundaries.
+
+Date: February 7, 2026 District Summary
+Time: 12:09 PM
+DB: LA_2026_01 Plan: HLS 26RS-438 (W.Carter)
+Page: 1 of 1
+Plan Type: Lake Charles City Court (Ward 3
+Total
+Total Total Total Total American Total Total
+Population White Black Asian Indian Other Hispanic
+District 1
+Calcasieu 55,372 13,247 38,604 800 483 2,238 2,668
+District 1 55,372 13,247 38,604 800 483 2,238 2,668
+100.000% 23.924% 69.718% 1.445% 0.872% 4.042% 4.818%
+District 2
+Calcasieu 56,679 40,882 9,208 2,576 944 3,069 3,681
+District 2 56,679 40,882 9,208 2,576 944 3,069 3,681
+100.000% 72.129% 16.246% 4.545% 1.666% 5.415% 6.494%
+Grand Total 112,051 54,129 47,812 3,376 1,427 5,307 6,349
+100.000% 48.307% 42.670% 3.013% 1.274% 4.736% 5.666%
+Precinct 360 is split in two places by the ward line. In the first instance, the easternmost ward line is a straight
+vertical line extension from Pujol Rd. (Hwy. 397) to the river. In the second instance, the northernmost boundary
+is a straight horizontal line from Goos Ferry Rd. Ext. to the river. The 2020 census blocks do not align with the
+ward line. In the first instance, there are 2 census blocks split by the ward line with 37 people in those blocks. In
+the second instance there are 4 census blocks split by the ward line with 118 people in those blocks. This
+report is the closest approximation of the population of District 1 using the nearsest 2020 census tabulation
+boundaries.
+
+Voter Registration
+Plan: HLS 26RS-438 (W.Carter)
+Reg Dem Reg Rep Reg Other
+Reg Total Reg White Reg Black Reg Other Total Total Total
+Dec 2025 Dec 2025 Dec 2025 Dec 2025 Dec 2025 Dec 2025 Dec 2025
+District 1 21,635 5,165 15,376 1,094 13,357 2,833 5,447
+51.793% 23.873% 71.070% 5.057% 61.738% 13.095% 25.177%
+District 2 27,439 22,672 3,130 1,637 6,181 13,466 7,792
+62.649% 82.627% 11.407% 5.966% 22.526% 49.076% 28.398%
+Grand Total 49,074 27,837 18,506 2,731 19,538 16,299 13,239
+Precinct 360 is split in two places by the ward line. In the first instance, the easternmost ward line is a straight
+vertical line extension from Pujol Rd. (Hwy. 397) to the river. In the second instance, the northernmost boundary
+is a straight horizontal line from Goos Ferry Rd. Ext. to the river. The 2020 census blocks do not align with the
+ward line. In the first instance, there are 2 census blocks split by the ward line with 37 people in those blocks. In
+the second instance there are 4 census blocks split by the ward line with 118 people in those blocks. This
+report is the closest approximation of the population of District 1 using the nearsest 2020 census tabulation
+boundaries.
+
+Splits
+Plan: HLS 26RS-438 (W.Carter)
+Total VAP
+Total Total Total Total American Total American Reg Total Reg White Reg Black Reg Other
+Population White Black Asian Indian Other VAP Total VAP White VAP Black VAP Asian Indian VAP Other Dec 2025 Dec 2025 Dec 2025 Dec 2025
+District 1
+*Calcasieu 55,372 13,247 38,604 800 483 2,238 41,772 11,314 27,864 609 369 1,616 21,635 5,165 15,376 1,094
+District 1 55,372 13,247 38,604 800 483 2,238 41,772 11,314 27,864 609 369 1,616 21,635 5,165 15,376 1,094
+100.000% 23.924% 69.718% 1.445% 0.872% 4.042% 100.000% 27.085% 66.705% 1.458% 0.883% 3.869% 51.793% 23.873% 71.070% 5.057%
+District 2
+*Calcasieu 56,679 40,882 9,208 2,576 944 3,069 43,798 32,693 6,340 1,854 740 2,171 27,439 22,672 3,130 1,637
+District 2 56,679 40,882 9,208 2,576 944 3,069 43,798 32,693 6,340 1,854 740 2,171 27,439 22,672 3,130 1,637
+100.000% 72.129% 16.246% 4.545% 1.666% 5.415% 100.000% 74.645% 14.476% 4.233% 1.690% 4.957% 62.649% 82.627% 11.407% 5.966%
+Precinct 360 is split in two places by the ward line. In the first instance, the easternmost ward line is a straight
+vertical line extension from Pujol Rd. (Hwy. 397) to the river. In the second instance, the northernmost boundary
+is a straight horizontal line from Goos Ferry Rd. Ext. to the river. The 2020 census blocks do not align with the
+ward line. In the first instance, there are 2 census blocks split by the ward line with 37 people in those blocks. In
+the second instance there are 4 census blocks split by the ward line with 118 people in those blocks. This
+report is the closest approximation of the population of District 1 using the nearsest 2020 census tabulation
+boundaries.
+
+HLS 26RS-438 (W.Carter) Lake Charles City Court (Ward 3)
+163
+162E 165 166W
+664 162W 166E 164
+460E
+167
+860N
+360
+463
+461 464
+300 860S
+400 440
+301
+441 304
+401 302 305 361
+303
+307
+404
+308 309W 309E 861W
+403
+310
+406 407 408 405 306 314 ! 1 312
+313E
+317 321
+318
+316W 316E 322 323 324 861E
+326 327
+467 328
+362 325
+330
+331
+363 CCaallccaassiieeuu 335 332S 329
+333
+337
+338 364
+336
+339
+340
+371N
+366
+372
+369
+368
+!
+2
+367
+468
+260
+365
+370
+371S
+469
+Map Layers
+5N
+Parishes
+16B
+V 4 TDs CCaammeerroonn
+5S
+16A
+Districts
+16B
+2/18/2026 4:41:28 PM
+
+HLS 26RS-438 (W.Carter) Lake Charles City Court (Ward 3) (Precinct 360)
+163
+164
+166W
+165
+166E
+860N
+167
+360
+CCaallccaassiieeuu
+300 860S
+301
+464 !
+1
+304
+305 361
+307
+303
+Map Layers
+308 309W 309E 861W
+Parishes
+310
+VTDs
+311
+312 313E
+315W 315E Districts
+!
+2 861E
+313W
+2/18/2026 4:32:18 PM
+
+[DELETED: 8O c c c s]
+[DELETED: 8O o j d D A s b f a o a g b i a w t p o R]
+[DELETED: 8Ol2nW s o p l a w a m i p d i t f n " P S ( a o t g a o a g b i a p l t]
+[DELETED: 8O]
+[DELETED: 115255-3-215955641:#sAnInAnR:2111:5::6:52to5:1:-3to6:2:-%to1:1:-::]
+[DELETED: 1521734804328284214246939161%2%6%1%0%4%4%1%2%6%1%0%3%42594298269439314833601470212%7%1%4%1%5%6%1%7%1%4%1%4%5lTlTlTlAnTlTlAnHnWeBkAnInOrHcVlVeVkVnInVrTlVPVl115942361757698047342319374%4%4%3%1%4%5%1%5%3%2%1%4%5]
+[DELETED: u521734804328215217348043282%2%6%1%0%4%4u594298269439325942982694393%7%1%4%1%5%6lTlTlTlAnTlTnWeBkAnInOrHl1159423617576%4%4%3%1%4%5]
+[DELETED: 12555161417235%2%7%5%6%1%222922301761167%8%1%5%2%4%2lReRkRrTlTlT5D5D5D5D5D5DmRpRl4427162118191]
+[DELETED: u521734804328421424693916255516115217348043284214246939162555161%2%6%1%0%4%1%2%6%1%0%3%5%2%7%5u594298269439483360147021292230125942982694394833601470212922301%7%1%4%1%5%1%7%1%4%1%4%6%8%1%5lTlTlTlAnTlAnRlReRkRnWeBkAnInOrVlVeVkVnInVrD5D5D5DlV]
+[DELETED: alcasiealcasieameroamero512386383E323]
+[DELETED: alcasiealcasie]

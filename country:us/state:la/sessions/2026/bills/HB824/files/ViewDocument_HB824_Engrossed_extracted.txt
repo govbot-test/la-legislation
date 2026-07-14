@@ -1,0 +1,442 @@
+Title: HOUSE BILL NO. 824
+Official Title: HOUSE BILL NO. 824
+Number of Sections: 4
+Source: versions - HB824 Engrossed
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+HLS 26RS-1196 ENGROSSED
+2026 Regular Session
+BY REPRESENTATIVE BEAULLIEU
+APPROPRIATIONS: Limits the amount of state general fund that may be appropriated in
+a fiscal year
+1 AN ACT
+2 To amend and reenact R.S. 39:34(C), 38(B), and 54(C) and to enact R.S. 39:33.3, relative
+3 to state finances; to provide relative to the calculation of a limit above which use of
+4 certain funds may be restricted to certain purposes; to provide relative to exceptions;
+5 to provide for definitions; to provide relative to the authority of the governor; to
+6 provide relative to the powers and duties of the commissioner of administration; to
+7 provide relative to the powers and duties of the Revenue Estimating Conference; to
+8 provide for a special effective date; and to provide for related matters.
+9 Be it enacted by the Legislature of Louisiana:
+10 Section 1. R.S. 39:34(C), 38(B), and 54(C) are hereby amended and reenacted and
+11 R.S. 39:33.3 is hereby enacted to read as follows:
+12 §33.3. Determination of Government Growth Limit
+13 A. The Revenue Estimating Conference shall establish the Government
+14 Growth Limit, hereafter referred to in this Section as the "growth limit", no later than
+15 the first quarter of each calendar year for the next fiscal year. Except as provided in
+16 Subsection D of this Section, the commissioner of administration shall cause a
+17 calculation of the ensuing year's growth limit to be submitted to the Revenue
+18 Estimating Conference each year.
+19 B. After adoption by the Revenue Estimating Conference, the chairman of
+20 the conference shall submit the growth limit for the ensuing fiscal year to the Joint
+Page 1 of 6
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-1196 ENGROSSED
+HB NO. 824
+1 Legislative Committee on the Budget by the deadline for submission of the executive
+2 budget to such committee.
+3 C.(1) If the growth factor provided in this Paragraph is positive, the growth
+4 limit for the ensuing fiscal year shall be calculated as the sum of the base plus the
+5 result of the base times the growth factor in accordance with the following
+6 provisions:
+7 (a) The growth factor shall only be applied to the base once for each annual
+8 calculation and shall equal the sum of the following:
+9 (i) The average annual percentage rate of change in population for Louisiana,
+10 as defined and reported by the United States Department of Commerce, or its
+11 successor agency, for the five calendar years prior to the fiscal year for which the
+12 limit is calculated.
+13 (ii) The average of the following:
+14 (aa) The average annual percentage rate of change through December of the
+15 chained consumer price index for the United States as defined and reported by the
+16 United States Department of Labor, Bureau of Labor Statistics, or its successor
+17 agency, for the five calendar years prior to the fiscal year for which the limit is
+18 calculated.
+19 (bb) The average annual percentage rate of change through December of the
+20 chained consumer medical care price index for the United States as defined and
+21 reported by the United States Department of Labor, Bureau of Labor Statistics, or its
+22 successor agency, for the five calendar years prior to the fiscal year for which the
+23 limit is calculated.
+24 (b) The figures used for the calculation of the growth factor shall be those
+25 actual or estimated figures most recently reported at the time the growth limit is
+26 adopted by the Revenue Estimating Conference.
+27 (c) The base shall be the total of appropriations for recurring expenses from
+28 the State General Fund (Direct) means of finance for the immediately prior fiscal
+Page 2 of 6
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-1196 ENGROSSED
+HB NO. 824
+1 year; however, the base shall not include any appropriations made pursuant to
+2 Subsection D and Paragraphs (E)(2) and (3) of this Section.
+3 (2) If the growth factor provided in Paragraph (1) of this Subsection is
+4 negative, the growth limit for the ensuing fiscal year shall be equal to the base, as
+5 defined in Paragraph (1) of this Subsection.
+6 D. Notwithstanding any provision of this Section to the contrary, if the
+7 legislature changes the limit for a fiscal year pursuant to Article VII, Section 10(C)
+8 of the Constitution of Louisiana, the limit for the immediately following fiscal year
+9 shall equal the last limit established by the Revenue Estimating Conference.
+10 E. The limit calculated pursuant to the provisions of this Subparagraph shall
+11 not apply to the appropriation of the following:
+12 (1) Any funds from the Budget Stabilization Fund or the Louisiana Income
+13 Tax Elimination Fund incorporated into the official forecast for the current fiscal
+14 year.
+15 (2) Any funds appropriated as a result of a means of financing substitution
+16 resulting in an increase in the State General Fund (Direct) means of finance to
+17 compensate for a decrease in federal funding, funds transferred from another state
+18 entity, self-generated collections, or statutorily or constitutionally dedicated funds.
+19 (3) Any funds appropriated or allocated that are excluded from the analysis
+20 of appropriation totals in relation to the expenditure limit.
+21 §34. Executive budget
+22 * * *
+23 C. The executive budget recommendations for appropriations shall not
+24 exceed the expenditure limit for the ensuing fiscal year. Additionally, executive
+25 budget recommendations for appropriation of recurring revenue shall not exceed the
+26 applicable government growth limit.
+27 * * *
+28 §38. Additional proposals
+29 * * *
+Page 3 of 6
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-1196 ENGROSSED
+HB NO. 824
+1 B. Any proposal by the governor to exceed the expenditure limit limit, the
+2 government growth limit, or both shall be itemized by program and shall constitute
+3 a submission by the governor separate and apart from the executive budget.
+4 * * *
+5 §54. Limitations on appropriations
+6 * * *
+7 C. Appropriations by the legislature from the state general fund and
+8 dedicated funds for any fiscal year shall not exceed the expenditure limit and shall
+9 be in conformity with the requirements of R.S. 39:33.3.
+10 * * *
+11 Section 2. This Act shall take effect and become operative if and when the proposed
+12 amendment of Article VII of the Constitution of Louisiana contained in the Act which
+13 originated as House Bill No. 646 of this 2026 Regular Session of the Legislature is adopted
+14 at a statewide election and becomes effective.
+DIGEST
+The digest printed below was prepared by House Legislative Services. It constitutes no part
+of the legislative instrument. The keyword, one-liner, abstract, and digest do not constitute
+part of the law or proof or indicia of legislative intent. [R.S. 1:13(B) and 24:177(E)]
+HB 824 Engrossed 2026 Regular Session Beaullieu
+Abstract: Establishes a calculation for the Government Growth Limit (growth limit) to
+restrict growth in the total amount of recurring State General Fund (Direct) means
+of finance that the legislature may transfer or appropriate in any fiscal year and
+requires deposit into the La. Income Tax Elimination Fund (fund) of any recognized
+recurring state general fund revenues above the growth limit and below the
+expenditure limit.
+Proposed law requires the calculation and adoption each year of a growth limit that restricts
+the growth in the total amount of recurring monies from the State General Fund (Direct)
+means of finance that the legislature may transfer or appropriate in any fiscal year. Requires
+the commissioner of administration to submit a calculation of the ensuing year's growth limit
+to Revenue Estimating Conference (REC) each year. Requires the REC to establish a growth
+limit for the ensuing fiscal year no later than the first quarter of each calendar year. Further
+requires the chairman of REC annually to submit the limit for the ensuing fiscal year to the
+Joint Legislative Committee on the Budget by the deadline for submission of the executive
+budget.
+Proposed law establishes the calculation for the growth limit. If the growth factor, described
+below, is positive, the calculation is the sum of the appropriations for recurring expenses
+from the State General Fund (Direct) means of finance for the immediately prior fiscal year,
+Page 4 of 6
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-1196 ENGROSSED
+HB NO. 824
+less certain excepted expenditures (the base), plus the product of the base times the growth
+factor.
+Proposed law establishes calculation of the "growth factor" as the sum of the following:
+(1) The average annual percentage rate of change in population for La., as defined and
+reported by the U.S. Department of Commerce, or its successor agency, for the five
+calendar years prior to the fiscal year for which the growth limit is calculated.
+(2) The average of the following:
+(a) The average annual percentage rate of change through December of the
+chained-consumer price index for the U.S. as reported by the U.S. Dept. of
+Labor, Bureau of Labor Statistics, for the five calendar years prior to the
+fiscal year for which the growth limit is calculated.
+(b) The average annual percentage rate of change through December of the
+chained-consumer medical care price index for the U.S. as reported by the
+U.S. Dept. of Labor, Bureau of Labor Statistics, for the five calendar years
+prior to the fiscal year for which the growth limit is calculated.
+If the growth factor is negative, proposed law provides that the growth limit for the ensuing
+year shall equal the base.
+Proposed law requires figures used in calculation of the growth limit to be those most
+recently reported at the time the growth limit is adopted by REC.
+Proposed law provides that if the legislature changes the growth limit for a fiscal year, then
+the growth limit for the immediately following fiscal year shall equal the last limit
+established by the REC.
+Proposed law establishes exceptions regarding application of the limit to appropriations from
+any of the following:
+(1) Funds from the Budget Stabilization Fund or the La. Income Tax Elimination Fund
+incorporated into the official forecast for the current fiscal year.
+(2) Funds appropriated as a result of certain means of financing substitutions.
+(3) Funds appropriated or allocated that are excluded from the analysis of appropriation
+totals in relation to the expenditure limit.
+Present law (R.S. 39:34) prohibits the executive budget recommendations for appropriations
+from exceeding the expenditure limit for the ensuing fiscal year. Proposed law retains
+present law and further prohibits executive budget recommendations for appropriations of
+recurring revenue from exceeding the applicable growth limit.
+Present law (R.S. 39:38) requires any proposal by the governor to exceed the expenditure
+limit to be itemized by program and to constitute a submission by the governor separate and
+apart from the executive budget. Proposed law provides that any proposal by the governor
+to exceed the expenditure limit, the growth limit, or both shall constitute a separate
+submission from the executive budget.
+Present law (R.S. 39:54) prohibits appropriations from the state general fund and dedicated
+funds for any fiscal year from exceeding the expenditure limit. Proposed law retains present
+law and further requires appropriations to be in conformity with proposed law relative to the
+growth limit.
+Page 5 of 6
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-1196 ENGROSSED
+HB NO. 824
+Effective if and when the proposed amendment of Article VII of the Constitution of La.
+contained in the Act which originated as House Bill No. 646 of the 2026 Regular Session
+of the Legislature is adopted at a statewide election and becomes effective.
+(Amends R.S. 39:34(C), 38(B), and 54(C); Adds R.S. 39:33.3)
+Summary of Amendments Adopted by House
+The Committee Amendments Proposed by House Committee on Appropriations to the
+original bill:
+
+Section 2:
+1. Establish the growth limit for the ensuing fiscal year at a certain level if the
+legislature changes the growth limit for the current fiscal year.
+
+Section 3:
+2. Establish exception to the growth limit for funds incorporated into the official
+forecast from the La. Income Tax Elimination Fund.
+
+Section 4:
+3. Make technical and conforming changes.
+Page 6 of 6
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+[DELETED: 6E o t e y g l t b s t t R]
+[DELETED: 6E o t b t t g f i a w t f d a r b t U S D o C o i]
+[DELETED: 6E h b n i a   r a s]
+[DELETED: 6E  A b t l f t s g f ad2nB s g f r a t g l a b t]
+[DELETED: 6E)T)T)T)T g l f t i f f y s e t l l)F)F)F e t e l t g l o b s c a s]
+[DELETED: 6E.E E.M]
+
+
+================================================================================
+
+Raw Text:
+HLS 26RS-1196 ENGROSSED
+2026 Regular Session
+HOUSE BILL NO. 824
+BY REPRESENTATIVE BEAULLIEU
+APPROPRIATIONS: Limits the amount of state general fund that may be appropriated in
+a fiscal year
+1 AN ACT
+2 To amend and reenact R.S. 39:34(C), 38(B), and 54(C) and to enact R.S. 39:33.3, relative
+3 to state finances; to provide relative to the calculation of a limit above which use of
+4 certain funds may be restricted to certain purposes; to provide relative to exceptions;
+5 to provide for definitions; to provide relative to the authority of the governor; to
+6 provide relative to the powers and duties of the commissioner of administration; to
+7 provide relative to the powers and duties of the Revenue Estimating Conference; to
+8 provide for a special effective date; and to provide for related matters.
+9 Be it enacted by the Legislature of Louisiana:
+10 Section 1. R.S. 39:34(C), 38(B), and 54(C) are hereby amended and reenacted and
+11 R.S. 39:33.3 is hereby enacted to read as follows:
+12 §33.3. Determination of Government Growth Limit
+13 A. The Revenue Estimating Conference shall establish the Government
+14 Growth Limit, hereafter referred to in this Section as the "growth limit", no later than
+15 the first quarter of each calendar year for the next fiscal year. Except as provided in
+16 Subsection D of this Section, the commissioner of administration shall cause a
+17 calculation of the ensuing year's growth limit to be submitted to the Revenue
+18 Estimating Conference each year.
+19 B. After adoption by the Revenue Estimating Conference, the chairman of
+20 the conference shall submit the growth limit for the ensuing fiscal year to the Joint
+Page 1 of 6
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1196 ENGROSSED
+HB NO. 824
+1 Legislative Committee on the Budget by the deadline for submission of the executive
+2 budget to such committee.
+3 C.(1) If the growth factor provided in this Paragraph is positive, the growth
+4 limit for the ensuing fiscal year shall be calculated as the sum of the base plus the
+5 result of the base times the growth factor in accordance with the following
+6 provisions:
+7 (a) The growth factor shall only be applied to the base once for each annual
+8 calculation and shall equal the sum of the following:
+9 (i) The average annual percentage rate of change in population for Louisiana,
+10 as defined and reported by the United States Department of Commerce, or its
+11 successor agency, for the five calendar years prior to the fiscal year for which the
+12 limit is calculated.
+13 (ii) The average of the following:
+14 (aa) The average annual percentage rate of change through December of the
+15 chained consumer price index for the United States as defined and reported by the
+16 United States Department of Labor, Bureau of Labor Statistics, or its successor
+17 agency, for the five calendar years prior to the fiscal year for which the limit is
+18 calculated.
+19 (bb) The average annual percentage rate of change through December of the
+20 chained consumer medical care price index for the United States as defined and
+21 reported by the United States Department of Labor, Bureau of Labor Statistics, or its
+22 successor agency, for the five calendar years prior to the fiscal year for which the
+23 limit is calculated.
+24 (b) The figures used for the calculation of the growth factor shall be those
+25 actual or estimated figures most recently reported at the time the growth limit is
+26 adopted by the Revenue Estimating Conference.
+27 (c) The base shall be the total of appropriations for recurring expenses from
+28 the State General Fund (Direct) means of finance for the immediately prior fiscal
+Page 2 of 6
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1196 ENGROSSED
+HB NO. 824
+1 year; however, the base shall not include any appropriations made pursuant to
+2 Subsection D and Paragraphs (E)(2) and (3) of this Section.
+3 (2) If the growth factor provided in Paragraph (1) of this Subsection is
+4 negative, the growth limit for the ensuing fiscal year shall be equal to the base, as
+5 defined in Paragraph (1) of this Subsection.
+6 D. Notwithstanding any provision of this Section to the contrary, if the
+7 legislature changes the limit for a fiscal year pursuant to Article VII, Section 10(C)
+8 of the Constitution of Louisiana, the limit for the immediately following fiscal year
+9 shall equal the last limit established by the Revenue Estimating Conference.
+10 E. The limit calculated pursuant to the provisions of this Subparagraph shall
+11 not apply to the appropriation of the following:
+12 (1) Any funds from the Budget Stabilization Fund or the Louisiana Income
+13 Tax Elimination Fund incorporated into the official forecast for the current fiscal
+14 year.
+15 (2) Any funds appropriated as a result of a means of financing substitution
+16 resulting in an increase in the State General Fund (Direct) means of finance to
+17 compensate for a decrease in federal funding, funds transferred from another state
+18 entity, self-generated collections, or statutorily or constitutionally dedicated funds.
+19 (3) Any funds appropriated or allocated that are excluded from the analysis
+20 of appropriation totals in relation to the expenditure limit.
+21 §34. Executive budget
+22 * * *
+23 C. The executive budget recommendations for appropriations shall not
+24 exceed the expenditure limit for the ensuing fiscal year. Additionally, executive
+25 budget recommendations for appropriation of recurring revenue shall not exceed the
+26 applicable government growth limit.
+27 * * *
+28 §38. Additional proposals
+29 * * *
+Page 3 of 6
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1196 ENGROSSED
+HB NO. 824
+1 B. Any proposal by the governor to exceed the expenditure limit limit, the
+2 government growth limit, or both shall be itemized by program and shall constitute
+3 a submission by the governor separate and apart from the executive budget.
+4 * * *
+5 §54. Limitations on appropriations
+6 * * *
+7 C. Appropriations by the legislature from the state general fund and
+8 dedicated funds for any fiscal year shall not exceed the expenditure limit and shall
+9 be in conformity with the requirements of R.S. 39:33.3.
+10 * * *
+11 Section 2. This Act shall take effect and become operative if and when the proposed
+12 amendment of Article VII of the Constitution of Louisiana contained in the Act which
+13 originated as House Bill No. 646 of this 2026 Regular Session of the Legislature is adopted
+14 at a statewide election and becomes effective.
+DIGEST
+The digest printed below was prepared by House Legislative Services. It constitutes no part
+of the legislative instrument. The keyword, one-liner, abstract, and digest do not constitute
+part of the law or proof or indicia of legislative intent. [R.S. 1:13(B) and 24:177(E)]
+HB 824 Engrossed 2026 Regular Session Beaullieu
+Abstract: Establishes a calculation for the Government Growth Limit (growth limit) to
+restrict growth in the total amount of recurring State General Fund (Direct) means
+of finance that the legislature may transfer or appropriate in any fiscal year and
+requires deposit into the La. Income Tax Elimination Fund (fund) of any recognized
+recurring state general fund revenues above the growth limit and below the
+expenditure limit.
+Proposed law requires the calculation and adoption each year of a growth limit that restricts
+the growth in the total amount of recurring monies from the State General Fund (Direct)
+means of finance that the legislature may transfer or appropriate in any fiscal year. Requires
+the commissioner of administration to submit a calculation of the ensuing year's growth limit
+to Revenue Estimating Conference (REC) each year. Requires the REC to establish a growth
+limit for the ensuing fiscal year no later than the first quarter of each calendar year. Further
+requires the chairman of REC annually to submit the limit for the ensuing fiscal year to the
+Joint Legislative Committee on the Budget by the deadline for submission of the executive
+budget.
+Proposed law establishes the calculation for the growth limit. If the growth factor, described
+below, is positive, the calculation is the sum of the appropriations for recurring expenses
+from the State General Fund (Direct) means of finance for the immediately prior fiscal year,
+Page 4 of 6
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1196 ENGROSSED
+HB NO. 824
+less certain excepted expenditures (the base), plus the product of the base times the growth
+factor.
+Proposed law establishes calculation of the "growth factor" as the sum of the following:
+(1) The average annual percentage rate of change in population for La., as defined and
+reported by the U.S. Department of Commerce, or its successor agency, for the five
+calendar years prior to the fiscal year for which the growth limit is calculated.
+(2) The average of the following:
+(a) The average annual percentage rate of change through December of the
+chained-consumer price index for the U.S. as reported by the U.S. Dept. of
+Labor, Bureau of Labor Statistics, for the five calendar years prior to the
+fiscal year for which the growth limit is calculated.
+(b) The average annual percentage rate of change through December of the
+chained-consumer medical care price index for the U.S. as reported by the
+U.S. Dept. of Labor, Bureau of Labor Statistics, for the five calendar years
+prior to the fiscal year for which the growth limit is calculated.
+If the growth factor is negative, proposed law provides that the growth limit for the ensuing
+year shall equal the base.
+Proposed law requires figures used in calculation of the growth limit to be those most
+recently reported at the time the growth limit is adopted by REC.
+Proposed law provides that if the legislature changes the growth limit for a fiscal year, then
+the growth limit for the immediately following fiscal year shall equal the last limit
+established by the REC.
+Proposed law establishes exceptions regarding application of the limit to appropriations from
+any of the following:
+(1) Funds from the Budget Stabilization Fund or the La. Income Tax Elimination Fund
+incorporated into the official forecast for the current fiscal year.
+(2) Funds appropriated as a result of certain means of financing substitutions.
+(3) Funds appropriated or allocated that are excluded from the analysis of appropriation
+totals in relation to the expenditure limit.
+Present law (R.S. 39:34) prohibits the executive budget recommendations for appropriations
+from exceeding the expenditure limit for the ensuing fiscal year. Proposed law retains
+present law and further prohibits executive budget recommendations for appropriations of
+recurring revenue from exceeding the applicable growth limit.
+Present law (R.S. 39:38) requires any proposal by the governor to exceed the expenditure
+limit to be itemized by program and to constitute a submission by the governor separate and
+apart from the executive budget. Proposed law provides that any proposal by the governor
+to exceed the expenditure limit, the growth limit, or both shall constitute a separate
+submission from the executive budget.
+Present law (R.S. 39:54) prohibits appropriations from the state general fund and dedicated
+funds for any fiscal year from exceeding the expenditure limit. Proposed law retains present
+law and further requires appropriations to be in conformity with proposed law relative to the
+growth limit.
+Page 5 of 6
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1196 ENGROSSED
+HB NO. 824
+Effective if and when the proposed amendment of Article VII of the Constitution of La.
+contained in the Act which originated as House Bill No. 646 of the 2026 Regular Session
+of the Legislature is adopted at a statewide election and becomes effective.
+(Amends R.S. 39:34(C), 38(B), and 54(C); Adds R.S. 39:33.3)
+Summary of Amendments Adopted by House
+The Committee Amendments Proposed by House Committee on Appropriations to the
+original bill:
+1. Establish the growth limit for the ensuing fiscal year at a certain level if the
+legislature changes the growth limit for the current fiscal year.
+2. Establish exception to the growth limit for funds incorporated into the official
+forecast from the La. Income Tax Elimination Fund.
+3. Make technical and conforming changes.
+Page 6 of 6
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+[DELETED: 6E o t e y g l t b s t t R]
+[DELETED: 6E o t b t t g f i a w t f d a r b t U S D o C o i]
+[DELETED: 6E h b n i a   r a s]
+[DELETED: 6E  A b t l f t s g f ad2nB s g f r a t g l a b t]
+[DELETED: 6E)T)T)T)T g l f t i f f y s e t l l)F)F)F e t e l t g l o b s c a s]
+[DELETED: 6E.E E.M]

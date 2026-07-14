@@ -1,0 +1,327 @@
+Title: HOUSE BILL NO. 870
+Official Title: HOUSE BILL NO. 870
+Number of Sections: 1
+Source: versions - HB870 Act 907
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+ENROLLED
+ACT No. 907
+2026 Regular Session
+BY REPRESENTATIVE TURNER
+1 AN ACT
+2 To amend and reenact R.S. 44:4.1(B)(11) and to enact R.S. 22:1060.9, relative to health
+3 insurance; to establish requirements for formulary placement and cost-sharing
+4 obligations for specific generic drugs and biosimilars; to prohibit certain utilization
+5 management practices; to provide for certain notices; to provide definitions; to
+6 provide for confidentiality; to provide for exception from public records; and to
+7 provide for related matters.
+8 Be it enacted by the Legislature of Louisiana:
+9 Section 1. R.S. 22:1060.9 is hereby enacted to read as follows:
+10 §1060.9. Formulary placement; coverage requirements for certain generic drugs and
+11 biosimilars
+12 A. For purposes of this Section, the following terms have the meanings
+13 ascribed to them in this Subsection:
+14 (1) "Biosimilar" means any biological product that is licensed under 42
+15 U.S.C. 262(k) and has been listed in the United States Food and Drug
+16 Administration's (FDA) Database of Licensed Biological Products ("Purple Book")
+17 as biosimilar to or interchangeable with a reference biological product.
+18 (2) "Brand drug" means a drug for which an application has been approved
+19 under 21 U.S.C. 355(c), or a biological product, other than a biosimilar, that is
+20 licensed under 42 U.S.C. 262(a).
+21 (3) "Formulary" means a list of prescription drugs that is developed by a
+22 Pharmacy and Therapeutics (P&T) Committee or other clinical and pharmacy
+23 experts and represents a health plan's prescription drugs approved for use.
+24 (4) "Generic drug" means a drug for which an application has been approved
+25 under 21 U.S.C. 355(j) and which has been listed in the United States Food and Drug
+26 Administration's Approved Drug Products with Therapeutic Equivalence Evaluations
+Page 1 of 5
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HB NO. 870 ENROLLED
+1 ("Orange Book") as therapeutically equivalent to a reference drug, even if the
+2 manufacturer of such drug applies a trade name to the drug.
+3 (5) "Net cost calculation" means the wholesale acquisition cost minus all
+4 rebates, discounts, and fees.
+5 (6) "Reference listed drug" is the listed drug identified by the United States
+6 Food and Drug Administration as the drug product upon which an applicant relies
+7 in seeking approval of its application submitted under 21 U.S.C. 355(j).
+8 (7) "Reference product" is a single biological product, licensed by the United
+9 States Food and Drug Administration under 42 U.S.C. 262(a), against which a
+10 proposed biosimilar or interchangeable product is compared, and listed as a reference
+11 product in the United States Food and Drug Administration's Database of Licensed
+12 Biological Products ("Purple Book").
+13 (8) "Wholesale acquisition cost" has the same definition as "wholesale
+14 acquisition cost" in 42 U.S.C. 1395w-3a(c)(6)(B).
+15 B. If a generic drug is approved and marketed pursuant to Paragraph (A)(1)
+16 of this Section, and has a wholesale acquisition cost that is lower than the wholesale
+17 acquisition cost of its reference listed drug and any other drug sharing its reference
+18 listed drug on the generic drug's initial date of marketing, a health insurance issuer
+19 that provides coverage for the reference listed drug on that date shall do all of the
+20 following:
+21 (1)(a) Immediately make the generic drug available on the plan formulary
+22 on a tier with more favorable cost-sharing, including actual out-of-pocket costs, than
+23 the cost-sharing applicable to the reference listed drug.
+24 (b) Not impose any prior authorization, step therapy, or any other limitation
+25 on coverage of a generic drug for which formulary placement is required in
+26 accordance with this Paragraph that makes it more difficult for an enrollee to obtain
+27 coverage of or access to the generic drug than the reference listed drug.
+28 (c) Not impose any restriction on the pharmacy through which an enrollee
+29 may obtain the generic drug that makes it more difficult for an enrollee to obtain
+30 coverage of or access to the generic drug than the reference listed drug.
+Page 2 of 5
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HB NO. 870 ENROLLED
+1 (2) The requirements of this Subsection shall remain in effect if the
+2 wholesale acquisition cost of the generic drug remains lower than the wholesale
+3 acquisition cost of the reference listed drug.
+4 C. If a biosimilar is licensed and marketed pursuant to Paragraph (A)(3) of
+5 this Section and has a wholesale acquisition cost that is lower than the wholesale
+6 acquisition cost of its reference product and any other biosimilar sharing its reference
+7 product on the biosimilar's initial date of marketing, a health insurance issuer that
+8 provides coverage for the reference product on that date shall do all of the following:
+9 (1)(a) Immediately make at least one biosimilar available on the plan
+10 formulary on a tier with more favorable cost-sharing, including actual out-of-pocket
+11 costs, than the cost-sharing applicable to the reference product.
+12 (b) Not impose any prior authorization, step therapy, or any other limitation
+13 on coverage of the biosimilar drug for which formulary placement is required in
+14 accordance with this Paragraph that makes it more difficult for an enrollee to obtain
+15 coverage of or access to the biosimilar drug than the reference listed drug.
+16 (c) Not impose any restriction on the pharmacy through which an enrollee
+17 may obtain the biosimilar that makes it more difficult for an enrollee to obtain
+18 coverage of or access to the biosimilar than to the reference product.
+19 (2) The requirements of this Subsection shall remain in effect if the
+20 wholesale acquisition cost of the biosimilar remains lower than the wholesale
+21 acquisition cost of the reference product.
+22 D.(1) A health insurance issuer may utilize net cost calculation in lieu of
+23 wholesale acquisition cost for purposes of determining placement on the drug
+24 formulary pursuant to this Section.
+25 (2) A health insurance issuer shall notify the commissioner in writing within
+26 thirty days if the health insurance issuer if the health insurance issuer opts to utilize
+27 the net cost calculation for a branded prescription drug in a drug formulary.
+28 (3) For each National Drug Code (NDC), the notification shall provide the
+29 following information for both the branded prescription drug and any available
+30 generic or biosimilar:
+Page 3 of 5
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HB NO. 870 ENROLLED
+1 (a) Wholesale acquisition cost.
+2 (b) Net cost.
+3 (4) The health insurance issuer shall provide the branded prescription drug
+4 cost-sharing amount and the cost-sharing amount if the generic or biosimilar was
+5 added to the drug formulary at a more favorable coverage tier.
+6 (5) The health insurance issuer shall include in the notification how the
+7 issuer is utilizing the rebate provided by the manufacturer of the branded prescription
+8 drug.
+9 E.(1) To ensure transparency regarding formulary decisions, the
+10 commissioner shall provide an annual report, providing a summary of the
+11 notifications pursuant to this Section, including an analysis of the overall impact on
+12 patient costs.
+13 (2) All information and data obtained by the department pursuant to this
+14 Subpart that is not otherwise publicly available is considered to be a trade secret,
+15 confidential, and proprietary, is not subject to disclosure pursuant to the Public
+16 Records Law, R.S. 44:1 et seq., and shall not be disclosed directly or indirectly.
+17 (3) The Department of Insurance shall impose the confidentiality protections
+18 of this Section on any third party that may receive or otherwise have access to this
+19 information.
+20 Section 2. R.S. 44:4.1(B)(11) is hereby amended and reenacted to read as follows:
+21 §4.1. Exceptions
+22 * * *
+23 B. The legislature further recognizes that there exist exceptions, exemptions,
+24 and limitations to the laws pertaining to public records throughout the revised
+25 statutes and codes of this state. Therefore, the following exceptions, exemptions, and
+26 limitations are hereby continued in effect by incorporation into this Chapter by
+27 citation:
+28 * * *
+Page 4 of 5
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HB NO. 870 ENROLLED
+1 (11) R.S. 22:2, 14, 31, 42.1, 88, 244, 263, 265, 461, 550.7, 550.22, 550.29, 550.30,
+2 571, 572, 572.1, 572.2, 574, 601.3, 618, 639, 691.4, 691.5, 691.6, 691.7, 691.8, 691.9,
+3 691.9.1, 691.10, 691.38, 691.56, 732, 752, 753, 771, 834, 972(D), 976, 1008, 1019.2, 1060.9,
+4 1203, 1276, 1460, 1464, 1466, 1483.1, 1488, 1546, 1559, 1566(D), 1644, 1656, 1657.1,
+5 1660.7, 1723, 1796, 1801, 1808.3, 1869, 1927, 1929, 1983, 1984, 2036, 2045, 2056, 2085,
+6 2091, 2293, 2303, 2508
+7 * * *
+SPEAKER OF THE HOUSE OF REPRESENTATIVES
+PRESIDENT OF THE SENATE
+GOVERNOR OF THE STATE OF LOUISIANA
+APPROVED:
+Page 5 of 5
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+[DELETED:  t e r f f p a c 2 a h b l i t U S F a D a T ( C o o c a p]
+[DELETED: 0E B a t e t a r e i t c o a g d f w f p i r i]
+[DELETED: 0E  T r o t S s r i e i t  I m a l o b a o t p  T r o t S s r i e i t a c o t b r l t t w a c f p o d p o t d]
+[DELETED: 0E  T e t r f d t s p a a r p a s o t t t l p t p r t r]
+[DELETED: 0E]
+
+
+================================================================================
+
+Raw Text:
+ENROLLED
+ACT No. 907
+2026 Regular Session
+HOUSE BILL NO. 870
+BY REPRESENTATIVE TURNER
+1 AN ACT
+2 To amend and reenact R.S. 44:4.1(B)(11) and to enact R.S. 22:1060.9, relative to health
+3 insurance; to establish requirements for formulary placement and cost-sharing
+4 obligations for specific generic drugs and biosimilars; to prohibit certain utilization
+5 management practices; to provide for certain notices; to provide definitions; to
+6 provide for confidentiality; to provide for exception from public records; and to
+7 provide for related matters.
+8 Be it enacted by the Legislature of Louisiana:
+9 Section 1. R.S. 22:1060.9 is hereby enacted to read as follows:
+10 §1060.9. Formulary placement; coverage requirements for certain generic drugs and
+11 biosimilars
+12 A. For purposes of this Section, the following terms have the meanings
+13 ascribed to them in this Subsection:
+14 (1) "Biosimilar" means any biological product that is licensed under 42
+15 U.S.C. 262(k) and has been listed in the United States Food and Drug
+16 Administration's (FDA) Database of Licensed Biological Products ("Purple Book")
+17 as biosimilar to or interchangeable with a reference biological product.
+18 (2) "Brand drug" means a drug for which an application has been approved
+19 under 21 U.S.C. 355(c), or a biological product, other than a biosimilar, that is
+20 licensed under 42 U.S.C. 262(a).
+21 (3) "Formulary" means a list of prescription drugs that is developed by a
+22 Pharmacy and Therapeutics (P&T) Committee or other clinical and pharmacy
+23 experts and represents a health plan's prescription drugs approved for use.
+24 (4) "Generic drug" means a drug for which an application has been approved
+25 under 21 U.S.C. 355(j) and which has been listed in the United States Food and Drug
+26 Administration's Approved Drug Products with Therapeutic Equivalence Evaluations
+Page 1 of 5
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HB NO. 870 ENROLLED
+1 ("Orange Book") as therapeutically equivalent to a reference drug, even if the
+2 manufacturer of such drug applies a trade name to the drug.
+3 (5) "Net cost calculation" means the wholesale acquisition cost minus all
+4 rebates, discounts, and fees.
+5 (6) "Reference listed drug" is the listed drug identified by the United States
+6 Food and Drug Administration as the drug product upon which an applicant relies
+7 in seeking approval of its application submitted under 21 U.S.C. 355(j).
+8 (7) "Reference product" is a single biological product, licensed by the United
+9 States Food and Drug Administration under 42 U.S.C. 262(a), against which a
+10 proposed biosimilar or interchangeable product is compared, and listed as a reference
+11 product in the United States Food and Drug Administration's Database of Licensed
+12 Biological Products ("Purple Book").
+13 (8) "Wholesale acquisition cost" has the same definition as "wholesale
+14 acquisition cost" in 42 U.S.C. 1395w-3a(c)(6)(B).
+15 B. If a generic drug is approved and marketed pursuant to Paragraph (A)(1)
+16 of this Section, and has a wholesale acquisition cost that is lower than the wholesale
+17 acquisition cost of its reference listed drug and any other drug sharing its reference
+18 listed drug on the generic drug's initial date of marketing, a health insurance issuer
+19 that provides coverage for the reference listed drug on that date shall do all of the
+20 following:
+21 (1)(a) Immediately make the generic drug available on the plan formulary
+22 on a tier with more favorable cost-sharing, including actual out-of-pocket costs, than
+23 the cost-sharing applicable to the reference listed drug.
+24 (b) Not impose any prior authorization, step therapy, or any other limitation
+25 on coverage of a generic drug for which formulary placement is required in
+26 accordance with this Paragraph that makes it more difficult for an enrollee to obtain
+27 coverage of or access to the generic drug than the reference listed drug.
+28 (c) Not impose any restriction on the pharmacy through which an enrollee
+29 may obtain the generic drug that makes it more difficult for an enrollee to obtain
+30 coverage of or access to the generic drug than the reference listed drug.
+Page 2 of 5
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HB NO. 870 ENROLLED
+1 (2) The requirements of this Subsection shall remain in effect if the
+2 wholesale acquisition cost of the generic drug remains lower than the wholesale
+3 acquisition cost of the reference listed drug.
+4 C. If a biosimilar is licensed and marketed pursuant to Paragraph (A)(3) of
+5 this Section and has a wholesale acquisition cost that is lower than the wholesale
+6 acquisition cost of its reference product and any other biosimilar sharing its reference
+7 product on the biosimilar's initial date of marketing, a health insurance issuer that
+8 provides coverage for the reference product on that date shall do all of the following:
+9 (1)(a) Immediately make at least one biosimilar available on the plan
+10 formulary on a tier with more favorable cost-sharing, including actual out-of-pocket
+11 costs, than the cost-sharing applicable to the reference product.
+12 (b) Not impose any prior authorization, step therapy, or any other limitation
+13 on coverage of the biosimilar drug for which formulary placement is required in
+14 accordance with this Paragraph that makes it more difficult for an enrollee to obtain
+15 coverage of or access to the biosimilar drug than the reference listed drug.
+16 (c) Not impose any restriction on the pharmacy through which an enrollee
+17 may obtain the biosimilar that makes it more difficult for an enrollee to obtain
+18 coverage of or access to the biosimilar than to the reference product.
+19 (2) The requirements of this Subsection shall remain in effect if the
+20 wholesale acquisition cost of the biosimilar remains lower than the wholesale
+21 acquisition cost of the reference product.
+22 D.(1) A health insurance issuer may utilize net cost calculation in lieu of
+23 wholesale acquisition cost for purposes of determining placement on the drug
+24 formulary pursuant to this Section.
+25 (2) A health insurance issuer shall notify the commissioner in writing within
+26 thirty days if the health insurance issuer if the health insurance issuer opts to utilize
+27 the net cost calculation for a branded prescription drug in a drug formulary.
+28 (3) For each National Drug Code (NDC), the notification shall provide the
+29 following information for both the branded prescription drug and any available
+30 generic or biosimilar:
+Page 3 of 5
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HB NO. 870 ENROLLED
+1 (a) Wholesale acquisition cost.
+2 (b) Net cost.
+3 (4) The health insurance issuer shall provide the branded prescription drug
+4 cost-sharing amount and the cost-sharing amount if the generic or biosimilar was
+5 added to the drug formulary at a more favorable coverage tier.
+6 (5) The health insurance issuer shall include in the notification how the
+7 issuer is utilizing the rebate provided by the manufacturer of the branded prescription
+8 drug.
+9 E.(1) To ensure transparency regarding formulary decisions, the
+10 commissioner shall provide an annual report, providing a summary of the
+11 notifications pursuant to this Section, including an analysis of the overall impact on
+12 patient costs.
+13 (2) All information and data obtained by the department pursuant to this
+14 Subpart that is not otherwise publicly available is considered to be a trade secret,
+15 confidential, and proprietary, is not subject to disclosure pursuant to the Public
+16 Records Law, R.S. 44:1 et seq., and shall not be disclosed directly or indirectly.
+17 (3) The Department of Insurance shall impose the confidentiality protections
+18 of this Section on any third party that may receive or otherwise have access to this
+19 information.
+20 Section 2. R.S. 44:4.1(B)(11) is hereby amended and reenacted to read as follows:
+21 §4.1. Exceptions
+22 * * *
+23 B. The legislature further recognizes that there exist exceptions, exemptions,
+24 and limitations to the laws pertaining to public records throughout the revised
+25 statutes and codes of this state. Therefore, the following exceptions, exemptions, and
+26 limitations are hereby continued in effect by incorporation into this Chapter by
+27 citation:
+28 * * *
+Page 4 of 5
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HB NO. 870 ENROLLED
+1 (11) R.S. 22:2, 14, 31, 42.1, 88, 244, 263, 265, 461, 550.7, 550.22, 550.29, 550.30,
+2 571, 572, 572.1, 572.2, 574, 601.3, 618, 639, 691.4, 691.5, 691.6, 691.7, 691.8, 691.9,
+3 691.9.1, 691.10, 691.38, 691.56, 732, 752, 753, 771, 834, 972(D), 976, 1008, 1019.2, 1060.9,
+4 1203, 1276, 1460, 1464, 1466, 1483.1, 1488, 1546, 1559, 1566(D), 1644, 1656, 1657.1,
+5 1660.7, 1723, 1796, 1801, 1808.3, 1869, 1927, 1929, 1983, 1984, 2036, 2045, 2056, 2085,
+6 2091, 2293, 2303, 2508
+7 * * *
+SPEAKER OF THE HOUSE OF REPRESENTATIVES
+PRESIDENT OF THE SENATE
+GOVERNOR OF THE STATE OF LOUISIANA
+APPROVED:
+Page 5 of 5
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+[DELETED:  t e r f f p a c 2 a h b l i t U S F a D a T ( C o o c a p]
+[DELETED: 0E B a t e t a r e i t c o a g d f w f p i r i]
+[DELETED: 0E  T r o t S s r i e i t  I m a l o b a o t p  T r o t S s r i e i t a c o t b r l t t w a c f p o d p o t d]
+[DELETED: 0E  T e t r f d t s p a a r p a s o t t t l p t p r t r]
+[DELETED: 0E]

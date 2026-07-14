@@ -1,0 +1,455 @@
+Title: SENATE BILL NO. 251
+Official Title: SENATE BILL NO. 251
+Number of Sections: 1
+Source: versions - SB251 Enrolled
+Media Type: application/pdf
+Strikethrough Detection: 7 sections found
+
+================================================================================
+
+Section 1:
+2026 Regular Session ENROLLED
+BY SENATORS PRESSLY, ALLAIN, BARROW, BASS, BOUDREAUX, JACKSON-
+ANDREWS, SELDERS AND WHEAT
+1 AN ACT
+2 To enact Part B of Chapter 51 of Title 51 of the Louisiana Revised Statutes of 1950, to be
+3 comprised of R.S. 51:3081 through 3089, and to designate R.S. 51:3071 through
+4 3080 as Part A of Chapter 51 of Title 51 of the Louisiana Revised Statutes of 1950,
+5 relative to critical infrastructure protection; to provide for critical infrastructure that
+6 needs protection from foreign adversaries accessing state critical infrastructure; to
+7 provide for assessing the state's vulnerability to sanctioned communications
+8 equipment; to prohibit use of adversary cameras and laser sensor technologies in
+9 Louisiana transportation systems; to provide enforcement of protected activities; and
+10 to provide for related matters.
+11 Be it enacted by the Legislature of Louisiana:
+12 Section 1. Part B of Chapter 51 of Title 51 of the Louisiana Revised Statutes of 1950,
+13 comprised of R.S. 51:3081 through 3089, is hereby enacted to read as follows:
+14 PART B. CRITICAL INFRASTRUCTURE PROTECTION
+15 §3081. Title
+16 This Part shall be known and may be cited as the "Louisiana Critical
+17 Infrastructure Protection Act of 2026".
+18 §3082. Purpose
+19 The purpose of this Part is to protect this state's critical infrastructure
+20 by prohibiting foreign adversaries from accessing state critical infrastructure,
+21 by assessing this state's vulnerability to sanctioned communications equipment,
+Page 1 of 7
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+SB NO. 251 ENROLLED
+1 and by prohibiting the use of adversary cameras and laser sensor technologies
+2 in this state's transportation systems.
+3 §3083. Rule of construction
+4 This Part shall be construed and applied in a manner consistent with
+5 federal law and shall not be interpreted or enforced to prohibit, restrict,
+6 condition, or delay any transaction, agreement, activity, technology, software,
+7 service, or access that has been specifically authorized, approved, licensed,
+8 exempted, or otherwise permitted by the United States government.
+9 §3084. Definitions
+10 The following definitions apply in this Part unless the context indicates
+11 otherwise:
+12 (1) "Company" means a for-profit sole proprietorship, organization,
+13 association, corporation, partnership, joint venture, limited partnership, limited
+14 liability partnership, or limited liability company, including a wholly owned
+15 subsidiary or majority-owned subsidiary of those entities or business
+16 associations that exist to make a profit; or a nonprofit organization.
+17 (2) "Critical infrastructure" means systems and assets, whether physical
+18 or virtual, so vital to this state or the United States of America that the
+19 incapacity or destruction of those systems and assets would have a debilitating
+20 impact on state or national security, state or national economic security, state
+21 or national public health, or any combination of those matters. A critical
+22 infrastructure may be publicly or privately owned, and includes but is not
+23 limited to any of the following:
+24 (a) Gas and oil production, storage, or delivery systems.
+25 (b) Water supply, refinement, storage, or delivery systems.
+26 (c) Telecommunications networks.
+27 (d) Electrical power delivery systems.
+28 (e) Emergency services.
+29 (f) Transportation systems and services.
+30 (g) Personal data or otherwise classified information storage systems,
+Page 2 of 7
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+SB NO. 251 ENROLLED
+1 including cybersecurity.
+2 (3) "Cybersecurity" means the measures taken to protect a computer,
+3 computer network, computer system, or other technology infrastructure against
+4 unauthorized use or access.
+5 (4) "Domicile" means either the country in which a company is
+6 registered or where the company's affairs are primarily completed.
+7 (5) "Foreign adversary" means those countries listed in 15 CFR 791.4.
+8 (6) "Foreign principal" means any of the following entities:
+9 (a) The government or any official of the government of a foreign
+10 adversary.
+11 (b) A political party or member of a political party or any subdivision of
+12 a political party of a foreign adversary.
+13 (c) A partnership, association, corporation, organization, or other
+14 combination of persons organized under the laws of or having its principal place
+15 of business in a foreign adversary, or a subsidiary of such entity, that is owned
+16 or controlled, directly or indirectly, by persons or entities of a foreign adversary
+17 through the ownership of a majority voting interest or the power to direct
+18 management or policies of the entity. Ownership shall not include passive
+19 ownership of publicly traded securities that does not confer the power to direct
+20 or influence management or operations.
+21 (d) Any person who is not an entity described in Subparagraph (c) of this
+22 Paragraph, who is domiciled in a foreign adversary, and is not a citizen or
+23 lawful permanent resident of the United States or otherwise permitted by law
+24 to perform work on critical infrastructure in the United States.
+25 (e) Any person, entity, or collection of persons or entities, described in
+26 Subparagraphs (a) through (d) of this Paragraph having a controlling interest
+27 in a partnership, association, corporation, organization, trust, or any other legal
+28 entity or subsidiary formed for the purpose of owning real property.
+29 (7) "Office" means the Governor's Office of Homeland Security and
+30 Emergency Preparedness.
+Page 3 of 7
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+SB NO. 251 ENROLLED
+1 (8) "Operational command authority" means the authority to direct,
+2 control, or make real-time operational decisions affecting the physical
+3 functioning, safety, or emergency response of critical infrastructure.
+4 (9) "Significant access" means access that enables the holder to alter
+5 physical operations, safety systems, or emergency response functions of critical
+6 infrastructure.
+7 (10) "Software" means any program or routine, or any set of one or
+8 more programs or routines, which are used or intended for use to cause one or
+9 more computers or pieces of computer-related peripheral equipment, or any
+10 combination thereof, to perform a task or set of tasks, as it relates to state
+11 infrastructure, or any operational software.
+12 §3085. Prohibited access to critical infrastructure
+13 A. A company or other entity constructing, repairing, operating, or
+14 otherwise having significant access to critical infrastructure may not knowingly
+15 enter into an agreement relating to critical infrastructure in this state with a
+16 foreign principal from a foreign adversary if the agreement would allow the
+17 foreign principal from a foreign adversary to directly or remotely exercise
+18 operational command authority over critical infrastructure in this state.
+19 B. A governmental entity may not knowingly enter into a contract or
+20 other agreement relating to critical infrastructure in this state with a company
+21 that is a foreign principal from a foreign adversary if the agreement would
+22 allow the foreign principal from a foreign adversary to directly or remotely
+23 exercise operational command authority over critical infrastructure in this
+24 state.
+25 C. Notwithstanding the provisions in Subsections A and B of this Section,
+26 an entity or governmental entity may enter into a contract or agreement
+27 relating to critical infrastructure with a foreign principal from a foreign
+28 adversary country if all of the following apply:
+29 (1) There is no other reasonable option for addressing the need relevant
+30 to state critical infrastructure.
+Page 4 of 7
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+SB NO. 251 ENROLLED
+1 (2) Not entering into the contract or agreement would pose a greater
+2 threat to the state than the threat associated with entering into the contract.
+3 D.(1) Nothing in this Part shall apply to any transaction, agreement,
+4 activity, technology, software, service, or access that is conducted pursuant to
+5 and in compliance with a specific license or authorization issued by the United
+6 States government, including but not limited to licenses or authorizations issued
+7 by the United States Department of Homeland Security, United States
+8 Department of the Treasury, or United States Department of Commerce, or
+9 where such activities were previously conducted pursuant to a license or
+10 authorization that is no longer required due to the lifting, modification,
+11 removals, or expiration of applicable United States sanctions, executive orders,
+12 regulations, or statutes.
+13 (2) Intra-company shared services that do not involve a foreign
+14 adversary company do not constitute agreements with a foreign principal so
+15 long as ownership and operational command authority remain with a parent
+16 company domiciled in the United States.
+17 §3086. Prohibitions on certain software in critical infrastructure
+18 A. All software providing operational command authority over critical
+19 infrastructure shall not include any software produced by a company
+20 headquartered in and subject to the laws of a foreign adversary, or a company
+21 under the direction or control of a foreign adversary.
+22 B. All software used in state infrastructure in operation within or serving
+23 this state, including any state infrastructure which is not permanently disabled,
+24 shall have all software prohibited pursuant to the provisions of this Section
+25 removed and replaced with software which is not prohibited pursuant to the
+26 provisions of this Section unless that software was lawfully installed prior to
+27 August 1, 2026, and remains compliant with applicable federal law.
+28 C. Any state infrastructure provider that removes, discontinues, or
+29 replaces any prohibited software shall not be required to obtain any additional
+30 permits from any state agency or political subdivision for the removal,
+Page 5 of 7
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+SB NO. 251 ENROLLED
+1 discontinuance, or replacement of such software as long as the state agency or
+2 political subdivision is properly notified of the necessary replacements and the
+3 replacement software is similar to the existing software.
+4 §3087. Telecommunications providers in compliance with federal law
+5 Nothing in this Part applies to any provider of an interactive computer
+6 service, as defined in 47 U.S.C. 230, or any provider of a telecommunications
+7 service or an information service, as defined in 47 U.S.C. 153, nor to any
+8 employee, agent, or contractor acting on behalf of such provider, to the extent
+9 that the provider is in compliance with the Secure and Trusted Communications
+10 Networks Act of 2019, 47 U.S.C. 1601, et seq.
+11 §3088. Electric utilities in compliance with federal law
+12 Nothing in this Part applies to any member-owned electric cooperatives
+13 or investor-owned utilities subject to the North American Electric Reliability
+14 Corporation, NERC, Reliability Standards, or to any member-owned electric
+15 cooperatives or investor-owned utility assets subject to the Nuclear Regulatory
+16 Commission, NRC.
+17 §3089. Enforcement; civil proceedings
+18 The attorney general may institute civil proceedings to enforce the
+19 provisions of this Part, including but not limited to actions against a foreign
+20 adversary company or any other vendor, provider, distributor, or relabeler or
+21 white-labeler of a foreign adversary technology for violations of the Unfair
+22 Trade Practices and Consumer Protection Law, R.S. 51:1401 et seq.
+23 Section 2. The Louisiana State Law Institute is hereby directed to designate the
+24 provisions of R.S. 51:3071 through 3080 as Part A of Chapter 51 of Title 51 of the Louisiana
+25 Revised Statutes of 1950 to be entitled, "PART A. DATABASE SECURITY BREACH
+26 NOTIFICATION".
+27 Section 3. It is the intent of this legislature that Venezuela not be considered a foreign
+28 adversary unless and until a new determination is made by the United States Department of
+29 Commerce to designate the successor regime to the Venezuelan politician Nicolas Maduro
+30 to be a foreign adversary to the United States.
+Page 6 of 7
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+SB NO. 251 ENROLLED
+1 Section 4. (A) The provisions of R.S. 51:3089 as enacted by Section 1 of this Act
+2 shall become effective on November 29, 2026.
+3 (B) Sections 2, 3, and this Section of this Act shall become effective on August 1,
+4 2026.
+PRESIDENT OF THE SENATE
+SPEAKER OF THE HOUSE OF REPRESENTATIVES
+GOVERNOR OF THE STATE OF LOUISIANA
+APPROVED:
+Page 7 of 7
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+[DELETED: nEATc3rnp f a t s v t s ceL0t1B2S3c4P5§6T7I8§9T0b1b]
+[DELETED: 1Eai§Tf l a s n b i o e t p rcse§0T1o2(3a4l5s o m s o t e o b6a7(8o v s v t t s o t U S o A t t9i0i1o n p h o a c o t m A c2i3l4(5(6(7(8(9(0(]
+[DELETED: 1Ei(cu( " m e t c i w a c ir((( T g o a o o t g o a f0a1(2a3( A p a c o o o4c5o6o7t8m o o e O s n i p9o0o1(2P3l4t5(6S7i8e9(0E]
+[DELETED: 1E(c o m r o d a t pf(pi(mm0c1i2§3A o4o5e6f7f8o9B0o1t2a3e4s5C6a e o g e m e i a c o a7r t c i w a f p f a f8a9(0t]
+[DELETED: 1E(tDaaSb t U S D o H S U SDw s a w p c p t a l o0a t i n l r d t t l m1r2r3( I s s t d n i a f4a5l6c7§8A9i s n i a s p b a c0h1u2B3t4s5r6p7A8C A s i t r d o9r0p f a s a o p s f t r]
+[DELETED: 1Edpr§Nss a i s d i 4 U 1 n t aet0N1§2N3o4C5c6C7§8T a g m i c p t e t9p0a1w2T3S4p5R6N7S8a9C0t]
+[DELETED: 1ESs(2]
+
+
+================================================================================
+
+Raw Text:
+2026 Regular Session ENROLLED
+SENATE BILL NO. 251
+BY SENATORS PRESSLY, ALLAIN, BARROW, BASS, BOUDREAUX, JACKSON-
+ANDREWS, SELDERS AND WHEAT
+1 AN ACT
+2 To enact Part B of Chapter 51 of Title 51 of the Louisiana Revised Statutes of 1950, to be
+3 comprised of R.S. 51:3081 through 3089, and to designate R.S. 51:3071 through
+4 3080 as Part A of Chapter 51 of Title 51 of the Louisiana Revised Statutes of 1950,
+5 relative to critical infrastructure protection; to provide for critical infrastructure that
+6 needs protection from foreign adversaries accessing state critical infrastructure; to
+7 provide for assessing the state's vulnerability to sanctioned communications
+8 equipment; to prohibit use of adversary cameras and laser sensor technologies in
+9 Louisiana transportation systems; to provide enforcement of protected activities; and
+10 to provide for related matters.
+11 Be it enacted by the Legislature of Louisiana:
+12 Section 1. Part B of Chapter 51 of Title 51 of the Louisiana Revised Statutes of 1950,
+13 comprised of R.S. 51:3081 through 3089, is hereby enacted to read as follows:
+14 PART B. CRITICAL INFRASTRUCTURE PROTECTION
+15 §3081. Title
+16 This Part shall be known and may be cited as the "Louisiana Critical
+17 Infrastructure Protection Act of 2026".
+18 §3082. Purpose
+19 The purpose of this Part is to protect this state's critical infrastructure
+20 by prohibiting foreign adversaries from accessing state critical infrastructure,
+21 by assessing this state's vulnerability to sanctioned communications equipment,
+Page 1 of 7
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SB NO. 251 ENROLLED
+1 and by prohibiting the use of adversary cameras and laser sensor technologies
+2 in this state's transportation systems.
+3 §3083. Rule of construction
+4 This Part shall be construed and applied in a manner consistent with
+5 federal law and shall not be interpreted or enforced to prohibit, restrict,
+6 condition, or delay any transaction, agreement, activity, technology, software,
+7 service, or access that has been specifically authorized, approved, licensed,
+8 exempted, or otherwise permitted by the United States government.
+9 §3084. Definitions
+10 The following definitions apply in this Part unless the context indicates
+11 otherwise:
+12 (1) "Company" means a for-profit sole proprietorship, organization,
+13 association, corporation, partnership, joint venture, limited partnership, limited
+14 liability partnership, or limited liability company, including a wholly owned
+15 subsidiary or majority-owned subsidiary of those entities or business
+16 associations that exist to make a profit; or a nonprofit organization.
+17 (2) "Critical infrastructure" means systems and assets, whether physical
+18 or virtual, so vital to this state or the United States of America that the
+19 incapacity or destruction of those systems and assets would have a debilitating
+20 impact on state or national security, state or national economic security, state
+21 or national public health, or any combination of those matters. A critical
+22 infrastructure may be publicly or privately owned, and includes but is not
+23 limited to any of the following:
+24 (a) Gas and oil production, storage, or delivery systems.
+25 (b) Water supply, refinement, storage, or delivery systems.
+26 (c) Telecommunications networks.
+27 (d) Electrical power delivery systems.
+28 (e) Emergency services.
+29 (f) Transportation systems and services.
+30 (g) Personal data or otherwise classified information storage systems,
+Page 2 of 7
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SB NO. 251 ENROLLED
+1 including cybersecurity.
+2 (3) "Cybersecurity" means the measures taken to protect a computer,
+3 computer network, computer system, or other technology infrastructure against
+4 unauthorized use or access.
+5 (4) "Domicile" means either the country in which a company is
+6 registered or where the company's affairs are primarily completed.
+7 (5) "Foreign adversary" means those countries listed in 15 CFR 791.4.
+8 (6) "Foreign principal" means any of the following entities:
+9 (a) The government or any official of the government of a foreign
+10 adversary.
+11 (b) A political party or member of a political party or any subdivision of
+12 a political party of a foreign adversary.
+13 (c) A partnership, association, corporation, organization, or other
+14 combination of persons organized under the laws of or having its principal place
+15 of business in a foreign adversary, or a subsidiary of such entity, that is owned
+16 or controlled, directly or indirectly, by persons or entities of a foreign adversary
+17 through the ownership of a majority voting interest or the power to direct
+18 management or policies of the entity. Ownership shall not include passive
+19 ownership of publicly traded securities that does not confer the power to direct
+20 or influence management or operations.
+21 (d) Any person who is not an entity described in Subparagraph (c) of this
+22 Paragraph, who is domiciled in a foreign adversary, and is not a citizen or
+23 lawful permanent resident of the United States or otherwise permitted by law
+24 to perform work on critical infrastructure in the United States.
+25 (e) Any person, entity, or collection of persons or entities, described in
+26 Subparagraphs (a) through (d) of this Paragraph having a controlling interest
+27 in a partnership, association, corporation, organization, trust, or any other legal
+28 entity or subsidiary formed for the purpose of owning real property.
+29 (7) "Office" means the Governor's Office of Homeland Security and
+30 Emergency Preparedness.
+Page 3 of 7
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SB NO. 251 ENROLLED
+1 (8) "Operational command authority" means the authority to direct,
+2 control, or make real-time operational decisions affecting the physical
+3 functioning, safety, or emergency response of critical infrastructure.
+4 (9) "Significant access" means access that enables the holder to alter
+5 physical operations, safety systems, or emergency response functions of critical
+6 infrastructure.
+7 (10) "Software" means any program or routine, or any set of one or
+8 more programs or routines, which are used or intended for use to cause one or
+9 more computers or pieces of computer-related peripheral equipment, or any
+10 combination thereof, to perform a task or set of tasks, as it relates to state
+11 infrastructure, or any operational software.
+12 §3085. Prohibited access to critical infrastructure
+13 A. A company or other entity constructing, repairing, operating, or
+14 otherwise having significant access to critical infrastructure may not knowingly
+15 enter into an agreement relating to critical infrastructure in this state with a
+16 foreign principal from a foreign adversary if the agreement would allow the
+17 foreign principal from a foreign adversary to directly or remotely exercise
+18 operational command authority over critical infrastructure in this state.
+19 B. A governmental entity may not knowingly enter into a contract or
+20 other agreement relating to critical infrastructure in this state with a company
+21 that is a foreign principal from a foreign adversary if the agreement would
+22 allow the foreign principal from a foreign adversary to directly or remotely
+23 exercise operational command authority over critical infrastructure in this
+24 state.
+25 C. Notwithstanding the provisions in Subsections A and B of this Section,
+26 an entity or governmental entity may enter into a contract or agreement
+27 relating to critical infrastructure with a foreign principal from a foreign
+28 adversary country if all of the following apply:
+29 (1) There is no other reasonable option for addressing the need relevant
+30 to state critical infrastructure.
+Page 4 of 7
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SB NO. 251 ENROLLED
+1 (2) Not entering into the contract or agreement would pose a greater
+2 threat to the state than the threat associated with entering into the contract.
+3 D.(1) Nothing in this Part shall apply to any transaction, agreement,
+4 activity, technology, software, service, or access that is conducted pursuant to
+5 and in compliance with a specific license or authorization issued by the United
+6 States government, including but not limited to licenses or authorizations issued
+7 by the United States Department of Homeland Security, United States
+8 Department of the Treasury, or United States Department of Commerce, or
+9 where such activities were previously conducted pursuant to a license or
+10 authorization that is no longer required due to the lifting, modification,
+11 removals, or expiration of applicable United States sanctions, executive orders,
+12 regulations, or statutes.
+13 (2) Intra-company shared services that do not involve a foreign
+14 adversary company do not constitute agreements with a foreign principal so
+15 long as ownership and operational command authority remain with a parent
+16 company domiciled in the United States.
+17 §3086. Prohibitions on certain software in critical infrastructure
+18 A. All software providing operational command authority over critical
+19 infrastructure shall not include any software produced by a company
+20 headquartered in and subject to the laws of a foreign adversary, or a company
+21 under the direction or control of a foreign adversary.
+22 B. All software used in state infrastructure in operation within or serving
+23 this state, including any state infrastructure which is not permanently disabled,
+24 shall have all software prohibited pursuant to the provisions of this Section
+25 removed and replaced with software which is not prohibited pursuant to the
+26 provisions of this Section unless that software was lawfully installed prior to
+27 August 1, 2026, and remains compliant with applicable federal law.
+28 C. Any state infrastructure provider that removes, discontinues, or
+29 replaces any prohibited software shall not be required to obtain any additional
+30 permits from any state agency or political subdivision for the removal,
+Page 5 of 7
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SB NO. 251 ENROLLED
+1 discontinuance, or replacement of such software as long as the state agency or
+2 political subdivision is properly notified of the necessary replacements and the
+3 replacement software is similar to the existing software.
+4 §3087. Telecommunications providers in compliance with federal law
+5 Nothing in this Part applies to any provider of an interactive computer
+6 service, as defined in 47 U.S.C. 230, or any provider of a telecommunications
+7 service or an information service, as defined in 47 U.S.C. 153, nor to any
+8 employee, agent, or contractor acting on behalf of such provider, to the extent
+9 that the provider is in compliance with the Secure and Trusted Communications
+10 Networks Act of 2019, 47 U.S.C. 1601, et seq.
+11 §3088. Electric utilities in compliance with federal law
+12 Nothing in this Part applies to any member-owned electric cooperatives
+13 or investor-owned utilities subject to the North American Electric Reliability
+14 Corporation, NERC, Reliability Standards, or to any member-owned electric
+15 cooperatives or investor-owned utility assets subject to the Nuclear Regulatory
+16 Commission, NRC.
+17 §3089. Enforcement; civil proceedings
+18 The attorney general may institute civil proceedings to enforce the
+19 provisions of this Part, including but not limited to actions against a foreign
+20 adversary company or any other vendor, provider, distributor, or relabeler or
+21 white-labeler of a foreign adversary technology for violations of the Unfair
+22 Trade Practices and Consumer Protection Law, R.S. 51:1401 et seq.
+23 Section 2. The Louisiana State Law Institute is hereby directed to designate the
+24 provisions of R.S. 51:3071 through 3080 as Part A of Chapter 51 of Title 51 of the Louisiana
+25 Revised Statutes of 1950 to be entitled, "PART A. DATABASE SECURITY BREACH
+26 NOTIFICATION".
+27 Section 3. It is the intent of this legislature that Venezuela not be considered a foreign
+28 adversary unless and until a new determination is made by the United States Department of
+29 Commerce to designate the successor regime to the Venezuelan politician Nicolas Maduro
+30 to be a foreign adversary to the United States.
+Page 6 of 7
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SB NO. 251 ENROLLED
+1 Section 4. (A) The provisions of R.S. 51:3089 as enacted by Section 1 of this Act
+2 shall become effective on November 29, 2026.
+3 (B) Sections 2, 3, and this Section of this Act shall become effective on August 1,
+4 2026.
+PRESIDENT OF THE SENATE
+SPEAKER OF THE HOUSE OF REPRESENTATIVES
+GOVERNOR OF THE STATE OF LOUISIANA
+APPROVED:
+Page 7 of 7
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+[DELETED: nEATc3rnp f a t s v t s ceL0t1B2S3c4P5§6T7I8§9T0b1b]
+[DELETED: 1Eai§Tf l a s n b i o e t p rcse§0T1o2(3a4l5s o m s o t e o b6a7(8o v s v t t s o t U S o A t t9i0i1o n p h o a c o t m A c2i3l4(5(6(7(8(9(0(]
+[DELETED: 1Ei(cu( " m e t c i w a c ir((( T g o a o o t g o a f0a1(2a3( A p a c o o o4c5o6o7t8m o o e O s n i p9o0o1(2P3l4t5(6S7i8e9(0E]
+[DELETED: 1E(c o m r o d a t pf(pi(mm0c1i2§3A o4o5e6f7f8o9B0o1t2a3e4s5C6a e o g e m e i a c o a7r t c i w a f p f a f8a9(0t]
+[DELETED: 1E(tDaaSb t U S D o H S U SDw s a w p c p t a l o0a t i n l r d t t l m1r2r3( I s s t d n i a f4a5l6c7§8A9i s n i a s p b a c0h1u2B3t4s5r6p7A8C A s i t r d o9r0p f a s a o p s f t r]
+[DELETED: 1Edpr§Nss a i s d i 4 U 1 n t aet0N1§2N3o4C5c6C7§8T a g m i c p t e t9p0a1w2T3S4p5R6N7S8a9C0t]
+[DELETED: 1ESs(2]
