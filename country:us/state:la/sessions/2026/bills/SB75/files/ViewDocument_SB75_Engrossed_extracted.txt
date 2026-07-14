@@ -1,0 +1,193 @@
+Title: SENATE BILL NO. 75
+Official Title: SENATE BILL NO. 75
+Number of Sections: 2
+Source: versions - SB75 Engrossed
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+SLS 26RS-212 ENGROSSED
+2026 Regular Session
+BY SENATOR HODGES
+INFORMATION TECHNOLOGY. Provides for reimbursement to the state for cyber
+reinforcement support provided to noncompliant recipients. (8/1/26)
+1 AN ACT
+2 To enact R.S. 29:726(E)(31), relative to the Governor's Office of Homeland Security and
+3 Emergency Preparedness; to provide for authority and responsibilities; to require the
+4 office to perform certain functions or to assign functions to another state agency or
+5 department; to provide for promulgation of rules establishing cybersecurity standards
+6 applicable to local governmental subdivisions and political subdivisions that seek
+7 state assistance in response to a cybersecurity incident; to authorize promulgation of
+8 certain emergency rules; and to provide for related matters.
+9 Be it enacted by the Legislature of Louisiana:
+10 Section 1. R.S. 29:726(E)(31) is hereby enacted to read as follows:
+11 §726. Governor's Office of Homeland Security and Emergency Preparedness;
+12 authority and responsibilities
+13 * * *
+14 E. The office shall either directly or through authorized assignment to another
+15 state agency or department:
+16 * * *
+17 (31) Promulgate rules in accordance with the Administrative Procedure
+Page 1 of 3
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+SLS 26RS-212 ENGROSSED
+SB NO. 75
+1 Act establishing cybersecurity standards applicable to local governmental
+2 subdivisions and political subdivisions that seek state assistance in response to
+3 a cybersecurity incident.
+4 (a) The rules shall at a minimum establish cybersecurity standards for
+5 technical management practices that assure cybersecurity compliance with
+6 national cybersecurity standards and set forth eligibility requirements for
+7 receiving state assistance in response to a cybersecurity incident.
+8 (b) Nothing in this Paragraph shall be construed to prevent the
+9 Governor's Office of Homeland Security and Emergency Preparedness from
+10 entering into a contract to provide services to a local governmental subdivision
+11 or political subdivision that is not in compliance with the cybersecurity
+12 standards promulgated pursuant to this Paragraph. Reimbursement of costs
+13 associated with these services shall be the obligation of the noncompliant local
+14 governmental subdivision or political subdivision.
+15 (c) The office may promulgate emergency rules to provide for the initial
+16 implementation of the provisions of this Paragraph.
+17 * * *
+The original instrument and the following digest, which constitutes no part
+of the legislative instrument, were prepared by Senate Legislative Services.
+The keyword, summary, and digest do not constitute part of the law or proof
+or indicia of legislative intent. [R.S. 1:13(B) and 24:177(E)]
+DIGEST
+SB 75 Engrossed 2026 Regular Session Hodges
+Present law provides for the authority and responsibilities of the Governor's Office of
+Homeland Security and Emergency Preparedness (GOHSEP).
+Present law requires GOHSEP to perform certain functions either directly or through
+authorized assignment to another state agency or department.
+Proposed law requires GOHSEP to promulgate rules in accordance with the APA
+establishing cybersecurity standards applicable to local governmental subdivisions and
+political subdivisions that seek state assistance in response to a cybersecurity incident.
+Proposed law requires the rules to establish at a minimum cybersecurity standards for
+technical management practices that assure cybersecurity compliance with national
+cybersecurity standards and set forth eligibility requirements for receiving state assistance
+in response to a cybersecurity incident.
+Page 2 of 3
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+SLS 26RS-212 ENGROSSED
+SB NO. 75
+Proposed law prohibits construction of proposed law that would prevent GOHSEP from
+entering into a contract to provide services to a local governmental subdivision or political
+subdivision that is not in compliance with the cybersecurity standards promulgated pursuant
+to proposed law.
+Proposed law requires reimbursement of costs associated with certain services be the
+obligation of the noncompliant local governmental subdivision or political subdivision.
+Proposed law authorizes the office to use the emergency rulemaking process for the
+promulgation of the initial administrative rules authorized by proposed law.
+Effective August 1, 2026.
+(Adds R.S. 29:726(E)(31))
+Summary of Amendments Adopted by Senate
+Committee Amendments Proposed by Senate Committee on Judiciary B to the
+original bill
+
+Section 2:
+1. Make technical changes.
+Page 3 of 3
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+[DELETED: 2E T P f r t t s f cATEodascB0S1§ G O o H S a E P2a3*4E5s6*7(]
+[DELETED: 2EA e c s a t l gsa(t m p a c wn c s a s f e r fr( N i t P s b c t p tG0e1o p s t i n i c w t c2s3a4g5(6i7*d2nH l r G t p c f e d o t l r G t p r i a w t A c s l a m p t a c c w n]
+[DELETED: 2E l r r o c a w c s b t l a t o t u t e r p f t.M]
+
+
+================================================================================
+
+Raw Text:
+SLS 26RS-212 ENGROSSED
+2026 Regular Session
+SENATE BILL NO. 75
+BY SENATOR HODGES
+INFORMATION TECHNOLOGY. Provides for reimbursement to the state for cyber
+reinforcement support provided to noncompliant recipients. (8/1/26)
+1 AN ACT
+2 To enact R.S. 29:726(E)(31), relative to the Governor's Office of Homeland Security and
+3 Emergency Preparedness; to provide for authority and responsibilities; to require the
+4 office to perform certain functions or to assign functions to another state agency or
+5 department; to provide for promulgation of rules establishing cybersecurity standards
+6 applicable to local governmental subdivisions and political subdivisions that seek
+7 state assistance in response to a cybersecurity incident; to authorize promulgation of
+8 certain emergency rules; and to provide for related matters.
+9 Be it enacted by the Legislature of Louisiana:
+10 Section 1. R.S. 29:726(E)(31) is hereby enacted to read as follows:
+11 §726. Governor's Office of Homeland Security and Emergency Preparedness;
+12 authority and responsibilities
+13 * * *
+14 E. The office shall either directly or through authorized assignment to another
+15 state agency or department:
+16 * * *
+17 (31) Promulgate rules in accordance with the Administrative Procedure
+Page 1 of 3
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-212 ENGROSSED
+SB NO. 75
+1 Act establishing cybersecurity standards applicable to local governmental
+2 subdivisions and political subdivisions that seek state assistance in response to
+3 a cybersecurity incident.
+4 (a) The rules shall at a minimum establish cybersecurity standards for
+5 technical management practices that assure cybersecurity compliance with
+6 national cybersecurity standards and set forth eligibility requirements for
+7 receiving state assistance in response to a cybersecurity incident.
+8 (b) Nothing in this Paragraph shall be construed to prevent the
+9 Governor's Office of Homeland Security and Emergency Preparedness from
+10 entering into a contract to provide services to a local governmental subdivision
+11 or political subdivision that is not in compliance with the cybersecurity
+12 standards promulgated pursuant to this Paragraph. Reimbursement of costs
+13 associated with these services shall be the obligation of the noncompliant local
+14 governmental subdivision or political subdivision.
+15 (c) The office may promulgate emergency rules to provide for the initial
+16 implementation of the provisions of this Paragraph.
+17 * * *
+The original instrument and the following digest, which constitutes no part
+of the legislative instrument, were prepared by Senate Legislative Services.
+The keyword, summary, and digest do not constitute part of the law or proof
+or indicia of legislative intent. [R.S. 1:13(B) and 24:177(E)]
+DIGEST
+SB 75 Engrossed 2026 Regular Session Hodges
+Present law provides for the authority and responsibilities of the Governor's Office of
+Homeland Security and Emergency Preparedness (GOHSEP).
+Present law requires GOHSEP to perform certain functions either directly or through
+authorized assignment to another state agency or department.
+Proposed law requires GOHSEP to promulgate rules in accordance with the APA
+establishing cybersecurity standards applicable to local governmental subdivisions and
+political subdivisions that seek state assistance in response to a cybersecurity incident.
+Proposed law requires the rules to establish at a minimum cybersecurity standards for
+technical management practices that assure cybersecurity compliance with national
+cybersecurity standards and set forth eligibility requirements for receiving state assistance
+in response to a cybersecurity incident.
+Page 2 of 3
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-212 ENGROSSED
+SB NO. 75
+Proposed law prohibits construction of proposed law that would prevent GOHSEP from
+entering into a contract to provide services to a local governmental subdivision or political
+subdivision that is not in compliance with the cybersecurity standards promulgated pursuant
+to proposed law.
+Proposed law requires reimbursement of costs associated with certain services be the
+obligation of the noncompliant local governmental subdivision or political subdivision.
+Proposed law authorizes the office to use the emergency rulemaking process for the
+promulgation of the initial administrative rules authorized by proposed law.
+Effective August 1, 2026.
+(Adds R.S. 29:726(E)(31))
+Summary of Amendments Adopted by Senate
+Committee Amendments Proposed by Senate Committee on Judiciary B to the
+original bill
+1. Make technical changes.
+Page 3 of 3
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+[DELETED: 2E T P f r t t s f cATEodascB0S1§ G O o H S a E P2a3*4E5s6*7(]
+[DELETED: 2EA e c s a t l gsa(t m p a c wn c s a s f e r fr( N i t P s b c t p tG0e1o p s t i n i c w t c2s3a4g5(6i7*d2nH l r G t p c f e d o t l r G t p r i a w t A c s l a m p t a c c w n]
+[DELETED: 2E l r r o c a w c s b t l a t o t u t e r p f t.M]

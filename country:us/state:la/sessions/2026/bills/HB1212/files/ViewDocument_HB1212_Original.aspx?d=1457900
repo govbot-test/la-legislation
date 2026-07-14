@@ -1,0 +1,191 @@
+HLS 26RS-2698 ORIGINAL
+2026 Regular Session
+HOUSE BILL NO. 1212
+BY REPRESENTATIVE CREWS
+INFRASTRUCTURE: Provides relative to the evaluation of transformers
+1 AN ACT
+2 To amend and reenact R.S. 44:4.1(B)(36) and to enact Chapter 70 of Title 51 of the
+3 Louisiana Revised Statutes of 1950, to be comprised of R.S. 51:3301, relative to
+4 evaluation of transformers; to provide for a public records exception; to provide
+5 definitions; to provide relative to a technical assessment of covered equipment; to
+6 provide for a report on technical assessments; and to provide for related matters.
+7 Be it enacted by the Legislature of Louisiana:
+8 Section 1. R.S. 44:4.1(B)(36) is hereby amended and reenacted to read as follows:
+9 §4.1. Exceptions
+10 * * *
+11 B. The legislature further recognizes that there exist exceptions, exemptions,
+12 and limitations to the laws pertaining to public records throughout the revised
+13 statutes and codes of this state. Therefore, the following exceptions, exemptions, and
+14 limitations are hereby continued in effect by incorporation into this Chapter by
+15 citation:
+16 * * *
+17 (36) R.S. 51:710.2(B), 705, 706, 936, 1363.1, 1404, 1926, 1934, 2113, 2182,
+18 2262, 2318, 2370.3, 2370.16, 2370.25, 2370.27, 2389, 3301
+19 * * *
+Page 1 of 6
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-2698 ORIGINAL
+HB NO. 1212
+1 Section 2. Chapter 70 of Title 51 of the Louisiana Revised Statutes of 1950,
+2 comprised of R.S. 51:3301, is hereby enacted to read as follows:
+3 CHAPTER 70: SURVEY ALL VULNERABLE ELECTRIC TRANSFORMERS ACT
+4 §3301. SAVE Act
+5 A. For the purposes of this Chapter, the following terms have the meanings
+6 ascribed to them:
+7 (1) "Covered entity" means an electric utility or electric project developer,
+8 owner, or operator within this state, regardless of public or private ownership or
+9 jurisdiction under NERC.
+10 (2) "Covered equipment" means any generation or transmission large power
+11 transformer, including GSU, auto, step-down, or converter, with a high side,
+12 wye-grounded winding with terminal voltage of two hundred kilovolts or greater.
+13 (3) "Critical energy infrastructure information protocols", "critical electric
+14 infrastructure information protocols", or "CEII" means specific engineering,
+15 vulnerability, or detailed design protocols and procedures related to proposed or
+16 existing critical infrastructure, whether physical or virtual, that relate to the
+17 production, generation, transmission, transportation, or distribution of energy, the
+18 unauthorized disclosure of which could pose a risk to the security, reliability, or
+19 integrity of the infrastructure. The protocols are designed as confidential and exempt
+20 from public disclosure.
+21 (4) "GIC" means ground induced current, also known as geomagnetically
+22 induced current, resulting from naturally occurring geomagnetic disturbances or the
+23 late-time component of a high-altitude nuclear electromagnetic pulse.
+24 (5) "NERC" means the North American Electric Reliability Corporation.
+25 B.(1) Each covered entity shall conduct a technical assessment of all covered
+26 equipment to determine vulnerability to GICs.
+27 (2) The assessment shall do all of the following:
+28 (a) Utilize the waveform in Figure 9 of IEC 61000-2-9, Edition 2.0
+29 (2025-05), modeling a peak electric field of eighty five volts per kilometer in
+Page 2 of 6
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-2698 ORIGINAL
+HB NO. 1212
+1 covered entities existing DC circuit model developed for NERC GMD, or
+2 geomagnetic disturbance, Standard TPL-007.
+3 (b) Assume transformers are fully loaded during GIC exposure.
+4 (c) Account for transformer age and condition using American National
+5 Standards Institute/Institute of Electrical and Electronics Engineers Standard
+6 C57.110 and Institute of Electrical and Electronics Engineers Standard C57.91.
+7 (d) Identify susceptibility to half-cycle saturation, GIC-induced harmonics,
+8 reactive power consumption, hot spot generation, and insulation degradation.
+9 C.(1) By October 30, 2026, each covered entity shall submit a report on the
+10 assessment conducted pursuant to this Chapter to the Governor's Office of Homeland
+11 Security and Emergency Preparedness with copies to the Public Service Commission
+12 and the United States Department of Energy.
+13 (2) The report shall include, for each susceptible transformer, all of the
+14 following:
+15 (a) Transformer nameplate information with design specifications.
+16 (b) Transformer location.
+17 (c) Transformer purpose, including GSU, auto, step-down, or converter.
+18 (d) Spreadsheet-formatted data and narrative analysis, including maximum
+19 GIC in the neutral of each transformer.
+20 (e) Recommended solutions to protect the grid against GIC by preventing or
+21 reducing the half cycle saturation of transformers.
+22 (f) Total cost to implement GIC protection hardware on susceptible
+23 transformers.
+24 (g) Priority list of transformers by damage risk and critical infrastructure
+25 impact.
+26 (h) Funding recommendations to protect at-risk transformers, including but
+27 not limited to any of the following potential options:
+28 (i) Government grants and direct funding programs, such as grid resilience
+29 utility and industry grants, grid modernization grants, grid innovation program
+Page 3 of 6
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-2698 ORIGINAL
+HB NO. 1212
+1 grants, formula grants for preventing outages, and building resilient infrastructure
+2 and communities, or BRIC, grants.
+3 (ii) Loans and loan guarantees.
+4 (iii) Regulatory and cost recovery mechanisms.
+5 (iv) Tariffs and rebates.
+6 (v) Tax credits and direct pay incentives.
+7 (3) A public version of the report outlined in this Subsection shall be
+8 submitted to the House of Representatives Select Committee on Homeland Security
+9 with CEII redacted.
+10 D. CEII data submitted pursuant to this Chapter shall be handled in
+11 accordance with CEII protocols as defined in this Chapter. CEII shall be redacted
+12 from public reports.
+13 E. The director of the Governor's Office of Homeland Security and
+14 Emergency Preparedness shall review the reports and recommendations of the
+15 utilities, request further information as deemed necessary, and report to the governor
+16 and the House of Representatives Select Committee on Homeland Security by April
+17 1, 2027, with any recommendations to protect the state, its inhabitants, and
+18 businesses.
+19 F. Covered entities shall not rely solely on operational procedures, such as
+20 load shedding or reactive power supply, to mitigate GIC risk. Such procedures are
+21 not considered sufficient protection pursuant to this Chapter.
+22 Section 3. This Act shall be known as and may be cited as the "Survey All
+23 Vulnerable Electric Transformers Act" or "SAVE Act".
+DIGEST
+The digest printed below was prepared by House Legislative Services. It constitutes no part
+of the legislative instrument. The keyword, one-liner, abstract, and digest do not constitute
+part of the law or proof or indicia of legislative intent. [R.S. 1:13(B) and 24:177(E)]
+HB 1212 Original 2026 Regular Session Crews
+Abstract: Provides relative to the assessment of transformers.
+Present law provides relative to public record exceptions.
+Page 4 of 6
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-2698 ORIGINAL
+HB NO. 1212
+Proposed law adds proposed law to the public record exceptions.
+Proposed law defines "covered entity", "covered equipment", "critical energy infrastructure
+information protocols", "critical electric infrastructure information protocol", "GIC", and
+"NERC".
+Proposed law requires each covered entity to conduct a technical assessment of all covered
+equipment to determine vulnerability to ground induced currents (GICs).
+Proposed law requires each covered entity to submit a report on the assessment conducted
+pursuant to proposed law to the Governor's Office of Homeland Security and Emergency
+Preparedness (GOHSEP). Proposed law also requires that copies of the report be sent to the
+Public Service Commission and the United States Department of Energy.
+Proposed law requires that the aforementioned report be sent by Oct. 30, 2026.
+Proposed law requires the report to include, for each susceptible transformer, all of the
+following:
+(1) Transformer nameplate information with design specifications.
+(2) Transformer location.
+(3) Transformer purpose, including GSU, auto, step-down, or converter.
+(4) Spreadsheet-formatted data and narrative analysis, including maximum GIC in the
+neutral of each transformer.
+(5) Recommended solutions to protect the grid against GIC by preventing or reducing
+the half cycle saturation of transformers.
+(6) Total cost to implement GIC protection hardware on susceptible transformers.
+(7) Priority list of transformers by damage risk and critical infrastructure impact.
+(8) Funding recommendations to protect at-risk transformers, including but not limited
+to potential options provided for in proposed law (R.S. 51:3301(C)(2)(h)(i) - (v)).
+Proposed law requires a public version of the assessment report to be submitted to the House
+of Representatives Select Committee on Homeland Security with Critical Energy
+Infrastructure Information (CEII) redacted.
+Proposed law further requires the CEII data submitted to be handled in accordance with the
+CEII protocols provided for in proposed law.
+Proposed law requires the director of GOHSEP to do all of the following:
+(1) Review the reports and recommendations of the utilities.
+(2) Request further information as deemed necessary.
+(3) Report to the governor and the House of Representatives Select Committee on
+Homeland Security any recommendations to protect the state, its inhabitants, and
+businesses. Proposed law further requires this report to be submit by April 1, 2027.
+Proposed law states that covered entities shall not rely solely on operational procedures, such
+as load shedding or reactive power supply, to mitigate GIC risk. Proposed law further states
+that such procedures are not considered sufficient protection pursuant to proposed law.
+Page 5 of 6
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-2698 ORIGINAL
+HB NO. 1212
+(Amends R.S. 44:4.1(B)(36); Adds R.S. 51:3301)
+Page 6 of 6
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+[DELETED: 8O a a 4 e o T 5 o t t t l p t p r t t r]
+[DELETED: 8O 2  C o T 5 o t L R S o 1 i G a s o c w a h s i p o " m s e c i w p o v t r t t  U t w i F 9 o I 6 E 2 m a p e f o e f v p k i]
+[DELETED: 8O e e D c m d f N G o I o E a E E S  T c t i G p h o s a i g g m g g i p]
+[DELETED: 8O p v t r i t S b  C d s p t t C s b h i  T d o t G O o H S a 2 w a r t p t s i i a 3  T A s b k a a m b c a t " Al2nC]
+[DELETED: 8O)T)T)T)S)R)T)P)F R S C o H S w C E)R)R)R]
+[DELETED: 8O]

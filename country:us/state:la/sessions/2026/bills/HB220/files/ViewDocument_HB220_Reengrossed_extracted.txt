@@ -1,0 +1,428 @@
+Title: HOUSE BILL NO. 220
+Official Title: HOUSE BILL NO. 220
+Number of Sections: 4
+Source: versions - HB220 Reengrossed
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+HLS 26RS-80 REENGROSSED
+2026 Regular Session
+BY REPRESENTATIVE SCHLEGEL
+COMMERCIAL REGULATIONS: Provides relative to reporting child exploitation on
+covered platforms
+1 AN ACT
+2 To enact Chapter 20-B of Title 51 of the Louisiana Revised Statutes of 1950, to be
+3 comprised of R.S. 51:1780.1 through 1780.3, relative to reporting child exploitation
+4 on covered platforms; to provide for definitions; to provide for a reporting
+5 mechanism on covered platforms; to provide for penalties; to provide for duties of
+6 the attorney general; and to provide for related matters.
+7 Be it enacted by the Legislature of Louisiana:
+8 Section 1. Chapter 20-B of Title 51 of the Louisiana Revised Statutes of 1950,
+9 comprised of R.S. 51:1780.1 through 1780.3, is hereby enacted to read as follows:
+10 CHAPTER 20-B. PLATFORMS REPORTING ONLINE TRAFFICKING,
+11 ENTICEMENT, AND EXPLOITATION OF CHILDREN TIMELY
+12 §1780.1. Definitions
+13 As used in this Chapter, the following terms have the following meanings:
+14 (1) "Clear and conspicuous" means presented in a manner that an ordinary
+15 user can easily recognize, read, and understand.
+16 (2)(a) "Covered platform" means an online platform, online video game,
+17 messaging application, or video streaming service that accesses the internet.
+18 (b) "Covered platform" does not include any of the following:
+19 (i) An entity acting in its capacity as a provider of a common carrier service
+20 subject to the Communications Act of 1934, 47 U.S.C. 151 et seq.
+Page 1 of 6
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-80 REENGROSSED
+HB NO. 220
+1 (ii) An entity providing broadband internet access service as defined in 47
+2 CFR 54.400.
+3 (iii) An entity acting in its capacity as a provider of an email service.
+4 (iv) An entity acting in its capacity as a teleconferencing or video
+5 conferencing service that allows reception and transmission of audio or video signals
+6 for real-time communication if the service is not an online platform and the real-time
+7 communication is initiated by using a unique link or identifier to facilitate access.
+8 (v) An entity acting in its capacity as a wireless messaging service, including
+9 a service provided through short messaging service or multimedia messaging service
+10 protocols that is not a component of or linked to an online platform and where the
+11 exclusive function is direct messaging consisting of the transmission of texts, photos,
+12 or videos that are sent by electronic means, where messages are transmitted from the
+13 sender to a recipient.
+14 (vi) A nonprofit corporation.
+15 (vii) A school.
+16 (viii) A public library.
+17 (ix) A news or sports coverage website or application where the inclusion
+18 of video, image, or other visual content on the website or application is related
+19 primarily to the website or application's own gathering, reporting, or publishing of
+20 news content or sports coverage and the website or application is not otherwise an
+21 online platform.
+22 (x) A product or service that primarily functions as business-to-business
+23 software, such as cloud storage, file sharing, or a file collaboration service.
+24 (xi) A virtual private network or similar service that exists predominantly to
+25 route internet traffic between locations.
+26 (xii) A federal, state, or local government with an internet domain.
+27 (xiii) A video streaming service that consists primarily of entertainment or
+28 other information or content that is not user-generated or user-uploaded, but is
+29 preselected by the provider.
+Page 2 of 6
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-80 REENGROSSED
+HB NO. 220
+1 (xiv) An entity where the predominant or exclusive function is providing or
+2 obtaining technical support for a platform, product, or service.
+3 (3)(a) "Online platform" means any public website, online service, online
+4 application, or mobile application that predominantly provides a community forum
+5 for user-generated content, such as sharing videos, images, games, audio files, or
+6 other content, including a social media service, social network, or virtual reality
+7 environment.
+8 (b) A website, online service, online application, or mobile application is not
+9 considered an online platform solely because it includes a chat, comment, or other
+10 interactive function that is incidental to and not a primary function of the service's
+11 predominant purpose, if such service does not knowingly permit users to upload,
+12 post, transmit, host, or otherwise make available sexually explicit material, as
+13 defined in R.S. 25:225, and maintains reasonable and appropriate measures to
+14 prevent the dissemination of such material.
+15 (4) "Online video game" means a video game, including an educational
+16 video game, that accesses the internet and allows the user to create and upload
+17 content that is not incidental to game play such as character or level designs.
+18 (5) "Report mechanism" means an electronic feature that allows a user to
+19 easily notify the covered platform about suspected child sexual abuse material, or
+20 other instances of child exploitation listed in 34 U.S.C. 11293(b)(1)(K)(i)(I),
+21 appearing on or transmitted through the platform.
+22 §1780.2. Report mechanism
+23 A.(1) A covered platform that allows users to create, share, or view
+24 user-generated content shall provide clear and conspicuous instructions and a clear
+25 and conspicuous method for users to report suspected child sexual abuse material,
+26 or other instances of child sexual exploitation listed in 34 U.S.C.
+27 11293(b)(1)(K)(i)(I), appearing on or transmitted through the platform.
+28 (2) The report mechanism shall meet all of the following requirements:
+29 (a) Be clear and conspicuous.
+Page 3 of 6
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-80 REENGROSSED
+HB NO. 220
+1 (b) Be readily locatable and usable through the covered platform's user
+2 interface.
+3 (c) Be clearly labeled using plain language such as "Report Child Sexual
+4 Exploitation" or similar wording.
+5 (d) Allow the report to be submitted without requiring the reporting user to
+6 register for an account.
+7 (e) Generate an acknowledgment to the reporting user confirming that the
+8 report has been received.
+9 B. The covered platform shall comply with federal law as required pursuant
+10 to 18 U.S.C. 2258A.
+11 C. For purposes of this Section, a covered platform provides a report
+12 mechanism only if the instructions and mechanism are clear and conspicuous and are
+13 not designed, configured, or implemented in a manner that materially impedes a
+14 reasonable user from locating or using the report mechanism.
+15 §1780.3. Penalties
+16 A.(1) Any covered platform that does not provide a reporting mechanism as
+17 required by this Chapter shall be subject to civil penalties as provided in this Section.
+18 (2) The attorney general may conduct an investigation of the alleged
+19 violation and initiate a civil action in the Nineteenth Judicial District Court for the
+20 parish of East Baton Rouge on behalf of the state to assess civil penalties. Prior to
+21 asserting a cause of action, the attorney general shall provide the covered platform
+22 with a period of time of not less than thirty days to comply with this Chapter.
+23 B.(1) Any covered platform that violates this Chapter may be liable for a
+24 civil penalty, to be assessed by the court, of not more than five thousand dollars for
+25 each day of violation to be paid to the Department of Justice, in order to fund the
+26 investigation of cyber crimes involving the exploitation of children. In addition to
+27 the remedies provided in this Section, the attorney general may request and the court
+28 may impose an additional civil penalty not to exceed ten thousand dollars for each
+29 violation of this Chapter against any covered platform found by the court to have not
+Page 4 of 6
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-80 REENGROSSED
+HB NO. 220
+1 provided a reporting mechanism as required by this Chapter. The civil penalty shall
+2 be paid to the Department of Justice in order to fund the investigation of cyber
+3 crimes involving the exploitation of children.
+4 (2) Each violation may be treated as a separate violation or may be combined
+5 into one violation at the option of the attorney general.
+6 (3) Any covered platform that violates this Chapter may be liable to the
+7 attorney general for all costs, expenses, and fees related to investigations and
+8 proceedings associated with the violation, including attorney fees.
+9 (4) If the court assesses a civil penalty pursuant to this Chapter, the
+10 Department of Justice shall be entitled to legal interest as provided in R.S. 9:3500
+11 from the date of imposition of the penalty until paid in full.
+12 Section 2. This Act shall be referred to as the Platforms Reporting Online
+13 Trafficking, Enticement, and Exploitation of Children Timely, or the "PROTECT" Act.
+DIGEST
+The digest printed below was prepared by House Legislative Services. It constitutes no part
+of the legislative instrument. The keyword, one-liner, abstract, and digest do not constitute
+part of the law or proof or indicia of legislative intent. [R.S. 1:13(B) and 24:177(E)]
+HB 220 Reengrossed 2026 Regular Session Schlegel
+Abstract: Provides relative to reporting child exploitation on covered platforms.
+Proposed law requires covered platforms to provide reporting mechanisms for child
+exploitation.
+Proposed law defines "clear and conspicuous", "covered platform", online platform", "online
+video game", and "report mechanism".
+Proposed law requires that a covered platform that allows users to create, share, or view
+user-generated content provide clear and conspicuous instructions and a clear and
+conspicuous method for users to report suspected child sexual abuse material, or other
+instances of child sexual exploitation listed in present law, appearing on or transmitted
+through the platform.
+Proposed law provides for the requirements of the reporting mechanism.
+Proposed law provides that any covered platform that does not provide a reporting
+mechanism as required by proposed law shall be subject to civil penalties.
+Proposed law provides that the attorney general may conduct an investigation of the alleged
+violation and initiate a civil action in the 19th Judicial District Court on behalf of the state
+to assess civil penalties. Prior to asserting a cause of action, the attorney general shall
+Page 5 of 6
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-80 REENGROSSED
+HB NO. 220
+provide the commercial entity with a period of time of not less than 30 days to comply with
+proposed law.
+Proposed law provides that the covered platforms may be liable for certain civil penalties
+for violations of proposed law, to be assessed by the court, to be paid to the Dept. of Justice,
+in order to fund the investigation of cyber crimes involving the exploitation of children.
+Proposed law states that each violation may be treated as a separate violation or may be
+combined into one violation at the option of the attorney general.
+Proposed law provides that any covered platform that violates proposed law may be liable
+to the attorney general for all costs, expenses, and fees related to investigations and
+proceedings associated with the violation, including attorney fees.
+(Adds R.S. 51:1780.1-1780.3)
+Summary of Amendments Adopted by House
+The Committee Amendments Proposed by House Committee on Commerce to the
+original bill:
+
+Section 2:
+1. Make technical changes.
+
+Section 3:
+2. Add that a covered platform does not include an entity where the predominant
+or exclusive function is providing or obtaining technical support for a platform,
+product, or service.
+
+Section 4:
+3. Clarify that a report mechanism means an electronic feature that allows a user to
+easily notify the platform about suspected child sexual abuse material.
+Page 6 of 6
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+[DELETED: 0R e C 2 o T 5 o t L R S o 1 t b c p t p f d t p f a r]
+[DELETED: 0R  A e a i i c a a t o v]
+[DELETED: 0R t h o o m a s e m a i R 2 a m r a a m t i o c e l i 3 U 1  A c p t a u t c s o v o i o c s e l i 3 U]
+[DELETED: 0R  F p o t S a c p p a r  T a g m c a i o t a]
+[DELETED: 0R g f a c e a f r t i a  I t c a a c p p t t C t 2  T A s b r t a t P R Od2nS l r c p t p r m f c c p c a c i a a c a l p t a c p t d n p a r]
+[DELETED: 0R t a g f a c e a f r t i a.M.A.C]
+
+
+================================================================================
+
+Raw Text:
+HLS 26RS-80 REENGROSSED
+2026 Regular Session
+HOUSE BILL NO. 220
+BY REPRESENTATIVE SCHLEGEL
+COMMERCIAL REGULATIONS: Provides relative to reporting child exploitation on
+covered platforms
+1 AN ACT
+2 To enact Chapter 20-B of Title 51 of the Louisiana Revised Statutes of 1950, to be
+3 comprised of R.S. 51:1780.1 through 1780.3, relative to reporting child exploitation
+4 on covered platforms; to provide for definitions; to provide for a reporting
+5 mechanism on covered platforms; to provide for penalties; to provide for duties of
+6 the attorney general; and to provide for related matters.
+7 Be it enacted by the Legislature of Louisiana:
+8 Section 1. Chapter 20-B of Title 51 of the Louisiana Revised Statutes of 1950,
+9 comprised of R.S. 51:1780.1 through 1780.3, is hereby enacted to read as follows:
+10 CHAPTER 20-B. PLATFORMS REPORTING ONLINE TRAFFICKING,
+11 ENTICEMENT, AND EXPLOITATION OF CHILDREN TIMELY
+12 §1780.1. Definitions
+13 As used in this Chapter, the following terms have the following meanings:
+14 (1) "Clear and conspicuous" means presented in a manner that an ordinary
+15 user can easily recognize, read, and understand.
+16 (2)(a) "Covered platform" means an online platform, online video game,
+17 messaging application, or video streaming service that accesses the internet.
+18 (b) "Covered platform" does not include any of the following:
+19 (i) An entity acting in its capacity as a provider of a common carrier service
+20 subject to the Communications Act of 1934, 47 U.S.C. 151 et seq.
+Page 1 of 6
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-80 REENGROSSED
+HB NO. 220
+1 (ii) An entity providing broadband internet access service as defined in 47
+2 CFR 54.400.
+3 (iii) An entity acting in its capacity as a provider of an email service.
+4 (iv) An entity acting in its capacity as a teleconferencing or video
+5 conferencing service that allows reception and transmission of audio or video signals
+6 for real-time communication if the service is not an online platform and the real-time
+7 communication is initiated by using a unique link or identifier to facilitate access.
+8 (v) An entity acting in its capacity as a wireless messaging service, including
+9 a service provided through short messaging service or multimedia messaging service
+10 protocols that is not a component of or linked to an online platform and where the
+11 exclusive function is direct messaging consisting of the transmission of texts, photos,
+12 or videos that are sent by electronic means, where messages are transmitted from the
+13 sender to a recipient.
+14 (vi) A nonprofit corporation.
+15 (vii) A school.
+16 (viii) A public library.
+17 (ix) A news or sports coverage website or application where the inclusion
+18 of video, image, or other visual content on the website or application is related
+19 primarily to the website or application's own gathering, reporting, or publishing of
+20 news content or sports coverage and the website or application is not otherwise an
+21 online platform.
+22 (x) A product or service that primarily functions as business-to-business
+23 software, such as cloud storage, file sharing, or a file collaboration service.
+24 (xi) A virtual private network or similar service that exists predominantly to
+25 route internet traffic between locations.
+26 (xii) A federal, state, or local government with an internet domain.
+27 (xiii) A video streaming service that consists primarily of entertainment or
+28 other information or content that is not user-generated or user-uploaded, but is
+29 preselected by the provider.
+Page 2 of 6
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-80 REENGROSSED
+HB NO. 220
+1 (xiv) An entity where the predominant or exclusive function is providing or
+2 obtaining technical support for a platform, product, or service.
+3 (3)(a) "Online platform" means any public website, online service, online
+4 application, or mobile application that predominantly provides a community forum
+5 for user-generated content, such as sharing videos, images, games, audio files, or
+6 other content, including a social media service, social network, or virtual reality
+7 environment.
+8 (b) A website, online service, online application, or mobile application is not
+9 considered an online platform solely because it includes a chat, comment, or other
+10 interactive function that is incidental to and not a primary function of the service's
+11 predominant purpose, if such service does not knowingly permit users to upload,
+12 post, transmit, host, or otherwise make available sexually explicit material, as
+13 defined in R.S. 25:225, and maintains reasonable and appropriate measures to
+14 prevent the dissemination of such material.
+15 (4) "Online video game" means a video game, including an educational
+16 video game, that accesses the internet and allows the user to create and upload
+17 content that is not incidental to game play such as character or level designs.
+18 (5) "Report mechanism" means an electronic feature that allows a user to
+19 easily notify the covered platform about suspected child sexual abuse material, or
+20 other instances of child exploitation listed in 34 U.S.C. 11293(b)(1)(K)(i)(I),
+21 appearing on or transmitted through the platform.
+22 §1780.2. Report mechanism
+23 A.(1) A covered platform that allows users to create, share, or view
+24 user-generated content shall provide clear and conspicuous instructions and a clear
+25 and conspicuous method for users to report suspected child sexual abuse material,
+26 or other instances of child sexual exploitation listed in 34 U.S.C.
+27 11293(b)(1)(K)(i)(I), appearing on or transmitted through the platform.
+28 (2) The report mechanism shall meet all of the following requirements:
+29 (a) Be clear and conspicuous.
+Page 3 of 6
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-80 REENGROSSED
+HB NO. 220
+1 (b) Be readily locatable and usable through the covered platform's user
+2 interface.
+3 (c) Be clearly labeled using plain language such as "Report Child Sexual
+4 Exploitation" or similar wording.
+5 (d) Allow the report to be submitted without requiring the reporting user to
+6 register for an account.
+7 (e) Generate an acknowledgment to the reporting user confirming that the
+8 report has been received.
+9 B. The covered platform shall comply with federal law as required pursuant
+10 to 18 U.S.C. 2258A.
+11 C. For purposes of this Section, a covered platform provides a report
+12 mechanism only if the instructions and mechanism are clear and conspicuous and are
+13 not designed, configured, or implemented in a manner that materially impedes a
+14 reasonable user from locating or using the report mechanism.
+15 §1780.3. Penalties
+16 A.(1) Any covered platform that does not provide a reporting mechanism as
+17 required by this Chapter shall be subject to civil penalties as provided in this Section.
+18 (2) The attorney general may conduct an investigation of the alleged
+19 violation and initiate a civil action in the Nineteenth Judicial District Court for the
+20 parish of East Baton Rouge on behalf of the state to assess civil penalties. Prior to
+21 asserting a cause of action, the attorney general shall provide the covered platform
+22 with a period of time of not less than thirty days to comply with this Chapter.
+23 B.(1) Any covered platform that violates this Chapter may be liable for a
+24 civil penalty, to be assessed by the court, of not more than five thousand dollars for
+25 each day of violation to be paid to the Department of Justice, in order to fund the
+26 investigation of cyber crimes involving the exploitation of children. In addition to
+27 the remedies provided in this Section, the attorney general may request and the court
+28 may impose an additional civil penalty not to exceed ten thousand dollars for each
+29 violation of this Chapter against any covered platform found by the court to have not
+Page 4 of 6
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-80 REENGROSSED
+HB NO. 220
+1 provided a reporting mechanism as required by this Chapter. The civil penalty shall
+2 be paid to the Department of Justice in order to fund the investigation of cyber
+3 crimes involving the exploitation of children.
+4 (2) Each violation may be treated as a separate violation or may be combined
+5 into one violation at the option of the attorney general.
+6 (3) Any covered platform that violates this Chapter may be liable to the
+7 attorney general for all costs, expenses, and fees related to investigations and
+8 proceedings associated with the violation, including attorney fees.
+9 (4) If the court assesses a civil penalty pursuant to this Chapter, the
+10 Department of Justice shall be entitled to legal interest as provided in R.S. 9:3500
+11 from the date of imposition of the penalty until paid in full.
+12 Section 2. This Act shall be referred to as the Platforms Reporting Online
+13 Trafficking, Enticement, and Exploitation of Children Timely, or the "PROTECT" Act.
+DIGEST
+The digest printed below was prepared by House Legislative Services. It constitutes no part
+of the legislative instrument. The keyword, one-liner, abstract, and digest do not constitute
+part of the law or proof or indicia of legislative intent. [R.S. 1:13(B) and 24:177(E)]
+HB 220 Reengrossed 2026 Regular Session Schlegel
+Abstract: Provides relative to reporting child exploitation on covered platforms.
+Proposed law requires covered platforms to provide reporting mechanisms for child
+exploitation.
+Proposed law defines "clear and conspicuous", "covered platform", online platform", "online
+video game", and "report mechanism".
+Proposed law requires that a covered platform that allows users to create, share, or view
+user-generated content provide clear and conspicuous instructions and a clear and
+conspicuous method for users to report suspected child sexual abuse material, or other
+instances of child sexual exploitation listed in present law, appearing on or transmitted
+through the platform.
+Proposed law provides for the requirements of the reporting mechanism.
+Proposed law provides that any covered platform that does not provide a reporting
+mechanism as required by proposed law shall be subject to civil penalties.
+Proposed law provides that the attorney general may conduct an investigation of the alleged
+violation and initiate a civil action in the 19th Judicial District Court on behalf of the state
+to assess civil penalties. Prior to asserting a cause of action, the attorney general shall
+Page 5 of 6
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-80 REENGROSSED
+HB NO. 220
+provide the commercial entity with a period of time of not less than 30 days to comply with
+proposed law.
+Proposed law provides that the covered platforms may be liable for certain civil penalties
+for violations of proposed law, to be assessed by the court, to be paid to the Dept. of Justice,
+in order to fund the investigation of cyber crimes involving the exploitation of children.
+Proposed law states that each violation may be treated as a separate violation or may be
+combined into one violation at the option of the attorney general.
+Proposed law provides that any covered platform that violates proposed law may be liable
+to the attorney general for all costs, expenses, and fees related to investigations and
+proceedings associated with the violation, including attorney fees.
+(Adds R.S. 51:1780.1-1780.3)
+Summary of Amendments Adopted by House
+The Committee Amendments Proposed by House Committee on Commerce to the
+original bill:
+1. Make technical changes.
+2. Add that a covered platform does not include an entity where the predominant
+or exclusive function is providing or obtaining technical support for a platform,
+product, or service.
+3. Clarify that a report mechanism means an electronic feature that allows a user to
+easily notify the platform about suspected child sexual abuse material.
+Page 6 of 6
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+[DELETED: 0R e C 2 o T 5 o t L R S o 1 t b c p t p f d t p f a r]
+[DELETED: 0R  A e a i i c a a t o v]
+[DELETED: 0R t h o o m a s e m a i R 2 a m r a a m t i o c e l i 3 U 1  A c p t a u t c s o v o i o c s e l i 3 U]
+[DELETED: 0R  F p o t S a c p p a r  T a g m c a i o t a]
+[DELETED: 0R g f a c e a f r t i a  I t c a a c p p t t C t 2  T A s b r t a t P R Od2nS l r c p t p r m f c c p c a c i a a c a l p t a c p t d n p a r]
+[DELETED: 0R t a g f a c e a f r t i a.M.A.C]

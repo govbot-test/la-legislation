@@ -1,0 +1,122 @@
+Title: HOUSE BILL NO. 786
+Official Title: HOUSE BILL NO. 786
+Number of Sections: 1
+Source: versions - HB786 Act 569
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+ENROLLED
+ACT No. 569
+2026 Regular Session
+BY REPRESENTATIVE EGAN
+1 AN ACT
+2 To amend and reenact R.S. 46:460.75(C) through (E) and to enact R.S. 46:460.75(F),
+3 relative to the state medical assistance program; to provide for provider claim
+4 payments; to provide for definitions; to prohibit the use of extrapolation; and to
+5 provide for related matters.
+6 Be it enacted by the Legislature of Louisiana:
+7 Section 1. R.S. 46:460.75 (C) through (E) are hereby amended and reenacted and
+8 R.S. 46:460.75(F) is hereby enacted to read as follows:
+9 §460.75. Provider claim payment and information protection
+10 * * *
+11 C.(1) For the purposes of this Section, "extrapolation" means a mathematical
+12 process or technique used by a managed care organization in the audit of a healthcare
+13 provider to estimate audit results or findings for a larger batch or group of claims not
+14 reviewed by the managed care organization.
+15 (2) A managed care organization shall be strictly prohibited from using
+16 extrapolation to complete an audit of a healthcare provider. Any additional payment
+17 due to a healthcare provider or any refund or recoupment due to the managed care
+18 organization shall be based on the actual overpayment or underpayment and shall not
+19 be based on extrapolation.
+20 (3) Nothing in this Subsection shall be interpreted or construed to prevent or
+21 otherwise prohibit the department or the Louisiana Department of Justice of using
+22 extrapolation to complete an audit of a healthcare provider pursuant to existing state
+23 and federal law and regulation.
+Page 1 of 2
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HB NO. 786 ENROLLED
+1 C. D. The provisions of this Section shall not be waived by contract, and any
+2 contractual clause in conflict with the provisions of this Section or that purports to
+3 waive any requirements of this Section is void.
+4 D. E. If the managed care organization, its contracted vendor, or agent
+5 violates any provision of this Section, the department shall impose penalties on the
+6 managed care organization in accordance with contract provisions or rules and
+7 regulations promulgated pursuant to the Administrative Procedure Act, except that
+8 penalties shall be imposed without the necessity of the department having to issue
+9 any prior notice of corrective action.
+10 E. F. As used in this Section, "electronic funds transfer" means an electronic
+11 funds transfer through the federal Health Insurance Portability and Accountability
+12 Act of 1996, P.L. 104-191, standard automated clearinghouse network.
+SPEAKER OF THE HOUSE OF REPRESENTATIVES
+PRESIDENT OF THE SENATE
+GOVERNOR OF THE STATE OF LOUISIANA
+APPROVED:
+Page 2 of 2
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+[DELETED:  4 4 t t s m a p t p f p c]
+[DELETED: 6E a]
+
+
+================================================================================
+
+Raw Text:
+ENROLLED
+ACT No. 569
+2026 Regular Session
+HOUSE BILL NO. 786
+BY REPRESENTATIVE EGAN
+1 AN ACT
+2 To amend and reenact R.S. 46:460.75(C) through (E) and to enact R.S. 46:460.75(F),
+3 relative to the state medical assistance program; to provide for provider claim
+4 payments; to provide for definitions; to prohibit the use of extrapolation; and to
+5 provide for related matters.
+6 Be it enacted by the Legislature of Louisiana:
+7 Section 1. R.S. 46:460.75 (C) through (E) are hereby amended and reenacted and
+8 R.S. 46:460.75(F) is hereby enacted to read as follows:
+9 §460.75. Provider claim payment and information protection
+10 * * *
+11 C.(1) For the purposes of this Section, "extrapolation" means a mathematical
+12 process or technique used by a managed care organization in the audit of a healthcare
+13 provider to estimate audit results or findings for a larger batch or group of claims not
+14 reviewed by the managed care organization.
+15 (2) A managed care organization shall be strictly prohibited from using
+16 extrapolation to complete an audit of a healthcare provider. Any additional payment
+17 due to a healthcare provider or any refund or recoupment due to the managed care
+18 organization shall be based on the actual overpayment or underpayment and shall not
+19 be based on extrapolation.
+20 (3) Nothing in this Subsection shall be interpreted or construed to prevent or
+21 otherwise prohibit the department or the Louisiana Department of Justice of using
+22 extrapolation to complete an audit of a healthcare provider pursuant to existing state
+23 and federal law and regulation.
+Page 1 of 2
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HB NO. 786 ENROLLED
+1 C. D. The provisions of this Section shall not be waived by contract, and any
+2 contractual clause in conflict with the provisions of this Section or that purports to
+3 waive any requirements of this Section is void.
+4 D. E. If the managed care organization, its contracted vendor, or agent
+5 violates any provision of this Section, the department shall impose penalties on the
+6 managed care organization in accordance with contract provisions or rules and
+7 regulations promulgated pursuant to the Administrative Procedure Act, except that
+8 penalties shall be imposed without the necessity of the department having to issue
+9 any prior notice of corrective action.
+10 E. F. As used in this Section, "electronic funds transfer" means an electronic
+11 funds transfer through the federal Health Insurance Portability and Accountability
+12 Act of 1996, P.L. 104-191, standard automated clearinghouse network.
+SPEAKER OF THE HOUSE OF REPRESENTATIVES
+PRESIDENT OF THE SENATE
+GOVERNOR OF THE STATE OF LOUISIANA
+APPROVED:
+Page 2 of 2
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+[DELETED:  4 4 t t s m a p t p f p c]
+[DELETED: 6E a]
