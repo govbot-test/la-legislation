@@ -1,0 +1,301 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1233",
+  "title": "PUBLIC CONTRACT/BIDS: Provides relative to a contract limit for hospital service districts (EN NO IMPACT   See Note)",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-la-2026-hb1233"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Effective date: 08/01/2026.",
+      "date": "2026-05-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T18:58:44Z"
+      }
+    },
+    {
+      "description": "Signed by the Governor. Becomes Act No. 718.",
+      "date": "2026-05-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "became-law",
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T18:58:44Z"
+      }
+    },
+    {
+      "description": "Sent to the Governor for executive approval.",
+      "date": "2026-05-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T18:58:44Z"
+      }
+    },
+    {
+      "description": "Signed by the President of the Senate.",
+      "date": "2026-05-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T18:58:44Z"
+      }
+    },
+    {
+      "description": "Enrolled and signed by the Speaker of the House.",
+      "date": "2026-05-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "enrolled"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T18:58:44Z"
+      }
+    },
+    {
+      "description": "Received from the Senate without amendments.",
+      "date": "2026-05-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T18:58:44Z"
+      }
+    },
+    {
+      "description": "Rules suspended. Read by title, passed by a vote of 33 yeas and 0 nays, and ordered returned to the House.  Motion to reconsider tabled.",
+      "date": "2026-05-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T18:58:44Z"
+      }
+    },
+    {
+      "description": "Reported without Legislative Bureau amendments.  Read by title and passed to third reading and final passage.",
+      "date": "2026-05-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T18:58:44Z"
+      }
+    },
+    {
+      "description": "Read by title and referred to the Legislative Bureau.",
+      "date": "2026-05-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T18:58:44Z"
+      }
+    },
+    {
+      "description": "Reported favorably.",
+      "date": "2026-05-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T18:58:44Z"
+      }
+    },
+    {
+      "description": "Read second time by title and referred to the Committee on Transportation, Highways and Public Works.",
+      "date": "2026-04-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T18:58:44Z"
+      }
+    },
+    {
+      "description": "Received in the Senate.  Rules suspended.  Read first time by title and placed on the Calendar for a second reading.",
+      "date": "2026-04-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T18:58:44Z"
+      }
+    },
+    {
+      "description": "Read third time by title, roll called on final passage, yeas 97, nays 0. Finally passed, title adopted, ordered to the Senate.",
+      "date": "2026-04-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T18:58:44Z"
+      }
+    },
+    {
+      "description": "Scheduled for floor debate on 04/14/2026.",
+      "date": "2026-04-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T18:58:44Z"
+      }
+    },
+    {
+      "description": "Read by title, ordered engrossed, passed to 3rd reading.",
+      "date": "2026-04-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T18:58:44Z"
+      }
+    },
+    {
+      "description": "Read by title, substitute title adopted, lies over in the same order of business, substitute for HB No. 839 reported by the Committee on Transportation, Highways and Public Works (15-0).",
+      "date": "2026-04-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T18:58:44Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Kimberly Coates",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Kimberly Coates\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "HB1233 Act 718",
+      "links": [
+        {
+          "url": "https://www.legis.la.gov/Legis/ViewDocument.aspx?d=1480674",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HB1233 Enrolled",
+      "links": [
+        {
+          "url": "https://www.legis.la.gov/Legis/ViewDocument.aspx?d=1475512",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HB1233 Engrossed",
+      "links": [
+        {
+          "url": "https://www.legis.la.gov/Legis/ViewDocument.aspx?d=1459741",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HB1233 Original",
+      "links": [
+        {
+          "url": "https://www.legis.la.gov/Legis/ViewDocument.aspx?d=1459618",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Digest of HB1233 Engrossed",
+      "links": [
+        {
+          "url": "https://www.legis.la.gov/Legis/ViewDocument.aspx?d=1459747",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Digest of HB1233 Original",
+      "links": [
+        {
+          "url": "https://www.legis.la.gov/Legis/ViewDocument.aspx?d=1459619",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.legis.la.gov/Legis/BillInfo.aspx?i=251616",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:la/government",
+    "name": "Louisiana",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:la"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T18:58:44Z"
+  }
+}

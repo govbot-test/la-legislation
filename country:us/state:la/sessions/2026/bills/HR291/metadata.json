@@ -1,0 +1,126 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HR291",
+  "title": "COMMENDATIONS: Commends Doris Voitier for more than fifty years of service to St. Bernard Parish public schools",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "resolution"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-la-2026-hr291"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Taken by the Clerk of the House and presented to the Secretary of State in accordance with the Rules of the House.",
+      "date": "2026-05-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T18:58:44Z"
+      }
+    },
+    {
+      "description": "Enrolled and signed by the Speaker of the House.",
+      "date": "2026-05-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "enrolled"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T18:58:44Z"
+      }
+    },
+    {
+      "description": "Read by title, adopted.",
+      "date": "2026-05-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T18:58:44Z"
+      }
+    },
+    {
+      "description": "Read by title.  Lies over under the rules.",
+      "date": "2026-05-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T18:58:44Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Mike Bayham",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Mike Bayham\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "HR291 Enrolled",
+      "links": [
+        {
+          "url": "https://www.legis.la.gov/Legis/ViewDocument.aspx?d=1473842",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HR291 Original",
+      "links": [
+        {
+          "url": "https://www.legis.la.gov/Legis/ViewDocument.aspx?d=1473332",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Digest of HR291 Original",
+      "links": [
+        {
+          "url": "https://www.legis.la.gov/Legis/ViewDocument.aspx?d=1473333",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.legis.la.gov/Legis/BillInfo.aspx?i=251997",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:la/government",
+    "name": "Louisiana",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:la"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T18:58:44Z"
+  }
+}

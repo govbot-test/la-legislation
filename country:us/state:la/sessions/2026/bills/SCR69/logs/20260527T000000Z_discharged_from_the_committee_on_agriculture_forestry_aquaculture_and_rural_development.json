@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Discharged from the Committee on Agriculture, Forestry, Aquaculture, and Rural Development.",
+    "occurred_at": "2026-05-27",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.legis.la.gov/Legis/BillInfo.aspx?i=251968",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SCR69"
+}

@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Read third time by title, roll called on final passage, yeas 74, nays 29. Finally passed, title adopted, ordered to the Senate.",
+    "occurred_at": "2026-03-31",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.legis.la.gov/Legis/BillInfo.aspx?i=250553",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB691"
+}

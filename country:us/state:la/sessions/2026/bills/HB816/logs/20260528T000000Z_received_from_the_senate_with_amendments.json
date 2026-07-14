@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Received from the Senate with amendments.",
+    "occurred_at": "2026-05-28",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "receipt"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.legis.la.gov/Legis/BillInfo.aspx?i=250716",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB816"
+}

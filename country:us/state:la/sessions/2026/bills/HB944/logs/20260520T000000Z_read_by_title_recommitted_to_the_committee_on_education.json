@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Read by title.  Recommitted to the  Committee on Education.",
+    "occurred_at": "2026-05-20",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.legis.la.gov/Legis/BillInfo.aspx?i=250918",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB944"
+}

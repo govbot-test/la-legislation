@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Introduced in the Senate; read by title.  Rules suspended.  Read second time by title and adopted.",
+    "occurred_at": "2026-05-25",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "reading-2"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.legis.la.gov/Legis/BillInfo.aspx?i=252074",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SR154"
+}

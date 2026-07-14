@@ -1,0 +1,222 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB500",
+  "title": "MALPRACTICE: Provides relative to the medical review panel. (8/1/26)",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-la-2026-sb500"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Read by title and returned to the Calendar, subject to call.",
+      "date": "2026-05-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T18:58:47Z"
+      }
+    },
+    {
+      "description": "Rules suspended.  Called from the Calendar.",
+      "date": "2026-05-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T18:58:47Z"
+      }
+    },
+    {
+      "description": "Read by title and returned to the Calendar, subject to call.",
+      "date": "2026-05-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T18:58:47Z"
+      }
+    },
+    {
+      "description": "Senate floor amendments read and adopted.",
+      "date": "2026-05-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T18:58:47Z"
+      }
+    },
+    {
+      "description": "Called from the Calendar.",
+      "date": "2026-05-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T18:58:47Z"
+      }
+    },
+    {
+      "description": "Read by title and returned to the Calendar, subject to call.",
+      "date": "2026-05-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T18:58:47Z"
+      }
+    },
+    {
+      "description": "Read by title.  Ordered engrossed and passed to third reading and final passage.",
+      "date": "2026-04-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T18:58:47Z"
+      }
+    },
+    {
+      "description": "Reported favorably.",
+      "date": "2026-04-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T18:58:47Z"
+      }
+    },
+    {
+      "description": "Read second time by title and referred to the Committee on Judiciary A.",
+      "date": "2026-04-01",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T18:58:47Z"
+      }
+    },
+    {
+      "description": "Rules suspended.  Introduced in the Senate.  Read by title and placed on the Calendar for a second reading.",
+      "date": "2026-03-31",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T18:58:47Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Patrick Connick",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Patrick Connick\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "SB500 Engrossed",
+      "links": [
+        {
+          "url": "https://www.legis.la.gov/Legis/ViewDocument.aspx?d=1466807",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB500 Original",
+      "links": [
+        {
+          "url": "https://www.legis.la.gov/Legis/ViewDocument.aspx?d=1457639",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Senate Floor Amendment, #3308, Connick, Adopted",
+      "links": [
+        {
+          "url": "https://www.legis.la.gov/Legis/ViewDocument.aspx?d=1469351",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Senate Floor Legislative Bureau Amendment, #2985, Miller, G., Adopted",
+      "links": [
+        {
+          "url": "https://www.legis.la.gov/Legis/ViewDocument.aspx?d=1467778",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Digest of SB500 Engrossed",
+      "links": [
+        {
+          "url": "https://www.legis.la.gov/Legis/ViewDocument.aspx?d=1467747",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Digest of SB500 Original",
+      "links": [
+        {
+          "url": "https://www.legis.la.gov/Legis/ViewDocument.aspx?d=1457641",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.legis.la.gov/Legis/BillInfo.aspx?i=251496",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:la/government",
+    "name": "Louisiana",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:la"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T18:58:47Z"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Senate Committee amendments read and adopted.",
+    "occurred_at": "2026-04-27",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.legis.la.gov/Legis/BillInfo.aspx?i=250661",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB774"
+}

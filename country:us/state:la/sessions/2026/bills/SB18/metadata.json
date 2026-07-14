@@ -1,0 +1,345 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB18",
+  "title": "MUNICIPAL EMPLOYEE RET: Repeals certain exceptions for retirement benefits of retirees who return to part-time employment in a position covered by the system. (2/3-CA10s(29)(F)) (8/1/26) (EN SEE ACTUARIAL NOTE APV)",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-la-2026-sb18"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Effective date 8/1/2026.",
+      "date": "2026-05-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T18:58:43Z"
+      }
+    },
+    {
+      "description": "Signed by the Governor. Becomes Act No. 228.",
+      "date": "2026-05-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "became-law",
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T18:58:43Z"
+      }
+    },
+    {
+      "description": "Sent to the Governor by the Secretary of the Senate.",
+      "date": "2026-05-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T18:58:43Z"
+      }
+    },
+    {
+      "description": "Signed by the Speaker of the House.",
+      "date": "2026-05-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T18:58:43Z"
+      }
+    },
+    {
+      "description": "Enrolled.  Signed by the President of the Senate.",
+      "date": "2026-05-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "enrolled"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T18:58:43Z"
+      }
+    },
+    {
+      "description": "Received from the House without amendments.",
+      "date": "2026-05-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T18:58:43Z"
+      }
+    },
+    {
+      "description": "Read third time by title, roll called on final passage, yeas 95, nays 4. The bill, having received two-thirds vote of the elected members, was finally passed, ordered to the Senate.",
+      "date": "2026-05-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T18:58:43Z"
+      }
+    },
+    {
+      "description": "Scheduled for floor debate on 05/12/2026.",
+      "date": "2026-05-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T18:58:43Z"
+      }
+    },
+    {
+      "description": "Read by title, passed to 3rd reading.",
+      "date": "2026-05-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T18:58:43Z"
+      }
+    },
+    {
+      "description": "Reported without Legislative Bureau amendments.",
+      "date": "2026-05-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T18:58:43Z"
+      }
+    },
+    {
+      "description": "Reported favorably (15-0). Referred to the Legislative Bureau.",
+      "date": "2026-05-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T18:58:43Z"
+      }
+    },
+    {
+      "description": "Read by title, under the rules, referred to the Committee on Retirement.",
+      "date": "2026-04-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T18:58:43Z"
+      }
+    },
+    {
+      "description": "Received in the House from the Senate, read by title, lies over under the rules.",
+      "date": "2026-04-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T18:58:43Z"
+      }
+    },
+    {
+      "description": "Read by title, passed by a vote of 33 yeas and 1 nays, and sent to the House.  Motion to reconsider tabled.",
+      "date": "2026-04-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T18:58:43Z"
+      }
+    },
+    {
+      "description": "Read by title.  Committee amendments read and adopted. Ordered engrossed and passed to third reading and final passage.",
+      "date": "2026-04-08",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T18:58:43Z"
+      }
+    },
+    {
+      "description": "Reported with amendments.",
+      "date": "2026-04-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T18:58:43Z"
+      }
+    },
+    {
+      "description": "Introduced in the Senate; read by title.  Rules suspended.  Read second time and referred to the Committee on Retirement.",
+      "date": "2026-03-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T18:58:43Z"
+      }
+    },
+    {
+      "description": "Prefiled and under the rules provisionally referred to the Committee on Retirement.",
+      "date": "2026-01-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "filing",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T18:58:43Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Ed Price",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Ed Price\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "SB18 Act",
+      "links": [
+        {
+          "url": "https://www.legis.la.gov/Legis/ViewDocument.aspx?d=1475208",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB18 Enrolled",
+      "links": [
+        {
+          "url": "https://www.legis.la.gov/Legis/ViewDocument.aspx?d=1471708",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB18 Engrossed",
+      "links": [
+        {
+          "url": "https://www.legis.la.gov/Legis/ViewDocument.aspx?d=1459215",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "SB18 Original",
+      "links": [
+        {
+          "url": "https://www.legis.la.gov/Legis/ViewDocument.aspx?d=1435533",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Senate Committee Amendment, #1748, RET, Adopted",
+      "links": [
+        {
+          "url": "https://www.legis.la.gov/Legis/ViewDocument.aspx?d=1459153",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Senate Committee Amendment, #1746, RET, Draft",
+      "links": [
+        {
+          "url": "https://www.legis.la.gov/Legis/ViewDocument.aspx?d=1459144",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Digest of SB18 Engrossed",
+      "links": [
+        {
+          "url": "https://www.legis.la.gov/Legis/ViewDocument.aspx?d=1460344",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Digest of SB18 Original",
+      "links": [
+        {
+          "url": "https://www.legis.la.gov/Legis/ViewDocument.aspx?d=1435534",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.legis.la.gov/Legis/BillInfo.aspx?i=249659",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:la/government",
+    "name": "Louisiana",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:la"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T18:58:43Z"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Read by title,substitute title adopted, lies over in the same order of business, substitute for HR No. 80 reported byt the Committee on Appropriations (11-7).",
+    "occurred_at": "2026-05-12",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.legis.la.gov/Legis/BillInfo.aspx?i=251948",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HR264"
+}

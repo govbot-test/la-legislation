@@ -1,0 +1,946 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB979",
+  "title": "LAW ENFORCE/OFFICERS: Increases the benefit paid to survivors of law enforcement officers and firemen (EN +$800,000 GF EX See Note)",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-la-2026-hb979"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Effective date: 07/01/2026.",
+      "date": "2026-06-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T18:58:44Z"
+      }
+    },
+    {
+      "description": "Signed by the Governor. Becomes Act No. 909.",
+      "date": "2026-06-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "became-law",
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T18:58:44Z"
+      }
+    },
+    {
+      "description": "Sent to the Governor for executive approval.",
+      "date": "2026-06-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T18:58:44Z"
+      }
+    },
+    {
+      "description": "Signed by the President of the Senate.",
+      "date": "2026-06-01",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T18:58:44Z"
+      }
+    },
+    {
+      "description": "Enrolled and signed by the Speaker of the House.",
+      "date": "2026-05-31",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "enrolled"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T18:58:44Z"
+      }
+    },
+    {
+      "description": "Read by title, roll called, yeas 96, nays 0, Senate amendments concurred in.",
+      "date": "2026-05-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T18:58:44Z"
+      }
+    },
+    {
+      "description": "Scheduled for concurrence on 05/29/2026.",
+      "date": "2026-05-29",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T18:58:44Z"
+      }
+    },
+    {
+      "description": "Received from the Senate with amendments.",
+      "date": "2026-05-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T18:58:44Z"
+      }
+    },
+    {
+      "description": "Senate floor amendments read and adopted.  Read by title, passed by a vote of 37 yeas and 0 nays, and ordered returned to the House.  Motion to reconsider tabled.",
+      "date": "2026-05-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T18:58:44Z"
+      }
+    },
+    {
+      "description": "Called from the Calendar.",
+      "date": "2026-05-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T18:58:44Z"
+      }
+    },
+    {
+      "description": "Read by title and returned to the Calendar, subject to call.",
+      "date": "2026-05-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T18:58:44Z"
+      }
+    },
+    {
+      "description": "Rules suspended.",
+      "date": "2026-05-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T18:58:44Z"
+      }
+    },
+    {
+      "description": "Reported without Legislative Bureau amendments.  Read by title and passed to third reading and final passage.",
+      "date": "2026-05-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T18:58:44Z"
+      }
+    },
+    {
+      "description": "Committee amendments read and adopted.  Read by title and referred to the Legislative Bureau.",
+      "date": "2026-05-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T18:58:44Z"
+      }
+    },
+    {
+      "description": "Reported with amendments.",
+      "date": "2026-05-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T18:58:44Z"
+      }
+    },
+    {
+      "description": "Read second time by title and referred to the Committee on Finance.",
+      "date": "2026-04-29",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-2",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T18:58:44Z"
+      }
+    },
+    {
+      "description": "Received in the Senate.  Read first time by title and placed on the Calendar for a second reading.",
+      "date": "2026-04-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T18:58:44Z"
+      }
+    },
+    {
+      "description": "Read third time by title, amended, roll called on final passage, yeas 103, nays 0. Finally passed, title adopted, ordered to the Senate.",
+      "date": "2026-04-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T18:58:44Z"
+      }
+    },
+    {
+      "description": "Scheduled for floor debate on 04/27/2026.",
+      "date": "2026-04-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T18:58:44Z"
+      }
+    },
+    {
+      "description": "Read by title, ordered engrossed, passed to 3rd reading.",
+      "date": "2026-04-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-3"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T18:58:44Z"
+      }
+    },
+    {
+      "description": "Reported favorably (18-0).",
+      "date": "2026-04-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T18:58:44Z"
+      }
+    },
+    {
+      "description": "Read by title, under the rules, referred to the Committee on Appropriations.",
+      "date": "2026-03-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T18:58:44Z"
+      }
+    },
+    {
+      "description": "Read by title.  Lies over under the rules.",
+      "date": "2026-03-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T18:58:44Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Jeffery \"Jeff\" Wiley",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Jeffery \\\"Jeff\\\" Wiley\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Daryl Adams",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Daryl Adams\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tony Bacala",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Tony Bacala\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Larry Bagley",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Larry Bagley\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Dennis Bamburg Jr.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Dennis Bamburg Jr.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mike Bayham",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mike Bayham\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Beth Billings",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Beth Billings\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Doyle Boudreaux",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Doyle Boudreaux\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ryan Bourriaque",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ryan Bourriaque\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Chad Boyer",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Chad Boyer\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jacob Braud",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jacob Braud\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Reese \"Skip\" Broussard",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Reese \\\"Skip\\\" Broussard\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rhonda Butler",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Rhonda Butler\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Barbara Carpenter",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Barbara Carpenter\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Robert Carter",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Robert Carter\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Wilford Carter , Sr.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Wilford Carter , Sr.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kim Carver",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kim Carver\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tehmi Chassion",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Tehmi Chassion\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kimberly Coates",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kimberly Coates\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Daryl Deshotel",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Daryl Deshotel\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jason Dewitt",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jason Dewitt\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kellee Dickerson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kellee Dickerson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kathy Edmonston",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kathy Edmonston\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Peter Egan",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Peter Egan\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Adrian Fisher",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Adrian Fisher\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bryan Fontenot",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bryan Fontenot\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Barbara Reich Freiberg",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Barbara Reich Freiberg\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Brian Glorioso",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Brian Glorioso\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kyle M. Green , Jr.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kyle M. Green , Jr.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Dana Henry",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Dana Henry\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Stephanie Hilferty",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Stephanie Hilferty\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Dodie Horton",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Dodie Horton\"}",
+      "organization_id": null
+    },
+    {
+      "name": "John \"Big John\" Illg , Jr.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"John \\\"Big John\\\" Illg , Jr.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Steven Jackson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Steven Jackson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mike Johnson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mike Johnson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "C. Travis Johnson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"C. Travis Johnson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Timothy P. Kerner",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Timothy P. Kerner\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Alonzo Knox",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Alonzo Knox\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jeremy LaCombe",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jeremy LaCombe\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Vanessa Caston LaFleur",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Vanessa Caston LaFleur\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Terry Landry Jr",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Terry Landry Jr\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rodney Lyons",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Rodney Lyons\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Shane Mack",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Shane Mack\"}",
+      "organization_id": null
+    },
+    {
+      "name": "C. Denise Marcelle",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"C. Denise Marcelle\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Chasity Martinez",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Chasity Martinez\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jack McFarland",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jack McFarland\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Michael Melerine",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Michael Melerine\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Dustin Miller",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Dustin Miller\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Pat Moore",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Pat Moore\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ed Murray",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ed Murray\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Charles Owen",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Charles Owen\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Paul Sawyer",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Paul Sawyer\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Laurie Schlegel",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Laurie Schlegel\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Annie Spell",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Annie Spell\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Vincent J. St. Blanc , III",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Vincent J. St. Blanc , III\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sylvia Taylor",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Sylvia Taylor\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Christopher Turner",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Christopher Turner\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Debbie Villio",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Debbie Villio\"}",
+      "organization_id": null
+    },
+    {
+      "name": "John Wyble",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"John Wyble\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jerome Zeringue",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jerome Zeringue\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "HB979 Act 909",
+      "links": [
+        {
+          "url": "https://www.legis.la.gov/Legis/ViewDocument.aspx?d=1481529",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HB979 Enrolled",
+      "links": [
+        {
+          "url": "https://www.legis.la.gov/Legis/ViewDocument.aspx?d=1479126",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HB979 Reengrossed",
+      "links": [
+        {
+          "url": "https://www.legis.la.gov/Legis/ViewDocument.aspx?d=1466543",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HB979 Engrossed",
+      "links": [
+        {
+          "url": "https://www.legis.la.gov/Legis/ViewDocument.aspx?d=1464291",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HB979 Original",
+      "links": [
+        {
+          "url": "https://www.legis.la.gov/Legis/ViewDocument.aspx?d=1450498",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Senate Floor Amendment, #4459, Cloud, Adopted",
+      "links": [
+        {
+          "url": "https://www.legis.la.gov/Legis/ViewDocument.aspx?d=1477284",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Senate Floor Bureau Note, #4198, Price, Adopted",
+      "links": [
+        {
+          "url": "https://www.legis.la.gov/Legis/ViewDocument.aspx?d=1475063",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Senate Committee Amendment, #3959, FNCE, Adopted",
+      "links": [
+        {
+          "url": "https://www.legis.la.gov/Legis/ViewDocument.aspx?d=1473343",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Senate Committee Amendment, #3939, FNCE, Draft",
+      "links": [
+        {
+          "url": "https://www.legis.la.gov/Legis/ViewDocument.aspx?d=1473260",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "House Floor Amendment, #4543, Dewitt, Adopted",
+      "links": [
+        {
+          "url": "https://www.legis.la.gov/Legis/ViewDocument.aspx?d=1466260",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Summary of Senate Amendments to HB979",
+      "links": [
+        {
+          "url": "https://www.legis.la.gov/Legis/ViewDocument.aspx?d=1478554",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Senate Green Sheet Digest for HB979",
+      "links": [
+        {
+          "url": "https://www.legis.la.gov/Legis/ViewDocument.aspx?d=1473346",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Digest of HB979 Reengrossed",
+      "links": [
+        {
+          "url": "https://www.legis.la.gov/Legis/ViewDocument.aspx?d=1466646",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Digest of HB979 Engrossed",
+      "links": [
+        {
+          "url": "https://www.legis.la.gov/Legis/ViewDocument.aspx?d=1464648",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Digest of HB979 Original",
+      "links": [
+        {
+          "url": "https://www.legis.la.gov/Legis/ViewDocument.aspx?d=1450499",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.legis.la.gov/Legis/BillInfo.aspx?i=251087",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:la/government",
+    "name": "Louisiana",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:la"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T18:58:44Z"
+  }
+}

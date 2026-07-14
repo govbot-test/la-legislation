@@ -1,0 +1,326 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HCR16",
+  "title": "COMMENDATIONS: Commemorates the one hundredth anniversary of Guaranty Corporation",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "concurrent resolution"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-la-2026-hcr16"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Taken by the Clerk of the House and presented to the Secretary of State in accordance with the Rules of the House.",
+      "date": "2026-03-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T18:58:46Z"
+      }
+    },
+    {
+      "description": "Signed by the President of the Senate.",
+      "date": "2026-03-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T18:58:46Z"
+      }
+    },
+    {
+      "description": "Enrolled and signed by the Speaker of the House.",
+      "date": "2026-03-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "enrolled"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T18:58:46Z"
+      }
+    },
+    {
+      "description": "Received from the Senate without amendments.",
+      "date": "2026-03-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T18:58:46Z"
+      }
+    },
+    {
+      "description": "Read by title and concurred in by a vote of 31 yeas and 0 nays. Ordered returned to the House.",
+      "date": "2026-03-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T18:58:46Z"
+      }
+    },
+    {
+      "description": "Received in the Senate.  Read first time by title and placed on the Calendar for a second reading.",
+      "date": "2026-03-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T18:58:46Z"
+      }
+    },
+    {
+      "description": "Read by title, adopted, ordered to the Senate.",
+      "date": "2026-03-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T18:58:46Z"
+      }
+    },
+    {
+      "description": "Read by title.  Lies over under the rules.",
+      "date": "2026-03-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-14T18:58:46Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Gabe Firment",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Gabe Firment\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Daryl Adams",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Daryl Adams\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tony Bacala",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Tony Bacala\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Barbara Carpenter",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Barbara Carpenter\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Emily Chenevert",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Emily Chenevert\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kellee Dickerson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kellee Dickerson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kathy Edmonston",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kathy Edmonston\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Barbara Reich Freiberg",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Barbara Reich Freiberg\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jeremy LaCombe",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jeremy LaCombe\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Terry Landry Jr",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Terry Landry Jr\"}",
+      "organization_id": null
+    },
+    {
+      "name": "C. Denise Marcelle",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"C. Denise Marcelle\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Dixon McMakin",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Dixon McMakin\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lauren Ventrella",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Lauren Ventrella\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Roger Wilder III",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Roger Wilder III\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rick Edmonds",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Rick Edmonds\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Franklin J. Foil",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Franklin J. Foil\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Valarie Hodges",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Valarie Hodges\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Eddie Lambert",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Eddie Lambert\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jay Luneau",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jay Luneau\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jay Morris",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jay Morris\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "HCR16 Enrolled",
+      "links": [
+        {
+          "url": "https://www.legis.la.gov/Legis/ViewDocument.aspx?d=1452387",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "HCR16 Original",
+      "links": [
+        {
+          "url": "https://www.legis.la.gov/Legis/ViewDocument.aspx?d=1449954",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Digest of HCR16 Original",
+      "links": [
+        {
+          "url": "https://www.legis.la.gov/Legis/ViewDocument.aspx?d=1449955",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://www.legis.la.gov/Legis/BillInfo.aspx?i=251050",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:la/government",
+    "name": "Louisiana",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:la"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-14T18:58:46Z"
+  }
+}

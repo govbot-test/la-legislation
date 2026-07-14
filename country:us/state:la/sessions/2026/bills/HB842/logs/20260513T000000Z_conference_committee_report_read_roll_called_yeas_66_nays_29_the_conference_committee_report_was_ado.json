@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Conference Committee Report read, roll called, yeas 66, nays 29. The Conference Committee Report was adopted.",
+    "occurred_at": "2026-05-13",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.legis.la.gov/Legis/BillInfo.aspx?i=250753",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB842"
+}

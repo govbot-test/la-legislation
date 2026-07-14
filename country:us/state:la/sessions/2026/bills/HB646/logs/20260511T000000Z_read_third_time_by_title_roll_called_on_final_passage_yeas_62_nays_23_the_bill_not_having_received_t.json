@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Read third time by title, roll called on final passage, yeas 62, nays 23.  The bill, not having received two-thirds vote of the elected members, failed to pass.  Motion to reconsider pending.",
+    "occurred_at": "2026-05-11",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.legis.la.gov/Legis/BillInfo.aspx?i=250508",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB646"
+}

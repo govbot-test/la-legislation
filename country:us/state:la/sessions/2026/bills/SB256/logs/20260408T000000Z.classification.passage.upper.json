@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Senate floor amendments read and adopted.  Read by title and passed by a vote of 25 yeas and 11 nays; ordered reengrossed and sent to the House.  Motion to reconsider tabled.",
+    "occurred_at": "2026-04-08",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.legis.la.gov/Legis/BillInfo.aspx?i=250431",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB256"
+}

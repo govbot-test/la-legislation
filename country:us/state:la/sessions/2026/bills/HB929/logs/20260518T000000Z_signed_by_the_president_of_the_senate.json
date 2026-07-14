@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Signed by the President of the Senate.",
+    "occurred_at": "2026-05-18",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.legis.la.gov/Legis/BillInfo.aspx?i=250882",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB929"
+}

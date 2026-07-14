@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Senate conference committee members appointed: McMath, Luneau, and Owen.",
+    "occurred_at": "2026-05-21",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.legis.la.gov/Legis/BillInfo.aspx?i=249751",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB43"
+}

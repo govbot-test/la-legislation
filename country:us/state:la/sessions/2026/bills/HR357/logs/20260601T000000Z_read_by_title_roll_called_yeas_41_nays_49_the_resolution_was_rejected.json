@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Read by title, roll called, yeas 41, nays 49. The resolution was rejected.",
+    "occurred_at": "2026-06-01",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.legis.la.gov/Legis/BillInfo.aspx?i=252136",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HR357"
+}

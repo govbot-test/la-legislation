@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Rules suspended. Read by title, passed by a vote of 35 yeas and 0 nays, and ordered returned to the House.  Motion to reconsider tabled.",
+    "occurred_at": "2026-05-12",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.legis.la.gov/Legis/BillInfo.aspx?i=250808",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB883"
+}

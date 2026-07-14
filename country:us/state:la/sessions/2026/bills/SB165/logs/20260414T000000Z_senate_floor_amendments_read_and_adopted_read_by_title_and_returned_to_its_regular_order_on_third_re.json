@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Senate floor amendments read and adopted; read by title and returned to its regular order on third reading and final passage.",
+    "occurred_at": "2026-04-14",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.legis.la.gov/Legis/BillInfo.aspx?i=250135",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB165"
+}

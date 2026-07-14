@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Senate floor amendments read and adopted.  Read by title; failed to pass by a vote of 18 yeas and 19 nays.",
+    "occurred_at": "2026-05-26",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.legis.la.gov/Legis/BillInfo.aspx?i=250585",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB723"
+}

@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Vetoed by the Governor.",
+    "occurred_at": "2026-06-12",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "executive-veto"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.legis.la.gov/Legis/BillInfo.aspx?i=250925",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB950"
+}

@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Discharged from Conference Committee.",
+    "occurred_at": "2026-05-29",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.legis.la.gov/Legis/BillInfo.aspx?i=250938",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB379"
+}

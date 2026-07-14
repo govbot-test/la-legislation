@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Enrolled.  Signed by the President of the Senate on 6/5/2026.",
+    "occurred_at": "2026-06-01",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "enrolled"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.legis.la.gov/Legis/BillInfo.aspx?i=251921",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SCR62"
+}

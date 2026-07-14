@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "By a vote of 89 yeas, 1 nays, having received two-thirds vote of the elected members, the House approved consideration after the 82nd calendar day.",
+    "occurred_at": "2026-06-01",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.legis.la.gov/Legis/BillInfo.aspx?i=250412",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB237"
+}

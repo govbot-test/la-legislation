@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Amendments proposed by the House read and concurred in by a vote of 26 yeas and 7 nays.",
+    "occurred_at": "2026-05-20",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.legis.la.gov/Legis/BillInfo.aspx?i=250741",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB307"
+}

@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Amendments proposed by the House read and concurred in by a vote of 28 yeas and 10 nays.",
+    "occurred_at": "2026-05-29",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.legis.la.gov/Legis/BillInfo.aspx?i=250004",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB121"
+}

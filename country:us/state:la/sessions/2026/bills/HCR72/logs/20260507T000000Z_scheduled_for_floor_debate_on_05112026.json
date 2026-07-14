@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Scheduled for floor debate on 05/11/2026.",
+    "occurred_at": "2026-05-07",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.legis.la.gov/Legis/BillInfo.aspx?i=251747",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HCR72"
+}

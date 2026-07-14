@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Senate floor amendments read and adopted.",
+    "occurred_at": "2026-04-08",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.legis.la.gov/Legis/BillInfo.aspx?i=250946",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB387"
+}

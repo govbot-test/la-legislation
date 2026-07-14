@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Read by title, under the rules, referred to the Committee on Civil Law and Procedure.",
+    "occurred_at": "2026-03-09",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.legis.la.gov/Legis/BillInfo.aspx?i=249785",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB142"
+}

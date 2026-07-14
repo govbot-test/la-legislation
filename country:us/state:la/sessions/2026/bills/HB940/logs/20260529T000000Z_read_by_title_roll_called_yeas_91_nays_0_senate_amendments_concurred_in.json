@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Read by title, roll called, yeas 91, nays 0, Senate amendments concurred in.",
+    "occurred_at": "2026-05-29",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.legis.la.gov/Legis/BillInfo.aspx?i=250894",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB940"
+}

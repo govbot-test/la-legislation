@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Reported favorably (12-0).",
+    "occurred_at": "2026-03-24",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.legis.la.gov/Legis/BillInfo.aspx?i=249795",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB152"
+}

@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Read third time by title, roll called on final passage, yeas 99, nays 0. Finally passed, title adopted, ordered to the Senate.",
+    "occurred_at": "2026-04-14",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.legis.la.gov/Legis/BillInfo.aspx?i=250042",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB322"
+}

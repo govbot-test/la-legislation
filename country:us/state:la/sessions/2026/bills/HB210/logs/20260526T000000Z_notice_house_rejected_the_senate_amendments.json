@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Notice House rejected the Senate amendments.",
+    "occurred_at": "2026-05-26",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.legis.la.gov/Legis/BillInfo.aspx?i=249870",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB210"
+}

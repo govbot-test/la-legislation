@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Substitute for Senate Bill No. 175. Read by title and placed on the Calendar for a second reading.",
+    "occurred_at": "2026-04-07",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.legis.la.gov/Legis/BillInfo.aspx?i=251607",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB521"
+}

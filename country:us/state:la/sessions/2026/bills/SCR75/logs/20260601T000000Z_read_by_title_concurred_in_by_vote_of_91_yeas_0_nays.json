@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Read by title, concurred in by vote of 91 yeas, 0 nays.",
+    "occurred_at": "2026-06-01",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.legis.la.gov/Legis/BillInfo.aspx?i=252035",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SCR75"
+}

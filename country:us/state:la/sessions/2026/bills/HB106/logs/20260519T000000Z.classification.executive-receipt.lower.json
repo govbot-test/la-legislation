@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Sent to the Governor for executive approval.",
+    "occurred_at": "2026-05-19",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "executive-receipt"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.legis.la.gov/Legis/BillInfo.aspx?i=249738",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB106"
+}

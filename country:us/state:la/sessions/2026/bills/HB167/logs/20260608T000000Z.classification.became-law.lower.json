@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "Signed by the Governor. Becomes Act No. 785.",
+    "occurred_at": "2026-06-08",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "became-law",
+      "executive-signature"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.legis.la.gov/Legis/BillInfo.aspx?i=249811",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB167"
+}

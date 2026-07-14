@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Read by title.  Failed to pass by a vote of 10 yeas and 27 nays. Motion to reconsider tabled.",
+    "occurred_at": "2026-05-28",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.legis.la.gov/Legis/BillInfo.aspx?i=250574",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB712"
+}

@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Effective date: 08/01/2026.",
+    "occurred_at": "2026-06-02",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.legis.la.gov/Legis/BillInfo.aspx?i=250217",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB433"
+}

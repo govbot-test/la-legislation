@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Scheduled for floor debate on 05/26/2026.",
+    "occurred_at": "2026-05-25",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.legis.la.gov/Legis/BillInfo.aspx?i=252030",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB1259"
+}

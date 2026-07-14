@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Committee amendments read and adopted.  Read by title and referred to the Legislative Bureau.",
+    "occurred_at": "2026-05-21",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.legis.la.gov/Legis/BillInfo.aspx?i=250662",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB775"
+}

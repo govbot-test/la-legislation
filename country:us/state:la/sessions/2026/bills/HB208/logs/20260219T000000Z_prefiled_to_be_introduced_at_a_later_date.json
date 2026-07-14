@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Prefiled. To be introduced at a later date.",
+    "occurred_at": "2026-02-19",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "filing"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.legis.la.gov/Legis/BillInfo.aspx?i=249868",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB208"
+}

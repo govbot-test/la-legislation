@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Read by title, amended, passed to 3rd reading.",
+    "occurred_at": "2026-05-25",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "reading-3"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.legis.la.gov/Legis/BillInfo.aspx?i=251329",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB448"
+}

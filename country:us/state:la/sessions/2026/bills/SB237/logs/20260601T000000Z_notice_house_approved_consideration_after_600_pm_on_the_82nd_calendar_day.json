@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Notice House approved consideration after 6:00 p.m. on the 82nd calendar day.",
+    "occurred_at": "2026-06-01",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.legis.la.gov/Legis/BillInfo.aspx?i=250412",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB237"
+}

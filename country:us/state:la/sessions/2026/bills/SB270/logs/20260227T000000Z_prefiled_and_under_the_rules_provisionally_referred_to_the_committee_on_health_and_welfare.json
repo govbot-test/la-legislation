@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "Prefiled and under the rules provisionally referred to the Committee on Health and Welfare.",
+    "occurred_at": "2026-02-27",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "filing",
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.legis.la.gov/Legis/BillInfo.aspx?i=250640",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB270"
+}

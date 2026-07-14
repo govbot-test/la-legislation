@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Rules suspended.",
+    "occurred_at": "2026-05-26",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.legis.la.gov/Legis/BillInfo.aspx?i=251712",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HCR60"
+}

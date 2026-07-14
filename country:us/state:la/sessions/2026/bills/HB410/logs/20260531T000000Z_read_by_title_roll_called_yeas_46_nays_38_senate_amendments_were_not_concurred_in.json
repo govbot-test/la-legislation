@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Read by title, roll called, yeas 46, nays 38, Senate amendments were not concurred in.",
+    "occurred_at": "2026-05-31",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.legis.la.gov/Legis/BillInfo.aspx?i=250182",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB410"
+}

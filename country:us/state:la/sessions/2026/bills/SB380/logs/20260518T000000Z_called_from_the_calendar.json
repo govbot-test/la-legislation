@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Called from the calendar.",
+    "occurred_at": "2026-05-18",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.legis.la.gov/Legis/BillInfo.aspx?i=250939",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB380"
+}

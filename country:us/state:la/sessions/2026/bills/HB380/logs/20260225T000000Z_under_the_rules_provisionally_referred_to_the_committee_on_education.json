@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Under the rules, provisionally referred to the Committee on Education.",
+    "occurred_at": "2026-02-25",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.legis.la.gov/Legis/BillInfo.aspx?i=250149",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB380"
+}

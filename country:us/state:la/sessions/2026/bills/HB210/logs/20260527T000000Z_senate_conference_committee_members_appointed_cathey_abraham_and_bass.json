@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Senate conference committee members appointed: Cathey, Abraham, and Bass.",
+    "occurred_at": "2026-05-27",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.legis.la.gov/Legis/BillInfo.aspx?i=249870",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB210"
+}

@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Conference Committee Report read; adopted by a vote of 24 yeas and 12 nays.",
+    "occurred_at": "2026-05-31",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.legis.la.gov/Legis/BillInfo.aspx?i=249870",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB210"
+}

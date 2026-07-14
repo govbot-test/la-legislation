@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Enrolled and signed by the Speaker of the House.",
+    "occurred_at": "2026-05-12",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "enrolled"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.legis.la.gov/Legis/BillInfo.aspx?i=249627",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB29"
+}

@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Sent to the Governor by the Secretary of the Senate.",
+    "occurred_at": "2026-05-13",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "executive-receipt"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.legis.la.gov/Legis/BillInfo.aspx?i=249946",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB96"
+}

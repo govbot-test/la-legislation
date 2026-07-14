@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Read by title, under the rules, referred to the Committee on Administration of Criminal Justice.",
+    "occurred_at": "2026-03-10",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.legis.la.gov/Legis/BillInfo.aspx?i=250963",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HCR7"
+}

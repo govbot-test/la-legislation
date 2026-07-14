@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Title of substitute read and adopted; becomes Senate Bill No. 521.",
+    "occurred_at": "2026-04-07",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.legis.la.gov/Legis/BillInfo.aspx?i=250202",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB175"
+}

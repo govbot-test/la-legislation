@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Read third time by title, roll called on final passage, yeas 82, nays 14. Finally passed, ordered to the Senate.",
+    "occurred_at": "2026-05-19",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.legis.la.gov/Legis/BillInfo.aspx?i=250946",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB387"
+}

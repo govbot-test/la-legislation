@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Read third time by title, roll called on final passage, yeas 46, nays 39.  Failed to pass, motion to reconsider pending.",
+    "occurred_at": "2026-05-18",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.legis.la.gov/Legis/BillInfo.aspx?i=251892",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HCR98"
+}

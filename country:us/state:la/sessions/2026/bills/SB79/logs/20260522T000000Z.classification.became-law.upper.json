@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "Signed by the Governor. Becomes Act No. 351.",
+    "occurred_at": "2026-05-22",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "became-law",
+      "executive-signature"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.legis.la.gov/Legis/BillInfo.aspx?i=249929",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB79"
+}

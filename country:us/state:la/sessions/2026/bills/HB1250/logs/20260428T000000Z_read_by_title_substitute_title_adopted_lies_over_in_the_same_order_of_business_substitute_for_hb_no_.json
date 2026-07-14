@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Read by title, substitute title adopted, lies over in the same order of business, substitute for HB No. 1099 reported by the Committee on Civil Law and Procedure (7-0-1).",
+    "occurred_at": "2026-04-28",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.legis.la.gov/Legis/BillInfo.aspx?i=251839",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB1250"
+}

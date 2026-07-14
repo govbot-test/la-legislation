@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Received from the House with amendments.",
+    "occurred_at": "2026-05-11",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "receipt"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.legis.la.gov/Legis/BillInfo.aspx?i=250740",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB306"
+}

@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Prefiled.",
+    "occurred_at": "2026-02-27",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "filing"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.legis.la.gov/Legis/BillInfo.aspx?i=250885",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB932"
+}

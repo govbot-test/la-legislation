@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Read by title, ordered engrossed, recommitted to the Committee on Education.",
+    "occurred_at": "2026-04-28",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.legis.la.gov/Legis/BillInfo.aspx?i=250838",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB902"
+}

@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "First appeared in the Interim Calendar on 2/13/2026.",
+    "occurred_at": "2026-02-13",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.legis.la.gov/Legis/BillInfo.aspx?i=249789",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB146"
+}

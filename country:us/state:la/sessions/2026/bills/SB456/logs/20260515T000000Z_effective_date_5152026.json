@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Effective date 5/15/2026.",
+    "occurred_at": "2026-05-15",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.legis.la.gov/Legis/BillInfo.aspx?i=251342",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB456"
+}

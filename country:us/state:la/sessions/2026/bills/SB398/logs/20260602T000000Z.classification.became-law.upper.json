@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "Signed by the Governor. Becomes Act No. 765.",
+    "occurred_at": "2026-06-02",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "became-law",
+      "executive-signature"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.legis.la.gov/Legis/BillInfo.aspx?i=250957",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB398"
+}

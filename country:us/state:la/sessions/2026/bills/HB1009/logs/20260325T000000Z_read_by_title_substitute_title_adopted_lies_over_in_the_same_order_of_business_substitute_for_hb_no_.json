@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Read by title, substitute title adopted, lies over in the same order of business, substitute for HB No. 100 reported by the Committee on Administration of Criminal Justice (12-0).",
+    "occurred_at": "2026-03-25",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.legis.la.gov/Legis/BillInfo.aspx?i=251200",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB1009"
+}

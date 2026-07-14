@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Received in the Senate.  Rules suspended.  Read first time by title and placed on the Calendar for a second reading.",
+    "occurred_at": "2026-03-30",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "reading-1"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.legis.la.gov/Legis/BillInfo.aspx?i=249747",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB111"
+}

@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "Introduced in the Senate; read by title.   Rules suspended.  Read second time by title and adopted by a vote of 35 yeas and 1 nays.  Ordered sent to the House.",
+    "occurred_at": "2026-06-01",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage",
+      "reading-2"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.legis.la.gov/Legis/BillInfo.aspx?i=252225",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SCR89"
+}

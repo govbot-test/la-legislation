@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Read by title, substitute title adopted, lies over in the same order of business, substitute for HB No. 49 reported by the Committee on Retirement (11-0).",
+    "occurred_at": "2026-04-13",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.legis.la.gov/Legis/BillInfo.aspx?i=251634",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB1237"
+}

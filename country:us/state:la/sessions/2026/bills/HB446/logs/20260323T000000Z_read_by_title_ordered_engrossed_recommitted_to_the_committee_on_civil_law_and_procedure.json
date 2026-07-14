@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Read by title, ordered engrossed, recommitted to the Committee on Civil Law and Procedure.",
+    "occurred_at": "2026-03-23",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.legis.la.gov/Legis/BillInfo.aspx?i=250258",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB446"
+}

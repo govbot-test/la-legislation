@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Read third time by title, roll called on final passage, yeas 83, nays 13. The bill, having received two-thirds vote of the elected members, was finally passed, title adopted, ordered to the Senate.",
+    "occurred_at": "2026-04-15",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.legis.la.gov/Legis/BillInfo.aspx?i=250390",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB559"
+}

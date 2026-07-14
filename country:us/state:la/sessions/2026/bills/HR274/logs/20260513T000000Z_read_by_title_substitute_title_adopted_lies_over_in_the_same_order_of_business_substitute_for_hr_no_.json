@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Read by title, substitute title adopted, lies over in the same order of business, substitute for HR No. 216 reported by the Committee on Natural Resources and Environment (13-0).",
+    "occurred_at": "2026-05-13",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.legis.la.gov/Legis/BillInfo.aspx?i=251970",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HR274"
+}

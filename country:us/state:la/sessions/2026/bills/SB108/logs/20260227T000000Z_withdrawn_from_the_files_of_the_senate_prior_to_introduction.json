@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Withdrawn from the files of the Senate prior to introduction.",
+    "occurred_at": "2026-02-27",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.legis.la.gov/Legis/BillInfo.aspx?i=249958",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB108"
+}

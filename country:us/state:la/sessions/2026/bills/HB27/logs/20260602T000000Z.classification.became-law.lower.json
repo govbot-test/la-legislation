@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Becomes Act No. 606.",
+    "occurred_at": "2026-06-02",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "became-law"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.legis.la.gov/Legis/BillInfo.aspx?i=249625",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB27"
+}

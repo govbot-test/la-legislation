@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Conference Committee Report read; adopted by a vote of 27 yeas and 8 nays.",
+    "occurred_at": "2026-06-01",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.legis.la.gov/Legis/BillInfo.aspx?i=250186",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB414"
+}

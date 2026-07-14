@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Signed by the Speaker of the House.",
+    "occurred_at": "2026-05-25",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.legis.la.gov/Legis/BillInfo.aspx?i=250246",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB201"
+}

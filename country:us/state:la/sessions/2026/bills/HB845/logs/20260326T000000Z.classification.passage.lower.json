@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Read third time by title, roll called on final passage, yeas 93, nays 0. The bill, having received two-thirds vote of the elected members, was finally passed, title adopted, ordered to the Senate.",
+    "occurred_at": "2026-03-26",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.legis.la.gov/Legis/BillInfo.aspx?i=250756",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB845"
+}

@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Senate amendments read and adopted.  Read by title and adopted by a vote of 36 yeas and 0 nays; ordered engrossed and sent to the House.",
+    "occurred_at": "2026-04-27",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://www.legis.la.gov/Legis/BillInfo.aspx?i=251754",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SCR38"
+}
