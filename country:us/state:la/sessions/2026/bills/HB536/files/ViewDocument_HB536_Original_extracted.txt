@@ -1,0 +1,268 @@
+Title: HOUSE BILL NO. 536
+Official Title: HOUSE BILL NO. 536
+Number of Sections: 1
+Source: versions - HB536 Original
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+HLS 26RS-1349 ORIGINAL
+2026 Regular Session
+BY REPRESENTATIVE COATES
+TELECOMMUNICATIONS: Provides requirements relative to the location of wireless
+communication facilities with respect to school property, including permitting
+requirements
+1 AN ACT
+2 To enact R.S. 17:2111, relative to wireless communication facilities; to provide for the
+3 placement of wireless communication facilities with respect to their proximity to
+4 school property; to provide for permits; to provide for exceptions; to provide for
+5 definitions; and to provide for related matters.
+6 Be it enacted by the Legislature of Louisiana:
+7 Section 1. This Act shall be known and may be cited as the "School Infrastructure
+8 Safety and Emergency Coordination Act".
+9 Section 2.(A) The legislature finds and declares that the state of Louisiana has a
+10 compelling interest in protecting students, faculty, and school property from structural
+11 hazards, falling debris, fire risks, and emergency access obstructions associated with tall
+12 structures.
+13 (B) The legislature finds and declares that schools require coordinated emergency
+14 planning in areas where critical infrastructure is located nearby.
+15 (C) The legislature finds and declares that equipment, structures, and improvements
+16 used to provide personal wireless services are essential infrastructure supporting public
+17 safety, emergency services, education, and commerce.
+Page 1 of 4
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-1349 ORIGINAL
+HB NO. 536
+1 Section 3. R.S. 17:2111 is hereby enacted to read as follows:
+2 §2111. Wireless communication facilities
+3 A. The purpose of this Section is to provide for safety with respect to the
+4 placement of wireless communication facilities near schools while preserving the
+5 availability of wireless services. As used in this Section:
+6 (1) "Colocation" means the placement of wireless transmission equipment
+7 on an existing structure, including towers, utility poles, water towers, rooftops, or
+8 similar structures.
+9 (2) "School" means any elementary or secondary school.
+10 (3) "School proximity zone" means an area within one thousand feet of a
+11 school property boundary.
+12 (4) "Wireless communication facility" means equipment, structures, and
+13 improvements used to provide personal wireless services.
+14 B. A newly constructed freestanding wireless tower located within a school
+15 proximity zone shall maintain a setback from any school building equal to at least
+16 one hundred ten percent of the tower height. This requirement shall not apply to the
+17 following:
+18 (1) Antennas colocated on existing structures.
+19 (2) Concealed or stealth installations.
+20 (3) Facilities where a licensed professional engineer certifies that an
+21 alternative setback provides equivalent structural safety.
+22 C.(1) An applicant proposing construction of a new freestanding tower
+23 within a school proximity zone shall demonstrate good faith efforts to colocate on
+24 existing structures, including but not limited to the following:
+25 (a) Identification of suitable existing structures within the search area.
+26 (b) Written requests to structure owners.
+27 (c) Documentation of responses received.
+28 (d) Engineering analysis where colocation is determined infeasible.
+Page 2 of 4
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-1349 ORIGINAL
+HB NO. 536
+1 (2) Colocation is not required if it is determined to be technically infeasible
+2 or economically unreasonable by the applicable state or local entity.
+3 D.(1) Construction of a new freestanding wireless tower within a school
+4 proximity zone shall require a conditional use permit from the applicable state or
+5 local entity. Granting of the permit shall be based on the following considerations:
+6 (a) Structural integrity and wind-load compliance.
+7 (b) Fall radius and debris mitigation.
+8 (c) Fire code compliance.
+9 (d) Emergency vehicle access.
+10 (e) Security fencing and restricted access.
+11 (f) Reasonable visual mitigation measures.
+12 (2) If the permit is denied, the denial shall be in writing, supported by
+13 substantial evidence, and issued within applicable federal timeframes.
+14 E. Operators of freestanding towers within a school proximity zone shall
+15 provide current emergency contact information to the school, certify annual
+16 structural inspection compliance, and coordinate disaster response planning upon the
+17 school's request.
+18 F. Subsequent modifications to such towers shall be made in compliance
+19 with applicable federal law.
+20 G. Nothing in this Section shall be:
+21 (1) Construed to regulate radio frequency emissions or the technical
+22 operation of wireless communication services.
+23 (2) Construed to prohibit or have the effect of prohibiting the provision of
+24 personal wireless services.
+25 (3) Be applied in a manner inconsistent with 47 U.S.C. 332 or other
+26 applicable federal law.
+Page 3 of 4
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-1349 ORIGINAL
+HB NO. 536
+DIGEST
+The digest printed below was prepared by House Legislative Services. It constitutes no part
+of the legislative instrument. The keyword, one-liner, abstract, and digest do not constitute
+part of the law or proof or indicia of legislative intent. [R.S. 1:13(B) and 24:177(E)]
+HB 536 Original 2026 Regular Session Coates
+Abstract: Provides requirements relative to the location of wireless communication
+facilities with respect to school property, including permitting requirements.
+Proposed law provides the following:
+(1) Defines a "school proximity zone" as area within 1,000 of a school property
+boundary.
+(2) A newly constructed freestanding wireless tower located within a school proximity
+zone shall maintain a setback from any school building equal to at least 110% of the
+tower height.
+(3) An applicant proposing construction of a new freestanding tower within a school
+proximity zone shall demonstrate good faith efforts to colocate on existing
+structures.
+(4) Construction of a new freestanding wireless tower within a school proximity zone
+shall require a conditional use permit.
+(5) Operators of freestanding towers within a school proximity zone shall provide
+current emergency contact information to the school, certify annual structural
+inspection compliance, and coordinate disaster response planning upon request.
+(6) Subsequent modifications of such towers shall comply with applicable federal law.
+Proposed law provides that proposed law shall be known and may be cited as the "School
+Infrastructure Safety and Emergency Coordination Act".
+(Adds R.S. 17:2111)
+Page 4 of 4
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+[DELETED: 9O f w r t s p i p i]
+[DELETED: 9O  F w a l p e c t a]
+[DELETED: 9O c e c i t t s c a  C t r r f e o t t  B a i a m i w 4 U 3 o o]
+[DELETED: 9Ol2nC  P r r t t l o w c)D a " p z a a w 1 o a s p A A z s d g f e t c o e C)O f t a s p z p e c i t t s c a s)S]
+
+
+================================================================================
+
+Raw Text:
+HLS 26RS-1349 ORIGINAL
+2026 Regular Session
+HOUSE BILL NO. 536
+BY REPRESENTATIVE COATES
+TELECOMMUNICATIONS: Provides requirements relative to the location of wireless
+communication facilities with respect to school property, including permitting
+requirements
+1 AN ACT
+2 To enact R.S. 17:2111, relative to wireless communication facilities; to provide for the
+3 placement of wireless communication facilities with respect to their proximity to
+4 school property; to provide for permits; to provide for exceptions; to provide for
+5 definitions; and to provide for related matters.
+6 Be it enacted by the Legislature of Louisiana:
+7 Section 1. This Act shall be known and may be cited as the "School Infrastructure
+8 Safety and Emergency Coordination Act".
+9 Section 2.(A) The legislature finds and declares that the state of Louisiana has a
+10 compelling interest in protecting students, faculty, and school property from structural
+11 hazards, falling debris, fire risks, and emergency access obstructions associated with tall
+12 structures.
+13 (B) The legislature finds and declares that schools require coordinated emergency
+14 planning in areas where critical infrastructure is located nearby.
+15 (C) The legislature finds and declares that equipment, structures, and improvements
+16 used to provide personal wireless services are essential infrastructure supporting public
+17 safety, emergency services, education, and commerce.
+Page 1 of 4
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1349 ORIGINAL
+HB NO. 536
+1 Section 3. R.S. 17:2111 is hereby enacted to read as follows:
+2 §2111. Wireless communication facilities
+3 A. The purpose of this Section is to provide for safety with respect to the
+4 placement of wireless communication facilities near schools while preserving the
+5 availability of wireless services. As used in this Section:
+6 (1) "Colocation" means the placement of wireless transmission equipment
+7 on an existing structure, including towers, utility poles, water towers, rooftops, or
+8 similar structures.
+9 (2) "School" means any elementary or secondary school.
+10 (3) "School proximity zone" means an area within one thousand feet of a
+11 school property boundary.
+12 (4) "Wireless communication facility" means equipment, structures, and
+13 improvements used to provide personal wireless services.
+14 B. A newly constructed freestanding wireless tower located within a school
+15 proximity zone shall maintain a setback from any school building equal to at least
+16 one hundred ten percent of the tower height. This requirement shall not apply to the
+17 following:
+18 (1) Antennas colocated on existing structures.
+19 (2) Concealed or stealth installations.
+20 (3) Facilities where a licensed professional engineer certifies that an
+21 alternative setback provides equivalent structural safety.
+22 C.(1) An applicant proposing construction of a new freestanding tower
+23 within a school proximity zone shall demonstrate good faith efforts to colocate on
+24 existing structures, including but not limited to the following:
+25 (a) Identification of suitable existing structures within the search area.
+26 (b) Written requests to structure owners.
+27 (c) Documentation of responses received.
+28 (d) Engineering analysis where colocation is determined infeasible.
+Page 2 of 4
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1349 ORIGINAL
+HB NO. 536
+1 (2) Colocation is not required if it is determined to be technically infeasible
+2 or economically unreasonable by the applicable state or local entity.
+3 D.(1) Construction of a new freestanding wireless tower within a school
+4 proximity zone shall require a conditional use permit from the applicable state or
+5 local entity. Granting of the permit shall be based on the following considerations:
+6 (a) Structural integrity and wind-load compliance.
+7 (b) Fall radius and debris mitigation.
+8 (c) Fire code compliance.
+9 (d) Emergency vehicle access.
+10 (e) Security fencing and restricted access.
+11 (f) Reasonable visual mitigation measures.
+12 (2) If the permit is denied, the denial shall be in writing, supported by
+13 substantial evidence, and issued within applicable federal timeframes.
+14 E. Operators of freestanding towers within a school proximity zone shall
+15 provide current emergency contact information to the school, certify annual
+16 structural inspection compliance, and coordinate disaster response planning upon the
+17 school's request.
+18 F. Subsequent modifications to such towers shall be made in compliance
+19 with applicable federal law.
+20 G. Nothing in this Section shall be:
+21 (1) Construed to regulate radio frequency emissions or the technical
+22 operation of wireless communication services.
+23 (2) Construed to prohibit or have the effect of prohibiting the provision of
+24 personal wireless services.
+25 (3) Be applied in a manner inconsistent with 47 U.S.C. 332 or other
+26 applicable federal law.
+Page 3 of 4
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1349 ORIGINAL
+HB NO. 536
+DIGEST
+The digest printed below was prepared by House Legislative Services. It constitutes no part
+of the legislative instrument. The keyword, one-liner, abstract, and digest do not constitute
+part of the law or proof or indicia of legislative intent. [R.S. 1:13(B) and 24:177(E)]
+HB 536 Original 2026 Regular Session Coates
+Abstract: Provides requirements relative to the location of wireless communication
+facilities with respect to school property, including permitting requirements.
+Proposed law provides the following:
+(1) Defines a "school proximity zone" as area within 1,000 of a school property
+boundary.
+(2) A newly constructed freestanding wireless tower located within a school proximity
+zone shall maintain a setback from any school building equal to at least 110% of the
+tower height.
+(3) An applicant proposing construction of a new freestanding tower within a school
+proximity zone shall demonstrate good faith efforts to colocate on existing
+structures.
+(4) Construction of a new freestanding wireless tower within a school proximity zone
+shall require a conditional use permit.
+(5) Operators of freestanding towers within a school proximity zone shall provide
+current emergency contact information to the school, certify annual structural
+inspection compliance, and coordinate disaster response planning upon request.
+(6) Subsequent modifications of such towers shall comply with applicable federal law.
+Proposed law provides that proposed law shall be known and may be cited as the "School
+Infrastructure Safety and Emergency Coordination Act".
+(Adds R.S. 17:2111)
+Page 4 of 4
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+[DELETED: 9O f w r t s p i p i]
+[DELETED: 9O  F w a l p e c t a]
+[DELETED: 9O c e c i t t s c a  C t r r f e o t t  B a i a m i w 4 U 3 o o]
+[DELETED: 9Ol2nC  P r r t t l o w c)D a " p z a a w 1 o a s p A A z s d g f e t c o e C)O f t a s p z p e c i t t s c a s)S]

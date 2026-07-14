@@ -1,0 +1,690 @@
+HLS 26RS-1284 ORIGINAL
+2026 Regular Session
+HOUSE BILL NO. 880
+BY REPRESENTATIVE JORDAN
+INSURANCE: Creates the Louisiana Artificial Intelligence Insurance Fairness Act
+1 AN ACT
+2 To enact Chapter 14 of Title 22 of the Louisiana Revised Statutes of 1950, comprised of
+3 R.S. 22:1401 through 1424, to be known as the "Louisiana Artificial Intelligence
+4 Insurance Fairness Act"; to establish standards for the use of artificial intelligence
+5 and algorithmic decision systems in insurance underwriting, rating, and claims
+6 adjustment; to prohibit unfair discrimination through algorithmic means; to require
+7 disparate impact audits, consumer disclosures, and explainability; to authorize
+8 rulemaking and enforcement; to provide civil penalties and a private right of action;
+9 and to provide for related matters.
+10 Be it enacted by the Legislature of Louisiana:
+11 Section 1. Chapter 14 of Title 22 of the Louisiana Revised Statutes of 1950,
+12 comprised of R.S. 22:1401 through 1424, is hereby enacted to read as follows:
+13 §1401. Short Title
+14 This Chapter shall be known and may be cited as the "Louisiana Artificial
+15 Intelligence Insurance Fairness Act" or the "LAIFA."
+16 §1402. Legislative Findings and Purpose
+17 A. The Legislature finds and declares:
+18 (1) Artificial intelligence, machine learning, and algorithmic decision
+19 systems are being rapidly deployed across the insurance industry to make decisions
+20 about coverage eligibility, premium pricing, claims handling, and policy renewal.
+Page 1 of 20
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1284 ORIGINAL
+HB NO. 880
+1 (2) These algorithmic systems present significant risks of unfair
+2 discrimination. Machine learning models trained on historical data inherit the biases
+3 embedded in that historical data, including the effects of past discrimination in
+4 housing, lending, insurance, and economic opportunity. When used in insurance
+5 without adequate safeguards, such models can perpetuate and amplify discrimination
+6 against communities protected under Louisiana and federal law.
+7 (3) Black, Hispanic, Indigenous, and other minority communities,
+8 communities with lower incomes, communities with older housing stock, and
+9 communities located in historically redlined areas are particularly vulnerable to
+10 disparate harm from algorithmic insurance practices.
+11 (4) Louisiana's homeowners and small business owners within protected
+12 classes, already facing a challenged insurance market, are at heightened risk of being
+13 further disadvantaged by opaque algorithmic underwriting and pricing systems.
+14 (5) Transparency in insurance decision-making is essential to enabling
+15 consumers to understand and challenge decisions that affect their access to insurance
+16 and their cost of coverage.
+17 (6) The responsible use of artificial intelligence in insurance can reduce
+18 costs, improve efficiency, and expand coverage if properly regulated. This Act is not
+19 intended to prohibit the use of AI in insurance, but to ensure that such use is fair,
+20 transparent, and accountable.
+21 (7) Louisiana has a compelling interest in regulating the use of algorithmic
+22 decision systems in insurance consistent with its longstanding prohibitions on unfair
+23 discrimination in insurance practices.
+24 B. The purpose of this Act is to:
+25 (1) Establish clear standards for the development, testing, and deployment
+26 of AI systems used in insurance decisions;
+27 (2) Require insurers to conduct and certify annual disparate impact audits of
+28 algorithmic systems;
+Page 2 of 20
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1284 ORIGINAL
+HB NO. 880
+1 (3) Prohibit the use of variables that function as proxies for protected class
+2 membership in ways that produce discriminatory outcomes;
+3 (4) Ensure that consumers have access to meaningful explanations when
+4 algorithmic systems are used in adverse insurance decisions;
+5 (5) Establish a private right of action for individuals subjected to
+6 discriminatory algorithmic insurance practices; and
+7 (6) Position Louisiana as a national leader in the fair and responsible
+8 regulation of AI in insurance.
+9 §1403. Definitions
+10 As used in this Chapter, unless the context clearly requires otherwise:
+11 (1) "Adverse action" means a denial of insurance coverage, a cancellation
+12 or nonrenewal of an insurance policy, an increase in premium or surcharge, a
+13 reduction in coverage limits or benefits, or any other action by an insurer that is
+14 materially unfavorable to an insurance consumer.
+15 (2) "Algorithmic decision system" or "ADS" means any computational
+16 process, including one derived from machine learning, artificial intelligence,
+17 statistical modeling, or other data processing, that processes personal information to
+18 generate a score, classification, recommendation, or decision that is used by an
+19 insurer in making insurance decisions. The term includes both systems developed
+20 by the insurer and third-party systems licensed or contracted by the insurer.
+21 (3) "Artificial intelligence" means machine-based systems that use statistical
+22 and computational methods to perform tasks that would otherwise require human
+23 intelligence, including classification, prediction, recommendation, and
+24 decisionmaking.
+25 (4) "Commissioner" means the Commissioner of Insurance of the State of
+26 Louisiana.
+27 (5) "Consumer" means any individual who is an applicant for, policyholder
+28 of, or claimant under an insurance policy regulated by this Act.
+Page 3 of 20
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1284 ORIGINAL
+HB NO. 880
+1 (6) "Covered insurer" means any insurer authorized to transact insurance in
+2 Louisiana that uses an algorithmic decision system in connection with personal lines
+3 homeowners insurance, commercial lines property and casualty insurance, personal
+4 automobile insurance, commercial automobile insurance, health insurance, or life
+5 insurance issued in Louisiana.
+6 (7) "Disparate impact" means a materially adverse and statistically significant
+7 difference in insurance outcomes, including denial rates, premium levels, or claims
+8 payment rates, between consumers who are members of a protected class and
+9 similarly situated consumers who are not members of that protected class.
+10 (8) "Explainability" means the capacity of an insurer to provide a specific,
+11 intelligible, and actionable explanation of the factors that most contributed to a
+12 particular insurance decision made with the assistance of an algorithmic decision
+13 system.
+14 (9) "Input variable" means any data element or feature used as an input to
+15 an algorithmic decision system.
+16 (10) "Insurance decision" means any decision by a covered insurer regarding
+17 underwriting, rating, policy issuance, renewal, cancellation, or claims handling.
+18 (11) "Protected class" means any category of persons protected from
+19 discrimination under applicable Louisiana or federal law, including but not limited
+20 to race, color, religion, sex, national origin, disability, age, familial status, and sexual
+21 orientation.
+22 (12) "Proxy variable" means an input variable that is not a protected class
+23 characteristic itself but is statistically correlated with membership in a protected class
+24 in a manner that causes or contributes to disparate impact on that protected class.
+25 (13) "Third-party model" means an algorithmic decision system developed,
+26 owned, or operated by a person other than the covered insurer, licensed or contracted
+27 to the insurer for use in insurance decisions.
+28 §1404. Scope and Applicability
+Page 4 of 20
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1284 ORIGINAL
+HB NO. 880
+1 A. This Chapter applies to all covered insurers transacting insurance in
+2 Louisiana.
+3 B. The obligations imposed by this Chapter apply to:
+4 (1) Algorithmic decision systems developed by the covered insurer;
+5 (2) Third-party algorithmic decision systems used by the covered insurer;
+6 and
+7 (3) Hybrid systems combining algorithmic outputs with human underwriting
+8 judgment.
+9 C. The use of a third-party model does not relieve a covered insurer of any
+10 obligation under this Chapter. Covered insurers shall contractually require third-
+11 party model providers to supply the information and access necessary for the insurer
+12 to fulfill its obligations under this Chapter.
+13 D. This Chapter does not apply to:
+14 (1) Basic actuarial calculations or rating factor applications that do not
+15 involve machine learning or AI components;
+16 (2) Fraud detection systems used exclusively to detect insurance fraud,
+17 provided such systems are not used to influence coverage or pricing decisions for
+18 consumers who are not suspected of fraud; or
+19 (3) Internal administrative systems that do not affect insurance decisions
+20 regarding consumers.
+21 §1405. Fairness Standards
+22 A. No covered insurer shall use an algorithmic decision system in a manner
+23 that:
+24 (1) Intentionally considers the protected class membership of any consumer
+25 as an input variable;
+26 (2) Uses input variables that are proxy variables for protected class
+27 membership and that produce a disparate impact on a protected class, unless the
+28 insurer demonstrates that each such variable is actuarially justified by sound actuarial
+Page 5 of 20
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1284 ORIGINAL
+HB NO. 880
+1 principles and the least discriminatory alternative sufficient to achieve the actuarial
+2 purpose; or
+3 (3) Produces decisions that are arbitrary, capricious, or bear no rational
+4 relationship to the risk of loss being assessed.
+5 B. The following input variables are presumed to function as proxy variables
+6 that may produce disparate impact and shall be subject to heightened scrutiny under
+7 this Chapter:
+8 (1) Credit scores or credit-based insurance scores used in personal
+9 automobiel or homeowners insurance underwriting or rating;
+10 (2) Geographic variables at the census tract, ZIP code, or neighborhood level
+11 where those variables are correlated with the racial, ethnic, or national origin
+12 composition of the area;
+13 (3) Prior insurance coverage gaps or lapses, when used without adjustment
+14 for demographic patterns in coverage gaps;
+15 (4) Education or occupation variables;
+16 (5) Social media data or online behavioral data; and
+17 (6) Consumer purchasing patterns or retail transaction data.
+18 C. Use of a presumptive proxy variable is not automatically prohibited, but
+19 an insurer using such a variable bears the burden of demonstrating, in its disparate
+20 impact audit required under Section 1407, that the variable does not produce a
+21 statistically significant disparate impact on any protected class, or that the disparate
+22 impact is justified by actuarial necessity and no less discriminatory alternative exists.
+23 §1406. Governance Requirements for Algorithmic Systems
+24 A. Each covered insurer that uses an algorithmic decision system shall adopt
+25 written governance policies and procedures for the development, validation,
+26 deployment, monitoring, and retirement of such systems. At a minimum, these
+27 policies shall address:
+28 (1) The roles and responsibilities of persons involved in developing,
+29 validating, and overseeing algorithmic systems;
+Page 6 of 20
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1284 ORIGINAL
+HB NO. 880
+1 (2) testing requirements, including disparate impact testing before any new
+2 or materially modified system is deployed;
+3 (3) Ongoing monitoring requirements to detect model drift, performance
+4 degradation, or emerging disparate impact;
+5 (4) Procedures for investigating and remedying identified fairness issues;
+6 (5) Documentation requirements to maintain records sufficient to
+7 demonstrate compliance with this Chapter; and
+8 (6) Escalation procedures for significant fairness concerns identified by staff.
+9 B. Covered insurers shall designate a senior officer with responsibility for
+10 AI governance and compliance with this Chapter.
+11 C. Covered insurers shall train relevant staff on the requirements of this
+12 Chapter and on the principles of fair and responsible AI use in insurance.
+13 §1407. Disparate Impact Audits
+14 A. Each covered insurer shall conduct an annual disparate impact audit of
+15 each algorithmic decision system used in insurance decisions affecting Louisiana
+16 consumers.
+17 B. The disparate impact audit shall:
+18 (1) Analyze insurance outcomes — including coverage denial rates,
+19 premium levels, claims payment rates, and claims denial rates — disaggregated by
+20 race, color, national origin, sex, age, disability status, and geographic area;
+21 (2) Apply statistical testing appropriate to the size and nature of the insurer's
+22 Louisiana book of business to determine whether disparate impact exists at a level
+23 of statistical significance;
+24 (3) Assess the contribution of each input variable to any identified disparate
+25 impact;
+26 (4) Evaluate whether less discriminatory alternatives exist that would
+27 achieve the insurer's actuarial objectives with reduced disparate impact; and
+28 (5) Document the methodology, findings, and any corrective actions taken
+29 or planned.
+Page 7 of 20
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1284 ORIGINAL
+HB NO. 880
+1 C. The disparate impact audit shall be conducted by a qualified independent
+2 actuary or data scientist. An actuary conducting an audit under this section shall be
+3 a Fellow of the Casualty Actuarial Society, a Fellow of the Society of Actuaries, or
+4 a Fellow of the American Academy of Actuaries. A data scientist conducting an
+5 audit under this section shall have demonstrated expertise in algorithmic fairness
+6 methods.
+7 D. Where an insurer lacks sufficient Louisiana-specific data to conduct a
+8 statistically reliable audit, the insurer shall use national data supplemented by
+9 Louisiana-specific information to the extent available, and shall note this limitation
+10 in the audit report.
+11 E. Covered insurers shall file a Disparate Impact Audit Certification with the
+12 Commissioner annually, no later than June 30 of each year. The certification shall
+13 be signed by the insurer's senior AI governance officer and shall include:
+14 (1) A summary of each algorithmic system audited;
+15 (2) A statement of whether any disparate impact was identified;
+16 (3) If disparate impact was identified, a description of the corrective actions
+17 taken or a justification demonstrating actuarial necessity and absence of a less
+18 discriminatory alternative; and
+19 (4) A certification that the audit was conducted in accordance with this
+20 section.
+21 F. The Commissioner shall maintain a public registry of Disparate Impact
+22 Audit Certifications, redacted of confidential proprietary information as provided in
+23 Section 1413.
+24 §1408. Prohibited Variables
+25 A. Notwithstanding any actuarial justification, the following variables shall
+26 not be used as input variables in algorithmic decision systems for homeowners
+27 insurance underwriting or rating in Louisiana:
+28 (1) Credit scores or credit-based insurance scores;
+Page 8 of 20
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1284 ORIGINAL
+HB NO. 880
+1 (2) Race, color, religion, national origin, sex, disability, familial status, age,
+2 or sexual orientation of any consumer;
+3 (3) Membership in any protected class as defined in this Chapter;
+4 (4) Social media activity, social network connections, or online behavioral
+5 data; and
+6 (5) Consumer purchasing data from retail transactions.
+7 B. For commercial lines insurance, use of the variables in subsection A(2)
+8 and A(3) is prohibited. Use of other variables in subsection A may be permitted
+9 upon demonstration to the Commissioner that the variable is actuarially justified and
+10 does not produce disparate impact.
+11 C. The Commissioner may, by rule, designate additional prohibited variables
+12 based on evidence of disparate impact or the absence of actuarial justification.
+13 §1409. Claims Adjustment AI Standards
+14 A. No covered insurer shall use an algorithmic decision system to generate
+15 a final claims payment determination without human review and approval of each
+16 determination by a licensed claims professional.
+17 B. The human reviewer of an AI-assisted claims determination shall:
+18 (1) Have sufficient authority to override the algorithmic determination;
+19 (2) Have access to the specific factors driving the algorithmic determination;
+20 and
+21 (3) Document the basis for approval, modification, or override of each
+22 determination.
+23 C. An insurer shall not use an algorithmic claims system to generate initial
+24 settlement offers designed to be lower than the expected value of the claim with the
+25 purpose of settling claims below their true value. Any algorithmic determination that
+26 an insurer intends to use as a settlement offer shall be based on objective property
+27 and liability valuation data.
+Page 9 of 20
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1284 ORIGINAL
+HB NO. 880
+1 D. The Commissioner may conduct market conduct examinations of insurers'
+2 AI claims systems to assess compliance with this section and the overall fairness of
+3 claims outcomes by protected class.
+4 §1410. Disclosure of AI Use
+5 A. Every covered insurer shall disclose to consumers, at the time of
+6 application, renewal, or any adverse action, whether an algorithmic decision system
+7 was used in making the insurance decision affecting that consumer.
+8 B. The disclosure shall be clear, conspicuous, and understandable to a
+9 consumer without specialized knowledge, and shall appear in the following language
+10 or substantially similar language:
+11 "[Insurer name] uses automated or artificial intelligence systems to assist in
+12 insurance decisions. Your [application/renewal/claim] has been processed using
+13 such a system. You have the right to request an explanation of the factors that most
+14 influenced this decision."
+15 C. When a covered insurer interacts with a consumer through an automated
+16 chatbot, virtual assistant, or similar automated system, the insurer shall clearly
+17 disclose to the consumer at the beginning of the interaction that they are
+18 communicating with an automated system and not a human representative.
+19 §1411. Right to Explanation
+20 A. Any consumer who is the subject of an adverse action involving the use
+21 of an algorithmic decision system has the right to request, within thirty (30) days of
+22 the adverse action, a written explanation of the decision.
+23 B. Upon receipt of a request for explanation, the covered insurer shall, within
+24 twenty-one (21) days, provide the consumer with:
+25 (1) A clear statement of the nature of the adverse action;
+26 (2) A plain language description of the top factors that most significantly
+27 contributed to the adverse action, ranked in order of their relative contribution;
+28 (3) A description of the data sources used in the decision;
+29 (4) Information about the consumer's right to correct inaccurate data; and
+Page 10 of 20
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1284 ORIGINAL
+HB NO. 880
+1 (5) Information about the consumer's right to file a complaint with the
+2 Commissioner and to seek a review of the decision.
+3 C. The explanation required by this section shall be specific to the individual
+4 consumer and shall not consist solely of generic descriptions of the algorithmic
+5 system. The explanation shall be sufficiently specific to enable the consumer to
+6 understand what, if anything, they could do differently to obtain a more favorable
+7 outcome.
+8 D. An insurer's assertion of trade secret protection for its algorithmic system
+9 does not relieve the insurer of its obligation to provide consumer-specific
+10 explanation under this section. The Commissioner shall by rule establish standards
+11 for providing meaningful explanation while protecting legitimate trade secrets.
+12 §1412. Right to Human Review
+13 A. Any consumer who has received an adverse action based wholly or
+14 substantially on the output of an algorithmic decision system may, within thirty (30)
+15 days of receiving the adverse action notice or explanation, request human review of
+16 the decision.
+17 B. Upon receipt of a request for human review, the covered insurer shall:
+18 (1) Assign a qualified human underwriter or claims professional to
+19 independently review the decision;
+20 (2) Complete the review and provide a written determination within thirty
+21 (30) days of the request; and
+22 (3) Provide the consumer with a written explanation of the human reviewer's
+23 determination.
+24 C. The human reviewer shall have full authority to modify or reverse the
+25 original adverse action. The human reviewer's determination shall be based on the
+26 specific facts of the consumer's situation and shall not be simply a reendorsement of
+27 the algorithmic output.
+28 §1413. Data Accuracy and Correction
+Page 11 of 20
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1284 ORIGINAL
+HB NO. 880
+1 A. Each covered insurer shall maintain reasonable procedures to ensure the
+2 accuracy of data used in algorithmic decision systems.
+3 B. Any consumer has the right to:
+4 (1) Request that the insurer identify the data sources used in making an
+5 insurance decision affecting that consumer;
+6 (2) Dispute the accuracy of data used in an adverse action; and
+7 (3) Have inaccurate data corrected and the adverse action reconsidered.
+8 C. Upon receipt of a dispute regarding data accuracy, the covered insurer
+9 shall, within thirty (30) days, investigate the dispute and either correct the data and
+10 reconsider the decision or notify the consumer of the insurer's determination that the
+11 data is accurate.
+12 §1414. Commissioner Authority and Rulemaking
+13 A. The Commissioner shall have authority to promulgate rules and
+14 regulations necessary to implement this Chapter, including rules governing:
+15 (1) Standards for disparate impact audits, including acceptable
+16 methodologies and statistical significance thresholds;
+17 (2) The format and content of Disparate Impact Audit Certifications;
+18 (3) Additional prohibited variables;
+19 (4) Standards for AI governance policies;
+20 (5) The format and content of consumer disclosures and explanations; and
+21 (6) Procedures for market conduct examinations related to AI systems.
+22 B. In promulgating rules under this Chapter, the Commissioner shall
+23 consider guidance from the National Association of Insurance Commissioners,
+24 National Council of Insurance Legislators, the Federal Trade Commission, and other
+25 relevant regulatory bodies.
+26 C. The Commissioner shall consult with the Louisiana Legislative Black
+27 Caucus, consumer advocacy organizations, civil rights organizations, and
+28 representatives of the insurance industry in developing rules under this Chapter.
+29 §1415. Market Conduct Examinations
+Page 12 of 20
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1284 ORIGINAL
+HB NO. 880
+1 A. The Commissioner may conduct market conduct examinations of covered
+2 insurers to assess compliance with this Chapter.
+3 B. As part of a market conduct examination, the Commissioner may require
+4 a covered insurer to:
+5 (1) Provide documentation of its AI governance policies and procedures;
+6 (2) Provide access to its algorithmic decision systems and the data used by
+7 those systems;
+8 (3) Provide complete disparate impact audit reports, not merely the
+9 certifications filed with the Commissioner; and
+10 (4) Demonstrate the explainability of its algorithmic systems.
+11 C. The Commissioner may retain independent actuarial, data science, or
+12 technology experts to assist in market conduct examinations under this Chapter. The
+13 reasonable costs of such experts shall be borne by the insurer being examined.
+14 D. Market conduct examination reports relating to AI systems shall be
+15 confidential to the extent necessary to protect legitimate trade secrets, but the
+16 Commissioner shall publish aggregate findings of AI fairness examinations annually.
+17 §1416. Filing Requirements for New AI Systems
+18 A. At least sixty (60) days before deploying a new algorithmic decision
+19 system, or a material modification of an existing system, a covered insurer shall file
+20 with the Commissioner a notice that includes:
+21 (1) A description of the system and its intended use;
+22 (2) A summary of predeployment disparate impact testing results;
+23 (3) A description of the data used to train and validate the system;
+24 (4) A description of the input variables used; and
+25 (5) A certification that the system complies with the requirements of this
+26 Chapter.
+27 B. The Commissioner may, within sixty (60) days of receiving a notice
+28 under this section, request additional information or documentation from the insurer.
+29 Deployment of the system shall be stayed pending the Commissioner's response if
+Page 13 of 20
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1284 ORIGINAL
+HB NO. 880
+1 the Commissioner requests additional information within fifteen (15) days of the
+2 notice.
+3 C. The Commissioner may prohibit deployment of a system or require
+4 modification of a system that the Commissioner determines does not comply with
+5 this Chapter.
+6 §1417. Annual Report on AI Insurance Fairness
+7 A. The Commissioner shall prepare and publish an annual report on AI
+8 Insurance Fairness in Louisiana. The report shall include:
+9 (1) Aggregate findings from Disparate Impact Audit Certifications, including
+10 the number of insurers reporting disparate impact and the steps taken to address
+11 identified disparities;
+12 (2) A summary of market conduct examination findings related to AI
+13 systems;
+14 (3) An analysis of insurance outcome data by race, color, and national origin
+15 for homeowners and commercial lines;
+16 (4) Recommendations for regulatory improvements; and
+17 (5) An assessment of emerging AI technologies and their potential impact
+18 on insurance fairness.
+19 B. The Commissioner shall submit the annual report to the Legislature and
+20 shall present findings to the House Committee on Insurance and the Senate
+21 Committee on Insurance.
+22 §1418. Civil Penalties
+23 A. A covered insurer that violates any provision of this Chapter shall be
+24 subject to a civil penalty as follows:
+25 (1) For failure to conduct a required disparate impact audit: not less than
+26 twenty-five thousand dollars ($25,000) and not more than one hundred thousand
+27 dollars ($100,000) per violation;
+Page 14 of 20
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1284 ORIGINAL
+HB NO. 880
+1 (2) For failure to provide required disclosures or explanations to a consumer:
+2 not less than five thousand dollars ($5,000) and not more than twenty-five thousand
+3 dollars ($25,000) per violation;
+4 (3) For use of a prohibited variable under Section 1408: not less than fifty
+5 thousand dollars ($50,000) and not more than two hundred fifty thousand dollars
+6 ($250,000) per violation;
+7 (4) For failure to conduct required human review of an adverse action: not
+8 less than ten thousand dollars ($10,000) and not more than fifty thousand dollars
+9 ($50,000) per violation; and
+10 (5) For failure to file required certifications or notices: not less than ten
+11 thousand dollars ($10,000) and not more than fifty thousand dollars ($50,000) per
+12 day of violation.
+13 B. In determining the amount of any civil penalty under this section, the
+14 Commissioner shall consider:
+15 (1) The severity of the violation and the extent to which consumers were
+16 harmed;
+17 (2) Whether the violation was knowing or willful;
+18 (3) The insurer's history of compliance with this Chapter and other insurance
+19 laws;
+20 (4) The insurer's good faith efforts to correct the violation; and
+21 (5) The financial size of the insurer
+22 C. Civil penalties collected under this section shall be deposited in the
+23 Louisiana AI Insurance Fairness Fund established by Section 1421.
+24 §1419. Private Right of Action
+25 A. Any consumer who suffers harm as a result of a covered insurer's
+26 violation of this Chapter shall have a private right of action against the insurer in a
+27 court of competent jurisdiction in Louisiana.
+28 B. A consumer who prevails in an action under this section shall be entitled
+29 to:
+Page 15 of 20
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1284 ORIGINAL
+HB NO. 880
+1 (1) Actual damages, including any economic loss attributable to the adverse
+2 action;
+3 (2) Statutory damages of not less than one thousand dollars ($1,000) and not
+4 more than ten thousand dollars ($10,000) per violation, regardless of actual damages;
+5 (3) Punitive damages, where the insurer's conduct was knowing, willful, or
+6 reckless;
+7 (4) Injunctive or declaratory relief; and
+8 (5) Reasonable attorneys' fees and costs
+9 C. An action under this section shall be filed within two (2) years of the date
+10 the consumer discovered or reasonably should have discovered the violation.
+11 D. The filing of a complaint with the Commissioner shall toll the statute of
+12 limitations for any related private action for the period during which the
+13 Commissioner's investigation is pending.
+14 E. Nothing in this section shall be construed to require exhaustion of
+15 administrative remedies before filing a private action.
+16 §1420. Class Actions
+17 A. A named plaintiff in a class action under this section need not show
+18 individual actual damages as a prerequisite to maintaining the class action where the
+19 claims are based on a systematic pattern of discriminatory algorithmic practice.
+20 §1421. Louisiana AI Insurance Fairness Fund
+21 A. There is hereby created in the state treasury a special fund to be known
+22 as the Louisiana Artificial Intelligence Insurance Fairness Fund.
+23 B. The fund shall receive civil penalties collected under this Chapter and
+24 such other appropriations as the Legislature may provide.
+25 C. Monies in the fund shall be used to:
+26 (1) Fund the Commissioner's AI examination and oversight activities;
+27 (2) Provide technical assistance and education to consumers regarding their
+28 rights under this Chapter;
+Page 16 of 20
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1284 ORIGINAL
+HB NO. 880
+1 (3) Provide grants to legal aid organizations for representation of consumers
+2 in actions under this Chapter;
+3 (4) Fund research on AI insurance fairness; and
+4 (5) Cover administrative costs of the AI Fairness Advisory Board established
+5 by Section 1422.
+6 §1422. AI Insurance Fairness Advisory Board
+7 A. The Commissioner shall establish an AI Insurance Fairness Advisory
+8 Board to advise the Commissioner on the implementation and development of this
+9 Chapter.
+10 B. The Advisory Board shall consist of fifteen (15) members appointed by
+11 the Commissioner, including:
+12 (1) Three representatives of the insurance industry;
+13 (2) Two consumer advocates;
+14 (3) Two civil rights advocates, at least one of whom shall be nominated by
+15 the Louisiana Legislative Black Caucus;
+16 (4) Two representatives of minority business organizations;
+17 (5) Two data scientists or AI fairness experts;
+18 (6) One actuary;
+19 (7) One legal scholar with expertise in anti-discrimination law;
+20 (8) One representative from a Louisiana law enforcement or criminal justice
+21 agency; and
+22 (9) One member of the general public.
+23 C. The Advisory Board shall meet at least quarterly and shall advise the
+24 Commissioner on rules, examination priorities, and annual report findings.
+25 §1423. Relation to Other Laws
+26 A. This Chapter supplements and does not supersede existing state and
+27 federal anti-discrimination laws applicable to insurance, including but not limited to
+28 the federal Fair Housing Act, the Equal Credit Opportunity Act, and Louisiana's
+29 unfair trade practices laws.
+Page 17 of 20
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1284 ORIGINAL
+HB NO. 880
+1 B. Nothing in this Chapter shall be construed to limit or restrict the
+2 Commissioner's existing authority to prohibit unfair discrimination in insurance
+3 under Louisiana law.
+4 C. Where any provision of this Chapter conflicts with a provision of another
+5 state law, the provision that affords greater protection to consumers shall apply.
+6 §1424. Severability
+7 If any provision of this Chapter or its application to any person or
+8 circumstance is held invalid, the invalidity does not affect other provisions or
+9 applications which can be given effect without the invalid provision or application,
+10 and to this end the provisions of this Chapter are severable.
+11 §1425. Effective Date; Phased Implementation
+12 A. This Act shall take effect January 1 of the year following its enactment.
+13 B. The following provisions shall be implemented on a phased schedule:
+14 (1) Section 1410 (AI disclosure requirements) and Section 1411 (right to
+15 explanation) shall be effective six (6) months after enactment;
+16 (2) Section 1407 (disparate impact audits) and Section 1416 (predeployment
+17 filing) shall be effective twelve (12) months after enactment; and
+18 (3) Section 1408 (prohibited variables) shall be effective eighteen (18)
+19 months after enactment, to allow insurers time to modify their systems to comply.
+20 C. The Commissioner shall publish implementing guidance and model
+21 compliance frameworks for each phase of implementation at least ninety (90) days
+22 before the effective date of each phase.
+Page 18 of 20
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1284 ORIGINAL
+HB NO. 880
+DIGEST
+The digest printed below was prepared by House Legislative Services. It constitutes no part
+of the legislative instrument. The keyword, one-liner, abstract, and digest do not constitute
+part of the law or proof or indicia of legislative intent. [R.S. 1:13(B) and 24:177(E)]
+HB 880 Original 2026 Regular Session Jordan
+Abstract: Establishes comprehensive standards governing the use of artificial intelligence
+and algorithmic systems in the domains of insurance underwriting, rating, and claims
+adjustment. Prohibits unfair discrimination facilitated through algorithmic means and
+mandates the conduct of disparate impact audits. Requires transparent consumer
+disclosures and ensures explainability of algorithmic decisions. Authorizes the
+commissioner of insurance to enact rules and enforce compliance and stipulates civil
+penalties for violations, along with providing a private right of action for aggrieved
+parties.
+Proposed law enacts the Louisiana Artificial Intelligence Insurance Fairness Act to regulate
+the use of artificial intelligence and algorithmic decision systems in insurance underwriting,
+rating, policy issuance, renewal, cancellation, and claims handling.
+Proposed law defines key terms including “algorithmic decision system”, “disparate impact”,
+“protected class”, “proxy variable”, “third party model”, and “adverse action”.
+Proposed law applies the Act to all covered insurers using algorithmic systems in personal
+and commercial lines and provides that insurers remain responsible for compliance when
+using third party models.
+Proposed law prohibits the use of algorithmic systems that intentionally consider protected
+class characteristics, rely on proxy variables that produce disparate impact without actuarial
+necessity, or generate arbitrary or capricious decisions. Provides heightened scrutiny for
+certain presumptive proxy variables.
+Proposed law requires insurers to adopt written AI governance policies, designate a senior
+AI governance officer, and train staff on fair AI use.
+Proposed law requires annual disparate impact audits conducted by qualified independent
+actuaries or data scientists, mandates certification filings with the commissioner, and
+establishes a public registry of certifications.
+Proposed law prohibits specified variables in homeowners insurance underwriting and
+rating, including credit scores, protected class characteristics, social media data, and
+consumer purchasing data, and authorizes the commissioner to designate additional
+prohibited variables.
+Proposed law establishes standards for AI assisted claims adjustment, including mandatory
+human review, documentation requirements, and prohibitions on algorithmically generated
+low value settlement offers.
+Proposed law requires consumer disclosures when AI is used in insurance decisions,
+establishes a right to explanation for adverse actions, and provides a right to human review.
+Proposed law provides procedures for data accuracy, correction, and reconsideration of
+adverse actions.
+Proposed law authorizes the commissioner to promulgate rules, conduct market conduct
+examinations, require access to algorithmic systems and data, and publish aggregate
+Page 19 of 20
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1284 ORIGINAL
+HB NO. 880
+findings.
+Proposed law requires insurers to file notice before deploying new or materially modified
+AI systems and authorizes the commissioner to stay or prohibit deployment.
+Proposed law establishes civil penalties for violations, creates a private right of action with
+damages and attorneys’ fees, authorizes class actions, and creates the Louisiana Artificial
+Intelligence Insurance Fairness Fund.
+Proposed law creates an AI Insurance Fairness Advisory Board to advise the commissioner.
+Proposed law provides that the Act supplements existing anti discrimination laws.
+(Adds R.S. 22:1401-1424)
+Page 20 of 20
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+[DELETED: 4O a d s i i u r a c i a c d a e t a 1 C 1 o T 2 o t L R S o 1 A i m l a a d]
+[DELETED: 4O T a s p s r o u B H I a o m c w l i c w o h s a T i i d i e t e]
+[DELETED: 4O E a p r o a f i s t  P L a a n l i t f a r n a i p a i i p o s  " d s o " m a c i o d f m l a i i c p r a]
+[DELETED: 4O r b c w a m o a p c a " c m a c o p p f]
+[DELETED: 4O T C t a c i  U i v t a p v f p c]
+[DELETED: 4O  C s o c i s u i p t v a c w t r e o n o g p a p f t d v T r a r o p i i d]
+[DELETED: 4O  D r t m r s t  A i o — i c d r  E w l d a e t w]
+[DELETED: 4O r a t i s u n d s b o a d a a]
+[DELETED: 4O]
+[DELETED: 4O  E c i s d t c a t t o a o s a t i c t t c a t b o t i t t a]
+[DELETED: 4O n r t i o i o t p c  A a q h u o c p t]
+[DELETED: 4O  T C s h a t p r a  S f d i a i a  I p r u t C t C s g f t N A o I C c a o c r o a]
+[DELETED: 4O  P c d i a r n m t t t e n t p l t s b t]
+[DELETED: 4O  A s o m c e f r t A p f t t H C o I a t S]
+[DELETED: 4O  A c w s h a a r o a c i]
+[DELETED: 4O f a r p a f t p d w t  N i t s s b c t r e o]
+[DELETED: 4O]
+[DELETED: 4O  N i t C s b c t l o r t a p o t C o i a t a p o i h i t i d n a o p o e a m]
+[DELETED: 4Ol2nJ a e e o a d A t o d s m c f w t c a l s h a i c s p c c s m d a p d a a t c t d a l r c d w A i u i i d r a t a s a d a p a]
+[DELETED: 4O]

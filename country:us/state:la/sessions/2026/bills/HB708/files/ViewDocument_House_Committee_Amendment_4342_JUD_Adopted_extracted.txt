@@ -1,0 +1,196 @@
+Title: Amendments proposed by House Committee on Judiciary to Original House Bill No. 708
+Official Title: Amendments proposed by House Committee on Judiciary to Original House Bill No. 708
+Number of Sections: 1
+Source: versions - House Committee Amendment, #4342, JUD, Adopted
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+HCAHB708 4872 4342
+HOUSE COMMITTEE AMENDMENTS
+2026 Regular Session
+by Representative Ventrella
+1 AMENDMENT NO. 1
+2 On page 1, line 2, after "To" and before "enact" insert "amend and reenact R.S. 13:2602 and
+3 to"
+4 AMENDMENT NO. 2
+5 On page 1, line 14, change "C.(1)" to "C."
+6 AMENDMENT NO. 3
+7 On page 2, delete lines 1 through 3 in their entirety and insert the following:
+8
+9 "Section 2. R.S. 13:2602 is hereby amended and reenacted to read as follows:
+10 §2602. Territorial jurisdiction of the justice of the peace courts of East Baton Rouge
+11 Parish
+12 A. The territorial jurisdiction of the several justice of the peace courts within
+13 the parish of East Baton Rouge, as they exist on the effective date of this Section,
+14 shall continue and shall not be diminished or otherwise changed by reason of the
+15 annexation into any municipality within the parish of all or any part of the area
+16 comprising such territorial jurisdiction of a justice of the peace court.
+17 The territorial jurisdiction of the justice of the peace districts and courts in
+18 East Baton Rouge Parish shall be as follows:
+19 (1) District 1 is composed of Precincts 2-5, 2-14, 2-15, 2-18, 2-21, 2-26, 2-28,
+20 2-29, 2-32, 2-34, 2-35, 2-36, 2-37, and 2-38 of East Baton Rouge Parish.
+21 (2) District 2 is composed of Precincts 2-6, 2-7, 2-8, and 2-33 of East Baton
+22 Rouge Parish.
+23 (3) District 3 is composed of Precincts 1-2, 1-9, 1-33, 1-34, 1-36, 1-49, 1-52,
+24 1-53, 1-55, 1-57, 1-60, 1-71, 1-72, 1-74, 1-87, 1-97, 1-104, 3-1, 3-2, 3-6, 3-8, 3-9,
+25 3-12, 3-14, 3-24, 3-25, 3-26, 3-30, 3-37, 3-42, 3-46, 3-54, 3-58, and 3-61 of East
+26 Baton Rouge Parish.
+27 (4) District 4 is composed of Precincts 1-10, 1-11, 1-13, 1-14, 1-15, 1-16,
+28 1-18, 1-19, 1-20, 1-21, 1-22, 1-23, 1-24, 1-25, 1-26, 1-27, 1-28, 1-29, 1-30, 1-31,
+29 1-32, 1-50, 1-54, 1-58, 1-61, 1-62, 1-63, 1-70, 1-77, 1-78, 1-82, 1-83, 1-84, 1-85,
+30 1-86, 1-88, 1-91, 1-92, 1-93, 1-94, 1-95, 1-96, 1-100, 1-101, 2-1, 2-2, 2-3, 2-4, 2-9,
+31 2-10, 2-11, 2-12, 2-13, 2-16, 2-17, 2-19, 2-20, 2-22, 2-23, 2-24, 2-25, 2-27, 2-30, and
+32 2-31 of East Baton Rouge Parish.
+33 (5) District 5 is composed of Precincts 1-79, 1-80, 1-81, 1-89, 1-90, 1-98,
+34 1-99, 1-103, 1-105, 3-3, 3-7, 3-10, 3-11, 3-13, 3-15, 3-16, 3-17, 3-21, 3-22, 3-27,
+35 3-28, 3-29, 3-31, 3-32, 3-33, 3-34, 3-38, 3-39, 3-41, 3-43, 3-45, 3-47, 3-48, 3-51,
+36 3-53, 3-59, 3-60, 3-66, 3-71, 3-72, and 3-73 of East Baton Rouge Parish.
+37 (6) District 6 is composed of Precincts 1-1, 1-3, 1-4, 1-5, 1-6, 1-7, 1-8, 1-12,
+38 1-35, 1-37, 1-38, 1-39, 1-40, 1-41, 1-42, 1-43, 1-44, 1-45, 1-46, 1-47, 1-48, 1-51,
+39 1-56, 1-59, 1-64, 1-65, 1-66, 1-67, 1-69, 1-73, 1-75, 1-76, 1-102, 1-106, 1-107, 3-4,
+40 3-5, 3-18, 3-19, 3-20, 3-23, 3-35, 3-36, 3-40, 3-44, 3-49, 3-50, 3-52, 3-55, 3-56, 3-57,
+41 3-62, 3-63, 3-64, 3-65, 3-67, 3-68, 3-69, 3-70, 3-74, 3-75, and 3-76 of East Baton
+42 Rouge Parish.
+43 B. Whenever, by reason of annexation, the territorial jurisdiction of a mayor's
+44 court or a city court is extended into all or any part of the territorial jurisdiction of
+45 a justice of the peace court theretofore existing, the territorial jurisdiction of the
+46 mayor's court or the city court, as the case may be, shall be concurrent with that of
+Page 1 of 2
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HCAHB708 4872 4342
+1 the justice of the peace court. The persons elected to the offices of justice of the
+2 peace and constable for such justice of the peace courts in East Baton Rouge Parish
+3 at the regularly scheduled election in 2026 and their successors shall be elected from
+4 districts provided in this Section.
+5 Section 3.(A) The precincts referenced in this Act are those contained in the
+6 file named "2026 Precinct Shapefiles (01-27-2026)" available on the website of the
+7 Legislature of Louisiana on the effective date of this Section. The 2026 Precinct
+8 Shapefiles are based upon those Voting Districts (VTDs) contained in the 2020
+9 Census Redistricting TIGER/Line Shapefiles for the State of Louisiana as those files
+10 have been modified and validated through the data verification program of the
+11 Louisiana House of Representatives and the Louisiana Senate to represent precinct
+12 changes submitted through January 27, 2026, to the Legislature of Louisiana by
+13 parish governing authorities pursuant to the provisions of R.S. 18:532 and 532.1.
+14 (B) When a precinct referenced in this Act has been subdivided by action of
+15 the parish governing authority on a nongeographic basis or subdivided by action of
+16 the parish governing authority on a geographic basis in accordance with the
+17 provisions of R.S. 18:532.1, the enumeration in this Act of the general precinct
+18 designation shall include all nongeographic and all geographic subdivisions thereof,
+19 however such subdivisions may be designated.
+20 (C) The territorial limits of the districts as provided in this Act shall continue
+21 in effect until changed by law regardless of any subsequent change made to the
+22 precincts by the parish governing authority.
+23 Section 4. Each justice of the peace court in East Baton Rouge Parish shall
+24 retain jurisdiction over any matter properly filed with the court on or before the
+25 effective date of this Act.
+26 Section 5. This Act shall become effective upon signature by the governor
+27 or, if not signed by the governor, upon expiration of the time for bills to become law
+28 without signature by the governor, as provided by Article III, Section 18 of the
+29 Constitution of Louisiana. If vetoed by the governor and subsequently approved by
+30 the legislature, this Act shall become effective on the day following such approval."
+Page 2 of 2
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+[DELETED: AOtAOAO"0§1P2A3t4s5a6c7T8E9(021(2R3(41536B7(81910112223(4153637(819103132R3B4c5a6m]
+[DELETED: t.TpadSfLSC0h1L2c3p4(5t6t p g a o a g b i a w t7p8d9h0(1i2p3S4r5e6S7o8w9C0t]
+
+
+================================================================================
+
+Raw Text:
+HCAHB708 4872 4342
+HOUSE COMMITTEE AMENDMENTS
+2026 Regular Session
+Amendments proposed by House Committee on Judiciary to Original House Bill No. 708
+by Representative Ventrella
+1 AMENDMENT NO. 1
+2 On page 1, line 2, after "To" and before "enact" insert "amend and reenact R.S. 13:2602 and
+3 to"
+4 AMENDMENT NO. 2
+5 On page 1, line 14, change "C.(1)" to "C."
+6 AMENDMENT NO. 3
+7 On page 2, delete lines 1 through 3 in their entirety and insert the following:
+8
+9 "Section 2. R.S. 13:2602 is hereby amended and reenacted to read as follows:
+10 §2602. Territorial jurisdiction of the justice of the peace courts of East Baton Rouge
+11 Parish
+12 A. The territorial jurisdiction of the several justice of the peace courts within
+13 the parish of East Baton Rouge, as they exist on the effective date of this Section,
+14 shall continue and shall not be diminished or otherwise changed by reason of the
+15 annexation into any municipality within the parish of all or any part of the area
+16 comprising such territorial jurisdiction of a justice of the peace court.
+17 The territorial jurisdiction of the justice of the peace districts and courts in
+18 East Baton Rouge Parish shall be as follows:
+19 (1) District 1 is composed of Precincts 2-5, 2-14, 2-15, 2-18, 2-21, 2-26, 2-28,
+20 2-29, 2-32, 2-34, 2-35, 2-36, 2-37, and 2-38 of East Baton Rouge Parish.
+21 (2) District 2 is composed of Precincts 2-6, 2-7, 2-8, and 2-33 of East Baton
+22 Rouge Parish.
+23 (3) District 3 is composed of Precincts 1-2, 1-9, 1-33, 1-34, 1-36, 1-49, 1-52,
+24 1-53, 1-55, 1-57, 1-60, 1-71, 1-72, 1-74, 1-87, 1-97, 1-104, 3-1, 3-2, 3-6, 3-8, 3-9,
+25 3-12, 3-14, 3-24, 3-25, 3-26, 3-30, 3-37, 3-42, 3-46, 3-54, 3-58, and 3-61 of East
+26 Baton Rouge Parish.
+27 (4) District 4 is composed of Precincts 1-10, 1-11, 1-13, 1-14, 1-15, 1-16,
+28 1-18, 1-19, 1-20, 1-21, 1-22, 1-23, 1-24, 1-25, 1-26, 1-27, 1-28, 1-29, 1-30, 1-31,
+29 1-32, 1-50, 1-54, 1-58, 1-61, 1-62, 1-63, 1-70, 1-77, 1-78, 1-82, 1-83, 1-84, 1-85,
+30 1-86, 1-88, 1-91, 1-92, 1-93, 1-94, 1-95, 1-96, 1-100, 1-101, 2-1, 2-2, 2-3, 2-4, 2-9,
+31 2-10, 2-11, 2-12, 2-13, 2-16, 2-17, 2-19, 2-20, 2-22, 2-23, 2-24, 2-25, 2-27, 2-30, and
+32 2-31 of East Baton Rouge Parish.
+33 (5) District 5 is composed of Precincts 1-79, 1-80, 1-81, 1-89, 1-90, 1-98,
+34 1-99, 1-103, 1-105, 3-3, 3-7, 3-10, 3-11, 3-13, 3-15, 3-16, 3-17, 3-21, 3-22, 3-27,
+35 3-28, 3-29, 3-31, 3-32, 3-33, 3-34, 3-38, 3-39, 3-41, 3-43, 3-45, 3-47, 3-48, 3-51,
+36 3-53, 3-59, 3-60, 3-66, 3-71, 3-72, and 3-73 of East Baton Rouge Parish.
+37 (6) District 6 is composed of Precincts 1-1, 1-3, 1-4, 1-5, 1-6, 1-7, 1-8, 1-12,
+38 1-35, 1-37, 1-38, 1-39, 1-40, 1-41, 1-42, 1-43, 1-44, 1-45, 1-46, 1-47, 1-48, 1-51,
+39 1-56, 1-59, 1-64, 1-65, 1-66, 1-67, 1-69, 1-73, 1-75, 1-76, 1-102, 1-106, 1-107, 3-4,
+40 3-5, 3-18, 3-19, 3-20, 3-23, 3-35, 3-36, 3-40, 3-44, 3-49, 3-50, 3-52, 3-55, 3-56, 3-57,
+41 3-62, 3-63, 3-64, 3-65, 3-67, 3-68, 3-69, 3-70, 3-74, 3-75, and 3-76 of East Baton
+42 Rouge Parish.
+43 B. Whenever, by reason of annexation, the territorial jurisdiction of a mayor's
+44 court or a city court is extended into all or any part of the territorial jurisdiction of
+45 a justice of the peace court theretofore existing, the territorial jurisdiction of the
+46 mayor's court or the city court, as the case may be, shall be concurrent with that of
+Page 1 of 2
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HCAHB708 4872 4342
+1 the justice of the peace court. The persons elected to the offices of justice of the
+2 peace and constable for such justice of the peace courts in East Baton Rouge Parish
+3 at the regularly scheduled election in 2026 and their successors shall be elected from
+4 districts provided in this Section.
+5 Section 3.(A) The precincts referenced in this Act are those contained in the
+6 file named "2026 Precinct Shapefiles (01-27-2026)" available on the website of the
+7 Legislature of Louisiana on the effective date of this Section. The 2026 Precinct
+8 Shapefiles are based upon those Voting Districts (VTDs) contained in the 2020
+9 Census Redistricting TIGER/Line Shapefiles for the State of Louisiana as those files
+10 have been modified and validated through the data verification program of the
+11 Louisiana House of Representatives and the Louisiana Senate to represent precinct
+12 changes submitted through January 27, 2026, to the Legislature of Louisiana by
+13 parish governing authorities pursuant to the provisions of R.S. 18:532 and 532.1.
+14 (B) When a precinct referenced in this Act has been subdivided by action of
+15 the parish governing authority on a nongeographic basis or subdivided by action of
+16 the parish governing authority on a geographic basis in accordance with the
+17 provisions of R.S. 18:532.1, the enumeration in this Act of the general precinct
+18 designation shall include all nongeographic and all geographic subdivisions thereof,
+19 however such subdivisions may be designated.
+20 (C) The territorial limits of the districts as provided in this Act shall continue
+21 in effect until changed by law regardless of any subsequent change made to the
+22 precincts by the parish governing authority.
+23 Section 4. Each justice of the peace court in East Baton Rouge Parish shall
+24 retain jurisdiction over any matter properly filed with the court on or before the
+25 effective date of this Act.
+26 Section 5. This Act shall become effective upon signature by the governor
+27 or, if not signed by the governor, upon expiration of the time for bills to become law
+28 without signature by the governor, as provided by Article III, Section 18 of the
+29 Constitution of Louisiana. If vetoed by the governor and subsequently approved by
+30 the legislature, this Act shall become effective on the day following such approval."
+Page 2 of 2
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+[DELETED: AOtAOAO"0§1P2A3t4s5a6c7T8E9(021(2R3(41536B7(81910112223(4153637(819103132R3B4c5a6m]
+[DELETED: t.TpadSfLSC0h1L2c3p4(5t6t p g a o a g b i a w t7p8d9h0(1i2p3S4r5e6S7o8w9C0t]

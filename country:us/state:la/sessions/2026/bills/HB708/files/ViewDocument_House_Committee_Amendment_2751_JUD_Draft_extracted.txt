@@ -1,0 +1,521 @@
+Title: Amendments proposed by House Committee on Judiciary to Original House Bill No. 708
+Official Title: Amendments proposed by House Committee on Judiciary to Original House Bill No. 708
+Number of Sections: 20
+Source: versions - House Committee Amendment, #2751, JUD, Draft
+Media Type: application/pdf
+Strikethrough Detection: 7 sections found
+
+================================================================================
+
+Section 1:
+HCAHB708 3645 2751
+HOUSE COMMITTEE AMENDMENTS
+2026 Regular Session
+by Representative Ventrella
+1 AMENDMENT NO. 1
+2 On page 1, line 2, after "To" and before "enact" insert "amend and reenact R.S. 13:2602 and
+3 to"
+4 AMENDMENT NO. 2
+5 On page 1, line 14, change "C.(1)" to "C."
+6 AMENDMENT NO. 3
+7 On page 2, delete lines 1 through 3 and insert the following:
+8
+9 "Section 2. R.S. 13:2602 is hereby amended and reenacted to read as follows:
+10 §2602. Territorial jurisdiction of the justice of the peace courts of East Baton Rouge
+11 Parish
+12 A. The territorial jurisdiction of the several justice of the peace courts within
+13 the parish of East Baton Rouge, as they exist on the effective date of this Section,
+14 shall continue and shall not be diminished or otherwise changed by reason of the
+15 annexation into any municipality within the parish of all or any part of the area
+16 comprising such territorial jurisdiction of a justice of the peace court.
+17 The territorial jurisdiction of the justice of the peace districts and courts in
+18 East Baton Rouge Parish shall be as follows:
+19 (1) District 1 is composed of Precincts 2-5, 2-14, 2-15, 2-18, 2-21, 2-26, 2-28,
+20 2-29, 2-32, 2-34, 2-35, 2-36, 2-37, and 2-38 of East Baton Rouge Parish.
+21 (2) District 2 is composed of Precincts 2-6, 2-7, 2-8, and 2-33 of East Baton
+22 Rouge Parish.
+23 (3) District 3 is composed of Precincts 1-2, 1-9, 1-33, 1-34, 1-36, 1-49, 1-52,
+24 1-53, 1-55, 1-57, 1-60, 1-71, 1-72, 1-74, 1-87, 1-97, 1-104, 3-1, 3-2, 3-6, 3-8, 3-9,
+25 3-12, 3-14, 3-24, 3-25, 3-26, 3-30, 3-37, 3-42, 3-46, 3-54, 3-58, and 3-61 of East
+26 Baton Rouge Parish.
+27 (4) District 4 is composed of Precincts 1-10, 1-11, 1-13, 1-14, 1-15, 1-16,
+28 1-18, 1-19, 1-20, 1-21, 1-22, 1-23, 1-24, 1-25, 1-26, 1-27, 1-28, 1-29, 1-30, 1-31,
+29 1-32, 1-50, 1-54, 1-58, 1-61, 1-62, 1-63, 1-70, 1-77, 1-78, 1-82, 1-83, 1-84, 1-85,
+30 1-86, 1-88, 1-91, 1-92, 1-93, 1-94, 1-95, 1-96, 1-100, 1-101, 2-1, 2-2, 2-3, 2-4, 2-9,
+31 2-10, 2-11, 2-12, 2-13, 2-16, 2-17, 2-19, 2-20, 2-22, 2-23, 2-24, 2-25, 2-27, 2-30, and
+32 2-31 of East Baton Rouge Parish.
+33 (5) District 5 is composed of Precincts 1-79, 1-80, 1-81, 1-89, 1-90, 1-98,
+34 1-99, 1-103, 1-105, 3-3, 3-7, 3-10, 3-11, 3-13, 3-15, 3-16, 3-17, 3-21, 3-22, 3-27,
+35 3-28, 3-29, 3-31, 3-32, 3-33, 3-34, 3-38, 3-39, 3-41, 3-43, 3-45, 3-47, 3-48, 3-51,
+36 3-53, 3-59, 3-60, 3-66, 3-71, 3-72, and 3-73 of East Baton Rouge Parish.
+37 (6) District 6 is composed of Precincts 1-1, 1-3, 1-4, 1-5, 1-6, 1-7, 1-8, 1-12,
+38 1-35, 1-37, 1-38, 1-39, 1-40, 1-41, 1-42, 1-43, 1-44, 1-45, 1-46, 1-47, 1-48, 1-51,
+39 1-56, 1-59, 1-64, 1-65, 1-66, 1-67, 1-69, 1-73, 1-75, 1-76, 1-102, 1-106, 1-107, 3-4,
+40 3-5, 3-18, 3-19, 3-20, 3-23, 3-35, 3-36, 3-40, 3-44, 3-49, 3-50, 3-52, 3-55, 3-56, 3-57,
+41 3-62, 3-63, 3-64, 3-65, 3-67, 3-68, 3-69, 3-70, 3-74, 3-75, and 3-76 of East Baton
+42 Rouge Parish.
+43 B. Whenever, by reason of annexation, the territorial jurisdiction of a mayor's
+44 court or a city court is extended into all or any part of the territorial jurisdiction of
+45 a justice of the peace court theretofore existing, the territorial jurisdiction of the
+Page 1 of 2
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HCAHB708 3645 2751
+1 mayor's court or the city court, as the case may be, shall be concurrent with that of
+2 the justice of the peace court. The persons elected to the offices of justice of the
+3 peace and constable for such justice of the peace courts in East Baton Rouge Parish
+4 at the regularly scheduled election in 2026 and their successors shall be elected from
+5 districts provided in this Section.
+6 Section 3.(A) The precincts referenced in this Act are those contained in the
+7 file named "2026 Precinct Shapefiles (01-27-2026)" available on the website of the
+8 Legislature of Louisiana on the effective date of this Section. The 2026 Precinct
+9 Shapefiles are based upon those Voting Districts (VTDs) contained in the 2020
+10 Census Redistricting TIGER/Line Shapefiles for the State of Louisiana as those files
+11 have been modified and validated through the data verification program of the
+12 Louisiana House of Representatives and the Louisiana Senate to represent precinct
+13 changes submitted through January 27, 2026, to the Legislature of Louisiana by
+14 parish governing authorities pursuant to the provisions of R.S. 18:532 and 532.1.
+15 (B) When a precinct referenced in this Act has been subdivided by action of
+16 the parish governing authority on a nongeographic basis or subdivided by action of
+17 the parish governing authority on a geographic basis in accordance with the
+18 provisions of R.S. 18:532.1, the enumeration in this Act of the general precinct
+19 designation shall include all nongeographic and all geographic subdivisions thereof,
+20 however such subdivisions may be designated.
+21 (C) The territorial limits of the districts as provided in this Act shall continue
+22 in effect until changed by law regardless of any subsequent change made to the
+23 precincts by the parish governing authority.
+24 Section 4. Each justice of the peace court in East Baton Rouge Parish shall
+25 retain jurisdiction over any matter properly filed with the court on or before the
+26 effective date of this Act.
+27 Section 5. This Act shall become effective upon signature by the governor
+28 or, if not signed by the governor, upon expiration of the time for bills to become law
+29 without signature by the governor, as provided by Article III, Section 18 of the
+30 Constitution of Louisiana. If vetoed by the governor and subsequently approved by
+31 the legislature, this Act shall become effective on the day following such approval."
+Page 2 of 2
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+Plan Statistics
+Plan: HCAHB708-2751 (Ventrella)
+Districts: # of Members Actual Population Ideal Population Absolute Deviation Relative Deviation
+District 1 1 27,466 76,130 -48,664 -63.922%
+District 2 1 8,664 76,130 -67,466 -88.619%
+District 3 1 74,662 76,130 -1,468 -1.928%
+District 4 1 114,330 76,130 38,200 50.177%
+District 5 1 100,140 76,130 24,010 31.538%
+District 6 1 131,519 76,130 55,389 72.756%
+Grand Total: 6 456,781 456,780
+Ideal Population Per Member: 76130 Ideal - Actual: -1
+Number of Districts for Plan Type: 6
+Remainder: 1
+Unassigned Population: 0
+Range of District Populations: 8,664 to 131,519
+Absolute Mean Deviation: 20,476
+Absolute Range: -67,466 to 55,389
+Absolute Overall Range: 122,855
+Relative Mean Deviation: 51.49%
+Relative Range: -88.62% to 72.76%
+Relative Overall Range: 161.38%
+Total Population
+Plan: HCAHB708-2751 (Ventrella)
+Total VAP VAP
+Total Total Total Total American Total Total American Hispanic
+Population White Black Asian Indian Other Hispanic VAP Total VAP White VAP Black VAP Asian Indian VAP Other Total
+District 1 27,466 12,696 13,326 437 321 686 758 19,765 9,486 9,253 288 239 499 509
+
+Section 2:
+100.000% 46.224% 48.518% 1.591% 1.169% 2.498% 2.760% 100.000% 47.994% 46.815% 1.457% 1.209% 2.525% 2.575%
+District 2 8,664 6,777 1,432 26 197 232 235 6,666 5,256 1,091 13 139 167 159
+
+Section 3:
+100.000% 78.220% 16.528% 0.300% 2.274% 2.678% 2.712% 100.000% 78.848% 16.367% 0.195% 2.085% 2.505% 2.385%
+District 3 74,662 36,852 29,419 2,826 952 4,613 5,164 56,246 29,776 20,434 2,103 741 3,192 3,535
+
+Section 4:
+100.000% 49.358% 39.403% 3.785% 1.275% 6.179% 6.917% 100.000% 52.939% 36.330% 3.739% 1.317% 5.675% 6.285%
+District 4 114,330 8,160 101,034 933 461 3,742 4,475 85,895 7,396 74,873 730 369 2,527 3,026
+
+Section 5:
+100.000% 7.137% 88.371% 0.816% 0.403% 3.273% 3.914% 100.000% 8.611% 87.168% 0.850% 0.430% 2.942% 3.523%
+District 5 100,140 55,793 29,326 5,399 1,252 8,370 9,497 78,027 46,521 20,704 3,945 1,016 5,841 6,502
+
+Section 6:
+100.000% 55.715% 29.285% 5.391% 1.250% 8.358% 9.484% 100.000% 59.622% 26.534% 5.056% 1.302% 7.486% 8.333%
+District 6 131,519 75,791 38,861 6,804 1,544 8,519 10,422 109,013 65,446 30,435 5,520 1,243 6,369 7,808
+
+Section 7:
+100.000% 57.627% 29.548% 5.173% 1.174% 6.477% 7.924% 100.000% 60.035% 27.919% 5.064% 1.140% 5.842% 7.162%
+Grand Total 456,781 196,069 213,398 16,425 4,727 26,162 30,551 355,612 163,881 156,790 12,599 3,747 18,595 21,539
+
+Section 8:
+100.000% 42.924% 46.718% 3.596% 1.035% 5.727% 6.688% 100.000% 46.084% 44.090% 3.543% 1.054% 5.229% 6.057%
+Voter Registration
+Plan: HCAHB708-2751 (Ventrella)
+Reg Dem Reg Rep Reg Other
+Reg Total Reg White Reg Black Reg Other Total Total Total
+Dec 2025 Dec 2025 Dec 2025 Dec 2025 Dec 2025 Dec 2025 Dec 2025
+District 1 16,864 7,703 8,463 698 7,876 4,819 4,169
+
+Section 9:
+85.323% 45.677% 50.184% 4.139% 46.703% 28.576% 24.721%
+District 2 5,750 4,706 914 130 1,353 3,117 1,280
+
+Section 10:
+86.259% 81.843% 15.896% 2.261% 23.530% 54.209% 22.261%
+District 3 41,053 24,563 13,821 2,669 15,371 15,017 10,665
+
+Section 11:
+72.988% 59.832% 33.666% 6.501% 37.442% 36.580% 25.979%
+District 4 55,898 3,613 50,352 1,933 41,161 2,692 12,045
+
+Section 12:
+65.077% 6.464% 90.078% 3.458% 73.636% 4.816% 21.548%
+District 5 53,345 36,355 12,582 4,408 15,995 21,971 15,379
+
+Section 13:
+68.367% 68.151% 23.586% 8.263% 29.984% 41.187% 28.829%
+District 6 64,338 42,814 16,233 5,291 22,507 22,680 19,151
+
+Section 14:
+59.019% 66.545% 25.231% 8.224% 34.982% 35.251% 29.766%
+Grand Total 237,248 119,754 102,365 15,129 104,263 70,296 62,689
+Splits
+Plan: HCAHB708-2751 (Ventrella)
+Total VAP
+Total Total Total Total American Total American Reg Total Reg White Reg Black Reg Other
+Population White Black Asian Indian Other VAP Total VAP White VAP Black VAP Asian Indian VAP Other Dec 2025 Dec 2025 Dec 2025 Dec 2025
+District 1
+*East Baton Rouge 27,466 12,696 13,326 437 321 686 19,765 9,486 9,253 288 239 499 16,864 7,703 8,463 698
+District 1 27,466 12,696 13,326 437 321 686 19,765 9,486 9,253 288 239 499 16,864 7,703 8,463 698
+
+Section 15:
+100.000% 46.224% 48.518% 1.591% 1.169% 2.498% 100.000% 47.994% 46.815% 1.457% 1.209% 2.525% 85.323% 45.677% 50.184% 4.139%
+District 2
+*East Baton Rouge 8,664 6,777 1,432 26 197 232 6,666 5,256 1,091 13 139 167 5,750 4,706 914 130
+District 2 8,664 6,777 1,432 26 197 232 6,666 5,256 1,091 13 139 167 5,750 4,706 914 130
+
+Section 16:
+100.000% 78.220% 16.528% 0.300% 2.274% 2.678% 100.000% 78.848% 16.367% 0.195% 2.085% 2.505% 86.259% 81.843% 15.896% 2.261%
+District 3
+*East Baton Rouge 74,662 36,852 29,419 2,826 952 4,613 56,246 29,776 20,434 2,103 741 3,192 41,053 24,563 13,821 2,669
+District 3 74,662 36,852 29,419 2,826 952 4,613 56,246 29,776 20,434 2,103 741 3,192 41,053 24,563 13,821 2,669
+
+Section 17:
+100.000% 49.358% 39.403% 3.785% 1.275% 6.179% 100.000% 52.939% 36.330% 3.739% 1.317% 5.675% 72.988% 59.832% 33.666% 6.501%
+District 4
+*East Baton Rouge114,330 8,160 101,034 933 461 3,742 85,895 7,396 74,873 730 369 2,527 55,898 3,613 50,352 1,933
+District 4 114,330 8,160 101,034 933 461 3,742 85,895 7,396 74,873 730 369 2,527 55,898 3,613 50,352 1,933
+
+Section 18:
+100.000% 7.137% 88.371% 0.816% 0.403% 3.273% 100.000% 8.611% 87.168% 0.850% 0.430% 2.942% 65.077% 6.464% 90.078% 3.458%
+District 5
+*East Baton Rouge100,140 55,793 29,326 5,399 1,252 8,370 78,027 46,521 20,704 3,945 1,016 5,841 53,345 36,355 12,582 4,408
+District 5 100,140 55,793 29,326 5,399 1,252 8,370 78,027 46,521 20,704 3,945 1,016 5,841 53,345 36,355 12,582 4,408
+
+Section 19:
+100.000% 55.715% 29.285% 5.391% 1.250% 8.358% 100.000% 59.622% 26.534% 5.056% 1.302% 7.486% 68.367% 68.151% 23.586% 8.263%
+District 6
+*East Baton Rouge131,519 75,791 38,861 6,804 1,544 8,519 109,013 65,446 30,435 5,520 1,243 6,369 64,338 42,814 16,233 5,291
+District 6 131,519 75,791 38,861 6,804 1,544 8,519 109,013 65,446 30,435 5,520 1,243 6,369 64,338 42,814 16,233 5,291
+
+Section 20:
+100.000% 57.627% 29.548% 5.173% 1.174% 6.477% 100.000% 60.035% 27.919% 5.064% 1.140% 5.842% 59.019% 66.545% 25.231% 8.224%
+HCAHB708--2751 (Ventrella)
+East Baton Rouge Parish Justice of the Peace Districts
+11 3A E Feliciana 1 3 4A 4 3-2
+8 8A W Feliciana 2
+12 2-35 2-26
+2-21
+2B 4-1 St. Helena
+2-32 2-6
+18 ! 1 2-37 2-36 2-29 2-28 ! 2
+2-38 2-7
+Pointe Coupee 2-18 2-14 3B
+2-34
+1
+19 2-15 2-8
+6B
+2-5
+2-17 3
+2-33 1A 6
+20 20 2-13 2-31 1D
+2-3
+1C
+17 2-2 2-4 3-1 3-6 1B 2
+2-24 2-9 2-25 3-37 2A
+6A
+22 1-95 1-101 2-22 2-12 2-10 3-2 3-14 3-61 4B 4 4A 3A
+3-30 39B
+! 4 1-91 2-11 3-25
+16B 19 1-100 1-92 1-86 2-27 ! 3 39 39A 40 40A 5D
+1-85 2-16 EBR 3-58 5B 5 5A
+1-23 1-58 2-30 3-46 3-26 26B
+3-8 35 8A
+17 1-25 1-31 2-1 3-42 3-9 26 26A 41 35A Livingston 29 8B
+16 1-18 1-61 1-93 1-82 1-70 3-24 3-54 25 36A
+21 1-16 1-62 1-78 1-54 1-83 1-20 1-97 27 7A 36
+WBR 14B 14A 15 9 1-1 1-13 1 1 -1 -3 0 8 1-3 1 2 -37 1- 1 3 - 6 57 1-2 1-1 1 0 - 4 33 1-9 1 6 -52 1-9 1-60 1-55 1-8 1 7 -71 3- 3 1 - 2 72 28 24C 24D 7D 7C 7
+28 18 5 10 1-5 1 1 - - 7 8 1-48 1- 1 3 - 4 105 1-49 3-3 1 1 -74 1 1 - - 7 5 2 3 3-27 1-90 3-2 1 8 -8 1 9 -98 3-73 3-21 24 24B 23A 23B 7B 19 19A
+29 2B 3 7A 7B 6 1-1 1 0 - 2 46 1 1 - - 4 6 1 9 1-42 1-56 1-73 1-66 3-51 3-17 1-80 3-29! 5 1 1 - - 1 9 0 9 3 3-7 3-5 3 9 -41 3-3 3-38 3-71 23C 21 21B 20
+1-43 3-16
+4B 1-47 3-52 3-60 3-15 23
+3-69 3-39 3-33
+4A 1D 8 ! 6 3-5 3- 3 5 - 5 23 3-36 3 3 - - 3 4 5 9 3-18 3-48 3-34 3-4 3 5 -66 3-22 3-47 21A
+3-50 3-64 22
+3-4 3-40
+27 3-57 3-62
+Iberville
+1A 3-67
+3-63 3-19
+1B 3-70 3-56 1 2 61 3 4 33 34 18
+22 9 3-75 3-76 10 6 7 64 8 A 1 s 9 cen 10 sion 5 76 14 15 43
+[DELETED: AOtAOAO"0§1P2A3t4s5a6c7T8E9(021(2R3(41536B7(81910112223(4153637(819103132R3B4c5a]
+[DELETED: mt.TpadSfLS0C1h o2L3c4p5(6t7t p g a o a g b i a w t8p9d0h1(2i3p4S5r6e7S8o9w0C1t]
+[DELETED: 112670-4-218470-6-317270-8-411070305511070203611970597:#sAnInAnR:6414:7::2:84to1:1:-6to5:1:-%to7:5:-::]
+[DELETED: 1261616473166781596932829495%4%4%1%1%2%2%1%4%4%1%1%2%22846712261722256656111319171%7%1%0%2%2%2%1%7%1%0%2%2%23723229269243545626242371323%4%3%3%1%6%6%1%5%3%3%1%5%64108014934132458576737039273%7%8%0%0%3%3%1%8%8%0%0%2%35105326591280977741243516516%5%2%5%1%8%9%1%5%2%5%1%7%86197131641489121366355013697%5%2%5%1%6%7%1%6%2%5%1%5%7lTlTlTlAnTlTlAnHnWeBkAnInOrHcVlVeVkVnInVrTlVPVl411928154722313211101937152%4%4%3%1%5%6%1%4%4%3%1%5%6]
+[DELETED: 11473836876494%4%5%4%4%2%225046941013371%8%1%2%2%5%234323112911171%5%3%6%3%3%245833521341221%6%9%3%7%4%255535124815211%6%2%8%2%4%266844135127201%6%2%8%3%3%2lReRkRrTlTlT5D5D5D5D5D5DmRpRl2814151913766]
+[DELETED: e261616473166159693282949147383612616164731661596932829491473836%4%4%1%1%2%1%4%4%1%1%2%8%4%5%4e846712261722665611131917504694128467122617226656111319175046941%7%1%0%2%2%1%7%1%0%2%2%8%8%1%2e723229269243562624237132432311237232292692435626242371324323112%4%3%3%1%6%1%5%3%3%1%5%7%5%3%608014934132857673703927583352141080149341328576737039275833521%7%8%0%0%3%1%8%8%0%0%2%6%6%9%305326591280774124351651553512451053265912807741243516515535124%5%2%5%1%8%1%5%2%5%1%7%6%6%2%897131641489136635501369684413561971316414891366355013696844135%5%2%5%1%6%1%6%2%5%1%5%5%6%2%8lTlTlTlAnTlAnRlReRkRnWeBkAnInOrVlVeVkVnInVrD5D5D5DlV]
+[DELETED: 0271425085B534201933321B1]
+
+
+================================================================================
+
+Raw Text:
+HCAHB708 3645 2751
+HOUSE COMMITTEE AMENDMENTS
+2026 Regular Session
+Amendments proposed by House Committee on Judiciary to Original House Bill No. 708
+by Representative Ventrella
+1 AMENDMENT NO. 1
+2 On page 1, line 2, after "To" and before "enact" insert "amend and reenact R.S. 13:2602 and
+3 to"
+4 AMENDMENT NO. 2
+5 On page 1, line 14, change "C.(1)" to "C."
+6 AMENDMENT NO. 3
+7 On page 2, delete lines 1 through 3 and insert the following:
+8
+9 "Section 2. R.S. 13:2602 is hereby amended and reenacted to read as follows:
+10 §2602. Territorial jurisdiction of the justice of the peace courts of East Baton Rouge
+11 Parish
+12 A. The territorial jurisdiction of the several justice of the peace courts within
+13 the parish of East Baton Rouge, as they exist on the effective date of this Section,
+14 shall continue and shall not be diminished or otherwise changed by reason of the
+15 annexation into any municipality within the parish of all or any part of the area
+16 comprising such territorial jurisdiction of a justice of the peace court.
+17 The territorial jurisdiction of the justice of the peace districts and courts in
+18 East Baton Rouge Parish shall be as follows:
+19 (1) District 1 is composed of Precincts 2-5, 2-14, 2-15, 2-18, 2-21, 2-26, 2-28,
+20 2-29, 2-32, 2-34, 2-35, 2-36, 2-37, and 2-38 of East Baton Rouge Parish.
+21 (2) District 2 is composed of Precincts 2-6, 2-7, 2-8, and 2-33 of East Baton
+22 Rouge Parish.
+23 (3) District 3 is composed of Precincts 1-2, 1-9, 1-33, 1-34, 1-36, 1-49, 1-52,
+24 1-53, 1-55, 1-57, 1-60, 1-71, 1-72, 1-74, 1-87, 1-97, 1-104, 3-1, 3-2, 3-6, 3-8, 3-9,
+25 3-12, 3-14, 3-24, 3-25, 3-26, 3-30, 3-37, 3-42, 3-46, 3-54, 3-58, and 3-61 of East
+26 Baton Rouge Parish.
+27 (4) District 4 is composed of Precincts 1-10, 1-11, 1-13, 1-14, 1-15, 1-16,
+28 1-18, 1-19, 1-20, 1-21, 1-22, 1-23, 1-24, 1-25, 1-26, 1-27, 1-28, 1-29, 1-30, 1-31,
+29 1-32, 1-50, 1-54, 1-58, 1-61, 1-62, 1-63, 1-70, 1-77, 1-78, 1-82, 1-83, 1-84, 1-85,
+30 1-86, 1-88, 1-91, 1-92, 1-93, 1-94, 1-95, 1-96, 1-100, 1-101, 2-1, 2-2, 2-3, 2-4, 2-9,
+31 2-10, 2-11, 2-12, 2-13, 2-16, 2-17, 2-19, 2-20, 2-22, 2-23, 2-24, 2-25, 2-27, 2-30, and
+32 2-31 of East Baton Rouge Parish.
+33 (5) District 5 is composed of Precincts 1-79, 1-80, 1-81, 1-89, 1-90, 1-98,
+34 1-99, 1-103, 1-105, 3-3, 3-7, 3-10, 3-11, 3-13, 3-15, 3-16, 3-17, 3-21, 3-22, 3-27,
+35 3-28, 3-29, 3-31, 3-32, 3-33, 3-34, 3-38, 3-39, 3-41, 3-43, 3-45, 3-47, 3-48, 3-51,
+36 3-53, 3-59, 3-60, 3-66, 3-71, 3-72, and 3-73 of East Baton Rouge Parish.
+37 (6) District 6 is composed of Precincts 1-1, 1-3, 1-4, 1-5, 1-6, 1-7, 1-8, 1-12,
+38 1-35, 1-37, 1-38, 1-39, 1-40, 1-41, 1-42, 1-43, 1-44, 1-45, 1-46, 1-47, 1-48, 1-51,
+39 1-56, 1-59, 1-64, 1-65, 1-66, 1-67, 1-69, 1-73, 1-75, 1-76, 1-102, 1-106, 1-107, 3-4,
+40 3-5, 3-18, 3-19, 3-20, 3-23, 3-35, 3-36, 3-40, 3-44, 3-49, 3-50, 3-52, 3-55, 3-56, 3-57,
+41 3-62, 3-63, 3-64, 3-65, 3-67, 3-68, 3-69, 3-70, 3-74, 3-75, and 3-76 of East Baton
+42 Rouge Parish.
+43 B. Whenever, by reason of annexation, the territorial jurisdiction of a mayor's
+44 court or a city court is extended into all or any part of the territorial jurisdiction of
+45 a justice of the peace court theretofore existing, the territorial jurisdiction of the
+Page 1 of 2
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HCAHB708 3645 2751
+1 mayor's court or the city court, as the case may be, shall be concurrent with that of
+2 the justice of the peace court. The persons elected to the offices of justice of the
+3 peace and constable for such justice of the peace courts in East Baton Rouge Parish
+4 at the regularly scheduled election in 2026 and their successors shall be elected from
+5 districts provided in this Section.
+6 Section 3.(A) The precincts referenced in this Act are those contained in the
+7 file named "2026 Precinct Shapefiles (01-27-2026)" available on the website of the
+8 Legislature of Louisiana on the effective date of this Section. The 2026 Precinct
+9 Shapefiles are based upon those Voting Districts (VTDs) contained in the 2020
+10 Census Redistricting TIGER/Line Shapefiles for the State of Louisiana as those files
+11 have been modified and validated through the data verification program of the
+12 Louisiana House of Representatives and the Louisiana Senate to represent precinct
+13 changes submitted through January 27, 2026, to the Legislature of Louisiana by
+14 parish governing authorities pursuant to the provisions of R.S. 18:532 and 532.1.
+15 (B) When a precinct referenced in this Act has been subdivided by action of
+16 the parish governing authority on a nongeographic basis or subdivided by action of
+17 the parish governing authority on a geographic basis in accordance with the
+18 provisions of R.S. 18:532.1, the enumeration in this Act of the general precinct
+19 designation shall include all nongeographic and all geographic subdivisions thereof,
+20 however such subdivisions may be designated.
+21 (C) The territorial limits of the districts as provided in this Act shall continue
+22 in effect until changed by law regardless of any subsequent change made to the
+23 precincts by the parish governing authority.
+24 Section 4. Each justice of the peace court in East Baton Rouge Parish shall
+25 retain jurisdiction over any matter properly filed with the court on or before the
+26 effective date of this Act.
+27 Section 5. This Act shall become effective upon signature by the governor
+28 or, if not signed by the governor, upon expiration of the time for bills to become law
+29 without signature by the governor, as provided by Article III, Section 18 of the
+30 Constitution of Louisiana. If vetoed by the governor and subsequently approved by
+31 the legislature, this Act shall become effective on the day following such approval."
+Page 2 of 2
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+Plan Statistics
+Plan: HCAHB708-2751 (Ventrella)
+Districts: # of Members Actual Population Ideal Population Absolute Deviation Relative Deviation
+District 1 1 27,466 76,130 -48,664 -63.922%
+District 2 1 8,664 76,130 -67,466 -88.619%
+District 3 1 74,662 76,130 -1,468 -1.928%
+District 4 1 114,330 76,130 38,200 50.177%
+District 5 1 100,140 76,130 24,010 31.538%
+District 6 1 131,519 76,130 55,389 72.756%
+Grand Total: 6 456,781 456,780
+Ideal Population Per Member: 76130 Ideal - Actual: -1
+Number of Districts for Plan Type: 6
+Remainder: 1
+Unassigned Population: 0
+Range of District Populations: 8,664 to 131,519
+Absolute Mean Deviation: 20,476
+Absolute Range: -67,466 to 55,389
+Absolute Overall Range: 122,855
+Relative Mean Deviation: 51.49%
+Relative Range: -88.62% to 72.76%
+Relative Overall Range: 161.38%
+
+Total Population
+Plan: HCAHB708-2751 (Ventrella)
+Total VAP VAP
+Total Total Total Total American Total Total American Hispanic
+Population White Black Asian Indian Other Hispanic VAP Total VAP White VAP Black VAP Asian Indian VAP Other Total
+District 1 27,466 12,696 13,326 437 321 686 758 19,765 9,486 9,253 288 239 499 509
+100.000% 46.224% 48.518% 1.591% 1.169% 2.498% 2.760% 100.000% 47.994% 46.815% 1.457% 1.209% 2.525% 2.575%
+District 2 8,664 6,777 1,432 26 197 232 235 6,666 5,256 1,091 13 139 167 159
+100.000% 78.220% 16.528% 0.300% 2.274% 2.678% 2.712% 100.000% 78.848% 16.367% 0.195% 2.085% 2.505% 2.385%
+District 3 74,662 36,852 29,419 2,826 952 4,613 5,164 56,246 29,776 20,434 2,103 741 3,192 3,535
+100.000% 49.358% 39.403% 3.785% 1.275% 6.179% 6.917% 100.000% 52.939% 36.330% 3.739% 1.317% 5.675% 6.285%
+District 4 114,330 8,160 101,034 933 461 3,742 4,475 85,895 7,396 74,873 730 369 2,527 3,026
+100.000% 7.137% 88.371% 0.816% 0.403% 3.273% 3.914% 100.000% 8.611% 87.168% 0.850% 0.430% 2.942% 3.523%
+District 5 100,140 55,793 29,326 5,399 1,252 8,370 9,497 78,027 46,521 20,704 3,945 1,016 5,841 6,502
+100.000% 55.715% 29.285% 5.391% 1.250% 8.358% 9.484% 100.000% 59.622% 26.534% 5.056% 1.302% 7.486% 8.333%
+District 6 131,519 75,791 38,861 6,804 1,544 8,519 10,422 109,013 65,446 30,435 5,520 1,243 6,369 7,808
+100.000% 57.627% 29.548% 5.173% 1.174% 6.477% 7.924% 100.000% 60.035% 27.919% 5.064% 1.140% 5.842% 7.162%
+Grand Total 456,781 196,069 213,398 16,425 4,727 26,162 30,551 355,612 163,881 156,790 12,599 3,747 18,595 21,539
+100.000% 42.924% 46.718% 3.596% 1.035% 5.727% 6.688% 100.000% 46.084% 44.090% 3.543% 1.054% 5.229% 6.057%
+
+Voter Registration
+Plan: HCAHB708-2751 (Ventrella)
+Reg Dem Reg Rep Reg Other
+Reg Total Reg White Reg Black Reg Other Total Total Total
+Dec 2025 Dec 2025 Dec 2025 Dec 2025 Dec 2025 Dec 2025 Dec 2025
+District 1 16,864 7,703 8,463 698 7,876 4,819 4,169
+85.323% 45.677% 50.184% 4.139% 46.703% 28.576% 24.721%
+District 2 5,750 4,706 914 130 1,353 3,117 1,280
+86.259% 81.843% 15.896% 2.261% 23.530% 54.209% 22.261%
+District 3 41,053 24,563 13,821 2,669 15,371 15,017 10,665
+72.988% 59.832% 33.666% 6.501% 37.442% 36.580% 25.979%
+District 4 55,898 3,613 50,352 1,933 41,161 2,692 12,045
+65.077% 6.464% 90.078% 3.458% 73.636% 4.816% 21.548%
+District 5 53,345 36,355 12,582 4,408 15,995 21,971 15,379
+68.367% 68.151% 23.586% 8.263% 29.984% 41.187% 28.829%
+District 6 64,338 42,814 16,233 5,291 22,507 22,680 19,151
+59.019% 66.545% 25.231% 8.224% 34.982% 35.251% 29.766%
+Grand Total 237,248 119,754 102,365 15,129 104,263 70,296 62,689
+
+Splits
+Plan: HCAHB708-2751 (Ventrella)
+Total VAP
+Total Total Total Total American Total American Reg Total Reg White Reg Black Reg Other
+Population White Black Asian Indian Other VAP Total VAP White VAP Black VAP Asian Indian VAP Other Dec 2025 Dec 2025 Dec 2025 Dec 2025
+District 1
+*East Baton Rouge 27,466 12,696 13,326 437 321 686 19,765 9,486 9,253 288 239 499 16,864 7,703 8,463 698
+District 1 27,466 12,696 13,326 437 321 686 19,765 9,486 9,253 288 239 499 16,864 7,703 8,463 698
+100.000% 46.224% 48.518% 1.591% 1.169% 2.498% 100.000% 47.994% 46.815% 1.457% 1.209% 2.525% 85.323% 45.677% 50.184% 4.139%
+District 2
+*East Baton Rouge 8,664 6,777 1,432 26 197 232 6,666 5,256 1,091 13 139 167 5,750 4,706 914 130
+District 2 8,664 6,777 1,432 26 197 232 6,666 5,256 1,091 13 139 167 5,750 4,706 914 130
+100.000% 78.220% 16.528% 0.300% 2.274% 2.678% 100.000% 78.848% 16.367% 0.195% 2.085% 2.505% 86.259% 81.843% 15.896% 2.261%
+District 3
+*East Baton Rouge 74,662 36,852 29,419 2,826 952 4,613 56,246 29,776 20,434 2,103 741 3,192 41,053 24,563 13,821 2,669
+District 3 74,662 36,852 29,419 2,826 952 4,613 56,246 29,776 20,434 2,103 741 3,192 41,053 24,563 13,821 2,669
+100.000% 49.358% 39.403% 3.785% 1.275% 6.179% 100.000% 52.939% 36.330% 3.739% 1.317% 5.675% 72.988% 59.832% 33.666% 6.501%
+District 4
+*East Baton Rouge114,330 8,160 101,034 933 461 3,742 85,895 7,396 74,873 730 369 2,527 55,898 3,613 50,352 1,933
+District 4 114,330 8,160 101,034 933 461 3,742 85,895 7,396 74,873 730 369 2,527 55,898 3,613 50,352 1,933
+100.000% 7.137% 88.371% 0.816% 0.403% 3.273% 100.000% 8.611% 87.168% 0.850% 0.430% 2.942% 65.077% 6.464% 90.078% 3.458%
+District 5
+*East Baton Rouge100,140 55,793 29,326 5,399 1,252 8,370 78,027 46,521 20,704 3,945 1,016 5,841 53,345 36,355 12,582 4,408
+District 5 100,140 55,793 29,326 5,399 1,252 8,370 78,027 46,521 20,704 3,945 1,016 5,841 53,345 36,355 12,582 4,408
+100.000% 55.715% 29.285% 5.391% 1.250% 8.358% 100.000% 59.622% 26.534% 5.056% 1.302% 7.486% 68.367% 68.151% 23.586% 8.263%
+District 6
+*East Baton Rouge131,519 75,791 38,861 6,804 1,544 8,519 109,013 65,446 30,435 5,520 1,243 6,369 64,338 42,814 16,233 5,291
+District 6 131,519 75,791 38,861 6,804 1,544 8,519 109,013 65,446 30,435 5,520 1,243 6,369 64,338 42,814 16,233 5,291
+100.000% 57.627% 29.548% 5.173% 1.174% 6.477% 100.000% 60.035% 27.919% 5.064% 1.140% 5.842% 59.019% 66.545% 25.231% 8.224%
+
+HCAHB708--2751 (Ventrella)
+East Baton Rouge Parish Justice of the Peace Districts
+11 3A E Feliciana 1 3 4A 4 3-2
+8 8A W Feliciana 2
+12 2-35 2-26
+2-21
+2B 4-1 St. Helena
+2-32 2-6
+18 ! 1 2-37 2-36 2-29 2-28 ! 2
+2-38 2-7
+Pointe Coupee 2-18 2-14 3B
+2-34
+1
+19 2-15 2-8
+6B
+2-5
+2-17 3
+2-33 1A 6
+20 20 2-13 2-31 1D
+2-3
+1C
+17 2-2 2-4 3-1 3-6 1B 2
+2-24 2-9 2-25 3-37 2A
+6A
+22 1-95 1-101 2-22 2-12 2-10 3-2 3-14 3-61 4B 4 4A 3A
+3-30 39B
+! 4 1-91 2-11 3-25
+16B 19 1-100 1-92 1-86 2-27 ! 3 39 39A 40 40A 5D
+1-85 2-16 EBR 3-58 5B 5 5A
+1-23 1-58 2-30 3-46 3-26 26B
+3-8 35 8A
+17 1-25 1-31 2-1 3-42 3-9 26 26A 41 35A Livingston 29 8B
+16 1-18 1-61 1-93 1-82 1-70 3-24 3-54 25 36A
+21 1-16 1-62 1-78 1-54 1-83 1-20 1-97 27 7A 36
+WBR 14B 14A 15 9 1-1 1-13 1 1 -1 -3 0 8 1-3 1 2 -37 1- 1 3 - 6 57 1-2 1-1 1 0 - 4 33 1-9 1 6 -52 1-9 1-60 1-55 1-8 1 7 -71 3- 3 1 - 2 72 28 24C 24D 7D 7C 7
+28 18 5 10 1-5 1 1 - - 7 8 1-48 1- 1 3 - 4 105 1-49 3-3 1 1 -74 1 1 - - 7 5 2 3 3-27 1-90 3-2 1 8 -8 1 9 -98 3-73 3-21 24 24B 23A 23B 7B 19 19A
+29 2B 3 7A 7B 6 1-1 1 0 - 2 46 1 1 - - 4 6 1 9 1-42 1-56 1-73 1-66 3-51 3-17 1-80 3-29! 5 1 1 - - 1 9 0 9 3 3-7 3-5 3 9 -41 3-3 3-38 3-71 23C 21 21B 20
+1-43 3-16
+4B 1-47 3-52 3-60 3-15 23
+3-69 3-39 3-33
+4A 1D 8 ! 6 3-5 3- 3 5 - 5 23 3-36 3 3 - - 3 4 5 9 3-18 3-48 3-34 3-4 3 5 -66 3-22 3-47 21A
+3-50 3-64 22
+3-4 3-40
+27 3-57 3-62
+Iberville
+1A 3-67
+3-63 3-19
+1B 3-70 3-56 1 2 61 3 4 33 34 18
+22 9 3-75 3-76 10 6 7 64 8 A 1 s 9 cen 10 sion 5 76 14 15 43
+
+[DELETED: AOtAOAO"0§1P2A3t4s5a6c7T8E9(021(2R3(41536B7(81910112223(4153637(819103132R3B4c5a]
+[DELETED: mt.TpadSfLS0C1h o2L3c4p5(6t7t p g a o a g b i a w t8p9d0h1(2i3p4S5r6e7S8o9w0C1t]
+[DELETED: 112670-4-218470-6-317270-8-411070305511070203611970597:#sAnInAnR:6414:7::2:84to1:1:-6to5:1:-%to7:5:-::]
+[DELETED: 1261616473166781596932829495%4%4%1%1%2%2%1%4%4%1%1%2%22846712261722256656111319171%7%1%0%2%2%2%1%7%1%0%2%2%23723229269243545626242371323%4%3%3%1%6%6%1%5%3%3%1%5%64108014934132458576737039273%7%8%0%0%3%3%1%8%8%0%0%2%35105326591280977741243516516%5%2%5%1%8%9%1%5%2%5%1%7%86197131641489121366355013697%5%2%5%1%6%7%1%6%2%5%1%5%7lTlTlTlAnTlTlAnHnWeBkAnInOrHcVlVeVkVnInVrTlVPVl411928154722313211101937152%4%4%3%1%5%6%1%4%4%3%1%5%6]
+[DELETED: 11473836876494%4%5%4%4%2%225046941013371%8%1%2%2%5%234323112911171%5%3%6%3%3%245833521341221%6%9%3%7%4%255535124815211%6%2%8%2%4%266844135127201%6%2%8%3%3%2lReRkRrTlTlT5D5D5D5D5D5DmRpRl2814151913766]
+[DELETED: e261616473166159693282949147383612616164731661596932829491473836%4%4%1%1%2%1%4%4%1%1%2%8%4%5%4e846712261722665611131917504694128467122617226656111319175046941%7%1%0%2%2%1%7%1%0%2%2%8%8%1%2e723229269243562624237132432311237232292692435626242371324323112%4%3%3%1%6%1%5%3%3%1%5%7%5%3%608014934132857673703927583352141080149341328576737039275833521%7%8%0%0%3%1%8%8%0%0%2%6%6%9%305326591280774124351651553512451053265912807741243516515535124%5%2%5%1%8%1%5%2%5%1%7%6%6%2%897131641489136635501369684413561971316414891366355013696844135%5%2%5%1%6%1%6%2%5%1%5%5%6%2%8lTlTlTlAnTlAnRlReRkRnWeBkAnInOrVlVeVkVnInVrD5D5D5DlV]
+[DELETED: 0271425085B534201933321B1]
