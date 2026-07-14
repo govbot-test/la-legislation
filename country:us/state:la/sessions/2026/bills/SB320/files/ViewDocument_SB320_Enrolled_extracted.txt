@@ -1,0 +1,234 @@
+Title: SENATE BILL NO. 320
+Official Title: SENATE BILL NO. 320
+Number of Sections: 1
+Source: versions - SB320 Enrolled
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+2026 Regular Session ENROLLED
+BY SENATOR MIZELL AND REPRESENTATIVE MANDIE LANDRY
+1 AN ACT
+2 To enact R.S. 15:605.1, relative to DNA detection of sexual and violent offenders; to
+3 provide reporting of outstanding CODIS hit data; to provide for a central repository;
+4 to provide for an outstanding CODIS hits tracking system; to provide for reporting;
+5 and to provide for related matters.
+6 Be it enacted by the Legislature of Louisiana:
+7 Section 1. R.S. 15:605.1 is hereby enacted to read as follows:
+8 §605.1. Outstanding CODIS hit data; reporting
+9 A. The legislature recognizes the importance of improving the collective
+10 response of the criminal justice system to criminal investigations, including
+11 sexual assault investigations; therefore, measures shall be taken to create
+12 accountability in the CODIS hit notification and resolution process. Tracking
+13 of outstanding CODIS hits is essential to ensuring that scientific work done in
+14 the crime laboratories successfully translates into justice in the state, and that
+15 future convictions or exonerations in older cases are not lost or buried under
+16 new caseloads.
+17 B. As used in this Section, the following terms have the following
+18 meanings:
+19 (1) "CODIS hit" means a confirmed database match that aids a criminal
+Page 1 of 4
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+SB NO. 320 ENROLLED
+1 investigation and one or more of the investigations involved in the match are
+2 unsolved.
+3 (2) "CODIS hit notification" means a formal communication sent by a
+4 CODIS-participating laboratory to a criminal justice agency when a DNA
+5 profile from an unsolved case is confirmed to have matched a DNA profile
+6 already in the CODIS database.
+7 (3)"CODIS hit resolution" means that an agency has taken steps to
+8 determine if the investigative lead provided by the CODIS-participating
+9 laboratory is probative to the case at hand. The ultimate disposition of the
+10 CODIS hit should be either a communication to the CODIS-participating
+11 laboratory that the lead has been exhausted or that the lead has probative value
+12 and shall be followed up on by collection and submission of a reference DNA
+13 sample to the laboratory from the associated individual, if applicable.
+14 (4)"Outstanding CODIS hit" means that a criminal justice agency has
+15 officially received a CODIS hit notification and that investigative lead has not
+16 been cleared, acted upon, or resolved by that agency within ninety days of
+17 receipt.
+18 C. The state police shall serve as the central repository for tracking of
+19 outstanding CODIS hits in Louisiana.
+20 D. The state police shall create and operate a statewide outstanding
+21 CODIS hit tracking system. The state police may contract with public or private
+22 entities, including but not limited to private software and technology providers,
+23 for the creation and maintenance of the system.
+24 E. The statewide outstanding CODIS hit tracking system shall
+25 accomplish all of the following:
+26 (1) Track the status of the CODIS hits sent to criminal justice agencies
+27 that have not been resolved within ninety days.
+28 (2) Allow criminal justice agencies to update and track the status of
+29 outstanding CODIS hits.
+30 (3) Use electronic technology in order to allow continuous access.
+Page 2 of 4
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+SB NO. 320 ENROLLED
+1 (4) Provide for cross-jurisdictional data sharing with law enforcement
+2 agencies.
+3 F. The state police may use a phased implementation process in order to
+4 launch the system and facilitate entry and use of the system for required
+5 participants. The state police may phase in initial participation according to the
+6 region or volume.
+7 G. All law enforcement agencies that receive CODIS hit notifications,
+8 including CODIS-participating laboratories, investigating law enforcement
+9 agencies, district attorneys' offices, and agencies that aid in the identification of
+10 missing persons and human remains, shall provide all required information to
+11 the tracking system and fully participate in the system no later than January 1,
+12 2027.
+13 H.(1) After implementation of the tracking system, the state police shall
+14 submit an annual report on the statewide outstanding CODIS hit tracking
+15 system to the Senate Committee on Judiciary C, the House Committee on
+16 Administration of Criminal Justice, the governor, and the David R. Poynter
+17 Legislative Research Library pursuant to R.S. 24:771 and 772 no later than
+18 March first of each year. The state police shall make public the current report
+19 on its website. The report shall include all of the following:
+20 (a) The total number of outstanding CODIS hits in the system statewide
+21 and by jurisdiction.
+22 (b) The number of outstanding CODIS hits added to the system in the
+23 reporting period statewide and by jurisdiction.
+24 (c) The total number of outstanding CODIS hits that have been resolved
+25 in the system statewide and by jurisdiction.
+26 (2) For the purpose of the report required by this Subsection, an
+27 outstanding CODIS hit shall be assigned to the jurisdiction associated with both
+28 the CODIS-participating laboratory who processed the evidence associated with
+29 the unsolved case that received the CODIS hit, as well as the criminal justice
+30 agency that submitted the applicable evidence to the CODIS-participating
+Page 3 of 4
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+SB NO. 320 ENROLLED
+1 laboratory.
+2 I. The state police shall adopt rules as necessary to implement the
+3 provisions of this Section.
+PRESIDENT OF THE SENATE
+SPEAKER OF THE HOUSE OF REPRESENTATIVES
+GOVERNOR OF THE STATE OF LOUISIANA
+APPROVED:
+Page 4 of 4
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+[DELETED: nEATptaBS§A0r1s a i t m s b t t c2a3o4t5f6n7B A u i t S t f t h t f8m9(]
+[DELETED: 0Eiu(C l a c j a Dpa(d i t i l p b t Cl0C h s b e a c t t C1l2a3s4(5o6b7r8C9o0D1C2e3f4E T s o C h t s s5a6(7t8(9o0(]
+[DELETED: 0E(aFl t s a f e a u o t s f rprGi C l i l ea0m1t223H4s5s t t S C J C t H C6A7L8M9o0(1a2(3r4(5i6( F t p o t r r b t S a7o8t9t0a t s t a e t t C]
+[DELETED: 0ElI T s p s a r a n t i tp]
+
+
+================================================================================
+
+Raw Text:
+2026 Regular Session ENROLLED
+SENATE BILL NO. 320
+BY SENATOR MIZELL AND REPRESENTATIVE MANDIE LANDRY
+1 AN ACT
+2 To enact R.S. 15:605.1, relative to DNA detection of sexual and violent offenders; to
+3 provide reporting of outstanding CODIS hit data; to provide for a central repository;
+4 to provide for an outstanding CODIS hits tracking system; to provide for reporting;
+5 and to provide for related matters.
+6 Be it enacted by the Legislature of Louisiana:
+7 Section 1. R.S. 15:605.1 is hereby enacted to read as follows:
+8 §605.1. Outstanding CODIS hit data; reporting
+9 A. The legislature recognizes the importance of improving the collective
+10 response of the criminal justice system to criminal investigations, including
+11 sexual assault investigations; therefore, measures shall be taken to create
+12 accountability in the CODIS hit notification and resolution process. Tracking
+13 of outstanding CODIS hits is essential to ensuring that scientific work done in
+14 the crime laboratories successfully translates into justice in the state, and that
+15 future convictions or exonerations in older cases are not lost or buried under
+16 new caseloads.
+17 B. As used in this Section, the following terms have the following
+18 meanings:
+19 (1) "CODIS hit" means a confirmed database match that aids a criminal
+Page 1 of 4
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SB NO. 320 ENROLLED
+1 investigation and one or more of the investigations involved in the match are
+2 unsolved.
+3 (2) "CODIS hit notification" means a formal communication sent by a
+4 CODIS-participating laboratory to a criminal justice agency when a DNA
+5 profile from an unsolved case is confirmed to have matched a DNA profile
+6 already in the CODIS database.
+7 (3)"CODIS hit resolution" means that an agency has taken steps to
+8 determine if the investigative lead provided by the CODIS-participating
+9 laboratory is probative to the case at hand. The ultimate disposition of the
+10 CODIS hit should be either a communication to the CODIS-participating
+11 laboratory that the lead has been exhausted or that the lead has probative value
+12 and shall be followed up on by collection and submission of a reference DNA
+13 sample to the laboratory from the associated individual, if applicable.
+14 (4)"Outstanding CODIS hit" means that a criminal justice agency has
+15 officially received a CODIS hit notification and that investigative lead has not
+16 been cleared, acted upon, or resolved by that agency within ninety days of
+17 receipt.
+18 C. The state police shall serve as the central repository for tracking of
+19 outstanding CODIS hits in Louisiana.
+20 D. The state police shall create and operate a statewide outstanding
+21 CODIS hit tracking system. The state police may contract with public or private
+22 entities, including but not limited to private software and technology providers,
+23 for the creation and maintenance of the system.
+24 E. The statewide outstanding CODIS hit tracking system shall
+25 accomplish all of the following:
+26 (1) Track the status of the CODIS hits sent to criminal justice agencies
+27 that have not been resolved within ninety days.
+28 (2) Allow criminal justice agencies to update and track the status of
+29 outstanding CODIS hits.
+30 (3) Use electronic technology in order to allow continuous access.
+Page 2 of 4
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SB NO. 320 ENROLLED
+1 (4) Provide for cross-jurisdictional data sharing with law enforcement
+2 agencies.
+3 F. The state police may use a phased implementation process in order to
+4 launch the system and facilitate entry and use of the system for required
+5 participants. The state police may phase in initial participation according to the
+6 region or volume.
+7 G. All law enforcement agencies that receive CODIS hit notifications,
+8 including CODIS-participating laboratories, investigating law enforcement
+9 agencies, district attorneys' offices, and agencies that aid in the identification of
+10 missing persons and human remains, shall provide all required information to
+11 the tracking system and fully participate in the system no later than January 1,
+12 2027.
+13 H.(1) After implementation of the tracking system, the state police shall
+14 submit an annual report on the statewide outstanding CODIS hit tracking
+15 system to the Senate Committee on Judiciary C, the House Committee on
+16 Administration of Criminal Justice, the governor, and the David R. Poynter
+17 Legislative Research Library pursuant to R.S. 24:771 and 772 no later than
+18 March first of each year. The state police shall make public the current report
+19 on its website. The report shall include all of the following:
+20 (a) The total number of outstanding CODIS hits in the system statewide
+21 and by jurisdiction.
+22 (b) The number of outstanding CODIS hits added to the system in the
+23 reporting period statewide and by jurisdiction.
+24 (c) The total number of outstanding CODIS hits that have been resolved
+25 in the system statewide and by jurisdiction.
+26 (2) For the purpose of the report required by this Subsection, an
+27 outstanding CODIS hit shall be assigned to the jurisdiction associated with both
+28 the CODIS-participating laboratory who processed the evidence associated with
+29 the unsolved case that received the CODIS hit, as well as the criminal justice
+30 agency that submitted the applicable evidence to the CODIS-participating
+Page 3 of 4
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SB NO. 320 ENROLLED
+1 laboratory.
+2 I. The state police shall adopt rules as necessary to implement the
+3 provisions of this Section.
+PRESIDENT OF THE SENATE
+SPEAKER OF THE HOUSE OF REPRESENTATIVES
+GOVERNOR OF THE STATE OF LOUISIANA
+APPROVED:
+Page 4 of 4
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+[DELETED: nEATptaBS§A0r1s a i t m s b t t c2a3o4t5f6n7B A u i t S t f t h t f8m9(]
+[DELETED: 0Eiu(C l a c j a Dpa(d i t i l p b t Cl0C h s b e a c t t C1l2a3s4(5o6b7r8C9o0D1C2e3f4E T s o C h t s s5a6(7t8(9o0(]
+[DELETED: 0E(aFl t s a f e a u o t s f rprGi C l i l ea0m1t223H4s5s t t S C J C t H C6A7L8M9o0(1a2(3r4(5i6( F t p o t r r b t S a7o8t9t0a t s t a e t t C]
+[DELETED: 0ElI T s p s a r a n t i tp]

@@ -1,0 +1,640 @@
+SLS 26RS-731 ENGROSSED
+2026 Regular Session
+SENATE BILL NO. 474
+BY SENATOR MILLER
+INFORMATION TECHNOLOGY. Creates the Protecting Louisiana's Infrastructure from
+Artificial Intelligence Risk Act. (1/1/27)
+1 AN ACT
+2 To enact Chapter 54 of Title 51 of the Louisiana Revised Statutes of 1950, to be comprised
+3 of R.S. 51:3111.1 through 3111.9, relative to artificial intelligence; to provide for the
+4 Protecting Louisiana's Infrastructure from Artificial Intelligence Risk Act; to provide
+5 for transparency requirements of certain artificial intelligence models; to provide for
+6 catastrophic risk management; to provide for critical safety incident reporting; to
+7 provide for whistleblower protections; to provide for penalties; to provide relative
+8 to the Public Records Law; to provide for terms, conditions, and definitions; to
+9 provide for an effective date; and to provide for related matters.
+10 Be it enacted by the Legislature of Louisiana:
+11 Section 1. Chapter 54 of Title 51 of the Louisiana Revised Statutes of 1950,
+12 comprised of R.S. 51:3111.1 through 3111.9, is hereby enacted to read as follows:
+13 CHAPTER 54. INFRASTRUCTURE AND ARTIFICIAL
+14 INTELLIGENCE RISK
+15 §3111.1. Short Title
+16 This Chapter may be cited as "Protecting Louisiana's Infrastructure
+17 from Artificial Intelligence Risk Act".
+Page 1 of 17
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-731 ENGROSSED
+SB NO. 474
+1 §3111.2. Definitions
+2 A. As used in this Chapter, the following words shall mean the following:
+3 (1) "Affiliate" means a person controlling, controlled by, or under
+4 common control with a specified person.
+5 (2) "Artificial intelligence model" means a machine-based system that
+6 receives inputs and generates outputs, including but not limited to predictions,
+7 content, recommendations, or decisions that can influence physical or virtual
+8 environments. "Artificial intelligence model" includes machine learning models,
+9 deep learning models, and other computational models designed to simulate
+10 aspects of human intelligence.
+11 (3)(a) "Catastrophic risk" means a foreseeable and material risk that a
+12 frontier developer's development, storage, use, or deployment of a frontier
+13 model will materially contribute to the death or serious injury of more than fifty
+14 people or more than one billion dollars in property damage or loss arising from
+15 a single incident involving a frontier model:
+16 (i) Providing expert-level assistance in the creation, synthesis,
+17 acquisition, weaponization, or release of a chemical or biological weapon,
+18 including but not limited to the identification of novel chemical compounds or
+19 biological agents with potential for weaponization, or the provision of detailed
+20 technical instructions for the production, stabilization, or dispersal of such
+21 agents.
+22 (ii) Engaging in or materially facilitating a cyberattack, with no
+23 meaningful human oversight, intervention, or supervision, against critical
+24 infrastructure systems, including but not limited to energy production and
+25 distribution systems, healthcare information technology systems, port logistics
+26 and navigation systems, water treatment facilities, or electrical grid systems,
+27 where cyberattacks result in or poses a substantial risk of physical harm,
+28 environmental damage, or significant disruption of essential services.
+29 (iii) Engaging in conduct with no meaningful human oversight,
+Page 2 of 17
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-731 ENGROSSED
+SB NO. 474
+1 intervention, or supervision that, if the conduct had been committed by a
+2 human, would constitute a felony under state or federal law, including but not
+3 limited to offenses involving extortion, fraud, theft, or unauthorized access to
+4 computer systems.
+5 (iv) Evading the control of its frontier developer or user in a manner that
+6 demonstrates autonomous pursuit of objectives inconsistent with the developer's
+7 or user's instructions or safety protocols.
+8 (b) "Catastrophic risk" does not include a foreseeable and material risk
+9 from any of the following:
+10 (i) Information that a frontier model outputs if the information is
+11 otherwise publicly accessible in a substantially similar form from a source other
+12 than a foundation model.
+13 (ii) Lawful activity of the state or federal government.
+14 (iii) Harm caused by a frontier model in combination with other software
+15 if the frontier model did not materially contribute to the harm.
+16 (4) "Critical infrastructure" means systems, assets, and networks,
+17 whether physical or virtual, that are so vital to the state or the United States,
+18 that the incapacity or destruction of these systems, assets, or networks, would
+19 have a debilitating impact on public health, public safety, economic security, or
+20 any combination thereof. "Critical infrastructure" includes, without limitation,
+21 energy production and refining facilities, healthcare delivery systems, shipping
+22 port operations and logistics systems, water treatment and distribution systems,
+23 electrical generation and transmission systems, natural gas pipeline systems,
+24 and petrochemical manufacturing facilities.
+25 (5) "Critical safety incident" means any of the following:
+26 (a) Unauthorized access to, modification of, or exfiltration of the model
+27 weights of a frontier model that results in death, bodily injury, or a cyberattack
+28 against critical infrastructure.
+29 (b) Harm resulting from the materialization of a catastrophic risk as
+Page 3 of 17
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-731 ENGROSSED
+SB NO. 474
+1 defined in this Section.
+2 (c) Loss of control of a frontier model causing death, bodily injury, or
+3 damage to critical infrastructure.
+4 (d) A frontier model that provides specific and actionable technical
+5 assistance for the creation of a chemical or biological weapon to a person who
+6 would not otherwise have been able to obtain that assistance.
+7 (e) A frontier model that uses deceptive techniques against the frontier
+8 developer to subvert the controls or monitoring of its frontier developer outside
+9 of the context of an evaluation designed to elicit this behavior and in a manner
+10 that demonstrates materially increased catastrophic risk.
+11 (6) "Department" means the Louisiana Department of Justice, office of
+12 the attorney general.
+13 (7) "Deploy" means to make a frontier model available to a third party,
+14 except for the primary purpose of developing or evaluating the frontier model.
+15 (8) "Foundation model" means an artificial intelligence model that is
+16 trained on a broad data set, designed for generality of output, and adaptable to
+17 a wide range of distinctive tasks.
+18 (9) "Frontier AI framework" means documented technical and
+19 organizational protocols to manage, assess, and mitigate catastrophic risks, with
+20 specific provisions for assessing risks related to cybersecurity threats to critical
+21 infrastructure and biochemical weapon development.
+22 (10) "Frontier developer" means a person who has trained, or initiated
+23 the training of, a frontier model, with respect to which the person has used, or
+24 intends to use, at least as much computing power to train the frontier model.
+25 (11)(a) "Frontier model" means a foundation model that either:
+26 (i) Was trained using a quantity of computing power greater than 10^26
+27 integer or floating-point operations; or
+28 (ii) Was produced by applying knowledge distillation to a frontier model
+29 as defined in this Subparagraph (a) of this Paragraph, provided that the
+Page 4 of 17
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-731 ENGROSSED
+SB NO. 474
+1 compute cost for applying knowledge distillation exceeds five million dollars.
+2 (b) The quantity of computing power described in Subparagraph (a) of
+3 this Paragraph includes computing for the original training run and any
+4 subsequent fine-tuning, reinforcement learning, or other material modifications
+5 to a preceding foundation model.
+6 (12) "Knowledge distillation" means any supervised learning technique
+7 using a larger artificial intelligence model or its output to train a smaller model
+8 with similar or equivalent capabilities.
+9 (13) "Large frontier developer" means a frontier developer that together
+10 with its affiliates had more than five hundred million dollars in annual gross
+11 revenues in the preceding calendar year.
+12 (14) "Model weight" means a numerical parameter in a frontier model
+13 that is adjusted through training and helps determine how inputs are
+14 transformed into outputs.
+15 (15) "Property" means corporeal or incorporeal property.
+16 §3111.3. Frontier AI framework requirements
+17 A. A large frontier developer shall write, implement, comply with, and
+18 clearly and conspicuously publish on its internet website a frontier AI
+19 framework that applies to the large frontier developer's frontier models and
+20 describes in detail how the large frontier developer approaches all of the
+21 following:
+22 (1) Incorporating national and international standards, and
+23 industry-consensus best practices into its frontier AI framework, including
+24 standards related to cybersecurity and biosecurity risk management.
+25 (2) Defining and assessing the large frontier developer's thresholds to
+26 identify and assess whether a frontier model has capabilities that may pose a
+27 catastrophic risk, including specific thresholds for cybersecurity capabilities
+28 that may be used to compromise critical infrastructure and capabilities, and
+29 that may assist in the development, production, or deployment of chemical or
+Page 5 of 17
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-731 ENGROSSED
+SB NO. 474
+1 biological weapons. These thresholds may include multiple-tiered levels of
+2 concern.
+3 (3) Applying mitigations to address potential catastrophic risks identified
+4 under Paragraph (2) of this Subsection, with specific mitigation strategies for
+5 cybersecurity risks to critical infrastructure and biochemical weapon risks.
+6 (4) Reviewing assessments and adequacy of mitigations as part of the
+7 decision to deploy a frontier model or use it extensively and internally.
+8 (5) Using third parties, including cybersecurity experts and biosecurity
+9 specialists, to assess catastrophic risks and mitigation effectiveness.
+10 (6) Revisiting and updating the frontier AI framework, including any
+11 criteria that trigger updates and how the large frontier developer determines
+12 when its frontier models are substantially modified enough to require
+13 disclosures pursuant to Subsection C of this Section.
+14 (7) Cybersecurity practices to secure unreleased model weights from
+15 unauthorized modification or transfer, including measures to prevent
+16 state-sponsored or other sophisticated threat actors from accessing model
+17 capabilities.
+18 (8) Identifying and responding to critical safety incidents, with specific
+19 protocols for incidents involving cyberattacks on critical infrastructure or
+20 potential biochemical threats.
+21 (9) Instituting internal governance practices to ensure implementation
+22 of these processes.
+23 (10) Assessing and managing catastrophic risk resulting from the
+24 internal use of its frontier models, including risks resulting from a frontier
+25 model circumventing oversight mechanisms.
+26 B.(1) A large frontier developer shall review and update its frontier AI
+27 framework at least once per year.
+28 (2) Within thirty days of making any material modification to its frontier
+29 AI framework, a large frontier developer shall clearly and conspicuously
+Page 6 of 17
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-731 ENGROSSED
+SB NO. 474
+1 publish on its website the modified frontier AI framework and a justification for
+2 the modification.
+3 C.(1) Before, or concurrently with, deploying a new or substantially
+4 modified frontier model, a frontier developer shall clearly and conspicuously
+5 publish on its website a transparency report containing the frontier model's
+6 release date, languages, output modalities, intended uses, and restrictions or
+7 conditions, and a mechanism to communicate with the frontier developer.
+8 (2) Before, or concurrently with, deploying a new or substantially
+9 modified frontier model, a large frontier developer shall include in the
+10 transparency report required by Paragraph (1) of this Subsection summaries
+11 of all of the following:
+12 (a) Assessments of catastrophic risks from the frontier model conducted
+13 pursuant to the frontier AI framework, including specific assessments of
+14 cybersecurity capabilities and biochemical risk.
+15 (b) The results of those assessments.
+16 (c) The extent to which third-party evaluators, including cybersecurity
+17 and biosecurity experts, were involved.
+18 (d) Other steps taken to fulfill the requirements of the frontier AI
+19 framework with respect to the frontier model.
+20 (3) A frontier developer that publishes the information under this
+21 Subsection in a larger document, including a system card or model card, shall
+22 be in compliance with the applicable provision of this Section.
+23 D. A large frontier developer shall transmit to the department a
+24 summary of any assessment of catastrophic risk resulting from internal use of
+25 its frontier models every three months or pursuant to another reasonable
+26 schedule specified by the large frontier developer and communicated in writing
+27 to the department.
+28 E. A frontier developer shall not make a materially false or misleading
+29 statement about catastrophic risk, its management of catastrophic risk, or its
+Page 7 of 17
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-731 ENGROSSED
+SB NO. 474
+1 implementation of, or compliance with, its frontier AI framework, including but
+2 not limited to in a certification filed to the department pursuant to Subsection
+3 G of this Section, unless the statement was made in good faith and was
+4 reasonable under the circumstances.
+5 F.(1) Beginning on July 1, 2028, and at least annually thereafter, a large
+6 frontier developer shall retain a third-party auditor to produce a report signed
+7 and certified by the auditor that contains but is not limited to both of the
+8 following:
+9 (a) A detailed assessment of whether the large frontier developer has
+10 substantially complied with its frontier AI framework during the prior year,
+11 including cybersecurity and biochemical risk management provisions.
+12 (b) Any material deviations between the requirements of the large
+13 frontier developer's frontier AI framework and the large frontier developer's
+14 actual practices during the prior year.
+15 (2) The third-party auditor shall not conduct an audit if it has a financial
+16 interest in the large frontier developer other than financial compensation for
+17 performing an audit.
+18 (3) Within thirty days of receiving an auditor's report required by
+19 Paragraph (1) of this Subsection, the large frontier developer shall publish on
+20 its website a high-level summary of the findings of the audit.
+21 G. Within twelve months after publishing its frontier AI framework in
+22 accordance with Subsection A of this Section, and annually thereafter, a large
+23 frontier developer shall provide to the department a written certification
+24 disclosing either of the following:
+25 (1) That the developer has been in compliance with its frontier AI
+26 framework during the prior year.
+27 (2) Any material deviations from the developer's frontier AI framework
+28 that occurred during the prior year, including a description of corrective
+29 actions taken or planned.
+Page 8 of 17
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-731 ENGROSSED
+SB NO. 474
+1 H.(1) When a frontier developer publishes documents to comply with the
+2 provisions of this Section, the frontier developer may make redactions to those
+3 documents as necessary to protect the frontier developer's trade secrets or
+4 cybersecurity, public safety, or United States national security or to comply
+5 with any federal or state law.
+6 (2) If a frontier developer redacts information in a document pursuant
+7 to this Subsection, the frontier developer shall describe the character and
+8 justification of the redaction in any published version of the document to the
+9 extent permitted by the concerns that justify redaction and shall retain the
+10 unredacted information for five years.
+11 §3111.4. Critical safety incident reporting
+12 A. The department shall establish a mechanism for frontier developers
+13 or the public to report critical safety incidents that includes all of the following
+14 information:
+15 (1) The date of the critical safety incident.
+16 (2) The reasons the incident qualifies as a critical safety incident.
+17 (3) A description of the incident, including whether the incident involved
+18 cybersecurity threats to critical infrastructure or biochemical risks.
+19 (4) Whether the incident involved internal use of a frontier model.
+20 (5) Whether the incident posed any risk to energy, health care, or port
+21 infrastructure in the state or in any other jurisdiction.
+22 B.(1) The department shall establish a mechanism for large frontier
+23 developers to confidentially submit summaries of any assessments of potential
+24 catastrophic risk from internal use of its frontier models.
+25 (2) The department shall take all precautions to limit access of any
+26 summaries submitted pursuant to Paragraph (1) of this Subsection to only
+27 personnel with a need to know and in order to prevent unauthorized access.
+28 C.(1) Subject to the provisions of Paragraph (2) of this Subsection, a
+29 frontier developer shall report any critical safety incident pertaining to its
+Page 9 of 17
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-731 ENGROSSED
+SB NO. 474
+1 frontier models to the department within fifteen days after discovering the
+2 critical safety incident.
+3 (2) If a frontier developer discovers that a critical safety incident poses
+4 an imminent risk of death, serious physical injury, or an active cyberattack on
+5 critical infrastructure, the frontier developer shall disclose that incident within
+6 twenty-four hours to the department and to any other appropriate authority
+7 with jurisdiction as required by law.
+8 (3) A frontier developer may file an amended report upon discovering
+9 additional information about the critical safety incident.
+10 D. The department shall review critical safety incident reports submitted
+11 by frontier developers and may review reports submitted by the public.
+12 E.(1) The department may transmit reports of critical safety incidents
+13 and reports from covered employees to the legislature, the governor, the federal
+14 government, or appropriate state or federal agencies, including the
+15 Cybersecurity and Infrastructure Security Agency and the United States
+16 Department of Homeland Security.
+17 (2) Beginning July 1, 2028, and annually thereafter the department shall:
+18 (a) Produce a report with anonymized and aggregated information about
+19 critical safety incidents reviewed since the preceding report, with specific
+20 sections addressing incidents related to cybersecurity and biochemical risks.
+21 (b) Produce a report with anonymized and aggregated information about
+22 covered employees' reports reviewed since the preceding report.
+23 (3) A report transmitted pursuant to this Subsection shall not include
+24 information that may compromise the frontier developer's trade secrets or
+25 cybersecurity, public safety, or national security, or violate any federal or state
+26 law.
+27 (4) The department shall submit the reports to the president of the
+28 Senate, the speaker of the House of Representatives, and the governor.
+29 F.(1) The department may designate federal laws, regulations, or
+Page 10 of 17
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-731 ENGROSSED
+SB NO. 474
+1 guidance that impose substantially equivalent or stricter standards or
+2 requirements for critical safety incident reporting.
+3 (2) After a frontier developer has declared to the department its intent
+4 to comply with a designated federal law, regulation, or guidance, the frontier
+5 developer shall constitute compliance with this Section to the extent that the
+6 frontier developer complies with the designated federal law, regulation, or
+7 guidance until the frontier developer revokes its intent or the department
+8 revokes the relevant designation.
+9 (3) Failure to meet these standards or requirements constitutes a
+10 violation of this Part.
+11 (4) The department shall revoke a designation if the requirements of
+12 Paragraph (1) of this Subsection are no longer met.
+13 §3111.5. Public records; exemption
+14 A. The following records are confidential and shall not be subject to the
+15 provisions of the Public Records Law, R.S. 44:1 et seq.:
+16 (1) A report of assessments of catastrophic risk from internal use
+17 pursuant to R.S. 51:3111.2.
+18 (2) A certification submitted pursuant to R.S. 51:3111.2.
+19 (3) A report of a critical safety incident submitted pursuant to R.S.
+20 51:3111.3.
+21 (4) A covered employee report.
+22 B. The provisions of this Section shall terminate on July 1, 2031.
+23 §3111.6. Annual assessment and recommendations
+24 A. On or before July 1, 2028, and annually thereafter, the department,
+25 in consultation with the Governor's Office of Homeland Security and
+26 Emergency Preparedness, shall assess developments relevant to this Chapter
+27 and recommend whether to update the definitions of "frontier model",
+28 "frontier developer", and "large frontier developer" to reflect technological
+29 developments and widely accepted standards.
+Page 11 of 17
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-731 ENGROSSED
+SB NO. 474
+1 B. In making recommendations pursuant to this Section, the department
+2 shall consider:
+3 (1) Similar federal or international thresholds for the management of
+4 catastrophic risk, aligning with federal definitions to the extent consistent with
+5 this Chapter.
+6 (2) Evolving cybersecurity threat landscapes affecting critical
+7 infrastructure, particularly energy, health care, and port sectors.
+8 (3) Developments in biochemical weapon capabilities enabled or
+9 facilitated by artificial intelligence.
+10 (4) Stakeholder input, including input from critical infrastructure
+11 operators in this state.
+12 (5) The length, complexity, and external verifiability of coverage
+13 determinations.
+14 C. The department shall submit its findings and recommendations,
+15 together with specific proposals for legislation, to the president of the Senate of
+16 the Louisiana Legislature and the speaker of the House of Representatives of
+17 the Louisiana Legislature.
+18 §3111.7. Penalties
+19 A. A large frontier developer that fails to publish or transmit a
+20 compliant document required to be published or transmitted under this
+21 Chapter, makes a statement in violation of R.S. 51:3111.2(E), fails to complete
+22 a third-party audit or publish a summary of the results of an audit as required
+23 by R.S. 51:3111.2(F), fails to complete a certification as required by R.S.
+24 51:3111.2(G), fails to report an incident as required by R.S. 51:3111.3, or fails
+25 to comply with its own frontier AI framework, is subject to a civil penalty.
+26 B. The attorney general may bring an action against a violator to recover
+27 a penalty not to exceed one million dollars per violation for a first violation or
+28 ten million dollars for a second or subsequent violation of the same
+29 requirement.
+Page 12 of 17
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-731 ENGROSSED
+SB NO. 474
+1 C. For purposes of bringing an action pursuant to this Section, a frontier
+2 developer or large frontier developer that develops, deploys, or operates
+3 frontier models in this state is both engaged in substantial and not isolated
+4 activities within this state, and is doing business in this state, shall be subject to
+5 the jurisdiction of the courts of this state.
+6 D. Loss of value of equity does not count as damage to or loss of property
+7 for the purposes of this Chapter.
+8 §3111.8. Preemption
+9 This Chapter preempts any rule, regulation, code, ordinance, or other
+10 law adopted by a parish, municipality, or other local governmental entity on or
+11 after July 1, 2027, specifically related to the regulation of frontier developers
+12 with respect to their management of catastrophic risk.
+13 §3111.9. Whistleblower protections; frontier artificial intelligence developers
+14 A. As used in this Section, the following terms have the meanings
+15 ascribed to them herein:
+16 (1) "Catastrophic risk" has the same meaning as provided in R.S.
+17 51:3111.2, except that the term applies to a foundation model.
+18 (2) "Covered employee" means an employee responsible for assessing,
+19 managing, or addressing risk of critical safety incidents.
+20 (3) "Critical safety incident" has the same meaning as provided in R.S.
+21 51:3112, except that the term applies to a foundation model.
+22 B. Prohibited actions. A frontier developer shall not adopt, enforce, or
+23 enter into any policy or contract that prevents a covered employee from, or
+24 retaliates against a covered employee for, making a protected disclosure
+25 pursuant to this Section, or disclosing information to the attorney general, a
+26 federal authority, a supervisor, or another covered employee who has authority
+27 to investigate, discover, or correct the reported issue, if the covered employee
+28 has reasonable cause to believe that the information discloses that the frontier
+29 developer's activities pose a specific and substantial danger to the public's
+Page 13 of 17
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-731 ENGROSSED
+SB NO. 474
+1 health or safety resulting in a catastrophic risk, including risks to critical
+2 infrastructure, or that the frontier developer has violated R.S. 51:3111.2 or R.S.
+3 51:3111.3.
+4 C. A frontier developer shall provide, to all covered employees, a clear
+5 notice of their rights pursuant to this Section by as follows:
+6 (1) Posting and displaying, at all times, within any workplace maintained
+7 by the frontier developer, a notice of rights to all covered employees', to ensure
+8 that any new or remote covered employee receives equivalent notice.
+9 (2) Providing annual, written notice to each covered employee of their
+10 rights under this Section, to be acknowledged by each covered employee.
+11 D. Reporting process.
+12 (1) A large frontier developer shall provide an anonymous, internal
+13 process for covered employees to disclose, in good faith, information to the large
+14 frontier developer which indicates specific and substantial danger to the
+15 public's health or safety resulting in a catastrophic risk or a violation of R.S.
+16 51:3111.2 or R.S. 51:3111.3. The process shall include a monthly update, to the
+17 covered employee, regarding the status of the large frontier developer's
+18 investigation of the disclosure and the actions being taken by the large frontier
+19 developer in response to the disclosure.
+20 (2) The disclosures and responses of the process pursuant to this
+21 Subsection shall be shared with the officers and directors of the large frontier
+22 developer on a quarterly basis, unless the officer or director is the subject of the
+23 disclosure.
+24 E. In a civil action pursuant to this Section, once it has been
+25 demonstrated by a preponderance of the evidence that a proscribed activity
+26 contributed to the alleged prohibited action by the covered employee, the
+27 frontier developer shall prove, by clear and convincing evidence, that the action
+28 occurred for legitimate, independent reasons.
+29 F. A covered employee aggrieved by a violation of this Section may bring
+Page 14 of 17
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-731 ENGROSSED
+SB NO. 474
+1 a civil action to a court of competent jurisdiction for appropriate temporary,
+2 preliminary, or permanent injunctive relief. The court shall consider harm from
+3 the violation and any chilling effect on other covered employees. The court may
+4 award reasonable attorney fees to the prevailing plaintiff.
+5 Section 2. This Act shall become effective on January 1, 2027.
+The original instrument and the following digest, which constitutes no part
+of the legislative instrument, were prepared by Senate Legislative Services.
+The keyword, summary, and digest do not constitute part of the law or proof
+or indicia of legislative intent. [R.S. 1:13(B) and 24:177(E)]
+DIGEST
+SB 474 Engrossed 2026 Regular Session Miller
+Proposed law provides for the Protecting Louisiana's Infrastructure from Artificial
+Intelligence Risk Act.
+Proposed law define the terms, "affiliate", "artificial intelligence model", "catastrophic risk",
+"critical infrastructure", "critical safety incident", "deploy", "department", "foundation
+model", "frontier AI framework", "frontier developer", "frontier model", "knowledge
+distillation", "large frontier developer", "model weight", and "property".
+Proposed law requires a large frontier AI developer to write, implement, comply with, and
+publicly publish on its website a frontier AI framework that applies to the large frontier
+developer's frontier models and describes, in detail, how the large frontier developer
+approaches governing the development and deployment of frontier models.
+Proposed law requires a large frontier AI developer to review and update its frontier AI
+framework annually. Further requires that any material modification to the framework be
+published on the developer's website within 30 days, along with a justification for the
+modification.
+Proposed law requires a frontier developer to publish a transparency report on its website
+before or at the time of deploying a new or substantially modified frontier model, including
+the model's release date, languages, output modalities, intended uses, restrictions, and a
+method to contact the developer.
+Proposed law requires large frontier developers to include summaries of catastrophic risk
+assessments, including cybersecurity and biochemical risks, the results of those assessments,
+the involvement of third-party evaluators, and other steps taken to comply with the frontier
+AI framework. Provides that publication of this information in a system card or model card
+satisfies the requirement.
+Proposed law requires a large frontier AI developer to provide the department with a
+summary of any catastrophic risk assessments related to the internal use of its frontier
+models at least every three months or according to another reasonable schedule
+communicated to the department.
+Proposed law prohibits a frontier developer from making any materially false or misleading
+statements regarding catastrophic risk, the management of such risk, or compliance with its
+frontier AI framework, unless the statement was made in good faith and reasonable under
+the circumstances.
+Page 15 of 17
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-731 ENGROSSED
+SB NO. 474
+Proposed law requires a large frontier AI developer, beginning July 1, 2028, and annually
+thereafter, to retain an independent third-party auditor to assess compliance with its frontier
+AI framework and identify any material deviations from the framework. Prohibits a third-
+party auditor with a financial interest in the developer, from conducting the audit and
+requires the developer to publish a high-level summary of the audit findings on its website
+within 30 days of receiving the report.
+Proposed law requires a large frontier AI developer, within twelve months after publishing
+its frontier AI framework and annually thereafter, to submit a written certification to the
+department stating whether the developer complied with its framework during the prior year
+or disclosing any material deviations and corrective actions taken or planned.
+Proposed law authorizes a frontier developer to redact information from documents
+published in order to protect trade secrets or cybersecurity, public health and safety, national
+security, or to comply with federal or state law. Requires the developer to describe the nature
+and justification of any redactions in the published document and to retain the unredacted
+information for five years.
+Proposed law requires the department to establish a mechanism for frontier developers or
+the public to report critical safety incidents involving frontier AI models. Further requires
+reports to include the date of the incident, the reasons it qualifies as a critical safety incident,
+a description of the incident, whether it involved internal model use, and whether it posed
+risks to energy, health care, or port infrastructure.
+Proposed law requires the department to establish a confidential mechanism for large
+frontier developers to submit summaries of assessments of potential catastrophic risks from
+internal use of frontier models. Further requires the department to limit access to such
+reports to personnel with a need to know and to take precautions to prevent unauthorized
+disclosure.
+Proposed law requires a frontier developer to report any critical safety incident involving its
+frontier models to the department within 15 days of discovery. Further requires reporting
+within 24 hours if the incident poses an imminent risk of death, serious injury, or an active
+cyberattack on critical infrastructure and allows amended reports when additional
+information becomes available.
+Proposed law requires the department to review critical safety incident reports submitted by
+frontier developers and authorizes the department to review reports submitted by the public.
+Proposed law authorizes the department to transmit critical safety incident reports and
+certain employee reports to the legislature, the governor, and appropriate state or federal
+agencies.
+Proposed law requires the department, beginning July 1, 2028, and annually thereafter, to
+produce anonymized and aggregated reports on critical safety incidents and employee
+reports and to submit those reports to the president of the Senate, the speaker of the House
+of Representatives, and the governor, while protecting trade secrets, cybersecurity, public
+safety, and national security information.
+Proposed law authorizes the department to designate federal laws, regulations, or guidance
+that impose substantially equivalent or stricter standards for critical safety incident reporting.
+Further provides that a frontier developer that declares its intent to comply with the
+designated federal requirements is considered in compliance with proposed law, until
+revoked by the frontier developer. Failure to meet requirements constitutes a violation and
+requires the department to revoke a designation if the standards are no longer satisfied.
+Proposed law provides that certain records, including certifications submitted by frontier AI
+developers, critical safety incident reports, catastrophic risk assessment reports from the
+Page 16 of 17
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-731 ENGROSSED
+SB NO. 474
+internal model use, and covered employee reports, are confidential and exempt from Public
+Records Laws. Further provides that this exemption is subject to legislative review and will
+terminate on July 1, 2031.
+Proposed law requires the department, in consultation with the Governor's office of
+Homeland Security and Emergency Preparedness, to annually assess developments related
+to frontier artificial intelligence and recommend whether updates to the definitions of
+"frontier model", "frontier developer", and "large frontier developer" are necessary to reflect
+technological advancements and accepted standards, beginning July 1, 2028.
+Proposed law requires the department, when making recommendations to consider federal
+or international standards for catastrophic risk management, evolving cybersecurity threats
+to critical infrastructure, developments in AI related biochemical weapon risks, stakeholder
+input including critical infrastructure operators, and factors related to the scope and
+verifiability of coverage determinations. Further requires the department to submit its
+recommendations to the legislature.
+Proposed law provides that a large frontier AI developer is subject to civil penalties for
+failing to comply with requirements of proposed law, which shall not exceed $1,000,000 for
+first violation and $10,000,000 for a subsequent violation of the same requirement and
+authorizes enforcement by the attorney general. Further provides that frontier developers
+operating in this state are subject to the jurisdiction of state courts and clarifies that loss of
+equity value does not constitute damage to property under proposed law.
+Proposed law preempts any rule, regulation, code, ordinance, or other law adopted by a
+parish, municipality, or other local governmental entity on or after July 1, 2027, relating to
+the regulation of frontier AI developers and their management of catastrophic risk.
+Proposed law establishes whistleblower protection for covered employees of frontier AI
+developers who report catastrophic risks or violations related to frontier artificial intelligence
+systems.
+Proposed law prohibits retaliation against covered employees who disclose safety concerns
+to supervisors or appropriate authorities and requires developers to provide notice of these
+protections and establish an anonymous internal reporting process.
+Proposed law establishes a burden of proof standard in civil actions and authorizes courts
+to grant injunctive relief and award reasonable attorney fees to prevailing plaintiffs.
+Effective January 1, 2027.
+(Adds R.S. 51:3111.1-3111.9)
+Page 17 of 17
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+[DELETED: 1EAToPfcptp0B1S 1 C 5 o T 5 o t L R S o 12c3C4I5§6T7f]
+[DELETED: 1E§A( " m a p c c b o uc(rced0a1(2f3m4p5a6( P e a i t c s7a w o r o a c o b w8i9b0t1a2( E i o m f a c w n3m h o i o s a c4i5d6a7w o a s r o p h8e9( E i c w n m h o]
+[DELETED: 1Ei o t i t c h b c hlc(do(f0( I t a f m o i t i i1o2t3(4(5i6( " i m s a a n7w8t9h0a1e2p3e4a5(6(7w8a9(]
+[DELETED: 1Ed(d( aaw(do0t1(2t3(4e5(6t7a8( " A f m d t a9o0s1i2(3t4i5(6(7i8(9a d i t S ( o t P p t t]
+[DELETED: 1Ec(t P i c f t o t r a ast(uw(0w1r2(3t i a t t a h d h i a4t5(6§7A8c a c p o i i w a f A9f0d i d h t l f d a a o t1f2( I n a i s a3i4s5(6i7c8t9t]
+[DELETED: 1Eb w T t m i m l oc(uc(d(s0(1c2w i f m a s m e t r3d4(5u m o t i m t p6s o o s t a f a m7c8(9p f i i c o c i o0p1(2o3( A a m c r r f t4i5m6B7f8(9A f a l f d s c a c]
+[DELETED: 1EptCmprc( B o c w d a n o sm f m a l f d s i i t0t1o2(3p t t f A f i s a o4c5(6(7a8( O s t t f t r o t f A9f0( A f d t p t i u t1S2b3D A l f d s t t t d 4s5i f m e t m o p t a r6s7t8E9s]
+[DELETED: 1EinG o t S u t s w m i g f a wrFfaf(0s1i2( A m d b t r o t l3f4a5(6i7p8( W t d o r a a r r b9P0i1G2a3f d s p t t d a w c4d5( T t d h b i c w i f A6f7(8t o d t p y i a d o c9a]
+[DELETED: 1EHpdcw(t t S t f d s d t cje0u1§2A3o4i5(6(7(8c9(0(1i2B3d4c5(6s7p8C9f]
+[DELETED: 1Efc(actw(a0D1b2E3a4g o a s o f a i t5C a I S A a t U S6D7(8(9c s i r s t p r w s0s1(2c3(4i5c6l7(8S9F T d m d f l r o]
+[DELETED: 1Eg t i s e o s s or(tdfg u t f d r i i o t dr( F t m t s o r c 0v1(2P3§4A5p6( A r o a o c r f i u7p8(9(051(2B3§4A5i c w t G O o H S a6E7a r w t u t d o " m8"9d]
+[DELETED: 1EBs(ct( E c t l a ci( D i b w c e of0( S i i i f c i1o2( T l c a e v o c3d4C T d s s i f a r5t6t7t8§9A A l f d t f t p o t 0c d r t b p o t u t1C2a3b R 5 f t c a c a r b R455t6B7a8t m d f a s o s v o t s9r]
+[DELETED: 1ECd o l f d t d d o ofatDf§T0l1a2w3§4A A u i t S t f t h t m5a6( " r h t s m a p i R758(9m0(152B3e4r a a c e f m a p d5p6f7t8h9d]
+[DELETED: 1Eh o i a c i r t ci5Cn(bt(0r1D2(3p4f d w i s a s d t t5p657c e r t s o t l f d8i9d0( T d a r o t p p t t1S2d3d4E I a c a p t t S o i h b5d6c t t a p a b t c e t7f8o9F]
+[DELETED: 1EaptaSd2nM l p f t P L I f A i " s i " " " " A f " d " m " f m a d i d h t l f d l f d p t d  a l e t m o a t a r s]
+[DELETED: 1E l a a f d t r i f d l r t d t e a c m f l o c i a a a r w a a a a r o c s i a e p t a f d t d i i t c w t f r i c i c w p l u]
+[DELETED: 1E l r t d i c w t G o o f t d o i c i o a f r t t s a o c d F r t d t s i]

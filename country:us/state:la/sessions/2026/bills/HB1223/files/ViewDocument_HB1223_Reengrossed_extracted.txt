@@ -1,0 +1,1590 @@
+Title: HOUSE BILL NO. 1223
+Official Title: HOUSE BILL NO. 1223
+Number of Sections: 46
+Source: versions - HB1223 Reengrossed
+Media Type: application/pdf
+Strikethrough Detection: 20 sections found
+
+================================================================================
+
+Section 1:
+HLS 26RS-2337 REENGROSSED
+2026 Regular Session
+BY REPRESENTATIVE MCFARLAND
+ECONOMIC DEVELOPMENT: Establishes the Louisiana Clinical Trial Competitiveness
+and Patient Access Act
+1 AN ACT
+2 To enact Chapter 70 of Title 51 of the Louisiana Revised Statutes of 1950, to be comprised
+3 of R.S. 51:3301 through 3306, relative to creating the Louisiana Clinical Trial
+4 Competitiveness and Patient Access Act; to provide for purpose; to provide for
+5 definitions; to provide for responsibilities of Louisiana Economic Development; to
+6 provide for the participation of certain entities; to provide for the sharing of
+7 information; to provide relative to external institutional review boards; to provide for
+8 reporting; to provide for rulemaking authority; to provide for funding; and to provide
+9 for related matters.
+10 Be it enacted by the Legislature of Louisiana:
+11 Section 1. Chapter 70 of Title 51 of the Louisiana Revised Statutes of 1950,
+12 comprised of R.S. 51:3301 through 3306, is hereby enacted to read as follows:
+13 CHAPTER 70. LOUISIANA CLINICAL TRIAL COMPETITIVENESS AND
+14 PATIENT ACCESS ACT
+15 §3301. Purpose
+16 A. The purpose of this Chapter is to make Louisiana more competitive for
+17 clinical trials by supporting sponsor-facing readiness, speed-to-trial information,
+18 external central institutional review board reliance, avoidance of unnecessary
+19 duplicate institutional review board ethical review, patient access, role-based
+Page 1 of 20
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-2337 REENGROSSED
+HB NO. 1223
+1 collaboration, and statewide visibility of confirmed clinical-trial capabilities, while
+2 preserving patient choice, institutional clinical authority, lawful local review, direct
+3 sponsor relationships, confidential business information, and protected health
+4 information.
+5 B. Nothing in this Chapter shall be construed to designate any research
+6 entity, healthcare system, academic medical center, cancer program, clinical partner,
+7 affiliate, or other person as the exclusive or preferred statewide provider, gateway,
+8 broker, coordinator, sponsor-facing representative, or patient-referral destination for
+9 covered clinical projects.
+10 C. Nothing in this Chapter shall be construed to designate, deny, confer,
+11 limit, or impair any research entity's status, role, application, partnership, eligibility,
+12 or recognition with respect to National Cancer Institute designation, National Cancer
+13 Institute-supported networks, federal grant requirements, accreditation standards,
+14 cancer-center designation standards, or other federal or private designation programs.
+15 §3302. Definitions
+16 For purposes of this Chapter, the following terms have the following
+17 meanings:
+18 (1) "Confidential business information" means nonpublic trade secret,
+19 proprietary, competitively sensitive, commercially sensitive, sponsor-specific,
+20 contract-research-organization-specific, research-entity-specific,
+21 investigator-specific, or project-specific information, including trial pipelines,
+22 feasibility, recruitment, referral strategy, contracts, budgets, rates, pricing,
+23 intellectual property, commercialization strategy, site-selection strategy, sponsor
+24 strategy, or market strategy.
+25 (2) "Contract research organization" means an organization that provides
+26 clinical research services to a sponsor or trial manager.
+27 (3)(a) "Covered clinical project" means an industry-sponsored interventional
+28 clinical trial, or a federally supported interventional clinical trial designated by rule
+29 or voluntary written election by the research entity, involving a drug, biologic,
+Page 2 of 20
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-2337 REENGROSSED
+HB NO. 1223
+1 medical device, radiopharmaceutical, diagnostic, combination product, or other
+2 product regulated by the United States Food and Drug Administration and conducted
+3 or proposed to be conducted at a site located in this state. A Phase IV clinical trial
+4 is included only if interventional and designated by rule or voluntary written election
+5 by the research entity.
+6 (b) The term does not include a purely observational study, retrospective
+7 chart review, registry-only study, quality-improvement activity, or expanded-access
+8 treatment outside a clinical trial unless voluntarily included by the research entity or
+9 designated by rule for a limited implementation purpose.
+10 (4) "Department" means Louisiana Economic Development.
+11 (5) "Designee" means a public or private entity, organizational unit,
+12 contractor, or other person lawfully designated by the department to assist with
+13 administrative, technical, market-facing, or implementation functions pursuant to this
+14 Chapter. A designee shall be subject to the limitations, confidentiality restrictions,
+15 patient-data restrictions, no-gatekeeper provisions, no-forced-routing provisions,
+16 no-steering provisions, and antitrust-related limitations of this Chapter.
+17 (6) "External central institutional review board" means an institutional
+18 review board that serves as the single institutional review board or institutional
+19 review board of record for a covered clinical project pursuant to a federally
+20 compliant reliance arrangement, is registered in accordance with applicable federal
+21 requirements, is not subject to an active federal restriction, suspension,
+22 disqualification, or enforcement action that prohibits or materially limits review of
+23 the covered clinical project, and is not the local institutional review board of the
+24 research entity conducting the covered clinical project.
+25 (7) "Patient-identifying information" means information that identifies or can
+26 reasonably be used to identify a patient, research participant, or potential research
+27 participant, including health, biological specimen, genomic, imaging, referral,
+28 eligibility, or clinical information associated with that person.
+Page 3 of 20
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-2337 REENGROSSED
+HB NO. 1223
+1 (8) "Protected health information" has the same meaning as provided in 45
+2 CFR 160.103.
+3 (9)(a) "Research entity" means a hospital, academic institution, institutional
+4 healthcare provider, healthcare system, private clinical research site, research
+5 organization, cancer research program, academic medical center platform,
+6 community oncology program, pediatric research program, translational research
+7 program, or other institutional entity serving as a trial site or otherwise exercising
+8 institutional responsibility for a covered clinical project at a site located in this state.
+9 (b) The term does not include an individual healthcare provider acting solely
+10 in an individual professional capacity and not on behalf of an institutional trial site.
+11 (10) "Sponsor" means a pharmaceutical company, biotechnology developer,
+12 medical device manufacturer, diagnostic developer, radiopharmaceutical developer,
+13 academic sponsor, federal sponsor, foundation sponsor, or other entity advancing an
+14 investigational product.
+15 §3303. Department role; voluntary participation; limitations
+16 A. The department may administer this Chapter and may act through a
+17 designee.
+18 B. The department may coordinate, verify, aggregate, and market voluntarily
+19 provided or verified Louisiana clinical-trial capabilities to sponsors, contract
+20 research organizations, federal partners, site-selection teams, and other persons
+21 involved in clinical-trial development, site selection, patient access, or
+22 economic-development activities in a neutral, nonexclusive, and capability-based
+23 manner.
+24 C. Department-coordinated marketing, capability-presentation,
+25 sponsor-facing, site-identification, pilot, cooperative endeavor agreement, or other
+26 implementation activity is voluntary and nonexclusive. No research entity, sponsor,
+27 contract research organization, patient, or referring provider shall be required to use
+28 or route communications through the department or its designee, or participate in
+Page 4 of 20
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-2337 REENGROSSED
+HB NO. 1223
+1 such activity, as a condition of conducting, considering, referring to, contracting for,
+2 or participating in a covered clinical project.
+3 D. A research entity may voluntarily provide capability, contact,
+4 site-readiness, speed-to-trial, or role-based collaboration information to the
+5 department or its designee for statewide clinical-trial marketing.
+6 E. The department may enter into confidentiality agreements and other
+7 lawful agreements to support implementation of this Chapter, to the extent permitted
+8 by law. Nothing in this Chapter shall require a research entity, sponsor, or contract
+9 research organization to provide the department or its designee with
+10 patient-identifying information, protected health information, confidential business
+11 information, feasibility information, trial-pipeline information, patient or referral
+12 information, contract or budget terms, recruitment strategy, market strategy, or other
+13 competitively sensitive information except pursuant to law or voluntary written
+14 agreement.
+15 F. Nothing in this Chapter shall authorize the department or its designee to
+16 approve or disapprove a protocol, contract, budget, local operational determination,
+17 site activation decision, patient referral, sponsor selection, contract research
+18 organization selection, site-selection decision, clinical judgment, credentialing
+19 decision, licensure determination, coverage determination, or federal research
+20 determination.
+21 G. Nothing in this Chapter shall transfer ownership of research programs,
+22 clinical operations, faculty governance, medical judgment, licensure standards,
+23 credentialing authority, contracting authority, budget authority, institutional review
+24 authority, or clinical decision-making authority from a research entity to the
+25 department or its designee.
+26 H. A designee affiliated with a research entity, healthcare provider,
+27 healthcare system, academic medical center, clinical partner, affiliate, or other
+28 person that competes with a research entity shall not receive, collect, access, store,
+29 transmit, or control another research entity's confidential business information,
+Page 5 of 20
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-2337 REENGROSSED
+HB NO. 1223
+1 patient-identifying information, protected health information, feasibility information,
+2 trial-pipeline information, patient or referral information, contract or budget
+3 information, recruitment strategy, market strategy, or other competitively sensitive
+4 information unless each affected person provides written consent or the information
+5 is otherwise lawfully available to the designee.
+6 I. Coordination in accordance with this Chapter shall be nonexclusive and
+7 shall not require or authorize allocation of markets, patients, sponsors, trials,
+8 investigators, service lines, territories, prices, reimbursement, contract terms, budget
+9 terms, referral sources, or commercial opportunities among research entities or other
+10 persons.
+11 §3304. Speed-to-trial and capability information
+12 A. The department may establish by rule or guidance categories, formats,
+13 and criteria for voluntarily provided or aggregate speed-to-trial and capability
+14 information useful to sponsors, contract research organizations, and site-selection
+15 teams.
+16 B. Rules or guidance issued pursuant to this Section may vary by project
+17 type, trial phase, therapeutic area, trial complexity, research entity type, site
+18 capability, institutional infrastructure, sponsor or contract research organization
+19 submission completeness, or voluntary participation in department-coordinated
+20 activity.
+21 C. No rule or guidance issued pursuant to this Section shall require final
+22 contract execution, final budget agreement, study acceptance, site activation,
+23 enrollment commitment, use of the department or its designee, or disclosure of
+24 information protected by law or contract.
+25 D. No research entity shall be required to route sponsor or contract research
+26 organization communications, feasibility information, patient or referral information,
+27 contract or budget terms, recruitment strategy, trial-pipeline information,
+28 patient-access strategy, referral strategy, or other confidential business information
+Page 6 of 20
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-2337 REENGROSSED
+HB NO. 1223
+1 through another research entity, the department, or a designee affiliated with a
+2 competing healthcare provider or research entity.
+3 E. Nothing in this Chapter shall authorize the department, its designee, or
+4 any research entity to require a sponsor, contract research organization, patient, or
+5 referring provider to use a particular research entity, healthcare system, cancer
+6 program, clinical partner, affiliate, or designee, or to route communications,
+7 referrals, or confidential business information through a competing research entity,
+8 except with the written consent of the affected parties and as otherwise authorized
+9 by law.
+10 F. Nothing in this Chapter shall prohibit voluntary collaboration,
+11 consolidated feasibility responses, hub-and-spoke arrangements, decentralized trial
+12 arrangements, teletrial arrangements, shared-investigator participation,
+13 specialist-access planning, community-access partnerships, local follow-up support,
+14 or patient-access support, where lawful, clinically appropriate, operationally feasible,
+15 and consistent with patient consent, privacy law, institutional credentialing, sponsor
+16 requirements, protocol requirements, and clinical judgment.
+17 G. Nothing in this Chapter shall require a research entity to accept, open,
+18 activate, or enroll a covered clinical project for which the research entity reasonably
+19 determines that sufficient patient population, clinical expertise, investigator
+20 availability, facility readiness, staffing, data capacity, credentialing, coverage
+21 analysis, or operational capability is lacking.
+22 §3305. External central institutional review board; local review
+23 A. The requirements of this Section apply regardless of participation in
+24 department-coordinated activity.
+25 B. When an external central institutional review board is designated as the
+26 institutional review board of record or has approved the covered clinical project, a
+27 research entity shall not require separate local institutional review board approval or
+28 conduct duplicate local institutional review board ethical review. Nothing in this
+29 Subsection shall limit lawful local review preserved by this Section.
+Page 7 of 20
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-2337 REENGROSSED
+HB NO. 1223
+1 C. For a first-in-human clinical trial, Phase I clinical trial, early-feasibility
+2 device trial, or dose-escalation trial, a research entity shall rely on an external central
+3 institutional review board as the institutional review board of record where permitted
+4 by law and where a federally compliant reliance arrangement is available, unless
+5 external central institutional review board reliance is prohibited by federal law, state
+6 law, or binding federal award condition, or the sponsor or its authorized
+7 representative states in writing that the research entity's institutional review board
+8 serve as the institutional review board of record.
+9 D. A lack of a preexisting master agreement alone shall not make an external
+10 central institutional review board unavailable if a lawful study-specific reliance
+11 arrangement can be executed.
+12 E. If an external central institutional review board has been designated as the
+13 institutional review board of record, a request pursuant to Subsection C of this
+14 Section or Paragraph (F)(1) of this Section is effective only if the sponsor or its
+15 authorized representative withdraws that designation or confirms in writing that the
+16 external central institutional review board is unavailable. If an external central
+17 institutional review board has approved the covered clinical project, local
+18 institutional review board ethical review shall not occur.
+19 F. For a Phase II clinical trial or Phase III clinical trial, a research entity shall
+20 rely on an external central institutional review board as the institutional review board
+21 of record where permitted by law and where a federally compliant reliance
+22 arrangement is available, unless either of the following applies:
+23 (1) The sponsor or its authorized representative requests in writing that the
+24 research entity's institutional review board serve as the institutional review board of
+25 record.
+26 (2) The chancellor, chief executive officer, or highest-ranking executive
+27 officer of the research entity or institutional operating unit with formal legal or
+28 operational responsibility for the covered clinical project approves and signs a
+29 written project-specific exception based on one or more of the following:
+Page 8 of 20
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-2337 REENGROSSED
+HB NO. 1223
+1 (a) External central institutional review board reliance is prohibited by
+2 federal law, state law, or binding federal award condition.
+3 (b) Extraordinary project-specific circumstances involving project
+4 feasibility, participant rights, safety, or welfare require review by the research
+5 entity's own institutional review board for that covered clinical project.
+6 (c) A specific federal or state legal requirement requires review by the
+7 research entity's own institutional review board for that covered clinical project.
+8 G.(1) Notwithstanding any provision of this Chapter to the contrary, this
+9 Section shall not apply to any clinical trial, clinical investigation, or study that is a
+10 Phase IV clinical trial, a Phase 4 clinical trial, or otherwise postmarketing,
+11 post-approval, post-authorization, post-clearance, or post-classification, if the trial,
+12 investigation, or study is conducted after approval, licensure, clearance,
+13 authorization, or classification by the United States Food and Drug Administration
+14 of the product for the indication or use being studied, regardless of whether the trial,
+15 investigation, or study is interventional, observational, required, requested, agreed
+16 to, or voluntary. No rule, guidance, pilot, cooperative endeavor agreement, written
+17 agreement, or other implementation material pursuant to this Chapter shall make
+18 such a trial, investigation, or study subject to this Section. Nothing in this Paragraph
+19 shall prohibit the voluntary use of an external central institutional review board when
+20 otherwise lawful.
+21 (2) For a covered clinical project not described in Paragraph (1) of this
+22 Subsection and designated by rule, pilot, cooperative endeavor agreement, or written
+23 agreement of the affected parties, external central institutional review board reliance
+24 standards may be established by rule, pilot, cooperative endeavor agreement, or
+25 written agreement of the affected parties.
+26 H. No approval required pursuant to Paragraph (F)(2) of this Section may be
+27 delegated. The approving official shall be the chancellor, chief executive officer, or
+28 highest-ranking executive officer of the research entity or institutional operating unit
+29 with formal legal or operational responsibility for the covered clinical project. The
+Page 9 of 20
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-2337 REENGROSSED
+HB NO. 1223
+1 approving official shall not be the institutional review board chair, head of the local
+2 institutional review board, direct supervisor of the head of the local institutional
+3 review board, principal investigator, department chair, compliance officer, legal
+4 counsel, or other person primarily responsible for institutional review board
+5 administration or review, unless that person is also the highest-ranking executive
+6 officer of the research entity or institutional operating unit with formal legal or
+7 operational responsibility for the covered clinical project.
+8 I. A written exception pursuant to Paragraph (F)(2) of this Section shall state
+9 the basis for the exception with reasonable specificity, shall be limited to the covered
+10 clinical project, and shall not establish a standing institutional exception. The
+11 research entity shall transmit the written exception, or a summary sufficient to
+12 identify the statutory basis for the exception, to the sponsor, contract research
+13 organization if applicable, and the department or its designee in a form that does not
+14 disclose patient-identifying information, protected health information, or confidential
+15 business information.
+16 J. An exception pursuant to Paragraph (F)(2) of this Section shall not be
+17 based solely on institutional policy or preference, administrative convenience,
+18 staffing limitation, customary practice, generalized concern regarding external
+19 institutional review board review, preference for duplicate ethical review,
+20 disagreement with the use of external institutional review boards generally, or desire
+21 to control sponsor, referral, patient-access, or contracting relationships.
+22 K. A research entity that relies on its own institutional review board pursuant
+23 to this Section shall maintain documentation supporting such reliance and report
+24 aggregate, non-identifiable information to the department on a schedule established
+25 by rule or guidance, but not more frequently than semiannually. The report shall not
+26 include patient-identifying information, protected health information, confidential
+27 business information, sponsor-specific nonpublic information,
+28 contract-research-organization-specific nonpublic information,
+29 research-entity-specific nonpublic information, investigator-specific nonpublic
+Page 10 of 20
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-2337 REENGROSSED
+HB NO. 1223
+1 information, or project-specific nonpublic information. The department may set the
+2 form and schedule for reports in accordance with this Subsection, but shall not
+3 expand, narrow, waive, or modify the institutional review board requirements,
+4 exceptions, prohibitions, or local-review protections established in this Section.
+5 L. Nothing in this Chapter shall prohibit lawful local institutional review
+6 relating to contracts, budgets, coverage analysis, investigator qualifications, conflicts
+7 of interest, privacy, HIPAA, billing compliance, credentialing, pharmacy,
+8 investigational-drug logistics, device logistics, radiation safety, radiopharmaceutical
+9 handling, biosafety, cellular therapy readiness, BMT readiness, CAR-T readiness,
+10 gene-therapy readiness, pediatric safeguards, facility readiness, site feasibility,
+11 ancillary safety committees, local consent-language requirements, data security,
+12 scientific review, disease-group review, Protocol Review and Monitoring System
+13 review, Protocol Review and Monitoring Committee review, data and safety
+14 monitoring, clinical protocol and data management, local context submissions, or
+15 equivalent review required by law, applicable federal award conditions, accreditation
+16 standards, cancer-center designation standards, reliance agreements, or written
+17 objective institutional requirements directly related to local operational readiness,
+18 participant safety, or institutional compliance.
+19 M. Local institutional review preserved by this Section shall not be used to
+20 duplicate institutional review board ethical review or delay a covered clinical project
+21 based solely on institutional preference, generalized practice, administrative
+22 convenience, staffing limitation, customary internal sequencing, or disagreement
+23 with external central institutional review board reliance generally.
+24 N. Nothing in this Chapter shall require a research entity to waive or
+25 disregard legal requirements, safety obligations, federal research requirements,
+26 federal award conditions, accreditation standards, cancer-center designation
+27 requirements, reliance agreement responsibilities, or documented institutional
+28 responsibilities.
+Page 11 of 20
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-2337 REENGROSSED
+HB NO. 1223
+1 §3306. Reporting; rulemaking; funds
+2 A. The department may require only aggregate, non-identifiable information
+3 reasonably necessary to evaluate implementation of this Chapter and may publish
+4 aggregate reports, implementation summaries, speed-to-trial information, capability
+5 information, and recommendations. Information required pursuant to this Subsection
+6 shall not include patient-identifying information, protected health information,
+7 confidential business information, sponsor-specific nonpublic information,
+8 contract-research-organization-specific nonpublic information,
+9 research-entity-specific nonpublic information, investigator-specific nonpublic
+10 information, or project-specific nonpublic information unless provided pursuant to
+11 law or voluntary written agreement.
+12 B. Public reporting in accordance with this Chapter shall be aggregated and
+13 shall not include patient-identifying information, protected health information,
+14 confidential business information, sponsor-specific nonpublic information,
+15 contract-research-organization-specific nonpublic information,
+16 research-entity-specific nonpublic information, investigator-specific nonpublic
+17 information, or project-specific nonpublic information.
+18 C. Nothing in this Chapter shall be construed to do any of the following:
+19 (1) Create a state warranty of site performance, patient outcome, sponsor
+20 selection, site selection, enrollment success, clinical outcome, federal designation,
+21 regulatory approval, investment outcome, or commercial success.
+22 (2) Create a private cause of action based solely on implementation of this
+23 Chapter.
+24 (3) Require disclosure of information prohibited from disclosure by federal
+25 or state law or by enforceable contractual obligation.
+26 (4) Require or authorize the department or its designee to receive, store,
+27 transmit, access, control, collect, maintain, audit, or validate identifiable patient-level
+28 data, source data, endpoint data, adverse-event data, protected health information,
+Page 12 of 20
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-2337 REENGROSSED
+HB NO. 1223
+1 or patient-identifying information except as authorized by federal and state law,
+2 contract, protocol, consent, and applicable federal requirements.
+3 (5) Create immunity from federal or state antitrust law, unfair trade practice
+4 law, fraud law, abuse law, conflict-of-interest law, procurement law, or ethics law.
+5 (6) Require or authorize market allocation, patient allocation, sponsor
+6 allocation, trial allocation, referral-source allocation, price coordination,
+7 contract-term coordination, budget-term coordination, or service-line allocation
+8 among competitors.
+9 D. The department may adopt rules in accordance with the Administrative
+10 Procedure Act to implement this Chapter and may issue guidance, templates,
+11 reporting formats, capability tools, confidentiality procedures, conflict-of-interest
+12 procedures, model provisions, and other nonregulatory implementation materials, but
+13 only for the department's economic-development, speed-to-trial,
+14 capability-presentation, marketing, aggregate-reporting, consultation,
+15 voluntary-program, funding, and implementation functions pursuant to this Chapter.
+16 E. Rules or guidance may establish categories of covered clinical projects,
+17 standards for voluntarily provided or aggregate speed-to-trial and capability
+18 information, capability criteria, aggregate reporting formats, external central
+19 institutional review board reliance procedures, exception procedures, confidentiality
+20 procedures, role-based collaboration categories, hub-and-spoke models, teletrial
+21 models, decentralized trial models, patient-access criteria, voluntary program
+22 criteria, and phased implementation by project type, institution type, therapeutic
+23 area, trial phase, site, or pilot cohort. Rules or guidance shall not authorize the
+24 department or its designee to regulate clinical judgment, protocol content, site
+25 activation decisions, contracting decisions, patient referrals, sponsor selection,
+26 substantive institutional review board determinations, or local operational
+27 determinations.
+28 F. The department shall consult with research entities subject to this Chapter,
+29 sponsors, contract research organizations, the Louisiana Department of Health,
+Page 13 of 20
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-2337 REENGROSSED
+HB NO. 1223
+1 patient-access stakeholders, privacy experts, clinical-trial operations experts, and
+2 persons with relevant clinical, research, operational, contracting, regulatory,
+3 academic medical center development, biomedical innovation, or
+4 economic-development expertise.
+5 G. Nothing in this Chapter shall be construed to require a specific
+6 appropriation of funds or the creation of new positions. Subject to appropriation and
+7 availability of funds, the department may seek, accept, and expend federal funds,
+8 grants, gifts, donations, philanthropic contributions, private contributions,
+9 cooperative endeavor funds, matching funds, and other lawful funds made available
+10 for purposes of this Chapter.
+11 H. Subject to appropriation, available funds, and applicable law, the
+12 department may establish voluntary programs or enter into case-by-case cooperative
+13 endeavor agreements or other written agreements to support this Chapter. Before
+14 providing funds or other things of value, the department shall determine in writing
+15 that the program or agreement serves a public purpose and reasonably advances
+16 patient access, clinical-trial competitiveness, speed-to-trial, statewide capability
+17 development, rural or underserved access, academic medical center development,
+18 research investment, or another purpose of this Chapter. No program or agreement
+19 shall confer market exclusivity, require use of or routing through the department or
+20 its designee, require disclosure of information protected by law or contract, or
+21 require surrender of the right to conduct, consider, refer to, contract for, or
+22 participate in a covered clinical project independently.
+23 Section 2. The requirements of this Act shall apply prospectively to covered clinical
+24 projects for which the initial sponsor, contract research organization, site-selection, or
+25 feasibility submission is received on or after the effective date of this Act. Requirements
+26 established by rule, guidance, capability tool, criterion, or other implementation material
+27 apply prospectively only after the effective date of that rule, guidance, tool, criterion, or
+28 material.
+Page 14 of 20
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-2337 REENGROSSED
+HB NO. 1223
+1 Section 3. This Act shall become effective upon signature by the governor or, if not
+2 signed by the governor, upon expiration of the time for bills to become law without signature
+3 by the governor, as provided by Article III, Section 18 of the Constitution of Louisiana. If
+4 vetoed by the governor and subsequently approved by the legislature, this Act shall become
+5 effective on the day following such approval.
+DIGEST
+The digest printed below was prepared by House Legislative Services. It constitutes no
+part of the legislative instrument. The keyword, one-liner, abstract, and digest do not
+constitute part of the law or proof or indicia of legislative intent. [R.S. 1:13(B) and
+24:177(E)]
+HB 1223 Reengrossed 2026 Regular Session McFarland
+Abstract: Creates the La. Clinical Trial Competitiveness and Patient Access Act.
+Proposed law creates the La. Clinical Trial Competitiveness and Patient Access Act.
+Proposed law provides for purpose.
+Proposed law defines "confidential business information", "contract research organization",
+"covered clinical project", "department", "designee", "external central institutional review
+board", "patient-identifying information", "protected health information", "research entity",
+and "sponsor".
+Proposed law allows the Louisiana Economic Development (department) to administer
+proposed law and may act through a designee.
+Proposed law allows the department to coordinate, verify, aggregate, and market voluntarily
+provided or verified La. clinical-trial capabilities to sponsors, contract research
+organizations, federal partners, site-selection teams, and other persons involved in
+clinical-trial development, site selection, patient access, or economic-development activities
+in a neutral, nonexclusive, and capability-based manner.
+Proposed law provides that certain implementation activity outlined in proposed law is
+voluntary and nonexclusive.
+Proposed law allows a research entity to voluntarily provide certain information to the
+department or its designee for statewide clinical-trial marketing.
+Proposed law allows the department to enter into confidentiality agreements and other lawful
+agreements to support implementation of proposed law.
+Proposed law provides that nothing in proposed law authorizes the department to take certain
+actions outlined in proposed law.
+Proposed law provides that nothing in proposed law shall transfer ownership of research
+programs, clinical operations, faculty governance, medical judgment, licensure standards,
+credentialing authority, contracting authority, budget authority, institutional review
+authority, or clinical decision-making authority from a research entity to the department or
+its designee.
+Page 15 of 20
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-2337 REENGROSSED
+HB NO. 1223
+Proposed law provides that a designee with certain affiliation shall not receive, collect,
+access, store, transmit, or control certain information from another research entity unless
+each affected person provides written consent or the information is otherwise lawfully
+available to the designee.
+Proposed law allows the department to establish by rule or guidance categories, formats, and
+criteria for voluntarily provided or aggregate speed-to-trial and capability information useful
+to sponsors, contract research organizations, and site-selection teams. Proposed law provides
+that rules or guidance may vary.
+Proposed law provides that no research entity shall be required to route certain information
+through another research entity, the department, or a designee affiliated with a competing
+healthcare provider or research entity.
+Proposed law provides that nothing in proposed law shall prohibit voluntary collaboration,
+consolidated feasibility responses, hub-and-spoke arrangements, decentralized trial
+arrangements, teletrial arrangements, shared-investigator participation, specialist-access
+planning, community-access partnerships, local follow-up support, or patient-access support,
+where lawful, clinically appropriate, operationally feasible, and consistent with patient
+consent, privacy law, institutional credentialing, sponsor requirements, protocol
+requirements, and clinical judgment.
+Proposed law provides that nothing in proposed law shall require a research entity to accept,
+open, activate, or enroll a covered clinical project for which the research entity reasonably
+determines that sufficient patient population, clinical expertise, investigator availability,
+facility readiness, staffing, data capacity, credentialing, coverage analysis, or operational
+capability is lacking.
+Proposed law provides that certain requirements of proposed law shall apply regardless of
+participation in department-coordinated activity.
+Proposed law provides that when an external central institutional review board is designated
+as the institutional review board of record or has approved the covered clinical project, a
+research entity shall not require separate local institutional review board approval or conduct
+duplicate local institutional review board ethical review.
+Proposed law provides that for certain trials a research entity shall rely on an external central
+institutional review board as the institutional review board of record where permitted by law
+and where a federally compliant reliance arrangement is available, unless in certain
+circumstances.
+Proposed law provides that lack of a preexisting master agreement alone shall not make an
+external central institutional review board unavailable if a lawful study-specific reliance
+arrangement can be executed.
+Proposed law provides that if an external central institutional review board has been
+designated as the institutional review board of record, a request pursuant to proposed law is
+effective only in certain circumstances. Proposed law further requires that if an external
+central institutional review board has approved the covered clinical project, local
+institutional review board ethical review shall not occur.
+Proposed law provides that for a Phase II clinical trial or Phase III clinical trial, a research
+entity shall rely on an external central institutional review board as the institutional review
+board of record where permitted by law and where a federally compliant reliance
+arrangement is available, unless either of the following applies:
+(1) The sponsor or its authorized representative requests in writing that the research
+entity's institutional review board serve as the institutional review board of record.
+Page 16 of 20
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-2337 REENGROSSED
+HB NO. 1223
+(2) The chancellor, chief executive officer, or highest-ranking executive officer of the
+research entity or institutional operating unit with formal legal or operational
+responsibility for the covered clinical project approves and signs a written
+project-specific exception based on certain criteria.
+Proposed law provides that proposed law shall not apply to certain clinical trials, clinical
+investigations, or studies.
+Proposed law provides that for a covered clinical project not described in proposed law and
+designated by rule, pilot, cooperative endeavor agreement, or written agreement of the
+affected parties, external central institutional review board reliance standards may be
+established by rule, pilot, cooperative endeavor agreement, or written agreement of the
+affected parties.
+Proposed law prohibits the delegation of approval required pursuant to proposed law.
+Proposed law requires a written exception pursuant to proposed law to state the basis for the
+exception with reasonable specificity, to be limited to the covered clinical project, and not
+to establish a standing institutional exception.
+Proposed law provides for what exemptions shall not be solely based on.
+Proposed law provides that a research entity that relies on its own institutional review board
+pursuant to proposed law shall maintain documentation supporting such reliance and report
+aggregate, non-identifiable information to the department on a schedule established by rule
+or guidance. Proposed law further provides what the report shall include.
+Proposed law provides for what proposed law shall not inhibit.
+Proposed law provides that local institutional review shall not be used to duplicate
+institutional review board ethical review or delay a covered clinical project based solely on
+certain circumstances.
+Proposed law provides that nothing in proposed law shall require a research entity to waive
+or disregard legal requirements, safety obligations, federal research requirements, federal
+award conditions, accreditation standards, cancer-center designation requirements, reliance
+agreement responsibilities, or documented institutional responsibilities.
+Proposed law allows the department to require only aggregate, non-identifiable information
+reasonably necessary to evaluate implementation of proposed law and to publish aggregate
+reports, implementation summaries, speed-to-trial information, capability information, and
+recommendations.
+Proposed law provides relative to public reporting.
+Proposed law provides that nothing in proposed law shall be construed to do any of the
+following:
+(1) Create a state warranty of site performance, patient outcome, sponsor selection, site
+selection, enrollment success, clinical outcome, federal designation, regulatory
+approval, investment outcome, or commercial success.
+(2) Create a private cause of action based solely on implementation of proposed law.
+(3) Require disclosure of information prohibited from disclosure by federal or state law
+or by enforceable contractual obligation.
+Page 17 of 20
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-2337 REENGROSSED
+HB NO. 1223
+(4) Require or authorize the department or its designee to receive, store, transmit, access,
+control, collect, maintain, audit, or validate identifiable certain data or information
+except as authorized by federal and state law, contract, protocol, consent, and
+applicable federal requirements.
+(5) Create immunity from certain law.
+(6) Require or authorize certain allocation and coordination among competitors.
+Proposed law allows the department to adopt rule, guidance, and other materials to
+implement the provisions of proposed law.
+Proposed law provides for what rules or guidance may establish.
+Proposed law requires that department to consult with certain entities.
+Proposed law provides relative to the appropriation of funds.
+Proposed law allows the department to establish voluntary programs or other agreements to
+support proposed law.
+Proposed law provides that the requirements of proposed law shall apply prospectively to
+covered clinical projects for which the initial sponsor, contract research organization,
+site-selection, or feasibility submission is received on or after the effective date of proposed
+law. Requirements established by rule, guidance, capability tool, criterion, or other
+implementation material apply prospectively only after the effective date of that rule,
+guidance, tool, criterion, or material.
+Effective upon signature of governor or lapse of time for gubernatorial action.
+(Adds R.S. 51:3301-3306)
+Summary of Amendments Adopted by House
+The Committee Amendments Proposed by House Committee on Commerce to the
+original bill:
+
+Section 2:
+1. Make technical changes.
+
+Section 3:
+2. Add language relative to legislative findings and purpose.
+
+Section 4:
+3. Amend the definitions of "benchmark category" and "research entity".
+
+Section 5:
+4. Add the definitions of "receipt" and "repeated failure".
+
+Section 6:
+5. Add that nothing in proposed law shall be construed to require department
+approval for certain actions or to transfer clinical decision-making authority from
+a research entity to the department.
+
+Section 7:
+6. Amend proposed law relative to participation in the framework and relative to
+entering into a participation agreement.
+
+Section 8:
+7. Amend proposed law relative to what shall be established in a participation
+agreement.
+
+Section 9:
+8. Provide that a participation agreement shall not waive or reduce any duty
+imposed by proposed law except as expressly authorized.
+Page 18 of 20
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-2337 REENGROSSED
+HB NO. 1223
+
+Section 10:
+9. Add what may be included in the registry that may be maintained by the
+department or their designee.
+
+Section 11:
+10. Provide that compliance with proposed law shall be a condition for inclusion in
+certain actions by the department. Further provide relative to cooperation with
+certain department actions for certain benchmark categories.
+
+Section 12:
+11. Amend what a research entity shall do relative to acknowledgment of receipt, a
+sponsor feasibility response or engagement determination, concurrent review,
+and escalation to designated research-entity and department personnel.
+
+Section 13:
+12. Amend proposed law relative to the issuance of any written determination of
+nonreliance.
+
+Section 14:
+13. Add relative to lawful local review that proposed law shall not be construed to
+eliminate.
+
+Section 15:
+14. Provide that nothing in proposed law shall be construed to require a research
+entity to accept or activate a covered clinical project in certain circumstances.
+
+Section 16:
+15. Remove "admitted" from admitted covered clinical projects.
+
+Section 17:
+16. Amend relative to the compiled information in the annual report.
+
+Section 18:
+17. Amend the annual report requirements.
+
+Section 19:
+18. Amend relative to what may happen when a research entity demonstrates
+repeated failure to meet applicable benchmark expectations.
+
+Section 20:
+19. Add proposed law regarding benchmark categories for certain circumstances.
+
+Section 21:
+20. Provide that nothing in proposed law shall be construed to require the department
+or its designee to collect or maintain identifiable patient information except in
+certain circumstances.
+The House Floor Amendments to the engrossed bill:
+
+Section 22:
+1. Make technical changes.
+
+Section 23:
+2. Remove legislative intent.
+
+Section 24:
+3. Remove the definitions of "benchmark categories", "complete submission",
+"participation agreement", "patient-access support", "receipt", and "repeated
+failure".
+
+Section 25:
+4. Remove certain mandatory provisions required by proposed law.
+
+Section 26:
+5. Remove participation agreements from proposed law.
+
+Section 27:
+6. Remove activation standards for covered clinical projects from proposed law.
+
+Section 28:
+7. Remove benchmark categories from proposed law.
+
+Section 29:
+8. Remove required reporting to the legislature.
+
+Section 30:
+9. Amend the purpose of proposed law.
+
+Section 31:
+10. Add the definitions of "contract research organization", "designee", "patient-
+identifying information" and "protected health information".
+Page 19 of 20
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-2337 REENGROSSED
+HB NO. 1223
+
+Section 32:
+11. Amend the definitions of "confidential business information", "covered clinical
+project", "external institutional review board", "research entity", and "sponsor".
+
+Section 33:
+12. Amend the department or designee's role in administering the provisions of
+proposed law.
+
+Section 34:
+13. Amend the requirements of participation in proposed law by certain research
+entities.
+
+Section 35:
+14. Amend the requirements of coordination outlined in proposed law.
+
+Section 36:
+15. Change the process by which certain information is gathered and shared by the
+department or its designee.
+
+Section 37:
+16. Amend requirements regarding external central institutional review boards.
+
+Section 38:
+17. Add provisions relative to local review.
+
+Section 39:
+18. Amend state coordination relative to implementing proposed law.
+
+Section 40:
+19. Amend the exemptions to proposed law.
+
+Section 41:
+20. Amend confidentiality requirements of proposed law.
+
+Section 42:
+21. Clarify compliance requirements to certain laws.
+
+Section 43:
+22. Amend the requirements of the public reporting of certain information.
+
+Section 44:
+23. Amend the rulemaking authority to implement in proposed law.
+
+Section 45:
+24. Amend appropriation provisions to implement proposed law.
+
+Section 46:
+25. Add provisions relative to the applicability of proposed law.
+Page 20 of 20
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+[DELETED: 7R 5 f t p o c e t p f t s o 1 C 7 o T 5 o t L R S o 1 c i r b r a o u i r b e r p a r]
+[DELETED: 7R r c b i a p h p o t C t f t h t f  " b i m n t s c s c s s r o p i i t p r r s c b r p e]
+[DELETED: 7R d r c p o o  " m a p o p e o u  " c i r b m a i b o r f a c c p p t a f i n s t a a f r s i h b s g i r]
+[DELETED: 7R p h s p c r s r c r p a m c p o v L c c t s c f s t a o p i c d s s p a o  D m c]
+[DELETED: 7R  A r e m v p c c s o r c i t t o t p t d o i d w a d p r s s c r s s d c j c l d c d o f r o f g m j l s o c d a f a r e t t  A d a w a r e h p s a m c c p a o o o c a r e c b i]
+[DELETED: 7R i p o r i c o b n r o a a o m p s t c f v p o a s a c t p t a t c r e t s i i o c c o v p i d e f b a s a s a o b t r s t i]
+[DELETED: 7R a t u a h c c p a o d o t r c  N i t C s p v c t a s p t s p p c e i f r s d c c c]
+[DELETED: 7R o b f a c o t s o i a r i u a r b h a t c c p l r w p b l a w a f c r r f t c p a a s ]
+[DELETED: 7R r b  E p c i p p r s o w r r b t r I c t a P 4 c t o o p o s i c a a l c]
+[DELETED: 7R o o p p r f i r b p a s n e a s i e T s t s b f t e t t s c r s o i p o p a c l c p g c r e r b r p f d e r i s n i n i n i i n]
+[DELETED: 7R n w o m t i r b r i p H b c c p r p s f r s f d P R a M C r d a s c d s r a o w s o i p g p a  N i t C s r a r t w o l r s o f r r a c a s c d r a r o d i]
+[DELETED: 7R n i p i p h i b i s n i n i n i i n n i p i p h i b i s n i n i n i i n]
+[DELETED: 7R  R o a m a p a s t a r a p c c b c o s a A t i t C a m i g t f t d e s m a c f v p o a s a c c c a r f e c m t d t m p c v p o i d t r c j p c s d c d p r s s i r b d o l o c r o t L D o H]
+[DELETED: 7R w r c r o c r m c d b i o  N i t C s b c t r a s g d p c p c  S t a a f a a l t a c c s s c d i p b l c s o t r t c c r t c f o s c s]
+[DELETED: 7Rd2nM o v L c c t s c r f p s t a o p i i a c a b a i r]
+[DELETED: 7R f r h a d t t a s p s p l i c s r p w a f c r a i a u i c l p t i a e c i r b h b i r b h a t c c p l o r w p b l a w a f c r)T]
+[DELETED: 7R)T e o i o u w f l o o f t c c p a a s a w p e c i r b r s m b l p t l i r s n b u t d)C e s c o f d r)C)R]
+[DELETED: 7R)R a a b f a s l c p c a)C)R l a t d t a r g a o m t c p f w t i s c r o R e b r g c t c o o m a p o a t e d o t r.M.A.A.A.A.A.A.P t a p a s n w o r a d]
+[DELETED: 7R.A w m b i i t r t m b m b t.P.A.A.A.P.R.A.A.A r t w m h w a r e d.A.P.M.R.R t d o " c " s a " s " a " R.R.R.R.R.A.A]
+[DELETED: 7R.A.A.A.A.C.A.A.A A.A.C.A.A.A.A]
+
+
+================================================================================
+
+Raw Text:
+HLS 26RS-2337 REENGROSSED
+2026 Regular Session
+HOUSE BILL NO. 1223
+BY REPRESENTATIVE MCFARLAND
+ECONOMIC DEVELOPMENT: Establishes the Louisiana Clinical Trial Competitiveness
+and Patient Access Act
+1 AN ACT
+2 To enact Chapter 70 of Title 51 of the Louisiana Revised Statutes of 1950, to be comprised
+3 of R.S. 51:3301 through 3306, relative to creating the Louisiana Clinical Trial
+4 Competitiveness and Patient Access Act; to provide for purpose; to provide for
+5 definitions; to provide for responsibilities of Louisiana Economic Development; to
+6 provide for the participation of certain entities; to provide for the sharing of
+7 information; to provide relative to external institutional review boards; to provide for
+8 reporting; to provide for rulemaking authority; to provide for funding; and to provide
+9 for related matters.
+10 Be it enacted by the Legislature of Louisiana:
+11 Section 1. Chapter 70 of Title 51 of the Louisiana Revised Statutes of 1950,
+12 comprised of R.S. 51:3301 through 3306, is hereby enacted to read as follows:
+13 CHAPTER 70. LOUISIANA CLINICAL TRIAL COMPETITIVENESS AND
+14 PATIENT ACCESS ACT
+15 §3301. Purpose
+16 A. The purpose of this Chapter is to make Louisiana more competitive for
+17 clinical trials by supporting sponsor-facing readiness, speed-to-trial information,
+18 external central institutional review board reliance, avoidance of unnecessary
+19 duplicate institutional review board ethical review, patient access, role-based
+Page 1 of 20
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-2337 REENGROSSED
+HB NO. 1223
+1 collaboration, and statewide visibility of confirmed clinical-trial capabilities, while
+2 preserving patient choice, institutional clinical authority, lawful local review, direct
+3 sponsor relationships, confidential business information, and protected health
+4 information.
+5 B. Nothing in this Chapter shall be construed to designate any research
+6 entity, healthcare system, academic medical center, cancer program, clinical partner,
+7 affiliate, or other person as the exclusive or preferred statewide provider, gateway,
+8 broker, coordinator, sponsor-facing representative, or patient-referral destination for
+9 covered clinical projects.
+10 C. Nothing in this Chapter shall be construed to designate, deny, confer,
+11 limit, or impair any research entity's status, role, application, partnership, eligibility,
+12 or recognition with respect to National Cancer Institute designation, National Cancer
+13 Institute-supported networks, federal grant requirements, accreditation standards,
+14 cancer-center designation standards, or other federal or private designation programs.
+15 §3302. Definitions
+16 For purposes of this Chapter, the following terms have the following
+17 meanings:
+18 (1) "Confidential business information" means nonpublic trade secret,
+19 proprietary, competitively sensitive, commercially sensitive, sponsor-specific,
+20 contract-research-organization-specific, research-entity-specific,
+21 investigator-specific, or project-specific information, including trial pipelines,
+22 feasibility, recruitment, referral strategy, contracts, budgets, rates, pricing,
+23 intellectual property, commercialization strategy, site-selection strategy, sponsor
+24 strategy, or market strategy.
+25 (2) "Contract research organization" means an organization that provides
+26 clinical research services to a sponsor or trial manager.
+27 (3)(a) "Covered clinical project" means an industry-sponsored interventional
+28 clinical trial, or a federally supported interventional clinical trial designated by rule
+29 or voluntary written election by the research entity, involving a drug, biologic,
+Page 2 of 20
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-2337 REENGROSSED
+HB NO. 1223
+1 medical device, radiopharmaceutical, diagnostic, combination product, or other
+2 product regulated by the United States Food and Drug Administration and conducted
+3 or proposed to be conducted at a site located in this state. A Phase IV clinical trial
+4 is included only if interventional and designated by rule or voluntary written election
+5 by the research entity.
+6 (b) The term does not include a purely observational study, retrospective
+7 chart review, registry-only study, quality-improvement activity, or expanded-access
+8 treatment outside a clinical trial unless voluntarily included by the research entity or
+9 designated by rule for a limited implementation purpose.
+10 (4) "Department" means Louisiana Economic Development.
+11 (5) "Designee" means a public or private entity, organizational unit,
+12 contractor, or other person lawfully designated by the department to assist with
+13 administrative, technical, market-facing, or implementation functions pursuant to this
+14 Chapter. A designee shall be subject to the limitations, confidentiality restrictions,
+15 patient-data restrictions, no-gatekeeper provisions, no-forced-routing provisions,
+16 no-steering provisions, and antitrust-related limitations of this Chapter.
+17 (6) "External central institutional review board" means an institutional
+18 review board that serves as the single institutional review board or institutional
+19 review board of record for a covered clinical project pursuant to a federally
+20 compliant reliance arrangement, is registered in accordance with applicable federal
+21 requirements, is not subject to an active federal restriction, suspension,
+22 disqualification, or enforcement action that prohibits or materially limits review of
+23 the covered clinical project, and is not the local institutional review board of the
+24 research entity conducting the covered clinical project.
+25 (7) "Patient-identifying information" means information that identifies or can
+26 reasonably be used to identify a patient, research participant, or potential research
+27 participant, including health, biological specimen, genomic, imaging, referral,
+28 eligibility, or clinical information associated with that person.
+Page 3 of 20
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-2337 REENGROSSED
+HB NO. 1223
+1 (8) "Protected health information" has the same meaning as provided in 45
+2 CFR 160.103.
+3 (9)(a) "Research entity" means a hospital, academic institution, institutional
+4 healthcare provider, healthcare system, private clinical research site, research
+5 organization, cancer research program, academic medical center platform,
+6 community oncology program, pediatric research program, translational research
+7 program, or other institutional entity serving as a trial site or otherwise exercising
+8 institutional responsibility for a covered clinical project at a site located in this state.
+9 (b) The term does not include an individual healthcare provider acting solely
+10 in an individual professional capacity and not on behalf of an institutional trial site.
+11 (10) "Sponsor" means a pharmaceutical company, biotechnology developer,
+12 medical device manufacturer, diagnostic developer, radiopharmaceutical developer,
+13 academic sponsor, federal sponsor, foundation sponsor, or other entity advancing an
+14 investigational product.
+15 §3303. Department role; voluntary participation; limitations
+16 A. The department may administer this Chapter and may act through a
+17 designee.
+18 B. The department may coordinate, verify, aggregate, and market voluntarily
+19 provided or verified Louisiana clinical-trial capabilities to sponsors, contract
+20 research organizations, federal partners, site-selection teams, and other persons
+21 involved in clinical-trial development, site selection, patient access, or
+22 economic-development activities in a neutral, nonexclusive, and capability-based
+23 manner.
+24 C. Department-coordinated marketing, capability-presentation,
+25 sponsor-facing, site-identification, pilot, cooperative endeavor agreement, or other
+26 implementation activity is voluntary and nonexclusive. No research entity, sponsor,
+27 contract research organization, patient, or referring provider shall be required to use
+28 or route communications through the department or its designee, or participate in
+Page 4 of 20
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-2337 REENGROSSED
+HB NO. 1223
+1 such activity, as a condition of conducting, considering, referring to, contracting for,
+2 or participating in a covered clinical project.
+3 D. A research entity may voluntarily provide capability, contact,
+4 site-readiness, speed-to-trial, or role-based collaboration information to the
+5 department or its designee for statewide clinical-trial marketing.
+6 E. The department may enter into confidentiality agreements and other
+7 lawful agreements to support implementation of this Chapter, to the extent permitted
+8 by law. Nothing in this Chapter shall require a research entity, sponsor, or contract
+9 research organization to provide the department or its designee with
+10 patient-identifying information, protected health information, confidential business
+11 information, feasibility information, trial-pipeline information, patient or referral
+12 information, contract or budget terms, recruitment strategy, market strategy, or other
+13 competitively sensitive information except pursuant to law or voluntary written
+14 agreement.
+15 F. Nothing in this Chapter shall authorize the department or its designee to
+16 approve or disapprove a protocol, contract, budget, local operational determination,
+17 site activation decision, patient referral, sponsor selection, contract research
+18 organization selection, site-selection decision, clinical judgment, credentialing
+19 decision, licensure determination, coverage determination, or federal research
+20 determination.
+21 G. Nothing in this Chapter shall transfer ownership of research programs,
+22 clinical operations, faculty governance, medical judgment, licensure standards,
+23 credentialing authority, contracting authority, budget authority, institutional review
+24 authority, or clinical decision-making authority from a research entity to the
+25 department or its designee.
+26 H. A designee affiliated with a research entity, healthcare provider,
+27 healthcare system, academic medical center, clinical partner, affiliate, or other
+28 person that competes with a research entity shall not receive, collect, access, store,
+29 transmit, or control another research entity's confidential business information,
+Page 5 of 20
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-2337 REENGROSSED
+HB NO. 1223
+1 patient-identifying information, protected health information, feasibility information,
+2 trial-pipeline information, patient or referral information, contract or budget
+3 information, recruitment strategy, market strategy, or other competitively sensitive
+4 information unless each affected person provides written consent or the information
+5 is otherwise lawfully available to the designee.
+6 I. Coordination in accordance with this Chapter shall be nonexclusive and
+7 shall not require or authorize allocation of markets, patients, sponsors, trials,
+8 investigators, service lines, territories, prices, reimbursement, contract terms, budget
+9 terms, referral sources, or commercial opportunities among research entities or other
+10 persons.
+11 §3304. Speed-to-trial and capability information
+12 A. The department may establish by rule or guidance categories, formats,
+13 and criteria for voluntarily provided or aggregate speed-to-trial and capability
+14 information useful to sponsors, contract research organizations, and site-selection
+15 teams.
+16 B. Rules or guidance issued pursuant to this Section may vary by project
+17 type, trial phase, therapeutic area, trial complexity, research entity type, site
+18 capability, institutional infrastructure, sponsor or contract research organization
+19 submission completeness, or voluntary participation in department-coordinated
+20 activity.
+21 C. No rule or guidance issued pursuant to this Section shall require final
+22 contract execution, final budget agreement, study acceptance, site activation,
+23 enrollment commitment, use of the department or its designee, or disclosure of
+24 information protected by law or contract.
+25 D. No research entity shall be required to route sponsor or contract research
+26 organization communications, feasibility information, patient or referral information,
+27 contract or budget terms, recruitment strategy, trial-pipeline information,
+28 patient-access strategy, referral strategy, or other confidential business information
+Page 6 of 20
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-2337 REENGROSSED
+HB NO. 1223
+1 through another research entity, the department, or a designee affiliated with a
+2 competing healthcare provider or research entity.
+3 E. Nothing in this Chapter shall authorize the department, its designee, or
+4 any research entity to require a sponsor, contract research organization, patient, or
+5 referring provider to use a particular research entity, healthcare system, cancer
+6 program, clinical partner, affiliate, or designee, or to route communications,
+7 referrals, or confidential business information through a competing research entity,
+8 except with the written consent of the affected parties and as otherwise authorized
+9 by law.
+10 F. Nothing in this Chapter shall prohibit voluntary collaboration,
+11 consolidated feasibility responses, hub-and-spoke arrangements, decentralized trial
+12 arrangements, teletrial arrangements, shared-investigator participation,
+13 specialist-access planning, community-access partnerships, local follow-up support,
+14 or patient-access support, where lawful, clinically appropriate, operationally feasible,
+15 and consistent with patient consent, privacy law, institutional credentialing, sponsor
+16 requirements, protocol requirements, and clinical judgment.
+17 G. Nothing in this Chapter shall require a research entity to accept, open,
+18 activate, or enroll a covered clinical project for which the research entity reasonably
+19 determines that sufficient patient population, clinical expertise, investigator
+20 availability, facility readiness, staffing, data capacity, credentialing, coverage
+21 analysis, or operational capability is lacking.
+22 §3305. External central institutional review board; local review
+23 A. The requirements of this Section apply regardless of participation in
+24 department-coordinated activity.
+25 B. When an external central institutional review board is designated as the
+26 institutional review board of record or has approved the covered clinical project, a
+27 research entity shall not require separate local institutional review board approval or
+28 conduct duplicate local institutional review board ethical review. Nothing in this
+29 Subsection shall limit lawful local review preserved by this Section.
+Page 7 of 20
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-2337 REENGROSSED
+HB NO. 1223
+1 C. For a first-in-human clinical trial, Phase I clinical trial, early-feasibility
+2 device trial, or dose-escalation trial, a research entity shall rely on an external central
+3 institutional review board as the institutional review board of record where permitted
+4 by law and where a federally compliant reliance arrangement is available, unless
+5 external central institutional review board reliance is prohibited by federal law, state
+6 law, or binding federal award condition, or the sponsor or its authorized
+7 representative states in writing that the research entity's institutional review board
+8 serve as the institutional review board of record.
+9 D. A lack of a preexisting master agreement alone shall not make an external
+10 central institutional review board unavailable if a lawful study-specific reliance
+11 arrangement can be executed.
+12 E. If an external central institutional review board has been designated as the
+13 institutional review board of record, a request pursuant to Subsection C of this
+14 Section or Paragraph (F)(1) of this Section is effective only if the sponsor or its
+15 authorized representative withdraws that designation or confirms in writing that the
+16 external central institutional review board is unavailable. If an external central
+17 institutional review board has approved the covered clinical project, local
+18 institutional review board ethical review shall not occur.
+19 F. For a Phase II clinical trial or Phase III clinical trial, a research entity shall
+20 rely on an external central institutional review board as the institutional review board
+21 of record where permitted by law and where a federally compliant reliance
+22 arrangement is available, unless either of the following applies:
+23 (1) The sponsor or its authorized representative requests in writing that the
+24 research entity's institutional review board serve as the institutional review board of
+25 record.
+26 (2) The chancellor, chief executive officer, or highest-ranking executive
+27 officer of the research entity or institutional operating unit with formal legal or
+28 operational responsibility for the covered clinical project approves and signs a
+29 written project-specific exception based on one or more of the following:
+Page 8 of 20
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-2337 REENGROSSED
+HB NO. 1223
+1 (a) External central institutional review board reliance is prohibited by
+2 federal law, state law, or binding federal award condition.
+3 (b) Extraordinary project-specific circumstances involving project
+4 feasibility, participant rights, safety, or welfare require review by the research
+5 entity's own institutional review board for that covered clinical project.
+6 (c) A specific federal or state legal requirement requires review by the
+7 research entity's own institutional review board for that covered clinical project.
+8 G.(1) Notwithstanding any provision of this Chapter to the contrary, this
+9 Section shall not apply to any clinical trial, clinical investigation, or study that is a
+10 Phase IV clinical trial, a Phase 4 clinical trial, or otherwise postmarketing,
+11 post-approval, post-authorization, post-clearance, or post-classification, if the trial,
+12 investigation, or study is conducted after approval, licensure, clearance,
+13 authorization, or classification by the United States Food and Drug Administration
+14 of the product for the indication or use being studied, regardless of whether the trial,
+15 investigation, or study is interventional, observational, required, requested, agreed
+16 to, or voluntary. No rule, guidance, pilot, cooperative endeavor agreement, written
+17 agreement, or other implementation material pursuant to this Chapter shall make
+18 such a trial, investigation, or study subject to this Section. Nothing in this Paragraph
+19 shall prohibit the voluntary use of an external central institutional review board when
+20 otherwise lawful.
+21 (2) For a covered clinical project not described in Paragraph (1) of this
+22 Subsection and designated by rule, pilot, cooperative endeavor agreement, or written
+23 agreement of the affected parties, external central institutional review board reliance
+24 standards may be established by rule, pilot, cooperative endeavor agreement, or
+25 written agreement of the affected parties.
+26 H. No approval required pursuant to Paragraph (F)(2) of this Section may be
+27 delegated. The approving official shall be the chancellor, chief executive officer, or
+28 highest-ranking executive officer of the research entity or institutional operating unit
+29 with formal legal or operational responsibility for the covered clinical project. The
+Page 9 of 20
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-2337 REENGROSSED
+HB NO. 1223
+1 approving official shall not be the institutional review board chair, head of the local
+2 institutional review board, direct supervisor of the head of the local institutional
+3 review board, principal investigator, department chair, compliance officer, legal
+4 counsel, or other person primarily responsible for institutional review board
+5 administration or review, unless that person is also the highest-ranking executive
+6 officer of the research entity or institutional operating unit with formal legal or
+7 operational responsibility for the covered clinical project.
+8 I. A written exception pursuant to Paragraph (F)(2) of this Section shall state
+9 the basis for the exception with reasonable specificity, shall be limited to the covered
+10 clinical project, and shall not establish a standing institutional exception. The
+11 research entity shall transmit the written exception, or a summary sufficient to
+12 identify the statutory basis for the exception, to the sponsor, contract research
+13 organization if applicable, and the department or its designee in a form that does not
+14 disclose patient-identifying information, protected health information, or confidential
+15 business information.
+16 J. An exception pursuant to Paragraph (F)(2) of this Section shall not be
+17 based solely on institutional policy or preference, administrative convenience,
+18 staffing limitation, customary practice, generalized concern regarding external
+19 institutional review board review, preference for duplicate ethical review,
+20 disagreement with the use of external institutional review boards generally, or desire
+21 to control sponsor, referral, patient-access, or contracting relationships.
+22 K. A research entity that relies on its own institutional review board pursuant
+23 to this Section shall maintain documentation supporting such reliance and report
+24 aggregate, non-identifiable information to the department on a schedule established
+25 by rule or guidance, but not more frequently than semiannually. The report shall not
+26 include patient-identifying information, protected health information, confidential
+27 business information, sponsor-specific nonpublic information,
+28 contract-research-organization-specific nonpublic information,
+29 research-entity-specific nonpublic information, investigator-specific nonpublic
+Page 10 of 20
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-2337 REENGROSSED
+HB NO. 1223
+1 information, or project-specific nonpublic information. The department may set the
+2 form and schedule for reports in accordance with this Subsection, but shall not
+3 expand, narrow, waive, or modify the institutional review board requirements,
+4 exceptions, prohibitions, or local-review protections established in this Section.
+5 L. Nothing in this Chapter shall prohibit lawful local institutional review
+6 relating to contracts, budgets, coverage analysis, investigator qualifications, conflicts
+7 of interest, privacy, HIPAA, billing compliance, credentialing, pharmacy,
+8 investigational-drug logistics, device logistics, radiation safety, radiopharmaceutical
+9 handling, biosafety, cellular therapy readiness, BMT readiness, CAR-T readiness,
+10 gene-therapy readiness, pediatric safeguards, facility readiness, site feasibility,
+11 ancillary safety committees, local consent-language requirements, data security,
+12 scientific review, disease-group review, Protocol Review and Monitoring System
+13 review, Protocol Review and Monitoring Committee review, data and safety
+14 monitoring, clinical protocol and data management, local context submissions, or
+15 equivalent review required by law, applicable federal award conditions, accreditation
+16 standards, cancer-center designation standards, reliance agreements, or written
+17 objective institutional requirements directly related to local operational readiness,
+18 participant safety, or institutional compliance.
+19 M. Local institutional review preserved by this Section shall not be used to
+20 duplicate institutional review board ethical review or delay a covered clinical project
+21 based solely on institutional preference, generalized practice, administrative
+22 convenience, staffing limitation, customary internal sequencing, or disagreement
+23 with external central institutional review board reliance generally.
+24 N. Nothing in this Chapter shall require a research entity to waive or
+25 disregard legal requirements, safety obligations, federal research requirements,
+26 federal award conditions, accreditation standards, cancer-center designation
+27 requirements, reliance agreement responsibilities, or documented institutional
+28 responsibilities.
+Page 11 of 20
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-2337 REENGROSSED
+HB NO. 1223
+1 §3306. Reporting; rulemaking; funds
+2 A. The department may require only aggregate, non-identifiable information
+3 reasonably necessary to evaluate implementation of this Chapter and may publish
+4 aggregate reports, implementation summaries, speed-to-trial information, capability
+5 information, and recommendations. Information required pursuant to this Subsection
+6 shall not include patient-identifying information, protected health information,
+7 confidential business information, sponsor-specific nonpublic information,
+8 contract-research-organization-specific nonpublic information,
+9 research-entity-specific nonpublic information, investigator-specific nonpublic
+10 information, or project-specific nonpublic information unless provided pursuant to
+11 law or voluntary written agreement.
+12 B. Public reporting in accordance with this Chapter shall be aggregated and
+13 shall not include patient-identifying information, protected health information,
+14 confidential business information, sponsor-specific nonpublic information,
+15 contract-research-organization-specific nonpublic information,
+16 research-entity-specific nonpublic information, investigator-specific nonpublic
+17 information, or project-specific nonpublic information.
+18 C. Nothing in this Chapter shall be construed to do any of the following:
+19 (1) Create a state warranty of site performance, patient outcome, sponsor
+20 selection, site selection, enrollment success, clinical outcome, federal designation,
+21 regulatory approval, investment outcome, or commercial success.
+22 (2) Create a private cause of action based solely on implementation of this
+23 Chapter.
+24 (3) Require disclosure of information prohibited from disclosure by federal
+25 or state law or by enforceable contractual obligation.
+26 (4) Require or authorize the department or its designee to receive, store,
+27 transmit, access, control, collect, maintain, audit, or validate identifiable patient-level
+28 data, source data, endpoint data, adverse-event data, protected health information,
+Page 12 of 20
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-2337 REENGROSSED
+HB NO. 1223
+1 or patient-identifying information except as authorized by federal and state law,
+2 contract, protocol, consent, and applicable federal requirements.
+3 (5) Create immunity from federal or state antitrust law, unfair trade practice
+4 law, fraud law, abuse law, conflict-of-interest law, procurement law, or ethics law.
+5 (6) Require or authorize market allocation, patient allocation, sponsor
+6 allocation, trial allocation, referral-source allocation, price coordination,
+7 contract-term coordination, budget-term coordination, or service-line allocation
+8 among competitors.
+9 D. The department may adopt rules in accordance with the Administrative
+10 Procedure Act to implement this Chapter and may issue guidance, templates,
+11 reporting formats, capability tools, confidentiality procedures, conflict-of-interest
+12 procedures, model provisions, and other nonregulatory implementation materials, but
+13 only for the department's economic-development, speed-to-trial,
+14 capability-presentation, marketing, aggregate-reporting, consultation,
+15 voluntary-program, funding, and implementation functions pursuant to this Chapter.
+16 E. Rules or guidance may establish categories of covered clinical projects,
+17 standards for voluntarily provided or aggregate speed-to-trial and capability
+18 information, capability criteria, aggregate reporting formats, external central
+19 institutional review board reliance procedures, exception procedures, confidentiality
+20 procedures, role-based collaboration categories, hub-and-spoke models, teletrial
+21 models, decentralized trial models, patient-access criteria, voluntary program
+22 criteria, and phased implementation by project type, institution type, therapeutic
+23 area, trial phase, site, or pilot cohort. Rules or guidance shall not authorize the
+24 department or its designee to regulate clinical judgment, protocol content, site
+25 activation decisions, contracting decisions, patient referrals, sponsor selection,
+26 substantive institutional review board determinations, or local operational
+27 determinations.
+28 F. The department shall consult with research entities subject to this Chapter,
+29 sponsors, contract research organizations, the Louisiana Department of Health,
+Page 13 of 20
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-2337 REENGROSSED
+HB NO. 1223
+1 patient-access stakeholders, privacy experts, clinical-trial operations experts, and
+2 persons with relevant clinical, research, operational, contracting, regulatory,
+3 academic medical center development, biomedical innovation, or
+4 economic-development expertise.
+5 G. Nothing in this Chapter shall be construed to require a specific
+6 appropriation of funds or the creation of new positions. Subject to appropriation and
+7 availability of funds, the department may seek, accept, and expend federal funds,
+8 grants, gifts, donations, philanthropic contributions, private contributions,
+9 cooperative endeavor funds, matching funds, and other lawful funds made available
+10 for purposes of this Chapter.
+11 H. Subject to appropriation, available funds, and applicable law, the
+12 department may establish voluntary programs or enter into case-by-case cooperative
+13 endeavor agreements or other written agreements to support this Chapter. Before
+14 providing funds or other things of value, the department shall determine in writing
+15 that the program or agreement serves a public purpose and reasonably advances
+16 patient access, clinical-trial competitiveness, speed-to-trial, statewide capability
+17 development, rural or underserved access, academic medical center development,
+18 research investment, or another purpose of this Chapter. No program or agreement
+19 shall confer market exclusivity, require use of or routing through the department or
+20 its designee, require disclosure of information protected by law or contract, or
+21 require surrender of the right to conduct, consider, refer to, contract for, or
+22 participate in a covered clinical project independently.
+23 Section 2. The requirements of this Act shall apply prospectively to covered clinical
+24 projects for which the initial sponsor, contract research organization, site-selection, or
+25 feasibility submission is received on or after the effective date of this Act. Requirements
+26 established by rule, guidance, capability tool, criterion, or other implementation material
+27 apply prospectively only after the effective date of that rule, guidance, tool, criterion, or
+28 material.
+Page 14 of 20
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-2337 REENGROSSED
+HB NO. 1223
+1 Section 3. This Act shall become effective upon signature by the governor or, if not
+2 signed by the governor, upon expiration of the time for bills to become law without signature
+3 by the governor, as provided by Article III, Section 18 of the Constitution of Louisiana. If
+4 vetoed by the governor and subsequently approved by the legislature, this Act shall become
+5 effective on the day following such approval.
+DIGEST
+The digest printed below was prepared by House Legislative Services. It constitutes no
+part of the legislative instrument. The keyword, one-liner, abstract, and digest do not
+constitute part of the law or proof or indicia of legislative intent. [R.S. 1:13(B) and
+24:177(E)]
+HB 1223 Reengrossed 2026 Regular Session McFarland
+Abstract: Creates the La. Clinical Trial Competitiveness and Patient Access Act.
+Proposed law creates the La. Clinical Trial Competitiveness and Patient Access Act.
+Proposed law provides for purpose.
+Proposed law defines "confidential business information", "contract research organization",
+"covered clinical project", "department", "designee", "external central institutional review
+board", "patient-identifying information", "protected health information", "research entity",
+and "sponsor".
+Proposed law allows the Louisiana Economic Development (department) to administer
+proposed law and may act through a designee.
+Proposed law allows the department to coordinate, verify, aggregate, and market voluntarily
+provided or verified La. clinical-trial capabilities to sponsors, contract research
+organizations, federal partners, site-selection teams, and other persons involved in
+clinical-trial development, site selection, patient access, or economic-development activities
+in a neutral, nonexclusive, and capability-based manner.
+Proposed law provides that certain implementation activity outlined in proposed law is
+voluntary and nonexclusive.
+Proposed law allows a research entity to voluntarily provide certain information to the
+department or its designee for statewide clinical-trial marketing.
+Proposed law allows the department to enter into confidentiality agreements and other lawful
+agreements to support implementation of proposed law.
+Proposed law provides that nothing in proposed law authorizes the department to take certain
+actions outlined in proposed law.
+Proposed law provides that nothing in proposed law shall transfer ownership of research
+programs, clinical operations, faculty governance, medical judgment, licensure standards,
+credentialing authority, contracting authority, budget authority, institutional review
+authority, or clinical decision-making authority from a research entity to the department or
+its designee.
+Page 15 of 20
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-2337 REENGROSSED
+HB NO. 1223
+Proposed law provides that a designee with certain affiliation shall not receive, collect,
+access, store, transmit, or control certain information from another research entity unless
+each affected person provides written consent or the information is otherwise lawfully
+available to the designee.
+Proposed law allows the department to establish by rule or guidance categories, formats, and
+criteria for voluntarily provided or aggregate speed-to-trial and capability information useful
+to sponsors, contract research organizations, and site-selection teams. Proposed law provides
+that rules or guidance may vary.
+Proposed law provides that no research entity shall be required to route certain information
+through another research entity, the department, or a designee affiliated with a competing
+healthcare provider or research entity.
+Proposed law provides that nothing in proposed law shall prohibit voluntary collaboration,
+consolidated feasibility responses, hub-and-spoke arrangements, decentralized trial
+arrangements, teletrial arrangements, shared-investigator participation, specialist-access
+planning, community-access partnerships, local follow-up support, or patient-access support,
+where lawful, clinically appropriate, operationally feasible, and consistent with patient
+consent, privacy law, institutional credentialing, sponsor requirements, protocol
+requirements, and clinical judgment.
+Proposed law provides that nothing in proposed law shall require a research entity to accept,
+open, activate, or enroll a covered clinical project for which the research entity reasonably
+determines that sufficient patient population, clinical expertise, investigator availability,
+facility readiness, staffing, data capacity, credentialing, coverage analysis, or operational
+capability is lacking.
+Proposed law provides that certain requirements of proposed law shall apply regardless of
+participation in department-coordinated activity.
+Proposed law provides that when an external central institutional review board is designated
+as the institutional review board of record or has approved the covered clinical project, a
+research entity shall not require separate local institutional review board approval or conduct
+duplicate local institutional review board ethical review.
+Proposed law provides that for certain trials a research entity shall rely on an external central
+institutional review board as the institutional review board of record where permitted by law
+and where a federally compliant reliance arrangement is available, unless in certain
+circumstances.
+Proposed law provides that lack of a preexisting master agreement alone shall not make an
+external central institutional review board unavailable if a lawful study-specific reliance
+arrangement can be executed.
+Proposed law provides that if an external central institutional review board has been
+designated as the institutional review board of record, a request pursuant to proposed law is
+effective only in certain circumstances. Proposed law further requires that if an external
+central institutional review board has approved the covered clinical project, local
+institutional review board ethical review shall not occur.
+Proposed law provides that for a Phase II clinical trial or Phase III clinical trial, a research
+entity shall rely on an external central institutional review board as the institutional review
+board of record where permitted by law and where a federally compliant reliance
+arrangement is available, unless either of the following applies:
+(1) The sponsor or its authorized representative requests in writing that the research
+entity's institutional review board serve as the institutional review board of record.
+Page 16 of 20
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-2337 REENGROSSED
+HB NO. 1223
+(2) The chancellor, chief executive officer, or highest-ranking executive officer of the
+research entity or institutional operating unit with formal legal or operational
+responsibility for the covered clinical project approves and signs a written
+project-specific exception based on certain criteria.
+Proposed law provides that proposed law shall not apply to certain clinical trials, clinical
+investigations, or studies.
+Proposed law provides that for a covered clinical project not described in proposed law and
+designated by rule, pilot, cooperative endeavor agreement, or written agreement of the
+affected parties, external central institutional review board reliance standards may be
+established by rule, pilot, cooperative endeavor agreement, or written agreement of the
+affected parties.
+Proposed law prohibits the delegation of approval required pursuant to proposed law.
+Proposed law requires a written exception pursuant to proposed law to state the basis for the
+exception with reasonable specificity, to be limited to the covered clinical project, and not
+to establish a standing institutional exception.
+Proposed law provides for what exemptions shall not be solely based on.
+Proposed law provides that a research entity that relies on its own institutional review board
+pursuant to proposed law shall maintain documentation supporting such reliance and report
+aggregate, non-identifiable information to the department on a schedule established by rule
+or guidance. Proposed law further provides what the report shall include.
+Proposed law provides for what proposed law shall not inhibit.
+Proposed law provides that local institutional review shall not be used to duplicate
+institutional review board ethical review or delay a covered clinical project based solely on
+certain circumstances.
+Proposed law provides that nothing in proposed law shall require a research entity to waive
+or disregard legal requirements, safety obligations, federal research requirements, federal
+award conditions, accreditation standards, cancer-center designation requirements, reliance
+agreement responsibilities, or documented institutional responsibilities.
+Proposed law allows the department to require only aggregate, non-identifiable information
+reasonably necessary to evaluate implementation of proposed law and to publish aggregate
+reports, implementation summaries, speed-to-trial information, capability information, and
+recommendations.
+Proposed law provides relative to public reporting.
+Proposed law provides that nothing in proposed law shall be construed to do any of the
+following:
+(1) Create a state warranty of site performance, patient outcome, sponsor selection, site
+selection, enrollment success, clinical outcome, federal designation, regulatory
+approval, investment outcome, or commercial success.
+(2) Create a private cause of action based solely on implementation of proposed law.
+(3) Require disclosure of information prohibited from disclosure by federal or state law
+or by enforceable contractual obligation.
+Page 17 of 20
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-2337 REENGROSSED
+HB NO. 1223
+(4) Require or authorize the department or its designee to receive, store, transmit, access,
+control, collect, maintain, audit, or validate identifiable certain data or information
+except as authorized by federal and state law, contract, protocol, consent, and
+applicable federal requirements.
+(5) Create immunity from certain law.
+(6) Require or authorize certain allocation and coordination among competitors.
+Proposed law allows the department to adopt rule, guidance, and other materials to
+implement the provisions of proposed law.
+Proposed law provides for what rules or guidance may establish.
+Proposed law requires that department to consult with certain entities.
+Proposed law provides relative to the appropriation of funds.
+Proposed law allows the department to establish voluntary programs or other agreements to
+support proposed law.
+Proposed law provides that the requirements of proposed law shall apply prospectively to
+covered clinical projects for which the initial sponsor, contract research organization,
+site-selection, or feasibility submission is received on or after the effective date of proposed
+law. Requirements established by rule, guidance, capability tool, criterion, or other
+implementation material apply prospectively only after the effective date of that rule,
+guidance, tool, criterion, or material.
+Effective upon signature of governor or lapse of time for gubernatorial action.
+(Adds R.S. 51:3301-3306)
+Summary of Amendments Adopted by House
+The Committee Amendments Proposed by House Committee on Commerce to the
+original bill:
+1. Make technical changes.
+2. Add language relative to legislative findings and purpose.
+3. Amend the definitions of "benchmark category" and "research entity".
+4. Add the definitions of "receipt" and "repeated failure".
+5. Add that nothing in proposed law shall be construed to require department
+approval for certain actions or to transfer clinical decision-making authority from
+a research entity to the department.
+6. Amend proposed law relative to participation in the framework and relative to
+entering into a participation agreement.
+7. Amend proposed law relative to what shall be established in a participation
+agreement.
+8. Provide that a participation agreement shall not waive or reduce any duty
+imposed by proposed law except as expressly authorized.
+Page 18 of 20
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-2337 REENGROSSED
+HB NO. 1223
+9. Add what may be included in the registry that may be maintained by the
+department or their designee.
+10. Provide that compliance with proposed law shall be a condition for inclusion in
+certain actions by the department. Further provide relative to cooperation with
+certain department actions for certain benchmark categories.
+11. Amend what a research entity shall do relative to acknowledgment of receipt, a
+sponsor feasibility response or engagement determination, concurrent review,
+and escalation to designated research-entity and department personnel.
+12. Amend proposed law relative to the issuance of any written determination of
+nonreliance.
+13. Add relative to lawful local review that proposed law shall not be construed to
+eliminate.
+14. Provide that nothing in proposed law shall be construed to require a research
+entity to accept or activate a covered clinical project in certain circumstances.
+15. Remove "admitted" from admitted covered clinical projects.
+16. Amend relative to the compiled information in the annual report.
+17. Amend the annual report requirements.
+18. Amend relative to what may happen when a research entity demonstrates
+repeated failure to meet applicable benchmark expectations.
+19. Add proposed law regarding benchmark categories for certain circumstances.
+20. Provide that nothing in proposed law shall be construed to require the department
+or its designee to collect or maintain identifiable patient information except in
+certain circumstances.
+The House Floor Amendments to the engrossed bill:
+1. Make technical changes.
+2. Remove legislative intent.
+3. Remove the definitions of "benchmark categories", "complete submission",
+"participation agreement", "patient-access support", "receipt", and "repeated
+failure".
+4. Remove certain mandatory provisions required by proposed law.
+5. Remove participation agreements from proposed law.
+6. Remove activation standards for covered clinical projects from proposed law.
+7. Remove benchmark categories from proposed law.
+8. Remove required reporting to the legislature.
+9. Amend the purpose of proposed law.
+10. Add the definitions of "contract research organization", "designee", "patient-
+identifying information" and "protected health information".
+Page 19 of 20
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-2337 REENGROSSED
+HB NO. 1223
+11. Amend the definitions of "confidential business information", "covered clinical
+project", "external institutional review board", "research entity", and "sponsor".
+12. Amend the department or designee's role in administering the provisions of
+proposed law.
+13. Amend the requirements of participation in proposed law by certain research
+entities.
+14. Amend the requirements of coordination outlined in proposed law.
+15. Change the process by which certain information is gathered and shared by the
+department or its designee.
+16. Amend requirements regarding external central institutional review boards.
+17. Add provisions relative to local review.
+18. Amend state coordination relative to implementing proposed law.
+19. Amend the exemptions to proposed law.
+20. Amend confidentiality requirements of proposed law.
+21. Clarify compliance requirements to certain laws.
+22. Amend the requirements of the public reporting of certain information.
+23. Amend the rulemaking authority to implement in proposed law.
+24. Amend appropriation provisions to implement proposed law.
+25. Add provisions relative to the applicability of proposed law.
+Page 20 of 20
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+[DELETED: 7R 5 f t p o c e t p f t s o 1 C 7 o T 5 o t L R S o 1 c i r b r a o u i r b e r p a r]
+[DELETED: 7R r c b i a p h p o t C t f t h t f  " b i m n t s c s c s s r o p i i t p r r s c b r p e]
+[DELETED: 7R d r c p o o  " m a p o p e o u  " c i r b m a i b o r f a c c p p t a f i n s t a a f r s i h b s g i r]
+[DELETED: 7R p h s p c r s r c r p a m c p o v L c c t s c f s t a o p i c d s s p a o  D m c]
+[DELETED: 7R  A r e m v p c c s o r c i t t o t p t d o i d w a d p r s s c r s s d c j c l d c d o f r o f g m j l s o c d a f a r e t t  A d a w a r e h p s a m c c p a o o o c a r e c b i]
+[DELETED: 7R i p o r i c o b n r o a a o m p s t c f v p o a s a c t p t a t c r e t s i i o c c o v p i d e f b a s a s a o b t r s t i]
+[DELETED: 7R a t u a h c c p a o d o t r c  N i t C s p v c t a s p t s p p c e i f r s d c c c]
+[DELETED: 7R o b f a c o t s o i a r i u a r b h a t c c p l r w p b l a w a f c r r f t c p a a s ]
+[DELETED: 7R r b  E p c i p p r s o w r r b t r I c t a P 4 c t o o p o s i c a a l c]
+[DELETED: 7R o o p p r f i r b p a s n e a s i e T s t s b f t e t t s c r s o i p o p a c l c p g c r e r b r p f d e r i s n i n i n i i n]
+[DELETED: 7R n w o m t i r b r i p H b c c p r p s f r s f d P R a M C r d a s c d s r a o w s o i p g p a  N i t C s r a r t w o l r s o f r r a c a s c d r a r o d i]
+[DELETED: 7R n i p i p h i b i s n i n i n i i n n i p i p h i b i s n i n i n i i n]
+[DELETED: 7R  R o a m a p a s t a r a p c c b c o s a A t i t C a m i g t f t d e s m a c f v p o a s a c c c a r f e c m t d t m p c v p o i d t r c j p c s d c d p r s s i r b d o l o c r o t L D o H]
+[DELETED: 7R w r c r o c r m c d b i o  N i t C s b c t r a s g d p c p c  S t a a f a a l t a c c s s c d i p b l c s o t r t c c r t c f o s c s]
+[DELETED: 7Rd2nM o v L c c t s c r f p s t a o p i i a c a b a i r]
+[DELETED: 7R f r h a d t t a s p s p l i c s r p w a f c r a i a u i c l p t i a e c i r b h b i r b h a t c c p l o r w p b l a w a f c r)T]
+[DELETED: 7R)T e o i o u w f l o o f t c c p a a s a w p e c i r b r s m b l p t l i r s n b u t d)C e s c o f d r)C)R]
+[DELETED: 7R)R a a b f a s l c p c a)C)R l a t d t a r g a o m t c p f w t i s c r o R e b r g c t c o o m a p o a t e d o t r.M.A.A.A.A.A.A.P t a p a s n w o r a d]
+[DELETED: 7R.A w m b i i t r t m b m b t.P.A.A.A.P.R.A.A.A r t w m h w a r e d.A.P.M.R.R t d o " c " s a " s " a " R.R.R.R.R.A.A]
+[DELETED: 7R.A.A.A.A.C.A.A.A A.A.C.A.A.A.A]
