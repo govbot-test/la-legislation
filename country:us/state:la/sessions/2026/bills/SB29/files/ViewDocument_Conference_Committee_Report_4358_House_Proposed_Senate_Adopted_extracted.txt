@@ -1,0 +1,140 @@
+Title: To the Honorable President and Members of the Senate and to the Honorable Speaker and
+Official Title: To the Honorable President and Members of the Senate and to the Honorable Speaker and
+Number of Sections: 5
+Source: versions - Conference Committee Report, #4358, House Proposed, Senate Adopted
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+CCRSB29 3005 4358
+CONFERENCE COMMITTEE REPORT
+SB 29 2026 Regular Session McMath
+May 26, 2026
+Members of the House of Representatives.
+Ladies and Gentlemen:
+We, the conferees appointed to confer over the disagreement between the two houses
+concerning Senate Bill No. 29 by Senator McMath, recommend the following concerning the
+Reengrossed bill:
+
+Section 2:
+1. That the House Floor Amendments proposed by Representative Egan and adopted
+by the House of Representatives on May 7, 2025, be rejected.
+
+Section 3:
+2. That the following amendments be adopted:
+AMENDMENT NO. 1
+On page 1, line 10, change "fifteen" to "nine"
+Respectfully submitted,
+Senators: Representatives:
+Senator Patrick McMath Representative Peter Egan
+Senator W. Jay Luneau Representative Dustin Miller
+Senator Robert "Bob" Owen Representative Stephanie Berault
+Page 1 of 2
+The legislative instrument and the following digest, which constitutes no part of the
+legislative instrument, were prepared by Senate Legislative Services. The keyword,
+summary, and digest do not constitute part of the law or proof or indicia of legislative intent.
+[R.S. 1:13(B) and 24:177(E)]
+CONFERENCE COMMITTEE REPORT DIGEST
+SB 29 2026 Regular Session McMath
+Keyword and summary of the bill as proposed by the Conference Committee
+PUBLIC HEALTH. Requires coroners to report certain information regarding sudden child
+deaths. (8/1/26)
+Report rejects House amendments which would have:
+
+Section 4:
+1. Added a requirement for the child's full medical record to be included in the autopsy
+report.
+Report amends the bill to:
+
+Section 5:
+1. Change the applicable ages from under the age of 15 to under the age of 9.
+Digest of the bill as proposed by the Conference Committee
+Present law requires the coroner to perform or cause to be performed an autopsy in all cases
+of infants under the age of one year who die unexpectedly without explanation.
+Proposed law retains present law.
+Proposed law requires the autopsy report for any child under the age of nine who dies
+unexpectedly without explanation to include documentation of any immunizations
+administered to the child within 90 days of the child's death.
+Proposed law authorizes the coroner or any individual contracted to perform an autopsy on
+behalf of the coroner to access immunization records through the immunization registry.
+Present law requires the coroner to notify the director of the parish health unit if he finds that
+the cause of death was Sudden Infant Death Syndrome.
+Proposed law requires the coroner to report to the La. Dept. of Health if he finds that the
+cause of a child's death was Sudden Infant Death Syndrome, Sudden Unexpected Infant
+Death, Sudden Arrhythmic Death Syndrome, or Sudden Death in the Young.
+Proposed law requires the La. Dept. of Health to report the case to the Centers for Disease
+Control and Prevention and the National Institutes of Health's Sudden Unexpected Infant
+Death and Sudden Death in the Young Case Registry.
+Proposed law provides that the inclusion of an immunization record in any report does not
+imply cause of death.
+Effective August 1, 2026.
+(Amends R.S. 40:31.14(A); adds R.S. 13:5713(L))
+[DELETED: 92nM.T.T:RhRuRnR]
+[DELETED:  l i a t f d w c n p o t i w p b S L S T k92nM.A.C w e t i d o a i]
+
+
+================================================================================
+
+Raw Text:
+CCRSB29 3005 4358
+CONFERENCE COMMITTEE REPORT
+SB 29 2026 Regular Session McMath
+May 26, 2026
+To the Honorable President and Members of the Senate and to the Honorable Speaker and
+Members of the House of Representatives.
+Ladies and Gentlemen:
+We, the conferees appointed to confer over the disagreement between the two houses
+concerning Senate Bill No. 29 by Senator McMath, recommend the following concerning the
+Reengrossed bill:
+1. That the House Floor Amendments proposed by Representative Egan and adopted
+by the House of Representatives on May 7, 2025, be rejected.
+2. That the following amendments be adopted:
+AMENDMENT NO. 1
+On page 1, line 10, change "fifteen" to "nine"
+Respectfully submitted,
+Senators: Representatives:
+Senator Patrick McMath Representative Peter Egan
+Senator W. Jay Luneau Representative Dustin Miller
+Senator Robert "Bob" Owen Representative Stephanie Berault
+Page 1 of 2
+
+The legislative instrument and the following digest, which constitutes no part of the
+legislative instrument, were prepared by Senate Legislative Services. The keyword,
+summary, and digest do not constitute part of the law or proof or indicia of legislative intent.
+[R.S. 1:13(B) and 24:177(E)]
+CONFERENCE COMMITTEE REPORT DIGEST
+SB 29 2026 Regular Session McMath
+Keyword and summary of the bill as proposed by the Conference Committee
+PUBLIC HEALTH. Requires coroners to report certain information regarding sudden child
+deaths. (8/1/26)
+Report rejects House amendments which would have:
+1. Added a requirement for the child's full medical record to be included in the autopsy
+report.
+Report amends the bill to:
+1. Change the applicable ages from under the age of 15 to under the age of 9.
+Digest of the bill as proposed by the Conference Committee
+Present law requires the coroner to perform or cause to be performed an autopsy in all cases
+of infants under the age of one year who die unexpectedly without explanation.
+Proposed law retains present law.
+Proposed law requires the autopsy report for any child under the age of nine who dies
+unexpectedly without explanation to include documentation of any immunizations
+administered to the child within 90 days of the child's death.
+Proposed law authorizes the coroner or any individual contracted to perform an autopsy on
+behalf of the coroner to access immunization records through the immunization registry.
+Present law requires the coroner to notify the director of the parish health unit if he finds that
+the cause of death was Sudden Infant Death Syndrome.
+Proposed law requires the coroner to report to the La. Dept. of Health if he finds that the
+cause of a child's death was Sudden Infant Death Syndrome, Sudden Unexpected Infant
+Death, Sudden Arrhythmic Death Syndrome, or Sudden Death in the Young.
+Proposed law requires the La. Dept. of Health to report the case to the Centers for Disease
+Control and Prevention and the National Institutes of Health's Sudden Unexpected Infant
+Death and Sudden Death in the Young Case Registry.
+Proposed law provides that the inclusion of an immunization record in any report does not
+imply cause of death.
+Effective August 1, 2026.
+(Amends R.S. 40:31.14(A); adds R.S. 13:5713(L))
+
+[DELETED: 92nM.T.T:RhRuRnR]
+[DELETED:  l i a t f d w c n p o t i w p b S L S T k92nM.A.C w e t i d o a i]

@@ -1,0 +1,268 @@
+Title: HOUSE BILL NO. 427
+Official Title: HOUSE BILL NO. 427
+Number of Sections: 1
+Source: versions - HB427 Enrolled
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+ENROLLED
+2026 Regular Session
+BY REPRESENTATIVES SCHLEGEL, ADAMS, AMEDEE, BACALA, BAMBURG,
+BERAULT, BILLINGS, BOUDREAUX, BOYD, BOYER, BROUSSARD,
+BRYANT, BUTLER, CARLSON, CARVER, CHASSION, CHENEVERT,
+COATES, COX, DESHOTEL, DEVILLIER, DEWITT, DICKERSON,
+EDMONSTON, EGAN, FONTENOT, FREEMAN, FREIBERG, GLORIOSO,
+HILFERTY, HORTON, ILLG, MIKE JOHNSON, KERNER, KNOX, LAFLEUR,
+TERRY LANDRY, LARVADAIN, LYONS, MACK, MARCELLE, MARTINEZ,
+MOORE, MURRAY, NEWELL, OWEN, SPELL, STAGNI, TARVER, TAYLOR,
+THOMPSON, VILLIO, WALTERS, WILDER, WILEY, WYBLE, AND
+ZERINGUE
+1 AN ACT
+2 To amend and reenact R.S. 9:2717.4(B)(3) through (10) and (C)(1), (4), and (5), relative to
+3 material harmful to minors; to provide for definitions; to make technical changes; to
+4 provide relative to settings on minor accounts; to provide for an effective date; and
+5 to provide for related matters.
+6 Be it enacted by the Legislature of Louisiana:
+7 Section 1. R.S. 9:2717.4 (B)(3) through (10) and (C)(1), (4), and (5), are hereby
+8 amended and reenacted to read as follows:
+9 §2717.4. Kids Online Protection and Anti-Grooming Act
+10 * * *
+11 B. For purposes of this Section:
+12 * * *
+13 (3) "Material harmful to minors" has the same meaning as provided in R.S.
+14 51:2121.
+15 (3) (4)(a) "Microtransaction" means any of the following:
+16 (i) A purchase made in an online video game involving surprise mechanics,
+17 new characters, or other in-game items.
+Page 1 of 4
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HB NO. 427 ENROLLED
+1 (ii) A purchase made using a virtual currency that is purchasable or
+2 redeemable using cash or credit that is included as part of a paid subscription service.
+3 (iii) Any purchase or transfer of virtual currency on a covered platform.
+4 (b) The term shall does not include a purchase made in an online video game
+5 using a virtual currency that is earned through game play and is not otherwise
+6 purchasable or redeemable using cash or credit or included as part of a paid
+7 subscription service.
+8 (4) (5) "Minor" means an account holder on the covered platform who
+9 resides in this state under circumstances where the covered platform reasonably
+10 believes or has actual knowledge that the account holder is under the age of sixteen
+11 and is not emancipated or married has the same meaning as provided in R.S.
+12 9:2717.2.
+13 (5) (6) "Nonprofit corporation" means any organization organized on a
+14 not-for-profit basis under pursuant to the provisions of Chapter 2 of Title 12 of the
+15 Louisiana Revised Statutes of 1950.
+16 (6) (7)(a) "Online platform" means any public website, online service, online
+17 application, or mobile application that predominantly provides a community forum
+18 for user-generated content, such as sharing videos, images, games, audio files, or
+19 other content, including a social media service, social network, or virtual reality
+20 environment.
+21 (b) A website, online service, online application, or mobile application is not
+22 an online platform solely on the basis that it includes a chat, comment, or other
+23 interactive function that is incidental to its predominant purpose.
+24 (7) (8) "Online video game" means a video game, including an educational
+25 video game, that accesses the internet and allows the user to do any of the following:
+26 (a) Create and upload content that is not incidental to game play such as
+27 character or level designs.
+28 (b) Engage in microtransactions within the game.
+29 (c) Communicate with other users.
+Page 2 of 4
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HB NO. 427 ENROLLED
+1 (8) (9) "Precise geolocation" means information derived from technology,
+2 including but not limited to global positioning system level latitude and longitude
+3 coordinates or other mechanisms, that directly identify the specific location of a
+4 natural person with precision and accuracy within a radius of one thousand seven
+5 hundred fifty feet. The provisions of this definition shall do not extend to the content
+6 of communications.
+7 (9) (10) "School" means any child daycare center as defined in R.S.
+8 17:407.33, any public or nonpublic school enrolling students in prekindergarten
+9 through grade twelve, any institution under the management and supervision of a
+10 public postsecondary education management board, any nonpublic college or
+11 university, any program or initiative of the Board of Regents, or any proprietary
+12 school as defined in R.S. 17:3140.1.
+13 (10) "Sexually explicit material" shall have the same meaning as provided
+14 in R.S. 25:225.
+15 C. Every owner or operator of a covered platform who contracts with a
+16 minor, including the creation of an online account, shall owe a duty of care to the
+17 minor. The duty of care shall require the covered platform to take reasonable
+18 measures in the operation of the covered platform to prioritize the privacy of the
+19 minor's account and establish the following default privacy settings for minors:
+20 (1) Prohibit an adult from connecting to a minor without express consent
+21 from the minor's legal representative or enable the legal representative of a minor to
+22 access a list of the connections of the minor, including a list of contacts with whom
+23 the minor has exchanged direct messages through the parental supervision tools of
+24 the covered platform.
+25 * * *
+26 (4) Restrict the visibility of the minor's account to only connected accounts
+27 Set minor accounts to private mode in a manner in which only users to whom the
+28 minor is connected on the covered platform may view or respond to content posted
+29 by the minor.
+Page 3 of 4
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HB NO. 427 ENROLLED
+1 (5) Allow the legal representative of a minor to choose to be informed via
+2 text, voice, email, through the legal representative's linked account or through the
+3 covered platform's parental control interface within a reasonable time, if any of the
+4 following occur:
+5 (a) A minor is exposed to sexually explicit material harmful to minors on a
+6 covered platform.
+7 (b) A connection is made between a minor and any other user on a covered
+8 platform unless the legal representative of the minor is connected to the account of
+9 the minor through the covered platform's parental supervision tools.
+10 * * *
+11 Section 2. Section 2 of Act No. 236 of the 2025 Regular Session of the Legislature
+12 of Louisiana is hereby repealed in its entirety.
+13 Section 3. Section 1 of Act No. 236 of the 2025 Regular Session and the provisions
+14 of this Act shall become effective on January 1, 2027.
+SPEAKER OF THE HOUSE OF REPRESENTATIVES
+PRESIDENT OF THE SENATE
+GOVERNOR OF THE STATE OF LOUISIANA
+APPROVED:
+Page 4 of 4
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+[DELETED:  B B B B B B C C C C C D D D D E F F F G V W W W W A]
+[DELETED: 7E  A p m u a v c t i p o o r u c o c o i a p o a p i n e o m h t s m a p i R]
+[DELETED: 7E (  " m a c d c a d i R p e m b a n c o s]
+[DELETED: 7E]
+
+
+================================================================================
+
+Raw Text:
+ENROLLED
+2026 Regular Session
+HOUSE BILL NO. 427
+BY REPRESENTATIVES SCHLEGEL, ADAMS, AMEDEE, BACALA, BAMBURG,
+BERAULT, BILLINGS, BOUDREAUX, BOYD, BOYER, BROUSSARD,
+BRYANT, BUTLER, CARLSON, CARVER, CHASSION, CHENEVERT,
+COATES, COX, DESHOTEL, DEVILLIER, DEWITT, DICKERSON,
+EDMONSTON, EGAN, FONTENOT, FREEMAN, FREIBERG, GLORIOSO,
+HILFERTY, HORTON, ILLG, MIKE JOHNSON, KERNER, KNOX, LAFLEUR,
+TERRY LANDRY, LARVADAIN, LYONS, MACK, MARCELLE, MARTINEZ,
+MOORE, MURRAY, NEWELL, OWEN, SPELL, STAGNI, TARVER, TAYLOR,
+THOMPSON, VILLIO, WALTERS, WILDER, WILEY, WYBLE, AND
+ZERINGUE
+1 AN ACT
+2 To amend and reenact R.S. 9:2717.4(B)(3) through (10) and (C)(1), (4), and (5), relative to
+3 material harmful to minors; to provide for definitions; to make technical changes; to
+4 provide relative to settings on minor accounts; to provide for an effective date; and
+5 to provide for related matters.
+6 Be it enacted by the Legislature of Louisiana:
+7 Section 1. R.S. 9:2717.4 (B)(3) through (10) and (C)(1), (4), and (5), are hereby
+8 amended and reenacted to read as follows:
+9 §2717.4. Kids Online Protection and Anti-Grooming Act
+10 * * *
+11 B. For purposes of this Section:
+12 * * *
+13 (3) "Material harmful to minors" has the same meaning as provided in R.S.
+14 51:2121.
+15 (3) (4)(a) "Microtransaction" means any of the following:
+16 (i) A purchase made in an online video game involving surprise mechanics,
+17 new characters, or other in-game items.
+Page 1 of 4
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HB NO. 427 ENROLLED
+1 (ii) A purchase made using a virtual currency that is purchasable or
+2 redeemable using cash or credit that is included as part of a paid subscription service.
+3 (iii) Any purchase or transfer of virtual currency on a covered platform.
+4 (b) The term shall does not include a purchase made in an online video game
+5 using a virtual currency that is earned through game play and is not otherwise
+6 purchasable or redeemable using cash or credit or included as part of a paid
+7 subscription service.
+8 (4) (5) "Minor" means an account holder on the covered platform who
+9 resides in this state under circumstances where the covered platform reasonably
+10 believes or has actual knowledge that the account holder is under the age of sixteen
+11 and is not emancipated or married has the same meaning as provided in R.S.
+12 9:2717.2.
+13 (5) (6) "Nonprofit corporation" means any organization organized on a
+14 not-for-profit basis under pursuant to the provisions of Chapter 2 of Title 12 of the
+15 Louisiana Revised Statutes of 1950.
+16 (6) (7)(a) "Online platform" means any public website, online service, online
+17 application, or mobile application that predominantly provides a community forum
+18 for user-generated content, such as sharing videos, images, games, audio files, or
+19 other content, including a social media service, social network, or virtual reality
+20 environment.
+21 (b) A website, online service, online application, or mobile application is not
+22 an online platform solely on the basis that it includes a chat, comment, or other
+23 interactive function that is incidental to its predominant purpose.
+24 (7) (8) "Online video game" means a video game, including an educational
+25 video game, that accesses the internet and allows the user to do any of the following:
+26 (a) Create and upload content that is not incidental to game play such as
+27 character or level designs.
+28 (b) Engage in microtransactions within the game.
+29 (c) Communicate with other users.
+Page 2 of 4
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HB NO. 427 ENROLLED
+1 (8) (9) "Precise geolocation" means information derived from technology,
+2 including but not limited to global positioning system level latitude and longitude
+3 coordinates or other mechanisms, that directly identify the specific location of a
+4 natural person with precision and accuracy within a radius of one thousand seven
+5 hundred fifty feet. The provisions of this definition shall do not extend to the content
+6 of communications.
+7 (9) (10) "School" means any child daycare center as defined in R.S.
+8 17:407.33, any public or nonpublic school enrolling students in prekindergarten
+9 through grade twelve, any institution under the management and supervision of a
+10 public postsecondary education management board, any nonpublic college or
+11 university, any program or initiative of the Board of Regents, or any proprietary
+12 school as defined in R.S. 17:3140.1.
+13 (10) "Sexually explicit material" shall have the same meaning as provided
+14 in R.S. 25:225.
+15 C. Every owner or operator of a covered platform who contracts with a
+16 minor, including the creation of an online account, shall owe a duty of care to the
+17 minor. The duty of care shall require the covered platform to take reasonable
+18 measures in the operation of the covered platform to prioritize the privacy of the
+19 minor's account and establish the following default privacy settings for minors:
+20 (1) Prohibit an adult from connecting to a minor without express consent
+21 from the minor's legal representative or enable the legal representative of a minor to
+22 access a list of the connections of the minor, including a list of contacts with whom
+23 the minor has exchanged direct messages through the parental supervision tools of
+24 the covered platform.
+25 * * *
+26 (4) Restrict the visibility of the minor's account to only connected accounts
+27 Set minor accounts to private mode in a manner in which only users to whom the
+28 minor is connected on the covered platform may view or respond to content posted
+29 by the minor.
+Page 3 of 4
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HB NO. 427 ENROLLED
+1 (5) Allow the legal representative of a minor to choose to be informed via
+2 text, voice, email, through the legal representative's linked account or through the
+3 covered platform's parental control interface within a reasonable time, if any of the
+4 following occur:
+5 (a) A minor is exposed to sexually explicit material harmful to minors on a
+6 covered platform.
+7 (b) A connection is made between a minor and any other user on a covered
+8 platform unless the legal representative of the minor is connected to the account of
+9 the minor through the covered platform's parental supervision tools.
+10 * * *
+11 Section 2. Section 2 of Act No. 236 of the 2025 Regular Session of the Legislature
+12 of Louisiana is hereby repealed in its entirety.
+13 Section 3. Section 1 of Act No. 236 of the 2025 Regular Session and the provisions
+14 of this Act shall become effective on January 1, 2027.
+SPEAKER OF THE HOUSE OF REPRESENTATIVES
+PRESIDENT OF THE SENATE
+GOVERNOR OF THE STATE OF LOUISIANA
+APPROVED:
+Page 4 of 4
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+[DELETED:  B B B B B B C C C C C D D D D E F F F G V W W W W A]
+[DELETED: 7E  A p m u a v c t i p o o r u c o c o i a p o a p i n e o m h t s m a p i R]
+[DELETED: 7E (  " m a c d c a d i R p e m b a n c o s]
+[DELETED: 7E]

@@ -1,0 +1,323 @@
+Title: HOUSE BILL NO. 427
+Official Title: HOUSE BILL NO. 427
+Number of Sections: 1
+Source: versions - HB427 Original
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+HLS 26RS-87 ORIGINAL
+2026 Regular Session
+BY REPRESENTATIVE SCHLEGEL
+CONTRACTS: Provides relative to the duty of care for online platforms that contract with
+minors
+1 AN ACT
+2 To amend and reenact R.S. 9:2717.4(B)(3) through (10), (C)(4), and (5)(a), relative to
+3 material harmful to minors; to provide for definitions; to make technical changes; to
+4 provide relative to settings on minor accounts; to provide for an effective date; and
+5 to provide for related matters.
+6 Be it enacted by the Legislature of Louisiana:
+7 Section 1. R.S. 9:2717.4 (B)(3) through (10), (C)(4), and (5)(a) are hereby amended
+8 and reenacted to read as follows:
+9 §2717.4. Kids Online Protection and Anti-Grooming Act
+10 * * *
+11 B. For purposes of this Section:
+12 * * *
+13 (3) "Material harmful to minors" has the same meaning as provided in R.S.
+14 51:2121.
+15 (3) (4)(a) "Microtransaction" means any of the following:
+16 (i) A purchase made in an online video game involving surprise mechanics,
+17 new characters, or other in-game items.
+18 (ii) A purchase made using a virtual currency that is purchasable or
+19 redeemable using cash or credit that is included as part of a paid subscription service.
+20 (iii) Any purchase or transfer of virtual currency on a covered platform.
+Page 1 of 5
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-87 ORIGINAL
+HB NO. 427
+1 (b) The term shall does not include a purchase made in an online video game
+2 using a virtual currency that is earned through game play and is not otherwise
+3 purchasable or redeemable using cash or credit or included as part of a paid
+4 subscription service.
+5 (4) (5) "Minor" means an account holder on the covered platform who
+6 resides in this state under circumstances where the covered platform reasonably
+7 believes or has actual knowledge that the account holder is under the age of sixteen
+8 and is not emancipated or married has the same meaning as provided in R.S.
+9 9:2717.2.
+10 (5) (6) "Nonprofit corporation" means any organization organized on a
+11 not-for-profit basis under pursuant to the provisions of Chapter 2 of Title 12 of the
+12 Louisiana Revised Statutes of 1950.
+13 (6) (7)(a) "Online platform" means any public website, online service, online
+14 application, or mobile application that predominantly provides a community forum
+15 for user-generated content, such as sharing videos, images, games, audio files, or
+16 other content, including a social media service, social network, or virtual reality
+17 environment.
+18 (b) A website, online service, online application, or mobile application is not
+19 an online platform solely on the basis that it includes a chat, comment, or other
+20 interactive function that is incidental to its predominant purpose.
+21 (7) (8) "Online video game" means a video game, including an educational
+22 video game, that accesses the internet and allows the user to do any of the following:
+23 (a) Create and upload content that is not incidental to game play such as
+24 character or level designs.
+25 (b) Engage in microtransactions within the game.
+26 (c) Communicate with other users.
+27 (8) (9) "Precise geolocation" means information derived from technology,
+28 including but not limited to global positioning system level latitude and longitude
+29 coordinates or other mechanisms, that directly identify the specific location of a
+Page 2 of 5
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-87 ORIGINAL
+HB NO. 427
+1 natural person with precision and accuracy within a radius of one thousand seven
+2 hundred fifty feet. The provisions of this definition shall do not extend to the content
+3 of communications.
+4 (9) (10) "School" means any child daycare center as defined in R.S.
+5 17:407.33, any public or nonpublic school enrolling students in prekindergarten
+6 through grade twelve, any institution under the management and supervision of a
+7 public postsecondary education management board, any nonpublic college or
+8 university, any program or initiative of the Board of Regents, or any proprietary
+9 school as defined in R.S. 17:3140.1.
+10 (10) "Sexually explicit material" shall have the same meaning as provided
+11 in R.S. 25:225.
+12 C. Every owner or operator of a covered platform who contracts with a
+13 minor, including the creation of an online account, shall owe a duty of care to the
+14 minor. The duty of care shall require the covered platform to take reasonable
+15 measures in the operation of the covered platform to prioritize the privacy of the
+16 minor's account and establish the following default privacy settings for minors:
+17 * * *
+18 (4) Restrict the visibility of the minor's account to only connected accounts
+19 Set minor accounts to private mode in a manner in which only users to whom the
+20 minor is connected on the covered platform may view or respond to content posted
+21 by the minor.
+22 (5) Allow the legal representative of a minor to choose to be informed via
+23 text, voice, email, through the legal representative's linked account or through the
+24 covered platform's parental control interface within a reasonable time, if any of the
+25 following occur:
+26 (a) A minor is exposed to sexually explicit material harmful to minors on a
+27 covered platform.
+28 * * *
+Page 3 of 5
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-87 ORIGINAL
+HB NO. 427
+1 Section 2. Section 2 of Act No. 236 of the 2025 Regular Session of the Legislature
+2 of Louisiana is hereby repealed in its entirety.
+3 Section 3. Section 1 of Act No. 236 of the 2025 Regular Session and the provisions
+4 of this Act shall become effective upon signature by the governor or, if not signed by the
+5 governor, upon expiration of the time for bills to become law without signature by the
+6 governor, as provided by Article III, Section 18 of the Constitution of Louisiana. If vetoed
+7 by the governor and subsequently approved by the legislature, this Act shall become
+8 effective on the day following such approval.
+DIGEST
+The digest printed below was prepared by House Legislative Services. It constitutes no part
+of the legislative instrument. The keyword, one-liner, abstract, and digest do not constitute
+part of the law or proof or indicia of legislative intent. [R.S. 1:13(B) and 24:177(E)]
+HB 427 Original 2026 Regular Session Schlegel
+Abstract: Amends the Kids Online Protection and Anti-Grooming Act and provides
+relative to material harmful to minors.
+Present law provides for the Kids Online Protection and Anti-Grooming Act to protect
+minors who use covered platforms.
+Proposed law retains present law.
+Proposed law defines "material harmful to minors".
+Present law (R.S. 9:2717.4) defines "minor" as an account holder on the covered platform
+who resides in this state and the covered platform reasonably believes or has actual
+knowledge that the account holder is under the age of 16 and is not emancipated or married.
+Proposed law changes the definition of "minor" to be any person under the age of 18 who
+is not emancipated.
+Present law defines "sexually explicit material".
+Proposed law repeals the definition of "sexually explicit material".
+Present law provides that every owner or operator of a covered platform who contracts with
+a minor owes a duty of care to the minor. Requires a covered platform to prioritize the
+privacy of minor's accounts and establish certain default privacy settings. One of the default
+privacy settings is to restrict the visibility of the minor's account to only connected accounts.
+Proposed law repeals present law and provides that covered platforms must set minor
+accounts to private mode, in a manner in which only users to whom the minor is connected
+on the covered platform may view or respond to content posted by the minor.
+Present law provides that the legal representative of a minor be informed if a minor is
+exposed to sexually explicit material.
+Page 4 of 5
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-87 ORIGINAL
+HB NO. 427
+Proposed law changes present law and requires notification if a minor is exposed to material
+harmful to minors.
+Proposed law repeals the July 1, 2026, effective date of the Kids Online Protection and Anti-
+Grooming Act.
+Effective upon signature of governor or lapse of time for gubernatorial action.
+(Amends R.S.9:2717.4 (B)(3)-(10), (C)(4), and (5)(a))
+Page 5 of 5
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+[DELETED: 7O  A p m u a v c t i p o]
+[DELETED: 7O o r u c o c o i a p o a p i n e o m h t s m a p i R]
+[DELETED: 7O (  " m a c d c a d i R p e m b a n c o]
+[DELETED: 7O t g a s a b t l t A s bl2nS t K O P a A A a r i t s a t c p r b o h a]
+[DELETED: 7O]
+
+
+================================================================================
+
+Raw Text:
+HLS 26RS-87 ORIGINAL
+2026 Regular Session
+HOUSE BILL NO. 427
+BY REPRESENTATIVE SCHLEGEL
+CONTRACTS: Provides relative to the duty of care for online platforms that contract with
+minors
+1 AN ACT
+2 To amend and reenact R.S. 9:2717.4(B)(3) through (10), (C)(4), and (5)(a), relative to
+3 material harmful to minors; to provide for definitions; to make technical changes; to
+4 provide relative to settings on minor accounts; to provide for an effective date; and
+5 to provide for related matters.
+6 Be it enacted by the Legislature of Louisiana:
+7 Section 1. R.S. 9:2717.4 (B)(3) through (10), (C)(4), and (5)(a) are hereby amended
+8 and reenacted to read as follows:
+9 §2717.4. Kids Online Protection and Anti-Grooming Act
+10 * * *
+11 B. For purposes of this Section:
+12 * * *
+13 (3) "Material harmful to minors" has the same meaning as provided in R.S.
+14 51:2121.
+15 (3) (4)(a) "Microtransaction" means any of the following:
+16 (i) A purchase made in an online video game involving surprise mechanics,
+17 new characters, or other in-game items.
+18 (ii) A purchase made using a virtual currency that is purchasable or
+19 redeemable using cash or credit that is included as part of a paid subscription service.
+20 (iii) Any purchase or transfer of virtual currency on a covered platform.
+Page 1 of 5
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-87 ORIGINAL
+HB NO. 427
+1 (b) The term shall does not include a purchase made in an online video game
+2 using a virtual currency that is earned through game play and is not otherwise
+3 purchasable or redeemable using cash or credit or included as part of a paid
+4 subscription service.
+5 (4) (5) "Minor" means an account holder on the covered platform who
+6 resides in this state under circumstances where the covered platform reasonably
+7 believes or has actual knowledge that the account holder is under the age of sixteen
+8 and is not emancipated or married has the same meaning as provided in R.S.
+9 9:2717.2.
+10 (5) (6) "Nonprofit corporation" means any organization organized on a
+11 not-for-profit basis under pursuant to the provisions of Chapter 2 of Title 12 of the
+12 Louisiana Revised Statutes of 1950.
+13 (6) (7)(a) "Online platform" means any public website, online service, online
+14 application, or mobile application that predominantly provides a community forum
+15 for user-generated content, such as sharing videos, images, games, audio files, or
+16 other content, including a social media service, social network, or virtual reality
+17 environment.
+18 (b) A website, online service, online application, or mobile application is not
+19 an online platform solely on the basis that it includes a chat, comment, or other
+20 interactive function that is incidental to its predominant purpose.
+21 (7) (8) "Online video game" means a video game, including an educational
+22 video game, that accesses the internet and allows the user to do any of the following:
+23 (a) Create and upload content that is not incidental to game play such as
+24 character or level designs.
+25 (b) Engage in microtransactions within the game.
+26 (c) Communicate with other users.
+27 (8) (9) "Precise geolocation" means information derived from technology,
+28 including but not limited to global positioning system level latitude and longitude
+29 coordinates or other mechanisms, that directly identify the specific location of a
+Page 2 of 5
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-87 ORIGINAL
+HB NO. 427
+1 natural person with precision and accuracy within a radius of one thousand seven
+2 hundred fifty feet. The provisions of this definition shall do not extend to the content
+3 of communications.
+4 (9) (10) "School" means any child daycare center as defined in R.S.
+5 17:407.33, any public or nonpublic school enrolling students in prekindergarten
+6 through grade twelve, any institution under the management and supervision of a
+7 public postsecondary education management board, any nonpublic college or
+8 university, any program or initiative of the Board of Regents, or any proprietary
+9 school as defined in R.S. 17:3140.1.
+10 (10) "Sexually explicit material" shall have the same meaning as provided
+11 in R.S. 25:225.
+12 C. Every owner or operator of a covered platform who contracts with a
+13 minor, including the creation of an online account, shall owe a duty of care to the
+14 minor. The duty of care shall require the covered platform to take reasonable
+15 measures in the operation of the covered platform to prioritize the privacy of the
+16 minor's account and establish the following default privacy settings for minors:
+17 * * *
+18 (4) Restrict the visibility of the minor's account to only connected accounts
+19 Set minor accounts to private mode in a manner in which only users to whom the
+20 minor is connected on the covered platform may view or respond to content posted
+21 by the minor.
+22 (5) Allow the legal representative of a minor to choose to be informed via
+23 text, voice, email, through the legal representative's linked account or through the
+24 covered platform's parental control interface within a reasonable time, if any of the
+25 following occur:
+26 (a) A minor is exposed to sexually explicit material harmful to minors on a
+27 covered platform.
+28 * * *
+Page 3 of 5
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-87 ORIGINAL
+HB NO. 427
+1 Section 2. Section 2 of Act No. 236 of the 2025 Regular Session of the Legislature
+2 of Louisiana is hereby repealed in its entirety.
+3 Section 3. Section 1 of Act No. 236 of the 2025 Regular Session and the provisions
+4 of this Act shall become effective upon signature by the governor or, if not signed by the
+5 governor, upon expiration of the time for bills to become law without signature by the
+6 governor, as provided by Article III, Section 18 of the Constitution of Louisiana. If vetoed
+7 by the governor and subsequently approved by the legislature, this Act shall become
+8 effective on the day following such approval.
+DIGEST
+The digest printed below was prepared by House Legislative Services. It constitutes no part
+of the legislative instrument. The keyword, one-liner, abstract, and digest do not constitute
+part of the law or proof or indicia of legislative intent. [R.S. 1:13(B) and 24:177(E)]
+HB 427 Original 2026 Regular Session Schlegel
+Abstract: Amends the Kids Online Protection and Anti-Grooming Act and provides
+relative to material harmful to minors.
+Present law provides for the Kids Online Protection and Anti-Grooming Act to protect
+minors who use covered platforms.
+Proposed law retains present law.
+Proposed law defines "material harmful to minors".
+Present law (R.S. 9:2717.4) defines "minor" as an account holder on the covered platform
+who resides in this state and the covered platform reasonably believes or has actual
+knowledge that the account holder is under the age of 16 and is not emancipated or married.
+Proposed law changes the definition of "minor" to be any person under the age of 18 who
+is not emancipated.
+Present law defines "sexually explicit material".
+Proposed law repeals the definition of "sexually explicit material".
+Present law provides that every owner or operator of a covered platform who contracts with
+a minor owes a duty of care to the minor. Requires a covered platform to prioritize the
+privacy of minor's accounts and establish certain default privacy settings. One of the default
+privacy settings is to restrict the visibility of the minor's account to only connected accounts.
+Proposed law repeals present law and provides that covered platforms must set minor
+accounts to private mode, in a manner in which only users to whom the minor is connected
+on the covered platform may view or respond to content posted by the minor.
+Present law provides that the legal representative of a minor be informed if a minor is
+exposed to sexually explicit material.
+Page 4 of 5
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-87 ORIGINAL
+HB NO. 427
+Proposed law changes present law and requires notification if a minor is exposed to material
+harmful to minors.
+Proposed law repeals the July 1, 2026, effective date of the Kids Online Protection and Anti-
+Grooming Act.
+Effective upon signature of governor or lapse of time for gubernatorial action.
+(Amends R.S.9:2717.4 (B)(3)-(10), (C)(4), and (5)(a))
+Page 5 of 5
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+[DELETED: 7O  A p m u a v c t i p o]
+[DELETED: 7O o r u c o c o i a p o a p i n e o m h t s m a p i R]
+[DELETED: 7O (  " m a c d c a d i R p e m b a n c o]
+[DELETED: 7O t g a s a b t l t A s bl2nS t K O P a A A a r i t s a t c p r b o h a]
+[DELETED: 7O]

@@ -1,0 +1,739 @@
+Title: SENATE BILL NO. 300
+Official Title: SENATE BILL NO. 300
+Number of Sections: 1
+Source: versions - SB300 Act
+Media Type: application/pdf
+Strikethrough Detection: 11 sections found
+
+================================================================================
+
+Section 1:
+2026 Regular Session ACT No. 755 ENROLLED
+BY SENATOR MIZELL
+1 AN ACT
+2 To amend and reenact R.S. 39:197(13) and (19) through (21), 198(E)(2), (H)(1)(c), the
+3 introductory paragraph of (J), (J)(1)(d), 199(D)(4), 200(K), 1556(31) and (62),
+4 1594(C)(3), 1597, 1600.2(C)(4), 1602.1(C)(2), the introductory paragraph of
+5 1606(B), 1619(A)(1)(i), 1630, and 1691(A), to enact R.S. 39:1600.2(G),
+6 1619(A)(2)(k), (3)(h), (4)(f), and (5)(d), 1685(F), and 1692(D) through (G), and to
+7 repeal R.S. 39:197(22), relative to the Louisiana Procurement Code; to provide for
+8 definitions; to provide for requirements of information technology contractual review
+9 procedures; to provide for applicability; to provide for negotiation and award of
+10 contracts; to provide for bidding on contracts; to provide for advertisement and
+11 notice requirements for procurement; to provide for certain prohibitions; to provide
+12 for contract types; to provide for legal and contractual remedies; to provide relative
+13 to administrative appeals; to provide relative to commencement of actions relative
+14 to procurement; to provide for an effective date; and to provide for related matters.
+15 Be it enacted by the Legislature of Louisiana:
+16 Section 1. R.S. 39:197(13) and (19) through (21), 198(E)(2), (H)(1)(c), the
+17 introductory paragraph of (J), (J)(1)(d), 199(D)(4), 200(K), 1556(31) and (62), 1594(C)(3),
+18 1597, 1600.2(C)(4), 1602.1(C)(2), the introductory paragraph of 1606(B), 1619(A)(1)(i),
+19 1630, and 1691(A) are hereby amended and reenacted and R.S. 39:1600.2(G),
+20 1619(A)(2)(k), (3)(h), (4)(f), and (5)(d), 1685(F), and 1692(D) through (G) are hereby
+21 enacted to read as follows:
+Page 1 of 11
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+SB NO. 300 ENROLLED
+1 §197. Definitions
+2 For the purposes of this Part, the following words and phrases shall be
+3 defined as follows:
+4 * * *
+5 (13) "Invitation to negotiate" means a written or electronically posted
+6 solicitation for competitive sealed replies to select one or more vendors with which
+7 to commence negotiations for the procurement of information technology systems,
+8 information technology services, software, professional services, or consulting
+9 services, or fiscal intermediary services.
+10 * * *
+11 (19) "Related services" means and is limited to service activities affecting the
+12 maintenance of information technology equipment or software and the providing of
+13 fiscal intermediary services and shall also include those consulting services ancillary
+14 to the procurement of information technology hardware or software that would
+15 otherwise be governed by the provisions of professional, personal, consulting, and
+16 social services procurement in Chapter 17 of Subtitle III of this Title. Except for
+17 consulting services ancillary to the procurement of fiscal intermediary services by
+18 cooperative purchasing, such consulting services contracts shall be limited to the
+19 lesser of twenty percent of the procurement amount or two hundred fifty thousand
+20 dollars.
+21 (20) "Rental contract" means and includes contracts between a supplier of
+22 information technology equipment and the state, or a state agency, through which
+23 information technology equipment may be leased for a term not to exceed one fiscal
+24 year, such contracts to include the right of termination by the state upon notice of
+25 ninety days or less, and to be renewable, upon review and recommendations of the
+26 procurement support team and review and approval by the office of technology
+27 services, with such renewal to be limited to one additional term not to exceed twelve
+28 months.
+29 (21)(20) "Software" means computer programs and documentation essential
+30 to and necessary for an information technology system or information technology
+Page 2 of 11
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+SB NO. 300 ENROLLED
+1 service to perform productive operations.
+2 (22)(21) "Utility" means any information technology service provided by the
+3 office of technology services and used in the essential operations of a state agency,
+4 such as system authentication, data replication, and system utilization and
+5 performance management.
+6 §198. Types of contracts permitted
+7 * * *
+8 E. The use of a multiyear contract for information technology systems,
+9 information technology services, and professional services contracts and consulting
+10 services contracts related to information technology shall be in accordance with rules
+11 and regulations and under the following conditions:
+12 * * *
+13 (2) The director of the state purchasing office of state procurement shall
+14 approve in writing the use of a multi-year contract over three years, not to exceed
+15 five years.
+16 * * *
+17 H. Rental Contracts. Upon the advance written approval of the state central
+18 purchasing agency, state agencies may enter into contracts for the rental of
+19 information technology equipment and related services on a month-to- month basis
+20 for a period not to extend beyond the end of the fiscal year in which the contract is
+21 made. All such contracts shall be entered into only as a result of competitive sealed
+22 bidding procedures.
+23 (1) Equipment currently installed, or installed at the beginning of a fiscal year
+24 under a valid rental contract, may be retained at the end of the fiscal year by
+25 renewing or extending the existing rental contract for one additional term, not to
+26 exceed twelve months, without competitive sealed bidding procedures, subject to the
+27 following provisions:
+28 * * *
+29 (c) Renewal of a rental contract shall be subject to the advance review and
+30 recommendation of the procurement support team and to the advance written
+Page 3 of 11
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+SB NO. 300 ENROLLED
+1 approval of the state central purchasing agency and shall be permitted only if any
+2 proposed price increases do not exceed the supplier's current published list prices.
+3 * * *
+4 J. Master Agreements. The state director of purchasing chief procurement
+5 officer may enter into master agreements with vendors with which the state conducts
+6 substantial business over a period of time.
+7 (1) Such agreements shall set forth those terms and conditions of specific
+8 legal import which relate to the basic provisions according to which procurement
+9 activity will be conducted, and shall meet the following requirements:
+10 * * *
+11 (d) Each master agreement must be negotiated by a procurement support
+12 team and executed on behalf of the state by the state director of purchasing chief
+13 procurement officer.
+14 * * *
+15 §199. Methods of procurement
+16 * * *
+17 D. Method for procuring software and software maintenance and support
+18 services.
+19 * * *
+20 (4) The procurement support team shall develop and deliver to the office of
+21 state procurement and the office of technology services proposed rules establishing
+22 guidelines for procurement activities under this Part. Upon approval of the office of
+23 technology services, the office of state procurement shall promulgate rules in
+24 accordance with the Administrative Procedure Act.
+25 * * *
+26 §200. General provisions
+27 The following general provisions shall apply to all procurements under this
+28 Part:
+29 * * *
+30 K. The provisions of this Part shall, with respect to the procurement of
+Page 4 of 11
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+SB NO. 300 ENROLLED
+1 information technology systems or information technology services, supersede
+2 specifications of any contradictory or conflicting provisions of the following statutes:
+3 R.S. 38:2211 et seq. with respect to awarding of public contracts and R.S. 39:1551
+4 through 1736, but all other provisions in Chapter 17 of Title 39 apply to all
+5 procurements under this Part. The provisions of this Part do not relate to the
+6 procurement of services covered by R.S. 39:1481 through 1526 except as provided
+7 in R.S. 39:198. The Louisiana Lease of Movables Act, R.S. 9:3301 through 3342,
+8 shall not apply to the provisions of this Part.
+9 * * *
+10 §1556. Definitions
+11 As used in this Chapter, the words defined in this Section shall have the
+12 meanings set forth below, unless the context in which they are used clearly requires
+13 a different meaning or a different definition is prescribed for a particular Part or
+14 provision:
+15 * * *
+16 (31) "Invitation to negotiate" means a written or electronically posted
+17 solicitation for competitive sealed replies to select one or more vendors with which
+18 to commence negotiations for the procurement of information technology systems,
+19 information technology services, software, professional services, or consulting
+20 services, or fiscal intermediary services.
+21 * * *
+22 (62) "Using agency" means any governmental body of the state which utilizes
+23 any supplies, services, or major repairs, or professional services, personal services,
+24 consulting services, or social services purchased under this Chapter.
+25 * * *
+26 §1594. Competitive sealed bids
+27 * * *
+28 C. Public notice.
+29 * * *
+30 (3) Each advertisement may be published in the official journal of the state.
+Page 5 of 11
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+SB NO. 300 ENROLLED
+1 In the case of any purchase to meet the needs of a single budget unit the
+2 advertisement shall may be published also in a newspaper of general circulation
+3 printed in the parish in which the budget unit is situated or, if there is no newspaper
+4 printed in the parish, in a newspaper printed in the nearest parish, which has a
+5 general circulation in the parish in which the budget unit is situated.
+6 * * *
+7 §1597. Sole source procurements
+8 A contract may be awarded for a required supply, service, or major repair,
+9 consulting service, or social service, without competition when, under regulations,
+10 the chief procurement officer or his designee above the level of procurement officer
+11 determines in writing that there is only one source for the required supply, service,
+12 or major repair item, consulting service, or social service.
+13 * * *
+14 §1600.2. Invitation to negotiate
+15 * * *
+16 C. The invitation to negotiate shall describe the questions being explored, the
+17 facts being sought, and the specific goals or problems that are the subject of the
+18 solicitation and shall be subject to all of the following conditions:
+19 * * *
+20 (4) Auction techniques and Insights gained during the negotiation process,
+21 including items of cost, may be used to refine a solution. However, disclosure of
+22 proprietary information derived from competing proposals are is prohibited while
+23 negotiations are underway.
+24 * * *
+25 G. All records related to the solicitation shall be public records upon
+26 award of the contract or contracts, unless otherwise excepted by law.
+27 * * *
+28 §1602.1. Prohibition of discriminatory boycotts of Israel in state procurement
+29 * * *
+30 C.(1) * * *
+Page 6 of 11
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+SB NO. 300 ENROLLED
+1 (2) All competitive sealed bids and, competitive sealed proposals, and
+2 invitations to negotiate issued for procurement contracts with executive branch
+3 agencies shall include the text of the following certification:
+4 "By submitting a response to this solicitation, the bidder or proposer certifies
+5 and agrees that the following information is correct: In preparing its response, the
+6 bidder or proposer has considered all proposals submitted from qualified, potential
+7 subcontractors and suppliers, and has not, in the solicitation, selection, or
+8 commercial treatment of any subcontractor or supplier, refused to transact or
+9 terminated business activities, or taken other actions intended to limit commercial
+10 relations, with a person or entity that is engaging in commercial transactions in Israel
+11 or Israeli-controlled territories, with the specific intent to accomplish a boycott or
+12 divestment of Israel. The bidder also has not retaliated against any person or other
+13 entity for reporting such refusal, termination, or commercially limiting actions. The
+14 state reserves the right to reject the response of the bidder or proposer if this
+15 certification is subsequently determined to be false, and to terminate any contract
+16 awarded based on such a false response."
+17 * * *
+18 §1606. Responsibility of bidders and proposers
+19 * * *
+20 B. Whenever the chief procurement officer, commissioner, or head of a
+21 governmental body with such authority proposes to disqualify the lowest bidder on
+22 bids of five thousand dollars or more that exceed the amount established by
+23 executive order of the governor pursuant to R.S. 39:1596, such individual shall:
+24 * * *
+25 §1619. Social service contracts
+26 A. Social services include:
+27 (1) Rehabilitation and health supports include services rendered by a
+28 contractor with special knowledge or service available to assist individuals in
+29 attaining or maintaining a favorable condition of physical and mental health. These
+30 services include but are not limited to:
+Page 7 of 11
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+SB NO. 300 ENROLLED
+1 * * *
+2 (i) Other services in support of same, including the furnishing of support
+3 staff with specialized training to support the underlying social service objectives
+4 and deliverables.
+5 (2) Habilitation and socialization include services rendered by a contractor
+6 with special knowledge to assist specified client groups to enhance their
+7 self-sufficiency or alleviate their dependency or isolation from the community. These
+8 services include but are not limited to:
+9 * * *
+10 (k) Other services in support of same, including the furnishing of support
+11 staff with specialized training to support the underlying social service objectives
+12 and deliverables.
+13 (3) Protection for adults and children include services rendered by a
+14 contractor to provide therapeutic intervention for adults or children who are in
+15 danger or threatened with danger of physical or mental injury, neglect, maltreatment,
+16 extortion, or exploitation, including victims of family violence. These services
+17 include but are not limited to:
+18 * * *
+19 (h) Other services in support of same, including the furnishing of support
+20 staff with specialized training to support the underlying social service objectives
+21 and deliverables.
+22 (4) Improvement of living conditions and health include services rendered by
+23 an authorized contractor with special knowledge or services available to assist
+24 individuals to attain or maintain favorable conditions in which to live. These services
+25 include but are not limited to:
+26 * * *
+27 (f) Other services in support of same, including the furnishing of support
+28 staff with specialized training to support the underlying social service objectives
+29 and deliverables.
+30 (5) Evaluation, testing, and remedial educational services for exceptional
+Page 8 of 11
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+SB NO. 300 ENROLLED
+1 nonpublic school students with physical or learning disabilities include services
+2 rendered by a contractor with special knowledge or services available to provide
+3 special educational and related services for exceptional students or students with
+4 disabilities voluntarily enrolled in approved nonpublic schools of Louisiana who are
+5 not otherwise provided with such services through either their local school program
+6 or through other services afforded to them by local school boards or other public
+7 agencies. These services include but are not limited to:
+8 * * *
+9 (d) Other services in support of same, including the furnishing of support
+10 staff with specialized training to support the underlying social service objectives
+11 and deliverables.
+12 * * *
+13 §1630. Finality of determinations
+14 The determinations required by R.S. 39:1568.1, 1597, 1598(C), 1605, 1606,
+15 1608(C), 1612(A), 1614, and 1671(F) are final and conclusive unless the reviewing
+16 court, exercising its appellate jurisdiction, finds they are clearly erroneous,
+17 arbitrary, capricious, or contrary to law.
+18 * * *
+19 §1685. Contract and breach of contract controversies
+20 * * *
+21 F. A final decision of the commissioner may be made executory by the
+22 Nineteenth Judicial District Court in accordance with Code of Civil Procedure
+23 Article 2782.
+24 §1691. Venue of actions by or against the state in connection with contracts
+25 A. Solicitation and award of contracts. The Nineteenth Judicial District Court
+26 shall have exclusive venue over an action between the state and a person, bidder,
+27 proposer, offerer, or contractor, prospective or actual, to determine whether a
+28 solicitation or award of a contract is in accordance with the constitution, statutes,
+29 regulations, and the terms and conditions of the solicitation. Such actions shall
+30 invoke, and the court shall exercise, only the appellate jurisdiction of the court.
+Page 9 of 11
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+SB NO. 300 ENROLLED
+1 * * *
+2 §1692. Commencement of actions
+3 * * *
+4 D. Actions requesting judicial review of any determination listed in R.S.
+5 39:1630 shall be commenced within fourteen days after the receipt of the
+6 written determination.
+7 E. All actions under R.S. 39:1691 shall be instituted by the filing of a
+8 petition for judicial review in the Nineteenth Judicial District Court invoking,
+9 and the court shall exercise, only appellate jurisdiction.
+10 F.(1) In any petition for judicial review filed pursuant to R.S. 39:1691(A),
+11 a copy of the petition for judicial review shall be served upon the commissioner
+12 of administration, the head of the agency which issued the solicitation, and, if
+13 applicable, the person awarded the contract. The head of the using agency is the
+14 chief executive or administrative officer of the using agency.
+15 (2) In any petition for judicial review filed pursuant to R.S. 39:1691(B),
+16 a copy of the petition for judicial review shall be served upon the commissioner
+17 of administration.
+18 (3) In any petition for judicial review filed pursuant to R.S. 39:1691(C),
+19 a copy of the petition for judicial review shall be served upon the commissioner
+20 of administration and the head of the using agency which is a party to the
+21 contract. The head of the using agency is the chief executive or administrative
+22 officer of the using agency.
+23 (4) In any petition for judicial review filed pursuant to R.S. 39:1692(D),
+24 a copy of the petition for judicial review shall be served upon the commissioner
+25 of administration and the chief procurement officer.
+26 G. Within sixty days after the service of the service of the petition upon
+27 the commissioner of administration, or within further time allowed by the
+28 court, the division of administration shall transmit to the reviewing court the
+29 original or a certified copy of the administrative record.
+30 Section 2. R.S. 39:197(22) is hereby repealed in its entirety.
+Page 10 of 11
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+SB NO. 300 ENROLLED
+1 Section 3. This Act shall become effective upon signature by the governor or, if not
+2 signed by the governor, upon expiration of the time for bills to become law without the
+3 signature by the governor, as provided by Article III, Section 18 of the Constitution of
+4 Louisiana. If vetoed by the governor and subsequently approved by the legislature, this Act
+5 shall become effective on the say following such approval.
+PRESIDENT OF THE SENATE
+SPEAKER OF THE HOUSE OF REPRESENTATIVES
+GOVERNOR OF THE STATE OF LOUISIANA
+APPROVED:
+Page 11 of 11
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+[DELETED: nEATi p o ( ( 1 a (1 1 1 1 t i p o1 1 1 a 1 t e R 31rdp0c1n2f3t4t5B6S 1 R 3 a ( t ( 1 ( t7i8191 a 1 a h a a r a R 3011e]
+[DELETED: 0E§Fd*( " t n m a w o e psti t s s p s o cs0*1(2m3f4t5o6s7c8c9l0d1(2i3i4y5n6p7s8m9(0t]
+[DELETED: 0Es(os a s a d r a s u ap§*E T u o a m c f i t si0s1a2*3(4a5f6*7H8p a s a m e i c f t r o9i0f1m2b3(4u a v r c m b r a t e o t f y b5r6e7f8*9(0r o t p s t a t t a w]
+[DELETED: 0Eap*Jos(la0*1(2t3p4*5§6*7D8s9*0(1s2g3t s t o o s p s p r i4a5*6§7T8P9*0K]
+[DELETED: 0Ei t s o i t s ssRt 1 b a o p i C 1 o T 3 a t ap u t P T p o t P d n r t tpis*0§1A2m3a4p5*6( " t n m a w o e p7s8t9i t s s p s o c0s1*2(3a4c5*6§7*8C9*0(]
+[DELETED: 0EI t c o a p t m t n o a s b u tappg*§Ac0t1d2o3*4§5*6C7f8s9*0(1i2p3n4*5G6a7*8§9*0C)*]
+[DELETED: 0E(ia"abs a s a h n i t s s oc t o a s o s r t t ot0r1o2d3e4s r t r t r t r o t b o p i t5c6a7*8§9*0B1g2b3e4*5§6A7( R a h s i s r b 8c w s k o s a t a i i9a0s]
+[DELETED: 0E*(sa(w s k t a s c g t e tss*0(1s2a3( P f a a c i s r b 4c5d6e o e i v o f v T s7i8*9(0s1a2(3a s s a t a4i5i6*7(8s9a0(]
+[DELETED: 0Enrsdnoa*(0s1a2*3§4T516c e i a j f t a c e7a8*9§0*1F2N3A4§5A6s7p o o c p o a t d w 8s9r0i]
+[DELETED: 0E*§*D3 s b c w f d a t r o twEpa0F1a2o3a4c5(6a7o8(9a0o1c2o3(4a5o6G7t8c9o0S]
+[DELETED: 0ESssLs]
+
+
+================================================================================
+
+Raw Text:
+2026 Regular Session ACT No. 755 ENROLLED
+SENATE BILL NO. 300
+BY SENATOR MIZELL
+1 AN ACT
+2 To amend and reenact R.S. 39:197(13) and (19) through (21), 198(E)(2), (H)(1)(c), the
+3 introductory paragraph of (J), (J)(1)(d), 199(D)(4), 200(K), 1556(31) and (62),
+4 1594(C)(3), 1597, 1600.2(C)(4), 1602.1(C)(2), the introductory paragraph of
+5 1606(B), 1619(A)(1)(i), 1630, and 1691(A), to enact R.S. 39:1600.2(G),
+6 1619(A)(2)(k), (3)(h), (4)(f), and (5)(d), 1685(F), and 1692(D) through (G), and to
+7 repeal R.S. 39:197(22), relative to the Louisiana Procurement Code; to provide for
+8 definitions; to provide for requirements of information technology contractual review
+9 procedures; to provide for applicability; to provide for negotiation and award of
+10 contracts; to provide for bidding on contracts; to provide for advertisement and
+11 notice requirements for procurement; to provide for certain prohibitions; to provide
+12 for contract types; to provide for legal and contractual remedies; to provide relative
+13 to administrative appeals; to provide relative to commencement of actions relative
+14 to procurement; to provide for an effective date; and to provide for related matters.
+15 Be it enacted by the Legislature of Louisiana:
+16 Section 1. R.S. 39:197(13) and (19) through (21), 198(E)(2), (H)(1)(c), the
+17 introductory paragraph of (J), (J)(1)(d), 199(D)(4), 200(K), 1556(31) and (62), 1594(C)(3),
+18 1597, 1600.2(C)(4), 1602.1(C)(2), the introductory paragraph of 1606(B), 1619(A)(1)(i),
+19 1630, and 1691(A) are hereby amended and reenacted and R.S. 39:1600.2(G),
+20 1619(A)(2)(k), (3)(h), (4)(f), and (5)(d), 1685(F), and 1692(D) through (G) are hereby
+21 enacted to read as follows:
+Page 1 of 11
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SB NO. 300 ENROLLED
+1 §197. Definitions
+2 For the purposes of this Part, the following words and phrases shall be
+3 defined as follows:
+4 * * *
+5 (13) "Invitation to negotiate" means a written or electronically posted
+6 solicitation for competitive sealed replies to select one or more vendors with which
+7 to commence negotiations for the procurement of information technology systems,
+8 information technology services, software, professional services, or consulting
+9 services, or fiscal intermediary services.
+10 * * *
+11 (19) "Related services" means and is limited to service activities affecting the
+12 maintenance of information technology equipment or software and the providing of
+13 fiscal intermediary services and shall also include those consulting services ancillary
+14 to the procurement of information technology hardware or software that would
+15 otherwise be governed by the provisions of professional, personal, consulting, and
+16 social services procurement in Chapter 17 of Subtitle III of this Title. Except for
+17 consulting services ancillary to the procurement of fiscal intermediary services by
+18 cooperative purchasing, such consulting services contracts shall be limited to the
+19 lesser of twenty percent of the procurement amount or two hundred fifty thousand
+20 dollars.
+21 (20) "Rental contract" means and includes contracts between a supplier of
+22 information technology equipment and the state, or a state agency, through which
+23 information technology equipment may be leased for a term not to exceed one fiscal
+24 year, such contracts to include the right of termination by the state upon notice of
+25 ninety days or less, and to be renewable, upon review and recommendations of the
+26 procurement support team and review and approval by the office of technology
+27 services, with such renewal to be limited to one additional term not to exceed twelve
+28 months.
+29 (21)(20) "Software" means computer programs and documentation essential
+30 to and necessary for an information technology system or information technology
+Page 2 of 11
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SB NO. 300 ENROLLED
+1 service to perform productive operations.
+2 (22)(21) "Utility" means any information technology service provided by the
+3 office of technology services and used in the essential operations of a state agency,
+4 such as system authentication, data replication, and system utilization and
+5 performance management.
+6 §198. Types of contracts permitted
+7 * * *
+8 E. The use of a multiyear contract for information technology systems,
+9 information technology services, and professional services contracts and consulting
+10 services contracts related to information technology shall be in accordance with rules
+11 and regulations and under the following conditions:
+12 * * *
+13 (2) The director of the state purchasing office of state procurement shall
+14 approve in writing the use of a multi-year contract over three years, not to exceed
+15 five years.
+16 * * *
+17 H. Rental Contracts. Upon the advance written approval of the state central
+18 purchasing agency, state agencies may enter into contracts for the rental of
+19 information technology equipment and related services on a month-to- month basis
+20 for a period not to extend beyond the end of the fiscal year in which the contract is
+21 made. All such contracts shall be entered into only as a result of competitive sealed
+22 bidding procedures.
+23 (1) Equipment currently installed, or installed at the beginning of a fiscal year
+24 under a valid rental contract, may be retained at the end of the fiscal year by
+25 renewing or extending the existing rental contract for one additional term, not to
+26 exceed twelve months, without competitive sealed bidding procedures, subject to the
+27 following provisions:
+28 * * *
+29 (c) Renewal of a rental contract shall be subject to the advance review and
+30 recommendation of the procurement support team and to the advance written
+Page 3 of 11
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SB NO. 300 ENROLLED
+1 approval of the state central purchasing agency and shall be permitted only if any
+2 proposed price increases do not exceed the supplier's current published list prices.
+3 * * *
+4 J. Master Agreements. The state director of purchasing chief procurement
+5 officer may enter into master agreements with vendors with which the state conducts
+6 substantial business over a period of time.
+7 (1) Such agreements shall set forth those terms and conditions of specific
+8 legal import which relate to the basic provisions according to which procurement
+9 activity will be conducted, and shall meet the following requirements:
+10 * * *
+11 (d) Each master agreement must be negotiated by a procurement support
+12 team and executed on behalf of the state by the state director of purchasing chief
+13 procurement officer.
+14 * * *
+15 §199. Methods of procurement
+16 * * *
+17 D. Method for procuring software and software maintenance and support
+18 services.
+19 * * *
+20 (4) The procurement support team shall develop and deliver to the office of
+21 state procurement and the office of technology services proposed rules establishing
+22 guidelines for procurement activities under this Part. Upon approval of the office of
+23 technology services, the office of state procurement shall promulgate rules in
+24 accordance with the Administrative Procedure Act.
+25 * * *
+26 §200. General provisions
+27 The following general provisions shall apply to all procurements under this
+28 Part:
+29 * * *
+30 K. The provisions of this Part shall, with respect to the procurement of
+Page 4 of 11
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SB NO. 300 ENROLLED
+1 information technology systems or information technology services, supersede
+2 specifications of any contradictory or conflicting provisions of the following statutes:
+3 R.S. 38:2211 et seq. with respect to awarding of public contracts and R.S. 39:1551
+4 through 1736, but all other provisions in Chapter 17 of Title 39 apply to all
+5 procurements under this Part. The provisions of this Part do not relate to the
+6 procurement of services covered by R.S. 39:1481 through 1526 except as provided
+7 in R.S. 39:198. The Louisiana Lease of Movables Act, R.S. 9:3301 through 3342,
+8 shall not apply to the provisions of this Part.
+9 * * *
+10 §1556. Definitions
+11 As used in this Chapter, the words defined in this Section shall have the
+12 meanings set forth below, unless the context in which they are used clearly requires
+13 a different meaning or a different definition is prescribed for a particular Part or
+14 provision:
+15 * * *
+16 (31) "Invitation to negotiate" means a written or electronically posted
+17 solicitation for competitive sealed replies to select one or more vendors with which
+18 to commence negotiations for the procurement of information technology systems,
+19 information technology services, software, professional services, or consulting
+20 services, or fiscal intermediary services.
+21 * * *
+22 (62) "Using agency" means any governmental body of the state which utilizes
+23 any supplies, services, or major repairs, or professional services, personal services,
+24 consulting services, or social services purchased under this Chapter.
+25 * * *
+26 §1594. Competitive sealed bids
+27 * * *
+28 C. Public notice.
+29 * * *
+30 (3) Each advertisement may be published in the official journal of the state.
+Page 5 of 11
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SB NO. 300 ENROLLED
+1 In the case of any purchase to meet the needs of a single budget unit the
+2 advertisement shall may be published also in a newspaper of general circulation
+3 printed in the parish in which the budget unit is situated or, if there is no newspaper
+4 printed in the parish, in a newspaper printed in the nearest parish, which has a
+5 general circulation in the parish in which the budget unit is situated.
+6 * * *
+7 §1597. Sole source procurements
+8 A contract may be awarded for a required supply, service, or major repair,
+9 consulting service, or social service, without competition when, under regulations,
+10 the chief procurement officer or his designee above the level of procurement officer
+11 determines in writing that there is only one source for the required supply, service,
+12 or major repair item, consulting service, or social service.
+13 * * *
+14 §1600.2. Invitation to negotiate
+15 * * *
+16 C. The invitation to negotiate shall describe the questions being explored, the
+17 facts being sought, and the specific goals or problems that are the subject of the
+18 solicitation and shall be subject to all of the following conditions:
+19 * * *
+20 (4) Auction techniques and Insights gained during the negotiation process,
+21 including items of cost, may be used to refine a solution. However, disclosure of
+22 proprietary information derived from competing proposals are is prohibited while
+23 negotiations are underway.
+24 * * *
+25 G. All records related to the solicitation shall be public records upon
+26 award of the contract or contracts, unless otherwise excepted by law.
+27 * * *
+28 §1602.1. Prohibition of discriminatory boycotts of Israel in state procurement
+29 * * *
+30 C.(1) * * *
+Page 6 of 11
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SB NO. 300 ENROLLED
+1 (2) All competitive sealed bids and, competitive sealed proposals, and
+2 invitations to negotiate issued for procurement contracts with executive branch
+3 agencies shall include the text of the following certification:
+4 "By submitting a response to this solicitation, the bidder or proposer certifies
+5 and agrees that the following information is correct: In preparing its response, the
+6 bidder or proposer has considered all proposals submitted from qualified, potential
+7 subcontractors and suppliers, and has not, in the solicitation, selection, or
+8 commercial treatment of any subcontractor or supplier, refused to transact or
+9 terminated business activities, or taken other actions intended to limit commercial
+10 relations, with a person or entity that is engaging in commercial transactions in Israel
+11 or Israeli-controlled territories, with the specific intent to accomplish a boycott or
+12 divestment of Israel. The bidder also has not retaliated against any person or other
+13 entity for reporting such refusal, termination, or commercially limiting actions. The
+14 state reserves the right to reject the response of the bidder or proposer if this
+15 certification is subsequently determined to be false, and to terminate any contract
+16 awarded based on such a false response."
+17 * * *
+18 §1606. Responsibility of bidders and proposers
+19 * * *
+20 B. Whenever the chief procurement officer, commissioner, or head of a
+21 governmental body with such authority proposes to disqualify the lowest bidder on
+22 bids of five thousand dollars or more that exceed the amount established by
+23 executive order of the governor pursuant to R.S. 39:1596, such individual shall:
+24 * * *
+25 §1619. Social service contracts
+26 A. Social services include:
+27 (1) Rehabilitation and health supports include services rendered by a
+28 contractor with special knowledge or service available to assist individuals in
+29 attaining or maintaining a favorable condition of physical and mental health. These
+30 services include but are not limited to:
+Page 7 of 11
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SB NO. 300 ENROLLED
+1 * * *
+2 (i) Other services in support of same, including the furnishing of support
+3 staff with specialized training to support the underlying social service objectives
+4 and deliverables.
+5 (2) Habilitation and socialization include services rendered by a contractor
+6 with special knowledge to assist specified client groups to enhance their
+7 self-sufficiency or alleviate their dependency or isolation from the community. These
+8 services include but are not limited to:
+9 * * *
+10 (k) Other services in support of same, including the furnishing of support
+11 staff with specialized training to support the underlying social service objectives
+12 and deliverables.
+13 (3) Protection for adults and children include services rendered by a
+14 contractor to provide therapeutic intervention for adults or children who are in
+15 danger or threatened with danger of physical or mental injury, neglect, maltreatment,
+16 extortion, or exploitation, including victims of family violence. These services
+17 include but are not limited to:
+18 * * *
+19 (h) Other services in support of same, including the furnishing of support
+20 staff with specialized training to support the underlying social service objectives
+21 and deliverables.
+22 (4) Improvement of living conditions and health include services rendered by
+23 an authorized contractor with special knowledge or services available to assist
+24 individuals to attain or maintain favorable conditions in which to live. These services
+25 include but are not limited to:
+26 * * *
+27 (f) Other services in support of same, including the furnishing of support
+28 staff with specialized training to support the underlying social service objectives
+29 and deliverables.
+30 (5) Evaluation, testing, and remedial educational services for exceptional
+Page 8 of 11
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SB NO. 300 ENROLLED
+1 nonpublic school students with physical or learning disabilities include services
+2 rendered by a contractor with special knowledge or services available to provide
+3 special educational and related services for exceptional students or students with
+4 disabilities voluntarily enrolled in approved nonpublic schools of Louisiana who are
+5 not otherwise provided with such services through either their local school program
+6 or through other services afforded to them by local school boards or other public
+7 agencies. These services include but are not limited to:
+8 * * *
+9 (d) Other services in support of same, including the furnishing of support
+10 staff with specialized training to support the underlying social service objectives
+11 and deliverables.
+12 * * *
+13 §1630. Finality of determinations
+14 The determinations required by R.S. 39:1568.1, 1597, 1598(C), 1605, 1606,
+15 1608(C), 1612(A), 1614, and 1671(F) are final and conclusive unless the reviewing
+16 court, exercising its appellate jurisdiction, finds they are clearly erroneous,
+17 arbitrary, capricious, or contrary to law.
+18 * * *
+19 §1685. Contract and breach of contract controversies
+20 * * *
+21 F. A final decision of the commissioner may be made executory by the
+22 Nineteenth Judicial District Court in accordance with Code of Civil Procedure
+23 Article 2782.
+24 §1691. Venue of actions by or against the state in connection with contracts
+25 A. Solicitation and award of contracts. The Nineteenth Judicial District Court
+26 shall have exclusive venue over an action between the state and a person, bidder,
+27 proposer, offerer, or contractor, prospective or actual, to determine whether a
+28 solicitation or award of a contract is in accordance with the constitution, statutes,
+29 regulations, and the terms and conditions of the solicitation. Such actions shall
+30 invoke, and the court shall exercise, only the appellate jurisdiction of the court.
+Page 9 of 11
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SB NO. 300 ENROLLED
+1 * * *
+2 §1692. Commencement of actions
+3 * * *
+4 D. Actions requesting judicial review of any determination listed in R.S.
+5 39:1630 shall be commenced within fourteen days after the receipt of the
+6 written determination.
+7 E. All actions under R.S. 39:1691 shall be instituted by the filing of a
+8 petition for judicial review in the Nineteenth Judicial District Court invoking,
+9 and the court shall exercise, only appellate jurisdiction.
+10 F.(1) In any petition for judicial review filed pursuant to R.S. 39:1691(A),
+11 a copy of the petition for judicial review shall be served upon the commissioner
+12 of administration, the head of the agency which issued the solicitation, and, if
+13 applicable, the person awarded the contract. The head of the using agency is the
+14 chief executive or administrative officer of the using agency.
+15 (2) In any petition for judicial review filed pursuant to R.S. 39:1691(B),
+16 a copy of the petition for judicial review shall be served upon the commissioner
+17 of administration.
+18 (3) In any petition for judicial review filed pursuant to R.S. 39:1691(C),
+19 a copy of the petition for judicial review shall be served upon the commissioner
+20 of administration and the head of the using agency which is a party to the
+21 contract. The head of the using agency is the chief executive or administrative
+22 officer of the using agency.
+23 (4) In any petition for judicial review filed pursuant to R.S. 39:1692(D),
+24 a copy of the petition for judicial review shall be served upon the commissioner
+25 of administration and the chief procurement officer.
+26 G. Within sixty days after the service of the service of the petition upon
+27 the commissioner of administration, or within further time allowed by the
+28 court, the division of administration shall transmit to the reviewing court the
+29 original or a certified copy of the administrative record.
+30 Section 2. R.S. 39:197(22) is hereby repealed in its entirety.
+Page 10 of 11
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SB NO. 300 ENROLLED
+1 Section 3. This Act shall become effective upon signature by the governor or, if not
+2 signed by the governor, upon expiration of the time for bills to become law without the
+3 signature by the governor, as provided by Article III, Section 18 of the Constitution of
+4 Louisiana. If vetoed by the governor and subsequently approved by the legislature, this Act
+5 shall become effective on the say following such approval.
+PRESIDENT OF THE SENATE
+SPEAKER OF THE HOUSE OF REPRESENTATIVES
+GOVERNOR OF THE STATE OF LOUISIANA
+APPROVED:
+Page 11 of 11
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+[DELETED: nEATi p o ( ( 1 a (1 1 1 1 t i p o1 1 1 a 1 t e R 31rdp0c1n2f3t4t5B6S 1 R 3 a ( t ( 1 ( t7i8191 a 1 a h a a r a R 3011e]
+[DELETED: 0E§Fd*( " t n m a w o e psti t s s p s o cs0*1(2m3f4t5o6s7c8c9l0d1(2i3i4y5n6p7s8m9(0t]
+[DELETED: 0Es(os a s a d r a s u ap§*E T u o a m c f i t si0s1a2*3(4a5f6*7H8p a s a m e i c f t r o9i0f1m2b3(4u a v r c m b r a t e o t f y b5r6e7f8*9(0r o t p s t a t t a w]
+[DELETED: 0Eap*Jos(la0*1(2t3p4*5§6*7D8s9*0(1s2g3t s t o o s p s p r i4a5*6§7T8P9*0K]
+[DELETED: 0Ei t s o i t s ssRt 1 b a o p i C 1 o T 3 a t ap u t P T p o t P d n r t tpis*0§1A2m3a4p5*6( " t n m a w o e p7s8t9i t s s p s o c0s1*2(3a4c5*6§7*8C9*0(]
+[DELETED: 0EI t c o a p t m t n o a s b u tappg*§Ac0t1d2o3*4§5*6C7f8s9*0(1i2p3n4*5G6a7*8§9*0C)*]
+[DELETED: 0E(ia"abs a s a h n i t s s oc t o a s o s r t t ot0r1o2d3e4s r t r t r t r o t b o p i t5c6a7*8§9*0B1g2b3e4*5§6A7( R a h s i s r b 8c w s k o s a t a i i9a0s]
+[DELETED: 0E*(sa(w s k t a s c g t e tss*0(1s2a3( P f a a c i s r b 4c5d6e o e i v o f v T s7i8*9(0s1a2(3a s s a t a4i5i6*7(8s9a0(]
+[DELETED: 0Enrsdnoa*(0s1a2*3§4T516c e i a j f t a c e7a8*9§0*1F2N3A4§5A6s7p o o c p o a t d w 8s9r0i]
+[DELETED: 0E*§*D3 s b c w f d a t r o twEpa0F1a2o3a4c5(6a7o8(9a0o1c2o3(4a5o6G7t8c9o0S]
+[DELETED: 0ESssLs]

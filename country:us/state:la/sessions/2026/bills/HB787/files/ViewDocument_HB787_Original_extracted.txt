@@ -1,0 +1,134 @@
+Title: HOUSE BILL NO. 787
+Official Title: HOUSE BILL NO. 787
+Number of Sections: 1
+Source: versions - HB787 Original
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+HLS 26RS-376 ORIGINAL
+2026 Regular Session
+BY REPRESENTATIVE MCMAKIN
+CURRICULA: Removes successful completion of a computer science course as a
+requirement for TOPS qualification
+1 AN ACT
+2 To amend and reenact R.S. 17:5026(A)(5) and to repeal R.S. 17:5025(8), 5025.7, and
+3 5026(F), relative to curricula; to remove Computer Science as a requirement for
+4 qualification for TOPS awards; to provide for applicability; and to provide for related
+5 matters.
+6 Be it enacted by the Legislature of Louisiana:
+7 Section 1. R.S. 17:5026(A)(5) is hereby amended and reenacted to read as follows:
+8 §5026. High school core curriculum requirements; TOPS-Tech
+9 A. To be eligible for a TOPS-Tech Award pursuant to this Chapter, the
+10 student shall have successfully completed the core curriculum requirements of R.S.
+11 17:5025 or the core curriculum defined as follows:
+12 * * *
+13 (5) At least nine credits in Jump Start course sequences, workplace
+14 experiences, and credentials. A student shall complete a regionally designed series
+15 of Career and Technical Education Jump Start coursework and workplace-based
+16 learning experiences leading to a statewide or regional Jump Start credential. This
+17 shall include courses and workplace experiences specific to the credential, courses
+18 related to foundational career skills requirements in Jump Start, and other courses,
+19 including career electives, that the Jump Start regional team determines are
+20 appropriate for the career major. One of these credits shall be Computer Science,
+Page 1 of 2
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-376 ORIGINAL
+HB NO. 787
+1 unless Computer Science is taken to fulfill one credit as provided in Paragraph (2)
+2 or (3) of this Subsection.
+3 * * *
+4 Section 2. R.S. 17:5025(8), 5025.7, and 5026(F) are hereby repealed in their entirety.
+DIGEST
+The digest printed below was prepared by House Legislative Services. It constitutes no part
+of the legislative instrument. The keyword, one-liner, abstract, and digest do not constitute
+part of the law or proof or indicia of legislative intent. [R.S. 1:13(B) and 24:177(E)]
+HB 787 Original 2026 Regular Session McMakin
+Abstract: Removes completion of a Computer Science course as a requirement for
+qualification for TOPS.
+Present law provides for the Taylor Opportunity Program for Students (TOPS), a merit
+scholarship program for students who meet certain academic criteria in high school and other
+requirements. Provides for five award levels based on high school academic criteria,
+including completion of a specific core curriculum, a minimum GPA on that core
+curriculum, and a minimum ACT score: TOPS-Tech, Opportunity, Performance, Honors,
+and Excellence.
+Proposed law retains present law.
+Present law requires completion of a one unit Computer Science course to quality for any
+level of TOPS award, starting with students who graduate during the 2030-2031 school year.
+Proposed law removes this requirement from the core curriculum.
+(Amends R.S. 17:5025(intro. para.) and 5026(A)(5); Repeals R.S. 17:5025(8), 5025.7, and
+5026(F))
+Page 2 of 2
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+[DELETED: 6O  R s c o a c s c a   A l n c i J S c s w c e t t J S r t d a]
+[DELETED: 6Ol2nM  R c o a C S c a a r f P f b h s a c o a s c c a m G o t c]
+
+
+================================================================================
+
+Raw Text:
+HLS 26RS-376 ORIGINAL
+2026 Regular Session
+HOUSE BILL NO. 787
+BY REPRESENTATIVE MCMAKIN
+CURRICULA: Removes successful completion of a computer science course as a
+requirement for TOPS qualification
+1 AN ACT
+2 To amend and reenact R.S. 17:5026(A)(5) and to repeal R.S. 17:5025(8), 5025.7, and
+3 5026(F), relative to curricula; to remove Computer Science as a requirement for
+4 qualification for TOPS awards; to provide for applicability; and to provide for related
+5 matters.
+6 Be it enacted by the Legislature of Louisiana:
+7 Section 1. R.S. 17:5026(A)(5) is hereby amended and reenacted to read as follows:
+8 §5026. High school core curriculum requirements; TOPS-Tech
+9 A. To be eligible for a TOPS-Tech Award pursuant to this Chapter, the
+10 student shall have successfully completed the core curriculum requirements of R.S.
+11 17:5025 or the core curriculum defined as follows:
+12 * * *
+13 (5) At least nine credits in Jump Start course sequences, workplace
+14 experiences, and credentials. A student shall complete a regionally designed series
+15 of Career and Technical Education Jump Start coursework and workplace-based
+16 learning experiences leading to a statewide or regional Jump Start credential. This
+17 shall include courses and workplace experiences specific to the credential, courses
+18 related to foundational career skills requirements in Jump Start, and other courses,
+19 including career electives, that the Jump Start regional team determines are
+20 appropriate for the career major. One of these credits shall be Computer Science,
+Page 1 of 2
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-376 ORIGINAL
+HB NO. 787
+1 unless Computer Science is taken to fulfill one credit as provided in Paragraph (2)
+2 or (3) of this Subsection.
+3 * * *
+4 Section 2. R.S. 17:5025(8), 5025.7, and 5026(F) are hereby repealed in their entirety.
+DIGEST
+The digest printed below was prepared by House Legislative Services. It constitutes no part
+of the legislative instrument. The keyword, one-liner, abstract, and digest do not constitute
+part of the law or proof or indicia of legislative intent. [R.S. 1:13(B) and 24:177(E)]
+HB 787 Original 2026 Regular Session McMakin
+Abstract: Removes completion of a Computer Science course as a requirement for
+qualification for TOPS.
+Present law provides for the Taylor Opportunity Program for Students (TOPS), a merit
+scholarship program for students who meet certain academic criteria in high school and other
+requirements. Provides for five award levels based on high school academic criteria,
+including completion of a specific core curriculum, a minimum GPA on that core
+curriculum, and a minimum ACT score: TOPS-Tech, Opportunity, Performance, Honors,
+and Excellence.
+Proposed law retains present law.
+Present law requires completion of a one unit Computer Science course to quality for any
+level of TOPS award, starting with students who graduate during the 2030-2031 school year.
+Proposed law removes this requirement from the core curriculum.
+(Amends R.S. 17:5025(intro. para.) and 5026(A)(5); Repeals R.S. 17:5025(8), 5025.7, and
+5026(F))
+Page 2 of 2
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+[DELETED: 6O  R s c o a c s c a   A l n c i J S c s w c e t t J S r t d a]
+[DELETED: 6Ol2nM  R c o a C S c a a r f P f b h s a c o a s c c a m G o t c]

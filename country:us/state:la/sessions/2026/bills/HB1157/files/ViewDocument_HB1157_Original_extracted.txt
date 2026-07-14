@@ -1,0 +1,1436 @@
+Title: HOUSE BILL NO. 1157
+Official Title: HOUSE BILL NO. 1157
+Number of Sections: 1
+Source: versions - HB1157 Original
+Media Type: application/pdf
+Strikethrough Detection: 18 sections found
+
+================================================================================
+
+Section 1:
+HLS 26RS-1471 ORIGINAL
+2026 Regular Session
+BY REPRESENTATIVE BOURRIAQUE
+TRANSPORTATION DEPT: Provides for funding to certain entities for infrastructure
+related projects within the Department of Transportation and Development
+1 AN ACT
+2 To enact R.S. 36:4(B)(39), R.S. 48:77.3, and Subpart B of Part V of Chapter 1 of Title 48
+3 of the Louisiana Revised Statutes of 1950, to be comprised of R.S. 48:81 through 87,
+4 relative to funding certain entities for infrastructure related projects; to create the
+5 Louisiana State Infrastructure Bank within the office of the governor; to provide for
+6 a board of directors; to provide for membership, duties, and authority of the board;
+7 to provide for technical support coordination with the Department of Transportation
+8 and Development, the Louisiana Department of Treasury, and Louisiana Economic
+9 Development; to provide for adoption of bylaws, rules, and regulations by the board;
+10 to create the Louisiana State Infrastructure Fund; to create certain special accounts
+11 within the fund; to provide for receipt, administration, and expenditure of monies
+12 allotted for the fund; to provide for investment and disposition of monies of the fund;
+13 to authorize the bank to incur debt and issue bonds, notes, or other evidences of
+14 indebtedness and to guarantee the debt of other entities; to authorize loans and other
+15 financial assistance from the fund to certain entities, including private entities
+16 participating in public infrastructure projects as permitted by federal law; to provide
+17 procedures to enter into such indebtedness; to provide for definitions; to provide for
+18 an effective date; and to provide for related matters.
+Page 1 of 18
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-1471 ORIGINAL
+HB NO. 1157
+1 Be it enacted by the Legislature of Louisiana:
+2 Section 1. R.S. 36:4(B)(39) is hereby enacted to read as follows:
+3 §4. Structure of executive branch of state government
+4 * * *
+5 B. The office of the governor shall be in the executive branch of state
+6 government. The governor may allocate within his office the powers, duties, funds,
+7 functions, appropriations, responsibilities, and personnel of the agencies within his
+8 office and provide for the administration thereof and for the organization of his
+9 office. The following agencies and their powers, duties, functions, and
+10 responsibilities are hereby transferred to the office of the governor:
+11 * * *
+12 (39) The Louisiana State Infrastructure Bank (R.S. 48:81 et seq.).
+13 * * *
+14 Section 2. R.S. 48:77.3 and Subpart B of Part V of Chapter 1 of Title 48 of the
+15 Louisiana Revised Statutes of 1950, to be comprised of R.S. 48:81 through 87, are hereby
+16 enacted to read as follows:
+17 §77.3. Louisiana State Infrastructure Fund
+18 A. There is hereby created in the state treasury a special fund to be
+19 designated as the Louisiana State Infrastructure Bank Fund, hereinafter referred to
+20 as the "fund", for the purpose of capitalizing a state infrastructure bank.
+21 (1)(a) There is hereby created as a special account in the fund to be
+22 designated and referred to in this Section as the Highway Account. The source of
+23 monies in this account shall be any monies appropriated by the legislature to the
+24 account, including federal funds as authorized by 23 U.S.C. 610, proceeds from
+25 federal credit instruments and programs, including those administered by the United
+26 States Department of Transportation Build America Bureau, interest earned on the
+27 investment of monies in the account, repayments of principal and interest from loans
+28 made by the Louisiana State Infrastructure Bank from the account, private donations,
+29 public grants, and any other monies as may be provided by law.
+Page 2 of 18
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-1471 ORIGINAL
+HB NO. 1157
+1 (b) Monies in the Highway Account shall only be used by the Louisiana
+2 State Infrastructure Bank in connection with eligible infrastructure projects meeting
+3 the funding eligibility requirements of Title 23 of the United States Code.
+4 (2)(a) There is hereby created as a special account in the fund to be
+5 designated and referred to in this Section as the Transit Account. The source of
+6 monies in this account shall be any monies appropriated by the legislature to the
+7 account, including federal funds authorized by Title 49 of the United States Code,
+8 proceeds from federal credit instruments and programs, including those administered
+9 by the United States Department of Transportation Build America Bureau, interest
+10 earned on the investment of monies in the account, repayments of principal and
+11 interest from loans made by the Louisiana State Infrastructure Bank from the
+12 account, private donations, public grants, and any other monies as may be provided
+13 by law.
+14 (b) Monies in the Transit Account shall only be used by the Louisiana State
+15 Infrastructure Bank in connection with eligible infrastructure projects meeting the
+16 funding eligibility requirements of Title 49 of the United States Code.
+17 (3)(a) There is hereby created as a special account in the fund to be
+18 designated and referred to in this Section as the Rail Account. The source of monies
+19 in this account shall be any monies appropriated by the legislature to the account,
+20 including federal funds authorized by Subtitle V of Title 49 of the United States
+21 Code, proceeds from federal credit instruments and programs, including those
+22 administered by the United States Department of Transportation Build America
+23 Bureau, interest earned on the investment of monies in the account, repayments of
+24 principal and interest from loans made by the Louisiana State Infrastructure Bank
+25 from the account, private donations, public grants, and any other monies as may be
+26 provided by law.
+27 (b) Monies in the Rail Account shall only be used by the Louisiana State
+28 Infrastructure Bank in connection with eligible infrastructure projects meeting the
+29 funding eligibility requirements of Subtitle V of Title 49 of the United States Code.
+Page 3 of 18
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-1471 ORIGINAL
+HB NO. 1157
+1 (4)(a) There is hereby created as a special account in the fund to be
+2 designated and referred to in this Section as the State-Funded Account. The source
+3 of monies in this account shall be any monies appropriated by the legislature to the
+4 account, interest earned on the investment of monies in the account, repayments of
+5 principal and interest from loans made by the Louisiana State Infrastructure Bank
+6 from the account, private donations, public grants, and any other monies as may be
+7 provided by law. No funds authorized by Title 23 or Title 49 of the United States
+8 Code shall be deposited in the account.
+9 (b) Monies in the State-Funded Account may be used by the state
+10 infrastructure bank in connection with any eligible infrastructure project allowed by
+11 law.
+12 B. Any use of federal credit instruments or programs to capitalize the bank
+13 shall be subject to approval by the State Bond Commission.
+14 C. All repayments of principal and interest from loans made by the Louisiana
+15 State Infrastructure Bank shall be credited to the same account from which the loan
+16 was originally provided.
+17 D. Monies in the fund shall be invested by the state treasurer in a separate
+18 portfolio in the same manner as allowed for monies in the state general fund. While
+19 monies from different accounts within the fund may be pooled for investment
+20 purposes, the state treasurer shall maintain separate accountings for each account.
+21 Earnings generated from investment of the monies in the fund shall be allocated
+22 pro-rata among the accounts that generated the earnings. Monies in the fund shall
+23 be available to pay costs directly attributable to investment, and shall be apportioned
+24 pro-rata among the accounts that generated the costs.
+25 E. All unexpended and unencumbered monies in the fund at the end of the
+26 fiscal year shall remain in the fund and shall not revert to the state general fund.
+Page 4 of 18
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-1471 ORIGINAL
+HB NO. 1157
+1 SUBPART B. LOUISIANA STATE INFRASTRUCTURE BANK
+2 §81. Definitions
+3 For purposes of this Subpart, the following terms have the meanings ascribed
+4 to them as follows:
+5 (1) "Bank" means the Louisiana State Infrastructure Bank.
+6 (2) "Board" means the board of directors of the bank.
+7 (3) "Eligible costs" means the following:
+8 (a) For an eligible infrastructure project to be financed from the bank's
+9 Highway Account, the costs permitted under Title 23 of the United States Code and
+10 Code of Federal Regulations.
+11 (b) For an eligible infrastructure project to be financed from the bank's
+12 Transit Account, the costs permitted under Title 49 of the United States Code and
+13 Code of Federal Regulations.
+14 (c) For an eligible infrastructure project to be financed from the bank's Rail
+15 Account, the costs permitted under Subtitle V of Title 49 of the United States Code
+16 and Subtitle B, Chapter II of Title 49 of the Code of Federal Regulations.
+17 (d) For an eligible infrastructure project to be financed from the bank's
+18 State-Funded Account, all costs associated with the design, construction, or
+19 improvement of public infrastructure, including but not limited to costs for
+20 preliminary engineering, design, permitting, right-of-way acquisition, legal and
+21 financial services, construction, and construction management, or the provision of
+22 transportation services.
+23 (4) "Eligible infrastructure project" means activities undertaken to plan,
+24 design, construct, repair, maintain, or improve transportation facilities intended for
+25 use by the public that have been permitted or approved by the applicable technical
+26 and regulatory agencies pursuant to R.S. 48:85 and selected by the bank's board to
+27 receive a loan or other financial assistance for the payment of eligible costs.
+28 (5) "Financing agreement" means any agreement entered into between the
+29 bank and a qualified borrower pertaining to a loan or other financial assistance,
+Page 5 of 18
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-1471 ORIGINAL
+HB NO. 1157
+1 including without limiting a loan agreement, trust indenture, security agreement,
+2 reimbursement agreement, guarantee agreement, bond or note, ordinance or
+3 resolution, or similar instrument.
+4 (6) "Financial assistance" means the provision of money or its equivalent
+5 subject to an obligation of repayment in any manner authorized by law, including but
+6 not limited to direct disbursements and revolving lines of credit.
+7 (7) "Loan" means the provision of financial assistance by the bank to a
+8 qualified borrower for all or part of the eligible costs of an eligible infrastructure
+9 project in exchange for corresponding obligations, including repayment owed by the
+10 qualified borrower to the bank.
+11 (8) "Political subdivision" means a parish, municipality, or any other unit of
+12 local government, including a school board or special district, authorized by law to
+13 perform governmental services.
+14 (9) "Project revenues" means all rates, rents, fees, assessments, charges,
+15 grants, appropriations, availability payments, pledged taxes, dedicated revenues, user
+16 charges, insurance-related proceeds, and other receipts derived or to be derived from
+17 an eligible infrastructure project or made available from a special source, including
+18 revenues of any system of which the project is a part, as provided in an applicable
+19 financing agreement.
+20 (10) "Qualified borrower" means:
+21 (a) Any political subdivision authorized to undertake, construct, operate, or
+22 own an eligible infrastructure project.
+23 (b) Any private entity, including a concessionaire or special purpose entity,
+24 participating in an eligible infrastructure project with the approval or consent of the
+25 relevant regulatory or technical agencies, including but not limited to participants in
+26 a public-private partnership, to the extent permitted by applicable law, provided that
+27 the board determines that the assistance is adequately secured pursuant to R.S. 48:86.
+Page 6 of 18
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-1471 ORIGINAL
+HB NO. 1157
+1 §82. Louisiana State Infrastructure Bank; legislative findings; creation; purposes
+2 A. The legislature finds the following:
+3 (1) There is a critical need to increase investment in the development and
+4 maintenance of Louisiana's transportation infrastructure to promote economic growth
+5 and the ability of business and industry competition in regional, national, and global
+6 markets and to improve the quality of life for the people of this state.
+7 (2) While grant funding remains an important tool for infrastructure
+8 investment, increasing project costs and expanding federal credit opportunities
+9 require complementary financing mechanisms. A revolving loan program allows the
+10 state to maximize available resources, protect taxpayers, and reinvest repayments
+11 into future infrastructure needs.
+12 B. There is hereby created within the office of the governor the "Louisiana
+13 State Infrastructure Bank", hereinafter referred to as the "bank", which shall be
+14 allocated to the office of the governor as an agency of the state.
+15 C. The purpose of the bank shall be to select and provide loans or other
+16 financial assistance to qualified borrowers for in financing eligible infrastructure
+17 projects by providing loans and other financial assistance to qualified borrowers for
+18 planning, constructing, improving, rehabilitating, and making resilient infrastructure
+19 facilities necessary for public purposes.
+20 D. Any loan or other financial assistance provided pursuant to this Subpart
+21 shall be made pursuant to a financing agreement between the bank and a qualified
+22 borrower.
+23 E. The bank is established as a revolving loan and credit assistance program
+24 that administers both federal and state funds in accordance with applicable federal
+25 and state laws and regulations, except where required by applicable federal law, the
+26 bank shall not provide grants. All assistance shall be structured to ensure repayment
+27 and the continued revolving use of funds. Nothing in this Subpart shall be construed
+28 to supersede or diminish the authority of any state agency to administer its existing
+29 infrastructure programs.
+Page 7 of 18
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-1471 ORIGINAL
+HB NO. 1157
+1 §83. Louisiana State Infrastructure Bank; board of directors
+2 A. The bank shall be governed, administered, and operated by a board of
+3 directors composed of the following members:
+4 (1) The director of the office of rural development or his designee.
+5 (2) The chair of the Joint Legislative Committee on the Budget or his
+6 designee.
+7 (3) The secretary of the Department of Transportation and Development or
+8 his designee.
+9 (4) The secretary of Louisiana Economic Development or his designee.
+10 (5) One member appointed by a majority of the other members from among
+11 three persons nominated by the Louisiana Bankers Association with not less than
+12 five years of experience in commercial lending or investment banking.
+13 (6) One member appointed by the State Board of Certified Public
+14 Accountants of Louisiana with no less than five years of experience in accounting
+15 and auditing standards.
+16 B. Appointed members shall serve a term of three years. All vacancies shall
+17 be filled in the same manner as provided in the original appointment.
+18 C.(1) The board shall adopt bylaws and conduct meetings in accordance with
+19 the Open Meetings Law.
+20 (2) The director of the office of rural development or his designee shall serve
+21 as chair of the board.
+22 D. The board shall be staffed by the office of the governor, which may enter
+23 into interagency agreements with the Louisiana Department of Transportation and
+24 Development, the Louisiana Department of Treasury, and Louisiana Economic
+25 Development for technical review, underwriting support, and program coordination.
+26 §84. Board of directors; powers and duties
+27 A. In addition to the powers contained in this Subpart, the board shall have
+28 all powers necessary, useful, or appropriate to operate the bank and finance eligible
+29 infrastructure projects, including but not limited to:
+Page 8 of 18
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-1471 ORIGINAL
+HB NO. 1157
+1 (1) Perpetual succession.
+2 (2) Pursue any necessary legal action upon written approval of the attorney
+3 general and to be sued in the name of the bank.
+4 (3) Adopt an official seal.
+5 (4) Grant loans, acquire and sell loan obligations, and provide other financial
+6 assistance pursuant to cooperative endeavor agreements.
+7 (5) Enter contracts and execute financing agreements and related
+8 instruments.
+9 (6) Establish program rules and underwriting standards pursuant to the
+10 Administrative Procedure Act, including risk management policies, portfolio
+11 concentration limits, and procedures for default and remedies. The procedures may
+12 also include stress testing requirements and loss-reserve requirements consistent with
+13 those applicable to commercial banks.
+14 (7) Establish fiscal controls and accounting procedures.
+15 (8) Enter into agreements with any agency or instrumentality of the United
+16 States, agencies, instrumentalities, and political subdivisions of the state of
+17 Louisiana, agencies, instrumentalities and political subdivisions of another states, or
+18 private individuals for the purpose financing eligible infrastructure projects.
+19 (9) Procure insurance, guarantees, letters of credit, and other credit support.
+20 (10) Borrow money with approval of the State Bond Commission.
+21 (11) Issue bonds, notes, or other evidence of indebtedness as provided in this
+22 Subpart.
+23 (12) Collect fees and charges in connection with loans or other assistance at
+24 amounts either at or below the rates used by commercial banks.
+25 (13) Accept and hold funds deposited with the bank by the federal
+26 government, the state, governmental units, or private entities, with or without
+27 payment of interest, as allowed by law.
+28 (14) Establish advisory committees, including one or more technical review
+29 committees comprised of representatives from the Louisiana Department of
+Page 9 of 18
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-1471 ORIGINAL
+HB NO. 1157
+1 Transportation and Development, Louisiana Department of Treasury, Louisiana
+2 Economic Development, and Louisiana office of rural development, to provide
+3 recommendations on project eligibility, readiness for advancement, potential
+4 economic development benefits, environmental compliance, or other matters
+5 requiring specialized technical expertise.
+6 (15) Retain financial advisors, legal counsel, investment advisors, credit
+7 analysts, servicers, and other professional services necessary to carry out the
+8 purposes of the bank.
+9 (16) Implement the bank in phases, including initial capitalization or lending
+10 limits, and shall report to the legislature on program performance prior to expansion.
+11 (17) Enter into agreements and take all actions necessary to receive,
+12 administer, and comply with the requirements of any federal assistance program,
+13 including execution of assurances, certifications, and compliance instruments
+14 required by applicable federal law.
+15 B. Following the close of each fiscal year, the board shall submit an annual
+16 report to the governor and the legislature no later than September first, including a
+17 summary of capitalization, portfolio performance, defaults, leverage, and project
+18 outcomes. The board shall also submit any additional reports required by the terms
+19 of any agreements entered into pursuant to this Section to the governor and the
+20 legislature annually no later than September first.
+21 C. The board shall obtain an independent annual financial audit of the bank.
+22 D. The bank shall receive approval by the State Bond Commission prior to
+23 engaging in the following activities:
+24 (1) Issuing bonds, notes, or other evidence of indebtedness of the bank.
+25 (2) Providing any guarantee, pledge, or use of the credit, revenues, or taxing
+26 power of the state.
+27 (3) Any capitalization action or financing structure that constitutes or gives
+28 rise to a debt or a moral obligation of the state.
+Page 10 of 18
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-1471 ORIGINAL
+HB NO. 1157
+1 E. The bank shall be authorized to expend monies of the fund, including loan
+2 repayments, interest, fees, and investment earnings, for the reasonable and necessary
+3 costs of administering and operating the bank. The administrative expenditures shall
+4 be subject to annual approval by the board as part of an operating budget and shall
+5 be made in accordance with applicable state and federal laws and regulations
+6 governing the management and expenditure of public funds.
+7 §85. Applications; eligibility; technical review
+8 A. The board shall promulgate rules establishing the form and content of
+9 applications, financing agreements, and other instruments utilized by the bank, and
+10 may adopt provisions governing interest rates, terms, security, and repayment
+11 sources.
+12 B. Applications for financing shall be accompanied by at least one
+13 recommendation of a state agency or political subdivision of the state certifying the
+14 project as an eligible infrastructure project that will benefit the public.
+15 C. Prior to board action, each proposed project shall receive a technical
+16 review by the applicable technical review committee, in the manner established by
+17 rule.
+18 D. In selecting projects that shall receive financial assistance from the bank,
+19 the board shall consider feasibility, readiness, public benefit, risk, repayment ability,
+20 and the amount of funding committed from sources other than the bank as necessary.
+21 The board may assign priority to projects that will benefit rural or underserved
+22 communities or that demonstrate limited access to traditional financing.
+23 E. During the initial implementation phase of the bank, the board may
+24 approve loans with reduced interest rates for a political subdivision that has
+25 materially participated in the establishment, capitalization, or programmatic
+26 development of the bank, provided that such loans are made pursuant to
+27 board-adopted policies and remain subject to full repayment of principal. Any
+28 reduced interest loan consideration shall be limited in duration and scope and shall
+29 be disclosed in the annual report required by R.S. 48:84(B).
+Page 11 of 18
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-1471 ORIGINAL
+HB NO. 1157
+1 §86. Interest rates; repayment; terms; security; interception; remedies; purpose
+2 A. Loans may bear interest at or below market, may be fixed, variable, or
+3 adjustable, and may include subordinate or contingent repayment structures as
+4 determined by the board. The board may modify, restructure, refinance, or otherwise
+5 amend the terms of any loan or financial assistance in order to protect the financial
+6 interests of the fund.
+7 B. Repayment schedules shall be determined by the board, including the
+8 ability to commence repayment based on substantial completion, revenue
+9 commencement, or availability payment start, as provided in the financing
+10 agreement.
+11 C. The term of a loan shall not exceed thirty years after the date of the first
+12 payment unless otherwise authorized by applicable federal law for federal accounts.
+13 D. The board may require pledges of project revenues, dedicated taxes,
+14 availability payments, credit enhancement, or other security as permitted in any
+15 regulation or statute.
+16 E. If a borrower fails to comply with contract terms or defaults, the board
+17 may:
+18 (1) Pursue legal or equitable remedies to ensure full repayment of any loan.
+19 (2) Request that the state withhold from the borrower and deposit any state
+20 monies into the fund as permitted in any regulation or statute.
+21 (3) Draw on pledge reserves or credit facilities securing the obligation.
+22 F. The bank is created solely as a public financing entity to provide loans and
+23 other credit assistance for eligible public infrastructure projects, to leverage federal
+24 and private capital, and to support state and local infrastructure investment. The
+25 bank shall not accept deposits from the general public, provide consumer or
+26 commercial banking services, or otherwise compete with private financial
+27 institutions.
+Page 12 of 18
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-1471 ORIGINAL
+HB NO. 1157
+1 §87. Borrower authorization; resolutions; notice; contest period
+2 A. Prior to executing a financing agreement, the board shall require
+3 submission of the following:
+4 (1) For political subdivisions, a resolution authorizing the agreement and
+5 specifying the maximum principal, rate, term, and related terms.
+6 (2) For private entities, evidence of authorization to enter into a binding
+7 commitment with the bank and evidence of a public sponsor's recommendation as
+8 required by law and board rule.
+9 Section 3. This Act shall become effective on July 1, 2026.
+DIGEST
+The digest printed below was prepared by House Legislative Services. It constitutes no part
+of the legislative instrument. The keyword, one-liner, abstract, and digest do not constitute
+part of the law or proof or indicia of legislative intent. [R.S. 1:13(B) and 24:177(E)]
+HB 1157 Original 2026 Regular Session Bourriaque
+Abstract: Creates the Louisiana State Infrastructure Bank and the associated fund to
+finance infrastructure projects for certain entities within the state; creates a board of
+directors and establishes the membership, powers, duties, and authority; and provides
+rules and regulations of the Louisiana State Infrastructure Bank.
+Present law (R.S. 36:4(B)) requires that the office of the governor be in the executive branch
+of state government. Further authorizes the governor to allocate within his office the
+powers, duties, funds, functions, appropriations, responsibilities, and personnel of the
+agencies within his office and provide for administration and organization of his office.
+Additionally specifies that the certain agencies and their powers, duties, functions, and
+responsibilities are transferred to the office of the governor.
+Proposed law (R.S. 36:4(B)(39)) adds the La. State Infrastructure Fund within the office of
+the governor.
+Proposed law (R.S. 48:77.3) creates a special fund in the state treasury designated as the La.
+State Infrastructure Fund (fund). Further creates certain accounts within the fund with the
+sources of monies appropriated by the legislature, including federal funds. Additionally
+requires the monies only be used for eligible infrastructure projects. The accounts in the
+fund are as follows:
+(1) The Highway Account.
+(2) The Transit Account.
+(3) The Rail Account.
+(4) State-Funded Account.
+Proposed law specifies that any use of federal credit instruments or programs to capitalize
+the bank be subject to approval by the State Bond Commission. Further requires all
+repayments of principal and interest from loans by the bank be credited to the appropriate
+accounts created in proposed law.
+Page 13 of 18
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-1471 ORIGINAL
+HB NO. 1157
+Proposed law requires the monies in the fund be invested by the state treasurer in a separate
+portfolio in the same manner as allowed for monies in the state general fund. Further
+specifies that while the monies from different accounts within the fund may be pooled for
+investment purposes, the state treasurer must maintain separate accountings for each
+account. Further requires earnings generated from investment of the monies in the fund be
+allocated pro-rata among the accounts that generated the earnings, be available to pay costs
+directly attributable to investment, and be apportioned pro-rata among the accounts that
+generated the costs.
+Proposed law requires all unexpended and unencumbered monies in the fund at the end of
+the fiscal year remain in the fund and not revert to the state general fund.
+Proposed law (R.S. 48:81) defines the following:
+(1) "Bank" means the La. State Infrastructure Bank.
+(2) "Board" means the board of directors of the bank.
+(3) "Eligible costs" means the following:
+(a) For an eligible infrastructure project to be financed from the bank's Highway
+Account, the costs permitted under federal law.
+(b) For an eligible infrastructure project to be financed from the bank's Transit
+Account, the costs permitted under federal law.
+(c) For an eligible infrastructure project to be financed from the bank's Rail
+Account, the costs permitted under federal law.
+(d) For an eligible infrastructure project to be financed from the bank's
+State-Funded Account, all costs associated with the design, construction, or
+improvement of public infrastructure, including but not limited to, costs for
+preliminary engineering, design, permitting, right-of-way acquisition, legal
+and financial services, construction, and construction management, or the
+provision of transportation services.
+(4) "Eligible infrastructure project" means activities undertaken to plan, design,
+construct, repair, maintain, or improve transportation facilities intended for use by
+the public that have been permitted or approved by the applicable technical and
+regulatory agencies pursuant to proposed law and selected by the bank's board to
+receive a loan or other financial assistance for the payment of eligible costs.
+(5) "Financing agreement" means any agreement entered into between the bank and a
+qualified borrower pertaining to a loan or other financial assistance, including but not
+limited to a loan agreement, trust indenture, security agreement, reimbursement
+agreement, guarantee agreement, bond or note, ordinance or resolution, or similar
+instrument.
+(6) "Financial assistance" means the provision of money or its equivalent subject to an
+obligation of repayment in any manner authorized by law, including but not limited
+to direct disbursements and revolving lines of credit.
+(7) "Loan" means the provision of financial assistance by the bank to a qualified
+borrower for all or part of the eligible costs of an eligible infrastructure project in
+exchange for corresponding obligations, including repayment, owed by the qualified
+borrower to the bank.
+(8) "Political subdivision" means a parish, municipality, or any other unit of local
+government, including a school board or special district, authorized by law to
+perform governmental services.
+(9) "Project revenues" means all rates, rents, fees, assessments, charges, grants,
+appropriations, availability payments, pledged taxes, dedicated revenues, user
+charges, insurance-related proceeds, and other receipts derived or to be derived from
+an eligible infrastructure project or made available from a special source, including
+revenues of any system of which the project is a part, as provided in an applicable
+financing agreement.
+(10) "Qualified borrower" means:
+(a) Any political subdivision authorized to undertake, construct, operate, or own
+an eligible infrastructure project.
+Page 14 of 18
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-1471 ORIGINAL
+HB NO. 1157
+(b) Any private entity, including a concessionaire or special purpose entity,
+participating in an eligible infrastructure project with the approval or consent
+of the relevant regulatory or technical agencies, including but not limited to
+participants in a public-private partnership, to the extent permitted by
+applicable law, provided that the board determines that the assistance is
+adequately secured pursuant to proposed law.
+Proposed law (R.S. 48:82(A)) establishes as a legislative finding that there is a critical need
+to increase investment in the development and maintenance of La.'s transportation
+infrastructure to promote economic growth and the ability of business and industry
+competition in regional, national, and global markets and to improve the quality of life for
+residents. Further provides that while grant funding remains an important tool for
+infrastructure investment, increasing project costs and expanding federal credit opportunities
+require complementary financing mechanisms. Further provides that a revolving loan
+program allows the state to maximize available resources, protect taxpayers, and reinvest
+repayments into future infrastructure needs.
+Proposed law (R.S. 48:82(B)) creates the La. State Infrastructure Bank within the office of
+the governor.
+Proposed law (R.S. 48:82(C)) specifies that the purpose of the bank is to select and provide
+loans or other financial assistance to qualified borrowers for in financing eligible
+infrastructure projects by providing loans and other financial assistance to qualified
+borrowers for planning, constructing, improving, rehabilitating, and making resilient
+infrastructure facilities necessary for public purposes.
+Proposed law (R.S. 48:82(D)) requires that any loan or other financial assistance provided
+in proposed law be made pursuant to a cooperative endeavor agreement between the bank
+and a qualified borrower.
+Proposed law (R.S. 48:82(E)) specifies that the bank is a revolving loan and credit assistance
+program that administers both federal and state funds in accordance with applicable present
+law and regulations, except where required by applicable federal law, the bank must not
+provide grants. Further requires all assistance be structured to ensure repayment and the
+continued revolving use of funds. Specifies that nothing in proposed law can be construed
+to supersede or diminish the authority of any state agency to administer its existing
+infrastructure programs.
+Proposed law (R.S. 48:83(A)) requires that the bank be governed by a board of directors
+composed of the following members:
+(1) The director of the office of rural development or his designee.
+(2) The chair of the Joint Legislative Committee on the Budget or his designee.
+(3) The secretary of the Dept. of Transportation and Development (DOTD) or his
+designee.
+(4) The secretary of La. Economic Development (LED) or his designee.
+(5) One member appointed by a majority of the other members from among three
+persons nominated by the La. Bankers Association with not less than five years of
+experience in commercial lending or investment banking.
+(6) One member appointed by the State Board of Certified Public Accountants of La.
+with no less than five years of experience in accounting and auditing standards.
+Proposed law (R.S. 48:83(B)) requires appointed members serve a term of three years and
+that all vacancies be filled as provided in the original appointment.
+Proposed law (R.S. 48:83(C)) requires the board adopt bylaws and conduct meetings in
+accordance with the Open Meetings Law. Further requires the director of the office of rural
+development or his designee be the chair of the board.
+Page 15 of 18
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-1471 ORIGINAL
+HB NO. 1157
+Proposed law (R.S. 48:83(D)) requires the board be staffed by the office of the governor and
+can enter interagency agreements with the DOTD, the La. Dept. of Treasury (LDT), and
+LED for technical review, underwriting support, and program coordination.
+Proposed law (R.S. 48:84(A)) provides for additional powers of the board necessary, useful,
+or appropriate to operate the bank and finance eligible infrastructure projects, including but
+not limited to:
+(1) Perpetual succession.
+(2) Pursue any necessary legal action upon written approval of the attorney general and
+to be sued in the name of the bank.
+(3) Adopt an official seal.
+(4) Grant loans, acquire and sell loan obligations, and provide other financial assistance
+pursuant to cooperative endeavor agreements.
+(5) Enter contracts and execute financing agreements and related instruments.
+(6) Establish program rules and underwriting standards pursuant to the Administrative
+Procedure Act, including risk management policies, portfolio concentration limits,
+and procedures for default and remedies. The procedures include stress testing
+requirements and loss-reserve requirements consistent with those applicable to
+commercial banks.
+(7) Establish fiscal controls and accounting procedures.
+(8) Enter agreements with any agency or instrumentality of the U.S., the state of La., or
+another state to finance eligible infrastructure projects.
+(9) Procure insurance, guarantees, letters of credit, and other credit support.
+(10) Borrow money with approval of the State Bond Commission.
+(11) Issue bonds, notes, or other evidence of indebtedness as provided in proposed law.
+(12) Collect fees and charges in connection with loans or other assistance at amounts
+either at or below the rates used by commercial banks.
+(13) Accept and hold funds deposited with the bank by the state, governmental units, or
+private entities, with or without payment of interest, as allowed present law.
+(14) Establish advisory committees, including a technical review committee comprised
+of representatives from the DOTD, the LDT, LED, and the La. office of rural
+development, to provide to provide recommendations on project eligibility, readiness
+for advancement, potential economic development benefits, environmental
+compliance, or other matters requiring specialized technical expertise.
+(15) Retain financial advisors, legal counsel, investment advisors, credit analysts,
+servicers, and other professional services necessary to carry out the purposes of the
+bank.
+(16) Implement the bank in phases, including initial capitalization or lending limits, and
+must report to the legislature on program performance prior to expansion.
+(17) Enter into agreements and take all actions necessary to receive, administer, and
+comply with the requirements of any federal assistance program, including execution
+of assurances, certifications, and compliance instruments required under applicable
+federal law.
+Proposed law (R.S. 48:84(B)) requires that following the close of each fiscal year, the board
+submit an annual report to the governor and the legislature no later than Sept. 1st, including
+a summary of capitalization, portfolio performance, defaults, leverage, and project outcomes.
+Further requires that the board also submit annually any additional reports required by the
+terms of any agreement entered into pursuant to proposed law no later than Sept. 1st.
+Proposed law (R.S. 48:84(C)) requires that the board obtain an independent annual financial
+audit of the bank.
+Proposed law (R.S. 48:84(D)) requires the bank receive approval by the State Bond
+Commission prior to engaging in the following activities:
+(1) Issuing bonds, notes, or other evidence of indebtedness of the bank.
+Page 16 of 18
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-1471 ORIGINAL
+HB NO. 1157
+(2) Providing any guarantee, pledge, or use of the credit, revenues, or taxing power of
+the state.
+(3) Any capitalization action or financing structure that constitutes or gives rise to a debt
+or a moral obligation of the state.
+Proposed law (R.S. 48:84(E)) authorizes the bank to expend monies of the fund, including
+loan repayments, interest, fees, and investment earnings, for the reasonable and necessary
+costs of administering and operating the bank. Further requires the administrative
+expenditures be subject to annual approval by the board as part of an operating budget and
+be made in accordance with applicable state and federal laws and regulations governing the
+management and expenditure of public funds.
+Proposed law (R.S. 48:85(A)) requires the board promulgate rules establishing the form and
+content of applications, financing agreements, and other instruments utilized by the bank,
+and may adopt provisions governing interest rates, terms, security, and repayment sources.
+Proposed law (R.S. 48:85(B)) requires applications for financing be accompanied by at least
+one recommendation of a state agency or political subdivision of the state certifying the
+project as an eligible infrastructure project that will benefit the public.
+Proposed law (R.S. 48:85(C)) specifies that prior to board action, each proposed project must
+receive a technical review by the applicable technical review committee, in the manner
+established by rule.
+Proposed law (R.S. 48:85(D)) specifies that in selecting projects that receives financial
+assistance from the bank, the board must consider feasibility, readiness, public benefit, risk,
+repayment ability, and the amount of funding committed from sources other than the bank
+as necessary. Further authorizes the board to assign priority to projects that will benefit rural
+or underserved communities or that demonstrate limited access to traditional financing.
+Proposed law (R.S. 48:85(E)) authorizes that during the initial implementation phase of the
+bank, the board approve loans with reduced interest rates for a political subdivision that has
+materially participated in the establishment, capitalization, or programmatic development
+of the bank, provided that such loans are made pursuant to board-adopted policies and
+remain subject to full repayment of principal. Additionally requires that any reduced interest
+loan consideration be limited in duration and scope and shall be disclosed in the annual
+report required by proposed law.
+Proposed law (R.S. 48:86(A)) specifies that loans may bear interest at or below market, be
+fixed, variable, or adjustable, and include subordinate or contingent repayment structures as
+determined by the board. Further authorizes the board to modify, restructure, refinance, or
+otherwise amend the terms of any loan or financial assistance in order to protect the financial
+interests of the fund.
+Proposed law (R.S. 48:86(B)) requires the board determine repayment schedules, including
+the ability to commence repayment based on substantial completion, revenue
+commencement, or availability payment start, as provided in the financing agreement.
+Proposed law (R.S. 48:86(C)) prohibits the loan term from exceeding 30 years after the date
+of the 1st payment unless otherwise authorized by applicable federal law for federal
+accounts.
+Proposed law (R.S. 48:86(D)) authorizes the board to require pledges of project revenues,
+dedicated taxes, availability payments, credit enhancement, or other security as permitted
+in any regulation or statute.
+Proposed law (R.S. 48:86(E)) specifies that if a borrower fails to comply with contract terms
+or defaults, the board may:
+Page 17 of 18
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-1471 ORIGINAL
+HB NO. 1157
+(1) Pursue legal or equitable remedies to ensure full repayment of any loan.
+(2) Request that the state withhold from the borrower and deposit any state monies into
+the fund as permitted in any regulation or statute.
+(3) Draw on pledge reserves or credit facilities securing the obligation.
+Proposed law (R.S. 48:86(F)) specifies that the bank is created solely as a public financing
+entity to provide loans and other credit assistance for eligible public infrastructure projects,
+to leverage federal and private capital, and to support state and local infrastructure
+investment. Further requires that the bank not accept deposits from the general public,
+provide consumer or commercial banking services, or compete with private financial
+institutions.
+Proposed law (R.S. 48:87(A)) requires that prior to executing a financing agreement, the
+board must require submission of the following:
+(1) For political subdivisions, a resolution authorizing the agreement and specifying
+maximum principal, rate, term, and related terms.
+(2) For private entities, evidence of authorization to enter into a binding commitment
+with the bank and evidence of a public sponsor's recommendation as required by law
+and board rule.
+Effective July 1, 2026.
+(Adds R.S. 36:4(B)(39) and R.S. 48:77.3 and 81-87)
+Page 18 of 18
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+[DELETED: 1O a f t f t c e i p e]
+[DELETED: 1O  T f a a t p d f a  T i h c i t s t a s f t b  T i h c a a s a i t f t b]
+[DELETED: 1O  T i h c a a s a i t f t b f l m b t L S I B f t  T i h c a a s a i t f t b p f f c i a p i t]
+[DELETED: 1O  T i h c a a s a i t f t b  M i t S A m b u b t s f d a w t f m b p f i]
+[DELETED: 1O A a c a w t d c o o p i i b n l t c f e d p r a l a]
+[DELETED: 1O a g a b o n o o]
+[DELETED: 1O  W g f r a i t f i i p c a e f c o]
+[DELETED: 1O  O m a b t S B o C P t L D o T a L E]
+[DELETED: 1O  E c a e f a a r P A i r m p p a i a p s o t s o  A a h f d w t b b t f t s g u o p e w o w c o r f t L D o]
+[DELETED: 1O o p e r f a p d b e c o o m s a o p s n t c o t  E i a a t a a n t r e o a c a c i]
+[DELETED: 1O m i a w a s a f l a r a p g i r t s a r  A f f s b a b a l o l w r i r f a p s t h p i t e c o p o t b p t s l a m p t]
+[DELETED: 1O a m i s o c r s a t c r b o s c r o a p s a p i t f s n a d f t g p p c o b s o o c w p f]
+[DELETED: 1O  P t e a f a t b s rl2nB d f f a r a p o t)T)T)T)S b t a b t B C  F]
+[DELETED: 1O p t s t m m s a f e)")")")F)F)F)F a e i p t b f f t b)" i p m a u t p d)")")" m t p o f a b t b t a q)" s m m o a o o l i a s b o s d a b l t)" r m a r r f a c g a p p t d r u)")A]
+[DELETED: 1O)A i a p p t t e p b i i i t d a m o L t t p e g a t a o b a i  F p t w g f r a i t f f m F a l o o f a t q b f i f e p b p l a o f a t q f p c i r a m r s o d t a o a s a t a i e)T)T)T o t D o T ( h)T)O m)O]
+[DELETED: 1O)P)P)A)G)E)E a l r c w t a t)E)E)P)B)I)C)A)E r f D L L a L r a p e d b e)R f a l c i a c a)I)E l ( 4 r t b r a b t S B)I]
+[DELETED: 1O)P)A o a a o t b  F r t a a t c r b o s c r t 1 p u o a b a f l f f]
+[DELETED: 1O)P)R)D l f a p c a t s s a l i c o c b s o c w p f)F)F]
+
+
+================================================================================
+
+Raw Text:
+HLS 26RS-1471 ORIGINAL
+2026 Regular Session
+HOUSE BILL NO. 1157
+BY REPRESENTATIVE BOURRIAQUE
+TRANSPORTATION DEPT: Provides for funding to certain entities for infrastructure
+related projects within the Department of Transportation and Development
+1 AN ACT
+2 To enact R.S. 36:4(B)(39), R.S. 48:77.3, and Subpart B of Part V of Chapter 1 of Title 48
+3 of the Louisiana Revised Statutes of 1950, to be comprised of R.S. 48:81 through 87,
+4 relative to funding certain entities for infrastructure related projects; to create the
+5 Louisiana State Infrastructure Bank within the office of the governor; to provide for
+6 a board of directors; to provide for membership, duties, and authority of the board;
+7 to provide for technical support coordination with the Department of Transportation
+8 and Development, the Louisiana Department of Treasury, and Louisiana Economic
+9 Development; to provide for adoption of bylaws, rules, and regulations by the board;
+10 to create the Louisiana State Infrastructure Fund; to create certain special accounts
+11 within the fund; to provide for receipt, administration, and expenditure of monies
+12 allotted for the fund; to provide for investment and disposition of monies of the fund;
+13 to authorize the bank to incur debt and issue bonds, notes, or other evidences of
+14 indebtedness and to guarantee the debt of other entities; to authorize loans and other
+15 financial assistance from the fund to certain entities, including private entities
+16 participating in public infrastructure projects as permitted by federal law; to provide
+17 procedures to enter into such indebtedness; to provide for definitions; to provide for
+18 an effective date; and to provide for related matters.
+Page 1 of 18
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1471 ORIGINAL
+HB NO. 1157
+1 Be it enacted by the Legislature of Louisiana:
+2 Section 1. R.S. 36:4(B)(39) is hereby enacted to read as follows:
+3 §4. Structure of executive branch of state government
+4 * * *
+5 B. The office of the governor shall be in the executive branch of state
+6 government. The governor may allocate within his office the powers, duties, funds,
+7 functions, appropriations, responsibilities, and personnel of the agencies within his
+8 office and provide for the administration thereof and for the organization of his
+9 office. The following agencies and their powers, duties, functions, and
+10 responsibilities are hereby transferred to the office of the governor:
+11 * * *
+12 (39) The Louisiana State Infrastructure Bank (R.S. 48:81 et seq.).
+13 * * *
+14 Section 2. R.S. 48:77.3 and Subpart B of Part V of Chapter 1 of Title 48 of the
+15 Louisiana Revised Statutes of 1950, to be comprised of R.S. 48:81 through 87, are hereby
+16 enacted to read as follows:
+17 §77.3. Louisiana State Infrastructure Fund
+18 A. There is hereby created in the state treasury a special fund to be
+19 designated as the Louisiana State Infrastructure Bank Fund, hereinafter referred to
+20 as the "fund", for the purpose of capitalizing a state infrastructure bank.
+21 (1)(a) There is hereby created as a special account in the fund to be
+22 designated and referred to in this Section as the Highway Account. The source of
+23 monies in this account shall be any monies appropriated by the legislature to the
+24 account, including federal funds as authorized by 23 U.S.C. 610, proceeds from
+25 federal credit instruments and programs, including those administered by the United
+26 States Department of Transportation Build America Bureau, interest earned on the
+27 investment of monies in the account, repayments of principal and interest from loans
+28 made by the Louisiana State Infrastructure Bank from the account, private donations,
+29 public grants, and any other monies as may be provided by law.
+Page 2 of 18
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1471 ORIGINAL
+HB NO. 1157
+1 (b) Monies in the Highway Account shall only be used by the Louisiana
+2 State Infrastructure Bank in connection with eligible infrastructure projects meeting
+3 the funding eligibility requirements of Title 23 of the United States Code.
+4 (2)(a) There is hereby created as a special account in the fund to be
+5 designated and referred to in this Section as the Transit Account. The source of
+6 monies in this account shall be any monies appropriated by the legislature to the
+7 account, including federal funds authorized by Title 49 of the United States Code,
+8 proceeds from federal credit instruments and programs, including those administered
+9 by the United States Department of Transportation Build America Bureau, interest
+10 earned on the investment of monies in the account, repayments of principal and
+11 interest from loans made by the Louisiana State Infrastructure Bank from the
+12 account, private donations, public grants, and any other monies as may be provided
+13 by law.
+14 (b) Monies in the Transit Account shall only be used by the Louisiana State
+15 Infrastructure Bank in connection with eligible infrastructure projects meeting the
+16 funding eligibility requirements of Title 49 of the United States Code.
+17 (3)(a) There is hereby created as a special account in the fund to be
+18 designated and referred to in this Section as the Rail Account. The source of monies
+19 in this account shall be any monies appropriated by the legislature to the account,
+20 including federal funds authorized by Subtitle V of Title 49 of the United States
+21 Code, proceeds from federal credit instruments and programs, including those
+22 administered by the United States Department of Transportation Build America
+23 Bureau, interest earned on the investment of monies in the account, repayments of
+24 principal and interest from loans made by the Louisiana State Infrastructure Bank
+25 from the account, private donations, public grants, and any other monies as may be
+26 provided by law.
+27 (b) Monies in the Rail Account shall only be used by the Louisiana State
+28 Infrastructure Bank in connection with eligible infrastructure projects meeting the
+29 funding eligibility requirements of Subtitle V of Title 49 of the United States Code.
+Page 3 of 18
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1471 ORIGINAL
+HB NO. 1157
+1 (4)(a) There is hereby created as a special account in the fund to be
+2 designated and referred to in this Section as the State-Funded Account. The source
+3 of monies in this account shall be any monies appropriated by the legislature to the
+4 account, interest earned on the investment of monies in the account, repayments of
+5 principal and interest from loans made by the Louisiana State Infrastructure Bank
+6 from the account, private donations, public grants, and any other monies as may be
+7 provided by law. No funds authorized by Title 23 or Title 49 of the United States
+8 Code shall be deposited in the account.
+9 (b) Monies in the State-Funded Account may be used by the state
+10 infrastructure bank in connection with any eligible infrastructure project allowed by
+11 law.
+12 B. Any use of federal credit instruments or programs to capitalize the bank
+13 shall be subject to approval by the State Bond Commission.
+14 C. All repayments of principal and interest from loans made by the Louisiana
+15 State Infrastructure Bank shall be credited to the same account from which the loan
+16 was originally provided.
+17 D. Monies in the fund shall be invested by the state treasurer in a separate
+18 portfolio in the same manner as allowed for monies in the state general fund. While
+19 monies from different accounts within the fund may be pooled for investment
+20 purposes, the state treasurer shall maintain separate accountings for each account.
+21 Earnings generated from investment of the monies in the fund shall be allocated
+22 pro-rata among the accounts that generated the earnings. Monies in the fund shall
+23 be available to pay costs directly attributable to investment, and shall be apportioned
+24 pro-rata among the accounts that generated the costs.
+25 E. All unexpended and unencumbered monies in the fund at the end of the
+26 fiscal year shall remain in the fund and shall not revert to the state general fund.
+Page 4 of 18
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1471 ORIGINAL
+HB NO. 1157
+1 SUBPART B. LOUISIANA STATE INFRASTRUCTURE BANK
+2 §81. Definitions
+3 For purposes of this Subpart, the following terms have the meanings ascribed
+4 to them as follows:
+5 (1) "Bank" means the Louisiana State Infrastructure Bank.
+6 (2) "Board" means the board of directors of the bank.
+7 (3) "Eligible costs" means the following:
+8 (a) For an eligible infrastructure project to be financed from the bank's
+9 Highway Account, the costs permitted under Title 23 of the United States Code and
+10 Code of Federal Regulations.
+11 (b) For an eligible infrastructure project to be financed from the bank's
+12 Transit Account, the costs permitted under Title 49 of the United States Code and
+13 Code of Federal Regulations.
+14 (c) For an eligible infrastructure project to be financed from the bank's Rail
+15 Account, the costs permitted under Subtitle V of Title 49 of the United States Code
+16 and Subtitle B, Chapter II of Title 49 of the Code of Federal Regulations.
+17 (d) For an eligible infrastructure project to be financed from the bank's
+18 State-Funded Account, all costs associated with the design, construction, or
+19 improvement of public infrastructure, including but not limited to costs for
+20 preliminary engineering, design, permitting, right-of-way acquisition, legal and
+21 financial services, construction, and construction management, or the provision of
+22 transportation services.
+23 (4) "Eligible infrastructure project" means activities undertaken to plan,
+24 design, construct, repair, maintain, or improve transportation facilities intended for
+25 use by the public that have been permitted or approved by the applicable technical
+26 and regulatory agencies pursuant to R.S. 48:85 and selected by the bank's board to
+27 receive a loan or other financial assistance for the payment of eligible costs.
+28 (5) "Financing agreement" means any agreement entered into between the
+29 bank and a qualified borrower pertaining to a loan or other financial assistance,
+Page 5 of 18
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1471 ORIGINAL
+HB NO. 1157
+1 including without limiting a loan agreement, trust indenture, security agreement,
+2 reimbursement agreement, guarantee agreement, bond or note, ordinance or
+3 resolution, or similar instrument.
+4 (6) "Financial assistance" means the provision of money or its equivalent
+5 subject to an obligation of repayment in any manner authorized by law, including but
+6 not limited to direct disbursements and revolving lines of credit.
+7 (7) "Loan" means the provision of financial assistance by the bank to a
+8 qualified borrower for all or part of the eligible costs of an eligible infrastructure
+9 project in exchange for corresponding obligations, including repayment owed by the
+10 qualified borrower to the bank.
+11 (8) "Political subdivision" means a parish, municipality, or any other unit of
+12 local government, including a school board or special district, authorized by law to
+13 perform governmental services.
+14 (9) "Project revenues" means all rates, rents, fees, assessments, charges,
+15 grants, appropriations, availability payments, pledged taxes, dedicated revenues, user
+16 charges, insurance-related proceeds, and other receipts derived or to be derived from
+17 an eligible infrastructure project or made available from a special source, including
+18 revenues of any system of which the project is a part, as provided in an applicable
+19 financing agreement.
+20 (10) "Qualified borrower" means:
+21 (a) Any political subdivision authorized to undertake, construct, operate, or
+22 own an eligible infrastructure project.
+23 (b) Any private entity, including a concessionaire or special purpose entity,
+24 participating in an eligible infrastructure project with the approval or consent of the
+25 relevant regulatory or technical agencies, including but not limited to participants in
+26 a public-private partnership, to the extent permitted by applicable law, provided that
+27 the board determines that the assistance is adequately secured pursuant to R.S. 48:86.
+Page 6 of 18
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1471 ORIGINAL
+HB NO. 1157
+1 §82. Louisiana State Infrastructure Bank; legislative findings; creation; purposes
+2 A. The legislature finds the following:
+3 (1) There is a critical need to increase investment in the development and
+4 maintenance of Louisiana's transportation infrastructure to promote economic growth
+5 and the ability of business and industry competition in regional, national, and global
+6 markets and to improve the quality of life for the people of this state.
+7 (2) While grant funding remains an important tool for infrastructure
+8 investment, increasing project costs and expanding federal credit opportunities
+9 require complementary financing mechanisms. A revolving loan program allows the
+10 state to maximize available resources, protect taxpayers, and reinvest repayments
+11 into future infrastructure needs.
+12 B. There is hereby created within the office of the governor the "Louisiana
+13 State Infrastructure Bank", hereinafter referred to as the "bank", which shall be
+14 allocated to the office of the governor as an agency of the state.
+15 C. The purpose of the bank shall be to select and provide loans or other
+16 financial assistance to qualified borrowers for in financing eligible infrastructure
+17 projects by providing loans and other financial assistance to qualified borrowers for
+18 planning, constructing, improving, rehabilitating, and making resilient infrastructure
+19 facilities necessary for public purposes.
+20 D. Any loan or other financial assistance provided pursuant to this Subpart
+21 shall be made pursuant to a financing agreement between the bank and a qualified
+22 borrower.
+23 E. The bank is established as a revolving loan and credit assistance program
+24 that administers both federal and state funds in accordance with applicable federal
+25 and state laws and regulations, except where required by applicable federal law, the
+26 bank shall not provide grants. All assistance shall be structured to ensure repayment
+27 and the continued revolving use of funds. Nothing in this Subpart shall be construed
+28 to supersede or diminish the authority of any state agency to administer its existing
+29 infrastructure programs.
+Page 7 of 18
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1471 ORIGINAL
+HB NO. 1157
+1 §83. Louisiana State Infrastructure Bank; board of directors
+2 A. The bank shall be governed, administered, and operated by a board of
+3 directors composed of the following members:
+4 (1) The director of the office of rural development or his designee.
+5 (2) The chair of the Joint Legislative Committee on the Budget or his
+6 designee.
+7 (3) The secretary of the Department of Transportation and Development or
+8 his designee.
+9 (4) The secretary of Louisiana Economic Development or his designee.
+10 (5) One member appointed by a majority of the other members from among
+11 three persons nominated by the Louisiana Bankers Association with not less than
+12 five years of experience in commercial lending or investment banking.
+13 (6) One member appointed by the State Board of Certified Public
+14 Accountants of Louisiana with no less than five years of experience in accounting
+15 and auditing standards.
+16 B. Appointed members shall serve a term of three years. All vacancies shall
+17 be filled in the same manner as provided in the original appointment.
+18 C.(1) The board shall adopt bylaws and conduct meetings in accordance with
+19 the Open Meetings Law.
+20 (2) The director of the office of rural development or his designee shall serve
+21 as chair of the board.
+22 D. The board shall be staffed by the office of the governor, which may enter
+23 into interagency agreements with the Louisiana Department of Transportation and
+24 Development, the Louisiana Department of Treasury, and Louisiana Economic
+25 Development for technical review, underwriting support, and program coordination.
+26 §84. Board of directors; powers and duties
+27 A. In addition to the powers contained in this Subpart, the board shall have
+28 all powers necessary, useful, or appropriate to operate the bank and finance eligible
+29 infrastructure projects, including but not limited to:
+Page 8 of 18
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1471 ORIGINAL
+HB NO. 1157
+1 (1) Perpetual succession.
+2 (2) Pursue any necessary legal action upon written approval of the attorney
+3 general and to be sued in the name of the bank.
+4 (3) Adopt an official seal.
+5 (4) Grant loans, acquire and sell loan obligations, and provide other financial
+6 assistance pursuant to cooperative endeavor agreements.
+7 (5) Enter contracts and execute financing agreements and related
+8 instruments.
+9 (6) Establish program rules and underwriting standards pursuant to the
+10 Administrative Procedure Act, including risk management policies, portfolio
+11 concentration limits, and procedures for default and remedies. The procedures may
+12 also include stress testing requirements and loss-reserve requirements consistent with
+13 those applicable to commercial banks.
+14 (7) Establish fiscal controls and accounting procedures.
+15 (8) Enter into agreements with any agency or instrumentality of the United
+16 States, agencies, instrumentalities, and political subdivisions of the state of
+17 Louisiana, agencies, instrumentalities and political subdivisions of another states, or
+18 private individuals for the purpose financing eligible infrastructure projects.
+19 (9) Procure insurance, guarantees, letters of credit, and other credit support.
+20 (10) Borrow money with approval of the State Bond Commission.
+21 (11) Issue bonds, notes, or other evidence of indebtedness as provided in this
+22 Subpart.
+23 (12) Collect fees and charges in connection with loans or other assistance at
+24 amounts either at or below the rates used by commercial banks.
+25 (13) Accept and hold funds deposited with the bank by the federal
+26 government, the state, governmental units, or private entities, with or without
+27 payment of interest, as allowed by law.
+28 (14) Establish advisory committees, including one or more technical review
+29 committees comprised of representatives from the Louisiana Department of
+Page 9 of 18
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1471 ORIGINAL
+HB NO. 1157
+1 Transportation and Development, Louisiana Department of Treasury, Louisiana
+2 Economic Development, and Louisiana office of rural development, to provide
+3 recommendations on project eligibility, readiness for advancement, potential
+4 economic development benefits, environmental compliance, or other matters
+5 requiring specialized technical expertise.
+6 (15) Retain financial advisors, legal counsel, investment advisors, credit
+7 analysts, servicers, and other professional services necessary to carry out the
+8 purposes of the bank.
+9 (16) Implement the bank in phases, including initial capitalization or lending
+10 limits, and shall report to the legislature on program performance prior to expansion.
+11 (17) Enter into agreements and take all actions necessary to receive,
+12 administer, and comply with the requirements of any federal assistance program,
+13 including execution of assurances, certifications, and compliance instruments
+14 required by applicable federal law.
+15 B. Following the close of each fiscal year, the board shall submit an annual
+16 report to the governor and the legislature no later than September first, including a
+17 summary of capitalization, portfolio performance, defaults, leverage, and project
+18 outcomes. The board shall also submit any additional reports required by the terms
+19 of any agreements entered into pursuant to this Section to the governor and the
+20 legislature annually no later than September first.
+21 C. The board shall obtain an independent annual financial audit of the bank.
+22 D. The bank shall receive approval by the State Bond Commission prior to
+23 engaging in the following activities:
+24 (1) Issuing bonds, notes, or other evidence of indebtedness of the bank.
+25 (2) Providing any guarantee, pledge, or use of the credit, revenues, or taxing
+26 power of the state.
+27 (3) Any capitalization action or financing structure that constitutes or gives
+28 rise to a debt or a moral obligation of the state.
+Page 10 of 18
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1471 ORIGINAL
+HB NO. 1157
+1 E. The bank shall be authorized to expend monies of the fund, including loan
+2 repayments, interest, fees, and investment earnings, for the reasonable and necessary
+3 costs of administering and operating the bank. The administrative expenditures shall
+4 be subject to annual approval by the board as part of an operating budget and shall
+5 be made in accordance with applicable state and federal laws and regulations
+6 governing the management and expenditure of public funds.
+7 §85. Applications; eligibility; technical review
+8 A. The board shall promulgate rules establishing the form and content of
+9 applications, financing agreements, and other instruments utilized by the bank, and
+10 may adopt provisions governing interest rates, terms, security, and repayment
+11 sources.
+12 B. Applications for financing shall be accompanied by at least one
+13 recommendation of a state agency or political subdivision of the state certifying the
+14 project as an eligible infrastructure project that will benefit the public.
+15 C. Prior to board action, each proposed project shall receive a technical
+16 review by the applicable technical review committee, in the manner established by
+17 rule.
+18 D. In selecting projects that shall receive financial assistance from the bank,
+19 the board shall consider feasibility, readiness, public benefit, risk, repayment ability,
+20 and the amount of funding committed from sources other than the bank as necessary.
+21 The board may assign priority to projects that will benefit rural or underserved
+22 communities or that demonstrate limited access to traditional financing.
+23 E. During the initial implementation phase of the bank, the board may
+24 approve loans with reduced interest rates for a political subdivision that has
+25 materially participated in the establishment, capitalization, or programmatic
+26 development of the bank, provided that such loans are made pursuant to
+27 board-adopted policies and remain subject to full repayment of principal. Any
+28 reduced interest loan consideration shall be limited in duration and scope and shall
+29 be disclosed in the annual report required by R.S. 48:84(B).
+Page 11 of 18
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1471 ORIGINAL
+HB NO. 1157
+1 §86. Interest rates; repayment; terms; security; interception; remedies; purpose
+2 A. Loans may bear interest at or below market, may be fixed, variable, or
+3 adjustable, and may include subordinate or contingent repayment structures as
+4 determined by the board. The board may modify, restructure, refinance, or otherwise
+5 amend the terms of any loan or financial assistance in order to protect the financial
+6 interests of the fund.
+7 B. Repayment schedules shall be determined by the board, including the
+8 ability to commence repayment based on substantial completion, revenue
+9 commencement, or availability payment start, as provided in the financing
+10 agreement.
+11 C. The term of a loan shall not exceed thirty years after the date of the first
+12 payment unless otherwise authorized by applicable federal law for federal accounts.
+13 D. The board may require pledges of project revenues, dedicated taxes,
+14 availability payments, credit enhancement, or other security as permitted in any
+15 regulation or statute.
+16 E. If a borrower fails to comply with contract terms or defaults, the board
+17 may:
+18 (1) Pursue legal or equitable remedies to ensure full repayment of any loan.
+19 (2) Request that the state withhold from the borrower and deposit any state
+20 monies into the fund as permitted in any regulation or statute.
+21 (3) Draw on pledge reserves or credit facilities securing the obligation.
+22 F. The bank is created solely as a public financing entity to provide loans and
+23 other credit assistance for eligible public infrastructure projects, to leverage federal
+24 and private capital, and to support state and local infrastructure investment. The
+25 bank shall not accept deposits from the general public, provide consumer or
+26 commercial banking services, or otherwise compete with private financial
+27 institutions.
+Page 12 of 18
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1471 ORIGINAL
+HB NO. 1157
+1 §87. Borrower authorization; resolutions; notice; contest period
+2 A. Prior to executing a financing agreement, the board shall require
+3 submission of the following:
+4 (1) For political subdivisions, a resolution authorizing the agreement and
+5 specifying the maximum principal, rate, term, and related terms.
+6 (2) For private entities, evidence of authorization to enter into a binding
+7 commitment with the bank and evidence of a public sponsor's recommendation as
+8 required by law and board rule.
+9 Section 3. This Act shall become effective on July 1, 2026.
+DIGEST
+The digest printed below was prepared by House Legislative Services. It constitutes no part
+of the legislative instrument. The keyword, one-liner, abstract, and digest do not constitute
+part of the law or proof or indicia of legislative intent. [R.S. 1:13(B) and 24:177(E)]
+HB 1157 Original 2026 Regular Session Bourriaque
+Abstract: Creates the Louisiana State Infrastructure Bank and the associated fund to
+finance infrastructure projects for certain entities within the state; creates a board of
+directors and establishes the membership, powers, duties, and authority; and provides
+rules and regulations of the Louisiana State Infrastructure Bank.
+Present law (R.S. 36:4(B)) requires that the office of the governor be in the executive branch
+of state government. Further authorizes the governor to allocate within his office the
+powers, duties, funds, functions, appropriations, responsibilities, and personnel of the
+agencies within his office and provide for administration and organization of his office.
+Additionally specifies that the certain agencies and their powers, duties, functions, and
+responsibilities are transferred to the office of the governor.
+Proposed law (R.S. 36:4(B)(39)) adds the La. State Infrastructure Fund within the office of
+the governor.
+Proposed law (R.S. 48:77.3) creates a special fund in the state treasury designated as the La.
+State Infrastructure Fund (fund). Further creates certain accounts within the fund with the
+sources of monies appropriated by the legislature, including federal funds. Additionally
+requires the monies only be used for eligible infrastructure projects. The accounts in the
+fund are as follows:
+(1) The Highway Account.
+(2) The Transit Account.
+(3) The Rail Account.
+(4) State-Funded Account.
+Proposed law specifies that any use of federal credit instruments or programs to capitalize
+the bank be subject to approval by the State Bond Commission. Further requires all
+repayments of principal and interest from loans by the bank be credited to the appropriate
+accounts created in proposed law.
+Page 13 of 18
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1471 ORIGINAL
+HB NO. 1157
+Proposed law requires the monies in the fund be invested by the state treasurer in a separate
+portfolio in the same manner as allowed for monies in the state general fund. Further
+specifies that while the monies from different accounts within the fund may be pooled for
+investment purposes, the state treasurer must maintain separate accountings for each
+account. Further requires earnings generated from investment of the monies in the fund be
+allocated pro-rata among the accounts that generated the earnings, be available to pay costs
+directly attributable to investment, and be apportioned pro-rata among the accounts that
+generated the costs.
+Proposed law requires all unexpended and unencumbered monies in the fund at the end of
+the fiscal year remain in the fund and not revert to the state general fund.
+Proposed law (R.S. 48:81) defines the following:
+(1) "Bank" means the La. State Infrastructure Bank.
+(2) "Board" means the board of directors of the bank.
+(3) "Eligible costs" means the following:
+(a) For an eligible infrastructure project to be financed from the bank's Highway
+Account, the costs permitted under federal law.
+(b) For an eligible infrastructure project to be financed from the bank's Transit
+Account, the costs permitted under federal law.
+(c) For an eligible infrastructure project to be financed from the bank's Rail
+Account, the costs permitted under federal law.
+(d) For an eligible infrastructure project to be financed from the bank's
+State-Funded Account, all costs associated with the design, construction, or
+improvement of public infrastructure, including but not limited to, costs for
+preliminary engineering, design, permitting, right-of-way acquisition, legal
+and financial services, construction, and construction management, or the
+provision of transportation services.
+(4) "Eligible infrastructure project" means activities undertaken to plan, design,
+construct, repair, maintain, or improve transportation facilities intended for use by
+the public that have been permitted or approved by the applicable technical and
+regulatory agencies pursuant to proposed law and selected by the bank's board to
+receive a loan or other financial assistance for the payment of eligible costs.
+(5) "Financing agreement" means any agreement entered into between the bank and a
+qualified borrower pertaining to a loan or other financial assistance, including but not
+limited to a loan agreement, trust indenture, security agreement, reimbursement
+agreement, guarantee agreement, bond or note, ordinance or resolution, or similar
+instrument.
+(6) "Financial assistance" means the provision of money or its equivalent subject to an
+obligation of repayment in any manner authorized by law, including but not limited
+to direct disbursements and revolving lines of credit.
+(7) "Loan" means the provision of financial assistance by the bank to a qualified
+borrower for all or part of the eligible costs of an eligible infrastructure project in
+exchange for corresponding obligations, including repayment, owed by the qualified
+borrower to the bank.
+(8) "Political subdivision" means a parish, municipality, or any other unit of local
+government, including a school board or special district, authorized by law to
+perform governmental services.
+(9) "Project revenues" means all rates, rents, fees, assessments, charges, grants,
+appropriations, availability payments, pledged taxes, dedicated revenues, user
+charges, insurance-related proceeds, and other receipts derived or to be derived from
+an eligible infrastructure project or made available from a special source, including
+revenues of any system of which the project is a part, as provided in an applicable
+financing agreement.
+(10) "Qualified borrower" means:
+(a) Any political subdivision authorized to undertake, construct, operate, or own
+an eligible infrastructure project.
+Page 14 of 18
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1471 ORIGINAL
+HB NO. 1157
+(b) Any private entity, including a concessionaire or special purpose entity,
+participating in an eligible infrastructure project with the approval or consent
+of the relevant regulatory or technical agencies, including but not limited to
+participants in a public-private partnership, to the extent permitted by
+applicable law, provided that the board determines that the assistance is
+adequately secured pursuant to proposed law.
+Proposed law (R.S. 48:82(A)) establishes as a legislative finding that there is a critical need
+to increase investment in the development and maintenance of La.'s transportation
+infrastructure to promote economic growth and the ability of business and industry
+competition in regional, national, and global markets and to improve the quality of life for
+residents. Further provides that while grant funding remains an important tool for
+infrastructure investment, increasing project costs and expanding federal credit opportunities
+require complementary financing mechanisms. Further provides that a revolving loan
+program allows the state to maximize available resources, protect taxpayers, and reinvest
+repayments into future infrastructure needs.
+Proposed law (R.S. 48:82(B)) creates the La. State Infrastructure Bank within the office of
+the governor.
+Proposed law (R.S. 48:82(C)) specifies that the purpose of the bank is to select and provide
+loans or other financial assistance to qualified borrowers for in financing eligible
+infrastructure projects by providing loans and other financial assistance to qualified
+borrowers for planning, constructing, improving, rehabilitating, and making resilient
+infrastructure facilities necessary for public purposes.
+Proposed law (R.S. 48:82(D)) requires that any loan or other financial assistance provided
+in proposed law be made pursuant to a cooperative endeavor agreement between the bank
+and a qualified borrower.
+Proposed law (R.S. 48:82(E)) specifies that the bank is a revolving loan and credit assistance
+program that administers both federal and state funds in accordance with applicable present
+law and regulations, except where required by applicable federal law, the bank must not
+provide grants. Further requires all assistance be structured to ensure repayment and the
+continued revolving use of funds. Specifies that nothing in proposed law can be construed
+to supersede or diminish the authority of any state agency to administer its existing
+infrastructure programs.
+Proposed law (R.S. 48:83(A)) requires that the bank be governed by a board of directors
+composed of the following members:
+(1) The director of the office of rural development or his designee.
+(2) The chair of the Joint Legislative Committee on the Budget or his designee.
+(3) The secretary of the Dept. of Transportation and Development (DOTD) or his
+designee.
+(4) The secretary of La. Economic Development (LED) or his designee.
+(5) One member appointed by a majority of the other members from among three
+persons nominated by the La. Bankers Association with not less than five years of
+experience in commercial lending or investment banking.
+(6) One member appointed by the State Board of Certified Public Accountants of La.
+with no less than five years of experience in accounting and auditing standards.
+Proposed law (R.S. 48:83(B)) requires appointed members serve a term of three years and
+that all vacancies be filled as provided in the original appointment.
+Proposed law (R.S. 48:83(C)) requires the board adopt bylaws and conduct meetings in
+accordance with the Open Meetings Law. Further requires the director of the office of rural
+development or his designee be the chair of the board.
+Page 15 of 18
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1471 ORIGINAL
+HB NO. 1157
+Proposed law (R.S. 48:83(D)) requires the board be staffed by the office of the governor and
+can enter interagency agreements with the DOTD, the La. Dept. of Treasury (LDT), and
+LED for technical review, underwriting support, and program coordination.
+Proposed law (R.S. 48:84(A)) provides for additional powers of the board necessary, useful,
+or appropriate to operate the bank and finance eligible infrastructure projects, including but
+not limited to:
+(1) Perpetual succession.
+(2) Pursue any necessary legal action upon written approval of the attorney general and
+to be sued in the name of the bank.
+(3) Adopt an official seal.
+(4) Grant loans, acquire and sell loan obligations, and provide other financial assistance
+pursuant to cooperative endeavor agreements.
+(5) Enter contracts and execute financing agreements and related instruments.
+(6) Establish program rules and underwriting standards pursuant to the Administrative
+Procedure Act, including risk management policies, portfolio concentration limits,
+and procedures for default and remedies. The procedures include stress testing
+requirements and loss-reserve requirements consistent with those applicable to
+commercial banks.
+(7) Establish fiscal controls and accounting procedures.
+(8) Enter agreements with any agency or instrumentality of the U.S., the state of La., or
+another state to finance eligible infrastructure projects.
+(9) Procure insurance, guarantees, letters of credit, and other credit support.
+(10) Borrow money with approval of the State Bond Commission.
+(11) Issue bonds, notes, or other evidence of indebtedness as provided in proposed law.
+(12) Collect fees and charges in connection with loans or other assistance at amounts
+either at or below the rates used by commercial banks.
+(13) Accept and hold funds deposited with the bank by the state, governmental units, or
+private entities, with or without payment of interest, as allowed present law.
+(14) Establish advisory committees, including a technical review committee comprised
+of representatives from the DOTD, the LDT, LED, and the La. office of rural
+development, to provide to provide recommendations on project eligibility, readiness
+for advancement, potential economic development benefits, environmental
+compliance, or other matters requiring specialized technical expertise.
+(15) Retain financial advisors, legal counsel, investment advisors, credit analysts,
+servicers, and other professional services necessary to carry out the purposes of the
+bank.
+(16) Implement the bank in phases, including initial capitalization or lending limits, and
+must report to the legislature on program performance prior to expansion.
+(17) Enter into agreements and take all actions necessary to receive, administer, and
+comply with the requirements of any federal assistance program, including execution
+of assurances, certifications, and compliance instruments required under applicable
+federal law.
+Proposed law (R.S. 48:84(B)) requires that following the close of each fiscal year, the board
+submit an annual report to the governor and the legislature no later than Sept. 1st, including
+a summary of capitalization, portfolio performance, defaults, leverage, and project outcomes.
+Further requires that the board also submit annually any additional reports required by the
+terms of any agreement entered into pursuant to proposed law no later than Sept. 1st.
+Proposed law (R.S. 48:84(C)) requires that the board obtain an independent annual financial
+audit of the bank.
+Proposed law (R.S. 48:84(D)) requires the bank receive approval by the State Bond
+Commission prior to engaging in the following activities:
+(1) Issuing bonds, notes, or other evidence of indebtedness of the bank.
+Page 16 of 18
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1471 ORIGINAL
+HB NO. 1157
+(2) Providing any guarantee, pledge, or use of the credit, revenues, or taxing power of
+the state.
+(3) Any capitalization action or financing structure that constitutes or gives rise to a debt
+or a moral obligation of the state.
+Proposed law (R.S. 48:84(E)) authorizes the bank to expend monies of the fund, including
+loan repayments, interest, fees, and investment earnings, for the reasonable and necessary
+costs of administering and operating the bank. Further requires the administrative
+expenditures be subject to annual approval by the board as part of an operating budget and
+be made in accordance with applicable state and federal laws and regulations governing the
+management and expenditure of public funds.
+Proposed law (R.S. 48:85(A)) requires the board promulgate rules establishing the form and
+content of applications, financing agreements, and other instruments utilized by the bank,
+and may adopt provisions governing interest rates, terms, security, and repayment sources.
+Proposed law (R.S. 48:85(B)) requires applications for financing be accompanied by at least
+one recommendation of a state agency or political subdivision of the state certifying the
+project as an eligible infrastructure project that will benefit the public.
+Proposed law (R.S. 48:85(C)) specifies that prior to board action, each proposed project must
+receive a technical review by the applicable technical review committee, in the manner
+established by rule.
+Proposed law (R.S. 48:85(D)) specifies that in selecting projects that receives financial
+assistance from the bank, the board must consider feasibility, readiness, public benefit, risk,
+repayment ability, and the amount of funding committed from sources other than the bank
+as necessary. Further authorizes the board to assign priority to projects that will benefit rural
+or underserved communities or that demonstrate limited access to traditional financing.
+Proposed law (R.S. 48:85(E)) authorizes that during the initial implementation phase of the
+bank, the board approve loans with reduced interest rates for a political subdivision that has
+materially participated in the establishment, capitalization, or programmatic development
+of the bank, provided that such loans are made pursuant to board-adopted policies and
+remain subject to full repayment of principal. Additionally requires that any reduced interest
+loan consideration be limited in duration and scope and shall be disclosed in the annual
+report required by proposed law.
+Proposed law (R.S. 48:86(A)) specifies that loans may bear interest at or below market, be
+fixed, variable, or adjustable, and include subordinate or contingent repayment structures as
+determined by the board. Further authorizes the board to modify, restructure, refinance, or
+otherwise amend the terms of any loan or financial assistance in order to protect the financial
+interests of the fund.
+Proposed law (R.S. 48:86(B)) requires the board determine repayment schedules, including
+the ability to commence repayment based on substantial completion, revenue
+commencement, or availability payment start, as provided in the financing agreement.
+Proposed law (R.S. 48:86(C)) prohibits the loan term from exceeding 30 years after the date
+of the 1st payment unless otherwise authorized by applicable federal law for federal
+accounts.
+Proposed law (R.S. 48:86(D)) authorizes the board to require pledges of project revenues,
+dedicated taxes, availability payments, credit enhancement, or other security as permitted
+in any regulation or statute.
+Proposed law (R.S. 48:86(E)) specifies that if a borrower fails to comply with contract terms
+or defaults, the board may:
+Page 17 of 18
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1471 ORIGINAL
+HB NO. 1157
+(1) Pursue legal or equitable remedies to ensure full repayment of any loan.
+(2) Request that the state withhold from the borrower and deposit any state monies into
+the fund as permitted in any regulation or statute.
+(3) Draw on pledge reserves or credit facilities securing the obligation.
+Proposed law (R.S. 48:86(F)) specifies that the bank is created solely as a public financing
+entity to provide loans and other credit assistance for eligible public infrastructure projects,
+to leverage federal and private capital, and to support state and local infrastructure
+investment. Further requires that the bank not accept deposits from the general public,
+provide consumer or commercial banking services, or compete with private financial
+institutions.
+Proposed law (R.S. 48:87(A)) requires that prior to executing a financing agreement, the
+board must require submission of the following:
+(1) For political subdivisions, a resolution authorizing the agreement and specifying
+maximum principal, rate, term, and related terms.
+(2) For private entities, evidence of authorization to enter into a binding commitment
+with the bank and evidence of a public sponsor's recommendation as required by law
+and board rule.
+Effective July 1, 2026.
+(Adds R.S. 36:4(B)(39) and R.S. 48:77.3 and 81-87)
+Page 18 of 18
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+[DELETED: 1O a f t f t c e i p e]
+[DELETED: 1O  T f a a t p d f a  T i h c i t s t a s f t b  T i h c a a s a i t f t b]
+[DELETED: 1O  T i h c a a s a i t f t b f l m b t L S I B f t  T i h c a a s a i t f t b p f f c i a p i t]
+[DELETED: 1O  T i h c a a s a i t f t b  M i t S A m b u b t s f d a w t f m b p f i]
+[DELETED: 1O A a c a w t d c o o p i i b n l t c f e d p r a l a]
+[DELETED: 1O a g a b o n o o]
+[DELETED: 1O  W g f r a i t f i i p c a e f c o]
+[DELETED: 1O  O m a b t S B o C P t L D o T a L E]
+[DELETED: 1O  E c a e f a a r P A i r m p p a i a p s o t s o  A a h f d w t b b t f t s g u o p e w o w c o r f t L D o]
+[DELETED: 1O o p e r f a p d b e c o o m s a o p s n t c o t  E i a a t a a n t r e o a c a c i]
+[DELETED: 1O m i a w a s a f l a r a p g i r t s a r  A f f s b a b a l o l w r i r f a p s t h p i t e c o p o t b p t s l a m p t]
+[DELETED: 1O a m i s o c r s a t c r b o s c r o a p s a p i t f s n a d f t g p p c o b s o o c w p f]
+[DELETED: 1O  P t e a f a t b s rl2nB d f f a r a p o t)T)T)T)S b t a b t B C  F]
+[DELETED: 1O p t s t m m s a f e)")")")F)F)F)F a e i p t b f f t b)" i p m a u t p d)")")" m t p o f a b t b t a q)" s m m o a o o l i a s b o s d a b l t)" r m a r r f a c g a p p t d r u)")A]
+[DELETED: 1O)A i a p p t t e p b i i i t d a m o L t t p e g a t a o b a i  F p t w g f r a i t f f m F a l o o f a t q b f i f e p b p l a o f a t q f p c i r a m r s o d t a o a s a t a i e)T)T)T o t D o T ( h)T)O m)O]
+[DELETED: 1O)P)P)A)G)E)E a l r c w t a t)E)E)P)B)I)C)A)E r f D L L a L r a p e d b e)R f a l c i a c a)I)E l ( 4 r t b r a b t S B)I]
+[DELETED: 1O)P)A o a a o t b  F r t a a t c r b o s c r t 1 p u o a b a f l f f]
+[DELETED: 1O)P)R)D l f a p c a t s s a l i c o c b s o c w p f)F)F]

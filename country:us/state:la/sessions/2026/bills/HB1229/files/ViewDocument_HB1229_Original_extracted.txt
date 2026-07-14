@@ -1,0 +1,596 @@
+Title: HOUSE BILL NO. 1229
+Official Title: HOUSE BILL NO. 1229
+Number of Sections: 1
+Source: versions - HB1229 Original
+Media Type: application/pdf
+Strikethrough Detection: 8 sections found
+
+================================================================================
+
+Section 1:
+HLS 26RS-1374 ORIGINAL
+2026 Regular Session
+BY REPRESENTATIVE WILFORD CARTER
+COMMERCIAL REGULATIONS: Provides relative to social media use for minors
+1 AN ACT
+2 To enact Chapter 20-B of Title 51 of the Louisiana Revised Statutes of 1950, to be
+3 comprised of R.S. 51:1780.1, relative to social media use for minors; to provide
+4 relative to definitions; to provide for requirements for social media platforms; to
+5 provide for violations; to provide for civil penalties; to provide for the
+6 responsibilities of the attorney general; and to provide for related matters.
+7 Be it enacted by the Legislature of Louisiana:
+8 Section 1. Chapter 20-B of Title 51 of the Louisiana Revised Statutes of 1950,
+9 comprised of R.S. 51:1780.1, is hereby enacted to read as follows:
+10 CHAPTER 20-B: SOCIAL MEDIA USE FOR MINORS
+11 §1780.1 Social media use for minors
+12 A. As used in this Chapter, the following terms have the following
+13 meanings:
+14 (1) "Account holder" means a resident who opens an account or creates a
+15 profile or is identified by the social media platform by a unique identifier while using
+16 or accessing a social media platform when the social media platform knows or has
+17 reason to believe the resident is located in this state.
+18 (2) "Daily active users" means the number of unique users in the United
+19 States who used the online forum, website, or application at least eighty percent of
+20 the days during the previous twelve months, or, if the online forum, website, or
+Page 1 of 8
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-1374 ORIGINAL
+HB NO. 1229
+1 application did not exist during the previous twelve months, the number of unique
+2 users in the United States who used the online forum, website, or application at least
+3 eighty percent of the days during the previous month.
+4 (3) "Resident" means a person who lives in this state for more than six
+5 months of the year.
+6 (4)(a) "Social media platform" means an online forum, website, or
+7 application that satisfies each of the following criteria:
+8 (i) Allows users to upload content or view the content or activity of other
+9 users.
+10 (ii) Ten percent or more of the daily active users who are younger than
+11 sixteen years of age spend on average two hours per day or longer on the online
+12 forum, website, or application on the days when using the online forum, website, or
+13 application during the previous twelve months or, if the online forum, website, or
+14 application did not exist during the previous twelve months, during the previous
+15 month.
+16 (iii) Employs algorithms that analyze user data or information on users to
+17 select content for users.
+18 (iv) Has any of the following addictive features:
+19 (aa) Infinite scrolling, which means either continuously loading content, or
+20 content that loads as the user scrolls down the page without the need to open a
+21 separate page or seamless content, or the use of pages with no visible or apparent end
+22 or page breaks.
+23 (bb) Push notifications or alerts sent by the online forum, website, or
+24 application to inform a user about specific activities or events related to the user’s
+25 account.
+26 (cc) Displays personal interactive metrics that indicate the number of times
+27 other users have clicked a button to indicate their reaction to content or have shared
+28 or reposted the content.
+Page 2 of 8
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-1374 ORIGINAL
+HB NO. 1229
+1 (dd) Auto-play video or video that begins to play without the user first
+2 clicking on the video or on a play button for that video.
+3 (ee) Live-streaming or a function that allows a user or advertiser to broadcast
+4 live video content in real-time.
+5 (b) The term does not include an online service, website, or application
+6 where the exclusive function is e-mail or direct messaging consisting of text,
+7 photographs, pictures, images, or videos shared only between the sender and the
+8 recipients, without displaying or posting publicly or to other users not specifically
+9 identified as the recipients by the sender.
+10 B.(1) A social media platform shall prohibit a minor who is younger than
+11 fourteen years of age from entering into a contract with a social media platform to
+12 become an account holder.
+13 (2) A social media platform shall do all of the following:
+14 (a) Terminate any account held by an account holder younger than fourteen
+15 years of age, including accounts that the social media platform treats or categorizes
+16 as belonging to an account holder who is likely younger than fourteen years of age
+17 for purposes of targeting content or advertising, and provide ninety days for an
+18 account holder to dispute such termination. Termination shall be effective upon the
+19 expiration of the ninety days if the account holder fails to effectively dispute the
+20 termination.
+21 (b) Allow an account holder younger than fourteen years of age to request
+22 to terminate the account. Termination shall be effective within five business days
+23 after such request.
+24 (c) Allow the confirmed parent or guardian of an account holder younger
+25 than fourteen years of age to request that the minor’s account be terminated.
+26 Termination shall be effective within ten business days after such request.
+27 (d) Permanently delete all personal information held by the social media
+28 platform relating to the terminated account, unless there are legal requirements to
+29 maintain such information.
+Page 3 of 8
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-1374 ORIGINAL
+HB NO. 1229
+1 C.(1) A social media platform shall prohibit a minor who is fourteen or
+2 fifteen years of age from entering into a contract with a social media platform to
+3 become an account holder, unless the minor’s parent or guardian provides consent
+4 for the minor to become an account holder.
+5 (2) A social media platform shall do all of the following:
+6 (a) Terminate any account held by an account holder who is fourteen or
+7 fifteen years of age, including accounts that the social media platform treats or
+8 categorizes as belonging to an account holder who is likely fourteen or fifteen years
+9 of age for purposes of targeting content or advertising, if the account holder’s parent
+10 or guardian has not provided consent for the minor to create or maintain the account.
+11 The social media platform shall provide ninety days for an account holder to dispute
+12 such termination. Termination shall be effective upon the expiration of the ninety
+13 days if the account holder fails to effectively dispute the termination.
+14 (b) Allow an account holder who is fourteen or fifteen years of age to request
+15 to terminate the account. Termination shall be effective within five business days
+16 after such request.
+17 (c) Allow the confirmed parent or guardian of an account holder who is
+18 fourteen or fifteen years of age to request that the minor’s account be terminated.
+19 Termination shall be effective within ten business days after such request.
+20 (d) Permanently delete all personal information held by the social media
+21 platform relating to the terminated account, unless there are legal requirements to
+22 maintain such information.
+23 D. If a court enjoins the enforcement of Subsection C of this Section or
+24 would otherwise enjoin enforcement of any other provision of this Section due to
+25 Subsection C of this Section, then Subsection C of this Section shall be severed, and
+26 the following shall come into effect:
+27 (1) A social media platform shall prohibit a minor who is fourteen or fifteen
+28 years of age from entering into a contract with a social media platform to become an
+29 account holder.
+Page 4 of 8
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-1374 ORIGINAL
+HB NO. 1229
+1 (2) A social media platform shall do all of the following:
+2 (a) Terminate any account held by an account holder who is fourteen or
+3 fifteen years of age, including accounts that the social media platform treats or
+4 categorizes as belonging to an account holder who is likely fourteen or fifteen years
+5 of age for purposes of targeting content or advertising, and provide ninety days for
+6 an account holder to dispute such termination. Termination shall be effective upon
+7 the expiration of ninety days if the account holder fails to effectively dispute the
+8 termination.
+9 (b) Allow an account holder who is fourteen or fifteen years of age to request
+10 to terminate the account. Termination shall be effective within five business days
+11 after such request.
+12 (c) Allow the confirmed parent or guardian of an account holder who is
+13 fourteen or fifteen years of age to request that the minor’s account be terminated.
+14 Termination shall be effective within ten business days after such request.
+15 (d) Permanently delete all personal information held by the social media
+16 platform relating to the terminated account, unless there are legal requirements to
+17 maintain such information.
+18 E. Any knowing or reckless violation of Subsection B or C, or, if in effect,
+19 Subsection D of this Section is deemed an unfair and deceptive trade practice
+20 actionable pursuant to R.S. 51:1401 et. seq., solely by the attorney general against
+21 a social media platform. If the attorney general has reason to believe that a social
+22 media platform is in violation of Subsection B or C, or, if in effect, Subsection D of
+23 this Section, the attorney general, as the enforcing authority, may bring an action
+24 against such platform for an unfair or deceptive trade practice. In addition to other
+25 remedies pursuant to R.S. 51:1401 et. seq., the attorney general may set and collect
+26 a civil penalty of up to five thousand dollars per violation and reasonable attorney
+27 fees and court costs. When the social media platform’s failure to comply with
+28 Subsection B or C, or, if in effect, Subsection D of this Section is a consistent pattern
+Page 5 of 8
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-1374 ORIGINAL
+HB NO. 1229
+1 of knowing or reckless conduct, punitive damages may be assessed against the social
+2 media platform.
+3 F.(1) A social media platform that knowingly or recklessly violates
+4 Subsection B or C, or, if in effect, Subsection D of this Section is liable to the minor
+5 account holder, including court costs and reasonable attorney fees as ordered by the
+6 court.
+7 (2) A civil action for a claim pursuant to this Subsection shall be brought
+8 within one year from the date the complainant knew, or reasonably should have
+9 known, of the alleged violation.
+10 (3) Any action brought pursuant to this Subsection may only be brought on
+11 behalf of a minor account holder.
+12 G. For purposes of bringing an action pursuant to this Section, a social media
+13 platform that allows a minor account holder younger than fourteen years of age or
+14 a minor account holder who is fourteen or fifteen years of age to create an account
+15 on such platform is considered to be both engaged in substantial and not isolated
+16 activities within this state and operating, conducting, engaging in, or carrying on a
+17 business and doing business in this state, and is therefore subject to the jurisdiction
+18 of the courts of this state.
+19 H. If a social media platform allows an account holder to use the social
+20 media platform, the parties have entered into a contract.
+21 I. This Section does not preclude any other available remedy at law or
+22 equity.
+23 J. The attorney general may promulgate rules in accordance with the
+24 Administrative Procedure Act to implement this Chapter.
+Page 6 of 8
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-1374 ORIGINAL
+HB NO. 1229
+DIGEST
+The digest printed below was prepared by House Legislative Services. It constitutes no part
+of the legislative instrument. The keyword, one-liner, abstract, and digest do not constitute
+part of the law or proof or indicia of legislative intent. [R.S. 1:13(B) and 24:177(E)]
+HB 1229 Original 2026 Regular Session Wilford Carter
+Abstract: Provides relative to social media use for minors.
+Proposed law defines "account holder", "daily active users", "resident", and "social media
+platform".
+Proposed law requires a social media platform to prohibit a minor under 14 years old from
+entering into a contract with a social media platform in order to become an account holder.
+Proposed law requires a social media platform to do all of the following:
+(1) Terminate any account held by an account holder younger than 14 years old,
+including accounts that the social media platform treats or categorizes as belonging
+to an account holder who is likely younger than 14 years old for purposes of
+targeting content or advertising. Proposed law provides for a time period for when
+termination becomes effective and a time period to allow an account holder to
+dispute the termination.
+(2) Allow an account holder younger than 14 years old to submit a request to terminate
+the account. Proposed law provides a time period for when termination becomes
+effective.
+(3) Allow the confirmed parent or guardian of a minor account holder, who is younger
+than 14 years old, to request that the minor's account be terminated. Proposed law
+provides a time period for when termination becomes effective.
+(4) Permanently delete all personal information held by the social media platform
+relating to the terminated account, unless there are legal requirements for
+maintaining the personal information.
+Proposed law requires a social media platform to prohibit minors who are 14 or 15 years old
+from entering into a contract with a social media platform in order to become an account
+holder, unless the minor's parent or guardian provides consent for the minor to become an
+account holder.
+Proposed law requires a social media platform to do all of the following:
+(1) Terminate any account held by an account holder who is either 14 or 15 years old,
+including accounts that the social media platform treats or categorizes as belonging
+to an account holder who is likely 14 or 15 years old for purposes of targeting
+content or advertising. Proposed law provides for a time period for when termination
+becomes effective and a time period to allow an account holder to dispute the
+termination.
+(2) Allow an account holder who is 14 or 15 years old to submit a request to terminate
+the account. Proposed law provides a time period for when termination becomes
+effective.
+Page 7 of 8
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-1374 ORIGINAL
+HB NO. 1229
+(3) Allow the confirmed parent or guardian of a minor account holder, who is 14 or 15
+years old, to request that the minor's account be terminated. Proposed law provides
+a time period for when termination becomes effective.
+(4) Permanently delete all personal information held by the social media platform
+relating to the terminated account, unless there are legal requirements for
+maintaining the personal information.
+Proposed law provides for severability, if a court enjoins the enforcement of proposed law
+(R.S. 51:1780.1(C)) or would otherwise enjoin enforcement of any other provision of
+proposed law due to proposed law (R.S. 51:1780.1(C)).
+Proposed law further provides that if proposed law (R.S. 51:1780.1(C)) is severed, both of
+the following shall come into effect:
+(1) A social media platform shall prohibit a minor who is 14 or 15 years old from
+entering into a contract with a social media platform to become an account holder.
+(2) A list of established termination requirements as provided by proposed law.
+Proposed law provides that any knowing or reckless violations of proposed law are deemed
+an unfair and deceptive trade practice actionable pursuant to present law (R.S. 51:1401 et.
+seq.).
+Proposed law allows the attorney general, as the enforcing authority, to bring an action
+against the social media platform for an unfair and deceptive trade practice.
+Proposed law allows the attorney general, in addition to other remedies allowed pursuant to
+present law (R.S. 51:1401 et. seq.), to set and collect a civil penalty up to $5,000 per
+violation and reasonable attorney fees and court costs.
+Proposed law also allows the attorney general to assess punitive damages against the social
+media platform, if the social media platform's failure to comply with proposed law is a
+consistent pattern of knowing and reckless conduct.
+Proposed law provides that a social media platform that knowingly or recklessly violations
+proposed law is liable to the minor account holder, including court costs and reasonable
+attorney fees.
+Proposed law provides that a civil action for a claim pursuant to proposed law shall be
+brought within one year from the date the complainant knew, or reasonably should have
+known, of the alleged violation.
+Proposed law provides that the parties have entered into a contract, if a social media platform
+allows an account holder to use the social media platform.
+Proposed law provides that proposed law does not preclude any other available remedy at
+law or equity.
+Proposed law allows the attorney general to promulgate rules for the purposes of
+implementing proposed law.
+(Adds R.S. 51:1780.1)
+Page 8 of 8
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+[DELETED: 4O e C 2 o T 5 o t L R S o 1 t b f v t p f c p t p f t  A u i t C t f t h t f]
+[DELETED: 4O  " m p m a o f w o P n o a s b t o f w o]
+[DELETED: 4O t e f i e o d m c o t f y o a t r t t m a b t]
+[DELETED: 4O]
+[DELETED: 4O D o t S i d t]
+[DELETED: 4O  A s m p t k o r v  T a g m p r i a w t]
+[DELETED: 4Ol2nW)T a a h b a a h y t 1 y o a a h w i l y t 1 y o f p o)A)A)P d a p i h b t s m p t t t a u t a l r f)T)A]
+[DELETED: 4O)A)P d a p i h b t s m p t t t a u t a l r f 5 w o e a o o)A)A l a t a g t p r f t p o]
+
+
+================================================================================
+
+Raw Text:
+HLS 26RS-1374 ORIGINAL
+2026 Regular Session
+HOUSE BILL NO. 1229
+BY REPRESENTATIVE WILFORD CARTER
+COMMERCIAL REGULATIONS: Provides relative to social media use for minors
+1 AN ACT
+2 To enact Chapter 20-B of Title 51 of the Louisiana Revised Statutes of 1950, to be
+3 comprised of R.S. 51:1780.1, relative to social media use for minors; to provide
+4 relative to definitions; to provide for requirements for social media platforms; to
+5 provide for violations; to provide for civil penalties; to provide for the
+6 responsibilities of the attorney general; and to provide for related matters.
+7 Be it enacted by the Legislature of Louisiana:
+8 Section 1. Chapter 20-B of Title 51 of the Louisiana Revised Statutes of 1950,
+9 comprised of R.S. 51:1780.1, is hereby enacted to read as follows:
+10 CHAPTER 20-B: SOCIAL MEDIA USE FOR MINORS
+11 §1780.1 Social media use for minors
+12 A. As used in this Chapter, the following terms have the following
+13 meanings:
+14 (1) "Account holder" means a resident who opens an account or creates a
+15 profile or is identified by the social media platform by a unique identifier while using
+16 or accessing a social media platform when the social media platform knows or has
+17 reason to believe the resident is located in this state.
+18 (2) "Daily active users" means the number of unique users in the United
+19 States who used the online forum, website, or application at least eighty percent of
+20 the days during the previous twelve months, or, if the online forum, website, or
+Page 1 of 8
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1374 ORIGINAL
+HB NO. 1229
+1 application did not exist during the previous twelve months, the number of unique
+2 users in the United States who used the online forum, website, or application at least
+3 eighty percent of the days during the previous month.
+4 (3) "Resident" means a person who lives in this state for more than six
+5 months of the year.
+6 (4)(a) "Social media platform" means an online forum, website, or
+7 application that satisfies each of the following criteria:
+8 (i) Allows users to upload content or view the content or activity of other
+9 users.
+10 (ii) Ten percent or more of the daily active users who are younger than
+11 sixteen years of age spend on average two hours per day or longer on the online
+12 forum, website, or application on the days when using the online forum, website, or
+13 application during the previous twelve months or, if the online forum, website, or
+14 application did not exist during the previous twelve months, during the previous
+15 month.
+16 (iii) Employs algorithms that analyze user data or information on users to
+17 select content for users.
+18 (iv) Has any of the following addictive features:
+19 (aa) Infinite scrolling, which means either continuously loading content, or
+20 content that loads as the user scrolls down the page without the need to open a
+21 separate page or seamless content, or the use of pages with no visible or apparent end
+22 or page breaks.
+23 (bb) Push notifications or alerts sent by the online forum, website, or
+24 application to inform a user about specific activities or events related to the user’s
+25 account.
+26 (cc) Displays personal interactive metrics that indicate the number of times
+27 other users have clicked a button to indicate their reaction to content or have shared
+28 or reposted the content.
+Page 2 of 8
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1374 ORIGINAL
+HB NO. 1229
+1 (dd) Auto-play video or video that begins to play without the user first
+2 clicking on the video or on a play button for that video.
+3 (ee) Live-streaming or a function that allows a user or advertiser to broadcast
+4 live video content in real-time.
+5 (b) The term does not include an online service, website, or application
+6 where the exclusive function is e-mail or direct messaging consisting of text,
+7 photographs, pictures, images, or videos shared only between the sender and the
+8 recipients, without displaying or posting publicly or to other users not specifically
+9 identified as the recipients by the sender.
+10 B.(1) A social media platform shall prohibit a minor who is younger than
+11 fourteen years of age from entering into a contract with a social media platform to
+12 become an account holder.
+13 (2) A social media platform shall do all of the following:
+14 (a) Terminate any account held by an account holder younger than fourteen
+15 years of age, including accounts that the social media platform treats or categorizes
+16 as belonging to an account holder who is likely younger than fourteen years of age
+17 for purposes of targeting content or advertising, and provide ninety days for an
+18 account holder to dispute such termination. Termination shall be effective upon the
+19 expiration of the ninety days if the account holder fails to effectively dispute the
+20 termination.
+21 (b) Allow an account holder younger than fourteen years of age to request
+22 to terminate the account. Termination shall be effective within five business days
+23 after such request.
+24 (c) Allow the confirmed parent or guardian of an account holder younger
+25 than fourteen years of age to request that the minor’s account be terminated.
+26 Termination shall be effective within ten business days after such request.
+27 (d) Permanently delete all personal information held by the social media
+28 platform relating to the terminated account, unless there are legal requirements to
+29 maintain such information.
+Page 3 of 8
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1374 ORIGINAL
+HB NO. 1229
+1 C.(1) A social media platform shall prohibit a minor who is fourteen or
+2 fifteen years of age from entering into a contract with a social media platform to
+3 become an account holder, unless the minor’s parent or guardian provides consent
+4 for the minor to become an account holder.
+5 (2) A social media platform shall do all of the following:
+6 (a) Terminate any account held by an account holder who is fourteen or
+7 fifteen years of age, including accounts that the social media platform treats or
+8 categorizes as belonging to an account holder who is likely fourteen or fifteen years
+9 of age for purposes of targeting content or advertising, if the account holder’s parent
+10 or guardian has not provided consent for the minor to create or maintain the account.
+11 The social media platform shall provide ninety days for an account holder to dispute
+12 such termination. Termination shall be effective upon the expiration of the ninety
+13 days if the account holder fails to effectively dispute the termination.
+14 (b) Allow an account holder who is fourteen or fifteen years of age to request
+15 to terminate the account. Termination shall be effective within five business days
+16 after such request.
+17 (c) Allow the confirmed parent or guardian of an account holder who is
+18 fourteen or fifteen years of age to request that the minor’s account be terminated.
+19 Termination shall be effective within ten business days after such request.
+20 (d) Permanently delete all personal information held by the social media
+21 platform relating to the terminated account, unless there are legal requirements to
+22 maintain such information.
+23 D. If a court enjoins the enforcement of Subsection C of this Section or
+24 would otherwise enjoin enforcement of any other provision of this Section due to
+25 Subsection C of this Section, then Subsection C of this Section shall be severed, and
+26 the following shall come into effect:
+27 (1) A social media platform shall prohibit a minor who is fourteen or fifteen
+28 years of age from entering into a contract with a social media platform to become an
+29 account holder.
+Page 4 of 8
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1374 ORIGINAL
+HB NO. 1229
+1 (2) A social media platform shall do all of the following:
+2 (a) Terminate any account held by an account holder who is fourteen or
+3 fifteen years of age, including accounts that the social media platform treats or
+4 categorizes as belonging to an account holder who is likely fourteen or fifteen years
+5 of age for purposes of targeting content or advertising, and provide ninety days for
+6 an account holder to dispute such termination. Termination shall be effective upon
+7 the expiration of ninety days if the account holder fails to effectively dispute the
+8 termination.
+9 (b) Allow an account holder who is fourteen or fifteen years of age to request
+10 to terminate the account. Termination shall be effective within five business days
+11 after such request.
+12 (c) Allow the confirmed parent or guardian of an account holder who is
+13 fourteen or fifteen years of age to request that the minor’s account be terminated.
+14 Termination shall be effective within ten business days after such request.
+15 (d) Permanently delete all personal information held by the social media
+16 platform relating to the terminated account, unless there are legal requirements to
+17 maintain such information.
+18 E. Any knowing or reckless violation of Subsection B or C, or, if in effect,
+19 Subsection D of this Section is deemed an unfair and deceptive trade practice
+20 actionable pursuant to R.S. 51:1401 et. seq., solely by the attorney general against
+21 a social media platform. If the attorney general has reason to believe that a social
+22 media platform is in violation of Subsection B or C, or, if in effect, Subsection D of
+23 this Section, the attorney general, as the enforcing authority, may bring an action
+24 against such platform for an unfair or deceptive trade practice. In addition to other
+25 remedies pursuant to R.S. 51:1401 et. seq., the attorney general may set and collect
+26 a civil penalty of up to five thousand dollars per violation and reasonable attorney
+27 fees and court costs. When the social media platform’s failure to comply with
+28 Subsection B or C, or, if in effect, Subsection D of this Section is a consistent pattern
+Page 5 of 8
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1374 ORIGINAL
+HB NO. 1229
+1 of knowing or reckless conduct, punitive damages may be assessed against the social
+2 media platform.
+3 F.(1) A social media platform that knowingly or recklessly violates
+4 Subsection B or C, or, if in effect, Subsection D of this Section is liable to the minor
+5 account holder, including court costs and reasonable attorney fees as ordered by the
+6 court.
+7 (2) A civil action for a claim pursuant to this Subsection shall be brought
+8 within one year from the date the complainant knew, or reasonably should have
+9 known, of the alleged violation.
+10 (3) Any action brought pursuant to this Subsection may only be brought on
+11 behalf of a minor account holder.
+12 G. For purposes of bringing an action pursuant to this Section, a social media
+13 platform that allows a minor account holder younger than fourteen years of age or
+14 a minor account holder who is fourteen or fifteen years of age to create an account
+15 on such platform is considered to be both engaged in substantial and not isolated
+16 activities within this state and operating, conducting, engaging in, or carrying on a
+17 business and doing business in this state, and is therefore subject to the jurisdiction
+18 of the courts of this state.
+19 H. If a social media platform allows an account holder to use the social
+20 media platform, the parties have entered into a contract.
+21 I. This Section does not preclude any other available remedy at law or
+22 equity.
+23 J. The attorney general may promulgate rules in accordance with the
+24 Administrative Procedure Act to implement this Chapter.
+Page 6 of 8
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1374 ORIGINAL
+HB NO. 1229
+DIGEST
+The digest printed below was prepared by House Legislative Services. It constitutes no part
+of the legislative instrument. The keyword, one-liner, abstract, and digest do not constitute
+part of the law or proof or indicia of legislative intent. [R.S. 1:13(B) and 24:177(E)]
+HB 1229 Original 2026 Regular Session Wilford Carter
+Abstract: Provides relative to social media use for minors.
+Proposed law defines "account holder", "daily active users", "resident", and "social media
+platform".
+Proposed law requires a social media platform to prohibit a minor under 14 years old from
+entering into a contract with a social media platform in order to become an account holder.
+Proposed law requires a social media platform to do all of the following:
+(1) Terminate any account held by an account holder younger than 14 years old,
+including accounts that the social media platform treats or categorizes as belonging
+to an account holder who is likely younger than 14 years old for purposes of
+targeting content or advertising. Proposed law provides for a time period for when
+termination becomes effective and a time period to allow an account holder to
+dispute the termination.
+(2) Allow an account holder younger than 14 years old to submit a request to terminate
+the account. Proposed law provides a time period for when termination becomes
+effective.
+(3) Allow the confirmed parent or guardian of a minor account holder, who is younger
+than 14 years old, to request that the minor's account be terminated. Proposed law
+provides a time period for when termination becomes effective.
+(4) Permanently delete all personal information held by the social media platform
+relating to the terminated account, unless there are legal requirements for
+maintaining the personal information.
+Proposed law requires a social media platform to prohibit minors who are 14 or 15 years old
+from entering into a contract with a social media platform in order to become an account
+holder, unless the minor's parent or guardian provides consent for the minor to become an
+account holder.
+Proposed law requires a social media platform to do all of the following:
+(1) Terminate any account held by an account holder who is either 14 or 15 years old,
+including accounts that the social media platform treats or categorizes as belonging
+to an account holder who is likely 14 or 15 years old for purposes of targeting
+content or advertising. Proposed law provides for a time period for when termination
+becomes effective and a time period to allow an account holder to dispute the
+termination.
+(2) Allow an account holder who is 14 or 15 years old to submit a request to terminate
+the account. Proposed law provides a time period for when termination becomes
+effective.
+Page 7 of 8
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1374 ORIGINAL
+HB NO. 1229
+(3) Allow the confirmed parent or guardian of a minor account holder, who is 14 or 15
+years old, to request that the minor's account be terminated. Proposed law provides
+a time period for when termination becomes effective.
+(4) Permanently delete all personal information held by the social media platform
+relating to the terminated account, unless there are legal requirements for
+maintaining the personal information.
+Proposed law provides for severability, if a court enjoins the enforcement of proposed law
+(R.S. 51:1780.1(C)) or would otherwise enjoin enforcement of any other provision of
+proposed law due to proposed law (R.S. 51:1780.1(C)).
+Proposed law further provides that if proposed law (R.S. 51:1780.1(C)) is severed, both of
+the following shall come into effect:
+(1) A social media platform shall prohibit a minor who is 14 or 15 years old from
+entering into a contract with a social media platform to become an account holder.
+(2) A list of established termination requirements as provided by proposed law.
+Proposed law provides that any knowing or reckless violations of proposed law are deemed
+an unfair and deceptive trade practice actionable pursuant to present law (R.S. 51:1401 et.
+seq.).
+Proposed law allows the attorney general, as the enforcing authority, to bring an action
+against the social media platform for an unfair and deceptive trade practice.
+Proposed law allows the attorney general, in addition to other remedies allowed pursuant to
+present law (R.S. 51:1401 et. seq.), to set and collect a civil penalty up to $5,000 per
+violation and reasonable attorney fees and court costs.
+Proposed law also allows the attorney general to assess punitive damages against the social
+media platform, if the social media platform's failure to comply with proposed law is a
+consistent pattern of knowing and reckless conduct.
+Proposed law provides that a social media platform that knowingly or recklessly violations
+proposed law is liable to the minor account holder, including court costs and reasonable
+attorney fees.
+Proposed law provides that a civil action for a claim pursuant to proposed law shall be
+brought within one year from the date the complainant knew, or reasonably should have
+known, of the alleged violation.
+Proposed law provides that the parties have entered into a contract, if a social media platform
+allows an account holder to use the social media platform.
+Proposed law provides that proposed law does not preclude any other available remedy at
+law or equity.
+Proposed law allows the attorney general to promulgate rules for the purposes of
+implementing proposed law.
+(Adds R.S. 51:1780.1)
+Page 8 of 8
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+[DELETED: 4O e C 2 o T 5 o t L R S o 1 t b f v t p f c p t p f t  A u i t C t f t h t f]
+[DELETED: 4O  " m p m a o f w o P n o a s b t o f w o]
+[DELETED: 4O t e f i e o d m c o t f y o a t r t t m a b t]
+[DELETED: 4O]
+[DELETED: 4O D o t S i d t]
+[DELETED: 4O  A s m p t k o r v  T a g m p r i a w t]
+[DELETED: 4Ol2nW)T a a h b a a h y t 1 y o a a h w i l y t 1 y o f p o)A)A)P d a p i h b t s m p t t t a u t a l r f)T)A]
+[DELETED: 4O)A)P d a p i h b t s m p t t t a u t a l r f 5 w o e a o o)A)A l a t a g t p r f t p o]

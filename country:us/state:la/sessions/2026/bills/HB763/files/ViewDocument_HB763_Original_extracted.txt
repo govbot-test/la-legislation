@@ -1,0 +1,292 @@
+Title: HOUSE BILL NO. 763
+Official Title: HOUSE BILL NO. 763
+Number of Sections: 1
+Source: versions - HB763 Original
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+HLS 26RS-1044 ORIGINAL
+2026 Regular Session
+BY REPRESENTATIVE BILLINGS
+PUBLIC RECORDS: Provides for a public Settlement Agreement Information Database
+to contain certain information regarding settlements entered into by state agencies
+1 AN ACT
+2 To enact R.S. 39:16.16, relative to the reporting of settlements in certain legal actions; to
+3 provide relative to the powers and duties of the commissioner of administration; to
+4 provide for definitions; to provide for the information to be included on the website;
+5 to provide relative to information required on and timing of reports; to provide for
+6 exclusions; to provide for nondisclosure of certain information in certain
+7 circumstances; to provide for an effective date; and to provide for related matters.
+8 Be it enacted by the Legislature of Louisiana:
+9 Section 1. R.S. 39:16.16 is hereby enacted to read as follows:
+10 §16.16. Duties of the commissioner relative to the settlement agreement database
+11 A. As used in this Section, the term "settlement agreement" means a final
+12 document evidencing a compromise of a legal action related to an alleged violation
+13 of federal or state law that is entered into by a state agency. The term shall include
+14 a consent decree.
+15 B. The commissioner shall ensure the website includes a settlement database.
+16 For each settlement agreement, the database shall include each of the following:
+17 (1) The date the settlement agreement became final.
+18 (2) A description of the claims settled pursuant to the agreement.
+19 (3) The total amount the settling parties are obligated to pay pursuant to the
+20 agreement and an itemization of each of the following:
+Page 1 of 4
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-1044 ORIGINAL
+HB NO. 763
+1 (a) The amount of attorney fees and other litigation costs awarded, if any,
+2 including a citation to the legal basis for such award.
+3 (b) The amount, if any, each settling party is obligated to pay that is
+4 expressly specified in the agreement as a civil or criminal penalty or fine.
+5 (c) The amount of each award specified in the agreement that is not
+6 otherwise covered by this Paragraph.
+7 (4) Conditions for termination of the agreement, if applicable.
+8 (5) A brief description of any economic data and methodology used to justify
+9 the terms of the agreement.
+10 (6) Any modifications to the settlement agreement, if applicable.
+11 (7) A copy of the agreement or a statement of confidentiality pursuant to
+12 Subsection C of this Section, as applicable.
+13 C.(1) The requirement to submit information about a settlement agreement
+14 or a copy of a settlement agreement pursuant to the provisions of this Section shall
+15 not apply to the extent the information or the settlement agreement is exempt from
+16 disclosure pursuant to Public Records Law.
+17 (2) If the administrative head of the state agency that is a party to the
+18 settlement agreement determines that the Public Records Law prohibits disclosure
+19 of all or part of the agreement or that the sealing of a settlement agreement is
+20 required to protect the public interest, he shall execute a written statement of
+21 confidentiality that contains at least one of the following:
+22 (a) A citation to the Public Records Law exception invoked for that
+23 agreement.
+24 (b) A statement as to why withholding the information or agreement is
+25 required to protect the public interest, which shall explain what interests are being
+26 protected and why those interests outweigh the public's interest in knowing about the
+27 settlement and the expenditure of state resources pursuant to that settlement.
+28 D. Each state agency shall provide the information required pursuant to the
+29 provisions of this Section for each settlement agreement entered into by that agency
+Page 2 of 4
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-1044 ORIGINAL
+HB NO. 763
+1 on or after January 1, 2027, within ninety days of the settlement agreement becoming
+2 final. The information shall remain available on the website for five years from the
+3 later of the date of initial entry in the database or the last date the entry was modified
+4 by the state agency.
+5 E. Pursuant to the Administrative Procedure Act, the commissioner may
+6 promulgate rules for implementation and administration of the provisions of this
+7 Section.
+8 Section 2. By December 31, 2026, the commissioner of administration shall have
+9 the database required pursuant to Section 1 of this Act established and ready for data input
+10 and public access.
+11 Section 3.(A) The provisions of this Section and Section 2 of this Act shall become
+12 effective upon signature by the governor or, if not signed by the governor, upon expiration
+13 of the time for bills to become law without signature by the governor, as provided by Article
+14 III, Section 18 of the Constitution of Louisiana. If vetoed by the governor and subsequently
+15 approved by the legislature, the provisions of this Section and Section 2 of this Act shall
+16 become effective on the day following such approval.
+17 (B) The provisions of Section 1 of this Act shall become effective January 1, 2027.
+DIGEST
+The digest printed below was prepared by House Legislative Services. It constitutes no part
+of the legislative instrument. The keyword, one-liner, abstract, and digest do not constitute
+part of the law or proof or indicia of legislative intent. [R.S. 1:13(B) and 24:177(E)]
+HB 763 Original 2026 Regular Session Billings
+Abstract: Requires the commissioner of administration ("commissioner") to establish and
+maintain a public database containing information on legal settlements entered into
+by the state and any of its agencies on or after Jan. 1, 2027.
+Present law requires the commissioner to maintain various public databases with fiscal and
+other information. Proposed law adds the requirement that the commissioner maintain a
+database for settlement agreements executed by the state or any state agency. Defines
+"settlement agreement" to mean a final document evidencing a compromise of a legal action
+related to an alleged violation of federal or state law that is entered into by a state agency,
+including a consent decree. Present law defines "state agency" to mean any state office,
+department, board, commission, institution, division, officer or other person, or functional
+group, authorized to exercise, or that does exercise, any functions of the executive branch
+of the state government, including higher education agencies and state retirement systems.
+Page 3 of 4
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-1044 ORIGINAL
+HB NO. 763
+Proposed law requires each state agency to enter information into the database for each
+settlement agreement entered into on or after Jan. 1, 2027, including but not limited to:
+(1) The date the settlement agreement became final.
+(2) A description of the claims settled pursuant to the agreement.
+(3) The total amount the settling parties are obligated to pay pursuant to the agreement
+and an itemization of the amount of attorney fees and other litigation costs awarded,
+if any and the amount, if any, of any civil or criminal penalty or fine listed in the
+settlement agreement.
+(4) A copy of the agreement or a statement of confidentiality.
+Proposed law authorizes a state agency to exempt disclosure of any or all of the settlement
+agreement information if certain conditions are met. Requires the administrative head of the
+state agency that is a party to the settlement agreement to execute a written statement of
+confidentiality that contains either a citation to the Public Records Law exception invoked
+for that agreement or a statement as to why withholding the information or agreement is
+required to protect the public interest.
+Proposed law requires the information to be entered into the public database within 90 days
+of the settlement agreement becoming final and for each agreement to remain available on
+the website for five years from the later of the date of initial entry in the database or the last
+date the entry was modified by the state agency.
+Proposed law authorizes the commissioner to promulgate rules pursuant to the
+Administrative Procedure Act for implementation and administration of proposed law.
+Requires the commissioner to ensure the database established pursuant to proposed law is
+operative by Dec. 31, 2026.
+Provisions relative to establishment of the database effective upon signature of governor or
+lapse of time for gubernatorial action. All other provisions effective Jan. 1, 2027.
+(Adds R.S. 39:16.16)
+Page 4 of 4
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+[DELETED: 4O t p f n o c i i c]
+[DELETED: 4O  T a i a e s p i o t p t i  T a o e a s i t a t i n t p t p i h s e a w s o  A c t t P R L e i f t]
+[DELETED: 4Ol2nB]
+[DELETED: 4O)T)A)T)A l a t c t p r p t t]
+
+
+================================================================================
+
+Raw Text:
+HLS 26RS-1044 ORIGINAL
+2026 Regular Session
+HOUSE BILL NO. 763
+BY REPRESENTATIVE BILLINGS
+PUBLIC RECORDS: Provides for a public Settlement Agreement Information Database
+to contain certain information regarding settlements entered into by state agencies
+1 AN ACT
+2 To enact R.S. 39:16.16, relative to the reporting of settlements in certain legal actions; to
+3 provide relative to the powers and duties of the commissioner of administration; to
+4 provide for definitions; to provide for the information to be included on the website;
+5 to provide relative to information required on and timing of reports; to provide for
+6 exclusions; to provide for nondisclosure of certain information in certain
+7 circumstances; to provide for an effective date; and to provide for related matters.
+8 Be it enacted by the Legislature of Louisiana:
+9 Section 1. R.S. 39:16.16 is hereby enacted to read as follows:
+10 §16.16. Duties of the commissioner relative to the settlement agreement database
+11 A. As used in this Section, the term "settlement agreement" means a final
+12 document evidencing a compromise of a legal action related to an alleged violation
+13 of federal or state law that is entered into by a state agency. The term shall include
+14 a consent decree.
+15 B. The commissioner shall ensure the website includes a settlement database.
+16 For each settlement agreement, the database shall include each of the following:
+17 (1) The date the settlement agreement became final.
+18 (2) A description of the claims settled pursuant to the agreement.
+19 (3) The total amount the settling parties are obligated to pay pursuant to the
+20 agreement and an itemization of each of the following:
+Page 1 of 4
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1044 ORIGINAL
+HB NO. 763
+1 (a) The amount of attorney fees and other litigation costs awarded, if any,
+2 including a citation to the legal basis for such award.
+3 (b) The amount, if any, each settling party is obligated to pay that is
+4 expressly specified in the agreement as a civil or criminal penalty or fine.
+5 (c) The amount of each award specified in the agreement that is not
+6 otherwise covered by this Paragraph.
+7 (4) Conditions for termination of the agreement, if applicable.
+8 (5) A brief description of any economic data and methodology used to justify
+9 the terms of the agreement.
+10 (6) Any modifications to the settlement agreement, if applicable.
+11 (7) A copy of the agreement or a statement of confidentiality pursuant to
+12 Subsection C of this Section, as applicable.
+13 C.(1) The requirement to submit information about a settlement agreement
+14 or a copy of a settlement agreement pursuant to the provisions of this Section shall
+15 not apply to the extent the information or the settlement agreement is exempt from
+16 disclosure pursuant to Public Records Law.
+17 (2) If the administrative head of the state agency that is a party to the
+18 settlement agreement determines that the Public Records Law prohibits disclosure
+19 of all or part of the agreement or that the sealing of a settlement agreement is
+20 required to protect the public interest, he shall execute a written statement of
+21 confidentiality that contains at least one of the following:
+22 (a) A citation to the Public Records Law exception invoked for that
+23 agreement.
+24 (b) A statement as to why withholding the information or agreement is
+25 required to protect the public interest, which shall explain what interests are being
+26 protected and why those interests outweigh the public's interest in knowing about the
+27 settlement and the expenditure of state resources pursuant to that settlement.
+28 D. Each state agency shall provide the information required pursuant to the
+29 provisions of this Section for each settlement agreement entered into by that agency
+Page 2 of 4
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1044 ORIGINAL
+HB NO. 763
+1 on or after January 1, 2027, within ninety days of the settlement agreement becoming
+2 final. The information shall remain available on the website for five years from the
+3 later of the date of initial entry in the database or the last date the entry was modified
+4 by the state agency.
+5 E. Pursuant to the Administrative Procedure Act, the commissioner may
+6 promulgate rules for implementation and administration of the provisions of this
+7 Section.
+8 Section 2. By December 31, 2026, the commissioner of administration shall have
+9 the database required pursuant to Section 1 of this Act established and ready for data input
+10 and public access.
+11 Section 3.(A) The provisions of this Section and Section 2 of this Act shall become
+12 effective upon signature by the governor or, if not signed by the governor, upon expiration
+13 of the time for bills to become law without signature by the governor, as provided by Article
+14 III, Section 18 of the Constitution of Louisiana. If vetoed by the governor and subsequently
+15 approved by the legislature, the provisions of this Section and Section 2 of this Act shall
+16 become effective on the day following such approval.
+17 (B) The provisions of Section 1 of this Act shall become effective January 1, 2027.
+DIGEST
+The digest printed below was prepared by House Legislative Services. It constitutes no part
+of the legislative instrument. The keyword, one-liner, abstract, and digest do not constitute
+part of the law or proof or indicia of legislative intent. [R.S. 1:13(B) and 24:177(E)]
+HB 763 Original 2026 Regular Session Billings
+Abstract: Requires the commissioner of administration ("commissioner") to establish and
+maintain a public database containing information on legal settlements entered into
+by the state and any of its agencies on or after Jan. 1, 2027.
+Present law requires the commissioner to maintain various public databases with fiscal and
+other information. Proposed law adds the requirement that the commissioner maintain a
+database for settlement agreements executed by the state or any state agency. Defines
+"settlement agreement" to mean a final document evidencing a compromise of a legal action
+related to an alleged violation of federal or state law that is entered into by a state agency,
+including a consent decree. Present law defines "state agency" to mean any state office,
+department, board, commission, institution, division, officer or other person, or functional
+group, authorized to exercise, or that does exercise, any functions of the executive branch
+of the state government, including higher education agencies and state retirement systems.
+Page 3 of 4
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1044 ORIGINAL
+HB NO. 763
+Proposed law requires each state agency to enter information into the database for each
+settlement agreement entered into on or after Jan. 1, 2027, including but not limited to:
+(1) The date the settlement agreement became final.
+(2) A description of the claims settled pursuant to the agreement.
+(3) The total amount the settling parties are obligated to pay pursuant to the agreement
+and an itemization of the amount of attorney fees and other litigation costs awarded,
+if any and the amount, if any, of any civil or criminal penalty or fine listed in the
+settlement agreement.
+(4) A copy of the agreement or a statement of confidentiality.
+Proposed law authorizes a state agency to exempt disclosure of any or all of the settlement
+agreement information if certain conditions are met. Requires the administrative head of the
+state agency that is a party to the settlement agreement to execute a written statement of
+confidentiality that contains either a citation to the Public Records Law exception invoked
+for that agreement or a statement as to why withholding the information or agreement is
+required to protect the public interest.
+Proposed law requires the information to be entered into the public database within 90 days
+of the settlement agreement becoming final and for each agreement to remain available on
+the website for five years from the later of the date of initial entry in the database or the last
+date the entry was modified by the state agency.
+Proposed law authorizes the commissioner to promulgate rules pursuant to the
+Administrative Procedure Act for implementation and administration of proposed law.
+Requires the commissioner to ensure the database established pursuant to proposed law is
+operative by Dec. 31, 2026.
+Provisions relative to establishment of the database effective upon signature of governor or
+lapse of time for gubernatorial action. All other provisions effective Jan. 1, 2027.
+(Adds R.S. 39:16.16)
+Page 4 of 4
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+[DELETED: 4O t p f n o c i i c]
+[DELETED: 4O  T a i a e s p i o t p t i  T a o e a s i t a t i n t p t p i h s e a w s o  A c t t P R L e i f t]
+[DELETED: 4Ol2nB]
+[DELETED: 4O)T)A)T)A l a t c t p r p t t]

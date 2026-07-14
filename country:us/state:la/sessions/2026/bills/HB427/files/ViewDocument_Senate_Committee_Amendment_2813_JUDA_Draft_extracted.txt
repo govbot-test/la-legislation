@@ -1,0 +1,89 @@
+Title: Amendments proposed by Senate Committee on Judiciary A to Engrossed House Bill No.
+Official Title: Amendments proposed by Senate Committee on Judiciary A to Engrossed House Bill No.
+Number of Sections: 1
+Source: versions - Senate Committee Amendment, #2813, JUDA, Draft
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+SCAHB427 4335 2813
+SENATE COMMITTEE AMENDMENTS
+2026 Regular Session
+427 by Representative Schlegel
+1 AMENDMENT NO. 1
+2 On page 1, line 2, after "(10)," and before "relative" delete "(C)(4), and (5)(a)" and insert
+3 "(C)(1), (4), and (5)"
+4 AMENDMENT NO. 2
+5 On page 1, line 7, after "(10)," and before "are" delete "(C)(4), and (5)(a)" and insert "(C)(1),
+6 (4), and (5)"
+7 AMENDMENT NO. 3
+8 On page 3, delete lines 17 through 27 in their entirety and insert the following:
+9 "(1) Prohibit an adult from connecting to a minor without express consent
+10 from the minor's legal representative or enable the legal representative of a minor to
+11 access a list of the connections of the minor, including a list of contacts with whom
+12 the minor has exchanged direct messages through the parental supervision tools of
+13 the covered platform.
+14 * * *
+15 (4) Restrict the visibility of the minor's account to only connected accounts
+16 Set minor accounts to private mode in a manner in which only users to whom the
+17 minor is connected on the covered platform may view or respond to content posted
+18 by the minor.
+19 (5) Allow the legal representative of a minor to choose to be informed
+20 Inform the legal representative of a minor via text, voice, email, through the legal
+21 representative's linked account or through the covered platform's parental control
+22 interface within a reasonable time, if any of the following occur:
+23 (a) A minor is exposed to sexually explicit material harmful to minors on a
+24 covered platform.
+25 (b) A connection is made between a minor and any other user on a covered
+26 platform unless the legal representative of the minor is connected to the account of
+27 the minor through the covered platform's parental supervision tools."
+28 AMENDMENT NO. 4
+29 On page 4, line 4, after "effective" delete the remainder of the line and delete lines 5 through
+30 8 in their entirety and insert "on January 1, 2027."
+Page 1 of 1
+[DELETED: AO"AO(AO"0f1a2t3t4*5(6S7m8b9(0I1r2i3(4c5(6p7t8A9O08]
+
+
+================================================================================
+
+Raw Text:
+SCAHB427 4335 2813
+SENATE COMMITTEE AMENDMENTS
+2026 Regular Session
+Amendments proposed by Senate Committee on Judiciary A to Engrossed House Bill No.
+427 by Representative Schlegel
+1 AMENDMENT NO. 1
+2 On page 1, line 2, after "(10)," and before "relative" delete "(C)(4), and (5)(a)" and insert
+3 "(C)(1), (4), and (5)"
+4 AMENDMENT NO. 2
+5 On page 1, line 7, after "(10)," and before "are" delete "(C)(4), and (5)(a)" and insert "(C)(1),
+6 (4), and (5)"
+7 AMENDMENT NO. 3
+8 On page 3, delete lines 17 through 27 in their entirety and insert the following:
+9 "(1) Prohibit an adult from connecting to a minor without express consent
+10 from the minor's legal representative or enable the legal representative of a minor to
+11 access a list of the connections of the minor, including a list of contacts with whom
+12 the minor has exchanged direct messages through the parental supervision tools of
+13 the covered platform.
+14 * * *
+15 (4) Restrict the visibility of the minor's account to only connected accounts
+16 Set minor accounts to private mode in a manner in which only users to whom the
+17 minor is connected on the covered platform may view or respond to content posted
+18 by the minor.
+19 (5) Allow the legal representative of a minor to choose to be informed
+20 Inform the legal representative of a minor via text, voice, email, through the legal
+21 representative's linked account or through the covered platform's parental control
+22 interface within a reasonable time, if any of the following occur:
+23 (a) A minor is exposed to sexually explicit material harmful to minors on a
+24 covered platform.
+25 (b) A connection is made between a minor and any other user on a covered
+26 platform unless the legal representative of the minor is connected to the account of
+27 the minor through the covered platform's parental supervision tools."
+28 AMENDMENT NO. 4
+29 On page 4, line 4, after "effective" delete the remainder of the line and delete lines 5 through
+30 8 in their entirety and insert "on January 1, 2027."
+Page 1 of 1
+
+[DELETED: AO"AO(AO"0f1a2t3t4*5(6S7m8b9(0I1r2i3(4c5(6p7t8A9O08]
