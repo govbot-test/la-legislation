@@ -1,0 +1,212 @@
+Title: To the Honorable Speaker and Members of the House of Representatives and the Honorable
+Official Title: To the Honorable Speaker and Members of the House of Representatives and the Honorable
+Number of Sections: 8
+Source: versions - Conference Committee Report, #6329, House Adopted, Senate Adopted
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+CCRHB75 4825 6329
+CONFERENCE COMMITTEE REPORT
+HB 75 2026 Regular Session Jackson
+June 1, 2026
+President and Members of the Senate.
+Ladies and Gentlemen:
+We, the conferees appointed to confer over the disagreement between the two houses
+concerning House Bill No. 75 by Representative Jackson, recommend the following
+concerning the Reengrossed bill:
+
+Section 2:
+1. That the set of Senate Committee Amendments by the Senate Committee on
+Judiciary B (#4494) be rejected.
+
+Section 3:
+2. That the set of Senate Floor Amendments by Senator Reese (#4582) be adopted.
+
+Section 4:
+3. That the following amendments be adopted:
+AMENDMENT NO. 1
+In Senate Floor Amendment No. 2 by Senator Reese (#4582), on page 1, delete line
+7 and insert the following:
+"enact R.S. 27:392(D) and 393.2, relative to gaming activity; to provide for
+the collection and disposition of fees and taxes; to provide for an enhanced"
+AMENDMENT NO. 2
+In Senate Floor Amendment No. 3 by Senator Reese (#4582), on page 1, line 13,
+delete "R.S. 27:393.2 is" and insert "R.S. 27:393(D) and 393.2 are"
+AMENDMENT NO. 3
+In Senate Floor Amendment No. 3 by Senator Reese (#4582), on page 1, between
+lines 13 and 14, insert the following:
+"§392. Collection and disposition of fees and taxes
+* * *
+D. Notwithstanding any other law to the contrary, absent a force
+majeure event, the local governing authorities in the parish in which the
+licensed eligible facility is located, and any other entities described in
+Subsections B and C of this Section, shall not receive an amount less than the
+amount received during the 2025-2026 fiscal year.
+* * *"
+AMENDMENT NO. 4
+In Senate Floor Amendment No. 3 by Senator Reese (#4582), on page 1, delete line
+31 and insert the following:
+"Section 2. This Act shall become effective on July 1, 2026.
+
+Section 5:
+Section 3. The provisions of this Act shall cease to be effective as of June 30, 2027.
+Page 1 of 4
+CCRHB75 4825 6329
+Respectfully submitted,
+Representative Steven Jackson Senator Mike Reese
+Representative Debbie Villio Senator Kirk Talbot
+Representative Aimee Freeman Senator Jimmy Harris
+Page 2 of 4
+CCRHB75 4825 6329
+DIGEST
+The digest printed below was prepared by House Legislative Services. It constitutes no part
+of the legislative instrument. The keyword, one-liner, abstract, and digest do not constitute
+part of the law or proof or indicia of legislative intent. [R.S. 1:13(B) and 24:177(E)]
+CONFERENCE COMMITTEE REPORT DIGEST
+HB 75 2026 Regular Session Jackson
+Keyword and oneliner of the instrument as it left the House
+GAMING: Provides for the allowable amount of promotional play offered by certain gaming
+operators and for deductions regarding promotional play
+Report adopts Senate amendments to:
+
+Section 6:
+1. Create a pilot program that increases the amount of untaxable promotional play
+wagers from five million dollars to seven million dollars.
+Report rejects Senate amendments which would have:
+
+Section 7:
+1. Increased the amount of untaxable promotional play wagers from five million dollars
+to seven million dollars for riverboat casinos, the official gaming establishment in
+New Orleans, and racetracks.
+Report amends the bill to:
+
+Section 8:
+1. Clarify that the increase in promotional play wagers shall not diminish the amount
+of locally dedicated funds relative to the 2025-2026 fiscal year.
+Digest of the bill as proposed by the Conference Committee
+Present law provides for promotional play wagers by licensees operating slot machines at
+racing facilities. Proposed law retains present law.
+Proposed law temporarily redefines "net slot machine proceeds," notwithstanding present law
+(R.S. 27:353(9)), and provides for the application and distribution of such proceeds from July
+1, 2026, through June 30, 2027.
+Proposed law creates a pilot program to increase the amount of promotional play wagers
+available to licensees from $5M to $7M.
+Proposed law prohibits the additional $2M directly attributable to promotional play wagers
+from being assigned to another licensee or casino gaming operator.
+Proposed law requires licensees, by March 1, 2027, to provide a report to the Gaming
+Control Bd., the Senate Committee on Judiciary B, and the House Committee on
+Administration of Criminal Justice demonstrating any additional net slot machine proceeds
+and the effect on collecting and disposing of fees and taxes.
+Proposed law ensures, notwithstanding a force majeure, that local entities and authorities
+receive an amount not less than the amount received in the 2025-2026 fiscal year.
+Proposed law terminates on June 30, 2027.
+Page 3 of 4
+CCRHB75 4825 6329
+Effective July 1, 2026.
+(Adds R.S. 27:393(D) and 393.2)
+Page 4 of 4
+[DELETED: 52nJ H B N 7 b R J r t f.T t s o S C A b t S C o.T.T e f i l a a o e d i]
+[DELETED: nSoSnS]
+[DELETED: 52nJ.C.I.C B t S C o J B a t H C o]
+
+
+================================================================================
+
+Raw Text:
+CCRHB75 4825 6329
+CONFERENCE COMMITTEE REPORT
+HB 75 2026 Regular Session Jackson
+June 1, 2026
+To the Honorable Speaker and Members of the House of Representatives and the Honorable
+President and Members of the Senate.
+Ladies and Gentlemen:
+We, the conferees appointed to confer over the disagreement between the two houses
+concerning House Bill No. 75 by Representative Jackson, recommend the following
+concerning the Reengrossed bill:
+1. That the set of Senate Committee Amendments by the Senate Committee on
+Judiciary B (#4494) be rejected.
+2. That the set of Senate Floor Amendments by Senator Reese (#4582) be adopted.
+3. That the following amendments be adopted:
+AMENDMENT NO. 1
+In Senate Floor Amendment No. 2 by Senator Reese (#4582), on page 1, delete line
+7 and insert the following:
+"enact R.S. 27:392(D) and 393.2, relative to gaming activity; to provide for
+the collection and disposition of fees and taxes; to provide for an enhanced"
+AMENDMENT NO. 2
+In Senate Floor Amendment No. 3 by Senator Reese (#4582), on page 1, line 13,
+delete "R.S. 27:393.2 is" and insert "R.S. 27:393(D) and 393.2 are"
+AMENDMENT NO. 3
+In Senate Floor Amendment No. 3 by Senator Reese (#4582), on page 1, between
+lines 13 and 14, insert the following:
+"§392. Collection and disposition of fees and taxes
+* * *
+D. Notwithstanding any other law to the contrary, absent a force
+majeure event, the local governing authorities in the parish in which the
+licensed eligible facility is located, and any other entities described in
+Subsections B and C of this Section, shall not receive an amount less than the
+amount received during the 2025-2026 fiscal year.
+* * *"
+AMENDMENT NO. 4
+In Senate Floor Amendment No. 3 by Senator Reese (#4582), on page 1, delete line
+31 and insert the following:
+"Section 2. This Act shall become effective on July 1, 2026.
+Section 3. The provisions of this Act shall cease to be effective as of June 30, 2027.
+Page 1 of 4
+
+CCRHB75 4825 6329
+Respectfully submitted,
+Representative Steven Jackson Senator Mike Reese
+Representative Debbie Villio Senator Kirk Talbot
+Representative Aimee Freeman Senator Jimmy Harris
+Page 2 of 4
+
+CCRHB75 4825 6329
+DIGEST
+The digest printed below was prepared by House Legislative Services. It constitutes no part
+of the legislative instrument. The keyword, one-liner, abstract, and digest do not constitute
+part of the law or proof or indicia of legislative intent. [R.S. 1:13(B) and 24:177(E)]
+CONFERENCE COMMITTEE REPORT DIGEST
+HB 75 2026 Regular Session Jackson
+Keyword and oneliner of the instrument as it left the House
+GAMING: Provides for the allowable amount of promotional play offered by certain gaming
+operators and for deductions regarding promotional play
+Report adopts Senate amendments to:
+1. Create a pilot program that increases the amount of untaxable promotional play
+wagers from five million dollars to seven million dollars.
+Report rejects Senate amendments which would have:
+1. Increased the amount of untaxable promotional play wagers from five million dollars
+to seven million dollars for riverboat casinos, the official gaming establishment in
+New Orleans, and racetracks.
+Report amends the bill to:
+1. Clarify that the increase in promotional play wagers shall not diminish the amount
+of locally dedicated funds relative to the 2025-2026 fiscal year.
+Digest of the bill as proposed by the Conference Committee
+Present law provides for promotional play wagers by licensees operating slot machines at
+racing facilities. Proposed law retains present law.
+Proposed law temporarily redefines "net slot machine proceeds," notwithstanding present law
+(R.S. 27:353(9)), and provides for the application and distribution of such proceeds from July
+1, 2026, through June 30, 2027.
+Proposed law creates a pilot program to increase the amount of promotional play wagers
+available to licensees from $5M to $7M.
+Proposed law prohibits the additional $2M directly attributable to promotional play wagers
+from being assigned to another licensee or casino gaming operator.
+Proposed law requires licensees, by March 1, 2027, to provide a report to the Gaming
+Control Bd., the Senate Committee on Judiciary B, and the House Committee on
+Administration of Criminal Justice demonstrating any additional net slot machine proceeds
+and the effect on collecting and disposing of fees and taxes.
+Proposed law ensures, notwithstanding a force majeure, that local entities and authorities
+receive an amount not less than the amount received in the 2025-2026 fiscal year.
+Proposed law terminates on June 30, 2027.
+Page 3 of 4
+
+CCRHB75 4825 6329
+Effective July 1, 2026.
+(Adds R.S. 27:393(D) and 393.2)
+Page 4 of 4
+
+[DELETED: 52nJ H B N 7 b R J r t f.T t s o S C A b t S C o.T.T e f i l a a o e d i]
+[DELETED: nSoSnS]
+[DELETED: 52nJ.C.I.C B t S C o J B a t H C o]
