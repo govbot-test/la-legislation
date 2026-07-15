@@ -1,0 +1,737 @@
+Title: SENATE BILL NO. 77
+Official Title: SENATE BILL NO. 77
+Number of Sections: 1
+Source: versions - SB77 Act
+Media Type: application/pdf
+Strikethrough Detection: 7 sections found
+
+================================================================================
+
+Section 1:
+2026 Regular Session ACT No. 240 ENROLLED
+BY SENATOR MILLER (On Recommendation of the Louisiana State Law Institute)
+1 AN ACT
+2 To amend and reenact Civil Code Arts. 2674, 2681, 2711, 2712, and 2713, and to enact
+3 Section 5 of Chapter 2 of Title IX of Book III of the Civil Code, to be comprised of
+4 Civil Code Arts. 2681.1 and 2681.2, and Civil Code Art. 2713.1, relative to leases
+5 of movable property; to provide for effects against third persons; to provide relative
+6 to delivery of leased goods; to provide for the effects of leases by nonowners; to
+7 provide relative to transfers of property subject to a lease; to provide relative to
+8 sublease and the assignment and encumbrance of lease interests; and to provide for
+9 related matters.
+10 Be it enacted by the Legislature of Louisiana:
+11 Section 1. Civil Code Arts. 2674, 2681, 2711, 2712, and 2713 are hereby amended
+12 and reenacted and Section 5 of Chapter 2 of Title IX of Book III of the Civil Code, to be
+13 comprised of Civil Code Arts. 2681.1 and 2681.2, and Civil Code Art. 2713.1 are hereby
+14 enacted to read as follows:
+15 Art. 2674. Ownership of the thing
+16 A lease of a thing that does not belong to the lessor may nevertheless be
+17 binding on the parties.
+18 A lease of a corporeal movable that does not belong to the lessor has
+19 effect against the owner if the lessor has possession of the thing with the consent
+20 of the owner, is a merchant customarily selling or leasing similar things, and
+21 leases the thing for fair value in the regular course of the lessor's business to a
+22 lessee in good faith.
+23 Revision Comments – 2026
+24 (a) The second paragraph of this Article is new. It articulates a rule that aligns
+25 with the principles set forth in Article 520 and with the doctrine of entrustment found
+26 in the Uniform Commercial Code. See U.C.C. Sections 2-403 and 2A-305(2). Under
+27 Article 520, a merchant in possession of a corporeal movable with the owner's
+28 consent may transfer ownership of the movable in the regular course of business to
+29 a transferee who is in good faith and pays fair value. That provision is designed to
+30 protect the rights of persons who reasonably and honestly believe that the person
+Page 1 of 7
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+SB NO. 77 ENROLLED
+1 with whom they are dealing has the power to transfer the movable. In the same vein,
+2 this Article protects a lessee who leases from someone who he reasonably and
+3 honestly believes has the power to lease the movable. For example, if the owner of
+4 a corporeal movable places it in the possession of a repairperson who also
+5 customarily sells or leases things of the same kind, and the repairperson leases the
+6 thing for fair value during the regular course of its business to a lessee in good faith,
+7 the lease has effect against the owner of the thing. Similarly, this Article protects a
+8 sublessee of a merchant who subleases a corporeal movable beyond the terms of the
+9 prime lease, provided that the sublease is executed for fair value in the regular course
+10 of the merchant's business to a sublessee in good faith. In this way, this Article
+11 operates as an exception to the general limitation on the rights of sublessees stated
+12 in Article 2713.1 and is consistent with U.C.C. Section 2A-305(2).
+13 (b) The term "possession," as used in this Article and in Article 520, refers
+14 to precarious possession, which is defined in Article 3437 as the exercise of
+15 possession over a thing with the permission of or on behalf of the owner or
+16 possessor. See A.N. Yiannopoulos & Ronald J. Scalise, Jr., Louisiana Civil Law
+17 Treatise: Property §12:20.
+18 (c) The concept of good faith adopted in this Article derives from Article 523,
+19 according to which an acquirer of a corporeal movable is in good faith unless he
+20 knows, or should have known, that the transferor was not the owner. Under that
+21 Article, good faith is presumed. See Brown and Root, Inc. v. Southeast Equipment
+22 Co., Inc. 470 So. 2d 516 (La. App. 1 Cir. 1985). If, however, the acquirer has notice
+23 of facts that would put a reasonably prudent person on inquiry, the acquirer is under
+24 a duty to investigate with the view of ascertaining the true situation. See Article 523,
+25 cmt. (b). By analogy, a lessee is in good faith unless he has actual or constructive
+26 knowledge that his lessor exceeds his right to lease the thing.
+27 (d) When the lease of a thing that does not belong to the lessor has effect
+28 against the owner under the second paragraph of this Article, the owner may not
+29 evict the lessee. Absent an agreement to the contrary, however, the owner is not the
+30 lessor, is not personally bound by the lessor's obligations, and is not subrogated to
+31 the rights of the lessor under the lease. The owner may have a delictual or contractual
+32 action against the lessor, depending upon the circumstances, for any loss that the
+33 owner sustains as a result of the lease.
+34 (e) The second paragraph of this Article does not apply when a lease is
+35 binding on the owner by operation of the law of mandate, according to which a lease
+36 made by someone other than the owner of the thing may be binding on the owner due
+37 to the lessor's actual or apparent authority to lease it. See Article 2989 et seq.
+38 * * *
+39 Art. 2681. Form
+40 A lease may be made orally or in writing. A lease of an immovable is not
+41 effective against third persons until filed for recordation in the manner prescribed by
+42 legislation.
+43 SECTION 5. EFFECTS AGAINST THIRD PERSONS
+44 Art. 2681.1. Lease of an immovable
+45 A lease of an immovable has effect against third persons from the time
+46 that it is filed for registry in the manner prescribed by legislation.
+47 Revision Comments – 2026
+48 This revision does not change the law. In the civil law tradition, a lease is a
+49 contract that imposes personal obligations on the lessor and the lessee but does not
+Page 2 of 7
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+SB NO. 77 ENROLLED
+1 create real rights. A.N. Yiannopoulos & Ronald J. Scalise, Jr., Louisiana Civil Law
+2 Treatise: Property §9:26. Absent legislation to the contrary, a lease has no effect
+3 against one who is not a party to or bound by the lease. Id. With respect to
+4 immovables, Louisiana legislation and jurisprudence have long provided that a lease
+5 of an immovable has effect against third persons once it is filed for registry in the
+6 conveyance records of the parish where the immovable is located. See R.S.
+7 9:2721(A) (repealed); Articles 3338 and 3346; Summers v. Clark, 30 La. Ann. 436
+8 (La. 1878); Tate v. Fakouri, 118 So. 2d 464 (La. App. 1 Cir. 1959); Avenue Plaza,
+9 L.L.C. v. Falgoust, 654 So. 2d 838 (La. App. 4 Cir. 1995).
+10 Art. 2681.2. Lease of a movable
+11 A lease of a corporeal movable has effect against third persons upon
+12 actual delivery of the movable to the lessee who is in good faith and ceases to
+13 have that effect when the thing is returned to the lessor or his successor.
+14 Revision Comments – 2026
+15 (a) This Article is new. In the civil law tradition, a lease is a contract that
+16 imposes personal obligations on the lessor and the lessee but does not create real
+17 rights. A.N. Yiannopoulos & Ronald J. Scalise, Jr., Louisiana Civil Law Treatise:
+18 Property §9:26. Absent legislation to the contrary, a lease has no effect against one
+19 who is not a party to or bound by it. Id. Article 2733 of the Civil Code of 1870
+20 provided that the purchaser of a leased thing "can not turn out the tenant before his
+21 lease has expired, unless the contrary has been stipulated in the contract." That article
+22 was repealed in the 2004 revision of the title on "Lease" and replaced with Article
+23 2711, which provides instead that "[t]he transfer of the leased thing does not
+24 terminate the lease, unless the contrary had been agreed between the lessor and the
+25 lessee." While the 2004 Revision Comments to Article 2711 suggest that the lease
+26 of a movable has effect against third persons "because [a transferee's] right to use
+27 [the leased thing] has been alienated prior to his acquisition," the repeal of Article
+28 2733 of the Civil Code of 1870 cast doubt on that proposition. This revision
+29 explicitly adopts a rule that a lease of a corporeal movable is effective against third
+30 persons upon actual delivery of the movable to the lessee, provided that the lessee
+31 is in good faith.
+32 (b) This rule is consistent with the modern civil law approach to leases of
+33 movables, which affords some protections for the lessee against third persons. For
+34 example, in France a good faith lessee in actual possession is preferred over a
+35 subsequent lessee of the movable. See 20 Baudry-Lacantinerie & Wahl, Traité
+36 théorique et pratique de droit civil français Nos 138–45 (3d ed. 1906); cf. Fr. C. Civ.
+37 Art. 1198. While French law generally adheres to the traditional view that a lease of
+38 a movable is not enforceable against a subsequent purchaser of the thing, modern
+39 commentators take the view that the purchaser of a leased movable ought to be
+40 bound to the lease if the lease was by authentic act or if the lease was made known
+41 to the purchaser. See, e.g., Philippe Malaurie et al., Droit civil – Contrats spéciaux
+42 No. 621 (10th ed. 2018); 10 Planiol & Ripert, Traité pratique de droit civil français
+43 No. 732 (2d ed. 1956); 5 Aubry & Rau, Droit civil français §369 at 278 n.31 (6th ed.
+44 1952). Under German and Greek law, in the case of successive leases of the same
+45 thing, the person who first takes delivery in good faith prevails. In the event of an
+46 alienation of the leased thing, if the lessee has taken delivery in good faith before the
+47 alienation, the new owner is relegated to the possession of the thing subject to the
+48 lessee's right of detention. See 2 Karl Larenz, Lehrbuch des Schuldrechts
+49 (Besonderer Teil) 240-41 (13th ed. 1986); 1 Ioannis Delegiannis & Panagiotis
+50 Kornilakis, Special Law of Obligations 453 n.1, 454 (1992).
+51 (c) The Uniform Commercial Code also provides for the enforceability of a
+52 lease of goods against third persons. U.C.C. Section 2A-301 provides: "Except as
+53 otherwise provided…a lease contract is effective and enforceable according to its
+54 terms between the parties, against purchasers of the goods and against creditors of
+Page 3 of 7
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+SB NO. 77 ENROLLED
+1 the parties." Moreover, under U.C.C. Section 2A-302, a lease is effective "whether
+2 the lessor, the lessee, or a third party has possession of the goods." Thus, under
+3 U.C.C. Article 2A, a lease of goods is effective against third persons by virtue of the
+4 very existence of the lease contract. The rule adopted in this Article is narrower than
+5 the U.C.C. approach, as the protections conferred by this Article are dependent upon
+6 the lessee's good faith and actual delivery to the lessee.
+7 (d) This Article requires "actual delivery" of the movable to the lessee for the
+8 lease to be effective against third persons. "Actual delivery," which occurs when the
+9 movable is physically handed over to the lessee, is contrasted with "constructive
+10 delivery," which occurs when the transfer of possession is not physical but is instead
+11 symbolized by other actions or agreements, such as handing over the key to the place
+12 where the item is stored, negotiating a document of title, or even by the mere consent
+13 of the parties if the thing cannot be transported at the time of the lease. See Article
+14 2477 and cmt. (b).
+15 (e) The effectiveness of the lease against third persons is dependent upon the
+16 lessee's good faith. For example, in the case of successive leases, a subsequent lease
+17 is enforceable against the first lessee if the subsequent lessee takes actual delivery
+18 first in time and is in good faith. The concept of good faith adopted in this Article
+19 derives from Article 523, according to which an acquirer of a corporeal movable is
+20 in good faith unless he knows, or should have known, that the transferor was not the
+21 owner. Under that Article, good faith is presumed. See Brown and Root, Inc. v.
+22 Southeast Equipment Co., Inc, 470 So.2d 516 (La. App. 1 Cir. 1985). If, however,
+23 the acquirer has notice of facts that would put a reasonably prudent person on
+24 inquiry, the acquirer is under a duty to investigate with the view of ascertaining the
+25 true situation. See Article 523, cmt. (b). By analogy, a lessee is in good faith unless
+26 he has actual or constructive knowledge of conflicting rights of a third person to the
+27 leased thing.
+28 (f) Under this Article, the effectiveness of the lease against third persons
+29 ceases when the thing is returned to the lessor, whether voluntarily or involuntarily.
+30 If, for example, the lessee temporarily returns the movable to the lessor for repairs,
+31 and, while the thing is in the possession of the lessor, the lessor enters into a new
+32 lease with a subsequent lessee in good faith to whom the lessor actually delivers the
+33 leased movable, the subsequent lessee takes the movable free of the existing lease.
+34 This Article adopts an approach to this problem that is different from that found in
+35 the Uniform Commercial Code. U.C.C. Section 2A-304(2) provides that when the
+36 leased goods are "entrusted" to the lessor, a subsequent lessee in the ordinary course
+37 of business from the lessor obtains the goods free of the existing contract if the lessor
+38 was a merchant dealing in goods of that kind. U.C.C. Section 2-403 provides for the
+39 same result if the lessor, having been "entrusted" with the goods during the lease,
+40 sells them to a third person. By contrast, under this Article, a subsequent lessee or
+41 transferee of a lessor to whom the thing has been returned acquires the thing free of
+42 the existing lease regardless of whether the lessor is a merchant and irrespective of
+43 whether the subsequent transfer was made in the regular course of the lessor's
+44 business. The rule set forth in this Article applies whether the thing is returned to the
+45 lessor or the lessor's successor. In this context, "successor" has the meaning provided
+46 in Article 3506.
+47 (g) This Article alone does not address all possible disputes that may arise
+48 between a lessee of a corporeal movable and a third person to the lease. For example,
+49 to resolve contests between a lessee and a transferee of the same corporeal movable,
+50 this Article must be read in pari materia with Article 518, which provides that the
+51 transfer of ownership of a corporeal movable takes place against third persons when
+52 the possession of the movable is delivered to the transferee, and if possession has not
+53 yet been delivered, then a subsequent transferee in good faith to whom possession
+54 is delivered acquires ownership. If the lessee takes actual delivery of the thing in
+55 good faith before the transferee takes possession of it, then the lessee prevails. By
+56 contrast, if the transferee takes possession of the thing in good faith before the lessee
+57 takes actual delivery of it, then the transferee prevails. Contests may also arise
+58 between the lessee and a third person who claims a right in the thing by virtue of the
+59 dissolution, simulation, or nullity of the contract by which the lessor obtained the
+Page 4 of 7
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+SB NO. 77 ENROLLED
+1 thing. In those cases, this Article must be read in pari materia with Articles 2021,
+2 2028, and 2035. For example, under Article 2035, the nullity of a contract does not
+3 impair the rights acquired through an onerous contract by a third person in good
+4 faith. Thus, if the lessor's seller annuls the sale by which the lessor obtained
+5 ownership of the leased thing on grounds of fraud or error, the lease is enforceable
+6 against the seller only if the lessee took actual delivery of the thing in good faith
+7 before the sale was declared null. This result is in line with the Uniform Commercial
+8 Code, according to which a lessor with "voidable title" has the power to transfer a
+9 good leasehold interest to a "good faith subsequent lessee for value." See U.C.C.
+10 Section 2A-304(1).
+11 (h) This Article does not address the rights of a sublessee against a prime
+12 lessor, as those rights are instead governed by Article 2713.1.
+13 * * *
+14 Art. 2711. Transfer of thing by lessor does not terminate lease
+15 The transfer of the leased thing by the lessor does not terminate the lease,
+16 unless the contrary had been agreed between the lessor and the lessee. The lessee
+17 has an action against the lessor for any loss that the lessee sustains as a result
+18 of the transfer.
+19 Revision Comments – 2026
+20 (a) This revision does not change the law. This Article combines former
+21 Articles 2711 and 2712 to make clear that the principle stated in the second sentence
+22 of former Article 2712 applies equally to movables and immovables. As under prior
+23 law, the transfer of the leased thing does not terminate the lease, which continues to
+24 have effects between the lessor and lessee. This is consistent with the principle that
+25 "[a] lease of a thing that does not belong to the lessor may nevertheless be binding
+26 on the parties," Article 2674, and that "ownership of the thing by the lessor is not an
+27 essential element of the contract of lease." Id., cmt. (c).
+28 (b) Following a transfer of a leased thing, the lessee has an action against the
+29 lessor for any loss that the lessee sustains as a result of the transfer. For example, if
+30 the lease was not enforceable against third persons at the time of the transfer and the
+31 lessor transfers the leased thing to a person who exercises the right to evict the lessee
+32 before the end of the term, the lessor has failed to perform obligations under the
+33 warranty of peaceful possession. See Article 2700. The consequences of this breach
+34 are determined under the law of conventional obligations and may consist of
+35 injunctive relief, dissolution of the lease, or damages, according to the
+36 circumstances. See id., cmt. (b).
+37 (c) As under prior law, the continuation of the lease following transfer of the
+38 leased thing and the lessee's rights against the lessor following the transfer are
+39 matters of suppletive law and may be modified or negated by the parties' agreement.
+40 Art. 2712. Transfer of immovable subject to unrecorded lease thing does not
+41 transfer rights and obligations of lease
+42 A third person who acquires an immovable that is subject to an unrecorded
+43 lease is not bound by the lease.
+44 In the absence of a contrary provision in the lease contract, the lessee has an
+45 action against the lessor for any loss the lessee sustained as a result of the transfer.
+Page 5 of 7
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+SB NO. 77 ENROLLED
+1 The transferee of a thing that is subject to a lease is not legally
+2 subrogated to the rights of his transferor and is not personally bound by the
+3 transferor's obligations under the lease unless the transferee assumes them.
+4 Revision Comments – 2026
+5 This revision does not change the law. This Article restates the principle of
+6 Article 1764 that a particular successor, that is, one who acquires a thing by
+7 particular title, is not bound by the personal obligations of the transferor with respect
+8 to the thing, unless the particular successor has assumed those obligations. A
+9 particular successor likewise does not acquire any personal rights of the transferor
+10 in the absence of a conventional subrogation to those rights by the transferor. See
+11 Article 1764, cmt. (d). In the context of lease, this means that, unless there is an
+12 agreement to the contrary, the transferee of a thing that is subject to lease does not
+13 become the lessor, is not bound by the lessor's obligations, and does not enjoy the
+14 lessor's rights in the lease. If the lessor has not assigned the right to the rent to the
+15 transferee, the lessee remains obligated to pay rent to the lessor and may not refuse
+16 to pay rent or perform his other obligations because of the lessor's lack of ownership.
+17 Art. 2713. Lessee's right Right to sublease, assign, or encumber
+18 The Each party has the right to assign or encumber his rights in the
+19 lease, and the lessee has the right to sublease the leased thing or to assign or
+20 encumber his rights in the lease, unless. These rights may be expressly prohibited
+21 by the contract of lease, except as otherwise provided by legislation.
+22 A provision in a lease of an immovable that prohibits one of these rights the
+23 right of the lessee to assign, encumber, or sublease is deemed to prohibit the
+24 others, unless a contrary intent is expressed. In all other respects, a provision that
+25 prohibits subleasing, the lessee of an immovable from assigning, or encumbering,
+26 or subleasing is to be strictly construed against the lessor.
+27 Revision Comments – 2026
+28 (a) This revision makes explicit that the lessor has the right to assign or
+29 encumber his rights in the lease, unless expressly prohibited by the contract of lease.
+30 Prior law addressed only the right of the lessee to assign or encumber his rights in
+31 the lease or to sublease the leased thing.
+32 (b) The parties' freedom to restrict the lessor's rights under this Article may
+33 be curtailed by other law. See, e.g., Article 3163 (leases of immovables); R.S. 10:9-
+34 407 (leases of movables).
+35 (c) The second paragraph of this Article changes the law in part. Under the
+36 previous version of this Article, a provision in the lease, whether of movables or
+37 immovables, that prohibited subleasing, assigning, or encumbering was deemed to
+38 prohibit the others, unless a contrary intent was expressed, and in all other respects,
+39 a provision prohibiting subleasing, assigning, or encumbering was to be strictly
+40 construed against the lessor. This revision continues that rule of construction of
+41 leases of immovables, but such a construction does not apply to leases of movables.
+42 The interpretation of a lease of movables, like any contract, is governed by the
+43 general rules governing the interpretation of conventional obligations. See Articles
+44 2045 through 2057.
+Page 6 of 7
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+SB NO. 77 ENROLLED
+1 Art. 2713.1. Rights of sublessee or assignee
+2 Except as otherwise provided by legislation, a person to whom a lessee
+3 subleases the thing or assigns his rights in the lease acquires no greater rights
+4 than the lessee to the use and enjoyment of the thing.
+5 Revision Comments – 2026
+6 (a) This Article restates a principle that has long been recognized in the
+7 Louisiana jurisprudence. See Standard Oil Co. of Louisiana v. Joy, 150 So. 443 (La.
+8 App. Orl. 1933); Scott v. Kalip, 197 So. 205 (La. App. 2 Cir. 1940); Ogden v. John
+9 Jay Esthetic Salons, Inc., 470 So. 2d 521 (La. App. 1 Cir. 1985); Brown v. Mayfield,
+10 488 So. 2d 322 (La. App. 3 Cir. 1986). With respect to movable things, the rule set
+11 forth in this Article is equivalent to that set forth in U.C.C Section 2A-305(1): "[A]
+12 buyer or sublessee from the lessee of goods under an existing lease contract obtains,
+13 to the extent of the interest transferred, the leasehold interest in the goods that the
+14 lessee had or had power to transfer, and…takes subject to the existing lease
+15 contract."
+16 (b) As an exception to the general rule found in this Article, Article 2674
+17 allows a good faith sublessee of a corporeal movable to acquire greater rights than
+18 those provided by the prime lease under the limited circumstances described in that
+19 article. This exception is designed to protect the rights of a sublessee who reasonably
+20 and honestly believes that the person with whom he is dealing is not restricted in his
+21 power to lease the movable. See also Article 520.
+22 (c) This Article does not displace other provisions of Louisiana law that
+23 address the rights of a sublessee of a thing vis-à-vis the prime lessor. First, this
+24 Article must be read in pari materia with Article 2681.2, under which a sublease,
+25 like any lease, has effect against third persons, including the prime lessor, upon
+26 actual delivery of the movable to the sublessee in good faith. In cases of dissolution,
+27 simulation, or nullity of the contract by which the sublessor obtained the thing, this
+28 Article must also be read in pari materia with Articles 2021, 2028, and 2035. For
+29 example, under Article 2035, the nullity of a contract does not impair the rights
+30 acquired through an onerous contract by a third person in good faith. Thus, if the
+31 sublessor's lessor annuls the prime lease on grounds of fraud or error, the sublease
+32 remains effective if the sublessee took delivery of the thing in good faith before the
+33 prime lease was declared null. This result is consistent with the Uniform Commercial
+34 Code, according to which a sublessor with a "voidable leasehold interest" has the
+35 power to transfer a good leasehold interest to a "good faith sublessee for value." See
+36 U.C.C. Section 2A-305(1).
+PRESIDENT OF THE SENATE
+SPEAKER OF THE HOUSE OF REPRESENTATIVES
+GOVERNOR OF THE STATE OF LOUISIANA
+APPROVED:
+Page 7 of 7
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+[DELETED: nEATSCotpsr0B1S2a3c4e5A6A7b8A9e0o1l2l3R4(5w6i7A8c9a0p]
+[DELETED: 7Ewtha c m p i i t p o a r w acttsp0o1o2i3(4t p p w i d i A 3 a t e o5p o a t w t p o o o b o t o o6p7T8(9a0k1A2C3o4a5c6k7(8a9e0l1t2a3o4(5b6m7t8*9A0A1e2l3S4A5A6t7R8T9c]
+[DELETED: 7EcTa o w i n a p t o b b t l I W r tioc r o t p w t i i l S R9(L0A1A2a3h4R5(6i7r8P9w0p1l2w32 w p i t " t o t l t d n4t5l6o7[82 o t C C o 1 c d o t p T r9e0p1i2(3m4e5s t m B W T6t7A8a9c0b1t2N3N415t6a7a8l r o d S 2 K L L d S9( 2 ( e 1 1 I D & P0K1(2l3o4t]
+[DELETED: 7EttUvtt(lm0d1s2w3o425(6l7i8f9d0i1o2S3t4i5t6h7l8(9c0I1a2l3l4T5t6l7o8w9s0s1t2t3w t4b5l6i7(8b9t0t1t2t3y4i5g6c7t8b9d]
+[DELETED: 7Et2if T i t l s a t s b w t l ooabCg0S1(2l3*4A5T6u7h8o9R0(1A2o3l4h5"6o7e8(9l0t1l2b3w4a d u t l o c o a m c o5i r d o t l o d a t t6c7(8l9m0A 2 T o i s t u l t d n1t2A3l4I5a]
+[DELETED: 7ET t o a t t i s t a l i n lstRTA 1 t a p s t i o w a a t bpt t t u t p s h a t o p0i1A2a3b4l5t6t7A8T9l0e1b2A3r4o5p6o7R8(9e0P1t2(3b445(6p7i8p9a0c1l2T3g42]
+[DELETED: 7EAEstR(LAJ041f2b3t4l h o h p t t a s t t e l5c6(7a8t9a0a1p2(3a4A5l6a7s8A9e0a1s2r3p4C5p6U]
+
+
+================================================================================
+
+Raw Text:
+2026 Regular Session ACT No. 240 ENROLLED
+SENATE BILL NO. 77
+BY SENATOR MILLER (On Recommendation of the Louisiana State Law Institute)
+1 AN ACT
+2 To amend and reenact Civil Code Arts. 2674, 2681, 2711, 2712, and 2713, and to enact
+3 Section 5 of Chapter 2 of Title IX of Book III of the Civil Code, to be comprised of
+4 Civil Code Arts. 2681.1 and 2681.2, and Civil Code Art. 2713.1, relative to leases
+5 of movable property; to provide for effects against third persons; to provide relative
+6 to delivery of leased goods; to provide for the effects of leases by nonowners; to
+7 provide relative to transfers of property subject to a lease; to provide relative to
+8 sublease and the assignment and encumbrance of lease interests; and to provide for
+9 related matters.
+10 Be it enacted by the Legislature of Louisiana:
+11 Section 1. Civil Code Arts. 2674, 2681, 2711, 2712, and 2713 are hereby amended
+12 and reenacted and Section 5 of Chapter 2 of Title IX of Book III of the Civil Code, to be
+13 comprised of Civil Code Arts. 2681.1 and 2681.2, and Civil Code Art. 2713.1 are hereby
+14 enacted to read as follows:
+15 Art. 2674. Ownership of the thing
+16 A lease of a thing that does not belong to the lessor may nevertheless be
+17 binding on the parties.
+18 A lease of a corporeal movable that does not belong to the lessor has
+19 effect against the owner if the lessor has possession of the thing with the consent
+20 of the owner, is a merchant customarily selling or leasing similar things, and
+21 leases the thing for fair value in the regular course of the lessor's business to a
+22 lessee in good faith.
+23 Revision Comments – 2026
+24 (a) The second paragraph of this Article is new. It articulates a rule that aligns
+25 with the principles set forth in Article 520 and with the doctrine of entrustment found
+26 in the Uniform Commercial Code. See U.C.C. Sections 2-403 and 2A-305(2). Under
+27 Article 520, a merchant in possession of a corporeal movable with the owner's
+28 consent may transfer ownership of the movable in the regular course of business to
+29 a transferee who is in good faith and pays fair value. That provision is designed to
+30 protect the rights of persons who reasonably and honestly believe that the person
+Page 1 of 7
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SB NO. 77 ENROLLED
+1 with whom they are dealing has the power to transfer the movable. In the same vein,
+2 this Article protects a lessee who leases from someone who he reasonably and
+3 honestly believes has the power to lease the movable. For example, if the owner of
+4 a corporeal movable places it in the possession of a repairperson who also
+5 customarily sells or leases things of the same kind, and the repairperson leases the
+6 thing for fair value during the regular course of its business to a lessee in good faith,
+7 the lease has effect against the owner of the thing. Similarly, this Article protects a
+8 sublessee of a merchant who subleases a corporeal movable beyond the terms of the
+9 prime lease, provided that the sublease is executed for fair value in the regular course
+10 of the merchant's business to a sublessee in good faith. In this way, this Article
+11 operates as an exception to the general limitation on the rights of sublessees stated
+12 in Article 2713.1 and is consistent with U.C.C. Section 2A-305(2).
+13 (b) The term "possession," as used in this Article and in Article 520, refers
+14 to precarious possession, which is defined in Article 3437 as the exercise of
+15 possession over a thing with the permission of or on behalf of the owner or
+16 possessor. See A.N. Yiannopoulos & Ronald J. Scalise, Jr., Louisiana Civil Law
+17 Treatise: Property §12:20.
+18 (c) The concept of good faith adopted in this Article derives from Article 523,
+19 according to which an acquirer of a corporeal movable is in good faith unless he
+20 knows, or should have known, that the transferor was not the owner. Under that
+21 Article, good faith is presumed. See Brown and Root, Inc. v. Southeast Equipment
+22 Co., Inc. 470 So. 2d 516 (La. App. 1 Cir. 1985). If, however, the acquirer has notice
+23 of facts that would put a reasonably prudent person on inquiry, the acquirer is under
+24 a duty to investigate with the view of ascertaining the true situation. See Article 523,
+25 cmt. (b). By analogy, a lessee is in good faith unless he has actual or constructive
+26 knowledge that his lessor exceeds his right to lease the thing.
+27 (d) When the lease of a thing that does not belong to the lessor has effect
+28 against the owner under the second paragraph of this Article, the owner may not
+29 evict the lessee. Absent an agreement to the contrary, however, the owner is not the
+30 lessor, is not personally bound by the lessor's obligations, and is not subrogated to
+31 the rights of the lessor under the lease. The owner may have a delictual or contractual
+32 action against the lessor, depending upon the circumstances, for any loss that the
+33 owner sustains as a result of the lease.
+34 (e) The second paragraph of this Article does not apply when a lease is
+35 binding on the owner by operation of the law of mandate, according to which a lease
+36 made by someone other than the owner of the thing may be binding on the owner due
+37 to the lessor's actual or apparent authority to lease it. See Article 2989 et seq.
+38 * * *
+39 Art. 2681. Form
+40 A lease may be made orally or in writing. A lease of an immovable is not
+41 effective against third persons until filed for recordation in the manner prescribed by
+42 legislation.
+43 SECTION 5. EFFECTS AGAINST THIRD PERSONS
+44 Art. 2681.1. Lease of an immovable
+45 A lease of an immovable has effect against third persons from the time
+46 that it is filed for registry in the manner prescribed by legislation.
+47 Revision Comments – 2026
+48 This revision does not change the law. In the civil law tradition, a lease is a
+49 contract that imposes personal obligations on the lessor and the lessee but does not
+Page 2 of 7
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SB NO. 77 ENROLLED
+1 create real rights. A.N. Yiannopoulos & Ronald J. Scalise, Jr., Louisiana Civil Law
+2 Treatise: Property §9:26. Absent legislation to the contrary, a lease has no effect
+3 against one who is not a party to or bound by the lease. Id. With respect to
+4 immovables, Louisiana legislation and jurisprudence have long provided that a lease
+5 of an immovable has effect against third persons once it is filed for registry in the
+6 conveyance records of the parish where the immovable is located. See R.S.
+7 9:2721(A) (repealed); Articles 3338 and 3346; Summers v. Clark, 30 La. Ann. 436
+8 (La. 1878); Tate v. Fakouri, 118 So. 2d 464 (La. App. 1 Cir. 1959); Avenue Plaza,
+9 L.L.C. v. Falgoust, 654 So. 2d 838 (La. App. 4 Cir. 1995).
+10 Art. 2681.2. Lease of a movable
+11 A lease of a corporeal movable has effect against third persons upon
+12 actual delivery of the movable to the lessee who is in good faith and ceases to
+13 have that effect when the thing is returned to the lessor or his successor.
+14 Revision Comments – 2026
+15 (a) This Article is new. In the civil law tradition, a lease is a contract that
+16 imposes personal obligations on the lessor and the lessee but does not create real
+17 rights. A.N. Yiannopoulos & Ronald J. Scalise, Jr., Louisiana Civil Law Treatise:
+18 Property §9:26. Absent legislation to the contrary, a lease has no effect against one
+19 who is not a party to or bound by it. Id. Article 2733 of the Civil Code of 1870
+20 provided that the purchaser of a leased thing "can not turn out the tenant before his
+21 lease has expired, unless the contrary has been stipulated in the contract." That article
+22 was repealed in the 2004 revision of the title on "Lease" and replaced with Article
+23 2711, which provides instead that "[t]he transfer of the leased thing does not
+24 terminate the lease, unless the contrary had been agreed between the lessor and the
+25 lessee." While the 2004 Revision Comments to Article 2711 suggest that the lease
+26 of a movable has effect against third persons "because [a transferee's] right to use
+27 [the leased thing] has been alienated prior to his acquisition," the repeal of Article
+28 2733 of the Civil Code of 1870 cast doubt on that proposition. This revision
+29 explicitly adopts a rule that a lease of a corporeal movable is effective against third
+30 persons upon actual delivery of the movable to the lessee, provided that the lessee
+31 is in good faith.
+32 (b) This rule is consistent with the modern civil law approach to leases of
+33 movables, which affords some protections for the lessee against third persons. For
+34 example, in France a good faith lessee in actual possession is preferred over a
+35 subsequent lessee of the movable. See 20 Baudry-Lacantinerie & Wahl, Traité
+36 théorique et pratique de droit civil français Nos 138–45 (3d ed. 1906); cf. Fr. C. Civ.
+37 Art. 1198. While French law generally adheres to the traditional view that a lease of
+38 a movable is not enforceable against a subsequent purchaser of the thing, modern
+39 commentators take the view that the purchaser of a leased movable ought to be
+40 bound to the lease if the lease was by authentic act or if the lease was made known
+41 to the purchaser. See, e.g., Philippe Malaurie et al., Droit civil – Contrats spéciaux
+42 No. 621 (10th ed. 2018); 10 Planiol & Ripert, Traité pratique de droit civil français
+43 No. 732 (2d ed. 1956); 5 Aubry & Rau, Droit civil français §369 at 278 n.31 (6th ed.
+44 1952). Under German and Greek law, in the case of successive leases of the same
+45 thing, the person who first takes delivery in good faith prevails. In the event of an
+46 alienation of the leased thing, if the lessee has taken delivery in good faith before the
+47 alienation, the new owner is relegated to the possession of the thing subject to the
+48 lessee's right of detention. See 2 Karl Larenz, Lehrbuch des Schuldrechts
+49 (Besonderer Teil) 240-41 (13th ed. 1986); 1 Ioannis Delegiannis & Panagiotis
+50 Kornilakis, Special Law of Obligations 453 n.1, 454 (1992).
+51 (c) The Uniform Commercial Code also provides for the enforceability of a
+52 lease of goods against third persons. U.C.C. Section 2A-301 provides: "Except as
+53 otherwise provided…a lease contract is effective and enforceable according to its
+54 terms between the parties, against purchasers of the goods and against creditors of
+Page 3 of 7
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SB NO. 77 ENROLLED
+1 the parties." Moreover, under U.C.C. Section 2A-302, a lease is effective "whether
+2 the lessor, the lessee, or a third party has possession of the goods." Thus, under
+3 U.C.C. Article 2A, a lease of goods is effective against third persons by virtue of the
+4 very existence of the lease contract. The rule adopted in this Article is narrower than
+5 the U.C.C. approach, as the protections conferred by this Article are dependent upon
+6 the lessee's good faith and actual delivery to the lessee.
+7 (d) This Article requires "actual delivery" of the movable to the lessee for the
+8 lease to be effective against third persons. "Actual delivery," which occurs when the
+9 movable is physically handed over to the lessee, is contrasted with "constructive
+10 delivery," which occurs when the transfer of possession is not physical but is instead
+11 symbolized by other actions or agreements, such as handing over the key to the place
+12 where the item is stored, negotiating a document of title, or even by the mere consent
+13 of the parties if the thing cannot be transported at the time of the lease. See Article
+14 2477 and cmt. (b).
+15 (e) The effectiveness of the lease against third persons is dependent upon the
+16 lessee's good faith. For example, in the case of successive leases, a subsequent lease
+17 is enforceable against the first lessee if the subsequent lessee takes actual delivery
+18 first in time and is in good faith. The concept of good faith adopted in this Article
+19 derives from Article 523, according to which an acquirer of a corporeal movable is
+20 in good faith unless he knows, or should have known, that the transferor was not the
+21 owner. Under that Article, good faith is presumed. See Brown and Root, Inc. v.
+22 Southeast Equipment Co., Inc, 470 So.2d 516 (La. App. 1 Cir. 1985). If, however,
+23 the acquirer has notice of facts that would put a reasonably prudent person on
+24 inquiry, the acquirer is under a duty to investigate with the view of ascertaining the
+25 true situation. See Article 523, cmt. (b). By analogy, a lessee is in good faith unless
+26 he has actual or constructive knowledge of conflicting rights of a third person to the
+27 leased thing.
+28 (f) Under this Article, the effectiveness of the lease against third persons
+29 ceases when the thing is returned to the lessor, whether voluntarily or involuntarily.
+30 If, for example, the lessee temporarily returns the movable to the lessor for repairs,
+31 and, while the thing is in the possession of the lessor, the lessor enters into a new
+32 lease with a subsequent lessee in good faith to whom the lessor actually delivers the
+33 leased movable, the subsequent lessee takes the movable free of the existing lease.
+34 This Article adopts an approach to this problem that is different from that found in
+35 the Uniform Commercial Code. U.C.C. Section 2A-304(2) provides that when the
+36 leased goods are "entrusted" to the lessor, a subsequent lessee in the ordinary course
+37 of business from the lessor obtains the goods free of the existing contract if the lessor
+38 was a merchant dealing in goods of that kind. U.C.C. Section 2-403 provides for the
+39 same result if the lessor, having been "entrusted" with the goods during the lease,
+40 sells them to a third person. By contrast, under this Article, a subsequent lessee or
+41 transferee of a lessor to whom the thing has been returned acquires the thing free of
+42 the existing lease regardless of whether the lessor is a merchant and irrespective of
+43 whether the subsequent transfer was made in the regular course of the lessor's
+44 business. The rule set forth in this Article applies whether the thing is returned to the
+45 lessor or the lessor's successor. In this context, "successor" has the meaning provided
+46 in Article 3506.
+47 (g) This Article alone does not address all possible disputes that may arise
+48 between a lessee of a corporeal movable and a third person to the lease. For example,
+49 to resolve contests between a lessee and a transferee of the same corporeal movable,
+50 this Article must be read in pari materia with Article 518, which provides that the
+51 transfer of ownership of a corporeal movable takes place against third persons when
+52 the possession of the movable is delivered to the transferee, and if possession has not
+53 yet been delivered, then a subsequent transferee in good faith to whom possession
+54 is delivered acquires ownership. If the lessee takes actual delivery of the thing in
+55 good faith before the transferee takes possession of it, then the lessee prevails. By
+56 contrast, if the transferee takes possession of the thing in good faith before the lessee
+57 takes actual delivery of it, then the transferee prevails. Contests may also arise
+58 between the lessee and a third person who claims a right in the thing by virtue of the
+59 dissolution, simulation, or nullity of the contract by which the lessor obtained the
+Page 4 of 7
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SB NO. 77 ENROLLED
+1 thing. In those cases, this Article must be read in pari materia with Articles 2021,
+2 2028, and 2035. For example, under Article 2035, the nullity of a contract does not
+3 impair the rights acquired through an onerous contract by a third person in good
+4 faith. Thus, if the lessor's seller annuls the sale by which the lessor obtained
+5 ownership of the leased thing on grounds of fraud or error, the lease is enforceable
+6 against the seller only if the lessee took actual delivery of the thing in good faith
+7 before the sale was declared null. This result is in line with the Uniform Commercial
+8 Code, according to which a lessor with "voidable title" has the power to transfer a
+9 good leasehold interest to a "good faith subsequent lessee for value." See U.C.C.
+10 Section 2A-304(1).
+11 (h) This Article does not address the rights of a sublessee against a prime
+12 lessor, as those rights are instead governed by Article 2713.1.
+13 * * *
+14 Art. 2711. Transfer of thing by lessor does not terminate lease
+15 The transfer of the leased thing by the lessor does not terminate the lease,
+16 unless the contrary had been agreed between the lessor and the lessee. The lessee
+17 has an action against the lessor for any loss that the lessee sustains as a result
+18 of the transfer.
+19 Revision Comments – 2026
+20 (a) This revision does not change the law. This Article combines former
+21 Articles 2711 and 2712 to make clear that the principle stated in the second sentence
+22 of former Article 2712 applies equally to movables and immovables. As under prior
+23 law, the transfer of the leased thing does not terminate the lease, which continues to
+24 have effects between the lessor and lessee. This is consistent with the principle that
+25 "[a] lease of a thing that does not belong to the lessor may nevertheless be binding
+26 on the parties," Article 2674, and that "ownership of the thing by the lessor is not an
+27 essential element of the contract of lease." Id., cmt. (c).
+28 (b) Following a transfer of a leased thing, the lessee has an action against the
+29 lessor for any loss that the lessee sustains as a result of the transfer. For example, if
+30 the lease was not enforceable against third persons at the time of the transfer and the
+31 lessor transfers the leased thing to a person who exercises the right to evict the lessee
+32 before the end of the term, the lessor has failed to perform obligations under the
+33 warranty of peaceful possession. See Article 2700. The consequences of this breach
+34 are determined under the law of conventional obligations and may consist of
+35 injunctive relief, dissolution of the lease, or damages, according to the
+36 circumstances. See id., cmt. (b).
+37 (c) As under prior law, the continuation of the lease following transfer of the
+38 leased thing and the lessee's rights against the lessor following the transfer are
+39 matters of suppletive law and may be modified or negated by the parties' agreement.
+40 Art. 2712. Transfer of immovable subject to unrecorded lease thing does not
+41 transfer rights and obligations of lease
+42 A third person who acquires an immovable that is subject to an unrecorded
+43 lease is not bound by the lease.
+44 In the absence of a contrary provision in the lease contract, the lessee has an
+45 action against the lessor for any loss the lessee sustained as a result of the transfer.
+Page 5 of 7
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SB NO. 77 ENROLLED
+1 The transferee of a thing that is subject to a lease is not legally
+2 subrogated to the rights of his transferor and is not personally bound by the
+3 transferor's obligations under the lease unless the transferee assumes them.
+4 Revision Comments – 2026
+5 This revision does not change the law. This Article restates the principle of
+6 Article 1764 that a particular successor, that is, one who acquires a thing by
+7 particular title, is not bound by the personal obligations of the transferor with respect
+8 to the thing, unless the particular successor has assumed those obligations. A
+9 particular successor likewise does not acquire any personal rights of the transferor
+10 in the absence of a conventional subrogation to those rights by the transferor. See
+11 Article 1764, cmt. (d). In the context of lease, this means that, unless there is an
+12 agreement to the contrary, the transferee of a thing that is subject to lease does not
+13 become the lessor, is not bound by the lessor's obligations, and does not enjoy the
+14 lessor's rights in the lease. If the lessor has not assigned the right to the rent to the
+15 transferee, the lessee remains obligated to pay rent to the lessor and may not refuse
+16 to pay rent or perform his other obligations because of the lessor's lack of ownership.
+17 Art. 2713. Lessee's right Right to sublease, assign, or encumber
+18 The Each party has the right to assign or encumber his rights in the
+19 lease, and the lessee has the right to sublease the leased thing or to assign or
+20 encumber his rights in the lease, unless. These rights may be expressly prohibited
+21 by the contract of lease, except as otherwise provided by legislation.
+22 A provision in a lease of an immovable that prohibits one of these rights the
+23 right of the lessee to assign, encumber, or sublease is deemed to prohibit the
+24 others, unless a contrary intent is expressed. In all other respects, a provision that
+25 prohibits subleasing, the lessee of an immovable from assigning, or encumbering,
+26 or subleasing is to be strictly construed against the lessor.
+27 Revision Comments – 2026
+28 (a) This revision makes explicit that the lessor has the right to assign or
+29 encumber his rights in the lease, unless expressly prohibited by the contract of lease.
+30 Prior law addressed only the right of the lessee to assign or encumber his rights in
+31 the lease or to sublease the leased thing.
+32 (b) The parties' freedom to restrict the lessor's rights under this Article may
+33 be curtailed by other law. See, e.g., Article 3163 (leases of immovables); R.S. 10:9-
+34 407 (leases of movables).
+35 (c) The second paragraph of this Article changes the law in part. Under the
+36 previous version of this Article, a provision in the lease, whether of movables or
+37 immovables, that prohibited subleasing, assigning, or encumbering was deemed to
+38 prohibit the others, unless a contrary intent was expressed, and in all other respects,
+39 a provision prohibiting subleasing, assigning, or encumbering was to be strictly
+40 construed against the lessor. This revision continues that rule of construction of
+41 leases of immovables, but such a construction does not apply to leases of movables.
+42 The interpretation of a lease of movables, like any contract, is governed by the
+43 general rules governing the interpretation of conventional obligations. See Articles
+44 2045 through 2057.
+Page 6 of 7
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SB NO. 77 ENROLLED
+1 Art. 2713.1. Rights of sublessee or assignee
+2 Except as otherwise provided by legislation, a person to whom a lessee
+3 subleases the thing or assigns his rights in the lease acquires no greater rights
+4 than the lessee to the use and enjoyment of the thing.
+5 Revision Comments – 2026
+6 (a) This Article restates a principle that has long been recognized in the
+7 Louisiana jurisprudence. See Standard Oil Co. of Louisiana v. Joy, 150 So. 443 (La.
+8 App. Orl. 1933); Scott v. Kalip, 197 So. 205 (La. App. 2 Cir. 1940); Ogden v. John
+9 Jay Esthetic Salons, Inc., 470 So. 2d 521 (La. App. 1 Cir. 1985); Brown v. Mayfield,
+10 488 So. 2d 322 (La. App. 3 Cir. 1986). With respect to movable things, the rule set
+11 forth in this Article is equivalent to that set forth in U.C.C Section 2A-305(1): "[A]
+12 buyer or sublessee from the lessee of goods under an existing lease contract obtains,
+13 to the extent of the interest transferred, the leasehold interest in the goods that the
+14 lessee had or had power to transfer, and…takes subject to the existing lease
+15 contract."
+16 (b) As an exception to the general rule found in this Article, Article 2674
+17 allows a good faith sublessee of a corporeal movable to acquire greater rights than
+18 those provided by the prime lease under the limited circumstances described in that
+19 article. This exception is designed to protect the rights of a sublessee who reasonably
+20 and honestly believes that the person with whom he is dealing is not restricted in his
+21 power to lease the movable. See also Article 520.
+22 (c) This Article does not displace other provisions of Louisiana law that
+23 address the rights of a sublessee of a thing vis-à-vis the prime lessor. First, this
+24 Article must be read in pari materia with Article 2681.2, under which a sublease,
+25 like any lease, has effect against third persons, including the prime lessor, upon
+26 actual delivery of the movable to the sublessee in good faith. In cases of dissolution,
+27 simulation, or nullity of the contract by which the sublessor obtained the thing, this
+28 Article must also be read in pari materia with Articles 2021, 2028, and 2035. For
+29 example, under Article 2035, the nullity of a contract does not impair the rights
+30 acquired through an onerous contract by a third person in good faith. Thus, if the
+31 sublessor's lessor annuls the prime lease on grounds of fraud or error, the sublease
+32 remains effective if the sublessee took delivery of the thing in good faith before the
+33 prime lease was declared null. This result is consistent with the Uniform Commercial
+34 Code, according to which a sublessor with a "voidable leasehold interest" has the
+35 power to transfer a good leasehold interest to a "good faith sublessee for value." See
+36 U.C.C. Section 2A-305(1).
+PRESIDENT OF THE SENATE
+SPEAKER OF THE HOUSE OF REPRESENTATIVES
+GOVERNOR OF THE STATE OF LOUISIANA
+APPROVED:
+Page 7 of 7
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+[DELETED: nEATSCotpsr0B1S2a3c4e5A6A7b8A9e0o1l2l3R4(5w6i7A8c9a0p]
+[DELETED: 7Ewtha c m p i i t p o a r w acttsp0o1o2i3(4t p p w i d i A 3 a t e o5p o a t w t p o o o b o t o o6p7T8(9a0k1A2C3o4a5c6k7(8a9e0l1t2a3o4(5b6m7t8*9A0A1e2l3S4A5A6t7R8T9c]
+[DELETED: 7EcTa o w i n a p t o b b t l I W r tioc r o t p w t i i l S R9(L0A1A2a3h4R5(6i7r8P9w0p1l2w32 w p i t " t o t l t d n4t5l6o7[82 o t C C o 1 c d o t p T r9e0p1i2(3m4e5s t m B W T6t7A8a9c0b1t2N3N415t6a7a8l r o d S 2 K L L d S9( 2 ( e 1 1 I D & P0K1(2l3o4t]
+[DELETED: 7EttUvtt(lm0d1s2w3o425(6l7i8f9d0i1o2S3t4i5t6h7l8(9c0I1a2l3l4T5t6l7o8w9s0s1t2t3w t4b5l6i7(8b9t0t1t2t3y4i5g6c7t8b9d]
+[DELETED: 7Et2if T i t l s a t s b w t l ooabCg0S1(2l3*4A5T6u7h8o9R0(1A2o3l4h5"6o7e8(9l0t1l2b3w4a d u t l o c o a m c o5i r d o t l o d a t t6c7(8l9m0A 2 T o i s t u l t d n1t2A3l4I5a]
+[DELETED: 7ET t o a t t i s t a l i n lstRTA 1 t a p s t i o w a a t bpt t t u t p s h a t o p0i1A2a3b4l5t6t7A8T9l0e1b2A3r4o5p6o7R8(9e0P1t2(3b445(6p7i8p9a0c1l2T3g42]
+[DELETED: 7EAEstR(LAJ041f2b3t4l h o h p t t a s t t e l5c6(7a8t9a0a1p2(3a4A5l6a7s8A9e0a1s2r3p4C5p6U]

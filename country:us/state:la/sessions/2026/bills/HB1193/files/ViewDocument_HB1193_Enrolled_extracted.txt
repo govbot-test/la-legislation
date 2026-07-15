@@ -1,0 +1,489 @@
+Title: HOUSE BILL NO. 1193
+Official Title: HOUSE BILL NO. 1193
+Number of Sections: 1
+Source: versions - HB1193 Enrolled
+Media Type: application/pdf
+Strikethrough Detection: 7 sections found
+
+================================================================================
+
+Section 1:
+ENROLLED
+2026 Regular Session
+BY REPRESENTATIVES SAWYER AND BOURRIAQUE
+1 AN ACT
+2 To amend and reenact R.S. 44:4.1(B)(35) and to enact R.S. 49:214.6.11, relative to
+3 Indefinite Delivery, Indefinite Quantity construction phase contracts; to authorize the
+4 Coastal Protection and Restoration Authority to use Indefinite Delivery, Indefinite
+5 Quantity (ID/IQ) contracting for certain projects; to provide for single or multiple
+6 competitive low-bid, best value, and qualifications based ID/IQ construction phase
+7 contracts; to provide for definitions; to provide for procedures and requirements for
+8 contracting; to provide for confidentiality of the evaluation process; to provide for
+9 contract term limits; to provide for rulemaking; to provide for an effective date; and
+10 to provide for related matters.
+11 Be it enacted by the Legislature of Louisiana:
+12 Section 1. R.S. 44:4.1(B)(35) is hereby amended and reenacted to read as follows:
+13 §4.1. Exceptions
+14 * * *
+15 B. The legislature further recognizes that there exist exceptions, exemptions,
+16 and limitations to the laws pertaining to public records throughout the revised
+17 statutes and codes of this state. Therefore, the following exceptions, exemptions, and
+18 limitations are hereby continued in effect by incorporation into this Chapter by
+19 citation:
+20 * * *
+21 (35) R.S. 49:220.25, 49:214.6.11, 220.25, 975.1, 980.1, 997, 1055
+22 * * *
+Page 1 of 7
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HB NO. 1193 ENROLLED
+1 Section 2. R.S. 49:214.6.11 is hereby enacted to read as follows:
+2 §214.6.11. Indefinite Delivery, Indefinite Quantity construction phase contracts
+3 A. The legislature declares it to be in the public interest to increase
+4 efficiency and improve operational readiness in performing integrated coastal
+5 protection. Notwithstanding any other provision of law to the contrary, including but
+6 not limited to the provisions of Titles 38 or 49 of the Louisiana Revised Statutes of
+7 1950, if the authority determines it is in the best interest of the public, the authority
+8 may procure and award Indefinite Delivery, Indefinite Quantity (ID/IQ) construction
+9 phase contracts pursuant to the requirements of this Section in relation to integrated
+10 coastal protection projects and related incidental work let or to be let by the
+11 authority. Indefinite Delivery, Indefinite Quantity contracting is a method of
+12 contracting that allows for delivery of an indefinite quantity of services over a fixed
+13 duration.
+14 B. As used in this Section, the following terms shall have the following
+15 meanings:
+16 (1) "Best value" means a selection process in which proposals contain price
+17 and qualitative components and award of Indefinite Delivery, Indefinite Quantity
+18 contracts based upon a combination of price and qualitative considerations as
+19 provided in the solicitation documents and includes any selection process authorized
+20 by applicable federal law.
+21 (2) "Indefinite Delivery, Indefinite Quantity construction phase contract",
+22 or "ID/IQ construction phase contract" means the contract awarded to an ID/IQ
+23 contractor pursuant to the requirements of this Section.
+24 (3) "Low bid" means a selection process in which proposals are awarded
+25 based on the proposed price from the lowest responsive and responsible bidder.
+26 (4) "Multiple award" means an ID/IQ procurement where awards of ID/IQ
+27 construction phase contracts for the same scope of services are made to multiple
+28 ID/IQ contractors through a single procurement.
+29 (5) "Single award" means an ID/IQ procurement where award of the ID/IQ
+30 construction phase contract is made to a single ID/IQ contractor.
+Page 2 of 7
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HB NO. 1193 ENROLLED
+1 (6) "Work order" means a contract document issued for a definite scope of
+2 work pursuant to an ID/IQ construction phase contract. A work order provides the
+3 location, time, and scope of work required and authorizes the ID/IQ contractor to
+4 deliver the scope of services described in the work order. It also provides required
+5 pay items, quantities, and unit prices, as applicable.
+6 C. Where federal law applies, the authority shall comply with all applicable
+7 federal laws or regulations including but not limited to 48 CFR Part 16, Subpart 16.5
+8 and 48 CFR Part 216, Subpart 216.5, as amended. In the event of a conflict between
+9 applicable required federal laws or regulations and the provisions of Titles 38 or 49
+10 of the Louisiana Revised Statutes of 1950, or any other Louisiana rules or
+11 regulations, the federal laws or regulations shall control.
+12 D. Procurements pursuant to this Section may include single award or
+13 multiple award ID/IQ construction phase contracts. The authority may use low bid,
+14 best value, or qualifications-based contracting methods as set forth in Subsection E
+15 of this Section. Materials separately acquired by the authority may be provided to
+16 contractors for use pursuant to and as a condition of any contract for an integrated
+17 coastal protection project.
+18 E. Procurement and award ID/IQ construction phase contracts shall meet the
+19 following requirements:
+20 (1)(a) Single award ID/IQ construction phase contracts awarded on a low
+21 bid basis shall follow either the advertisement for low bid contracts set forth in R.S.
+22 38:2212 or the requirements for advertisements set forth in this Section. If a
+23 single-award, low-bid ID/IQ construction phase contract is advertised pursuant to
+24 R.S. 38:2212, an award may also be made pursuant to R.S. 38:2212. If an award is
+25 made pursuant to R.S. 38:2212, the authority shall not be required to follow the
+26 provisions of this Subsection.
+27 (b) Single award ID/IQ construction phase contracts awarded on a best value
+28 basis shall follow the requirements for advertisements and the procedures set forth
+29 in this Subsection.
+Page 3 of 7
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HB NO. 1193 ENROLLED
+1 (2) Multiple award ID/IQ construction phase contracts shall be awarded on
+2 a qualifications basis and shall follow the requirements for advertisements and the
+3 procedures set forth in this Subsection.
+4 (3)(a) Prior to the award of any multiple award ID/IQ construction phase
+5 contract or a single award ID/IQ construction phase contract not advertised pursuant
+6 to R.S. 38:2212, the authority shall issue a "notice of intent", hereafter referred to in
+7 this Section as "NOI", through advertisement on its designated webpage to request
+8 letters of interest, hereafter referred to in this Section as "LOI". The NOI shall be
+9 advertised a minimum of ten business days prior to the deadline for receipt of
+10 responses. The NOI shall contain a description of the ID/IQ services to be procured.
+11 The authority may additionally advertise the NOI via additional media or
+12 publications, and may readvertise by any of the foregoing means to solicit additional
+13 responses if the authority deems the number of responses received to be inadequate
+14 to encourage competition.
+15 (b)(i) After expiration of the deadline to submit an LOI for a single award
+16 ID/IQ construction phase contract, the authority shall issue "request for proposals",
+17 hereafter referred to in this Section as "RFP", to contractors that submit an LOI. The
+18 RFP shall include instructions for development and submittal of proposals, a
+19 description of how proposals shall be evaluated, and shall comply with the
+20 requirements of this Section.
+21 (ii) After expiration of the deadline to submit an LOI for multiple award
+22 ID/IQ construction phase contract, the authority shall issue a request for
+23 qualifications, hereafter referred to in this Section as "RFQ", to contractors that
+24 submit an LOI. The RFQ shall include instructions for development and submission
+25 of qualifications, a description of how qualifications shall be evaluated, and shall
+26 comply with the requirements of this Section.
+27 (c) Bid security required by R.S. 38:2218 or by the authority shall be
+28 specified in the authority's standard specifications or special provisions. The
+29 authority may waive the requirement for bid security for procurement under this
+30 Section.
+Page 4 of 7
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HB NO. 1193 ENROLLED
+1 (4)(a) The executive director shall establish an evaluation committee for
+2 evaluation of proposals for best value single award ID/IQ construction phase
+3 contracts and statements of qualification for multiple award ID/IQ construction
+4 phase contracts received by the authority. The evaluation committee may be assisted
+5 by other authority personnel and external advisors in the evaluation of such proposals
+6 and statements of qualification.
+7 (b) The evaluation committee shall evaluate such proposals and statements
+8 of qualification on the basis of the criteria identified in the RFP or RFQ which may
+9 include general and project-specific criteria, such as:
+10 (i) Experience of the contractor and of key personnel related to the project
+11 or type of work under consideration.
+12 (ii) Past performance on authority projects.
+13 (iii) Ability to obtain all bonding and insurance requirements.
+14 (iv) Any project-specific criteria that may apply to project needs.
+15 (c) The evaluation committee shall make a recommendation of award to the
+16 executive director. The authority shall make the final determination of award.
+17 (d) The proposals and statements of qualification received by the authority
+18 and the evaluation committee's records, including the evaluations committee's
+19 findings, grading, score sheets, and recommendations, shall not be available for
+20 public inspection until the ID/IQ construction phase contract has been entered into
+21 or the procurement has been cancelled. The meetings of the evaluation committee
+22 shall not be subject to the Open Meetings Law.
+23 (5) Prior to issuing a work order pursuant to a multiple award ID/IQ
+24 construction phase contract, the authority shall request, in writing, bids from the
+25 contractors awarded the contract. The authority shall issue the work order to the
+26 lowest responsive bidder.
+27 F. The authority may include the following items in its procurement
+28 documents or contracts:
+29 (1) Payment of mobilization or demobilization costs and the method for
+30 determining mobilization and demobilization reimbursement if the authority opts to
+31 award those costs separately from individual work orders.
+Page 5 of 7
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HB NO. 1193 ENROLLED
+1 (2) The method for determining price escalation or de-escalation procedures
+2 when warranted by particular circumstances.
+3 (3) Special provisions specific to the ID/IQ construction phase contract.
+4 (4) Unit pricing or lists of work items specific to the ID/IQ construction
+5 phase contract.
+6 (5) A minimum dollar value of services that the authority is obligated to
+7 order.
+8 (6) A statement of procedures and selection criteria the authority shall use
+9 in issuing work orders.
+10 (7) Any other information, terms, or requirements the authority deems
+11 necessary to include in its procurement documents or contracts.
+12 G. The term of the initial ID/IQ construction phase contract shall not exceed
+13 five years, but the contract may authorize extensions up to an additional five years.
+14 The total of the initial term and any optional contract extensions shall not exceed ten
+15 years. The duration of the initial term and the terms of individual contract extensions
+16 shall be determined by the authority. The ID/IQ construction phase contract shall
+17 serve as the underlying agreement that establishes the general terms and conditions
+18 governing the relationship between the authority and the selected bidder. Execution
+19 of the ID/IQ construction phase contract shall not authorize work or serve as a notice
+20 to proceed.
+21 H. Performance bonds under R.S. 38:2216 shall apply to the value and
+22 completion of work under an individual work order rather than the value and
+23 completion of all work under the ID/IQ construction phase contract unless otherwise
+24 specified in the ID/IQ construction phase contract or the individual work order, or
+25 otherwise provided in a special provision. The requirement of issuance of
+26 performance bonds shall be at the time of execution of an individual work order
+27 unless otherwise specified by the ID/IQ construction phase contract , the individual
+28 work order, or a special provision developed by the authority. Stipulated damages
+29 apply to individual work orders and shall be calculated by the required completion
+Page 6 of 7
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HB NO. 1193 ENROLLED
+1 date of an individual work order. Insurance policies and the extent and type of
+2 coverage required shall be as determined by the authority.
+3 I.(1) This Section shall not apply to architect and engineer service contracts
+4 or other consulting contracts of the authority authorized by Chapter 10 of Title 38 of
+5 the Louisiana Revised Statutes of 1950, Chapter 17 of Title 39 of the Louisiana
+6 Revised Statutes of 1950, or to projects governed by 48 CFR Parts 36 and 236,
+7 except that architect and engineer services may be included in these contracts to the
+8 extent that they support the construction phase of projects.
+9 (2) This Section shall not apply to design-build contracting.
+10 J. Except as otherwise provided in this Section, the provisions of Titles 38
+11 and 49 of the Louisiana Revised Statutes of 1950 shall apply to ID/IQ construction
+12 phase contracts. In the event of a conflict, the provisions of this Section shall prevail
+13 and shall supersede any conflicting provision of state law.
+14 K. The authority may promulgate rules and regulations to implement and
+15 enforce the provisions of this Section in accordance with the provisions of the
+16 Administrative Procedure Act.
+17 Section 3. This Act shall become effective upon signature by the governor or, if not
+18 signed by the governor, upon expiration of the time for bills to become law without signature
+19 by the governor, as provided by Article III, Section 18 of the Constitution of Louisiana. If
+20 vetoed by the governor and subsequently approved by the legislature, this act shall become
+21 effective on the day following such approval.
+SPEAKER OF THE HOUSE OF REPRESENTATIVES
+PRESIDENT OF THE SENATE
+GOVERNOR OF THE STATE OF LOUISIANA
+APPROVED:
+Page 7 of 7
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+[DELETED:  a a r R 4 a t e R 4 r t t t l p t p r t r]
+[DELETED: 3E  T l d i t b i t p i t i a i o r i p i c p p a r i w l o t b l b t  I D I Q c i a m o b u a c o p a q c a]
+[DELETED: 3E t L R S o 1 o a o L r o o t r f a s f i t S  I ]
+[DELETED: 3E a m a a t N v a m o s i i f d a s o p  o h p s b e a s c w t c p c t a s i a r f  B s r b R 3 o b t a s b i t a s s o s p  T]
+[DELETED: 3E o p f b v s a I c p t e c r i t e c  P t i a w o p t a m a I  T a m i t f i i i p]
+[DELETED: 3E t o r d o w u a i w o r t t v a p i a s p  T r o i o]
+[DELETED: 3E]
+
+
+================================================================================
+
+Raw Text:
+ENROLLED
+2026 Regular Session
+HOUSE BILL NO. 1193
+BY REPRESENTATIVES SAWYER AND BOURRIAQUE
+1 AN ACT
+2 To amend and reenact R.S. 44:4.1(B)(35) and to enact R.S. 49:214.6.11, relative to
+3 Indefinite Delivery, Indefinite Quantity construction phase contracts; to authorize the
+4 Coastal Protection and Restoration Authority to use Indefinite Delivery, Indefinite
+5 Quantity (ID/IQ) contracting for certain projects; to provide for single or multiple
+6 competitive low-bid, best value, and qualifications based ID/IQ construction phase
+7 contracts; to provide for definitions; to provide for procedures and requirements for
+8 contracting; to provide for confidentiality of the evaluation process; to provide for
+9 contract term limits; to provide for rulemaking; to provide for an effective date; and
+10 to provide for related matters.
+11 Be it enacted by the Legislature of Louisiana:
+12 Section 1. R.S. 44:4.1(B)(35) is hereby amended and reenacted to read as follows:
+13 §4.1. Exceptions
+14 * * *
+15 B. The legislature further recognizes that there exist exceptions, exemptions,
+16 and limitations to the laws pertaining to public records throughout the revised
+17 statutes and codes of this state. Therefore, the following exceptions, exemptions, and
+18 limitations are hereby continued in effect by incorporation into this Chapter by
+19 citation:
+20 * * *
+21 (35) R.S. 49:220.25, 49:214.6.11, 220.25, 975.1, 980.1, 997, 1055
+22 * * *
+Page 1 of 7
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HB NO. 1193 ENROLLED
+1 Section 2. R.S. 49:214.6.11 is hereby enacted to read as follows:
+2 §214.6.11. Indefinite Delivery, Indefinite Quantity construction phase contracts
+3 A. The legislature declares it to be in the public interest to increase
+4 efficiency and improve operational readiness in performing integrated coastal
+5 protection. Notwithstanding any other provision of law to the contrary, including but
+6 not limited to the provisions of Titles 38 or 49 of the Louisiana Revised Statutes of
+7 1950, if the authority determines it is in the best interest of the public, the authority
+8 may procure and award Indefinite Delivery, Indefinite Quantity (ID/IQ) construction
+9 phase contracts pursuant to the requirements of this Section in relation to integrated
+10 coastal protection projects and related incidental work let or to be let by the
+11 authority. Indefinite Delivery, Indefinite Quantity contracting is a method of
+12 contracting that allows for delivery of an indefinite quantity of services over a fixed
+13 duration.
+14 B. As used in this Section, the following terms shall have the following
+15 meanings:
+16 (1) "Best value" means a selection process in which proposals contain price
+17 and qualitative components and award of Indefinite Delivery, Indefinite Quantity
+18 contracts based upon a combination of price and qualitative considerations as
+19 provided in the solicitation documents and includes any selection process authorized
+20 by applicable federal law.
+21 (2) "Indefinite Delivery, Indefinite Quantity construction phase contract",
+22 or "ID/IQ construction phase contract" means the contract awarded to an ID/IQ
+23 contractor pursuant to the requirements of this Section.
+24 (3) "Low bid" means a selection process in which proposals are awarded
+25 based on the proposed price from the lowest responsive and responsible bidder.
+26 (4) "Multiple award" means an ID/IQ procurement where awards of ID/IQ
+27 construction phase contracts for the same scope of services are made to multiple
+28 ID/IQ contractors through a single procurement.
+29 (5) "Single award" means an ID/IQ procurement where award of the ID/IQ
+30 construction phase contract is made to a single ID/IQ contractor.
+Page 2 of 7
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HB NO. 1193 ENROLLED
+1 (6) "Work order" means a contract document issued for a definite scope of
+2 work pursuant to an ID/IQ construction phase contract. A work order provides the
+3 location, time, and scope of work required and authorizes the ID/IQ contractor to
+4 deliver the scope of services described in the work order. It also provides required
+5 pay items, quantities, and unit prices, as applicable.
+6 C. Where federal law applies, the authority shall comply with all applicable
+7 federal laws or regulations including but not limited to 48 CFR Part 16, Subpart 16.5
+8 and 48 CFR Part 216, Subpart 216.5, as amended. In the event of a conflict between
+9 applicable required federal laws or regulations and the provisions of Titles 38 or 49
+10 of the Louisiana Revised Statutes of 1950, or any other Louisiana rules or
+11 regulations, the federal laws or regulations shall control.
+12 D. Procurements pursuant to this Section may include single award or
+13 multiple award ID/IQ construction phase contracts. The authority may use low bid,
+14 best value, or qualifications-based contracting methods as set forth in Subsection E
+15 of this Section. Materials separately acquired by the authority may be provided to
+16 contractors for use pursuant to and as a condition of any contract for an integrated
+17 coastal protection project.
+18 E. Procurement and award ID/IQ construction phase contracts shall meet the
+19 following requirements:
+20 (1)(a) Single award ID/IQ construction phase contracts awarded on a low
+21 bid basis shall follow either the advertisement for low bid contracts set forth in R.S.
+22 38:2212 or the requirements for advertisements set forth in this Section. If a
+23 single-award, low-bid ID/IQ construction phase contract is advertised pursuant to
+24 R.S. 38:2212, an award may also be made pursuant to R.S. 38:2212. If an award is
+25 made pursuant to R.S. 38:2212, the authority shall not be required to follow the
+26 provisions of this Subsection.
+27 (b) Single award ID/IQ construction phase contracts awarded on a best value
+28 basis shall follow the requirements for advertisements and the procedures set forth
+29 in this Subsection.
+Page 3 of 7
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HB NO. 1193 ENROLLED
+1 (2) Multiple award ID/IQ construction phase contracts shall be awarded on
+2 a qualifications basis and shall follow the requirements for advertisements and the
+3 procedures set forth in this Subsection.
+4 (3)(a) Prior to the award of any multiple award ID/IQ construction phase
+5 contract or a single award ID/IQ construction phase contract not advertised pursuant
+6 to R.S. 38:2212, the authority shall issue a "notice of intent", hereafter referred to in
+7 this Section as "NOI", through advertisement on its designated webpage to request
+8 letters of interest, hereafter referred to in this Section as "LOI". The NOI shall be
+9 advertised a minimum of ten business days prior to the deadline for receipt of
+10 responses. The NOI shall contain a description of the ID/IQ services to be procured.
+11 The authority may additionally advertise the NOI via additional media or
+12 publications, and may readvertise by any of the foregoing means to solicit additional
+13 responses if the authority deems the number of responses received to be inadequate
+14 to encourage competition.
+15 (b)(i) After expiration of the deadline to submit an LOI for a single award
+16 ID/IQ construction phase contract, the authority shall issue "request for proposals",
+17 hereafter referred to in this Section as "RFP", to contractors that submit an LOI. The
+18 RFP shall include instructions for development and submittal of proposals, a
+19 description of how proposals shall be evaluated, and shall comply with the
+20 requirements of this Section.
+21 (ii) After expiration of the deadline to submit an LOI for multiple award
+22 ID/IQ construction phase contract, the authority shall issue a request for
+23 qualifications, hereafter referred to in this Section as "RFQ", to contractors that
+24 submit an LOI. The RFQ shall include instructions for development and submission
+25 of qualifications, a description of how qualifications shall be evaluated, and shall
+26 comply with the requirements of this Section.
+27 (c) Bid security required by R.S. 38:2218 or by the authority shall be
+28 specified in the authority's standard specifications or special provisions. The
+29 authority may waive the requirement for bid security for procurement under this
+30 Section.
+Page 4 of 7
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HB NO. 1193 ENROLLED
+1 (4)(a) The executive director shall establish an evaluation committee for
+2 evaluation of proposals for best value single award ID/IQ construction phase
+3 contracts and statements of qualification for multiple award ID/IQ construction
+4 phase contracts received by the authority. The evaluation committee may be assisted
+5 by other authority personnel and external advisors in the evaluation of such proposals
+6 and statements of qualification.
+7 (b) The evaluation committee shall evaluate such proposals and statements
+8 of qualification on the basis of the criteria identified in the RFP or RFQ which may
+9 include general and project-specific criteria, such as:
+10 (i) Experience of the contractor and of key personnel related to the project
+11 or type of work under consideration.
+12 (ii) Past performance on authority projects.
+13 (iii) Ability to obtain all bonding and insurance requirements.
+14 (iv) Any project-specific criteria that may apply to project needs.
+15 (c) The evaluation committee shall make a recommendation of award to the
+16 executive director. The authority shall make the final determination of award.
+17 (d) The proposals and statements of qualification received by the authority
+18 and the evaluation committee's records, including the evaluations committee's
+19 findings, grading, score sheets, and recommendations, shall not be available for
+20 public inspection until the ID/IQ construction phase contract has been entered into
+21 or the procurement has been cancelled. The meetings of the evaluation committee
+22 shall not be subject to the Open Meetings Law.
+23 (5) Prior to issuing a work order pursuant to a multiple award ID/IQ
+24 construction phase contract, the authority shall request, in writing, bids from the
+25 contractors awarded the contract. The authority shall issue the work order to the
+26 lowest responsive bidder.
+27 F. The authority may include the following items in its procurement
+28 documents or contracts:
+29 (1) Payment of mobilization or demobilization costs and the method for
+30 determining mobilization and demobilization reimbursement if the authority opts to
+31 award those costs separately from individual work orders.
+Page 5 of 7
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HB NO. 1193 ENROLLED
+1 (2) The method for determining price escalation or de-escalation procedures
+2 when warranted by particular circumstances.
+3 (3) Special provisions specific to the ID/IQ construction phase contract.
+4 (4) Unit pricing or lists of work items specific to the ID/IQ construction
+5 phase contract.
+6 (5) A minimum dollar value of services that the authority is obligated to
+7 order.
+8 (6) A statement of procedures and selection criteria the authority shall use
+9 in issuing work orders.
+10 (7) Any other information, terms, or requirements the authority deems
+11 necessary to include in its procurement documents or contracts.
+12 G. The term of the initial ID/IQ construction phase contract shall not exceed
+13 five years, but the contract may authorize extensions up to an additional five years.
+14 The total of the initial term and any optional contract extensions shall not exceed ten
+15 years. The duration of the initial term and the terms of individual contract extensions
+16 shall be determined by the authority. The ID/IQ construction phase contract shall
+17 serve as the underlying agreement that establishes the general terms and conditions
+18 governing the relationship between the authority and the selected bidder. Execution
+19 of the ID/IQ construction phase contract shall not authorize work or serve as a notice
+20 to proceed.
+21 H. Performance bonds under R.S. 38:2216 shall apply to the value and
+22 completion of work under an individual work order rather than the value and
+23 completion of all work under the ID/IQ construction phase contract unless otherwise
+24 specified in the ID/IQ construction phase contract or the individual work order, or
+25 otherwise provided in a special provision. The requirement of issuance of
+26 performance bonds shall be at the time of execution of an individual work order
+27 unless otherwise specified by the ID/IQ construction phase contract , the individual
+28 work order, or a special provision developed by the authority. Stipulated damages
+29 apply to individual work orders and shall be calculated by the required completion
+Page 6 of 7
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HB NO. 1193 ENROLLED
+1 date of an individual work order. Insurance policies and the extent and type of
+2 coverage required shall be as determined by the authority.
+3 I.(1) This Section shall not apply to architect and engineer service contracts
+4 or other consulting contracts of the authority authorized by Chapter 10 of Title 38 of
+5 the Louisiana Revised Statutes of 1950, Chapter 17 of Title 39 of the Louisiana
+6 Revised Statutes of 1950, or to projects governed by 48 CFR Parts 36 and 236,
+7 except that architect and engineer services may be included in these contracts to the
+8 extent that they support the construction phase of projects.
+9 (2) This Section shall not apply to design-build contracting.
+10 J. Except as otherwise provided in this Section, the provisions of Titles 38
+11 and 49 of the Louisiana Revised Statutes of 1950 shall apply to ID/IQ construction
+12 phase contracts. In the event of a conflict, the provisions of this Section shall prevail
+13 and shall supersede any conflicting provision of state law.
+14 K. The authority may promulgate rules and regulations to implement and
+15 enforce the provisions of this Section in accordance with the provisions of the
+16 Administrative Procedure Act.
+17 Section 3. This Act shall become effective upon signature by the governor or, if not
+18 signed by the governor, upon expiration of the time for bills to become law without signature
+19 by the governor, as provided by Article III, Section 18 of the Constitution of Louisiana. If
+20 vetoed by the governor and subsequently approved by the legislature, this act shall become
+21 effective on the day following such approval.
+SPEAKER OF THE HOUSE OF REPRESENTATIVES
+PRESIDENT OF THE SENATE
+GOVERNOR OF THE STATE OF LOUISIANA
+APPROVED:
+Page 7 of 7
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+[DELETED:  a a r R 4 a t e R 4 r t t t l p t p r t r]
+[DELETED: 3E  T l d i t b i t p i t i a i o r i p i c p p a r i w l o t b l b t  I D I Q c i a m o b u a c o p a q c a]
+[DELETED: 3E t L R S o 1 o a o L r o o t r f a s f i t S  I ]
+[DELETED: 3E a m a a t N v a m o s i i f d a s o p  o h p s b e a s c w t c p c t a s i a r f  B s r b R 3 o b t a s b i t a s s o s p  T]
+[DELETED: 3E o p f b v s a I c p t e c r i t e c  P t i a w o p t a m a I  T a m i t f i i i p]
+[DELETED: 3E t o r d o w u a i w o r t t v a p i a s p  T r o i o]
+[DELETED: 3E]

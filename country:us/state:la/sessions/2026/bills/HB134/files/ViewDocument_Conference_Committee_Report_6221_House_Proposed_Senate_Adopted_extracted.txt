@@ -1,0 +1,184 @@
+Title: To the Honorable Speaker and Members of the House of Representatives and the Honorable
+Official Title: To the Honorable Speaker and Members of the House of Representatives and the Honorable
+Number of Sections: 8
+Source: versions - Conference Committee Report, #6221, House Proposed, Senate Adopted
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+CCRHB134 4469 6221
+CONFERENCE COMMITTEE REPORT
+HB 134 2026 Regular Session Schlegel
+May 28, 2026
+President and Members of the Senate.
+Ladies and Gentlemen:
+We, the conferees appointed to confer over the disagreement between the two houses
+concerning House Bill No. 134 by Representative Schlegel, recommend the following
+concerning the Engrossed bill:
+
+Section 2:
+1. That the set of Senate Floor Amendments by Senator Luneau (#3208) be rejected.
+
+Section 3:
+2. That the following amendments to the Engrossed bill be adopted;
+AMENDMENT NO. 1
+On page 2, between lines 4 and 5, insert the following:
+"(2)(a) Prior to filing a civil enforcement action, the attorney general shall
+provide the interactive computer service with a written notice that identifies each
+alleged violation and an explanation of the basis for each allegation.
+(b) The interactive computer service may cure the alleged violations by
+providing the attorney general with a written statement, within forty-five days of
+receipt of the notice provided pursuant to Subparagraph (a) of this Paragraph,
+indicating that the violation is cured and no further violations will occur.
+(c) Except as provided in Paragraph (3) of this Subsection, the attorney
+general shall not file a civil enforcement action if the interactive computer service
+timely cures the alleged violations as provided by Subparagraph (b) of this Paragraph.
+(3) The attorney general may file a civil enforcement action against an
+interactive computer service that does either of the following:
+(a) Fails to cure a violation after receiving the written notice described in
+Subparagraph (2)(a) of this Subsection.
+(b) Commits another violation after receiving the written notice described in
+Subparagraph (2)(a) of this Subsection."
+AMENDMENT NO. 2
+On page 2, line 5, change "(2)" to "(4)"
+Respectfully submitted,
+Representative Laurie Schlegel Senator Kirk Talbot
+Representative Nicholas Muscarello, Jr. Senator W. Jay Luneau
+Representative Debbie Villio Senator Alan Seabaugh
+Page 1 of 2
+CCRHB134 4469 6221
+DIGEST
+The digest printed below was prepared by House Legislative Services. It constitutes no part
+of the legislative instrument. The keyword, one-liner, abstract, and digest do not constitute
+part of the law or proof or indicia of legislative intent. [R.S. 1:13(B) and 24:177(E)]
+CONFERENCE COMMITTEE REPORT DIGEST
+HB 134 2026 Regular Session Schlegel
+Keyword and oneliner of the instrument as it left the House
+CONTRACTS: Provides relative to material harmful to minors
+Report rejects Senate amendments which would have:
+
+Section 4:
+1. Defined "substantial portion".
+
+Section 5:
+2. Specified that the restrictions in proposed law apply to an interactive computer
+service that contains a substantial portion of material harmful to minors and enters
+into a contract with a minor.
+Report amends the bill to:
+
+Section 6:
+1. Make technical changes.
+
+Section 7:
+2. Provide a mechanism for an interactive computer service to cure a violation of
+proposed law.
+
+Section 8:
+3. Provide for enforcement by the office of the attorney general if a violation of propose
+law is not cured.
+Digest of the bill as proposed by the Conference Committee
+Proposed law defines "account", "interactive computer service", "minor", and "material
+harmful to minors".
+Proposed law prohibits an interactive computer service that enters into a contract with a
+minor from delivering or displaying to a minor account material harmful to minors that was
+created or developed, in whole or in part, by the interactive computer service.
+Proposed law subjects any interactive computer service that violates the provisions of
+proposed law to a civil fine of up to $10,000 per violation set and enforced by the attorney
+general by filing a civil enforcement action in a court of competent jurisdiction.
+Proposed law requires that prior to filing a civil enforcement action, the attorney general
+shall provide the interactive computer service with a written notice that identifies each
+alleged violation and an explanation for each.
+Proposed law provides a mechanism for an interactive computer service to cure the violation.
+If the violations are not cured or another violation is committed after receipt of written
+notice, proposed law authorizes the attorney general to file a civil enforcement action against
+an interactive computer service.
+Proposed law provides for reasonable attorney fees, court costs, and investigative costs.
+Page 2 of 2
+[DELETED: 42nS.T.T o t n p p t S ( o t PlS.SoS]
+[DELETED: 42nS.D.S.M.P.P s]
+
+
+================================================================================
+
+Raw Text:
+CCRHB134 4469 6221
+CONFERENCE COMMITTEE REPORT
+HB 134 2026 Regular Session Schlegel
+May 28, 2026
+To the Honorable Speaker and Members of the House of Representatives and the Honorable
+President and Members of the Senate.
+Ladies and Gentlemen:
+We, the conferees appointed to confer over the disagreement between the two houses
+concerning House Bill No. 134 by Representative Schlegel, recommend the following
+concerning the Engrossed bill:
+1. That the set of Senate Floor Amendments by Senator Luneau (#3208) be rejected.
+2. That the following amendments to the Engrossed bill be adopted;
+AMENDMENT NO. 1
+On page 2, between lines 4 and 5, insert the following:
+"(2)(a) Prior to filing a civil enforcement action, the attorney general shall
+provide the interactive computer service with a written notice that identifies each
+alleged violation and an explanation of the basis for each allegation.
+(b) The interactive computer service may cure the alleged violations by
+providing the attorney general with a written statement, within forty-five days of
+receipt of the notice provided pursuant to Subparagraph (a) of this Paragraph,
+indicating that the violation is cured and no further violations will occur.
+(c) Except as provided in Paragraph (3) of this Subsection, the attorney
+general shall not file a civil enforcement action if the interactive computer service
+timely cures the alleged violations as provided by Subparagraph (b) of this Paragraph.
+(3) The attorney general may file a civil enforcement action against an
+interactive computer service that does either of the following:
+(a) Fails to cure a violation after receiving the written notice described in
+Subparagraph (2)(a) of this Subsection.
+(b) Commits another violation after receiving the written notice described in
+Subparagraph (2)(a) of this Subsection."
+AMENDMENT NO. 2
+On page 2, line 5, change "(2)" to "(4)"
+Respectfully submitted,
+Representative Laurie Schlegel Senator Kirk Talbot
+Representative Nicholas Muscarello, Jr. Senator W. Jay Luneau
+Representative Debbie Villio Senator Alan Seabaugh
+Page 1 of 2
+
+CCRHB134 4469 6221
+DIGEST
+The digest printed below was prepared by House Legislative Services. It constitutes no part
+of the legislative instrument. The keyword, one-liner, abstract, and digest do not constitute
+part of the law or proof or indicia of legislative intent. [R.S. 1:13(B) and 24:177(E)]
+CONFERENCE COMMITTEE REPORT DIGEST
+HB 134 2026 Regular Session Schlegel
+Keyword and oneliner of the instrument as it left the House
+CONTRACTS: Provides relative to material harmful to minors
+Report rejects Senate amendments which would have:
+1. Defined "substantial portion".
+2. Specified that the restrictions in proposed law apply to an interactive computer
+service that contains a substantial portion of material harmful to minors and enters
+into a contract with a minor.
+Report amends the bill to:
+1. Make technical changes.
+2. Provide a mechanism for an interactive computer service to cure a violation of
+proposed law.
+3. Provide for enforcement by the office of the attorney general if a violation of propose
+law is not cured.
+Digest of the bill as proposed by the Conference Committee
+Proposed law defines "account", "interactive computer service", "minor", and "material
+harmful to minors".
+Proposed law prohibits an interactive computer service that enters into a contract with a
+minor from delivering or displaying to a minor account material harmful to minors that was
+created or developed, in whole or in part, by the interactive computer service.
+Proposed law subjects any interactive computer service that violates the provisions of
+proposed law to a civil fine of up to $10,000 per violation set and enforced by the attorney
+general by filing a civil enforcement action in a court of competent jurisdiction.
+Proposed law requires that prior to filing a civil enforcement action, the attorney general
+shall provide the interactive computer service with a written notice that identifies each
+alleged violation and an explanation for each.
+Proposed law provides a mechanism for an interactive computer service to cure the violation.
+If the violations are not cured or another violation is committed after receipt of written
+notice, proposed law authorizes the attorney general to file a civil enforcement action against
+an interactive computer service.
+Proposed law provides for reasonable attorney fees, court costs, and investigative costs.
+Page 2 of 2
+
+[DELETED: 42nS.T.T o t n p p t S ( o t PlS.SoS]
+[DELETED: 42nS.D.S.M.P.P s]
