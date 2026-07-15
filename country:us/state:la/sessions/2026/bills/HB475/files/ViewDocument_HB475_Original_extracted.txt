@@ -1,0 +1,100 @@
+Title: HOUSE BILL NO. 475
+Official Title: HOUSE BILL NO. 475
+Number of Sections: 1
+Source: versions - HB475 Original
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+HLS 26RS-384 ORIGINAL
+2026 Regular Session
+BY REPRESENTATIVE BERAULT
+HEALTH CARE/PROVIDERS: Requires a healthcare provider to obtain a patient's consent
+prior to recording a medical visit
+1 AN ACT
+2 To enact R.S. 37:22.1, relative to artificial intelligence; to require a healthcare professional
+3 to obtain consent from a patient to use certain software; to provide an opt-out option;
+4 and to provide for related matters.
+5 Be it enacted by the Legislature of Louisiana:
+6 Section 1. R.S. 37:22.1 is hereby enacted to read as follows:
+7 §22.1. Recordings; artificial intelligence; prohibited uses
+8 A healthcare professional licensed by this Title shall obtain verbal consent
+9 from a patient before recording any part of an appointment or treatment to be
+10 transcribed by artificial intelligence. If the patient does not consent to a recording,
+11 the healthcare professional shall conduct the appointment or treatment without the
+12 use of an artificial intelligence transcription.
+DIGEST
+The digest printed below was prepared by House Legislative Services. It constitutes no part
+of the legislative instrument. The keyword, one-liner, abstract, and digest do not constitute
+part of the law or proof or indicia of legislative intent. [R.S. 1:13(B) and 24:177(E)]
+HB 475 Original 2026 Regular Session Berault
+Abstract: Requires a healthcare professional to obtain a patient’s verbal consent before
+recording a medical visit or treatment for artificial intelligence transcription.
+Proposed law requires a healthcare professional licensed under present law to obtain a
+patient's verbal consent before recording any part of a medical visit or treatment for
+transcription using artificial intelligence.
+Page 1 of 2
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-384 ORIGINAL
+HB NO. 475
+Proposed law prohibits the use of artificial intelligence transcription software or service
+during a medical visit or treatment if the patient does not provide verbal consent to the
+recording.
+(Adds R.S. 37:22.1)
+Page 2 of 2
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+[DELETED: 4O b r a p a o t bl2nB v c b r a p o a m v o t f]
+[DELETED: 4O]
+
+
+================================================================================
+
+Raw Text:
+HLS 26RS-384 ORIGINAL
+2026 Regular Session
+HOUSE BILL NO. 475
+BY REPRESENTATIVE BERAULT
+HEALTH CARE/PROVIDERS: Requires a healthcare provider to obtain a patient's consent
+prior to recording a medical visit
+1 AN ACT
+2 To enact R.S. 37:22.1, relative to artificial intelligence; to require a healthcare professional
+3 to obtain consent from a patient to use certain software; to provide an opt-out option;
+4 and to provide for related matters.
+5 Be it enacted by the Legislature of Louisiana:
+6 Section 1. R.S. 37:22.1 is hereby enacted to read as follows:
+7 §22.1. Recordings; artificial intelligence; prohibited uses
+8 A healthcare professional licensed by this Title shall obtain verbal consent
+9 from a patient before recording any part of an appointment or treatment to be
+10 transcribed by artificial intelligence. If the patient does not consent to a recording,
+11 the healthcare professional shall conduct the appointment or treatment without the
+12 use of an artificial intelligence transcription.
+DIGEST
+The digest printed below was prepared by House Legislative Services. It constitutes no part
+of the legislative instrument. The keyword, one-liner, abstract, and digest do not constitute
+part of the law or proof or indicia of legislative intent. [R.S. 1:13(B) and 24:177(E)]
+HB 475 Original 2026 Regular Session Berault
+Abstract: Requires a healthcare professional to obtain a patient’s verbal consent before
+recording a medical visit or treatment for artificial intelligence transcription.
+Proposed law requires a healthcare professional licensed under present law to obtain a
+patient's verbal consent before recording any part of a medical visit or treatment for
+transcription using artificial intelligence.
+Page 1 of 2
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-384 ORIGINAL
+HB NO. 475
+Proposed law prohibits the use of artificial intelligence transcription software or service
+during a medical visit or treatment if the patient does not provide verbal consent to the
+recording.
+(Adds R.S. 37:22.1)
+Page 2 of 2
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+[DELETED: 4O b r a p a o t bl2nB v c b r a p o a m v o t f]
+[DELETED: 4O]

@@ -1,0 +1,235 @@
+Title: HOUSE BILL NO. 1104
+Official Title: HOUSE BILL NO. 1104
+Number of Sections: 4
+Source: versions - HB1104 Engrossed
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+HLS 26RS-1988 ENGROSSED
+2026 Regular Session
+BY REPRESENTATIVE DANA HENRY
+CRIME: Prohibits relative to the manufacturing and sale of motor vehicle key programming
+or emulation devices
+1 AN ACT
+2 To enact R.S. 14:406, relative to the manufacture, transfer, or sale of motor vehicle key
+3 programming or emulating devices or relay attack devices; to prohibit the
+4 manufacture, transfer, or sale of such devices; to provide for definitions; to provide
+5 for exceptions; to provide for penalties; and to provide for related matters.
+6 Be it enacted by the Legislature of Louisiana:
+7 Section 1. R.S. 14:406 is hereby enacted to read as follows:
+8 §406. Motor vehicle key programming and emulating devices
+9 A. For the purposes of this Section, the following terms have the following
+10 meanings:
+11 (1) "Motor vehicle key programming or emulating device" means any
+12 device, computer program, application, or software designed or used to electronically
+13 communicate with a motor vehicle for the purpose of programming or emulating a
+14 motor vehicle key fob that is capable of being used to unlock or start the motor
+15 vehicle.
+16 (2) "Relay attack device" means any device, computer program, application,
+17 or software designed or used to intercept the signal from the key fob of a motor
+18 vehicle to unlock or start the motor vehicle.
+19 B.(1) Except as provided in Subsection C of this Section, no person shall
+20 knowingly manufacture, sell, offer to sell, or transfer a motor vehicle key
+Page 1 of 3
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-1988 ENGROSSED
+HB NO. 1104
+1 programming or emulating device or a relay attack device. No person shall
+2 knowingly possess such a device under circumstances indicating an intent to use or
+3 permit the use of the device to commit a theft, unauthorized entry into a motor
+4 vehicle, or any other criminal offense.
+5 (a) Possession alone of a motor vehicle key programming or emulating
+6 device or a relay attack device does not constitute a violation of this Section.
+7 (b) Criminal intent may be inferred from the circumstances, including but
+8 not limited to the following:
+9 (i) Possession while attempting to enter a motor vehicle without
+10 authorization.
+11 (ii) Possession of multiple such devices without a lawful purpose.
+12 (iii) Possession in conjunction with tools commonly used for vehicle theft.
+13 (2) Whoever violates Paragraph (1) of this Subsection shall be fined not
+14 more than one thousand dollars or imprisoned for not more than six months, or both.
+15 C. This Section does not apply to the manufacture, sale, offer to sell,
+16 transfer, or use of a motor vehicle key programming or emulating device or a relay
+17 attack device for a lawful and reasonable purpose by or to a law enforcement officer,
+18 an employee of the National Insurance Crime Bureau, or an employee of a licensed
+19 dealer, distributor, or manufacturer of motor vehicles or motor vehicle locks, a motor
+20 vehicle mechanic shop, locksmith company, or repossession agency.
+21 D.(1) A person authorized to manufacture, sell, offer to sell, transfer, or
+22 possess a motor vehicle key programming or emulating device or a relay attack
+23 device, or aid or permit another to use a motor vehicle key programming or
+24 emulating device or a relay attack device, shall report the loss or theft of such device
+25 to a law enforcement agency within the jurisdiction where the device is known or
+26 reasonably believed to have been lost or stolen, within forty-eight hours after
+27 becoming aware of the loss or theft.
+28 (2) Whoever violates Paragraph (1) of this Subsection shall be fined not
+29 more than one thousand dollars or imprisoned for not more than six months, or both.
+Page 2 of 3
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-1988 ENGROSSED
+HB NO. 1104
+DIGEST
+The digest printed below was prepared by House Legislative Services. It constitutes no part
+of the legislative instrument. The keyword, one-liner, abstract, and digest do not constitute
+part of the law or proof or indicia of legislative intent. [R.S. 1:13(B) and 24:177(E)]
+HB 1104 Engrossed 2026 Regular Session Dana Henry
+Abstract: Prohibits the manufacturing, selling, or offering to sell of a motor vehicle key
+programming or emulating device or a relay attack device, with exceptions for
+professionals.
+Proposed law provides definitions for "motor vehicle key programming or emulating device"
+and "relay attack device".
+Proposed law prohibits manufacturing, selling, or offering to sell either device and provides
+a penalty of a fine up to $1,000 or six months imprisonment, or both.
+Proposed law creates exceptions for a law enforcement officer, an employee of the Nat'l
+Insurance Crime Bureau, and an employee of a licensed dealer, distributor, or manufacturer
+of motor vehicles or motor vehicle locks, a motor vehicle mechanic shop, locksmith
+company, or repossession agency.
+Proposed law provides that possession alone is not a violation of proposed law, but criminal
+intent may be inferred from the circumstances, including but not limited to the following:
+(1) Possession while attempting to enter a motor vehicle without authorization.
+(2) Possession of multiple devices without a lawful purpose.
+(3) Possession in conjunction with tools commonly used for vehicle theft.
+Proposed law requires a person authorized to manufacture, sell, or offer to sell a motor
+vehicle key programming or emulating device or a relay attack device to report a lost or
+stolen device within 48 hours of becoming aware that it was lost or stolen.
+Proposed law provides that anyone who does not report a stolen device within 48 hours shall
+be fined not more than $1,000 or imprisoned not more than six months, or both.
+(Adds R.S. 14:406)
+Summary of Amendments Adopted by House
+The Committee Amendments Proposed by House Committee on Administration of
+Criminal Justice to the original bill:
+
+Section 2:
+1. Provide that possession alone of a motor vehicle key programming or emulating
+device or relay attack device is not a violation of proposed law.
+
+Section 3:
+2. Provide an illustrative list of conditions under which criminal intent may be
+inferred.
+
+Section 4:
+3. Make technical changes.
+Page 3 of 3
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+[DELETED: 8E o e d o r a d t p t  " v k p o e d m a m s o t s o t a m v k]
+[DELETED: 8E o e d o a r a d  N p s  P w a t e a m v w  T S d n a t t m o t s o a o p a t u a m v k p o b t h b l o s w f h a]
+[DELETED: 8Ed2nD m v o m v l a m v m s l)P)P)P.P.P.M]
+
+
+================================================================================
+
+Raw Text:
+HLS 26RS-1988 ENGROSSED
+2026 Regular Session
+HOUSE BILL NO. 1104
+BY REPRESENTATIVE DANA HENRY
+CRIME: Prohibits relative to the manufacturing and sale of motor vehicle key programming
+or emulation devices
+1 AN ACT
+2 To enact R.S. 14:406, relative to the manufacture, transfer, or sale of motor vehicle key
+3 programming or emulating devices or relay attack devices; to prohibit the
+4 manufacture, transfer, or sale of such devices; to provide for definitions; to provide
+5 for exceptions; to provide for penalties; and to provide for related matters.
+6 Be it enacted by the Legislature of Louisiana:
+7 Section 1. R.S. 14:406 is hereby enacted to read as follows:
+8 §406. Motor vehicle key programming and emulating devices
+9 A. For the purposes of this Section, the following terms have the following
+10 meanings:
+11 (1) "Motor vehicle key programming or emulating device" means any
+12 device, computer program, application, or software designed or used to electronically
+13 communicate with a motor vehicle for the purpose of programming or emulating a
+14 motor vehicle key fob that is capable of being used to unlock or start the motor
+15 vehicle.
+16 (2) "Relay attack device" means any device, computer program, application,
+17 or software designed or used to intercept the signal from the key fob of a motor
+18 vehicle to unlock or start the motor vehicle.
+19 B.(1) Except as provided in Subsection C of this Section, no person shall
+20 knowingly manufacture, sell, offer to sell, or transfer a motor vehicle key
+Page 1 of 3
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1988 ENGROSSED
+HB NO. 1104
+1 programming or emulating device or a relay attack device. No person shall
+2 knowingly possess such a device under circumstances indicating an intent to use or
+3 permit the use of the device to commit a theft, unauthorized entry into a motor
+4 vehicle, or any other criminal offense.
+5 (a) Possession alone of a motor vehicle key programming or emulating
+6 device or a relay attack device does not constitute a violation of this Section.
+7 (b) Criminal intent may be inferred from the circumstances, including but
+8 not limited to the following:
+9 (i) Possession while attempting to enter a motor vehicle without
+10 authorization.
+11 (ii) Possession of multiple such devices without a lawful purpose.
+12 (iii) Possession in conjunction with tools commonly used for vehicle theft.
+13 (2) Whoever violates Paragraph (1) of this Subsection shall be fined not
+14 more than one thousand dollars or imprisoned for not more than six months, or both.
+15 C. This Section does not apply to the manufacture, sale, offer to sell,
+16 transfer, or use of a motor vehicle key programming or emulating device or a relay
+17 attack device for a lawful and reasonable purpose by or to a law enforcement officer,
+18 an employee of the National Insurance Crime Bureau, or an employee of a licensed
+19 dealer, distributor, or manufacturer of motor vehicles or motor vehicle locks, a motor
+20 vehicle mechanic shop, locksmith company, or repossession agency.
+21 D.(1) A person authorized to manufacture, sell, offer to sell, transfer, or
+22 possess a motor vehicle key programming or emulating device or a relay attack
+23 device, or aid or permit another to use a motor vehicle key programming or
+24 emulating device or a relay attack device, shall report the loss or theft of such device
+25 to a law enforcement agency within the jurisdiction where the device is known or
+26 reasonably believed to have been lost or stolen, within forty-eight hours after
+27 becoming aware of the loss or theft.
+28 (2) Whoever violates Paragraph (1) of this Subsection shall be fined not
+29 more than one thousand dollars or imprisoned for not more than six months, or both.
+Page 2 of 3
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1988 ENGROSSED
+HB NO. 1104
+DIGEST
+The digest printed below was prepared by House Legislative Services. It constitutes no part
+of the legislative instrument. The keyword, one-liner, abstract, and digest do not constitute
+part of the law or proof or indicia of legislative intent. [R.S. 1:13(B) and 24:177(E)]
+HB 1104 Engrossed 2026 Regular Session Dana Henry
+Abstract: Prohibits the manufacturing, selling, or offering to sell of a motor vehicle key
+programming or emulating device or a relay attack device, with exceptions for
+professionals.
+Proposed law provides definitions for "motor vehicle key programming or emulating device"
+and "relay attack device".
+Proposed law prohibits manufacturing, selling, or offering to sell either device and provides
+a penalty of a fine up to $1,000 or six months imprisonment, or both.
+Proposed law creates exceptions for a law enforcement officer, an employee of the Nat'l
+Insurance Crime Bureau, and an employee of a licensed dealer, distributor, or manufacturer
+of motor vehicles or motor vehicle locks, a motor vehicle mechanic shop, locksmith
+company, or repossession agency.
+Proposed law provides that possession alone is not a violation of proposed law, but criminal
+intent may be inferred from the circumstances, including but not limited to the following:
+(1) Possession while attempting to enter a motor vehicle without authorization.
+(2) Possession of multiple devices without a lawful purpose.
+(3) Possession in conjunction with tools commonly used for vehicle theft.
+Proposed law requires a person authorized to manufacture, sell, or offer to sell a motor
+vehicle key programming or emulating device or a relay attack device to report a lost or
+stolen device within 48 hours of becoming aware that it was lost or stolen.
+Proposed law provides that anyone who does not report a stolen device within 48 hours shall
+be fined not more than $1,000 or imprisoned not more than six months, or both.
+(Adds R.S. 14:406)
+Summary of Amendments Adopted by House
+The Committee Amendments Proposed by House Committee on Administration of
+Criminal Justice to the original bill:
+1. Provide that possession alone of a motor vehicle key programming or emulating
+device or relay attack device is not a violation of proposed law.
+2. Provide an illustrative list of conditions under which criminal intent may be
+inferred.
+3. Make technical changes.
+Page 3 of 3
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+[DELETED: 8E o e d o r a d t p t  " v k p o e d m a m s o t s o t a m v k]
+[DELETED: 8E o e d o a r a d  N p s  P w a t e a m v w  T S d n a t t m o t s o a o p a t u a m v k p o b t h b l o s w f h a]
+[DELETED: 8Ed2nD m v o m v l a m v m s l)P)P)P.P.P.M]

@@ -1,0 +1,1521 @@
+Title: SENATE BILL NO. 408
+Official Title: SENATE BILL NO. 408
+Number of Sections: 1
+Source: versions - SB408 Original
+Media Type: application/pdf
+Strikethrough Detection: 21 sections found
+
+================================================================================
+
+Section 1:
+SLS 26RS-205 ORIGINAL
+2026 Regular Session
+BY SENATOR MYERS
+WORKERS' COMPENSATION. Provides relative to the workers' compensation
+reimbursement schedule. (gov sig)
+1 AN ACT
+2 To amend and reenact R.S. 23:1034.2(B), (C), and (F), 1201(E), 1203(B), 1203.2, and R.S.
+3 44:4.1(B)(12) and to enact R.S. 23:1021(14), 1142(F) and Subpart K of Part 1 of
+4 Chapter 10 of Title 23 of the Louisiana Revised Statutes of 1950, to be comprised
+5 of R.S. 23:1200.18 through 1200.26, relative to workers' compensation; to establish
+6 an All Workers' Compensation Medical Claims Database; to provide for duties of the
+7 Louisiana Works, office of workers' compensation administration; to provide for
+8 mandatory reporting of medical and pharmacy claims data; to provide for
+9 rulemaking; to provide for confidentiality and data protections; to provide for public
+10 record exceptions; to provide for definitions; to provide for penalties; to provide for
+11 an effective date; and to provide for related matters.
+12 Be it enacted by the Legislature of Louisiana:
+13 Section 1. R.S. 23:1034.2(B), (C), and (F), 1201(E), and 1203(B) are hereby
+14 amended and reenacted and R.S. 23: 1021(14) and 1142(F) are hereby enacted to read as
+15 follows:
+16 §1021. Terms defined
+17 As used in this Chapter, unless the context clearly indicates otherwise, the
+Page 1 of 21
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+SLS 26RS-205 ORIGINAL
+SB NO. 408
+1 following terms shall be given the meaning ascribed to them in this Section:
+2 * * *
+3 (14) "By report" means the method by which the reimbursement is
+4 determined by the carrier when a service or procedure is performed by the
+5 provider that does not have an established maximum fee allowance.
+6 * * *
+7 §1034.2. Reimbursement schedule
+8 * * *
+9 B. The assistant secretary shall adopt, in accordance with the Administrative
+10 Procedure Act, rules and regulations necessary to establish and implement a
+11 reimbursement schedule for such care, services, treatment, drugs, and supplies in
+12 accordance with the following:
+13 (1) For purposes of the professional fee schedule, the reimbursement
+14 schedule for professional service charges for care, services, treatment, drugs,
+15 and supplies for which a current procedural terminology (CPT) code is assigned
+16 shall be equal to the seventy-fifth percentile of the Practice Management
+17 Information Corporation Medical Fees Directory. If a specific CPT code is not
+18 assigned, the reimbursement schedule for charges listed in this Subsection may
+19 use a comparable CPT code that shall be equal to the seventy-fifth percentile of
+20 the Practice Management Information Corporation Medical Fees Directory.
+21 Reimbursement by report shall be prohibited.
+22 (2) For purposes of inpatient and outpatient hospital services and
+23 ambulatory surgery services, set reimbursement for service charges for care,
+24 services, treatment, drugs, and supplies equal to the seventy-fifth percentile of
+25 paid amounts for the same or substantially similar services reflected in the All
+26 Workers' Compensation Medical Claims Database during the most recent
+27 twenty-four month reporting period.
+28 (3)(a) Following the implementation of a new fee schedule, no individual
+29 CPT, Healthcare Common Procedure Coding System (HCPCS), facility
+Page 2 of 21
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+SLS 26RS-205 ORIGINAL
+SB NO. 408
+1 classification, or reimbursement category shall increase or decrease by more
+2 than five percent in any twelve-month period unless all of the following criteria
+3 are satisfied:
+4 (i) Demonstration of material access-to-care deficiencies.
+5 (ii) Clear actuarial evidence of system imbalance.
+6 (iii) Approval by concurrent resolution of the legislature.
+7 (b) Any decrease shall be phased in over not less than two years.
+8 (c) Notwithstanding the provisions of Subparagraph (3)(a) of this
+9 Subsection, within the thirty-six month period following the initial adoption of
+10 a fee schedule developed pursuant to Section 4 of this Act, the assistant
+11 secretary may propose a one-time corrective adjustment to any individual CPT,
+12 HCPCS, facility classification, or reimbursement category in excess of five
+13 percent upon meeting the following criteria:
+14 (i) A finding by a qualified independent actuary, retained by the office
+15 at the office's expense, that the initial benchmark for the affected category is
+16 materially inaccurate as a result of data limitations, statistical methodology
+17 error, or inadequate representation of Louisiana market conditions.
+18 (ii) Approval by the Senate and House of Representatives committees on
+19 labor and industrial affairs meeting jointly.
+20 (iii) Any corrective adjustment made pursuant to this Subparagraph
+21 shall not be subject to the five percent cap but shall itself be nonrepeatable. No
+22 further corrections under this Subparagraph shall be permitted for any
+23 category that has already received one corrective adjustment.
+24 (4) The office of workers' compensation administration shall review and
+25 update all fee schedules adopted by the office every two years.
+26 C.(1) The reimbursement schedule shall include charges limited to the mean
+27 of the usual and customary charges for such care, services, treatment, drugs, and
+28 supplies. Any necessary adjustments to the reimbursement schedule adopted and
+29 established in accordance with the provisions of this Section may be made annually
+Page 3 of 21
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+SLS 26RS-205 ORIGINAL
+SB NO. 408
+1 Reimbursement for an implant shall be the total of the original manufacturer's
+2 invoice or the authorized distributor's invoice amount paid plus twenty percent.
+3 For the purpose of this Subsection, "implant" means plastic and metallic
+4 implants or nonautogenous graft materials.
+5 (2) The assistant secretary shall have the authority to collect the information
+6 and data necessary to calculate the reimbursement schedule. The collection of
+7 information and data shall be governed by the following guidelines:
+8 (a) The assistant secretary shall create a written survey detailing the
+9 information requested.
+10 (b) The survey shall be managed by the office of workers' compensation
+11 administration in conjunction with an academic institution.
+12 (c) The information requested shall be based upon data at least six months
+13 old.
+14 (d) There shall be a minimum of thirty health care providers reporting data
+15 upon which each disseminated statistic is based.
+16 (e) No individual health care provider's data shall represent more than
+17 twenty-five percent on a weighted basis of each statistic.
+18 (f) Any information disseminated shall be sufficiently aggregated such that
+19 it will not allow recipients to identify the prices charged or compensation paid by any
+20 particular health care provider.
+21 (3) All information collected pursuant to this Subsection shall be confidential
+22 and privileged, shall not be public record, and shall not be subject to subpoena. Such
+23 confidentiality shall be strictly maintained by the assistant secretary, all employees
+24 of the office, and by the academic institution and shall be used exclusively for the
+25 purpose of promulgating the workers' compensation reimbursement schedule.
+26 Whoever violates this Paragraph shall be guilty of a misdemeanor and fined not more
+27 than five hundred dollars for each offense.
+28 (4) Notwithstanding any other provisions of this Section, reimbursement for
+29 dental services shall not exceed the seventieth percentile in the current edition of the
+Page 4 of 21
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+SLS 26RS-205 ORIGINAL
+SB NO. 408
+1 National Dental Advisory Service (NDAS) Comprehensive Fee Report, utilizing the
+2 average of geographic multipliers for Louisiana as published in the NDAS report.
+3 * * *
+4 F.(1) Should a dispute arise between a health care provider and the employee,
+5 employer, or workers' compensation insurer payor regarding billing, payment,
+6 explanation of benefits, reconsideration, or the appropriate amount owed for
+7 the provision of medical services that have been rendered pursuant to this
+8 Section, either the disputing party may shall submit the dispute for resolution to
+9 the office in the same manner and subject to the same procedures as established for
+10 dispute resolution of claims for workers' compensation benefits of workers'
+11 compensation administration's medical services section in a form and manner
+12 as promulgated in rule by the assistant secretary. The office shall render a
+13 decision no later than fifteen business days from submission of the dispute. The
+14 nonprevailing party shall pay the cost of the review and if the judgment results
+15 in the payment of a claim that was denied, interest shall be paid in the amount
+16 of twelve percent per annum from the date of the denial of the claim.
+17 (2) Upon the issuance of a decision by the workers' compensation
+18 administration's medical services section, the nonprevailing party may appeal
+19 the decision with the assistant secretary within five business days of its receipt
+20 by certified mail. Upon the lodging of an appeal, the assistant secretary shall
+21 appoint an independent reviewer to consider the continued dispute and issue a
+22 decision in accordance with the rules and regulations promulgated by the
+23 assistant secretary. The cost of the independent review shall be set forth in rule
+24 and shall be assessed against the nonprevailing party. If the appeal results in a
+25 split decision, then the cost of the independent review shall be divided equally
+26 among the parties. All costs of the independent review shall be due and payable
+27 to the office of workers' compensation within thirty days of the decision being
+28 rendered. Any party failing to timely remit payment shall be turned over to the
+29 Louisiana office of debt recovery. If the decision results in the workers'
+Page 5 of 21
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+SLS 26RS-205 ORIGINAL
+SB NO. 408
+1 compensation payor having to pay the healthcare provider for the medical
+2 services rendered, the payment shall be made within fifteen days after the
+3 expiration of time to lodge an appeal and shall include interest at no less than
+4 twelve percent per annum from the date the claim is adjudicated by the
+5 workers' compensation payor. Failure by the workers' compensation payor to
+6 provide payment in accordance with this Section shall result in interest accruing
+7 on the unpaid balance at the rate of eighteen percent per annum from the date
+8 payment was due, an administrative fine assessed by the assistant secretary of
+9 not less than two thousand five hundred dollars and not more than ten thousand
+10 dollars per unpaid claim per thirty-day period of noncompliance, and upon a
+11 finding by the assistant secretary that the failure to pay constitutes a pattern of
+12 willful noncompliance, suspension, or revocation of the payor's authority to self-
+13 insure or to administer workers' compensation claims in Louisiana, as
+14 applicable. All fines collected pursuant to this Section shall be deposited into the
+15 Workers' Compensation Administration Fund. The decision of the workers'
+16 compensation administration's medical services section shall be conclusive if an
+17 appeal is not timely filed.
+18 (3) Within five business days of the issuance of a decision by the
+19 independent reviewer, either party may appeal the decision to the Nineteenth
+20 Judicial District Court. The decision of the Nineteenth Judicial District Court
+21 shall be final and nonappealable and court costs shall be cast against the
+22 nonprevailing party.
+23 (4) The assistant secretary shall publish, at least annually, data and
+24 statistics regarding the disputes filed and the decisions rendered pursuant to
+25 this Section.
+26 (5) In addition to any other occasion when consolidation of claims is
+27 otherwise allowed by applicable law, whenever Whenever multiple disputes exist
+28 between a single health care provider and a single "payor" as defined in R.S.
+29 23:1142(A) concerning the proper amount payable pursuant to the reimbursement
+Page 6 of 21
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+SLS 26RS-205 ORIGINAL
+SB NO. 408
+1 schedule workers' compensation payor, then either the health care provider or the
+2 payor shall have the right to have all such disputes between the payor and the health
+3 care provider consolidated and tried decided together. The venue for such
+4 consolidated claims shall be in either the workers' compensation district of the parish
+5 in which the domicile of the provider is located or the workers' compensation district
+6 of the parish in which the domicile of the payor or employer is located.
+7 * * *
+8 §1142. Approval of health care providers; fees
+9 * * *
+10 F. (1) A workers' compensation payor shall respond to a request for
+11 prior authorization for a surgical procedure within seven business days of
+12 receipt of a complete prior authorization request submitted through the
+13 statewide electronic prior authorization portal established pursuant to R.S.
+14 23:1203.2 or, where the portal has not yet been implemented, submitted to a
+15 workers' compensation payor in a form and manner established by rule. For
+16 prior authorization requests involving conditions in which the treating surgeon
+17 has documented progressive neurological deficit or imminent risk of permanent
+18 neurological harm, the payor shall respond within five business days. Failure
+19 by the payor to respond within the time period set forth in this Section shall be
+20 deemed authorization of the requested procedure.
+21 (2) Whenever a treating physician recommends referral of an injured
+22 employee to a specialist, the workers' compensation payor shall authorize the
+23 referral or provide a written denial with specific clinical justification within ten
+24 business days of receipt of the referral recommendation. Failure by the payor
+25 to respond within the time period set forth in this Section shall be deemed
+26 authorization of the referral. The treating physician's referral recommendation
+27 shall be submitted in a form and manner established by rule of the assistant
+28 secretary.
+29 * * *
+Page 7 of 21
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+SLS 26RS-205 ORIGINAL
+SB NO. 408
+1 §1201. Time and place of payment; failure to pay timely; failure to authorize;
+2 penalties and attorney fees
+3 * * *
+4 E.(1) Medical benefits payable under this Chapter shall be paid within sixty
+5 days after the employer or insurer receives written notice thereof, if the provider of
+6 medical services is not utilizing the electronic billing rules and regulations provided
+7 for in R.S. 23:1203.2.
+8 (2) For those providers of medical services who utilize the electronic billing
+9 rules and regulations provided for in R.S. 23:1203.2, medical Medical benefits
+10 payable under this Chapter shall be paid within thirty days after the employer or
+11 insurer receives a complete electronic medical bill, as defined by rules promulgated
+12 by Louisiana Works.
+13 (2) In addition to any penalties or attorney fees adjudicated by the office
+14 of workers' compensation courts, the assistant secretary shall impose a civil fine
+15 of no less than one thousand dollars and no more than five thousand dollars on
+16 any workers' compensation payor who fails to pay medical benefits payable
+17 under this Chapter in the time frame set forth in this Subsection. In the event
+18 the assistant secretary finds that a workers' compensation payor is willfully
+19 violating the provisions of this Subsection, the assistant secretary shall be
+20 authorized to levy civil fines of no less than twenty-five thousand dollars per
+21 violation. Workers' compensation payors shall establish appropriate procedures
+22 approved by the assistant secretary to assure that any healthcare provider who
+23 is not paid within the time frame specified in this Section receives a late
+24 payment adjustment equal to twelve percent per annum of the amount due.
+25 * * *
+26 §1203. Duty to furnish medical and vocational rehabilitation expenses; prosthetic
+27 devices; other expenses
+28 * * *
+29 B. The obligation of the employer to furnish such care, services, treatment,
+Page 8 of 21
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+SLS 26RS-205 ORIGINAL
+SB NO. 408
+1 drugs, and supplies, whether in state or out of state, is limited to the reimbursement
+2 determined to be the mean of the usual and customary charges for such care,
+3 services, treatment, drugs, and supplies, as determined under the reimbursement
+4 schedule annually published pursuant to R.S. 23:1034.2 or the actual charge made
+5 for the service, whichever is less. Any out-of-state provider is also to be subject to
+6 the procedures established under the office of workers' compensation administration
+7 utilization review rules.
+8 * * *
+9 Section 2. R.S. 23:1203.2 is hereby amended and reenacted and Subpart K of Part
+10 1 of Chapter 10 of Title 23 of the Louisiana Revised Statutes of 1950, comprised of R.S.
+11 23:1200.18 through 1200.26 is hereby enacted to read as follows:
+12 SUBPART K. ALL WORKERS' COMPENSATION MEDICAL CLAIMS
+13 DATABASE
+14 §1200.18. Short title
+15 This Part shall be known and may be cited as the "Louisiana All
+16 Workers' Compensation Medical Claims Database Act".
+17 §1200.19. Terms defined
+18 As used in this Subpart, unless the context clearly indicates otherwise,
+19 the following terms shall be given the meaning ascribed to them in this Section:
+20 (1) "Database" means the All Workers' Compensation Medical Claims
+21 Database.
+22 (2) "Medical claim" means any claim submitted by a healthcare provider
+23 to a payor for payment for healthcare services, pharmaceuticals, durable
+24 medical equipment, or related services provided to an employee pursuant to this
+25 Chapter.
+26 §1200.20. Establishment of database
+27 A.(1) The assistant secretary of the office of workers' compensation
+28 administration shall establish and maintain the All Workers' Compensation
+29 Medical Claims Database.
+Page 9 of 21
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+SLS 26RS-205 ORIGINAL
+SB NO. 408
+1 (2) The database shall contain medical and pharmacy claims information
+2 submitted by all payors providing workers' compensation coverage in this state.
+3 B. The purpose of the database shall be to:
+4 (1) Improve transparency in medical reimbursement trends.
+5 (2) Assist in enforcement and maintenance of an appropriate fee
+6 schedule.
+7 (3) Evaluate medical utilization patterns and outcomes.
+8 (4) Detect fraud, waste, and abuse.
+9 (5) Support policy development, rate analysis, and system oversight.
+10 C. The assistant secretary may retain and consult with qualified
+11 individuals or organizations with expertise in data analytics and medical billing
+12 for purposes of creation, operation and maintenance of the All Workers'
+13 Compensation Medical Claims Database. However, data contained in the
+14 database shall only consist of claims data obtained directly from workers'
+15 compensation payors in this state.
+16 §1200.21. Mandatory reporting requirements
+17 A.(1) Beginning January 1, 2027, all workers' compensation payors shall
+18 submit to the assistant secretary of the office of workers' compensation
+19 administration medical and pharmacy claims data for all workers'
+20 compensation claims arising under Louisiana law.
+21 (2) Submission shall occur in a format, time, and manner prescribed by
+22 rule of the office of workers' compensation administration.
+23 B. Required data elements shall include:
+24 (1) Date of injury.
+25 (2) Employer industry classification.
+26 (3) Provider specialty and identifier.
+27 (4) Current procedural terminology (CPT) codes, Healthcare Common
+28 Procedure Coding System (HCPCS) codes, National Drug Code (NDC) codes,
+29 and International Classification of Diseases (ICD) codes, as applicable.
+Page 10 of 21
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+SLS 26RS-205 ORIGINAL
+SB NO. 408
+1 (5) Billed charge and allowed amount.
+2 (6) Paid amount.
+3 (7) Service dates.
+4 (8) Utilization review actions.
+5 (9) Claim status indicators.
+6 C. Data shall be submitted quarterly unless otherwise provided by rule
+7 24 establishing, promulgating, and updating the reimbursement schedule.
+8 §1200.22. Rulemaking authority
+9 A. The assistant secretary of the office of workers' compensation
+10 administration shall promulgate rules in accordance with the Administrative
+11 Procedure Act to implement this Part.
+12 B. Rules shall include but not be limited to:
+13 (1) Technical data submission standards.
+14 (2) Data validation procedures.
+15 (3) Compliance time lines.
+16 (4) Procedures for correction of erroneous submissions.
+17 (5) Standards for public reporting.
+18 §1200.23. Confidentiality and data protection
+19 A.(1) All information collected pursuant to this Part and maintained in
+20 the All Workers' Compensation Medical Claims Database shall be confidential
+21 and privileged, shall not be public record, and shall not be subject to subpoena.
+22 This confidentiality shall be strictly maintained by the assistant secretary, all
+23 employees of the office, and by any agent or contractor of the state and shall be
+24 used exclusively for the purposes set forth in this Part. Whoever violates the
+25 provisions of this Paragraph shall be guilty of a misdemeanor and fined not
+26 more than five hundred dollars for each offense.
+27 (2) The database shall comply with applicable state and federal privacy
+28 and security laws, including the Health Insurance Portability and
+29 Accountability Act (HIPAA), where applicable.
+Page 11 of 21
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+SLS 26RS-205 ORIGINAL
+SB NO. 408
+1 B. Public reports shall present only aggregated or de-identified data.
+2 §1200.24. Authorized uses
+3 The assistant secretary of the office of workers' compensation
+4 administration shall only use the database data for:
+5 (1) Monitoring compliance with medical fee schedule regulations.
+6 (2) Studying medical cost drivers and utilization trends.
+7 (3) Supporting actuarial review and rate analysis.
+8 (4) Evaluating the effectiveness of medical treatment guidelines.
+9 (5) Developing, revising, or modernizing the workers' compensation
+10 medical fee schedule pursuant to the provisions of this Part.
+11 (6) Reporting annually to the legislature.
+12 §1200.25. Data integrity
+13 A. The assistant secretary shall have the authority to investigate and
+14 audit the claim data submissions of any workers' compensation payor upon a
+15 reasonable belief that a payor or healthcare provider is engaging in conduct
+16 that may undermine the accuracy, completeness, or reliability of the data
+17 contained in the database.
+18 B. Each workers' compensation payor shall fully cooperate with any
+19 investigation or audit conducted pursuant to this Section and shall provide
+20 access to all records, documents, and information reasonably necessary to verify
+21 the accuracy and completeness of submitted data.
+22 C. Failure of a workers' compensation payor to fully cooperate with an
+23 investigation or audit conducted pursuant to this Section shall be grounds for
+24 the imposition of a civil fine not to exceed ten thousand dollars per day for each
+25 day of noncompliance until such time as the payor fully complies with the
+26 requests of the assistant secretary.
+27 §1200.26. Penalties
+28 A. If any payor fails to submit required data to the All Workers'
+29 Compensation Medical Claims Database on a timely basis, fails to correct
+Page 12 of 21
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+SLS 26RS-205 ORIGINAL
+SB NO. 408
+1 submissions rejected because of errors, or otherwise does not comply with the
+2 provisions of this Subpart or the rules and regulations promulgated to carry out
+3 the provisions of this Subpart, the assistant secretary shall provide written
+4 notice to the payor. The assistant secretary may grant an extension of time for
+5 just cause. The assistant secretary may assess a fine not to exceed five hundred
+6 dollars per day for noncompliance after written notice and opportunity to cure
+7 the noncompliance. In determining whether to impose a penalty, the assistant
+8 secretary may consider mitigating factors, including the size and sophistication
+9 of a payor, the reasons for the failure to report, and the detrimental impact
+10 upon the public purpose served by the database.
+11 B. The assistant secretary may impose an additional administrative
+12 penalty of not more than ten thousand dollars per day for those violations the
+13 assistant secretary finds were willful. In addition, any person who knowingly
+14 fails to comply with the confidentiality requirements of this Section or
+15 confidentiality rules adopted pursuant to this Section and uses, sells, or
+16 transfers the data or information for commercial advantage, pecuniary gain,
+17 personal gain, or malicious harm shall be subject to an administrative penalty
+18 of not more than fifty thousand dollars per violation.
+19 * * *
+20 §1203.2. Electronic medical billing and payment; prior authorization
+21 A.(1) Beginning October 1, 2026, all claims for medical services rendered
+22 shall be submitted to a workers' compensation payor in electronic format. The
+23 assistant secretary shall adopt rules and regulations regarding the electronic
+24 submission, processing, and payment of workers' compensation- related medical
+25 bills, in accordance with the Administrative Procedure Act, R.S. 49:950 et seq.
+26 "Electronic claim" means a claim submitted by a healthcare provider, or its
+27 agent to a workers' compensation payor in an 837 (ASC X12N 837) format or
+28 its successor, adopted by the United States Department of Health and Human
+29 Services, or its successor, in compliance with the provisions of the Health
+Page 13 of 21
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+SLS 26RS-205 ORIGINAL
+SB NO. 408
+1 Insurance Portability and Accountability Act (42 U.S.C. 1302d et seq., and 45
+2 CFR Parts 160 and 162), that includes all of the following:
+3 (a) Data that is required according to the United States Department of
+4 Health and Human Services standards for electronic transactions.
+5 (b) Data that becomes required due to the situation according to the
+6 United States Department of Health and Human Services standards for
+7 electronic transactions.
+8 (2) Such rules shall take effect no later than January 1, 2012. Within five
+9 business days of receipt of an electronic claim, a workers' compensation payor
+10 or its agent shall review the entire claim and, if the workers' compensation
+11 payor determines that the claim is not an accepted claim, issue an exception
+12 report to the provider or its agent indicating all defects or reasons known at
+13 that time that the claim is not an accepted claim. A provider who submits a
+14 claim that is not an accepted claim shall be deemed to have timely submitted a
+15 claim for the payment of covered healthcare services if the health insurance
+16 issuer or its agent fails to notify the healthcare provider, or the healthcare
+17 clearinghouse from which the claim was received, of all defects or reasons
+18 known at that time that the claim is not an accepted claim as required by this
+19 Subsection.
+20 (a) The exception report shall contain at a minimum the following
+21 information, if known at that time, for each claim submitted:
+22 (i) Patient name.
+23 (ii) Provider claim number, patient account number, or unique
+24 identification number.
+25 (iii) Date of service.
+26 (iv) Total billed charges.
+27 (v) Exception report issuer's name.
+28 (vi) The date upon which the exception report was generated.
+29 B. The following groups shall make provisions for such an electronic claims
+Page 14 of 21
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+SLS 26RS-205 ORIGINAL
+SB NO. 408
+1 system: Workers' compensation payors shall adopt appropriate handling
+2 procedures approved by the office for the acceptance of electronic claim
+3 submissions. The procedures shall include but not be limited to the following:
+4 (1) Insurance carriers shall accept medical bills electronically submitted by
+5 health care providers, in accordance with the rules promulgated. A process for
+6 electronically recording the time and date of actual receipt of electronic claims.
+7 (2) Health care providers shall accept payment of medical claims submitted
+8 electronically by insurance carriers, in accordance with the rules promulgated. A
+9 process for electronic review of transmitted claims that assures all electronic
+10 claims received are reviewed for determination of whether the claims are
+11 deemed accepted in accordance with Subsection A of this Section.
+12 (3) A process for reporting all claims not accepted and all defects or
+13 reasons known at that time that the claims were not accepted or rejected.
+14 C. The assistant secretary may create and maintain a statewide electronic
+15 prior authorization portal for purposes of approving medical care in
+16 accordance with R.S. 23:1142. The portal shall have the capability to track and
+17 document prior authorization requests, responses, and supporting medical
+18 documentation. The assistant secretary may conduct pilot programs limited to
+19 specific geographic areas or specific workers' compensation payors prior to
+20 initiating and maintaining the portal for statewide use by all workers'
+21 compensation payors. On or after January 1, 2012, the The assistant secretary may
+22 adopt additional rules and regulations, in accordance with the Administrative
+23 Procedure Act, R.S. 49:950 et seq., regarding the creation, operation, and
+24 maintenance of an electronic exchange of medical claims information for purposes
+25 of approving medical care in accordance with R.S. 23:1142.
+26 D.(1) Nothing shall prohibit the assistant secretary from promulgating and
+27 adopting rules and regulations, in accordance with the Administrative Procedure Act,
+28 R.S. 49:950 et seq., regarding the development and implementation of a centralized
+29 data warehouse for the collection of medical billing and payment data. No later than
+Page 15 of 21
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+SLS 26RS-205 ORIGINAL
+SB NO. 408
+1 January 1, 2031, the assistant secretary shall develop and implement a Workers'
+2 Compensation Medical Quality and Outcomes Program designed to measure,
+3 evaluate, and improve the quality and effectiveness of medical care provided to
+4 injured employees under this Chapter.
+5 (2) The program shall complement the purposes of the workers'
+6 compensation system by maintaining measurable indicators of quality and
+7 outcomes, which may include but shall not be limited to:
+8 (a) Time to return to work.
+9 (b) Functional improvement measures.
+10 (c) Duration of disability and medical treatment episodes.
+11 (d) Utilization of evidence-based treatment guidelines.
+12 (3) In order to support the program, the office may collect and analyze
+13 data from the All Workers' Compensation Medical Claims Database.
+14 (4) The office may develop mechanisms to identify best practices that
+15 improve recovery and return-to-work outcomes.
+16 (5) The office may adopt rules in accordance with the Administrative
+17 Procedure Act as necessary to implement the provisions of this Section.
+18 Section 3. R.S. 44:4.1(B)(12) is hereby amended and reenacted to read as follows:
+19 §4.1. Exceptions
+20 * * *
+21 B. The legislature further recognizes that there exist exceptions, exemptions,
+22 and limitations to the laws pertaining to public records throughout the revised
+23 statutes and codes of this state. Therefore, the following exceptions, exemptions, and
+24 limitations are hereby continued in effect by incorporation into this Chapter by
+25 citation:
+26 * * *
+27 (12) R.S. 23:1177, 1197, 1200.7, 1200.18, 1291, 1292, 1293, 1306, 1660,
+28 1671
+29 * * *
+Page 16 of 21
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+SLS 26RS-205 ORIGINAL
+SB NO. 408
+1 Section 4. Beginning no later than June 30, 2028, the assistant secretary of the office
+2 of workers' compensation administration shall initiate formal rulemaking to update and
+3 modernize the workers' compensation medical fee schedule using data derived from the All
+4 Workers' Compensation Medical Claims Database established pursuant to this Act. The
+5 updated fee schedule shall:
+6 (1) Be based on empirical Louisiana-specific payment data.
+7 (2) Provide transparency in methodology, including statistical assumptions.
+8 (3) Promote adequate access to quality care for injured workers.
+9 (4) Support cost predictability and system stability for employers and insurers.
+10 The methodology for percentile calculation, data exclusions, geographic adjustments,
+11 and statistical smoothing shall be published in detail and be included in the notice of intent
+12 for rulemaking for public review.
+13 In developing the inpatient and outpatient hospital services and ambulatory surgery
+14 services reimbursement amounts, the administrator shall:
+15 (1) Analyze allowed amounts and paid amounts reflected in the database.
+16 (2) Evaluate reimbursement percentiles for comparable services across geographic
+17 regions.
+18 (3) Consider access to care metrics, including provider participation rates and
+19 treatment timeliness.
+20 (4) Review utilization patterns and cost drivers by procedure category.
+21 The methodology for percentile calculation, data exclusions, geographic adjustments,
+22 and statistical smoothing shall be published in detail and be included in the notice of intent
+23 for rulemaking for public review.
+24 No revised fee schedule adopted pursuant to this Section shall become effective
+25 unless approved by the Senate and House of Representatives committees on labor and
+26 industrial affairs, meeting separately or jointly. The legislature may approve, reject, or return
+27 the proposal with recommendations. The assistant secretary of the office of workers'
+28 compensation administration shall submit:
+29 (1) The proposed fee schedule.
+Page 17 of 21
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+SLS 26RS-205 ORIGINAL
+SB NO. 408
+1 (2) The published methodology.
+2 (3) The actuarial impact analysis.
+3 Not later than March 1, 2028, the assistant secretary of the office of workers'
+4 compensation administration shall submit a progress report to the House Committee on
+5 Labor and Industrial Relations and the Senate Committee on Labor and Industrial Relations.
+6 Section 5. The provisions of Section 1 shall only become effective upon approval by
+7 the Senate and House of Representatives committees on labor and industrial affairs, meeting
+8 separately or jointly, of the updated fee schedule as required in Section 4 of this Act.
+9 Section 6. The provision of this Section and Sections 2, 3, 4, and 5 shall become
+10 effective upon signature by the governor or, if not signed by the governor, upon expiration
+11 of the time for bills to become law without signature by the governor, as provided by Article
+12 III, Section 18 of the Constitution of Louisiana. If vetoed by the governor and subsequently
+13 approved by the legislature, this Act shall become effective on the day following such
+14 approval.
+The original instrument and the following digest, which constitutes no part
+of the legislative instrument, were prepared by Senate Legislative Services.
+The keyword, summary, and digest do not constitute part of the law or proof
+or indicia of legislative intent. [R.S. 1:13(B) and 24:177(E)]
+DIGEST
+SB 408 Original 2026 Regular Session Myers
+Present law requires the assistant secretary of the office of workers' compensation
+administration to create a reimbursement schedule that sets the maximum amount that can
+be paid to doctors, hospitals, pharmacies, or providers for prescription drugs, medical
+supplies, hospital care and services, and medical and surgical treatments provided to injured
+workers.
+Proposed law retains present law and adds that if a medical service has a CPT code, then the
+reimbursement amount will be calculated using that code. Proposed law also provides that
+the reimbursement amount will be set at the 75th percentile of the PMIC Medical Fees
+Directory.
+Proposed law prohibits "by report" billing.
+Propose law provides that individual CPT, HCPCS, facility classification, or reimbursement
+schedules will increase or decrease by more than 5% in any 12 month period unless the
+following criteria are satisfied:
+(1) Demonstration of material access-to-care deficiencies.
+(2) Clear actuarial evidence of system imbalance.
+Page 18 of 21
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+SLS 26RS-205 ORIGINAL
+SB NO. 408
+(3) Approval by concurrent resolution of the legislature.
+Proposed law further provides that any decrease will be phased in over not less than two
+years.
+Present law provides that the schedule will include charges which reflect the mean of the
+usual and customary charge for medical care, services, treatment, drugs and supplies.
+Proposed law repeals present law.
+Proposed law requires reimbursement for implants to be the total of the original
+manufacturer's invoice or the authorized distributor's invoice amount paid plus 20%.
+Proposed law defines "by report", "database", "medical claim" and "electronic claim".
+Present law provides that the assistant secretary will collect the information and data
+necessary to calculate the reimbursement schedule. Present law further provides that the
+information and data will be governed by the following guidelines:
+(1) The assistant secretary will create a written survey detailing the information
+requested.
+(2) The survey will be managed by the office of workers' compensation administration
+in conjunction with an academic institution.
+(3) The information requested must be based upon data at least six months old.
+(4) There will be a minimum of 30 healthcare providers reporting data upon which each
+disseminated statistic is based.
+(5) No individual healthcare provider's data can represent more than 25% on a weighted
+basis of each statistic.
+(6) Any information disseminated must be sufficiently aggregated such that it will not
+allow recipients to identify the prices charged or compensation paid by any particular
+healthcare provider.
+Proposed law repeals present law.
+Present law provides that disputes between healthcare providers and employees, employers,
+or insurers may be submitted to the office of workers' compensation in the same manner as
+established for dispute resolution of claims for workers' compensation benefits.
+Present law retains proposed law and adds that if the dispute is regarding billing, payment,
+explanation of benefits, reconsideration, or the appropriate amount owed for the provision
+of medical services that have been rendered, the disputing party will submit the dispute for
+resolution to the office of workers' compensation's administration's medical services section.
+Proposed law provides that the nonprevailing party will pay the cost of the review.
+Proposed law provides an appeals process.
+Proposed law instructs the assistant secretary to impose a civil fine of at least $1,000 but not
+more than $5,000 to any workers' compensation payor who does not timely pay medical
+benefits.
+Proposed law requires the assistant secretary to establish and maintain the "All Workers'
+Compensation Medical Claims Database" (database).
+Page 19 of 21
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+SLS 26RS-205 ORIGINAL
+SB NO. 408
+Proposed law provides that the purpose of the database is to:
+(1) Improve transparency in medical reimbursement trends.
+(2) Assist in enforcement and maintenance of an appropriate fee schedule.
+(3) Evaluate medical utilization patterns and outcomes.
+(4) Detect fraud, waste, and abuse.
+(5) Support policy development, rate analysis, and system oversight.
+Proposed law requires all workers' compensation payors to submit medical and pharmacy
+claims data for all workers' compensation claims arising under Louisiana law to the assistant
+secretary of the office of workers' compensation administration.
+Proposed law provides that the medical and pharmacy data must include:
+(1) Date of injury.
+(2) Employer industry classification.
+(3) Provider specialty and identifier.
+(4) CPT, HCPCS, ICD, and NDC codes as applicable.
+(5) Billed charge and allowed amount.
+(6) Paid amount.
+(7) Service dates.
+(8) Utilization review actions.
+(9) Claim status indicators.
+Proposed law provides that the information collected and maintained in the database will be
+confidential and privileged. Proposed law also provides for criminal penalties for
+unauthorized disclosure.
+Proposed law allows the assistant secretary to use the data collected for the database for:
+(1) Monitoring compliance with medical fee schedule regulations.
+(2) Studying medical cost drivers and utilization trends.
+(3) Supporting actuarial review and rate analysis.
+(4) Evaluating the effectiveness of medical treatment guidelines.
+(5) Developing, revising, or modernizing the workers' compensation medical fee
+schedule pursuant to the provisions of this Part.
+(6) Reporting annually to the legislature.
+Proposed law provides that payors who fail to submit required information to the database
+or correct submissions rejected because of errors will receive a notice from the assistant
+secretary, and an extension of time may be granted for just cause. Proposed law further
+Page 20 of 21
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+SLS 26RS-205 ORIGINAL
+SB NO. 408
+provides that the assistant secretary may assess a fine that does not exceed $500 per day for
+noncompliance.
+Present law provides that the assistant secretary will adopt rules and regulations regarding
+an electronic system of submission, processing, and payment of workers'
+compensation-related medical bills.
+Present law provides that insurance carriers will accept medical bills electronically submitted
+by healthcare providers and electronic payment of such bills, and healthcare providers will
+accept payment of medical claims submitted electronically by insurance carriers.
+Proposed law provides that beginning October 1, 2026, claims for medical services rendered
+will be submitted to a workers' compensation payor in electronic format.
+Proposed law requires the assistant secretary to develop and implement a Workers'
+Compensation Medical Quality and Outcomes Program designed to measure, evaluate, and
+improve the quality of effectiveness of medical care provided to injured employees.
+Present law provides a declaration by the legislature that the people should be aware of all
+of the exceptions, exemptions, and limitations to the public records law and that such
+exceptions, exemptions, and limitations should be provided only in present law relative to
+public records or the Constitution of Louisiana. Proposed law further provides that any
+exceptions, exemptions, and limitations elsewhere in the law will not have effect. Proposed
+law further recognizes that there currently exists a number of exceptions, exemptions, and
+limitations located elsewhere in present law.
+Proposed law retains present law and adds proposed law relative to the medical claims
+database to the list of public records exceptions.
+Effective upon signature of the governor or lapse of time for gubernatorial action.
+(Amends R.S. 23:1034.2(B), (C), and (F), 1201(E), 1203(B), and 1203.2 and R.S.
+44:4.1(B)(12); adds 23:1021(14), 1142(F), and 1200.18 - 1200.26)
+Page 21 of 21
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+[DELETED: 5O C P r t t w cAT4CoaLm r o m a p c d t p fr0r1a2B3S 1 R 2 ( a ( 1 a 1 a h4a5f6§7A]
+[DELETED: 5Of*(dp*§*B0P A r a r n t e a i 1r2a3(4s5a6s b e t t s p o t P M7I8a9u0t1R2( F p o i a o h s a3a4s5p6W C M C D d t m r7t8(9C H C P C S ( f]
+[DELETED: 5Octa((((( N t p o S ( o tS0a f s d p t S 4 o t A t a1s2H3p4(5a6m7e8(9l0(1s2f c u t S s b p f a3c4(5u6C7o8s9e]
+[DELETED: 5ORiF t p o t S " m p a mi(a d n t c t r s T c oi( T a s s c a w s d ti0(1a2(3o4(5u6( N i h c p d s r m t7t8(9i0p1(2a3c4o5p o p t w c r s6W7t8(9d]
+[DELETED: 5ONa*FeetSt0d r o c f w c b o w1c2a3d4n5i6o7( U t i o a d b t w c8a9t0b1a2d i a t r a r p b t3a4a5s6a7t8r9L o o d r I t d r i t w]
+[DELETED: 5Ocset p p a f t d t c i a b twpopn0d1f2w3i o t a w c c i L a4a5W6c7a8( W f b d o t i o a d b t9i0J1s b f a n a c c s b c a t2n3(4s5t6( I a t a o o w c o c i7o8b a s h c p a a s " a d i R92]
+[DELETED: 5Ospc p c a t d t T v f scio*§*0F1p2r o a c p a r s t t3s425w6p7h8n9b0d1(2e3r4b5t6a7s8s9*]
+[DELETED: 5O§ T a p f p t f ap*Edmf(r0p1i2b3(4o5o6a7u8t9v t p o t S t a s b0a1v2a3i n p w t t f s i t S r a l4p5*6§7d8*9B]
+[DELETED: 5Odd t b t m o t u a c c f s cssftu*S01122S3D4§5T P s b k a m b c a t " A6W7§8A9t0(1D2(3t a p f p f h s p d4m5C6§7A8a9M]
+[DELETED: 5O(sB(( A i e a m o a a fs(((0C T a s m r a c w q1i2f p o c o a m o t A W3C M C D H d c i t4d o d5c6§7A8s t t a s o t o o w c9a m a p c d f a w0c1(2r3B4(5(6(7(8P9a]
+[DELETED: 5O(((((C2§A T a s o t o o w c0a1P2B3(4(5(6(7(8§9A0t1a2T3e4u5p6m7(8a s l i t H I P a9A]
+[DELETED: 5OB§T a s o t o o w ca(((((0m1(2§3A4a5r6t m u t a c o r o t d7c8B9i0a1t2C3i4t5d6r7§8A I a p f t s r d t t A W9C M C D o a t b f t c]
+[DELETED: 5Osptnjdtso0u1B T a s i a a a2p3a4f t c w t c r o t S o5c r a p t t S a u s o6t7p8o9*0§1A2s3a s s a r a r r t e4s5b6"7a8i9S o i s i c w t p o t H]
+[DELETED: 5OIC(H(U S D o H a H S s fe(b0o1p2r3t4c5c6i7c8k9S0( T e r s c a a m t f1i2(3( P c n p a n o u4i5(6(7(8(9B]
+[DELETED: 5Os W c p s a a hp a b t o f t a o e cs(he(ep0c r a r f d o w t c a1d2(3r4C5p a p f p o a m c i6a7d p a r r a s m8d9s0i a m t p f s u b a w1c2a a r a r i a w t A3P A R 4 e s r t c o a4m5o6D7a8R9d]
+[DELETED: 5OJCei( T p s c t p o t wc s ao((0(1(2(3d4(5i6(7P8S9§0*1B2a t t l p t p r t r3s4l5c6*7(819*]
+[DELETED: 5OSomWu((((0T1a2f3I4s5(6(7r8( C a t c m i p p r a9t0(1T2a3f4N5u6i7t p w r T a s o t o o w8c9(]
+[DELETED: 5O((N l t M 1 2 t a s o t o o wcLStsS0e1o2I3a4al2nM l r t a s o t o o w c t d p p m)  C]
+[DELETED: 5O A l r r f i t b t t o t o l p t t a s w c t i a d T a s w c a w s d t T T)T N A]
+[DELETED: 5O I A E D S D E P)C B P S U C a p P l a p f c p f M)S S E D r o m t w c m)R]
+[DELETED: 5O e s o s p a p o w l r t a s t d a i a W R 2 ( a ( 1 1 a 1 a R]
+
+
+================================================================================
+
+Raw Text:
+SLS 26RS-205 ORIGINAL
+2026 Regular Session
+SENATE BILL NO. 408
+BY SENATOR MYERS
+WORKERS' COMPENSATION. Provides relative to the workers' compensation
+reimbursement schedule. (gov sig)
+1 AN ACT
+2 To amend and reenact R.S. 23:1034.2(B), (C), and (F), 1201(E), 1203(B), 1203.2, and R.S.
+3 44:4.1(B)(12) and to enact R.S. 23:1021(14), 1142(F) and Subpart K of Part 1 of
+4 Chapter 10 of Title 23 of the Louisiana Revised Statutes of 1950, to be comprised
+5 of R.S. 23:1200.18 through 1200.26, relative to workers' compensation; to establish
+6 an All Workers' Compensation Medical Claims Database; to provide for duties of the
+7 Louisiana Works, office of workers' compensation administration; to provide for
+8 mandatory reporting of medical and pharmacy claims data; to provide for
+9 rulemaking; to provide for confidentiality and data protections; to provide for public
+10 record exceptions; to provide for definitions; to provide for penalties; to provide for
+11 an effective date; and to provide for related matters.
+12 Be it enacted by the Legislature of Louisiana:
+13 Section 1. R.S. 23:1034.2(B), (C), and (F), 1201(E), and 1203(B) are hereby
+14 amended and reenacted and R.S. 23: 1021(14) and 1142(F) are hereby enacted to read as
+15 follows:
+16 §1021. Terms defined
+17 As used in this Chapter, unless the context clearly indicates otherwise, the
+Page 1 of 21
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-205 ORIGINAL
+SB NO. 408
+1 following terms shall be given the meaning ascribed to them in this Section:
+2 * * *
+3 (14) "By report" means the method by which the reimbursement is
+4 determined by the carrier when a service or procedure is performed by the
+5 provider that does not have an established maximum fee allowance.
+6 * * *
+7 §1034.2. Reimbursement schedule
+8 * * *
+9 B. The assistant secretary shall adopt, in accordance with the Administrative
+10 Procedure Act, rules and regulations necessary to establish and implement a
+11 reimbursement schedule for such care, services, treatment, drugs, and supplies in
+12 accordance with the following:
+13 (1) For purposes of the professional fee schedule, the reimbursement
+14 schedule for professional service charges for care, services, treatment, drugs,
+15 and supplies for which a current procedural terminology (CPT) code is assigned
+16 shall be equal to the seventy-fifth percentile of the Practice Management
+17 Information Corporation Medical Fees Directory. If a specific CPT code is not
+18 assigned, the reimbursement schedule for charges listed in this Subsection may
+19 use a comparable CPT code that shall be equal to the seventy-fifth percentile of
+20 the Practice Management Information Corporation Medical Fees Directory.
+21 Reimbursement by report shall be prohibited.
+22 (2) For purposes of inpatient and outpatient hospital services and
+23 ambulatory surgery services, set reimbursement for service charges for care,
+24 services, treatment, drugs, and supplies equal to the seventy-fifth percentile of
+25 paid amounts for the same or substantially similar services reflected in the All
+26 Workers' Compensation Medical Claims Database during the most recent
+27 twenty-four month reporting period.
+28 (3)(a) Following the implementation of a new fee schedule, no individual
+29 CPT, Healthcare Common Procedure Coding System (HCPCS), facility
+Page 2 of 21
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-205 ORIGINAL
+SB NO. 408
+1 classification, or reimbursement category shall increase or decrease by more
+2 than five percent in any twelve-month period unless all of the following criteria
+3 are satisfied:
+4 (i) Demonstration of material access-to-care deficiencies.
+5 (ii) Clear actuarial evidence of system imbalance.
+6 (iii) Approval by concurrent resolution of the legislature.
+7 (b) Any decrease shall be phased in over not less than two years.
+8 (c) Notwithstanding the provisions of Subparagraph (3)(a) of this
+9 Subsection, within the thirty-six month period following the initial adoption of
+10 a fee schedule developed pursuant to Section 4 of this Act, the assistant
+11 secretary may propose a one-time corrective adjustment to any individual CPT,
+12 HCPCS, facility classification, or reimbursement category in excess of five
+13 percent upon meeting the following criteria:
+14 (i) A finding by a qualified independent actuary, retained by the office
+15 at the office's expense, that the initial benchmark for the affected category is
+16 materially inaccurate as a result of data limitations, statistical methodology
+17 error, or inadequate representation of Louisiana market conditions.
+18 (ii) Approval by the Senate and House of Representatives committees on
+19 labor and industrial affairs meeting jointly.
+20 (iii) Any corrective adjustment made pursuant to this Subparagraph
+21 shall not be subject to the five percent cap but shall itself be nonrepeatable. No
+22 further corrections under this Subparagraph shall be permitted for any
+23 category that has already received one corrective adjustment.
+24 (4) The office of workers' compensation administration shall review and
+25 update all fee schedules adopted by the office every two years.
+26 C.(1) The reimbursement schedule shall include charges limited to the mean
+27 of the usual and customary charges for such care, services, treatment, drugs, and
+28 supplies. Any necessary adjustments to the reimbursement schedule adopted and
+29 established in accordance with the provisions of this Section may be made annually
+Page 3 of 21
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-205 ORIGINAL
+SB NO. 408
+1 Reimbursement for an implant shall be the total of the original manufacturer's
+2 invoice or the authorized distributor's invoice amount paid plus twenty percent.
+3 For the purpose of this Subsection, "implant" means plastic and metallic
+4 implants or nonautogenous graft materials.
+5 (2) The assistant secretary shall have the authority to collect the information
+6 and data necessary to calculate the reimbursement schedule. The collection of
+7 information and data shall be governed by the following guidelines:
+8 (a) The assistant secretary shall create a written survey detailing the
+9 information requested.
+10 (b) The survey shall be managed by the office of workers' compensation
+11 administration in conjunction with an academic institution.
+12 (c) The information requested shall be based upon data at least six months
+13 old.
+14 (d) There shall be a minimum of thirty health care providers reporting data
+15 upon which each disseminated statistic is based.
+16 (e) No individual health care provider's data shall represent more than
+17 twenty-five percent on a weighted basis of each statistic.
+18 (f) Any information disseminated shall be sufficiently aggregated such that
+19 it will not allow recipients to identify the prices charged or compensation paid by any
+20 particular health care provider.
+21 (3) All information collected pursuant to this Subsection shall be confidential
+22 and privileged, shall not be public record, and shall not be subject to subpoena. Such
+23 confidentiality shall be strictly maintained by the assistant secretary, all employees
+24 of the office, and by the academic institution and shall be used exclusively for the
+25 purpose of promulgating the workers' compensation reimbursement schedule.
+26 Whoever violates this Paragraph shall be guilty of a misdemeanor and fined not more
+27 than five hundred dollars for each offense.
+28 (4) Notwithstanding any other provisions of this Section, reimbursement for
+29 dental services shall not exceed the seventieth percentile in the current edition of the
+Page 4 of 21
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-205 ORIGINAL
+SB NO. 408
+1 National Dental Advisory Service (NDAS) Comprehensive Fee Report, utilizing the
+2 average of geographic multipliers for Louisiana as published in the NDAS report.
+3 * * *
+4 F.(1) Should a dispute arise between a health care provider and the employee,
+5 employer, or workers' compensation insurer payor regarding billing, payment,
+6 explanation of benefits, reconsideration, or the appropriate amount owed for
+7 the provision of medical services that have been rendered pursuant to this
+8 Section, either the disputing party may shall submit the dispute for resolution to
+9 the office in the same manner and subject to the same procedures as established for
+10 dispute resolution of claims for workers' compensation benefits of workers'
+11 compensation administration's medical services section in a form and manner
+12 as promulgated in rule by the assistant secretary. The office shall render a
+13 decision no later than fifteen business days from submission of the dispute. The
+14 nonprevailing party shall pay the cost of the review and if the judgment results
+15 in the payment of a claim that was denied, interest shall be paid in the amount
+16 of twelve percent per annum from the date of the denial of the claim.
+17 (2) Upon the issuance of a decision by the workers' compensation
+18 administration's medical services section, the nonprevailing party may appeal
+19 the decision with the assistant secretary within five business days of its receipt
+20 by certified mail. Upon the lodging of an appeal, the assistant secretary shall
+21 appoint an independent reviewer to consider the continued dispute and issue a
+22 decision in accordance with the rules and regulations promulgated by the
+23 assistant secretary. The cost of the independent review shall be set forth in rule
+24 and shall be assessed against the nonprevailing party. If the appeal results in a
+25 split decision, then the cost of the independent review shall be divided equally
+26 among the parties. All costs of the independent review shall be due and payable
+27 to the office of workers' compensation within thirty days of the decision being
+28 rendered. Any party failing to timely remit payment shall be turned over to the
+29 Louisiana office of debt recovery. If the decision results in the workers'
+Page 5 of 21
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-205 ORIGINAL
+SB NO. 408
+1 compensation payor having to pay the healthcare provider for the medical
+2 services rendered, the payment shall be made within fifteen days after the
+3 expiration of time to lodge an appeal and shall include interest at no less than
+4 twelve percent per annum from the date the claim is adjudicated by the
+5 workers' compensation payor. Failure by the workers' compensation payor to
+6 provide payment in accordance with this Section shall result in interest accruing
+7 on the unpaid balance at the rate of eighteen percent per annum from the date
+8 payment was due, an administrative fine assessed by the assistant secretary of
+9 not less than two thousand five hundred dollars and not more than ten thousand
+10 dollars per unpaid claim per thirty-day period of noncompliance, and upon a
+11 finding by the assistant secretary that the failure to pay constitutes a pattern of
+12 willful noncompliance, suspension, or revocation of the payor's authority to self-
+13 insure or to administer workers' compensation claims in Louisiana, as
+14 applicable. All fines collected pursuant to this Section shall be deposited into the
+15 Workers' Compensation Administration Fund. The decision of the workers'
+16 compensation administration's medical services section shall be conclusive if an
+17 appeal is not timely filed.
+18 (3) Within five business days of the issuance of a decision by the
+19 independent reviewer, either party may appeal the decision to the Nineteenth
+20 Judicial District Court. The decision of the Nineteenth Judicial District Court
+21 shall be final and nonappealable and court costs shall be cast against the
+22 nonprevailing party.
+23 (4) The assistant secretary shall publish, at least annually, data and
+24 statistics regarding the disputes filed and the decisions rendered pursuant to
+25 this Section.
+26 (5) In addition to any other occasion when consolidation of claims is
+27 otherwise allowed by applicable law, whenever Whenever multiple disputes exist
+28 between a single health care provider and a single "payor" as defined in R.S.
+29 23:1142(A) concerning the proper amount payable pursuant to the reimbursement
+Page 6 of 21
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-205 ORIGINAL
+SB NO. 408
+1 schedule workers' compensation payor, then either the health care provider or the
+2 payor shall have the right to have all such disputes between the payor and the health
+3 care provider consolidated and tried decided together. The venue for such
+4 consolidated claims shall be in either the workers' compensation district of the parish
+5 in which the domicile of the provider is located or the workers' compensation district
+6 of the parish in which the domicile of the payor or employer is located.
+7 * * *
+8 §1142. Approval of health care providers; fees
+9 * * *
+10 F. (1) A workers' compensation payor shall respond to a request for
+11 prior authorization for a surgical procedure within seven business days of
+12 receipt of a complete prior authorization request submitted through the
+13 statewide electronic prior authorization portal established pursuant to R.S.
+14 23:1203.2 or, where the portal has not yet been implemented, submitted to a
+15 workers' compensation payor in a form and manner established by rule. For
+16 prior authorization requests involving conditions in which the treating surgeon
+17 has documented progressive neurological deficit or imminent risk of permanent
+18 neurological harm, the payor shall respond within five business days. Failure
+19 by the payor to respond within the time period set forth in this Section shall be
+20 deemed authorization of the requested procedure.
+21 (2) Whenever a treating physician recommends referral of an injured
+22 employee to a specialist, the workers' compensation payor shall authorize the
+23 referral or provide a written denial with specific clinical justification within ten
+24 business days of receipt of the referral recommendation. Failure by the payor
+25 to respond within the time period set forth in this Section shall be deemed
+26 authorization of the referral. The treating physician's referral recommendation
+27 shall be submitted in a form and manner established by rule of the assistant
+28 secretary.
+29 * * *
+Page 7 of 21
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-205 ORIGINAL
+SB NO. 408
+1 §1201. Time and place of payment; failure to pay timely; failure to authorize;
+2 penalties and attorney fees
+3 * * *
+4 E.(1) Medical benefits payable under this Chapter shall be paid within sixty
+5 days after the employer or insurer receives written notice thereof, if the provider of
+6 medical services is not utilizing the electronic billing rules and regulations provided
+7 for in R.S. 23:1203.2.
+8 (2) For those providers of medical services who utilize the electronic billing
+9 rules and regulations provided for in R.S. 23:1203.2, medical Medical benefits
+10 payable under this Chapter shall be paid within thirty days after the employer or
+11 insurer receives a complete electronic medical bill, as defined by rules promulgated
+12 by Louisiana Works.
+13 (2) In addition to any penalties or attorney fees adjudicated by the office
+14 of workers' compensation courts, the assistant secretary shall impose a civil fine
+15 of no less than one thousand dollars and no more than five thousand dollars on
+16 any workers' compensation payor who fails to pay medical benefits payable
+17 under this Chapter in the time frame set forth in this Subsection. In the event
+18 the assistant secretary finds that a workers' compensation payor is willfully
+19 violating the provisions of this Subsection, the assistant secretary shall be
+20 authorized to levy civil fines of no less than twenty-five thousand dollars per
+21 violation. Workers' compensation payors shall establish appropriate procedures
+22 approved by the assistant secretary to assure that any healthcare provider who
+23 is not paid within the time frame specified in this Section receives a late
+24 payment adjustment equal to twelve percent per annum of the amount due.
+25 * * *
+26 §1203. Duty to furnish medical and vocational rehabilitation expenses; prosthetic
+27 devices; other expenses
+28 * * *
+29 B. The obligation of the employer to furnish such care, services, treatment,
+Page 8 of 21
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-205 ORIGINAL
+SB NO. 408
+1 drugs, and supplies, whether in state or out of state, is limited to the reimbursement
+2 determined to be the mean of the usual and customary charges for such care,
+3 services, treatment, drugs, and supplies, as determined under the reimbursement
+4 schedule annually published pursuant to R.S. 23:1034.2 or the actual charge made
+5 for the service, whichever is less. Any out-of-state provider is also to be subject to
+6 the procedures established under the office of workers' compensation administration
+7 utilization review rules.
+8 * * *
+9 Section 2. R.S. 23:1203.2 is hereby amended and reenacted and Subpart K of Part
+10 1 of Chapter 10 of Title 23 of the Louisiana Revised Statutes of 1950, comprised of R.S.
+11 23:1200.18 through 1200.26 is hereby enacted to read as follows:
+12 SUBPART K. ALL WORKERS' COMPENSATION MEDICAL CLAIMS
+13 DATABASE
+14 §1200.18. Short title
+15 This Part shall be known and may be cited as the "Louisiana All
+16 Workers' Compensation Medical Claims Database Act".
+17 §1200.19. Terms defined
+18 As used in this Subpart, unless the context clearly indicates otherwise,
+19 the following terms shall be given the meaning ascribed to them in this Section:
+20 (1) "Database" means the All Workers' Compensation Medical Claims
+21 Database.
+22 (2) "Medical claim" means any claim submitted by a healthcare provider
+23 to a payor for payment for healthcare services, pharmaceuticals, durable
+24 medical equipment, or related services provided to an employee pursuant to this
+25 Chapter.
+26 §1200.20. Establishment of database
+27 A.(1) The assistant secretary of the office of workers' compensation
+28 administration shall establish and maintain the All Workers' Compensation
+29 Medical Claims Database.
+Page 9 of 21
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-205 ORIGINAL
+SB NO. 408
+1 (2) The database shall contain medical and pharmacy claims information
+2 submitted by all payors providing workers' compensation coverage in this state.
+3 B. The purpose of the database shall be to:
+4 (1) Improve transparency in medical reimbursement trends.
+5 (2) Assist in enforcement and maintenance of an appropriate fee
+6 schedule.
+7 (3) Evaluate medical utilization patterns and outcomes.
+8 (4) Detect fraud, waste, and abuse.
+9 (5) Support policy development, rate analysis, and system oversight.
+10 C. The assistant secretary may retain and consult with qualified
+11 individuals or organizations with expertise in data analytics and medical billing
+12 for purposes of creation, operation and maintenance of the All Workers'
+13 Compensation Medical Claims Database. However, data contained in the
+14 database shall only consist of claims data obtained directly from workers'
+15 compensation payors in this state.
+16 §1200.21. Mandatory reporting requirements
+17 A.(1) Beginning January 1, 2027, all workers' compensation payors shall
+18 submit to the assistant secretary of the office of workers' compensation
+19 administration medical and pharmacy claims data for all workers'
+20 compensation claims arising under Louisiana law.
+21 (2) Submission shall occur in a format, time, and manner prescribed by
+22 rule of the office of workers' compensation administration.
+23 B. Required data elements shall include:
+24 (1) Date of injury.
+25 (2) Employer industry classification.
+26 (3) Provider specialty and identifier.
+27 (4) Current procedural terminology (CPT) codes, Healthcare Common
+28 Procedure Coding System (HCPCS) codes, National Drug Code (NDC) codes,
+29 and International Classification of Diseases (ICD) codes, as applicable.
+Page 10 of 21
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-205 ORIGINAL
+SB NO. 408
+1 (5) Billed charge and allowed amount.
+2 (6) Paid amount.
+3 (7) Service dates.
+4 (8) Utilization review actions.
+5 (9) Claim status indicators.
+6 C. Data shall be submitted quarterly unless otherwise provided by rule
+7 24 establishing, promulgating, and updating the reimbursement schedule.
+8 §1200.22. Rulemaking authority
+9 A. The assistant secretary of the office of workers' compensation
+10 administration shall promulgate rules in accordance with the Administrative
+11 Procedure Act to implement this Part.
+12 B. Rules shall include but not be limited to:
+13 (1) Technical data submission standards.
+14 (2) Data validation procedures.
+15 (3) Compliance time lines.
+16 (4) Procedures for correction of erroneous submissions.
+17 (5) Standards for public reporting.
+18 §1200.23. Confidentiality and data protection
+19 A.(1) All information collected pursuant to this Part and maintained in
+20 the All Workers' Compensation Medical Claims Database shall be confidential
+21 and privileged, shall not be public record, and shall not be subject to subpoena.
+22 This confidentiality shall be strictly maintained by the assistant secretary, all
+23 employees of the office, and by any agent or contractor of the state and shall be
+24 used exclusively for the purposes set forth in this Part. Whoever violates the
+25 provisions of this Paragraph shall be guilty of a misdemeanor and fined not
+26 more than five hundred dollars for each offense.
+27 (2) The database shall comply with applicable state and federal privacy
+28 and security laws, including the Health Insurance Portability and
+29 Accountability Act (HIPAA), where applicable.
+Page 11 of 21
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-205 ORIGINAL
+SB NO. 408
+1 B. Public reports shall present only aggregated or de-identified data.
+2 §1200.24. Authorized uses
+3 The assistant secretary of the office of workers' compensation
+4 administration shall only use the database data for:
+5 (1) Monitoring compliance with medical fee schedule regulations.
+6 (2) Studying medical cost drivers and utilization trends.
+7 (3) Supporting actuarial review and rate analysis.
+8 (4) Evaluating the effectiveness of medical treatment guidelines.
+9 (5) Developing, revising, or modernizing the workers' compensation
+10 medical fee schedule pursuant to the provisions of this Part.
+11 (6) Reporting annually to the legislature.
+12 §1200.25. Data integrity
+13 A. The assistant secretary shall have the authority to investigate and
+14 audit the claim data submissions of any workers' compensation payor upon a
+15 reasonable belief that a payor or healthcare provider is engaging in conduct
+16 that may undermine the accuracy, completeness, or reliability of the data
+17 contained in the database.
+18 B. Each workers' compensation payor shall fully cooperate with any
+19 investigation or audit conducted pursuant to this Section and shall provide
+20 access to all records, documents, and information reasonably necessary to verify
+21 the accuracy and completeness of submitted data.
+22 C. Failure of a workers' compensation payor to fully cooperate with an
+23 investigation or audit conducted pursuant to this Section shall be grounds for
+24 the imposition of a civil fine not to exceed ten thousand dollars per day for each
+25 day of noncompliance until such time as the payor fully complies with the
+26 requests of the assistant secretary.
+27 §1200.26. Penalties
+28 A. If any payor fails to submit required data to the All Workers'
+29 Compensation Medical Claims Database on a timely basis, fails to correct
+Page 12 of 21
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-205 ORIGINAL
+SB NO. 408
+1 submissions rejected because of errors, or otherwise does not comply with the
+2 provisions of this Subpart or the rules and regulations promulgated to carry out
+3 the provisions of this Subpart, the assistant secretary shall provide written
+4 notice to the payor. The assistant secretary may grant an extension of time for
+5 just cause. The assistant secretary may assess a fine not to exceed five hundred
+6 dollars per day for noncompliance after written notice and opportunity to cure
+7 the noncompliance. In determining whether to impose a penalty, the assistant
+8 secretary may consider mitigating factors, including the size and sophistication
+9 of a payor, the reasons for the failure to report, and the detrimental impact
+10 upon the public purpose served by the database.
+11 B. The assistant secretary may impose an additional administrative
+12 penalty of not more than ten thousand dollars per day for those violations the
+13 assistant secretary finds were willful. In addition, any person who knowingly
+14 fails to comply with the confidentiality requirements of this Section or
+15 confidentiality rules adopted pursuant to this Section and uses, sells, or
+16 transfers the data or information for commercial advantage, pecuniary gain,
+17 personal gain, or malicious harm shall be subject to an administrative penalty
+18 of not more than fifty thousand dollars per violation.
+19 * * *
+20 §1203.2. Electronic medical billing and payment; prior authorization
+21 A.(1) Beginning October 1, 2026, all claims for medical services rendered
+22 shall be submitted to a workers' compensation payor in electronic format. The
+23 assistant secretary shall adopt rules and regulations regarding the electronic
+24 submission, processing, and payment of workers' compensation- related medical
+25 bills, in accordance with the Administrative Procedure Act, R.S. 49:950 et seq.
+26 "Electronic claim" means a claim submitted by a healthcare provider, or its
+27 agent to a workers' compensation payor in an 837 (ASC X12N 837) format or
+28 its successor, adopted by the United States Department of Health and Human
+29 Services, or its successor, in compliance with the provisions of the Health
+Page 13 of 21
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-205 ORIGINAL
+SB NO. 408
+1 Insurance Portability and Accountability Act (42 U.S.C. 1302d et seq., and 45
+2 CFR Parts 160 and 162), that includes all of the following:
+3 (a) Data that is required according to the United States Department of
+4 Health and Human Services standards for electronic transactions.
+5 (b) Data that becomes required due to the situation according to the
+6 United States Department of Health and Human Services standards for
+7 electronic transactions.
+8 (2) Such rules shall take effect no later than January 1, 2012. Within five
+9 business days of receipt of an electronic claim, a workers' compensation payor
+10 or its agent shall review the entire claim and, if the workers' compensation
+11 payor determines that the claim is not an accepted claim, issue an exception
+12 report to the provider or its agent indicating all defects or reasons known at
+13 that time that the claim is not an accepted claim. A provider who submits a
+14 claim that is not an accepted claim shall be deemed to have timely submitted a
+15 claim for the payment of covered healthcare services if the health insurance
+16 issuer or its agent fails to notify the healthcare provider, or the healthcare
+17 clearinghouse from which the claim was received, of all defects or reasons
+18 known at that time that the claim is not an accepted claim as required by this
+19 Subsection.
+20 (a) The exception report shall contain at a minimum the following
+21 information, if known at that time, for each claim submitted:
+22 (i) Patient name.
+23 (ii) Provider claim number, patient account number, or unique
+24 identification number.
+25 (iii) Date of service.
+26 (iv) Total billed charges.
+27 (v) Exception report issuer's name.
+28 (vi) The date upon which the exception report was generated.
+29 B. The following groups shall make provisions for such an electronic claims
+Page 14 of 21
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-205 ORIGINAL
+SB NO. 408
+1 system: Workers' compensation payors shall adopt appropriate handling
+2 procedures approved by the office for the acceptance of electronic claim
+3 submissions. The procedures shall include but not be limited to the following:
+4 (1) Insurance carriers shall accept medical bills electronically submitted by
+5 health care providers, in accordance with the rules promulgated. A process for
+6 electronically recording the time and date of actual receipt of electronic claims.
+7 (2) Health care providers shall accept payment of medical claims submitted
+8 electronically by insurance carriers, in accordance with the rules promulgated. A
+9 process for electronic review of transmitted claims that assures all electronic
+10 claims received are reviewed for determination of whether the claims are
+11 deemed accepted in accordance with Subsection A of this Section.
+12 (3) A process for reporting all claims not accepted and all defects or
+13 reasons known at that time that the claims were not accepted or rejected.
+14 C. The assistant secretary may create and maintain a statewide electronic
+15 prior authorization portal for purposes of approving medical care in
+16 accordance with R.S. 23:1142. The portal shall have the capability to track and
+17 document prior authorization requests, responses, and supporting medical
+18 documentation. The assistant secretary may conduct pilot programs limited to
+19 specific geographic areas or specific workers' compensation payors prior to
+20 initiating and maintaining the portal for statewide use by all workers'
+21 compensation payors. On or after January 1, 2012, the The assistant secretary may
+22 adopt additional rules and regulations, in accordance with the Administrative
+23 Procedure Act, R.S. 49:950 et seq., regarding the creation, operation, and
+24 maintenance of an electronic exchange of medical claims information for purposes
+25 of approving medical care in accordance with R.S. 23:1142.
+26 D.(1) Nothing shall prohibit the assistant secretary from promulgating and
+27 adopting rules and regulations, in accordance with the Administrative Procedure Act,
+28 R.S. 49:950 et seq., regarding the development and implementation of a centralized
+29 data warehouse for the collection of medical billing and payment data. No later than
+Page 15 of 21
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-205 ORIGINAL
+SB NO. 408
+1 January 1, 2031, the assistant secretary shall develop and implement a Workers'
+2 Compensation Medical Quality and Outcomes Program designed to measure,
+3 evaluate, and improve the quality and effectiveness of medical care provided to
+4 injured employees under this Chapter.
+5 (2) The program shall complement the purposes of the workers'
+6 compensation system by maintaining measurable indicators of quality and
+7 outcomes, which may include but shall not be limited to:
+8 (a) Time to return to work.
+9 (b) Functional improvement measures.
+10 (c) Duration of disability and medical treatment episodes.
+11 (d) Utilization of evidence-based treatment guidelines.
+12 (3) In order to support the program, the office may collect and analyze
+13 data from the All Workers' Compensation Medical Claims Database.
+14 (4) The office may develop mechanisms to identify best practices that
+15 improve recovery and return-to-work outcomes.
+16 (5) The office may adopt rules in accordance with the Administrative
+17 Procedure Act as necessary to implement the provisions of this Section.
+18 Section 3. R.S. 44:4.1(B)(12) is hereby amended and reenacted to read as follows:
+19 §4.1. Exceptions
+20 * * *
+21 B. The legislature further recognizes that there exist exceptions, exemptions,
+22 and limitations to the laws pertaining to public records throughout the revised
+23 statutes and codes of this state. Therefore, the following exceptions, exemptions, and
+24 limitations are hereby continued in effect by incorporation into this Chapter by
+25 citation:
+26 * * *
+27 (12) R.S. 23:1177, 1197, 1200.7, 1200.18, 1291, 1292, 1293, 1306, 1660,
+28 1671
+29 * * *
+Page 16 of 21
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-205 ORIGINAL
+SB NO. 408
+1 Section 4. Beginning no later than June 30, 2028, the assistant secretary of the office
+2 of workers' compensation administration shall initiate formal rulemaking to update and
+3 modernize the workers' compensation medical fee schedule using data derived from the All
+4 Workers' Compensation Medical Claims Database established pursuant to this Act. The
+5 updated fee schedule shall:
+6 (1) Be based on empirical Louisiana-specific payment data.
+7 (2) Provide transparency in methodology, including statistical assumptions.
+8 (3) Promote adequate access to quality care for injured workers.
+9 (4) Support cost predictability and system stability for employers and insurers.
+10 The methodology for percentile calculation, data exclusions, geographic adjustments,
+11 and statistical smoothing shall be published in detail and be included in the notice of intent
+12 for rulemaking for public review.
+13 In developing the inpatient and outpatient hospital services and ambulatory surgery
+14 services reimbursement amounts, the administrator shall:
+15 (1) Analyze allowed amounts and paid amounts reflected in the database.
+16 (2) Evaluate reimbursement percentiles for comparable services across geographic
+17 regions.
+18 (3) Consider access to care metrics, including provider participation rates and
+19 treatment timeliness.
+20 (4) Review utilization patterns and cost drivers by procedure category.
+21 The methodology for percentile calculation, data exclusions, geographic adjustments,
+22 and statistical smoothing shall be published in detail and be included in the notice of intent
+23 for rulemaking for public review.
+24 No revised fee schedule adopted pursuant to this Section shall become effective
+25 unless approved by the Senate and House of Representatives committees on labor and
+26 industrial affairs, meeting separately or jointly. The legislature may approve, reject, or return
+27 the proposal with recommendations. The assistant secretary of the office of workers'
+28 compensation administration shall submit:
+29 (1) The proposed fee schedule.
+Page 17 of 21
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-205 ORIGINAL
+SB NO. 408
+1 (2) The published methodology.
+2 (3) The actuarial impact analysis.
+3 Not later than March 1, 2028, the assistant secretary of the office of workers'
+4 compensation administration shall submit a progress report to the House Committee on
+5 Labor and Industrial Relations and the Senate Committee on Labor and Industrial Relations.
+6 Section 5. The provisions of Section 1 shall only become effective upon approval by
+7 the Senate and House of Representatives committees on labor and industrial affairs, meeting
+8 separately or jointly, of the updated fee schedule as required in Section 4 of this Act.
+9 Section 6. The provision of this Section and Sections 2, 3, 4, and 5 shall become
+10 effective upon signature by the governor or, if not signed by the governor, upon expiration
+11 of the time for bills to become law without signature by the governor, as provided by Article
+12 III, Section 18 of the Constitution of Louisiana. If vetoed by the governor and subsequently
+13 approved by the legislature, this Act shall become effective on the day following such
+14 approval.
+The original instrument and the following digest, which constitutes no part
+of the legislative instrument, were prepared by Senate Legislative Services.
+The keyword, summary, and digest do not constitute part of the law or proof
+or indicia of legislative intent. [R.S. 1:13(B) and 24:177(E)]
+DIGEST
+SB 408 Original 2026 Regular Session Myers
+Present law requires the assistant secretary of the office of workers' compensation
+administration to create a reimbursement schedule that sets the maximum amount that can
+be paid to doctors, hospitals, pharmacies, or providers for prescription drugs, medical
+supplies, hospital care and services, and medical and surgical treatments provided to injured
+workers.
+Proposed law retains present law and adds that if a medical service has a CPT code, then the
+reimbursement amount will be calculated using that code. Proposed law also provides that
+the reimbursement amount will be set at the 75th percentile of the PMIC Medical Fees
+Directory.
+Proposed law prohibits "by report" billing.
+Propose law provides that individual CPT, HCPCS, facility classification, or reimbursement
+schedules will increase or decrease by more than 5% in any 12 month period unless the
+following criteria are satisfied:
+(1) Demonstration of material access-to-care deficiencies.
+(2) Clear actuarial evidence of system imbalance.
+Page 18 of 21
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-205 ORIGINAL
+SB NO. 408
+(3) Approval by concurrent resolution of the legislature.
+Proposed law further provides that any decrease will be phased in over not less than two
+years.
+Present law provides that the schedule will include charges which reflect the mean of the
+usual and customary charge for medical care, services, treatment, drugs and supplies.
+Proposed law repeals present law.
+Proposed law requires reimbursement for implants to be the total of the original
+manufacturer's invoice or the authorized distributor's invoice amount paid plus 20%.
+Proposed law defines "by report", "database", "medical claim" and "electronic claim".
+Present law provides that the assistant secretary will collect the information and data
+necessary to calculate the reimbursement schedule. Present law further provides that the
+information and data will be governed by the following guidelines:
+(1) The assistant secretary will create a written survey detailing the information
+requested.
+(2) The survey will be managed by the office of workers' compensation administration
+in conjunction with an academic institution.
+(3) The information requested must be based upon data at least six months old.
+(4) There will be a minimum of 30 healthcare providers reporting data upon which each
+disseminated statistic is based.
+(5) No individual healthcare provider's data can represent more than 25% on a weighted
+basis of each statistic.
+(6) Any information disseminated must be sufficiently aggregated such that it will not
+allow recipients to identify the prices charged or compensation paid by any particular
+healthcare provider.
+Proposed law repeals present law.
+Present law provides that disputes between healthcare providers and employees, employers,
+or insurers may be submitted to the office of workers' compensation in the same manner as
+established for dispute resolution of claims for workers' compensation benefits.
+Present law retains proposed law and adds that if the dispute is regarding billing, payment,
+explanation of benefits, reconsideration, or the appropriate amount owed for the provision
+of medical services that have been rendered, the disputing party will submit the dispute for
+resolution to the office of workers' compensation's administration's medical services section.
+Proposed law provides that the nonprevailing party will pay the cost of the review.
+Proposed law provides an appeals process.
+Proposed law instructs the assistant secretary to impose a civil fine of at least $1,000 but not
+more than $5,000 to any workers' compensation payor who does not timely pay medical
+benefits.
+Proposed law requires the assistant secretary to establish and maintain the "All Workers'
+Compensation Medical Claims Database" (database).
+Page 19 of 21
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-205 ORIGINAL
+SB NO. 408
+Proposed law provides that the purpose of the database is to:
+(1) Improve transparency in medical reimbursement trends.
+(2) Assist in enforcement and maintenance of an appropriate fee schedule.
+(3) Evaluate medical utilization patterns and outcomes.
+(4) Detect fraud, waste, and abuse.
+(5) Support policy development, rate analysis, and system oversight.
+Proposed law requires all workers' compensation payors to submit medical and pharmacy
+claims data for all workers' compensation claims arising under Louisiana law to the assistant
+secretary of the office of workers' compensation administration.
+Proposed law provides that the medical and pharmacy data must include:
+(1) Date of injury.
+(2) Employer industry classification.
+(3) Provider specialty and identifier.
+(4) CPT, HCPCS, ICD, and NDC codes as applicable.
+(5) Billed charge and allowed amount.
+(6) Paid amount.
+(7) Service dates.
+(8) Utilization review actions.
+(9) Claim status indicators.
+Proposed law provides that the information collected and maintained in the database will be
+confidential and privileged. Proposed law also provides for criminal penalties for
+unauthorized disclosure.
+Proposed law allows the assistant secretary to use the data collected for the database for:
+(1) Monitoring compliance with medical fee schedule regulations.
+(2) Studying medical cost drivers and utilization trends.
+(3) Supporting actuarial review and rate analysis.
+(4) Evaluating the effectiveness of medical treatment guidelines.
+(5) Developing, revising, or modernizing the workers' compensation medical fee
+schedule pursuant to the provisions of this Part.
+(6) Reporting annually to the legislature.
+Proposed law provides that payors who fail to submit required information to the database
+or correct submissions rejected because of errors will receive a notice from the assistant
+secretary, and an extension of time may be granted for just cause. Proposed law further
+Page 20 of 21
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-205 ORIGINAL
+SB NO. 408
+provides that the assistant secretary may assess a fine that does not exceed $500 per day for
+noncompliance.
+Present law provides that the assistant secretary will adopt rules and regulations regarding
+an electronic system of submission, processing, and payment of workers'
+compensation-related medical bills.
+Present law provides that insurance carriers will accept medical bills electronically submitted
+by healthcare providers and electronic payment of such bills, and healthcare providers will
+accept payment of medical claims submitted electronically by insurance carriers.
+Proposed law provides that beginning October 1, 2026, claims for medical services rendered
+will be submitted to a workers' compensation payor in electronic format.
+Proposed law requires the assistant secretary to develop and implement a Workers'
+Compensation Medical Quality and Outcomes Program designed to measure, evaluate, and
+improve the quality of effectiveness of medical care provided to injured employees.
+Present law provides a declaration by the legislature that the people should be aware of all
+of the exceptions, exemptions, and limitations to the public records law and that such
+exceptions, exemptions, and limitations should be provided only in present law relative to
+public records or the Constitution of Louisiana. Proposed law further provides that any
+exceptions, exemptions, and limitations elsewhere in the law will not have effect. Proposed
+law further recognizes that there currently exists a number of exceptions, exemptions, and
+limitations located elsewhere in present law.
+Proposed law retains present law and adds proposed law relative to the medical claims
+database to the list of public records exceptions.
+Effective upon signature of the governor or lapse of time for gubernatorial action.
+(Amends R.S. 23:1034.2(B), (C), and (F), 1201(E), 1203(B), and 1203.2 and R.S.
+44:4.1(B)(12); adds 23:1021(14), 1142(F), and 1200.18 - 1200.26)
+Page 21 of 21
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+[DELETED: 5O C P r t t w cAT4CoaLm r o m a p c d t p fr0r1a2B3S 1 R 2 ( a ( 1 a 1 a h4a5f6§7A]
+[DELETED: 5Of*(dp*§*B0P A r a r n t e a i 1r2a3(4s5a6s b e t t s p o t P M7I8a9u0t1R2( F p o i a o h s a3a4s5p6W C M C D d t m r7t8(9C H C P C S ( f]
+[DELETED: 5Octa((((( N t p o S ( o tS0a f s d p t S 4 o t A t a1s2H3p4(5a6m7e8(9l0(1s2f c u t S s b p f a3c4(5u6C7o8s9e]
+[DELETED: 5ORiF t p o t S " m p a mi(a d n t c t r s T c oi( T a s s c a w s d ti0(1a2(3o4(5u6( N i h c p d s r m t7t8(9i0p1(2a3c4o5p o p t w c r s6W7t8(9d]
+[DELETED: 5ONa*FeetSt0d r o c f w c b o w1c2a3d4n5i6o7( U t i o a d b t w c8a9t0b1a2d i a t r a r p b t3a4a5s6a7t8r9L o o d r I t d r i t w]
+[DELETED: 5Ocset p p a f t d t c i a b twpopn0d1f2w3i o t a w c c i L a4a5W6c7a8( W f b d o t i o a d b t9i0J1s b f a n a c c s b c a t2n3(4s5t6( I a t a o o w c o c i7o8b a s h c p a a s " a d i R92]
+[DELETED: 5Ospc p c a t d t T v f scio*§*0F1p2r o a c p a r s t t3s425w6p7h8n9b0d1(2e3r4b5t6a7s8s9*]
+[DELETED: 5O§ T a p f p t f ap*Edmf(r0p1i2b3(4o5o6a7u8t9v t p o t S t a s b0a1v2a3i n p w t t f s i t S r a l4p5*6§7d8*9B]
+[DELETED: 5Odd t b t m o t u a c c f s cssftu*S01122S3D4§5T P s b k a m b c a t " A6W7§8A9t0(1D2(3t a p f p f h s p d4m5C6§7A8a9M]
+[DELETED: 5O(sB(( A i e a m o a a fs(((0C T a s m r a c w q1i2f p o c o a m o t A W3C M C D H d c i t4d o d5c6§7A8s t t a s o t o o w c9a m a p c d f a w0c1(2r3B4(5(6(7(8P9a]
+[DELETED: 5O(((((C2§A T a s o t o o w c0a1P2B3(4(5(6(7(8§9A0t1a2T3e4u5p6m7(8a s l i t H I P a9A]
+[DELETED: 5OB§T a s o t o o w ca(((((0m1(2§3A4a5r6t m u t a c o r o t d7c8B9i0a1t2C3i4t5d6r7§8A I a p f t s r d t t A W9C M C D o a t b f t c]
+[DELETED: 5Osptnjdtso0u1B T a s i a a a2p3a4f t c w t c r o t S o5c r a p t t S a u s o6t7p8o9*0§1A2s3a s s a r a r r t e4s5b6"7a8i9S o i s i c w t p o t H]
+[DELETED: 5OIC(H(U S D o H a H S s fe(b0o1p2r3t4c5c6i7c8k9S0( T e r s c a a m t f1i2(3( P c n p a n o u4i5(6(7(8(9B]
+[DELETED: 5Os W c p s a a hp a b t o f t a o e cs(he(ep0c r a r f d o w t c a1d2(3r4C5p a p f p o a m c i6a7d p a r r a s m8d9s0i a m t p f s u b a w1c2a a r a r i a w t A3P A R 4 e s r t c o a4m5o6D7a8R9d]
+[DELETED: 5OJCei( T p s c t p o t wc s ao((0(1(2(3d4(5i6(7P8S9§0*1B2a t t l p t p r t r3s4l5c6*7(819*]
+[DELETED: 5OSomWu((((0T1a2f3I4s5(6(7r8( C a t c m i p p r a9t0(1T2a3f4N5u6i7t p w r T a s o t o o w8c9(]
+[DELETED: 5O((N l t M 1 2 t a s o t o o wcLStsS0e1o2I3a4al2nM l r t a s o t o o w c t d p p m)  C]
+[DELETED: 5O A l r r f i t b t t o t o l p t t a s w c t i a d T a s w c a w s d t T T)T N A]
+[DELETED: 5O I A E D S D E P)C B P S U C a p P l a p f c p f M)S S E D r o m t w c m)R]
+[DELETED: 5O e s o s p a p o w l r t a s t d a i a W R 2 ( a ( 1 1 a 1 a R]

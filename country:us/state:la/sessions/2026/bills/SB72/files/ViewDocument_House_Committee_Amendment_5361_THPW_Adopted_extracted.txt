@@ -1,0 +1,455 @@
+Title: Amendments proposed by House Committee on Transportation, Highways and Public Works
+Official Title: Amendments proposed by House Committee on Transportation, Highways and Public Works
+Number of Sections: 1
+Source: versions - House Committee Amendment, #5361, THPW, Adopted
+Media Type: application/pdf
+Strikethrough Detection: 5 sections found
+
+================================================================================
+
+Section 1:
+HCASB72 4877 5361
+HOUSE COMMITTEE AMENDMENTS
+2026 Regular Session
+to Reengrossed Senate Bill No. 72 by Senator Hodges
+1 AMENDMENT NO. 1
+2 On page 1, line 2, after "(C)(1)" and before the comma "," delete "and (2)"
+3 AMENDMENT NO. 2
+4 On page 1, line 3, after "707.2.1," and before "and to" change "707.2.2, and 714," to "and
+5 707.2.2,"
+6 AMENDMENT NO. 3
+7 On page 1, line 12, after "(C)(1)" and before the comma "," delete "and (2)"
+8 AMENDMENT NO. 4
+9 On page 1, line 13, after "707.2.1," delete the remainder of the line and insert "and 707.2.2"
+10 AMENDMENT NO. 5
+11 On page 2, at the end of line 12, delete "Authentication" and insert "Identity Assurance
+12 Level 2 (IAL2)"
+13 AMENDMENT NO. 6
+14 On page 2, line 13, delete "Assurance Level 2 (AAL2)" and after "standard" and before
+15 "as" insert "when required by federal law or regulation,"
+16 AMENDMENT NO. 7
+17 On page 2, line 14, after "Publication" and before the period "." change "800-63-3" to
+18 "800-63A"
+19 AMENDMENT NO. 8
+20 On page 2, line 20, after "recordation" delete the remainder of the line and insert a semicolon
+21 ";" and "vehicle titling and registration; participation requirements; fees;"
+22 AMENDMENT NO. 9
+23 On page 2, at the beginning of line 22, change "A.(1)" to "A."
+24 AMENDMENT NO. 10
+25 On page 2, delete lines 24 and 25 and insert the following:
+26 "recording of information concerning the perfection and release of vehicle
+27 security interests without submitting or receiving the paper title documents
+28 including electronic"
+29 AMENDMENT NO. 11
+Page 1 of 5
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HCASB72 4877 5361
+1 On page 3, delete line 3 in its entirety and insert "title and to record and release liens
+2 through a completely electronic process for the following users:"
+3 AMENDMENT NO. 12
+4 On page 3, at the beginning of line 4, change "(a)" to "(1)"
+5 AMENDMENT NO. 13
+6 On page 3, delete lines 6 through 29 in their entirety
+7 AMENDMENT NO. 14
+8 On page 4, delete lines 1 and 2 in their entirety and insert the following:
+9 "(2) All federally insured depository institutions, their affiliates and
+10 subsidiaries, other lenders, and their public tag agents and other service
+11 providers."
+12 AMENDMENT NO. 15
+13 On page 4, delete lines 28 and 29 in their entirety, delete pages 5 and 6 in their entirety, and
+14 insert the following:
+15 "I. Any lienholder using the department's electronic lien and electronic
+16 titling system, directly or through a public tag agent, to release a lien
+17 encumbering an electronic certificate of title shall process the electronic lien
+18 release within five business days after the lienholder has been paid in full and
+19 the payoff funds are deemed by the lienholder to be collected. The
+20 requirements of this Subsection shall not apply to paper certificates of title,
+21 which shall be governed by R.S. 32:708.
+22 J.(1) Beginning twelve months after January 1, 2028 or the date the
+23 Department of Public Safety and Corrections, office of motor vehicles, certifies
+24 that a fully operational statewide electronic, lien, electronic titling, and
+25 electronic registration system has been implemented, whichever occurs sooner,
+26 any person who, in the regular course of business, submits applications for
+27 certificates of title, registration, lien recordings, lien satisfactions, or other
+28 documents to the department in connection with motor vehicle transactions
+29 shall submit those applications through the system, subject to such exceptions
+30 as the department may provide by rule.
+31 (2) The department shall promulgate rules and regulations in
+32 accordance with the Administrative Procedure Act establishing definitions,
+33 operational standards, performance requirements, compliance criteria, and
+34 reporting requirements for electronic lien and title, electronic vehicle
+35 registration, and electronic registration and titling systems.
+36 §707.2.1. Electronic signatures and records for motor vehicle transactions
+37 A. Any document, record, or instrument required in connection with the
+38 sale, lease, transfer, titling, registration, or financing of a motor vehicle may be
+39 created, executed, transmitted, and stored electronically, including but not
+40 limited to the following:
+41 (1) Titling documents.
+42 (2) Registration applications.
+43 (3) Odometer disclosure forms.
+44 (4) Secure and limited powers of attorney.
+45 (5) Attestations.
+46 B. Any documents used to transfer ownership of a vehicle to an
+47 insurance company after payment of damages may be signed electronically and
+48 reproduced in paper form and shall not require notarization. The supporting
+49 documents include but are not limited to the following:
+Page 2 of 5
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HCASB72 4877 5361
+1 (1) Limited powers of attorney.
+2 (2) Applications for duplicate titles.
+3 (3) Odometer disclosure forms.
+4 C.(1) Electronic signatures shall comply with the Identity Assurance
+5 Level 2 (IAL2) security standard when required by federal law or regulation as
+6 defined in the National Institute of Standards and Technology Special
+7 Publication 800-63A.
+8 (2) An electronic signature or electronic record accepted by the
+9 department pursuant to this Section, including a legibly scanned or imaged copy
+10 of a signed document, shall have the same force and effect as a handwritten
+11 signature or original paper document, shall satisfy any legal requirement for a
+12 written signature or record, shall not require notarization, and shall be
+13 admissible for all legal and evidentiary purposes to the same extent as a
+14 handwritten signature or original paper document.
+15 D.(1) The Department of Public Safety and Corrections, office of motor
+16 vehicles, shall accept electronic records and electronic signatures for the
+17 documents and records identified in Subsections A and B of this Section and any
+18 electronic signature or electronic record accepted by the department pursuant
+19 to this Section shall have the same force and effect as an original written
+20 document or handwritten signature and shall satisfy any legal requirement for
+21 a written record or signature.
+22 (2) The department shall promulgate rules and regulations in
+23 accordance with the Administrative Procedure Act as may be necessary to
+24 implement the provisions of this Section, including but not limited to rules
+25 governing:
+26 (a) Electronic signatures and authentication standards.
+27 (b) Security and identity verification procedures.
+28 E.(1) A dealer or authorized officer as set forth in R.S. 32:702 using an
+29 approved system in good faith and without actual knowledge of fraud or
+30 unauthorized access shall be immune from civil liability arising solely from the
+31 use of electronic signatures, remote notarization of powers of attorney or
+32 electronic records, including claims alleging improper execution, authentication,
+33 or transmission, provided the dealer or authorized officer complied with the
+34 requirements of this Section and any rules promulgated by the department.
+35 (2) The immunity provided for in Paragraph (1) of this Subsection shall
+36 not apply to intentional misconduct or gross negligence.
+37 §707.2.2. Secure digital motor vehicle titles
+38 A. The Department of Public Safety and Corrections, office of motor
+39 vehicles, shall implement, or authorize the use of, a secure, interoperable system
+40 that offers vehicle title holders a fully paperless, secure digital vehicle title that
+41 may be issued in lieu of a paper certificate of title, including the ability for such
+42 title to be made available to the title holder through a department-approved or
+43 state-authorized digital credential platform."
+44 AMENDMENT NO. 16
+45 On page 7, delete lines 1 through 5 in their entirety
+46 AMENDMENT NO. 17
+47 On page 7, between lines 11 and 12, insert the following:
+48 "(4) Support secure interoperability with department-approved systems,
+49 including approved digital credential platforms, dealer service providers,
+50 financial institution service providers, and verification services, through
+51 standards-based interfaces, application programming interfaces, or other
+52 methods approved by the department."
+Page 3 of 5
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HCASB72 4877 5361
+1 AMENDMENT NO. 18
+2 On page 7, delete lines 27 through 29 in their entirety, delete page 8 in its entirety, and insert
+3 the following:
+4 "rules and regulations necessary to implement the provisions of this
+5 Section. Any rules promulgated under this Section shall be designed to promote
+6 competition, transparency, interoperability, and consumer choice, subject to
+7 security, privacy, and technical standards established by the department. The
+8 department shall not require a title holder, dealer, lender, insurer, or other
+9 authorized user to use a specific proprietary application to access, present, or
+10 verify a secure digital title where a department-approved interoperable
+11 alternative meeting the department's security, privacy, and technical standards
+12 is available.
+13 G. Nothing in this Section shall be construed to grant any vendor,
+14 contractor, system integrator, or operator of the department's system of record
+15 the exclusive right to display, present, verify, or otherwise make available to
+16 residents a digital wallet, identity verification, electronic signature, verifier
+17 services, or other resident-facing services related to secure digital vehicle titles.
+18 The department shall remain the sole issuer of secure digital vehicle titles. The
+19 department may authorize one or more qualified providers, including approved
+20 digital credential platforms and verification services, to perform resident-facing
+21 display, presentation, or verification functions, subject to security, privacy,
+22 audit, and interoperability requirements established by the department.
+23 H. The department shall remain the authoritative source of all title
+24 records. Any display, presentation, verification, or use of a secure digital title
+25 through an approved digital credential platform shall not alter the department's
+26 ownership or control of the authoritative title record and shall be subject to
+27 technical standards and business requirements established by the department.
+28 I. A secure digital title issued pursuant to this Section may be verified
+29 through a department-approved digital verification service, provided such
+30 service meets security, privacy, audit, and interoperability requirements
+31 established by the department.
+32 Section 2. R.S. 32:707.2(G) is hereby repealed in its entirety.
+33 Section 3. A. The provisions of R.S. 32:705(B)(6) and (7), R.S. 32:707.2(A),
+34 (C)(1), (D), (I), and (J), and R.S. 32:707.2.1, as enacted or amended by this Act, shall
+35 become effective on January 1, 2028, or on the date the Department of Public Safety
+36 and Corrections, office of motor vehicles, certifies that a fully operational statewide
+37 electronic lien, electronic titling, and electronic registration system has been
+38 implemented, whichever occurs sooner.
+39 B. Nothing in this Section shall be construed to invalidate or limit any
+40 electronic record, electronic signature, or electronic transaction otherwise authorized
+41 by law or by policy of the Department of Public Safety and Corrections, office of
+42 motor vehicles, prior to the effective date of this Section.
+43 C. The provisions of R.S. 32:707.2.2, as enacted by this Act, shall become
+44 effective on the date the Department of Public Safety and Corrections, office of
+45 motor vehicles, certifies that the secure digital title system required by R.S.
+46 32:707.2.2 has been implemented and is operational, or January 1, 2031, whichever
+47 occurs sooner.
+48 Section 4. R.S. 32:702(18), the repeal of R.S. 32:707.2(G), and Sections 5
+49 and 6 of this Act shall become effective upon signature by the governor or, if not
+50 signed by the governor, upon expiration of the time for bills to become law without
+51 signature by the governor, as provided by Article III, Section 18 of the Constitution
+52 of Louisiana. If vetoed by the governor and subsequently approved by the legislature,
+53 those provisions shall become effective on the day following such approval."
+54 AMENDMENT NO. 19
+55 On page 9, delete lines 1 through 4 in their entirety
+Page 4 of 5
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HCASB72 4877 5361
+1 AMENDMENT NO. 20
+2 On page 9, line 5, change "Section 6." to "Section 5."
+3 AMENDMENT NO. 21
+4 On page 9, line 9, change "Section 7." to "Section 6."
+Page 5 of 5
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+[DELETED: AOAO7AOAO0A1O2L3A4O5"6A7O8"9A0O1"2A3O4A5O6"7s i w s o r t p t d8i9A]
+[DELETED: OtAOAOAO"0s o l a t p t a a o s1p2A3O4i5"6t s d o t a p t a t r a l7e8r9t p f a d b t l t b c  T0r1w2J3D4t a f o s e l e t a5e6a7c8d9s0a1(  T d s p r a r i2a3o4r r f e l a t e v5r6§7A8s9c b0l1(2(3(4(5(6B  A d u t t o o a v t a7i8r9d]
+[DELETED: (((CLd i t N I o S a T SP(  A e s o e r a b td0o1s2w s o r s n r n a s b3a f a l a e p t t s e a 4h5D6v s a e r a e s f t7d8e9t t S s h t s e a o w0d1a2(  T d s p r a r i3a4i5g6(7(8E9a s i g f a w a k o f o0u1u o e s r n o p o a o2e3o4r5(6n7§8A9v0t1m2t3s4A5O6A7O8"9i a d c p d s p0f i s p a v s t1s i a p i o o2m]
+[DELETED: AOt"Scsda0v a s d t w a d i1a2i3G4c5t6r7s8T9d0d1d2a3H4r5t6o7t8I9t a d d v s p s0s m s p a a i r1e2S3S4(5b6a7e l e t a e r s h b8i9B0e1b2m3C4e5m v c t t s d t s r b R637o8S9a0s1s2o3t4A5O]
+[DELETED: AOAO]
+
+
+================================================================================
+
+Raw Text:
+HCASB72 4877 5361
+HOUSE COMMITTEE AMENDMENTS
+2026 Regular Session
+Amendments proposed by House Committee on Transportation, Highways and Public Works
+to Reengrossed Senate Bill No. 72 by Senator Hodges
+1 AMENDMENT NO. 1
+2 On page 1, line 2, after "(C)(1)" and before the comma "," delete "and (2)"
+3 AMENDMENT NO. 2
+4 On page 1, line 3, after "707.2.1," and before "and to" change "707.2.2, and 714," to "and
+5 707.2.2,"
+6 AMENDMENT NO. 3
+7 On page 1, line 12, after "(C)(1)" and before the comma "," delete "and (2)"
+8 AMENDMENT NO. 4
+9 On page 1, line 13, after "707.2.1," delete the remainder of the line and insert "and 707.2.2"
+10 AMENDMENT NO. 5
+11 On page 2, at the end of line 12, delete "Authentication" and insert "Identity Assurance
+12 Level 2 (IAL2)"
+13 AMENDMENT NO. 6
+14 On page 2, line 13, delete "Assurance Level 2 (AAL2)" and after "standard" and before
+15 "as" insert "when required by federal law or regulation,"
+16 AMENDMENT NO. 7
+17 On page 2, line 14, after "Publication" and before the period "." change "800-63-3" to
+18 "800-63A"
+19 AMENDMENT NO. 8
+20 On page 2, line 20, after "recordation" delete the remainder of the line and insert a semicolon
+21 ";" and "vehicle titling and registration; participation requirements; fees;"
+22 AMENDMENT NO. 9
+23 On page 2, at the beginning of line 22, change "A.(1)" to "A."
+24 AMENDMENT NO. 10
+25 On page 2, delete lines 24 and 25 and insert the following:
+26 "recording of information concerning the perfection and release of vehicle
+27 security interests without submitting or receiving the paper title documents
+28 including electronic"
+29 AMENDMENT NO. 11
+Page 1 of 5
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HCASB72 4877 5361
+1 On page 3, delete line 3 in its entirety and insert "title and to record and release liens
+2 through a completely electronic process for the following users:"
+3 AMENDMENT NO. 12
+4 On page 3, at the beginning of line 4, change "(a)" to "(1)"
+5 AMENDMENT NO. 13
+6 On page 3, delete lines 6 through 29 in their entirety
+7 AMENDMENT NO. 14
+8 On page 4, delete lines 1 and 2 in their entirety and insert the following:
+9 "(2) All federally insured depository institutions, their affiliates and
+10 subsidiaries, other lenders, and their public tag agents and other service
+11 providers."
+12 AMENDMENT NO. 15
+13 On page 4, delete lines 28 and 29 in their entirety, delete pages 5 and 6 in their entirety, and
+14 insert the following:
+15 "I. Any lienholder using the department's electronic lien and electronic
+16 titling system, directly or through a public tag agent, to release a lien
+17 encumbering an electronic certificate of title shall process the electronic lien
+18 release within five business days after the lienholder has been paid in full and
+19 the payoff funds are deemed by the lienholder to be collected. The
+20 requirements of this Subsection shall not apply to paper certificates of title,
+21 which shall be governed by R.S. 32:708.
+22 J.(1) Beginning twelve months after January 1, 2028 or the date the
+23 Department of Public Safety and Corrections, office of motor vehicles, certifies
+24 that a fully operational statewide electronic, lien, electronic titling, and
+25 electronic registration system has been implemented, whichever occurs sooner,
+26 any person who, in the regular course of business, submits applications for
+27 certificates of title, registration, lien recordings, lien satisfactions, or other
+28 documents to the department in connection with motor vehicle transactions
+29 shall submit those applications through the system, subject to such exceptions
+30 as the department may provide by rule.
+31 (2) The department shall promulgate rules and regulations in
+32 accordance with the Administrative Procedure Act establishing definitions,
+33 operational standards, performance requirements, compliance criteria, and
+34 reporting requirements for electronic lien and title, electronic vehicle
+35 registration, and electronic registration and titling systems.
+36 §707.2.1. Electronic signatures and records for motor vehicle transactions
+37 A. Any document, record, or instrument required in connection with the
+38 sale, lease, transfer, titling, registration, or financing of a motor vehicle may be
+39 created, executed, transmitted, and stored electronically, including but not
+40 limited to the following:
+41 (1) Titling documents.
+42 (2) Registration applications.
+43 (3) Odometer disclosure forms.
+44 (4) Secure and limited powers of attorney.
+45 (5) Attestations.
+46 B. Any documents used to transfer ownership of a vehicle to an
+47 insurance company after payment of damages may be signed electronically and
+48 reproduced in paper form and shall not require notarization. The supporting
+49 documents include but are not limited to the following:
+Page 2 of 5
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HCASB72 4877 5361
+1 (1) Limited powers of attorney.
+2 (2) Applications for duplicate titles.
+3 (3) Odometer disclosure forms.
+4 C.(1) Electronic signatures shall comply with the Identity Assurance
+5 Level 2 (IAL2) security standard when required by federal law or regulation as
+6 defined in the National Institute of Standards and Technology Special
+7 Publication 800-63A.
+8 (2) An electronic signature or electronic record accepted by the
+9 department pursuant to this Section, including a legibly scanned or imaged copy
+10 of a signed document, shall have the same force and effect as a handwritten
+11 signature or original paper document, shall satisfy any legal requirement for a
+12 written signature or record, shall not require notarization, and shall be
+13 admissible for all legal and evidentiary purposes to the same extent as a
+14 handwritten signature or original paper document.
+15 D.(1) The Department of Public Safety and Corrections, office of motor
+16 vehicles, shall accept electronic records and electronic signatures for the
+17 documents and records identified in Subsections A and B of this Section and any
+18 electronic signature or electronic record accepted by the department pursuant
+19 to this Section shall have the same force and effect as an original written
+20 document or handwritten signature and shall satisfy any legal requirement for
+21 a written record or signature.
+22 (2) The department shall promulgate rules and regulations in
+23 accordance with the Administrative Procedure Act as may be necessary to
+24 implement the provisions of this Section, including but not limited to rules
+25 governing:
+26 (a) Electronic signatures and authentication standards.
+27 (b) Security and identity verification procedures.
+28 E.(1) A dealer or authorized officer as set forth in R.S. 32:702 using an
+29 approved system in good faith and without actual knowledge of fraud or
+30 unauthorized access shall be immune from civil liability arising solely from the
+31 use of electronic signatures, remote notarization of powers of attorney or
+32 electronic records, including claims alleging improper execution, authentication,
+33 or transmission, provided the dealer or authorized officer complied with the
+34 requirements of this Section and any rules promulgated by the department.
+35 (2) The immunity provided for in Paragraph (1) of this Subsection shall
+36 not apply to intentional misconduct or gross negligence.
+37 §707.2.2. Secure digital motor vehicle titles
+38 A. The Department of Public Safety and Corrections, office of motor
+39 vehicles, shall implement, or authorize the use of, a secure, interoperable system
+40 that offers vehicle title holders a fully paperless, secure digital vehicle title that
+41 may be issued in lieu of a paper certificate of title, including the ability for such
+42 title to be made available to the title holder through a department-approved or
+43 state-authorized digital credential platform."
+44 AMENDMENT NO. 16
+45 On page 7, delete lines 1 through 5 in their entirety
+46 AMENDMENT NO. 17
+47 On page 7, between lines 11 and 12, insert the following:
+48 "(4) Support secure interoperability with department-approved systems,
+49 including approved digital credential platforms, dealer service providers,
+50 financial institution service providers, and verification services, through
+51 standards-based interfaces, application programming interfaces, or other
+52 methods approved by the department."
+Page 3 of 5
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HCASB72 4877 5361
+1 AMENDMENT NO. 18
+2 On page 7, delete lines 27 through 29 in their entirety, delete page 8 in its entirety, and insert
+3 the following:
+4 "rules and regulations necessary to implement the provisions of this
+5 Section. Any rules promulgated under this Section shall be designed to promote
+6 competition, transparency, interoperability, and consumer choice, subject to
+7 security, privacy, and technical standards established by the department. The
+8 department shall not require a title holder, dealer, lender, insurer, or other
+9 authorized user to use a specific proprietary application to access, present, or
+10 verify a secure digital title where a department-approved interoperable
+11 alternative meeting the department's security, privacy, and technical standards
+12 is available.
+13 G. Nothing in this Section shall be construed to grant any vendor,
+14 contractor, system integrator, or operator of the department's system of record
+15 the exclusive right to display, present, verify, or otherwise make available to
+16 residents a digital wallet, identity verification, electronic signature, verifier
+17 services, or other resident-facing services related to secure digital vehicle titles.
+18 The department shall remain the sole issuer of secure digital vehicle titles. The
+19 department may authorize one or more qualified providers, including approved
+20 digital credential platforms and verification services, to perform resident-facing
+21 display, presentation, or verification functions, subject to security, privacy,
+22 audit, and interoperability requirements established by the department.
+23 H. The department shall remain the authoritative source of all title
+24 records. Any display, presentation, verification, or use of a secure digital title
+25 through an approved digital credential platform shall not alter the department's
+26 ownership or control of the authoritative title record and shall be subject to
+27 technical standards and business requirements established by the department.
+28 I. A secure digital title issued pursuant to this Section may be verified
+29 through a department-approved digital verification service, provided such
+30 service meets security, privacy, audit, and interoperability requirements
+31 established by the department.
+32 Section 2. R.S. 32:707.2(G) is hereby repealed in its entirety.
+33 Section 3. A. The provisions of R.S. 32:705(B)(6) and (7), R.S. 32:707.2(A),
+34 (C)(1), (D), (I), and (J), and R.S. 32:707.2.1, as enacted or amended by this Act, shall
+35 become effective on January 1, 2028, or on the date the Department of Public Safety
+36 and Corrections, office of motor vehicles, certifies that a fully operational statewide
+37 electronic lien, electronic titling, and electronic registration system has been
+38 implemented, whichever occurs sooner.
+39 B. Nothing in this Section shall be construed to invalidate or limit any
+40 electronic record, electronic signature, or electronic transaction otherwise authorized
+41 by law or by policy of the Department of Public Safety and Corrections, office of
+42 motor vehicles, prior to the effective date of this Section.
+43 C. The provisions of R.S. 32:707.2.2, as enacted by this Act, shall become
+44 effective on the date the Department of Public Safety and Corrections, office of
+45 motor vehicles, certifies that the secure digital title system required by R.S.
+46 32:707.2.2 has been implemented and is operational, or January 1, 2031, whichever
+47 occurs sooner.
+48 Section 4. R.S. 32:702(18), the repeal of R.S. 32:707.2(G), and Sections 5
+49 and 6 of this Act shall become effective upon signature by the governor or, if not
+50 signed by the governor, upon expiration of the time for bills to become law without
+51 signature by the governor, as provided by Article III, Section 18 of the Constitution
+52 of Louisiana. If vetoed by the governor and subsequently approved by the legislature,
+53 those provisions shall become effective on the day following such approval."
+54 AMENDMENT NO. 19
+55 On page 9, delete lines 1 through 4 in their entirety
+Page 4 of 5
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HCASB72 4877 5361
+1 AMENDMENT NO. 20
+2 On page 9, line 5, change "Section 6." to "Section 5."
+3 AMENDMENT NO. 21
+4 On page 9, line 9, change "Section 7." to "Section 6."
+Page 5 of 5
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+[DELETED: AOAO7AOAO0A1O2L3A4O5"6A7O8"9A0O1"2A3O4A5O6"7s i w s o r t p t d8i9A]
+[DELETED: OtAOAOAO"0s o l a t p t a a o s1p2A3O4i5"6t s d o t a p t a t r a l7e8r9t p f a d b t l t b c  T0r1w2J3D4t a f o s e l e t a5e6a7c8d9s0a1(  T d s p r a r i2a3o4r r f e l a t e v5r6§7A8s9c b0l1(2(3(4(5(6B  A d u t t o o a v t a7i8r9d]
+[DELETED: (((CLd i t N I o S a T SP(  A e s o e r a b td0o1s2w s o r s n r n a s b3a f a l a e p t t s e a 4h5D6v s a e r a e s f t7d8e9t t S s h t s e a o w0d1a2(  T d s p r a r i3a4i5g6(7(8E9a s i g f a w a k o f o0u1u o e s r n o p o a o2e3o4r5(6n7§8A9v0t1m2t3s4A5O6A7O8"9i a d c p d s p0f i s p a v s t1s i a p i o o2m]
+[DELETED: AOt"Scsda0v a s d t w a d i1a2i3G4c5t6r7s8T9d0d1d2a3H4r5t6o7t8I9t a d d v s p s0s m s p a a i r1e2S3S4(5b6a7e l e t a e r s h b8i9B0e1b2m3C4e5m v c t t s d t s r b R637o8S9a0s1s2o3t4A5O]
+[DELETED: AOAO]

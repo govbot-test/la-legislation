@@ -281,6 +281,7 @@
     "division_id": "ocd-division/country:us/state:la"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-14T18:58:49Z"
+    "logs_latest_update": "2026-07-14T18:58:49Z",
+    "text_extraction_latest_update": "2026-07-15T01:12:22.782953Z"
   }
 }
