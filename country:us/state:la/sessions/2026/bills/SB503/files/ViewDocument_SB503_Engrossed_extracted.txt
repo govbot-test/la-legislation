@@ -1,0 +1,479 @@
+Title: SENATE BILL NO. 503
+Official Title: SENATE BILL NO. 503
+Number of Sections: 1
+Source: versions - SB503 Engrossed
+Media Type: application/pdf
+Strikethrough Detection: 7 sections found
+
+================================================================================
+
+Section 1:
+SLS 26RS-1497 ENGROSSED
+2026 Regular Session
+BY SENATOR CATHEY
+COMMERCIAL REGULATIONS. Creates the Minor Exploitation Prevention Act. (8/1/28)
+1 AN ACT
+2 To enact Part III of Chapter 20-A of Title 51 of the Louisiana Revised Statutes of 1950, to
+3 be comprised of R.S. 51:1776.1 through 1776.7, relative to mobile application
+4 distribution; to provide for age assurance and protections for minors; to provide for
+5 duties of application distribution providers and developers; to provide for limitations
+6 of liability; to provide for enforcement; to provide for penalties; to provide for terms
+7 and conditions; and to provide for related matters.
+8 Be it enacted by the Legislature of Louisiana:
+9 Section 1. Part III of Chapter 20-A of Title 51 of the Louisiana Revised Statutes of
+10 1950, comprised of R.S. 51:1776.1 through 1776.7 is hereby enacted to read as follows:
+11 PART III. MINOR EXPLOITATION PREVENTION
+12 §1776.1. Short title
+13 This Part shall be known and may be cited as the "Minor Exploitation
+14 Prevention Act".
+15 §1776.2. Definitions
+16 As used in this Part, the following terms have the following meanings:
+17 (1) "Adult" means an account holder who is or is reasonably estimated
+Page 1 of 7
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+SLS 26RS-1497 ENGROSSED
+SB NO. 503
+1 to be eighteen years of age or older.
+2 (2) "Age category" means a classification of an individual based on age
+3 or estimated age, including a description of the user as a minor, adult, or being
+4 within a given age range.
+5 (3) "Age signal" means a signal indicating an account holder's age
+6 category, including the method by which such determination was made.
+7 (4) "Application" means a software program designed to run on a
+8 connected device and distributed through an application distributor. The term
+9 shall not include internet browsers or browser extensions.
+10 (5) "Application distributor" means a digital platform or software
+11 through which applications are distributed to users.
+12 (6) "Application distribution provider" means a person or entity that
+13 owns or operates an application distributor.
+14 (7) "Developer" means a person or entity that creates, owns, or controls
+15 an application.
+16 (8) "Covered application" means an application that provides a different
+17 experience to minors than to adults or is intended for adult use only.
+18 (9) "Connected device" means a device capable of connecting to the
+19 internet and downloading applications, including smartphones, tablets, gaming
+20 consoles, and virtual reality devices.
+21 (10) "Minor" means an account holder who is or is reasonably estimated
+22 to be under eighteen years of age.
+23 §1776.3. Age requirements
+24 A. An application distribution provider shall do all of the following:
+25 (1) Require each account holder to declare his age when creating an
+26 account with the application distribution provider.
+27 (2) Use commercially reasonable efforts to determine an account holder's
+28 age category.
+29 (3) Provide an account holder with a mechanism to obtain his age
+Page 2 of 7
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+SLS 26RS-1497 ENGROSSED
+SB NO. 503
+1 category and the ability to request an update if he believes the age category is
+2 incorrect.
+3 (4) Provide each developer of a covered application the ability to call an
+4 age signal where the account holder or the account holder's parent has agreed
+5 to share the account holder's age category. An application distribution provider
+6 shall only provide an age signal for an account holder who has provided consent
+7 to sharing the account holder's age category with the developer or where a
+8 parent has provided consent on behalf of the account holder who is a minor.
+9 B. A application distribution provider acting in good faith shall not be
+10 liable for any of the following:
+11 (1) Inaccurate age signals.
+12 (2) Any conduct by a developer of a covered application that receives any
+13 age signal, except where the developer and application distribution provider are
+14 controlled by the same entity.
+15 (3) Failing to provide technical ability to call an age signal due to any
+16 reasonable technical limitations.
+17 (4) Failing to provide the age signal to developers that do not adhere to
+18 reasonable safety standards and application distributor policies.
+19 C.(1) Nothing in this Section shall prohibit an application distribution
+20 provider from using multiple commercially reasonable methods to obtain,
+21 estimate, or provide the age category of an account holder.
+22 (2) Nothing in this Section shall restrict an application distribution
+23 provider's ability to satisfy the provisions of this Part by obtaining a minor
+24 account holder's age from the minor's parent.
+25 §1776.4. Application distributor provider; duties
+26 A. An application distribution provider shall do all of the following:
+27 (1) Provide the account holder's parent or developer of a covered
+28 application with the ability to prevent account holders who are not adults from
+29 acquiring or using the developer's covered application from the application
+Page 3 of 7
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+SLS 26RS-1497 ENGROSSED
+SB NO. 503
+1 distributor.
+2 (2) Provide a developer the ability to disclose parental controls for
+3 covered application through a centralized product page or user interface that
+4 provides information about a covered application.
+5 (3) Comply with the obligations and requirements for its own covered
+6 application for which the application distribution provider is also the developer.
+7 B. An application distributor provider shall not use data collected from
+8 a third-party covered application in the course of compliance with this Part to
+9 give the application distribution provider preference relative to those of a third
+10 party, or to otherwise use the data in an anti-competitive manner.
+11 §1776.5. Application developer; duties
+12 A. A developer of a covered application shall:
+13 (1) Report to the application distribution provider whether the
+14 application provides a different experience for adults than for users who are not
+15 adults or is intended only for adults.
+16 (2) Provide tools to help parents support a minor using the covered
+17 application unless the application is intended for adult use only.
+18 (3) Use commercially reasonable efforts to determine whether a user is
+19 an adult or a minor with a reasonable level of certainty.
+20 (4) Make reasonable efforts, proportionate to the risks, to ensure that
+21 users who are minors shall not engage in any activity that has been restricted
+22 for adults only.
+23 (5) Obtain consent prior to permitting minor account holders from
+24 accessing content or enabling features the developer has designated as
+25 unsuitable for use by minors without parental guidance or supervision.
+26 B. A developer of a covered application shall not deliver personalized
+27 advertising to minors.
+28 C.(1) If the developer chooses to call an age signal facilitated by an
+29 application distribution provider, the developer shall request the minimum
+Page 4 of 7
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+SLS 26RS-1497 ENGROSSED
+SB NO. 503
+1 amount of information needed for purposes of compliance with this Part.
+2 (2) If the developer chooses to call an age signal facilitated by an
+3 application distribution provider, the developer shall not:
+4 (a) Willfully disregard any information regarding an individual's age or
+5 age category that is otherwise available to the developer.
+6 (b) Share the information obtained from the age signal with third
+7 parties, except for a service provider, but only if necessary for the service
+8 provider to implement any safety measure or privacy protections for minors or
+9 otherwise required by law.
+10 (c) Use the age signal for any purpose beyond that intended by this Part,
+11 including but not limited to using the age signal to back into or attempt to back
+12 into a users date of birth.
+13 D. Nothing in this Section shall require the developer to determine
+14 whether a user is an adult or a minor, provided the developer and an
+15 application distribution provider are controlled by the same entity.
+16 §1776.6. Developer; liability
+17 A. A developer of a covered application is liable for correctly identifying
+18 whether its application is a covered application pursuant to this Part. No
+19 application distributor is required to proactively identify any covered
+20 application, and an application distributor shall not be held liable in any case
+21 where a developer provides inaccurate information about its application.
+22 B. A developer of a covered application shall not be liable for an
+23 erroneous age signal provided by an application distribution provider, if it
+24 makes a reasonable effort, taking into consideration available technology, to
+25 properly use the age signal and carry out other age assurance, if needed, as
+26 proportionate to the risks presented to any person using its applications.
+27 §1776.7. Enforcement
+28 A. The attorney general shall have exclusive authority to enforce the
+29 provisions of this Part.
+Page 5 of 7
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+SLS 26RS-1497 ENGROSSED
+SB NO. 503
+1 B. Nothing in this Part or any other provision of law shall be interpreted
+2 to serve as the basis for a private right of action.
+3 C. The attorney general may initiate an action and seek a civil penalty
+4 of up to one thousand dollars for each violation of this Part.
+5 Section 2. This Act shall become effective on August 1, 2028.
+The original instrument and the following digest, which constitutes no part
+of the legislative instrument, were prepared by Senate Legislative Services.
+The keyword, summary, and digest do not constitute part of the law or proof
+or indicia of legislative intent. [R.S. 1:13(B) and 24:177(E)]
+DIGEST
+SB 503 Engrossed 2026 Regular Session Cathey
+Proposed law creates the " Minor Exploitation Prevention Act".
+Proposed law provides for definitions.
+Proposed law requires application distribution providers to implement age assurance
+measures, including required age declaration, using reasonable methods to determine age
+category, allowing users to access and correct their age category, and enabling developers
+to access age signals with user or parental consent.
+Proposed law provides that application distribution providers acting in good faith are not
+liable for inaccurate signals, developer conduct, technical limitations, or refusal to provide
+age signals to noncompliant developers.
+Proposed law allows providers to use multiple commercially reasonable methods to
+determine age and obtain a minor's age from a parent.
+Proposed law requires application distribution providers to enable parental or developer
+controls restricting minors' access, provide disclosure of parental controls, comply with
+requirements of their own applications, and prohibits anti-competitive use of date collected
+from third-party applications.
+Proposed law requires developers of covered applications to disclose whether the
+applications provide different experiences for minors, provided parental tools or restrict
+minors where appropriate, use reasonable efforts to determine user age, restrict minors from
+adult-only activities, and obtain consent before allowing minors to access unsuitable content
+or features.
+Proposed law prohibits developers of covered applications from delivering personalized
+advertising to minors.
+Proposed law requires developers using age signals to request only the minimum necessary
+information and prohibits misuse of such information, including disregarding known age
+data, sharing with third parties except as necessary, or using the data beyond compliance
+purposes.
+Proposed law provides that a developer is not required to determine whether a user is an
+adult or a minor if the developer and the application distribution provider are controlled by
+the same entity.
+Page 6 of 7
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+SLS 26RS-1497 ENGROSSED
+SB NO. 503
+Proposed law provides that a developer is responsible for correctly identifying whether its
+application is a covered application. Further provides that application distributors are not
+liable for relying on inaccurate information provided to them by the developers.
+Proposed law provides that a developer is not liable for an erroneous age signal from an
+application distribution provider if the developer makes reasonable efforts to use the signal
+appropriately and implement age assurance measures proportionate to risk.
+Proposed law provides that the attorney general has exclusive authority to enforce proposed
+law and authorizes civil penalties of up to $1,000 per violation. Further prohibits a private
+right of action.
+Effective August 1, 2028.
+(Adds R.S. 51:1776.1-1776.7)
+Page 7 of 7
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+[DELETED: 7EATb R 5 t 1 r m addoaBS011P2§3T4P5§6A7(]
+[DELETED: 7Et(ow( m a s i a a h ac( " m a s p d t r o cs0( " d m a d p o s1t2(3o4(5a6(7e8(9i0c1(2t3§4A5(6a7(8a9( P a a h w a m t o h a]
+[DELETED: 7Eci(atstpB0l1(2(3a4c5(6r7(8r9C0p f u m c r m t o1e2( i t S s r a d3p4a5§6A7( P t a h p o d o a c8a9a]
+[DELETED: 7Ed( P a d t a t d p c fcp(aBag0p1§2A3( R t t a d p w t4a5a6(7a8(9a0(1u2f3( c p t p m a h f4a c o e f t d h d a5u6B7a8C9a]
+[DELETED: 7Ea( I t d c t c a a s f b aa(a( S t i o f t a s w tppo0(1i2i3D N i t S s r d d4w a u i a a o a m p t d a a5a6§7A8w i a i a c a p t t P N9a d i r t p i a c0a1w2B A d o a c a s n b l f a3e4m5p6p7§8A9p]
+[DELETED: 7EBtCoSd2nC l r a d p t i a a l a p t u m c r m t l r d o c a t d w t]
+[DELETED: 7E]
+
+
+================================================================================
+
+Raw Text:
+SLS 26RS-1497 ENGROSSED
+2026 Regular Session
+SENATE BILL NO. 503
+BY SENATOR CATHEY
+COMMERCIAL REGULATIONS. Creates the Minor Exploitation Prevention Act. (8/1/28)
+1 AN ACT
+2 To enact Part III of Chapter 20-A of Title 51 of the Louisiana Revised Statutes of 1950, to
+3 be comprised of R.S. 51:1776.1 through 1776.7, relative to mobile application
+4 distribution; to provide for age assurance and protections for minors; to provide for
+5 duties of application distribution providers and developers; to provide for limitations
+6 of liability; to provide for enforcement; to provide for penalties; to provide for terms
+7 and conditions; and to provide for related matters.
+8 Be it enacted by the Legislature of Louisiana:
+9 Section 1. Part III of Chapter 20-A of Title 51 of the Louisiana Revised Statutes of
+10 1950, comprised of R.S. 51:1776.1 through 1776.7 is hereby enacted to read as follows:
+11 PART III. MINOR EXPLOITATION PREVENTION
+12 §1776.1. Short title
+13 This Part shall be known and may be cited as the "Minor Exploitation
+14 Prevention Act".
+15 §1776.2. Definitions
+16 As used in this Part, the following terms have the following meanings:
+17 (1) "Adult" means an account holder who is or is reasonably estimated
+Page 1 of 7
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-1497 ENGROSSED
+SB NO. 503
+1 to be eighteen years of age or older.
+2 (2) "Age category" means a classification of an individual based on age
+3 or estimated age, including a description of the user as a minor, adult, or being
+4 within a given age range.
+5 (3) "Age signal" means a signal indicating an account holder's age
+6 category, including the method by which such determination was made.
+7 (4) "Application" means a software program designed to run on a
+8 connected device and distributed through an application distributor. The term
+9 shall not include internet browsers or browser extensions.
+10 (5) "Application distributor" means a digital platform or software
+11 through which applications are distributed to users.
+12 (6) "Application distribution provider" means a person or entity that
+13 owns or operates an application distributor.
+14 (7) "Developer" means a person or entity that creates, owns, or controls
+15 an application.
+16 (8) "Covered application" means an application that provides a different
+17 experience to minors than to adults or is intended for adult use only.
+18 (9) "Connected device" means a device capable of connecting to the
+19 internet and downloading applications, including smartphones, tablets, gaming
+20 consoles, and virtual reality devices.
+21 (10) "Minor" means an account holder who is or is reasonably estimated
+22 to be under eighteen years of age.
+23 §1776.3. Age requirements
+24 A. An application distribution provider shall do all of the following:
+25 (1) Require each account holder to declare his age when creating an
+26 account with the application distribution provider.
+27 (2) Use commercially reasonable efforts to determine an account holder's
+28 age category.
+29 (3) Provide an account holder with a mechanism to obtain his age
+Page 2 of 7
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-1497 ENGROSSED
+SB NO. 503
+1 category and the ability to request an update if he believes the age category is
+2 incorrect.
+3 (4) Provide each developer of a covered application the ability to call an
+4 age signal where the account holder or the account holder's parent has agreed
+5 to share the account holder's age category. An application distribution provider
+6 shall only provide an age signal for an account holder who has provided consent
+7 to sharing the account holder's age category with the developer or where a
+8 parent has provided consent on behalf of the account holder who is a minor.
+9 B. A application distribution provider acting in good faith shall not be
+10 liable for any of the following:
+11 (1) Inaccurate age signals.
+12 (2) Any conduct by a developer of a covered application that receives any
+13 age signal, except where the developer and application distribution provider are
+14 controlled by the same entity.
+15 (3) Failing to provide technical ability to call an age signal due to any
+16 reasonable technical limitations.
+17 (4) Failing to provide the age signal to developers that do not adhere to
+18 reasonable safety standards and application distributor policies.
+19 C.(1) Nothing in this Section shall prohibit an application distribution
+20 provider from using multiple commercially reasonable methods to obtain,
+21 estimate, or provide the age category of an account holder.
+22 (2) Nothing in this Section shall restrict an application distribution
+23 provider's ability to satisfy the provisions of this Part by obtaining a minor
+24 account holder's age from the minor's parent.
+25 §1776.4. Application distributor provider; duties
+26 A. An application distribution provider shall do all of the following:
+27 (1) Provide the account holder's parent or developer of a covered
+28 application with the ability to prevent account holders who are not adults from
+29 acquiring or using the developer's covered application from the application
+Page 3 of 7
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-1497 ENGROSSED
+SB NO. 503
+1 distributor.
+2 (2) Provide a developer the ability to disclose parental controls for
+3 covered application through a centralized product page or user interface that
+4 provides information about a covered application.
+5 (3) Comply with the obligations and requirements for its own covered
+6 application for which the application distribution provider is also the developer.
+7 B. An application distributor provider shall not use data collected from
+8 a third-party covered application in the course of compliance with this Part to
+9 give the application distribution provider preference relative to those of a third
+10 party, or to otherwise use the data in an anti-competitive manner.
+11 §1776.5. Application developer; duties
+12 A. A developer of a covered application shall:
+13 (1) Report to the application distribution provider whether the
+14 application provides a different experience for adults than for users who are not
+15 adults or is intended only for adults.
+16 (2) Provide tools to help parents support a minor using the covered
+17 application unless the application is intended for adult use only.
+18 (3) Use commercially reasonable efforts to determine whether a user is
+19 an adult or a minor with a reasonable level of certainty.
+20 (4) Make reasonable efforts, proportionate to the risks, to ensure that
+21 users who are minors shall not engage in any activity that has been restricted
+22 for adults only.
+23 (5) Obtain consent prior to permitting minor account holders from
+24 accessing content or enabling features the developer has designated as
+25 unsuitable for use by minors without parental guidance or supervision.
+26 B. A developer of a covered application shall not deliver personalized
+27 advertising to minors.
+28 C.(1) If the developer chooses to call an age signal facilitated by an
+29 application distribution provider, the developer shall request the minimum
+Page 4 of 7
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-1497 ENGROSSED
+SB NO. 503
+1 amount of information needed for purposes of compliance with this Part.
+2 (2) If the developer chooses to call an age signal facilitated by an
+3 application distribution provider, the developer shall not:
+4 (a) Willfully disregard any information regarding an individual's age or
+5 age category that is otherwise available to the developer.
+6 (b) Share the information obtained from the age signal with third
+7 parties, except for a service provider, but only if necessary for the service
+8 provider to implement any safety measure or privacy protections for minors or
+9 otherwise required by law.
+10 (c) Use the age signal for any purpose beyond that intended by this Part,
+11 including but not limited to using the age signal to back into or attempt to back
+12 into a users date of birth.
+13 D. Nothing in this Section shall require the developer to determine
+14 whether a user is an adult or a minor, provided the developer and an
+15 application distribution provider are controlled by the same entity.
+16 §1776.6. Developer; liability
+17 A. A developer of a covered application is liable for correctly identifying
+18 whether its application is a covered application pursuant to this Part. No
+19 application distributor is required to proactively identify any covered
+20 application, and an application distributor shall not be held liable in any case
+21 where a developer provides inaccurate information about its application.
+22 B. A developer of a covered application shall not be liable for an
+23 erroneous age signal provided by an application distribution provider, if it
+24 makes a reasonable effort, taking into consideration available technology, to
+25 properly use the age signal and carry out other age assurance, if needed, as
+26 proportionate to the risks presented to any person using its applications.
+27 §1776.7. Enforcement
+28 A. The attorney general shall have exclusive authority to enforce the
+29 provisions of this Part.
+Page 5 of 7
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-1497 ENGROSSED
+SB NO. 503
+1 B. Nothing in this Part or any other provision of law shall be interpreted
+2 to serve as the basis for a private right of action.
+3 C. The attorney general may initiate an action and seek a civil penalty
+4 of up to one thousand dollars for each violation of this Part.
+5 Section 2. This Act shall become effective on August 1, 2028.
+The original instrument and the following digest, which constitutes no part
+of the legislative instrument, were prepared by Senate Legislative Services.
+The keyword, summary, and digest do not constitute part of the law or proof
+or indicia of legislative intent. [R.S. 1:13(B) and 24:177(E)]
+DIGEST
+SB 503 Engrossed 2026 Regular Session Cathey
+Proposed law creates the " Minor Exploitation Prevention Act".
+Proposed law provides for definitions.
+Proposed law requires application distribution providers to implement age assurance
+measures, including required age declaration, using reasonable methods to determine age
+category, allowing users to access and correct their age category, and enabling developers
+to access age signals with user or parental consent.
+Proposed law provides that application distribution providers acting in good faith are not
+liable for inaccurate signals, developer conduct, technical limitations, or refusal to provide
+age signals to noncompliant developers.
+Proposed law allows providers to use multiple commercially reasonable methods to
+determine age and obtain a minor's age from a parent.
+Proposed law requires application distribution providers to enable parental or developer
+controls restricting minors' access, provide disclosure of parental controls, comply with
+requirements of their own applications, and prohibits anti-competitive use of date collected
+from third-party applications.
+Proposed law requires developers of covered applications to disclose whether the
+applications provide different experiences for minors, provided parental tools or restrict
+minors where appropriate, use reasonable efforts to determine user age, restrict minors from
+adult-only activities, and obtain consent before allowing minors to access unsuitable content
+or features.
+Proposed law prohibits developers of covered applications from delivering personalized
+advertising to minors.
+Proposed law requires developers using age signals to request only the minimum necessary
+information and prohibits misuse of such information, including disregarding known age
+data, sharing with third parties except as necessary, or using the data beyond compliance
+purposes.
+Proposed law provides that a developer is not required to determine whether a user is an
+adult or a minor if the developer and the application distribution provider are controlled by
+the same entity.
+Page 6 of 7
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-1497 ENGROSSED
+SB NO. 503
+Proposed law provides that a developer is responsible for correctly identifying whether its
+application is a covered application. Further provides that application distributors are not
+liable for relying on inaccurate information provided to them by the developers.
+Proposed law provides that a developer is not liable for an erroneous age signal from an
+application distribution provider if the developer makes reasonable efforts to use the signal
+appropriately and implement age assurance measures proportionate to risk.
+Proposed law provides that the attorney general has exclusive authority to enforce proposed
+law and authorizes civil penalties of up to $1,000 per violation. Further prohibits a private
+right of action.
+Effective August 1, 2028.
+(Adds R.S. 51:1776.1-1776.7)
+Page 7 of 7
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+[DELETED: 7EATb R 5 t 1 r m addoaBS011P2§3T4P5§6A7(]
+[DELETED: 7Et(ow( m a s i a a h ac( " m a s p d t r o cs0( " d m a d p o s1t2(3o4(5a6(7e8(9i0c1(2t3§4A5(6a7(8a9( P a a h w a m t o h a]
+[DELETED: 7Eci(atstpB0l1(2(3a4c5(6r7(8r9C0p f u m c r m t o1e2( i t S s r a d3p4a5§6A7( P t a h p o d o a c8a9a]
+[DELETED: 7Ed( P a d t a t d p c fcp(aBag0p1§2A3( R t t a d p w t4a5a6(7a8(9a0(1u2f3( c p t p m a h f4a c o e f t d h d a5u6B7a8C9a]
+[DELETED: 7Ea( I t d c t c a a s f b aa(a( S t i o f t a s w tppo0(1i2i3D N i t S s r d d4w a u i a a o a m p t d a a5a6§7A8w i a i a c a p t t P N9a d i r t p i a c0a1w2B A d o a c a s n b l f a3e4m5p6p7§8A9p]
+[DELETED: 7EBtCoSd2nC l r a d p t i a a l a p t u m c r m t l r d o c a t d w t]
+[DELETED: 7E]

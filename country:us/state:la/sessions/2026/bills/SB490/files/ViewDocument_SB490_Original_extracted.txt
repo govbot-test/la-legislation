@@ -1,0 +1,244 @@
+Title: SENATE BILL NO. 490
+Official Title: SENATE BILL NO. 490
+Number of Sections: 1
+Source: versions - SB490 Original
+Media Type: application/pdf
+Strikethrough Detection: 4 sections found
+
+================================================================================
+
+Section 1:
+SLS 26RS-1513 ORIGINAL
+2026 Regular Session
+BY SENATOR HENSGENS
+ENERGY DEVELOPMENT. Provides for private use electrical networks. (gov sig)
+1 AN ACT
+2 To enact R.S. 45:1231.1, relative to private use electrical networks; to provide for the
+3 construction and operation of generation and storage facilities serving industrial and
+4 digital infrastructure customers; to provide for nonutility status; to provide for
+5 backup and export interconnections; to require the Louisiana Public Service
+6 Commission to adopt implementing rules; to provide for an effective date; and to
+7 provide for related matters.
+8 Be it enacted by the Legislature of Louisiana:
+9 Section 1. R.S. 45:1231.1 is hereby enacted to read as follows:
+10 §1231.1. Private use electrical networks
+11 A. For purposes of this Section the following terms shall have the
+12 following meanings unless the context clearly indicates otherwise:
+13 (1) "Private use electrical network" means generation, energy storage,
+14 and related electrical facilities that:
+15 (a) Are located on contiguous, adjacent, or commonly controlled
+16 property.
+17 (b) Are used primarily to serve the electricity requirements of one or
+Page 1 of 4
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+SLS 26RS-1513 ORIGINAL
+SB NO. 490
+1 more identified load customers.
+2 (c) Deliver electricity through privately owned electrical facilities.
+3 (2) "Identified load customer" means an industrial facility,
+4 manufacturing operation, data center, digital infrastructure campus, or similar
+5 large-load customer.
+6 B. A private use electrical network shall not be deemed a public utility,
+7 and the owner or operator thereof shall not be subject to regulation by the
+8 Louisiana Public Service Commission as a public utility, solely because the
+9 network satisfies one or more of the following:
+10 (1) Serves one or more identified load customers.
+11 (2) Is owned or operated by the load customer, an affiliate of the load
+12 customer, or an unaffiliated third party pursuant to contract.
+13 (3) Maintains an interconnection with an electric utility for backup
+14 service, reliability service, emergency service, maintenance service, or export
+15 of surplus electricity.
+16 (4) Participates in any wholesale market, ancillary service, emergency
+17 service, or reliability program administered by the Midcontinent Independent
+18 System Operator or any successor regional transmission organization.
+19 C. The maintenance of backup utility service, standby service, or export
+20 capability shall not alter the status of a private use electrical network under this
+21 Section.
+22 D. The export of electricity from a private use electrical network shall
+23 not cause such network to be deemed a public utility, provided that the network
+24 is primarily dedicated to serving one or more identified load customers.
+25 E. Nothing in this Section shall impair the authority of the Louisiana
+26 Public Service Commission to regulate the rates, terms, and conditions of
+27 backup, standby, or export service provided by an electric utility.
+28 Section 2. The Louisiana Public Service Commission shall adopt rules in accordance
+29 with the provisions of this Act no later than one hundred eighty days after the effective date,
+Page 2 of 4
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+SLS 26RS-1513 ORIGINAL
+SB NO. 490
+1 that shall include but not be limited to:
+2 (1) An expedited process for issuance of a declaration of nonjurisdiction for a private
+3 use electrical network.
+4 (2) A requirement that the commission issue a determination within thirty days of
+5 receipt of a complete application, which shall be deemed approved if the commission fails
+6 to act within such period.
+7 (3) Nondiscriminatory tariffs and interconnection procedures for backup, standby,
+8 maintenance, and export service for a private use electrical network.
+9 Section 3. This Act shall become effective upon signature by the governor or, if not
+10 signed by the governor, upon expiration of the time for bills to become law without signature
+11 by the governor, as provided by Article III, Section 18 of the Constitution of Louisiana. If
+12 vetoed by the governor and subsequently approved by the legislature, this Act shall become
+13 effective on the day following such approval.
+The original instrument and the following digest, which constitutes no part
+of the legislative instrument, were prepared by Senate Legislative Services.
+The keyword, summary, and digest do not constitute part of the law or proof
+or indicia of legislative intent. [R.S. 1:13(B) and 24:177(E)]
+DIGEST
+SB 490 Original 2026 Regular Session Hensgens
+Proposed law provides for private use electrical networks, defined as generation, storage,
+and related electrical facilities that are located on contiguous, adjacent, or commonly
+controlled property, that serve one or more customers, and that provide power through
+privately-owned facilities.
+Proposed law defines "identified load customer" as a large-load commercial customer.
+Proposed law provides that a private use electrical network is not a public utility and not
+subject to Louisiana Public Service Commission (LPSC) regulation based solely on its
+customer load, operator, interconnection, or MISO program participation.
+Proposed law provides that maintenance of backup or standby service or export capability
+shall not alter the network's status.
+Proposed law provides that export of electricity from such a network shall not make it a
+public utility.
+Proposed law provides that proposed law shall not impair the authority of LPSC to regulate
+electric utilities.
+Proposed law requires LPSC to adopt rules in accordance with proposed law no later than
+180 days after the effective date to provide an expedited process for issuance of a declaration
+of nonjurisdiction, to require LPSC to issue a determination within 30 days of application
+Page 3 of 4
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+SLS 26RS-1513 ORIGINAL
+SB NO. 490
+receipt, and to create nondiscriminatory tariffs and interconnection procedures for backup,
+standby, maintenance, and export service.
+Effective upon signature of the governor or lapse of time for gubernatorial action.
+(Adds R.S. 45:1231.1)
+Page 4 of 4
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+[DELETED: 3OATcd i t p f n s t p fb a e i t r t L P SCpBS0§1A F p o t S t f t s h t2f3(4a5( A l o c a o c c6p7(]
+[DELETED: 3Om(( " l c m a i fmlBaLn0(1(2c3(4s5o6(7s8S9C0c1S2D3n4i5E6P S C t r t r t a c o7b8S9w]
+[DELETED: 3Ot(u(rt(mS0s1b2v3el2nH r e f t a l o c a o c]
+[DELETED: 3O]
+
+
+================================================================================
+
+Raw Text:
+SLS 26RS-1513 ORIGINAL
+2026 Regular Session
+SENATE BILL NO. 490
+BY SENATOR HENSGENS
+ENERGY DEVELOPMENT. Provides for private use electrical networks. (gov sig)
+1 AN ACT
+2 To enact R.S. 45:1231.1, relative to private use electrical networks; to provide for the
+3 construction and operation of generation and storage facilities serving industrial and
+4 digital infrastructure customers; to provide for nonutility status; to provide for
+5 backup and export interconnections; to require the Louisiana Public Service
+6 Commission to adopt implementing rules; to provide for an effective date; and to
+7 provide for related matters.
+8 Be it enacted by the Legislature of Louisiana:
+9 Section 1. R.S. 45:1231.1 is hereby enacted to read as follows:
+10 §1231.1. Private use electrical networks
+11 A. For purposes of this Section the following terms shall have the
+12 following meanings unless the context clearly indicates otherwise:
+13 (1) "Private use electrical network" means generation, energy storage,
+14 and related electrical facilities that:
+15 (a) Are located on contiguous, adjacent, or commonly controlled
+16 property.
+17 (b) Are used primarily to serve the electricity requirements of one or
+Page 1 of 4
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-1513 ORIGINAL
+SB NO. 490
+1 more identified load customers.
+2 (c) Deliver electricity through privately owned electrical facilities.
+3 (2) "Identified load customer" means an industrial facility,
+4 manufacturing operation, data center, digital infrastructure campus, or similar
+5 large-load customer.
+6 B. A private use electrical network shall not be deemed a public utility,
+7 and the owner or operator thereof shall not be subject to regulation by the
+8 Louisiana Public Service Commission as a public utility, solely because the
+9 network satisfies one or more of the following:
+10 (1) Serves one or more identified load customers.
+11 (2) Is owned or operated by the load customer, an affiliate of the load
+12 customer, or an unaffiliated third party pursuant to contract.
+13 (3) Maintains an interconnection with an electric utility for backup
+14 service, reliability service, emergency service, maintenance service, or export
+15 of surplus electricity.
+16 (4) Participates in any wholesale market, ancillary service, emergency
+17 service, or reliability program administered by the Midcontinent Independent
+18 System Operator or any successor regional transmission organization.
+19 C. The maintenance of backup utility service, standby service, or export
+20 capability shall not alter the status of a private use electrical network under this
+21 Section.
+22 D. The export of electricity from a private use electrical network shall
+23 not cause such network to be deemed a public utility, provided that the network
+24 is primarily dedicated to serving one or more identified load customers.
+25 E. Nothing in this Section shall impair the authority of the Louisiana
+26 Public Service Commission to regulate the rates, terms, and conditions of
+27 backup, standby, or export service provided by an electric utility.
+28 Section 2. The Louisiana Public Service Commission shall adopt rules in accordance
+29 with the provisions of this Act no later than one hundred eighty days after the effective date,
+Page 2 of 4
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-1513 ORIGINAL
+SB NO. 490
+1 that shall include but not be limited to:
+2 (1) An expedited process for issuance of a declaration of nonjurisdiction for a private
+3 use electrical network.
+4 (2) A requirement that the commission issue a determination within thirty days of
+5 receipt of a complete application, which shall be deemed approved if the commission fails
+6 to act within such period.
+7 (3) Nondiscriminatory tariffs and interconnection procedures for backup, standby,
+8 maintenance, and export service for a private use electrical network.
+9 Section 3. This Act shall become effective upon signature by the governor or, if not
+10 signed by the governor, upon expiration of the time for bills to become law without signature
+11 by the governor, as provided by Article III, Section 18 of the Constitution of Louisiana. If
+12 vetoed by the governor and subsequently approved by the legislature, this Act shall become
+13 effective on the day following such approval.
+The original instrument and the following digest, which constitutes no part
+of the legislative instrument, were prepared by Senate Legislative Services.
+The keyword, summary, and digest do not constitute part of the law or proof
+or indicia of legislative intent. [R.S. 1:13(B) and 24:177(E)]
+DIGEST
+SB 490 Original 2026 Regular Session Hensgens
+Proposed law provides for private use electrical networks, defined as generation, storage,
+and related electrical facilities that are located on contiguous, adjacent, or commonly
+controlled property, that serve one or more customers, and that provide power through
+privately-owned facilities.
+Proposed law defines "identified load customer" as a large-load commercial customer.
+Proposed law provides that a private use electrical network is not a public utility and not
+subject to Louisiana Public Service Commission (LPSC) regulation based solely on its
+customer load, operator, interconnection, or MISO program participation.
+Proposed law provides that maintenance of backup or standby service or export capability
+shall not alter the network's status.
+Proposed law provides that export of electricity from such a network shall not make it a
+public utility.
+Proposed law provides that proposed law shall not impair the authority of LPSC to regulate
+electric utilities.
+Proposed law requires LPSC to adopt rules in accordance with proposed law no later than
+180 days after the effective date to provide an expedited process for issuance of a declaration
+of nonjurisdiction, to require LPSC to issue a determination within 30 days of application
+Page 3 of 4
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-1513 ORIGINAL
+SB NO. 490
+receipt, and to create nondiscriminatory tariffs and interconnection procedures for backup,
+standby, maintenance, and export service.
+Effective upon signature of the governor or lapse of time for gubernatorial action.
+(Adds R.S. 45:1231.1)
+Page 4 of 4
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+[DELETED: 3OATcd i t p f n s t p fb a e i t r t L P SCpBS0§1A F p o t S t f t s h t2f3(4a5( A l o c a o c c6p7(]
+[DELETED: 3Om(( " l c m a i fmlBaLn0(1(2c3(4s5o6(7s8S9C0c1S2D3n4i5E6P S C t r t r t a c o7b8S9w]
+[DELETED: 3Ot(u(rt(mS0s1b2v3el2nH r e f t a l o c a o c]
+[DELETED: 3O]

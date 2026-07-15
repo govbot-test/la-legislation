@@ -1,0 +1,817 @@
+Title: To the Honorable Speaker and Members of the House of Representatives and the Honorable
+Official Title: To the Honorable Speaker and Members of the House of Representatives and the Honorable
+Number of Sections: 17
+Source: versions - Conference Committee Report, #6296, House Adopted, Senate Adopted
+Media Type: application/pdf
+Strikethrough Detection: 9 sections found
+
+================================================================================
+
+Section 1:
+CCRHB459 3645 6296
+CONFERENCE COMMITTEE REPORT
+HB 459 2026 Regular Session Mandie Landry
+June 1, 2026
+President and Members of the Senate.
+Ladies and Gentlemen:
+We, the conferees appointed to confer over the disagreement between the two houses
+concerning House Bill No. 459 by Representative Mandie Landry, recommend the following
+concerning the Reengrossed bill:
+
+Section 2:
+1. That the set of Senate Committee Amendments by the Senate Committee on Senate
+and Governmental Affairs (#4156) be rejected.
+
+Section 3:
+2. That the following amendments to the Reengrossed bill be adopted:
+AMENDMENT NO. 1
+On page 1, delete line 2 and at the beginning of line 3, delete "to" and insert the following:
+"To amend and reenact R.S. 18:1463(A), (F), and (G), 1483(7)(a)(iii), (b)(ii),
+and (c)(ii), (8), (11)(a) and (d)(ii), and 1501.1(A)(1), to enact R.S. 18:1463(H) and
+(I) and 1483(33), and to repeal R.S. 18:1463(C)(5), 1491.7(B)(22), and
+
+Section 4:
+1495.5(B)(21), relative to political campaigns; to provide for"
+AMENDMENT NO. 2
+On page 1, line 5, after "penalties;"delete the remainder of the line and insert the following:
+"to provide for campaign finance reporting requirements of persons other than
+candidates and committees; to provide relative to contributions and expenditures
+related to electioneering communications; to provide relative to coordinated
+expenditures; to provide for definitions; to provide for effectiveness; and to"
+AMENDMENT NO. 3
+On page 1, delete lines 8 and 9 and insert the following:
+"Section 1. R.S. 18:1463(A), (F), and (G), 1483(7)(a)(iii), (b)(ii), and (c)(ii),
+(8), (11)(a) and (d)(ii), and 1501.1(A)(1) are hereby amended and reenacted and R.S.
+18:1463(H) and (I) and 1483(33) are hereby enacted to read as follows:"
+AMENDMENT NO. 4
+On page 2, line 10, after "image" and before "that" delete "or likeness of a candidate" and
+insert a comma "," and insert "likeness, or voice of a candidate or elected official subject to
+recall"
+AMENDMENT NO. 5
+On page 2, delete lines 14 through 19 and insert the following:
+"communication that portrays a candidate or an elected official subject to recall and
+that is, through the use of artificial intelligence, created, altered, or digitally
+manipulated in a manner that would falsely appear to a reasonable observer to be an
+authentic record of the actual speech or conduct of a candidate or an elected official
+Page 1 of 9
+CCRHB459 3645 6296
+subject to recall and that would falsely appear to replace an individual's likeness with
+the likeness of a candidate or an elected official subject to recall without providing
+a clear and understandable disclosure on the electioneering communication that it
+was created using artificial intelligence. The form of the disclosure shall be consistent
+with the disclosure requirements of Subsection (E) of this Section."
+AMENDMENT NO. 6
+On page 2, delete lines 24 and 25 and at the beginning of line 26, change "(c)" to "(b)"
+AMENDMENT NO. 7
+On page 2, delete line 27 and insert the following:
+"G.F. For the purposes of this Section, the following terms have the
+following meanings: term "digital
+(1) "Digital material" means any
+AMENDMENT NO. 8
+On page 3, between lines 2 and 3, insert the following:
+"(2) "Electioneering communication" shall have the same meaning as
+provided in R.S. 18:1483."
+AMENDMENT NO. 9
+On page 3, line 3, after "Section" and before "shall" insert "with the intent to injure the
+reputation of a candidate or elected official subject to recall or to otherwise deceive a voter"
+AMENDMENT NO. 10
+On page 3, after line 5, insert the following:
+"I. The provisions of this Section shall not apply to a media entity that
+broadcasts a paid political announcement, advertisement, or electioneering
+communication in which the broadcaster has had no input in or control over the
+announcement, advertisement, or electioneering communication. As used in this
+Subsection, the term "media entity" includes the same entities as provided in R.S.
+18:1483(33).
+* * *
+
+Section 5:
+§1483. Definitions
+As used in this Chapter, the following terms shall have the meanings given
+to each in this Section unless the context clearly indicates otherwise:
+* * *
+(7)(a) "Contribution", except as otherwise provided in this Chapter, means a
+gift, conveyance, payment, or deposit of money or anything of value, or the
+forgiveness of a loan or of a debt made to any of the following:
+* * *
+(iii) Any person for the purpose of funding an expenditure to influence the
+nomination or election of a person to public office, whether made before or after the
+an election.
+* * *
+(b) "Contribution" shall also include, without limitation:
+* * *
+(ii) Coordinated expenditures, which made for the purpose of supporting,
+opposing, or otherwise influencing the nomination or election of the candidate and
+shall be considered to be a contribution to such the candidate, the principal campaign
+committee, or the subsidiary committee thereof that, directly or through an agent,
+cooperated with, consulted with, or acted in concert with the creator or disseminator
+Page 2 of 9
+CCRHB459 3645 6296
+of or requested or suggested the creation or dissemination of the electioneering
+communication.
+* * *
+(c) "Contribution" shall not include:
+* * *
+(ii) Any dues or membership fees of any membership organization or
+corporation made by its members or stockholders, if such membership organization
+or corporation is not organized primarily for the purpose of supporting, opposing or
+otherwise influencing the nomination for election, or election, of any person to public
+office making expenditures for electioneering communications. However, any funds
+of such an organization or corporation used for the purpose of contributions to
+candidates or committees or to publicly advocate support or defeat of a candidate or
+for expenditures as defined in this Chapter expenditures for electioneering
+communications shall be reportable and all contributions made by such membership
+organization or corporation which are otherwise reportable under the provisions of
+this Chapter shall be reported.
+* * *
+(8) "Coordinated expenditure" means an expenditure made by any person in
+cooperation, consultation, or concert with, or at the request or suggestion of, a
+candidate, his principal campaign committee or a subsidiary committee thereof, or
+their agents for the purpose of supporting, opposing, or otherwise influencing the
+nomination or election of the candidate of expenditures for electioneering
+communications.
+* * *
+(11)(a) "Expenditure" means a purchase, payment, advance, deposit, or gift,
+of money or anything of value made for a purpose provided for in R.S. 18:1501.1(A)
+or 1505.2(I) by a candidate or committee. For a person other than a candidate or
+committee, "expenditure" means a purchase, payment, advance, deposit, or gift, of
+money or anything of value made for an electioneering communication.
+* * *
+(d) "Expenditure" shall not include:
+* * *
+(ii) Any communication, including an electioneering communication, by any
+membership organization or business entity to its employees, members, directors, or
+stockholders, or their family members, if such membership organization or business
+entity is not organized primarily for the purpose of supporting, opposing, or
+otherwise influencing the nomination for election, or election, of any person to public
+office or for the purpose of supporting or opposing a proposition or question to be
+submitted to the voters making electioneering communications. All other
+expenditures made by such membership organization or business entity which are
+otherwise reportable under the provisions of this Chapter shall be reported. For
+purposes of this definition, business entity means any proprietorship, partnership,
+corporation, or other legal entity, including their subsidiaries.
+* * *
+(33)(a) "Electioneering communication" means any communication, whether
+printed, digital, or broadcast by a media entity, that meets either of the following:
+(i) Contains express advocacy supporting or opposing the nomination or
+election of a person to public office, the recall of a public official, or a proposition
+or question submitted to the voters.
+(ii) The only reasonable conclusion to be drawn from the presentation,
+content, and context of the communication is that it is intended to appeal for a vote
+in a specific election for or against a specific candidate or for or against the recall of
+a specific elected official or a proposition or for or against a question submitted to
+the voters. Consideration of the context of a communication shall include the
+temporal proximity to the specific election, whether the communication is primarily
+directed to voters in the specific election, and whether the communication is part of
+a larger campaign of communication regarding an issue other than the specific
+election.
+(b) For purposes of this Paragraph, "media entity" includes a radio broadcast
+station, television broadcast station, cable or satellite television company, or other
+video service provider, streaming video provider, newspaper company, periodical
+Page 3 of 9
+CCRHB459 3645 6296
+company, billboard company, advertisement agency, or media platform responsible
+for the production or publication of any advertisement, voice, data, or other
+communications, information services, or internet access provider, or bona fide news
+or public interest website operator.
+* * *
+
+Section 6:
+§1501.1. Reports by persons not candidates or committees
+A.(1) Any person, other than a candidate or a committee, who makes any
+expenditure for express advocacy supporting or opposing the nomination or election
+of a person to public office, the recall of a public official, or a proposition or question
+submitted to the voters, or for a communication for which the only reasonable
+conclusion to be drawn from the presentation and content is that it is intended to
+appeal to vote for or against a specific candidate or for or against the recall of a
+specific elected official or a proposition or question submitted to the voters an
+electioneering communication shall file reports if such expenditures exceed one
+thousand dollars in the aggregate during the aggregating period as defined for
+committees.
+* * *
+
+Section 7:
+Section 2. R.S. 18:1463(C)(5), 1491.7(B)(22), and 1495.5(B)(21) are hereby
+repealed.
+
+Section 8:
+Section 3. The Louisiana State Law Institute is authorized and directed to
+arrange in alphabetical order and renumber definitions contained in R.S. 18:1483 and
+to correct any cross-references to the renumbered paragraphs if necessary, consistent
+with the provisions of this Act."
+Respectfully submitted,
+Representative Mandie Landry Senator Gregory A. Miller
+Representative Gerald "Beau" Beaullieu, IV Senator Royce Duplessis
+Representative John Wyble Senator Caleb Seth Kleinpeter
+Page 4 of 9
+CCRHB459 3645 6296
+DIGEST
+The digest printed below was prepared by House Legislative Services. It constitutes no part
+of the legislative instrument. The keyword, one-liner, abstract, and digest do not constitute
+part of the law or proof or indicia of legislative intent. [R.S. 1:13(B) and 24:177(E)]
+CONFERENCE COMMITTEE REPORT DIGEST
+HB 459 2026 Regular Session Mandie Landry
+Keyword and oneliner of the instrument as it left the House
+ELECTIONS/CANDIDATES: Provides relative to the use of artificial intelligence in
+political campaigns
+Report adopts Senate amendments to:
+
+Section 9:
+1. Revise the definition of "electioneering communication".
+
+Section 10:
+2. Limit campaign finance reporting requirements for reporters other than candidates
+or committees to apply only to expenditures for electioneering communications and
+contributions received for such expenditures.
+
+Section 11:
+3. Limit campaign finance reporting requirements related to coordinated expenditures
+to apply only to such expenditures related to electioneering communications.
+
+Section 12:
+4. Revise the prohibition against making an electioneering communication using
+artificial intelligence without including certain disclosures.
+
+Section 13:
+5. Limit present law criminal penalties to apply only when a violation is committed with
+specific intent.
+Report rejects Senate amendments which would have:
+
+Section 14:
+1. Changed the defined term "digital material" to "digital communication".
+
+Section 15:
+2. Limited the reporting requirements of candidates.
+Report amends the bill to:
+
+Section 16:
+1. Repeal a campaign finance reporting category associated with a provision authorizing
+expenditure reporting in lieu of including certain disclosures on certain campaign-
+related statements relative to a candidate.
+
+Section 17:
+2. Make technical changes.
+Digest of the bill as proposed by the Conference Committee
+Disclosures on Electioneering Communications
+Present law (R.S. 18:1463) requires that certain electioneering communications and digital
+materials contain a disclosure of the person paying for the communication.
+Proposed law finds that it is essential to the protection of the electoral process that the public
+not be deceived or misled by an image, likeness, or voice of a candidate or an elected official
+subject to recall that is created using artificial intelligence, and therefore provides that no
+person shall make any electioneering communication that portrays a candidate or an elected
+official subject to recall and that is, through the use of artificial intelligence, created, altered,
+Page 5 of 9
+CCRHB459 3645 6296
+or digitally manipulated in a manner that would falsely appear to a reasonable observer to be
+an authentic record of the actual speech or conduct of a candidate or an elected official
+subject to recall and that would falsely appear to replace an individual's likeness with the
+likeness of a candidate or an elected official subject to recall without providing a clear and
+understandable disclosure on the electioneering communication that it was created using
+artificial intelligence.
+Proposed law provides that present law and proposed law do not apply to a media entity that
+broadcasts an electioneering communication in which the broadcaster has had no input in or
+control over the content of the electioneering communication that was, through the use of
+artificial intelligence, created, altered, or digitally manipulated in a manner that would falsely
+appear to a reasonable observer to be an authentic record of the actual speech or conduct of
+a candidate or an elected official subject to recall or that would falsely appear to replace an
+individual's likeness with the likeness of a candidate or an elected official subject to recall.
+Present law provides that whoever violates present law or proposed law shall be fined not
+more than $2,000 or be imprisoned, with or without hard labor, for not more than two years,
+or both.
+Proposed law limits present law penalties to apply only when a violation is committed with
+the intent to injure the reputation of a candidate or elected official subject to recall or to
+otherwise deceive a voter.
+Present law defines "digital material" as any material or communication that, for a fee, is
+placed or promoted on a public facing website, web application, or digital application,
+including a social network, advertising network, or search engine.
+Proposed law adds to the present law definition materials or communications placed or
+promoted for any payment other than a fee.
+Present law (R.S. 14:73.14) defines "artificial intelligence" as an artificial system developed
+in computer software, physical hardware, or other context that solves tasks requiring
+human-like perception, cognition, planning, learning, communication, or physical action.
+Proposed law retains present law and applies the same definition to proposed law.
+Present law defines "electioneering communication" as any broadcast, cable, or satellite
+communication that refers to a legally qualified candidate for elected office and is broadcast
+within 60 days before any election in which such candidate is on the ballot.
+Proposed law repeals present law and instead provides that "electioneering communication"
+means any communication, whether printed, broadcast by a media entity, or digital, that
+contains express advocacy supporting or opposing the nomination or election of a person to
+public office, the recall of a public official, or a proposition or question submitted to the
+voters, or the only reasonable conclusion to be drawn from the presentation, content, and
+context of the communication is that the communication is intended to appeal for a vote in
+a specific election for or against a specific candidate or for or against the recall of a specific
+elected official or a proposition or for or against a question submitted to the voters.
+Present law (R.S. 18:1483(3)) defines "candidate" as a person who seeks nomination or
+election to public office, except the office of president or vice president of the United States,
+presidential elector, delegate to a political party convention, United States senator, United
+States congressman, or political party office. An individual shall be deemed to seek
+nomination or election to such office if the individual has done any of the following:
+(1) Since prior participation in an election, if any, received and accepted a contribution
+or made an expenditure, or has given his consent for any other person or committee
+to receive a contribution or make an expenditure with a view to influencing his
+nomination or election to office whether or not the specific public office for which
+he will be a candidate is known at the time the contribution is received or the
+expenditure is made.
+Page 6 of 9
+CCRHB459 3645 6296
+(2) Taken the action necessary under the laws of the state of La. to qualify himself for
+nomination or election to public office.
+(3) Been selected as a party nominee in accordance with present law (R.S. 18:410.6).
+Proposed law retains present law and applies the same definition to proposed law.
+Present law provides that "media entity" includes a radio broadcast station, television
+broadcast station, cable or satellite television company, or other video service provider,
+streaming video provider, newspaper company, periodical company, billboard company,
+advertisement agency, or media platform responsible for the production or publication of any
+advertisement, voice, data, or other communications, information services, or internet access
+provider, or bona fide news or public interest website operator.
+Proposed law retains present law.
+Campaign Finance Reporting
+Present law (Campaign Finance Disclosure Act) defines "contribution" as a gift, conveyance,
+payment, or deposit of money or anything of value, or the forgiveness of a loan or of a debt
+made to any person for the purpose of funding an expenditure to influence the nomination
+or election of a person to public office, whether made before or after the election.
+Proposed law instead defines "contribution" as a gift, conveyance, payment, or deposit of
+money or anything of value, or the forgiveness of a loan or of a debt made to any person for
+the purpose of funding an expenditure, whether made before or after the election.
+Present law authorizes the use of contributions by a political committee for coordinated
+expenditures and limits the use of contributions by an independent expenditure only
+committee as a coordinated expenditure and provides that "coordinated expenditure" means
+an expenditure made by any person in cooperation, consultation, or concert with, or at the
+request or suggestion of, a candidate, his principal campaign committee or a subsidiary
+committee thereof, or their agents for the purpose of supporting, opposing, or otherwise
+influencing the nomination or election of the candidate.
+Proposed law limits the definition of "coordinated expenditure" to apply only to expenditures
+made by an individual, leadership committee, or political committee and only for
+expenditures for electioneering communications.
+Present law provides that "contribution" includes coordinated expenditures made for the
+purpose of supporting, opposing, or otherwise influencing the nomination or election of the
+candidate and shall be considered to be a contribution to the candidate.
+Proposed law instead provides that "contribution" includes coordinated expenditures, which
+shall be considered to be a contribution to the candidate, the principal campaign committee,
+or the subsidiary committee thereof that, directly or through an agent, cooperated with,
+consulted with, or acted in concert with the creator or disseminator of or requested or
+suggested the creation or dissemination of an electioneering communication.
+Present law provides that "contribution" shall not include any dues or membership fees of
+any membership organization or corporation made by its members or stockholders, if such
+membership organization or corporation is not organized primarily for the purpose of
+supporting, opposing or otherwise influencing the nomination for election, or election, of
+any person to public office.
+Proposed law instead provides that "contribution" shall not include the dues or membership
+fees of such organizations and corporations if the organization or corporation is not
+organized primarily for the purpose of making electioneering communications.
+Present law provides that funds of such an organization or corporation used for the purpose
+of contributions to candidates or committees or to publicly advocate support or defeat of a
+Page 7 of 9
+CCRHB459 3645 6296
+candidate or for expenditures shall be reportable and all contributions made by such
+membership organization or corporation which are otherwise reportable shall be reported.
+Proposed law instead provides that funds of such an organization or corporation used for
+expenditures for electioneering communications shall be reportable.
+Present law provides that "expenditure" means a purchase, payment, advance, deposit, or gift
+of money or anything of value made for certain enumerated permitted purposes by a
+candidate or committee, including, among others, the following:
+(1) Supporting or opposing a proposition or question submitted to the voters.
+(2) Supporting, opposing or otherwise influencing the nomination or election of
+candidate for election to a public office.
+(3) Supporting or opposing the recall of a public officer.
+(4) Contributions to a gubernatorial transition and inauguration.
+(5) Contributions to an independent expenditure-only committee.
+(6) Donations to an organization exempt from federal income tax under Section 501 of
+the Internal Revenue Code.
+(7) Lobbying.
+(8) Social and issue advocacy.
+(9) The administrative costs or operating expenses of the committee making the
+expenditure, including costs and expense related to legal services and costs,
+accounting services, and fundraising.
+(10) The holding of public office or party position.
+(11) The payment of fines, fees, or penalties.
+Proposed law instead provides that "expenditure" means a purchase, payment, advance,
+deposit, or gift, of money or anything of value made by a candidate or committee, without
+limitation on purpose; or by any person, for electioneering communications.
+Present law requires the disclosure of "expenditures" made in excess of a certain amount.
+Proposed law retains present law and applies the proposed law definition of "expenditures"
+to present law.
+Present law requires that "other reporters" who are not candidates or committees, who make
+any expenditure in excess of $1,000 for express advocacy supporting or opposing the
+nomination or election of a person to public office, the recall of a public official, or a
+proposition or question submitted to the voters, or for a communication for which the only
+reasonable conclusion to be drawn from the presentation and content is that it is intended
+to appeal to vote for or against a specific candidate or for or against the recall of a specific
+elected official or a proposition or question submitted to the voters, file campaign finance
+reports.
+Proposed law instead requires that "other reporters" who make any expenditure in excess of
+$1,000 for an electioneering communication, only, file campaign finance reports.
+Present law (R.S. 18:1491.7(B)(22) and 1495.5(B)(21)) requires that candidates and
+committees include in each report the total amount of expenditures during the reporting
+period made in relation to the publication, distribution, transportation, or transmission of
+statements relative to candidates which do not fully include certain required disclosures.
+Page 8 of 9
+CCRHB459 3645 6296
+Proposed law repeals present law.
+(Amends R.S. 18:1463(A), (F), and (G), 1483(7)(a)(iii), (b)(ii), and (c)(ii), (8), (11)(a) and
+(d)(ii), and 1501.1(A)(1); Adds R.S. 18:1463(H) and (I) and 1483(33); Repeals R.S.
+18:1463(C)(5), 1491.7(B)(22), and 1495.5(B)(21))
+Page 9 of 9
+[DELETED: 92nM.T.T a 1 a t r R 1 1 a p f c f r r o p o t t e c t p r t c i t t u o a i c a o d]
+[DELETED:   F t p o t S t f t h t  " c s h t s m a a p p a a o e c p o d o m o a o v o t]
+[DELETED:  A d o m f o a m o o e a d i t C e f e o e o t c o e f e i n o p f t p o s o o t t v m e c A o T o r c t b d f t p v C o t c o a c s i t]
+[DELETED:  t p o p o a a v d o o d i t a d t a p a d fySVSeS]
+[DELETED: 92nM   r t u o a.R.L.L.R t p a m a e c u.L.C.L.R.M]
+[DELETED:  c s p h o o c t s t r c o p p o  A i s b d t s)S]
+[DELETED: )T)B l p t " e i a r b s t a l t u o c b a i e o b a i l c o p c a o f o c n o p f p o s o a c i t o o c i n]
+[DELETED:  o f e s b r a a c m b s m o a o v m f c e p p b )S)S o o o i t n o e o)S)C)C)D)L)S)T a c o o e o t c m t i c a e r t l s a c)T)T l ( 1 a 1 r t c a]
+[DELETED:  a 1 A R 1 a ( a 1 R R]
+
+
+================================================================================
+
+Raw Text:
+CCRHB459 3645 6296
+CONFERENCE COMMITTEE REPORT
+HB 459 2026 Regular Session Mandie Landry
+June 1, 2026
+To the Honorable Speaker and Members of the House of Representatives and the Honorable
+President and Members of the Senate.
+Ladies and Gentlemen:
+We, the conferees appointed to confer over the disagreement between the two houses
+concerning House Bill No. 459 by Representative Mandie Landry, recommend the following
+concerning the Reengrossed bill:
+1. That the set of Senate Committee Amendments by the Senate Committee on Senate
+and Governmental Affairs (#4156) be rejected.
+2. That the following amendments to the Reengrossed bill be adopted:
+AMENDMENT NO. 1
+On page 1, delete line 2 and at the beginning of line 3, delete "to" and insert the following:
+"To amend and reenact R.S. 18:1463(A), (F), and (G), 1483(7)(a)(iii), (b)(ii),
+and (c)(ii), (8), (11)(a) and (d)(ii), and 1501.1(A)(1), to enact R.S. 18:1463(H) and
+(I) and 1483(33), and to repeal R.S. 18:1463(C)(5), 1491.7(B)(22), and
+1495.5(B)(21), relative to political campaigns; to provide for"
+AMENDMENT NO. 2
+On page 1, line 5, after "penalties;"delete the remainder of the line and insert the following:
+"to provide for campaign finance reporting requirements of persons other than
+candidates and committees; to provide relative to contributions and expenditures
+related to electioneering communications; to provide relative to coordinated
+expenditures; to provide for definitions; to provide for effectiveness; and to"
+AMENDMENT NO. 3
+On page 1, delete lines 8 and 9 and insert the following:
+"Section 1. R.S. 18:1463(A), (F), and (G), 1483(7)(a)(iii), (b)(ii), and (c)(ii),
+(8), (11)(a) and (d)(ii), and 1501.1(A)(1) are hereby amended and reenacted and R.S.
+18:1463(H) and (I) and 1483(33) are hereby enacted to read as follows:"
+AMENDMENT NO. 4
+On page 2, line 10, after "image" and before "that" delete "or likeness of a candidate" and
+insert a comma "," and insert "likeness, or voice of a candidate or elected official subject to
+recall"
+AMENDMENT NO. 5
+On page 2, delete lines 14 through 19 and insert the following:
+"communication that portrays a candidate or an elected official subject to recall and
+that is, through the use of artificial intelligence, created, altered, or digitally
+manipulated in a manner that would falsely appear to a reasonable observer to be an
+authentic record of the actual speech or conduct of a candidate or an elected official
+Page 1 of 9
+
+CCRHB459 3645 6296
+subject to recall and that would falsely appear to replace an individual's likeness with
+the likeness of a candidate or an elected official subject to recall without providing
+a clear and understandable disclosure on the electioneering communication that it
+was created using artificial intelligence. The form of the disclosure shall be consistent
+with the disclosure requirements of Subsection (E) of this Section."
+AMENDMENT NO. 6
+On page 2, delete lines 24 and 25 and at the beginning of line 26, change "(c)" to "(b)"
+AMENDMENT NO. 7
+On page 2, delete line 27 and insert the following:
+"G.F. For the purposes of this Section, the following terms have the
+following meanings: term "digital
+(1) "Digital material" means any
+AMENDMENT NO. 8
+On page 3, between lines 2 and 3, insert the following:
+"(2) "Electioneering communication" shall have the same meaning as
+provided in R.S. 18:1483."
+AMENDMENT NO. 9
+On page 3, line 3, after "Section" and before "shall" insert "with the intent to injure the
+reputation of a candidate or elected official subject to recall or to otherwise deceive a voter"
+AMENDMENT NO. 10
+On page 3, after line 5, insert the following:
+"I. The provisions of this Section shall not apply to a media entity that
+broadcasts a paid political announcement, advertisement, or electioneering
+communication in which the broadcaster has had no input in or control over the
+announcement, advertisement, or electioneering communication. As used in this
+Subsection, the term "media entity" includes the same entities as provided in R.S.
+18:1483(33).
+* * *
+§1483. Definitions
+As used in this Chapter, the following terms shall have the meanings given
+to each in this Section unless the context clearly indicates otherwise:
+* * *
+(7)(a) "Contribution", except as otherwise provided in this Chapter, means a
+gift, conveyance, payment, or deposit of money or anything of value, or the
+forgiveness of a loan or of a debt made to any of the following:
+* * *
+(iii) Any person for the purpose of funding an expenditure to influence the
+nomination or election of a person to public office, whether made before or after the
+an election.
+* * *
+(b) "Contribution" shall also include, without limitation:
+* * *
+(ii) Coordinated expenditures, which made for the purpose of supporting,
+opposing, or otherwise influencing the nomination or election of the candidate and
+shall be considered to be a contribution to such the candidate, the principal campaign
+committee, or the subsidiary committee thereof that, directly or through an agent,
+cooperated with, consulted with, or acted in concert with the creator or disseminator
+Page 2 of 9
+
+CCRHB459 3645 6296
+of or requested or suggested the creation or dissemination of the electioneering
+communication.
+* * *
+(c) "Contribution" shall not include:
+* * *
+(ii) Any dues or membership fees of any membership organization or
+corporation made by its members or stockholders, if such membership organization
+or corporation is not organized primarily for the purpose of supporting, opposing or
+otherwise influencing the nomination for election, or election, of any person to public
+office making expenditures for electioneering communications. However, any funds
+of such an organization or corporation used for the purpose of contributions to
+candidates or committees or to publicly advocate support or defeat of a candidate or
+for expenditures as defined in this Chapter expenditures for electioneering
+communications shall be reportable and all contributions made by such membership
+organization or corporation which are otherwise reportable under the provisions of
+this Chapter shall be reported.
+* * *
+(8) "Coordinated expenditure" means an expenditure made by any person in
+cooperation, consultation, or concert with, or at the request or suggestion of, a
+candidate, his principal campaign committee or a subsidiary committee thereof, or
+their agents for the purpose of supporting, opposing, or otherwise influencing the
+nomination or election of the candidate of expenditures for electioneering
+communications.
+* * *
+(11)(a) "Expenditure" means a purchase, payment, advance, deposit, or gift,
+of money or anything of value made for a purpose provided for in R.S. 18:1501.1(A)
+or 1505.2(I) by a candidate or committee. For a person other than a candidate or
+committee, "expenditure" means a purchase, payment, advance, deposit, or gift, of
+money or anything of value made for an electioneering communication.
+* * *
+(d) "Expenditure" shall not include:
+* * *
+(ii) Any communication, including an electioneering communication, by any
+membership organization or business entity to its employees, members, directors, or
+stockholders, or their family members, if such membership organization or business
+entity is not organized primarily for the purpose of supporting, opposing, or
+otherwise influencing the nomination for election, or election, of any person to public
+office or for the purpose of supporting or opposing a proposition or question to be
+submitted to the voters making electioneering communications. All other
+expenditures made by such membership organization or business entity which are
+otherwise reportable under the provisions of this Chapter shall be reported. For
+purposes of this definition, business entity means any proprietorship, partnership,
+corporation, or other legal entity, including their subsidiaries.
+* * *
+(33)(a) "Electioneering communication" means any communication, whether
+printed, digital, or broadcast by a media entity, that meets either of the following:
+(i) Contains express advocacy supporting or opposing the nomination or
+election of a person to public office, the recall of a public official, or a proposition
+or question submitted to the voters.
+(ii) The only reasonable conclusion to be drawn from the presentation,
+content, and context of the communication is that it is intended to appeal for a vote
+in a specific election for or against a specific candidate or for or against the recall of
+a specific elected official or a proposition or for or against a question submitted to
+the voters. Consideration of the context of a communication shall include the
+temporal proximity to the specific election, whether the communication is primarily
+directed to voters in the specific election, and whether the communication is part of
+a larger campaign of communication regarding an issue other than the specific
+election.
+(b) For purposes of this Paragraph, "media entity" includes a radio broadcast
+station, television broadcast station, cable or satellite television company, or other
+video service provider, streaming video provider, newspaper company, periodical
+Page 3 of 9
+
+CCRHB459 3645 6296
+company, billboard company, advertisement agency, or media platform responsible
+for the production or publication of any advertisement, voice, data, or other
+communications, information services, or internet access provider, or bona fide news
+or public interest website operator.
+* * *
+§1501.1. Reports by persons not candidates or committees
+A.(1) Any person, other than a candidate or a committee, who makes any
+expenditure for express advocacy supporting or opposing the nomination or election
+of a person to public office, the recall of a public official, or a proposition or question
+submitted to the voters, or for a communication for which the only reasonable
+conclusion to be drawn from the presentation and content is that it is intended to
+appeal to vote for or against a specific candidate or for or against the recall of a
+specific elected official or a proposition or question submitted to the voters an
+electioneering communication shall file reports if such expenditures exceed one
+thousand dollars in the aggregate during the aggregating period as defined for
+committees.
+* * *
+Section 2. R.S. 18:1463(C)(5), 1491.7(B)(22), and 1495.5(B)(21) are hereby
+repealed.
+Section 3. The Louisiana State Law Institute is authorized and directed to
+arrange in alphabetical order and renumber definitions contained in R.S. 18:1483 and
+to correct any cross-references to the renumbered paragraphs if necessary, consistent
+with the provisions of this Act."
+Respectfully submitted,
+Representative Mandie Landry Senator Gregory A. Miller
+Representative Gerald "Beau" Beaullieu, IV Senator Royce Duplessis
+Representative John Wyble Senator Caleb Seth Kleinpeter
+Page 4 of 9
+
+CCRHB459 3645 6296
+DIGEST
+The digest printed below was prepared by House Legislative Services. It constitutes no part
+of the legislative instrument. The keyword, one-liner, abstract, and digest do not constitute
+part of the law or proof or indicia of legislative intent. [R.S. 1:13(B) and 24:177(E)]
+CONFERENCE COMMITTEE REPORT DIGEST
+HB 459 2026 Regular Session Mandie Landry
+Keyword and oneliner of the instrument as it left the House
+ELECTIONS/CANDIDATES: Provides relative to the use of artificial intelligence in
+political campaigns
+Report adopts Senate amendments to:
+1. Revise the definition of "electioneering communication".
+2. Limit campaign finance reporting requirements for reporters other than candidates
+or committees to apply only to expenditures for electioneering communications and
+contributions received for such expenditures.
+3. Limit campaign finance reporting requirements related to coordinated expenditures
+to apply only to such expenditures related to electioneering communications.
+4. Revise the prohibition against making an electioneering communication using
+artificial intelligence without including certain disclosures.
+5. Limit present law criminal penalties to apply only when a violation is committed with
+specific intent.
+Report rejects Senate amendments which would have:
+1. Changed the defined term "digital material" to "digital communication".
+2. Limited the reporting requirements of candidates.
+Report amends the bill to:
+1. Repeal a campaign finance reporting category associated with a provision authorizing
+expenditure reporting in lieu of including certain disclosures on certain campaign-
+related statements relative to a candidate.
+2. Make technical changes.
+Digest of the bill as proposed by the Conference Committee
+Disclosures on Electioneering Communications
+Present law (R.S. 18:1463) requires that certain electioneering communications and digital
+materials contain a disclosure of the person paying for the communication.
+Proposed law finds that it is essential to the protection of the electoral process that the public
+not be deceived or misled by an image, likeness, or voice of a candidate or an elected official
+subject to recall that is created using artificial intelligence, and therefore provides that no
+person shall make any electioneering communication that portrays a candidate or an elected
+official subject to recall and that is, through the use of artificial intelligence, created, altered,
+Page 5 of 9
+
+CCRHB459 3645 6296
+or digitally manipulated in a manner that would falsely appear to a reasonable observer to be
+an authentic record of the actual speech or conduct of a candidate or an elected official
+subject to recall and that would falsely appear to replace an individual's likeness with the
+likeness of a candidate or an elected official subject to recall without providing a clear and
+understandable disclosure on the electioneering communication that it was created using
+artificial intelligence.
+Proposed law provides that present law and proposed law do not apply to a media entity that
+broadcasts an electioneering communication in which the broadcaster has had no input in or
+control over the content of the electioneering communication that was, through the use of
+artificial intelligence, created, altered, or digitally manipulated in a manner that would falsely
+appear to a reasonable observer to be an authentic record of the actual speech or conduct of
+a candidate or an elected official subject to recall or that would falsely appear to replace an
+individual's likeness with the likeness of a candidate or an elected official subject to recall.
+Present law provides that whoever violates present law or proposed law shall be fined not
+more than $2,000 or be imprisoned, with or without hard labor, for not more than two years,
+or both.
+Proposed law limits present law penalties to apply only when a violation is committed with
+the intent to injure the reputation of a candidate or elected official subject to recall or to
+otherwise deceive a voter.
+Present law defines "digital material" as any material or communication that, for a fee, is
+placed or promoted on a public facing website, web application, or digital application,
+including a social network, advertising network, or search engine.
+Proposed law adds to the present law definition materials or communications placed or
+promoted for any payment other than a fee.
+Present law (R.S. 14:73.14) defines "artificial intelligence" as an artificial system developed
+in computer software, physical hardware, or other context that solves tasks requiring
+human-like perception, cognition, planning, learning, communication, or physical action.
+Proposed law retains present law and applies the same definition to proposed law.
+Present law defines "electioneering communication" as any broadcast, cable, or satellite
+communication that refers to a legally qualified candidate for elected office and is broadcast
+within 60 days before any election in which such candidate is on the ballot.
+Proposed law repeals present law and instead provides that "electioneering communication"
+means any communication, whether printed, broadcast by a media entity, or digital, that
+contains express advocacy supporting or opposing the nomination or election of a person to
+public office, the recall of a public official, or a proposition or question submitted to the
+voters, or the only reasonable conclusion to be drawn from the presentation, content, and
+context of the communication is that the communication is intended to appeal for a vote in
+a specific election for or against a specific candidate or for or against the recall of a specific
+elected official or a proposition or for or against a question submitted to the voters.
+Present law (R.S. 18:1483(3)) defines "candidate" as a person who seeks nomination or
+election to public office, except the office of president or vice president of the United States,
+presidential elector, delegate to a political party convention, United States senator, United
+States congressman, or political party office. An individual shall be deemed to seek
+nomination or election to such office if the individual has done any of the following:
+(1) Since prior participation in an election, if any, received and accepted a contribution
+or made an expenditure, or has given his consent for any other person or committee
+to receive a contribution or make an expenditure with a view to influencing his
+nomination or election to office whether or not the specific public office for which
+he will be a candidate is known at the time the contribution is received or the
+expenditure is made.
+Page 6 of 9
+
+CCRHB459 3645 6296
+(2) Taken the action necessary under the laws of the state of La. to qualify himself for
+nomination or election to public office.
+(3) Been selected as a party nominee in accordance with present law (R.S. 18:410.6).
+Proposed law retains present law and applies the same definition to proposed law.
+Present law provides that "media entity" includes a radio broadcast station, television
+broadcast station, cable or satellite television company, or other video service provider,
+streaming video provider, newspaper company, periodical company, billboard company,
+advertisement agency, or media platform responsible for the production or publication of any
+advertisement, voice, data, or other communications, information services, or internet access
+provider, or bona fide news or public interest website operator.
+Proposed law retains present law.
+Campaign Finance Reporting
+Present law (Campaign Finance Disclosure Act) defines "contribution" as a gift, conveyance,
+payment, or deposit of money or anything of value, or the forgiveness of a loan or of a debt
+made to any person for the purpose of funding an expenditure to influence the nomination
+or election of a person to public office, whether made before or after the election.
+Proposed law instead defines "contribution" as a gift, conveyance, payment, or deposit of
+money or anything of value, or the forgiveness of a loan or of a debt made to any person for
+the purpose of funding an expenditure, whether made before or after the election.
+Present law authorizes the use of contributions by a political committee for coordinated
+expenditures and limits the use of contributions by an independent expenditure only
+committee as a coordinated expenditure and provides that "coordinated expenditure" means
+an expenditure made by any person in cooperation, consultation, or concert with, or at the
+request or suggestion of, a candidate, his principal campaign committee or a subsidiary
+committee thereof, or their agents for the purpose of supporting, opposing, or otherwise
+influencing the nomination or election of the candidate.
+Proposed law limits the definition of "coordinated expenditure" to apply only to expenditures
+made by an individual, leadership committee, or political committee and only for
+expenditures for electioneering communications.
+Present law provides that "contribution" includes coordinated expenditures made for the
+purpose of supporting, opposing, or otherwise influencing the nomination or election of the
+candidate and shall be considered to be a contribution to the candidate.
+Proposed law instead provides that "contribution" includes coordinated expenditures, which
+shall be considered to be a contribution to the candidate, the principal campaign committee,
+or the subsidiary committee thereof that, directly or through an agent, cooperated with,
+consulted with, or acted in concert with the creator or disseminator of or requested or
+suggested the creation or dissemination of an electioneering communication.
+Present law provides that "contribution" shall not include any dues or membership fees of
+any membership organization or corporation made by its members or stockholders, if such
+membership organization or corporation is not organized primarily for the purpose of
+supporting, opposing or otherwise influencing the nomination for election, or election, of
+any person to public office.
+Proposed law instead provides that "contribution" shall not include the dues or membership
+fees of such organizations and corporations if the organization or corporation is not
+organized primarily for the purpose of making electioneering communications.
+Present law provides that funds of such an organization or corporation used for the purpose
+of contributions to candidates or committees or to publicly advocate support or defeat of a
+Page 7 of 9
+
+CCRHB459 3645 6296
+candidate or for expenditures shall be reportable and all contributions made by such
+membership organization or corporation which are otherwise reportable shall be reported.
+Proposed law instead provides that funds of such an organization or corporation used for
+expenditures for electioneering communications shall be reportable.
+Present law provides that "expenditure" means a purchase, payment, advance, deposit, or gift
+of money or anything of value made for certain enumerated permitted purposes by a
+candidate or committee, including, among others, the following:
+(1) Supporting or opposing a proposition or question submitted to the voters.
+(2) Supporting, opposing or otherwise influencing the nomination or election of
+candidate for election to a public office.
+(3) Supporting or opposing the recall of a public officer.
+(4) Contributions to a gubernatorial transition and inauguration.
+(5) Contributions to an independent expenditure-only committee.
+(6) Donations to an organization exempt from federal income tax under Section 501 of
+the Internal Revenue Code.
+(7) Lobbying.
+(8) Social and issue advocacy.
+(9) The administrative costs or operating expenses of the committee making the
+expenditure, including costs and expense related to legal services and costs,
+accounting services, and fundraising.
+(10) The holding of public office or party position.
+(11) The payment of fines, fees, or penalties.
+Proposed law instead provides that "expenditure" means a purchase, payment, advance,
+deposit, or gift, of money or anything of value made by a candidate or committee, without
+limitation on purpose; or by any person, for electioneering communications.
+Present law requires the disclosure of "expenditures" made in excess of a certain amount.
+Proposed law retains present law and applies the proposed law definition of "expenditures"
+to present law.
+Present law requires that "other reporters" who are not candidates or committees, who make
+any expenditure in excess of $1,000 for express advocacy supporting or opposing the
+nomination or election of a person to public office, the recall of a public official, or a
+proposition or question submitted to the voters, or for a communication for which the only
+reasonable conclusion to be drawn from the presentation and content is that it is intended
+to appeal to vote for or against a specific candidate or for or against the recall of a specific
+elected official or a proposition or question submitted to the voters, file campaign finance
+reports.
+Proposed law instead requires that "other reporters" who make any expenditure in excess of
+$1,000 for an electioneering communication, only, file campaign finance reports.
+Present law (R.S. 18:1491.7(B)(22) and 1495.5(B)(21)) requires that candidates and
+committees include in each report the total amount of expenditures during the reporting
+period made in relation to the publication, distribution, transportation, or transmission of
+statements relative to candidates which do not fully include certain required disclosures.
+Page 8 of 9
+
+CCRHB459 3645 6296
+Proposed law repeals present law.
+(Amends R.S. 18:1463(A), (F), and (G), 1483(7)(a)(iii), (b)(ii), and (c)(ii), (8), (11)(a) and
+(d)(ii), and 1501.1(A)(1); Adds R.S. 18:1463(H) and (I) and 1483(33); Repeals R.S.
+18:1463(C)(5), 1491.7(B)(22), and 1495.5(B)(21))
+Page 9 of 9
+
+[DELETED: 92nM.T.T a 1 a t r R 1 1 a p f c f r r o p o t t e c t p r t c i t t u o a i c a o d]
+[DELETED:   F t p o t S t f t h t  " c s h t s m a a p p a a o e c p o d o m o a o v o t]
+[DELETED:  A d o m f o a m o o e a d i t C e f e o e o t c o e f e i n o p f t p o s o o t t v m e c A o T o r c t b d f t p v C o t c o a c s i t]
+[DELETED:  t p o p o a a v d o o d i t a d t a p a d fySVSeS]
+[DELETED: 92nM   r t u o a.R.L.L.R t p a m a e c u.L.C.L.R.M]
+[DELETED:  c s p h o o c t s t r c o p p o  A i s b d t s)S]
+[DELETED: )T)B l p t " e i a r b s t a l t u o c b a i e o b a i l c o p c a o f o c n o p f p o s o a c i t o o c i n]
+[DELETED:  o f e s b r a a c m b s m o a o v m f c e p p b )S)S o o o i t n o e o)S)C)C)D)L)S)T a c o o e o t c m t i c a e r t l s a c)T)T l ( 1 a 1 r t c a]
+[DELETED:  a 1 A R 1 a ( a 1 R R]

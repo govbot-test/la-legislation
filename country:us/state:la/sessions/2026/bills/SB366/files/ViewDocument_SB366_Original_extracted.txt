@@ -1,0 +1,438 @@
+Title: SENATE BILL NO. 366
+Official Title: SENATE BILL NO. 366
+Number of Sections: 2
+Source: versions - SB366 Original
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+SLS 26RS-570 ORIGINAL
+2026 Regular Session
+BY SENATOR HARRIS
+MALPRACTICE. Provides relative to the Medical Malpractice Act. (8/1/26)
+1 AN ACT
+2 To amend and reenact R.S. 40:1231.2(B)(1) and (2) and (D)(5), 1231.3(A)(1), (2), and (3),
+3 and 1231.8(A)(1)(a) and (B)(1)(a)(i), to enact R.S. 40:1231.3(B)(3) and (4), and to
+4 repeal R.S. 40:1231.3(G) and (H), relative to medical malpractice; to provide for
+5 limitation of liability for medical malpractice; to provide relative to the amount of
+6 recovery; to provide for future medical care and related benefits; to provide relative
+7 to the patient's compensation fund and medical review panel; to provide for
+8 procedures; to provide relative to prescription; and to provide for related matters.
+9 Be it enacted by the Legislature of Louisiana:
+10 Section 1. R.S. 40:1231.2(B)(1) and (2) and (D)(5), 1231.3(A)(1), (2), and (3), and
+11 1231.8(A)(1)(a) and (B)(1)(a)(i) are hereby amended and reenacted and R.S.
+12 40:1231.3(B)(3) and (4) are hereby enacted to read as follows:
+13 §1231.2. Limitation of recovery
+14 * * *
+15 B.(1) The total amount recoverable for all malpractice claims for injuries to
+16 or death of a patient, exclusive of future medical care and related benefits as
+17 provided in R.S. 40:1231.3, economic loss including loss of income or earning
+Page 1 of 6
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+SLS 26RS-570 ORIGINAL
+SB NO. 366
+1 capacity and past or future medical expenses, shall not exceed five hundred
+2 thousand one million dollars plus interest and cost. This limitation shall be
+3 adjusted annually for inflation by a percentage increase equal to the change in
+4 the Consumer Price Index published by the United States Bureau of Labor
+5 Statistics for the preceding year.
+6 (2) A health care healthcare provider qualified under this Part is not liable
+7 for an amount in excess of one hundred two hundred fifty thousand dollars plus
+8 interest thereon accruing after April 1, 1991, and costs specifically provided for by
+9 this Paragraph for all malpractice claims because of injuries to or death of any one
+10 patient. The sole cost for which a health care healthcare provider qualified under
+11 this Part may be assessed by a trial court shall be limited to the cost incurred prior
+12 to the rendering of a final judgment against the health care healthcare provider, not
+13 as a nominal defendant, after a trial on a malpractice claim, including but not limited
+14 to, costs assessed pursuant to Code of Civil Procedure Article 970 in any instance
+15 where the board was not the offeror or offeree of the proposed settlement amount.
+16 The health care healthcare provider shall not be assessed costs in any action in
+17 which the fund intervenes or the health care healthcare provider is a nominal
+18 defendant after there has been a settlement between the health care healthcare
+19 provider and the claimant. This limitation shall be adjusted annually for inflation
+20 by a percentage increase equal to the change in the Consumer Price Index
+21 published by the United States Bureau of Labor Statistics for the preceding
+22 year.
+23 * * *
+24 D. * * *
+25 (5) In the event that a partial settlement is executed between the defendant
+26 and/or or his insurer, or both, with a plaintiff for the sum of one hundred thousand
+27 dollars or less equal to the limitation provided by Paragraph (B)(2) of this
+28 Section, written notice of such settlement shall promptly be sent to the board by the
+29 defendant or his insurer. Such settlement shall not bar the continuation of the
+Page 2 of 6
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+SLS 26RS-570 ORIGINAL
+SB NO. 366
+1 action against the patient's compensation fund for excess sums in which event the
+2 court sha1l reduce any judgment to the plaintiff in the amount of malpractice liability
+3 insurance in force as provided for in R.S. 40:1231.2(B)(2) damages in excess of the
+4 partial settlement, but any subsequent judgment awarded to the claimant shall
+5 be reduced by the court in an amount equivalent to the partial settlement.
+6 * * *
+7 §1231.3. Future medical care and related benefits
+8 A.(1) In all malpractice claims filed with the board which proceed to trial, the
+9 court or jury shall be given a special interrogatory asking if the patient is in need of
+10 future medical care and related benefits that will be incurred after the date of the
+11 response to the special interrogatory, and required to make a specific finding of
+12 fact regarding the amount, if any, of future medical expenses and related
+13 benefits that are due the claimant after the date of the conclusion of the trial,
+14 and if so, the amount thereof.
+15 (2) In actions upon malpractice claims tried by the court, the court's finding
+16 shall include a recitation that the patient is or is not in need of future medical care
+17 and related benefits that will be incurred after the date of the court's finding and the
+18 amount thereof If the award pursuant to Paragraph (1) of this Subsection,
+19 together with all other recoverable elements of damage awarded, does not
+20 exceed one million dollars, as adjusted for inflation as provided by R.S.
+21 40:1231.2(B)(1), the full amount awarded shall be due and payable to the
+22 patient without regard to this Section as any other element of damage.
+23 (3)(a) If the total amount is for the maximum amount recoverable, exclusive
+24 of the value of future medical care and related benefits that will be incurred after the
+25 date of the response to the special interrogatory by the jury or the court's finding, the
+26 cost of all future medical care and related benefits that will be incurred after the date
+27 of the response to the special interrogatory by the jury or the court's finding shall be
+28 paid in accordance with R.S. 40:1231.3(C). If the court or jury award pursuant
+29 to Paragraph (1) of this Subsection, together with all other recoverable elements
+Page 3 of 6
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+SLS 26RS-570 ORIGINAL
+SB NO. 366
+1 of damage awarded, exceeds one million dollars, as adjusted for inflation as
+2 provided by R.S. 40:1231.2(B)(1), the court shall make a determination whether
+3 it is in the best interest of the patient for the excess of the award to be payable
+4 to the claimant by the Patient's Compensation Fund without regard to this
+5 Section as any other element of damage, or should be held in trust with the
+6 Patient's Compensation Fund to be paid as reimbursement to the patient for
+7 future medical expenses and related benefits as incurred, or by direct payment
+8 to the provider, at the option of the patient.
+9 (b) The court shall make such determination at a post-trial hearing at
+10 which time all affected parties shall have the opportunity to present evidence
+11 and to be heard before the determination is made by the court. The court shall
+12 then render a final judgment with written reasons.
+13 (c) In support of the judgment, the court shall consider the competence
+14 of the patient and his family in managing the medical care and related benefits
+15 of the patient, including the creation of a special needs trust fund, annuities for
+16 future maintenance and support and other means of structuring the award that
+17 assures the patient or his family can manage the patient's future needs without
+18 the necessity of the Patient's Compensation Fund.
+19 * * *
+20 B. * * *
+21 (3) "Future medical care and benefits" as used in this Section shall
+22 include the payment of custodial care at fair and reasonable market value of
+23 such services in the parish in which the patient customarily resides.
+24 (4) The necessity of future medical care to be paid or reimbursed to the
+25 patient under this Section, including the nature of any therapy to be afforded
+26 to the patient, shall be deemed reasonable if it is prescribed by a duly licensed
+27 physician in the state of Louisiana or of any other state where the patient
+28 customarily resides.
+29 * * *
+Page 4 of 6
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+SLS 26RS-570 ORIGINAL
+SB NO. 366
+1 §1231.8. Medical review panel
+2 A.(1)(a) All malpractice claims against health care providers covered by this
+3 Part, other than claims validly agreed for submission to a lawfully binding arbitration
+4 procedure, shall may be reviewed by a medical review panel established as
+5 hereinafter provided for in this Section. The filing of a request for review by a
+6 medical review panel as provided for in this Section shall not be reportable by any
+7 health care healthcare provider, the Louisiana Patient's Compensation Fund, or any
+8 other entity to the Louisiana State Board of Medical Examiners, to any licensing
+9 authority, committee, or board of any other state, or to any credentialing or similar
+10 agency, committee, or board of any clinic, hospital, health insurer, or managed care
+11 company.
+12 * * *
+13 B.(1)(a)(i) No action against a health care healthcare provider covered by
+14 this Part, or his insurer, may be commenced in any court before the claimant's
+15 proposed complaint has been presented to a medical review panel established
+16 pursuant to this Section or, alternatively, an affidavit by a board certified medical
+17 doctor, holding a valid and unrestricted license to practice in his specialty in the
+18 state in which he resides or practices, certifies that adequate medical records of
+19 the patient have been provided and reviewed by him, the records are sufficient
+20 for him to state that the allegations of malpractice against each defendant
+21 healthcare provider named in the petition constitute a breach of the standard
+22 of care, and that the breach caused or contributed to injury or death of the
+23 patient. The affidavit shall be notarized by a suitable authority for the state in
+24 which the medical doctor resides or practices and filed contemporaneously with
+25 the petition in the record of the district court in which the action is filed. If
+26 subsequent to the filing of the petition, additional healthcare providers are
+27 named as defendants, one of the alternative procedures required by this
+28 Subsection shall be followed for the new parties. The prescriptive period for
+29 actions initiated by affidavit shall be as provided by Civil Code Article 3493.1,
+Page 5 of 6
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+SLS 26RS-570 ORIGINAL
+SB NO. 366
+1 provided that any action against a healthcare provider subject to this Part, even
+2 as to claims filed within two years from the date of discovery, shall in all events
+3 be filed at the latest within a period of three years from the date of the alleged
+4 act, omission, or neglect.
+5 * * *
+6 Section 2. R.S. 40:1231.3(G) and (H) are hereby repealed in their entirety.
+The original instrument and the following digest, which constitutes no part
+of the legislative instrument, were prepared by Senate Legislative Services.
+The keyword, summary, and digest do not constitute part of the law or proof
+or indicia of legislative intent. [R.S. 1:13(B) and 24:177(E)]
+DIGEST
+SB 366 Original 2026 Regular Session Harris
+Present law provides that the maximum amount recoverable for a claim is $500,000 plus
+interest and cost.
+Proposed law raises the amount recoverable per claim to $1,000,000 plus interest and cost
+and excludes economic damages.
+Present law allows a qualified healthcare provider to be liable for up to $100,000 in damages
+plus interest and costs.
+Proposed law raises a qualified healthcare provider's potential liability from $100,000 plus
+interest and costs to $250,000 plus interest and costs.
+Proposed law requires a court or fact finder to find a specific amount of future medical
+expenses and related benefits for a claimant.
+Proposed law allows a court, after determining that a total award exceeds the $1,000,000
+cap, to hold excess damages in a trust with the Patient Compensation Fund to be paid in
+reimbursement to a patient or to his provider for future medical care.
+Proposed law defines future medical care and benefits.
+Proposed law changes the present law requirement that all medical malpractice claims
+against healthcare providers be heard by a medical review panel, and offers a claimant an
+alternative to initiate a claim through an affidavit by a board certified doctor. The affidavit
+shall certify that the doctor has reviewed the necessary records and that there was a breach
+of the standard of care which caused or contributed to the injury or death of a patient.
+Proposed law provides a prescriptive period for actions initiated by the affidavit process.
+Effective August 1, 2026.
+(Amends R.S. 40:1231.2(B)(1) and (2) and (D)(5), 1231.3(A)(1), (2), and (3), and
+
+Section 2:
+1231.8(A)(1)(a) and (B)(1)(a)(i); adds R.S. 40:1231.3(B)(3) and (4); repeals R.S.
+40:1231.3(G) and (H))
+Page 6 of 6
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+[DELETED: 0OATarlrt t p c f a m r p t p fpB0S11 a ( a h a a r a R243§4*5B6o d o a p e o f m c a r b a7p]
+[DELETED: 0Oct o m d p i a c T l s batS(fit0p1t2t3a4t5w6T7w p8d9p0b1p2y3*4D.*5(6a7d8S9d]
+[DELETED: 0Oacipb*§Ac0f1r2f r t a i a o f m e a r3b4a5(6s7a8a t a p t P ( o t S9t r0e o m d a a f i a p b R14 f a a s b d a p t t2p3(4o5d6c7o8p9t]
+[DELETED: 0OopitSPft(0w1a2t3(4o5o6f7a8t9*0B.*1(2i3s4(5p6t7p8c9*]
+[DELETED: 0O§APp s m b r b a m r p e ahmhoa0a1c2*3B4t5p c h b p t a m r p e6p7d8s9t0f1h2o3p4w5t6s7n a d o o t a p r b t8S9a]
+[DELETED: 0Opaba*Sl2nH R 4 a ( a ( 1 ( a ( a a ( a R 4 a ( r R]
+
+
+================================================================================
+
+Raw Text:
+SLS 26RS-570 ORIGINAL
+2026 Regular Session
+SENATE BILL NO. 366
+BY SENATOR HARRIS
+MALPRACTICE. Provides relative to the Medical Malpractice Act. (8/1/26)
+1 AN ACT
+2 To amend and reenact R.S. 40:1231.2(B)(1) and (2) and (D)(5), 1231.3(A)(1), (2), and (3),
+3 and 1231.8(A)(1)(a) and (B)(1)(a)(i), to enact R.S. 40:1231.3(B)(3) and (4), and to
+4 repeal R.S. 40:1231.3(G) and (H), relative to medical malpractice; to provide for
+5 limitation of liability for medical malpractice; to provide relative to the amount of
+6 recovery; to provide for future medical care and related benefits; to provide relative
+7 to the patient's compensation fund and medical review panel; to provide for
+8 procedures; to provide relative to prescription; and to provide for related matters.
+9 Be it enacted by the Legislature of Louisiana:
+10 Section 1. R.S. 40:1231.2(B)(1) and (2) and (D)(5), 1231.3(A)(1), (2), and (3), and
+11 1231.8(A)(1)(a) and (B)(1)(a)(i) are hereby amended and reenacted and R.S.
+12 40:1231.3(B)(3) and (4) are hereby enacted to read as follows:
+13 §1231.2. Limitation of recovery
+14 * * *
+15 B.(1) The total amount recoverable for all malpractice claims for injuries to
+16 or death of a patient, exclusive of future medical care and related benefits as
+17 provided in R.S. 40:1231.3, economic loss including loss of income or earning
+Page 1 of 6
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-570 ORIGINAL
+SB NO. 366
+1 capacity and past or future medical expenses, shall not exceed five hundred
+2 thousand one million dollars plus interest and cost. This limitation shall be
+3 adjusted annually for inflation by a percentage increase equal to the change in
+4 the Consumer Price Index published by the United States Bureau of Labor
+5 Statistics for the preceding year.
+6 (2) A health care healthcare provider qualified under this Part is not liable
+7 for an amount in excess of one hundred two hundred fifty thousand dollars plus
+8 interest thereon accruing after April 1, 1991, and costs specifically provided for by
+9 this Paragraph for all malpractice claims because of injuries to or death of any one
+10 patient. The sole cost for which a health care healthcare provider qualified under
+11 this Part may be assessed by a trial court shall be limited to the cost incurred prior
+12 to the rendering of a final judgment against the health care healthcare provider, not
+13 as a nominal defendant, after a trial on a malpractice claim, including but not limited
+14 to, costs assessed pursuant to Code of Civil Procedure Article 970 in any instance
+15 where the board was not the offeror or offeree of the proposed settlement amount.
+16 The health care healthcare provider shall not be assessed costs in any action in
+17 which the fund intervenes or the health care healthcare provider is a nominal
+18 defendant after there has been a settlement between the health care healthcare
+19 provider and the claimant. This limitation shall be adjusted annually for inflation
+20 by a percentage increase equal to the change in the Consumer Price Index
+21 published by the United States Bureau of Labor Statistics for the preceding
+22 year.
+23 * * *
+24 D. * * *
+25 (5) In the event that a partial settlement is executed between the defendant
+26 and/or or his insurer, or both, with a plaintiff for the sum of one hundred thousand
+27 dollars or less equal to the limitation provided by Paragraph (B)(2) of this
+28 Section, written notice of such settlement shall promptly be sent to the board by the
+29 defendant or his insurer. Such settlement shall not bar the continuation of the
+Page 2 of 6
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-570 ORIGINAL
+SB NO. 366
+1 action against the patient's compensation fund for excess sums in which event the
+2 court sha1l reduce any judgment to the plaintiff in the amount of malpractice liability
+3 insurance in force as provided for in R.S. 40:1231.2(B)(2) damages in excess of the
+4 partial settlement, but any subsequent judgment awarded to the claimant shall
+5 be reduced by the court in an amount equivalent to the partial settlement.
+6 * * *
+7 §1231.3. Future medical care and related benefits
+8 A.(1) In all malpractice claims filed with the board which proceed to trial, the
+9 court or jury shall be given a special interrogatory asking if the patient is in need of
+10 future medical care and related benefits that will be incurred after the date of the
+11 response to the special interrogatory, and required to make a specific finding of
+12 fact regarding the amount, if any, of future medical expenses and related
+13 benefits that are due the claimant after the date of the conclusion of the trial,
+14 and if so, the amount thereof.
+15 (2) In actions upon malpractice claims tried by the court, the court's finding
+16 shall include a recitation that the patient is or is not in need of future medical care
+17 and related benefits that will be incurred after the date of the court's finding and the
+18 amount thereof If the award pursuant to Paragraph (1) of this Subsection,
+19 together with all other recoverable elements of damage awarded, does not
+20 exceed one million dollars, as adjusted for inflation as provided by R.S.
+21 40:1231.2(B)(1), the full amount awarded shall be due and payable to the
+22 patient without regard to this Section as any other element of damage.
+23 (3)(a) If the total amount is for the maximum amount recoverable, exclusive
+24 of the value of future medical care and related benefits that will be incurred after the
+25 date of the response to the special interrogatory by the jury or the court's finding, the
+26 cost of all future medical care and related benefits that will be incurred after the date
+27 of the response to the special interrogatory by the jury or the court's finding shall be
+28 paid in accordance with R.S. 40:1231.3(C). If the court or jury award pursuant
+29 to Paragraph (1) of this Subsection, together with all other recoverable elements
+Page 3 of 6
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-570 ORIGINAL
+SB NO. 366
+1 of damage awarded, exceeds one million dollars, as adjusted for inflation as
+2 provided by R.S. 40:1231.2(B)(1), the court shall make a determination whether
+3 it is in the best interest of the patient for the excess of the award to be payable
+4 to the claimant by the Patient's Compensation Fund without regard to this
+5 Section as any other element of damage, or should be held in trust with the
+6 Patient's Compensation Fund to be paid as reimbursement to the patient for
+7 future medical expenses and related benefits as incurred, or by direct payment
+8 to the provider, at the option of the patient.
+9 (b) The court shall make such determination at a post-trial hearing at
+10 which time all affected parties shall have the opportunity to present evidence
+11 and to be heard before the determination is made by the court. The court shall
+12 then render a final judgment with written reasons.
+13 (c) In support of the judgment, the court shall consider the competence
+14 of the patient and his family in managing the medical care and related benefits
+15 of the patient, including the creation of a special needs trust fund, annuities for
+16 future maintenance and support and other means of structuring the award that
+17 assures the patient or his family can manage the patient's future needs without
+18 the necessity of the Patient's Compensation Fund.
+19 * * *
+20 B. * * *
+21 (3) "Future medical care and benefits" as used in this Section shall
+22 include the payment of custodial care at fair and reasonable market value of
+23 such services in the parish in which the patient customarily resides.
+24 (4) The necessity of future medical care to be paid or reimbursed to the
+25 patient under this Section, including the nature of any therapy to be afforded
+26 to the patient, shall be deemed reasonable if it is prescribed by a duly licensed
+27 physician in the state of Louisiana or of any other state where the patient
+28 customarily resides.
+29 * * *
+Page 4 of 6
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-570 ORIGINAL
+SB NO. 366
+1 §1231.8. Medical review panel
+2 A.(1)(a) All malpractice claims against health care providers covered by this
+3 Part, other than claims validly agreed for submission to a lawfully binding arbitration
+4 procedure, shall may be reviewed by a medical review panel established as
+5 hereinafter provided for in this Section. The filing of a request for review by a
+6 medical review panel as provided for in this Section shall not be reportable by any
+7 health care healthcare provider, the Louisiana Patient's Compensation Fund, or any
+8 other entity to the Louisiana State Board of Medical Examiners, to any licensing
+9 authority, committee, or board of any other state, or to any credentialing or similar
+10 agency, committee, or board of any clinic, hospital, health insurer, or managed care
+11 company.
+12 * * *
+13 B.(1)(a)(i) No action against a health care healthcare provider covered by
+14 this Part, or his insurer, may be commenced in any court before the claimant's
+15 proposed complaint has been presented to a medical review panel established
+16 pursuant to this Section or, alternatively, an affidavit by a board certified medical
+17 doctor, holding a valid and unrestricted license to practice in his specialty in the
+18 state in which he resides or practices, certifies that adequate medical records of
+19 the patient have been provided and reviewed by him, the records are sufficient
+20 for him to state that the allegations of malpractice against each defendant
+21 healthcare provider named in the petition constitute a breach of the standard
+22 of care, and that the breach caused or contributed to injury or death of the
+23 patient. The affidavit shall be notarized by a suitable authority for the state in
+24 which the medical doctor resides or practices and filed contemporaneously with
+25 the petition in the record of the district court in which the action is filed. If
+26 subsequent to the filing of the petition, additional healthcare providers are
+27 named as defendants, one of the alternative procedures required by this
+28 Subsection shall be followed for the new parties. The prescriptive period for
+29 actions initiated by affidavit shall be as provided by Civil Code Article 3493.1,
+Page 5 of 6
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-570 ORIGINAL
+SB NO. 366
+1 provided that any action against a healthcare provider subject to this Part, even
+2 as to claims filed within two years from the date of discovery, shall in all events
+3 be filed at the latest within a period of three years from the date of the alleged
+4 act, omission, or neglect.
+5 * * *
+6 Section 2. R.S. 40:1231.3(G) and (H) are hereby repealed in their entirety.
+The original instrument and the following digest, which constitutes no part
+of the legislative instrument, were prepared by Senate Legislative Services.
+The keyword, summary, and digest do not constitute part of the law or proof
+or indicia of legislative intent. [R.S. 1:13(B) and 24:177(E)]
+DIGEST
+SB 366 Original 2026 Regular Session Harris
+Present law provides that the maximum amount recoverable for a claim is $500,000 plus
+interest and cost.
+Proposed law raises the amount recoverable per claim to $1,000,000 plus interest and cost
+and excludes economic damages.
+Present law allows a qualified healthcare provider to be liable for up to $100,000 in damages
+plus interest and costs.
+Proposed law raises a qualified healthcare provider's potential liability from $100,000 plus
+interest and costs to $250,000 plus interest and costs.
+Proposed law requires a court or fact finder to find a specific amount of future medical
+expenses and related benefits for a claimant.
+Proposed law allows a court, after determining that a total award exceeds the $1,000,000
+cap, to hold excess damages in a trust with the Patient Compensation Fund to be paid in
+reimbursement to a patient or to his provider for future medical care.
+Proposed law defines future medical care and benefits.
+Proposed law changes the present law requirement that all medical malpractice claims
+against healthcare providers be heard by a medical review panel, and offers a claimant an
+alternative to initiate a claim through an affidavit by a board certified doctor. The affidavit
+shall certify that the doctor has reviewed the necessary records and that there was a breach
+of the standard of care which caused or contributed to the injury or death of a patient.
+Proposed law provides a prescriptive period for actions initiated by the affidavit process.
+Effective August 1, 2026.
+(Amends R.S. 40:1231.2(B)(1) and (2) and (D)(5), 1231.3(A)(1), (2), and (3), and
+1231.8(A)(1)(a) and (B)(1)(a)(i); adds R.S. 40:1231.3(B)(3) and (4); repeals R.S.
+40:1231.3(G) and (H))
+Page 6 of 6
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+[DELETED: 0OATarlrt t p c f a m r p t p fpB0S11 a ( a h a a r a R243§4*5B6o d o a p e o f m c a r b a7p]
+[DELETED: 0Oct o m d p i a c T l s batS(fit0p1t2t3a4t5w6T7w p8d9p0b1p2y3*4D.*5(6a7d8S9d]
+[DELETED: 0Oacipb*§Ac0f1r2f r t a i a o f m e a r3b4a5(6s7a8a t a p t P ( o t S9t r0e o m d a a f i a p b R14 f a a s b d a p t t2p3(4o5d6c7o8p9t]
+[DELETED: 0OopitSPft(0w1a2t3(4o5o6f7a8t9*0B.*1(2i3s4(5p6t7p8c9*]
+[DELETED: 0O§APp s m b r b a m r p e ahmhoa0a1c2*3B4t5p c h b p t a m r p e6p7d8s9t0f1h2o3p4w5t6s7n a d o o t a p r b t8S9a]
+[DELETED: 0Opaba*Sl2nH R 4 a ( a ( 1 ( a ( a a ( a R 4 a ( r R]

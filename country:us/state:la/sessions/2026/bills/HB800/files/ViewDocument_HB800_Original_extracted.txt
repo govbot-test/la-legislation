@@ -1,0 +1,562 @@
+Title: HOUSE BILL NO. 800
+Official Title: HOUSE BILL NO. 800
+Number of Sections: 1
+Source: versions - HB800 Original
+Media Type: application/pdf
+Strikethrough Detection: 8 sections found
+
+================================================================================
+
+Section 1:
+HLS 26RS-1056 ORIGINAL
+2026 Regular Session
+BY REPRESENTATIVES KNOX AND LARVADAIN
+CONSUMERS/FOOD-BEVERAGES: Provides with respect to consumer protection
+regarding the pricing of groceries
+1 AN ACT
+2 To enact Chapter 70 of Title 51 of the Louisiana Revised Statutes of 1950, to be comprised
+3 of R.S. 51:3301 through 3308, relative to consumer protection for grocery pricing;
+4 to provide for definitions; to provide for prohibited conduct; to provide for liability
+5 of mandataries; to provide for defenses; to provide for exemptions to liability; to
+6 provide for enforcement and penalties; to provide for rules of construction; to
+7 provide an effective date; and to provide for related matters.
+8 Be it enacted by the Legislature of Louisiana:
+9 Section 1. Chapter 70 of Title 51 of the Louisiana Revised Statutes of 1950,
+10 comprised of R.S. 51:3301 through 330, is hereby enacted to read as follows:
+11 CHAPTER 70. MAKE AFFORDABLE GROCERIES AGAIN ACT
+12 §3301. Short title
+13 This Chapter shall be known and may be cited as the "Make Affordable
+14 Groceries Again Act".
+15 §3302. Definitions
+16 As used in this Chapter, the following terms have the meanings ascribed to
+17 them in this Section, unless the context clearly indicates otherwise:
+18 (1) "Channels of trade" means the distinct and diverse pathways through
+19 which covered goods are marketed, distributed, and sold to consumers in the United
+20 States, including traditional supermarkets, hypermarkets, discount stores,
+Page 1 of 8
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-1056 ORIGINAL
+HB NO. 800
+1 convenience stores, online or e-commerce retailers, specialty food stores, mass
+2 merchandisers, wholesale clubs, and any other retail establishments, platforms, or
+3 entities that engage in the sale of covered goods, either primarily or as a segment of
+4 their broader retail offering, and compete for consumer grocery dollars.
+5 (2) "Covered goods" means a grocery item, including any item described in
+6 Paragraph (1) or (2) of the definition of eligible foods under 7 CFR 271.2, or a
+7 consumer-packaged good. "Covered goods" does not include gasoline, prescription
+8 drugs, tobacco, or alcoholic beverages.
+9 (3) "Covered retailer" means a person that sells covered goods to end
+10 purchasers at one or more physical locations in this state.
+11 (4) "Covered supplier" means a person that satisfies all of the following:
+12 (a) Produces and sells covered goods in this state.
+13 (b) Sells, directly or through an agent or any third party with which the
+14 covered supplier contracts, covered goods produced or manufactured by the person,
+15 directly or through an agent or any third party with which the covered supplier
+16 contracts, to covered retailers or covered wholesalers in an aggregate amount
+17 exceeding six billion dollars, as adjusted each year by an amount equal to the
+18 percentage increase, if any, in the Consumer Price Index for All Urban Consumers
+19 published by the United States Department of Labor, per year.
+20 (5) "Covered wholesaler" means a person that purchases covered goods for
+21 the purpose of reselling or distributing them to covered retailers in this state.
+22 (6) "Dominant covered retailer" means a covered retailer that satisfies all of
+23 the following:
+24 (a) Has annual retail sales of covered goods in an aggregate amount
+25 exceeding eighteen billion dollars, as adjusted each year by an amount equal to the
+26 percentage increase, if any, in the Consumer Price Index for All Urban Consumers
+27 published by the United States Department of Labor.
+Page 2 of 8
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-1056 ORIGINAL
+HB NO. 800
+1 (b) Operates not less than one storefront or distribution center in more than
+2 twenty states, including this state, operated by the covered retailer, the covered
+3 retailer's parent company, or subsidiaries of the same parent company.
+4 (7) "Person" includes all of the following:
+5 (a) Each entity that a person owns or controls, in whole or in part.
+6 (b) Each entity that owns or controls the person, in whole or in part.
+7 (8) "Pricing differential" means, with respect to the volume unit basis of a
+8 covered good purchased by a covered retailer or covered wholesaler compared to the
+9 volume unit basis of a product purchased by a dominant covered retailer, either of
+10 the following:
+11 (a) The difference in price of the product multiplied by the quantity sold.
+12 (b) The difference in the price equivalent of the terms of sale of the product,
+13 discounted to present value if needed to account for any difference in payment terms,
+14 multiplied by the quantity sold.
+15 (9) "Same covered good" means, with respect to two different covered
+16 goods, a covered good and any other covered good sold under the same brand that
+17 differs only in quantity or packaging.
+18 (10) "Same terms of sale" means, with respect to two different agreements,
+19 terms of sale that are identical on a per unit basis, excluding shipping and delivery
+20 costs, which may vary on account of distance, speed, or method of shipping and
+21 delivery, or availability of self-distribution.
+22 (11) "Terms of sale" means all substantive terms and conditions of sale
+23 commonly subject to negotiation and competition, including price, discounts,
+24 rebates, delivery terms, payment terms, package size, promotional allowances,
+25 marketing devices, merchandising arrangements, terms of distribution, and any other
+26 similar terms, considered on a per unit basis as appropriate.
+27 (12) "Volume unit basis" means the base unit of measurement, not exceeding
+28 a truckload, by which purchase quantities are measured in purchase agreements
+29 between a covered supplier and a covered retailer or covered wholesaler.
+Page 3 of 8
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-1056 ORIGINAL
+HB NO. 800
+1 §3303. Ensuring price fairness; prohibited conduct
+2 A. A covered supplier shall not, directly or through an agent, fail to extend
+3 the same terms of sale of a covered good to all covered retailers and covered
+4 wholesalers that purchase the covered good on the same volume unit basis in
+5 reasonably contemporaneous sales.
+6 B. A covered supplier shall not fail to provide, within fourteen days of a
+7 written request from a covered retailer or covered wholesaler that has purchased a
+8 covered good or received an offer including terms of sale for a covered good from
+9 the covered supplier, directly or through an agent, the anonymized terms of sale from
+10 all contracts with dominant covered retailers that purchased the same covered good
+11 on the same volume unit basis during the one hundred eighty day period prior to the
+12 date on which the purchase or offer including terms of sale was made.
+13 C. A covered supplier shall not, directly or through an agent, refuse the sale
+14 of a covered good to a covered retailer or a covered wholesaler if all of the following
+15 conditions are met:
+16 (1) The covered retailer is not a dominant covered retailer.
+17 (2) The covered retailer or the covered wholesaler has made and completed
+18 payment for purchases from the covered supplier within the previous twelve months.
+19 (3) The covered retailer or the covered wholesaler has made a request of the
+20 covered supplier to provide to the retailer or wholesaler the same terms of sale
+21 provided to other covered retailers or covered wholesalers, consistent with the
+22 provisions of this Section.
+23 (4) The refusal by the covered supplier to sell a covered good to the covered
+24 retailer or covered wholesaler has no commercially reasonable justification.
+25 D. A dominant covered retailer, or its purchasing agent or any third party
+26 through which a dominant covered retailer contracts to purchase covered goods, shall
+27 not directly or indirectly take any action that the dominant covered retailer,
+28 purchasing agent, or third party intends, knows, or should know will coerce or induce
+29 a covered supplier to violate the provisions of this Section.
+Page 4 of 8
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-1056 ORIGINAL
+HB NO. 800
+1 §3304. Mandatary liability
+2 A covered supplier or dominant covered retailer, as applicable, is liable for
+3 any violation of R.S. 51:3303 by a contracted third party.
+4 §3305. Defenses
+5 A person alleged to have engaged in conduct prohibited by R.S. 51:3303 is
+6 not liable for the conduct upon showing, by a preponderance of the evidence, any of
+7 the following:
+8 (1) Any difference in the terms of sale was predominantly attributable to a
+9 covered retailer engaging in self-distribution of the covered good at issue or
+10 otherwise lowering the overall costs of the covered supplier through genuine
+11 efficiencies including but not limited to economies in distribution or manufacturing.
+12 (2) A covered retailer, in exchange for commercially reasonable
+13 consideration, voluntarily accepted terms of sale relating to a covered good that were
+14 not the same terms of sale as the terms of sale offered to another covered retailer.
+15 (3) The terms of sale applied only in cases in which there was an actual or
+16 imminent deterioration of perishable goods, obsolescence of seasonal goods, distress
+17 sales under court process, or sales in good faith in discontinuance of business in the
+18 goods concerned.
+19 §3306. Covered supplier immunity
+20 If a covered supplier did not collude with a dominant covered retailer in any
+21 scheme that violates the antitrust laws, a covered supplier is immune from liability
+22 for a violation of R.S. 51:3303 if the defendant covered supplier shows by a
+23 preponderance of the evidence all of the following:
+24 (1) The violation was imposed on or required of the defendant covered
+25 supplier by a dominant covered retailer.
+26 (2) The defendant covered supplier would have suffered substantial harm to
+27 its business if it had refused the demand of the dominant covered retailer.
+28 (3) The defendant covered supplier made a good faith effort to disclose the
+29 dominant covered retailer's conduct to the office of the attorney general.
+Page 5 of 8
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-1056 ORIGINAL
+HB NO. 800
+1 §3307. Enforcement
+2 The attorney general or a covered retailer, covered wholesaler, or covered
+3 supplier injured by a violation of this Chapter may file suit for any of the following:
+4 (1) An injunction to cure a violation of this Chapter.
+5 (2) A civil penalty or damages in an amount not greater than either of the
+6 following:
+7 (a) One and one-half times the actual damages.
+8 (b) The pricing differential suffered by a covered retailer or a covered
+9 wholesaler.
+10 (3) Both an injunction pursuant to Subsection (1) of this Section and a civil
+11 penalty or damages pursuant to Subsection (2) of this Section.
+12 §3308. Rules of construction
+13 A. As used in this Chapter, "antitrust laws":
+14 (1) Has the meaning given that term in Subsection (a) of the first section of
+15 the Clayton Act 15 U.S.C. 12(a).
+16 (2) Includes 15 U.S.C. 45 to the extent that Section 45 applies to unfair
+17 methods of competition.
+18 (3) Includes any Louisiana law similar to the laws described in Paragraphs
+19 (1) and (2) of this Subsection.
+20 B. Nothing in this Chapter shall be construed to limit, impair, or supersede
+21 any of the antitrust laws.
+22 Section 2. This Act shall become effective upon signature by the governor or, if not
+23 signed by the governor, upon expiration of the time for bills to become law without signature
+24 by the governor, as provided by Article III, Section 18 of the Constitution of Louisiana. If
+25 vetoed by the governor and subsequently approved by the legislature, this Act shall become
+26 effective on the day following such approval.
+Page 6 of 8
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-1056 ORIGINAL
+HB NO. 800
+DIGEST
+The digest printed below was prepared by House Legislative Services. It constitutes no part
+of the legislative instrument. The keyword, one-liner, abstract, and digest do not constitute
+part of the law or proof or indicia of legislative intent. [R.S. 1:13(B) and 24:177(E)]
+HB 800 Original 2026 Regular Session Knox
+Abstract: Regulates grocery pricing by providing that grocery suppliers shall offer the
+same terms of sale on a volume unit basis to all retailers and wholesalers, regardless
+of size, within the same relative time period.
+Proposed law provides for a short title.
+Proposed law defines "channels of trade", "covered goods", "covered retailer", "covered
+supplier", "covered wholesaler", "dominant covered retailer", "person", "pricing
+differential", "same covered good", "same terms of sale", "terms of sale", and "volume unit
+basis".
+Proposed law provides that a covered supplier shall not, directly or through an agent, fail to
+extend the same terms of sale of a covered good to all covered retailers and covered
+wholesalers that purchase the covered good on the same volume unit basis in reasonably
+contemporaneous sales.
+Proposed law provides that a covered supplier shall not fail to provide, within 14 days of a
+written request from a covered retailer or covered wholesaler that has purchased a covered
+good or received an offer including terms of sale for a covered good from the covered
+supplier, directly or through an agent, the anonymized terms of sale from all contracts with
+dominant covered retailers that purchased the same covered good on the same volume unit
+basis during the 180 day period prior to the date on which the purchase or offer including
+terms of sale was made.
+Proposed law provides that a covered supplier shall not, directly or through an agent, refuse
+the sale of a covered good to a covered retailer or a covered wholesaler if all of the following
+conditions are met:
+(1) The covered retailer is not a dominant covered retailer.
+(2) The covered retailer or the covered wholesaler has made and completed payment for
+purchases from the covered supplier within the previous twelve months.
+(3) The covered retailer or the covered wholesaler has made a request of the covered
+supplier to provide to the retailer or wholesaler the same terms of sale provided to
+other covered retailers or covered wholesalers, consistent with the provisions of
+proposed law.
+(4) The refusal by the covered supplier to sell a covered good to the covered retailer or
+covered wholesaler has no commercially reasonable justification.
+Proposed law provides that a dominant covered retailer, or its purchasing agent or any third
+party through which a dominant covered retailer contracts to purchase covered goods, shall
+not directly or indirectly take any action that the dominant covered retailer, purchasing
+agent, or third party intends, knows, or should know will coerce or induce a covered supplier
+to violate the provisions of proposed law.
+Proposed law provides for the liability of mandataries.
+Page 7 of 8
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-1056 ORIGINAL
+HB NO. 800
+Proposed law provides for defenses to liability by showing:
+(1) Any difference in the terms of sale was predominantly attributable to a covered
+retailer engaging in self-distribution of the covered good at issue or otherwise
+lowering the overall costs of the covered supplier through genuine efficiencies
+including but not limited to economies in distribution or manufacturing.
+(2) A covered retailer, in exchange for commercially reasonable consideration,
+voluntarily accepted terms of sale relating to a covered good that were not the same
+terms of sale as the terms of sale offered to another covered retailer.
+(3) The terms of sale applied only in cases in which there was an actual or imminent
+deterioration of perishable goods, obsolescence of seasonal goods, distress sales
+under court process, or sales in good faith in discontinuance of business in the goods
+concerned.
+Proposed law provides for enforcement by the attorney general, and for civil penalties.
+Proposed law provides for rules of construction.
+Effective upon signature of the governor.
+(Adds R.S. 51:3301-3308)
+Page 8 of 8
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+[DELETED: 6O  P w r t c p f e p t p f r o c t 1  C o T 5 o t L R S o 1 i t s h d s]
+[DELETED: 6O o f s m  " r m a p t s c t e t c r o c w i a a a s b d a a e e t  H a r s o c g i a a a]
+[DELETED: 6O s t n a c i p d d t p t p s p a]
+[DELETED: 6O s t o s a c t a c t p t c g o t s v u b i t o c o c w c w t d o i t a a t t d c r]
+[DELETED: 6O r e i s o t c g a i o l t o c o t c s t g  A c r i e f c r a v o R 5 i t d c s s b ]
+[DELETED: 6O]
+[DELETED: 6Ol2nK " w " c r " " t s o s a t a c T T T T]
+[DELETED: 6O)A e i s o t c a i o o t o o t c g)A c r i e f c r c T]
+
+
+================================================================================
+
+Raw Text:
+HLS 26RS-1056 ORIGINAL
+2026 Regular Session
+HOUSE BILL NO. 800
+BY REPRESENTATIVES KNOX AND LARVADAIN
+CONSUMERS/FOOD-BEVERAGES: Provides with respect to consumer protection
+regarding the pricing of groceries
+1 AN ACT
+2 To enact Chapter 70 of Title 51 of the Louisiana Revised Statutes of 1950, to be comprised
+3 of R.S. 51:3301 through 3308, relative to consumer protection for grocery pricing;
+4 to provide for definitions; to provide for prohibited conduct; to provide for liability
+5 of mandataries; to provide for defenses; to provide for exemptions to liability; to
+6 provide for enforcement and penalties; to provide for rules of construction; to
+7 provide an effective date; and to provide for related matters.
+8 Be it enacted by the Legislature of Louisiana:
+9 Section 1. Chapter 70 of Title 51 of the Louisiana Revised Statutes of 1950,
+10 comprised of R.S. 51:3301 through 330, is hereby enacted to read as follows:
+11 CHAPTER 70. MAKE AFFORDABLE GROCERIES AGAIN ACT
+12 §3301. Short title
+13 This Chapter shall be known and may be cited as the "Make Affordable
+14 Groceries Again Act".
+15 §3302. Definitions
+16 As used in this Chapter, the following terms have the meanings ascribed to
+17 them in this Section, unless the context clearly indicates otherwise:
+18 (1) "Channels of trade" means the distinct and diverse pathways through
+19 which covered goods are marketed, distributed, and sold to consumers in the United
+20 States, including traditional supermarkets, hypermarkets, discount stores,
+Page 1 of 8
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1056 ORIGINAL
+HB NO. 800
+1 convenience stores, online or e-commerce retailers, specialty food stores, mass
+2 merchandisers, wholesale clubs, and any other retail establishments, platforms, or
+3 entities that engage in the sale of covered goods, either primarily or as a segment of
+4 their broader retail offering, and compete for consumer grocery dollars.
+5 (2) "Covered goods" means a grocery item, including any item described in
+6 Paragraph (1) or (2) of the definition of eligible foods under 7 CFR 271.2, or a
+7 consumer-packaged good. "Covered goods" does not include gasoline, prescription
+8 drugs, tobacco, or alcoholic beverages.
+9 (3) "Covered retailer" means a person that sells covered goods to end
+10 purchasers at one or more physical locations in this state.
+11 (4) "Covered supplier" means a person that satisfies all of the following:
+12 (a) Produces and sells covered goods in this state.
+13 (b) Sells, directly or through an agent or any third party with which the
+14 covered supplier contracts, covered goods produced or manufactured by the person,
+15 directly or through an agent or any third party with which the covered supplier
+16 contracts, to covered retailers or covered wholesalers in an aggregate amount
+17 exceeding six billion dollars, as adjusted each year by an amount equal to the
+18 percentage increase, if any, in the Consumer Price Index for All Urban Consumers
+19 published by the United States Department of Labor, per year.
+20 (5) "Covered wholesaler" means a person that purchases covered goods for
+21 the purpose of reselling or distributing them to covered retailers in this state.
+22 (6) "Dominant covered retailer" means a covered retailer that satisfies all of
+23 the following:
+24 (a) Has annual retail sales of covered goods in an aggregate amount
+25 exceeding eighteen billion dollars, as adjusted each year by an amount equal to the
+26 percentage increase, if any, in the Consumer Price Index for All Urban Consumers
+27 published by the United States Department of Labor.
+Page 2 of 8
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1056 ORIGINAL
+HB NO. 800
+1 (b) Operates not less than one storefront or distribution center in more than
+2 twenty states, including this state, operated by the covered retailer, the covered
+3 retailer's parent company, or subsidiaries of the same parent company.
+4 (7) "Person" includes all of the following:
+5 (a) Each entity that a person owns or controls, in whole or in part.
+6 (b) Each entity that owns or controls the person, in whole or in part.
+7 (8) "Pricing differential" means, with respect to the volume unit basis of a
+8 covered good purchased by a covered retailer or covered wholesaler compared to the
+9 volume unit basis of a product purchased by a dominant covered retailer, either of
+10 the following:
+11 (a) The difference in price of the product multiplied by the quantity sold.
+12 (b) The difference in the price equivalent of the terms of sale of the product,
+13 discounted to present value if needed to account for any difference in payment terms,
+14 multiplied by the quantity sold.
+15 (9) "Same covered good" means, with respect to two different covered
+16 goods, a covered good and any other covered good sold under the same brand that
+17 differs only in quantity or packaging.
+18 (10) "Same terms of sale" means, with respect to two different agreements,
+19 terms of sale that are identical on a per unit basis, excluding shipping and delivery
+20 costs, which may vary on account of distance, speed, or method of shipping and
+21 delivery, or availability of self-distribution.
+22 (11) "Terms of sale" means all substantive terms and conditions of sale
+23 commonly subject to negotiation and competition, including price, discounts,
+24 rebates, delivery terms, payment terms, package size, promotional allowances,
+25 marketing devices, merchandising arrangements, terms of distribution, and any other
+26 similar terms, considered on a per unit basis as appropriate.
+27 (12) "Volume unit basis" means the base unit of measurement, not exceeding
+28 a truckload, by which purchase quantities are measured in purchase agreements
+29 between a covered supplier and a covered retailer or covered wholesaler.
+Page 3 of 8
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1056 ORIGINAL
+HB NO. 800
+1 §3303. Ensuring price fairness; prohibited conduct
+2 A. A covered supplier shall not, directly or through an agent, fail to extend
+3 the same terms of sale of a covered good to all covered retailers and covered
+4 wholesalers that purchase the covered good on the same volume unit basis in
+5 reasonably contemporaneous sales.
+6 B. A covered supplier shall not fail to provide, within fourteen days of a
+7 written request from a covered retailer or covered wholesaler that has purchased a
+8 covered good or received an offer including terms of sale for a covered good from
+9 the covered supplier, directly or through an agent, the anonymized terms of sale from
+10 all contracts with dominant covered retailers that purchased the same covered good
+11 on the same volume unit basis during the one hundred eighty day period prior to the
+12 date on which the purchase or offer including terms of sale was made.
+13 C. A covered supplier shall not, directly or through an agent, refuse the sale
+14 of a covered good to a covered retailer or a covered wholesaler if all of the following
+15 conditions are met:
+16 (1) The covered retailer is not a dominant covered retailer.
+17 (2) The covered retailer or the covered wholesaler has made and completed
+18 payment for purchases from the covered supplier within the previous twelve months.
+19 (3) The covered retailer or the covered wholesaler has made a request of the
+20 covered supplier to provide to the retailer or wholesaler the same terms of sale
+21 provided to other covered retailers or covered wholesalers, consistent with the
+22 provisions of this Section.
+23 (4) The refusal by the covered supplier to sell a covered good to the covered
+24 retailer or covered wholesaler has no commercially reasonable justification.
+25 D. A dominant covered retailer, or its purchasing agent or any third party
+26 through which a dominant covered retailer contracts to purchase covered goods, shall
+27 not directly or indirectly take any action that the dominant covered retailer,
+28 purchasing agent, or third party intends, knows, or should know will coerce or induce
+29 a covered supplier to violate the provisions of this Section.
+Page 4 of 8
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1056 ORIGINAL
+HB NO. 800
+1 §3304. Mandatary liability
+2 A covered supplier or dominant covered retailer, as applicable, is liable for
+3 any violation of R.S. 51:3303 by a contracted third party.
+4 §3305. Defenses
+5 A person alleged to have engaged in conduct prohibited by R.S. 51:3303 is
+6 not liable for the conduct upon showing, by a preponderance of the evidence, any of
+7 the following:
+8 (1) Any difference in the terms of sale was predominantly attributable to a
+9 covered retailer engaging in self-distribution of the covered good at issue or
+10 otherwise lowering the overall costs of the covered supplier through genuine
+11 efficiencies including but not limited to economies in distribution or manufacturing.
+12 (2) A covered retailer, in exchange for commercially reasonable
+13 consideration, voluntarily accepted terms of sale relating to a covered good that were
+14 not the same terms of sale as the terms of sale offered to another covered retailer.
+15 (3) The terms of sale applied only in cases in which there was an actual or
+16 imminent deterioration of perishable goods, obsolescence of seasonal goods, distress
+17 sales under court process, or sales in good faith in discontinuance of business in the
+18 goods concerned.
+19 §3306. Covered supplier immunity
+20 If a covered supplier did not collude with a dominant covered retailer in any
+21 scheme that violates the antitrust laws, a covered supplier is immune from liability
+22 for a violation of R.S. 51:3303 if the defendant covered supplier shows by a
+23 preponderance of the evidence all of the following:
+24 (1) The violation was imposed on or required of the defendant covered
+25 supplier by a dominant covered retailer.
+26 (2) The defendant covered supplier would have suffered substantial harm to
+27 its business if it had refused the demand of the dominant covered retailer.
+28 (3) The defendant covered supplier made a good faith effort to disclose the
+29 dominant covered retailer's conduct to the office of the attorney general.
+Page 5 of 8
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1056 ORIGINAL
+HB NO. 800
+1 §3307. Enforcement
+2 The attorney general or a covered retailer, covered wholesaler, or covered
+3 supplier injured by a violation of this Chapter may file suit for any of the following:
+4 (1) An injunction to cure a violation of this Chapter.
+5 (2) A civil penalty or damages in an amount not greater than either of the
+6 following:
+7 (a) One and one-half times the actual damages.
+8 (b) The pricing differential suffered by a covered retailer or a covered
+9 wholesaler.
+10 (3) Both an injunction pursuant to Subsection (1) of this Section and a civil
+11 penalty or damages pursuant to Subsection (2) of this Section.
+12 §3308. Rules of construction
+13 A. As used in this Chapter, "antitrust laws":
+14 (1) Has the meaning given that term in Subsection (a) of the first section of
+15 the Clayton Act 15 U.S.C. 12(a).
+16 (2) Includes 15 U.S.C. 45 to the extent that Section 45 applies to unfair
+17 methods of competition.
+18 (3) Includes any Louisiana law similar to the laws described in Paragraphs
+19 (1) and (2) of this Subsection.
+20 B. Nothing in this Chapter shall be construed to limit, impair, or supersede
+21 any of the antitrust laws.
+22 Section 2. This Act shall become effective upon signature by the governor or, if not
+23 signed by the governor, upon expiration of the time for bills to become law without signature
+24 by the governor, as provided by Article III, Section 18 of the Constitution of Louisiana. If
+25 vetoed by the governor and subsequently approved by the legislature, this Act shall become
+26 effective on the day following such approval.
+Page 6 of 8
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1056 ORIGINAL
+HB NO. 800
+DIGEST
+The digest printed below was prepared by House Legislative Services. It constitutes no part
+of the legislative instrument. The keyword, one-liner, abstract, and digest do not constitute
+part of the law or proof or indicia of legislative intent. [R.S. 1:13(B) and 24:177(E)]
+HB 800 Original 2026 Regular Session Knox
+Abstract: Regulates grocery pricing by providing that grocery suppliers shall offer the
+same terms of sale on a volume unit basis to all retailers and wholesalers, regardless
+of size, within the same relative time period.
+Proposed law provides for a short title.
+Proposed law defines "channels of trade", "covered goods", "covered retailer", "covered
+supplier", "covered wholesaler", "dominant covered retailer", "person", "pricing
+differential", "same covered good", "same terms of sale", "terms of sale", and "volume unit
+basis".
+Proposed law provides that a covered supplier shall not, directly or through an agent, fail to
+extend the same terms of sale of a covered good to all covered retailers and covered
+wholesalers that purchase the covered good on the same volume unit basis in reasonably
+contemporaneous sales.
+Proposed law provides that a covered supplier shall not fail to provide, within 14 days of a
+written request from a covered retailer or covered wholesaler that has purchased a covered
+good or received an offer including terms of sale for a covered good from the covered
+supplier, directly or through an agent, the anonymized terms of sale from all contracts with
+dominant covered retailers that purchased the same covered good on the same volume unit
+basis during the 180 day period prior to the date on which the purchase or offer including
+terms of sale was made.
+Proposed law provides that a covered supplier shall not, directly or through an agent, refuse
+the sale of a covered good to a covered retailer or a covered wholesaler if all of the following
+conditions are met:
+(1) The covered retailer is not a dominant covered retailer.
+(2) The covered retailer or the covered wholesaler has made and completed payment for
+purchases from the covered supplier within the previous twelve months.
+(3) The covered retailer or the covered wholesaler has made a request of the covered
+supplier to provide to the retailer or wholesaler the same terms of sale provided to
+other covered retailers or covered wholesalers, consistent with the provisions of
+proposed law.
+(4) The refusal by the covered supplier to sell a covered good to the covered retailer or
+covered wholesaler has no commercially reasonable justification.
+Proposed law provides that a dominant covered retailer, or its purchasing agent or any third
+party through which a dominant covered retailer contracts to purchase covered goods, shall
+not directly or indirectly take any action that the dominant covered retailer, purchasing
+agent, or third party intends, knows, or should know will coerce or induce a covered supplier
+to violate the provisions of proposed law.
+Proposed law provides for the liability of mandataries.
+Page 7 of 8
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1056 ORIGINAL
+HB NO. 800
+Proposed law provides for defenses to liability by showing:
+(1) Any difference in the terms of sale was predominantly attributable to a covered
+retailer engaging in self-distribution of the covered good at issue or otherwise
+lowering the overall costs of the covered supplier through genuine efficiencies
+including but not limited to economies in distribution or manufacturing.
+(2) A covered retailer, in exchange for commercially reasonable consideration,
+voluntarily accepted terms of sale relating to a covered good that were not the same
+terms of sale as the terms of sale offered to another covered retailer.
+(3) The terms of sale applied only in cases in which there was an actual or imminent
+deterioration of perishable goods, obsolescence of seasonal goods, distress sales
+under court process, or sales in good faith in discontinuance of business in the goods
+concerned.
+Proposed law provides for enforcement by the attorney general, and for civil penalties.
+Proposed law provides for rules of construction.
+Effective upon signature of the governor.
+(Adds R.S. 51:3301-3308)
+Page 8 of 8
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+[DELETED: 6O  P w r t c p f e p t p f r o c t 1  C o T 5 o t L R S o 1 i t s h d s]
+[DELETED: 6O o f s m  " r m a p t s c t e t c r o c w i a a a s b d a a e e t  H a r s o c g i a a a]
+[DELETED: 6O s t n a c i p d d t p t p s p a]
+[DELETED: 6O s t o s a c t a c t p t c g o t s v u b i t o c o c w c w t d o i t a a t t d c r]
+[DELETED: 6O r e i s o t c g a i o l t o c o t c s t g  A c r i e f c r a v o R 5 i t d c s s b ]
+[DELETED: 6O]
+[DELETED: 6Ol2nK " w " c r " " t s o s a t a c T T T T]
+[DELETED: 6O)A e i s o t c a i o o t o o t c g)A c r i e f c r c T]

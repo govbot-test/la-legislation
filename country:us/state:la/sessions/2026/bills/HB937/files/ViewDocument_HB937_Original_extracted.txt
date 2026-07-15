@@ -1,0 +1,1765 @@
+Title: HOUSE BILL NO. 937
+Official Title: HOUSE BILL NO. 937
+Number of Sections: 5
+Source: versions - HB937 Original
+Media Type: application/pdf
+Strikethrough Detection: 23 sections found
+
+================================================================================
+
+Section 1:
+HLS 26RS-1104 ORIGINAL
+2026 Regular Session
+BY REPRESENTATIVE LACOMBE AND SENATOR KLEINPETER
+AMUSEMENT PARKS: Provides relative to revisions of the Amusement Rides Safety Law
+1 AN ACT
+2 To amend and reenact R.S. 40:1482.2(A), 1482.3(6), (7), (8), and (14) through (27),
+3 1484.4(A), (B)(introductory paragraph) and (3), (C)(1), and (D), 1484.5(A), (B)(1)
+4 and (3), 1484.6(B) through (F), 1484.8, 1485.9, 1484.11, 1484.13(A), (B)(3) through
+5 (8), (C)(2) and (3), 1484.14(A) and (D), 1484.16(7) and (10), 1484.18, 1484.19(1)
+6 through (3), 1484.20(1) through (4), 1484.22, 1484.23(A) and (B), 1484.24(C),
+7 1484.25(introductory paragraph) and (2), 1484.26, 1484.27, and 1484.28 and to
+8 repeal R.S.40:1484.7, 1484.15, 1484.21, and 1484.23(E), relative to the regulation
+9 and safety of amusement rides and devices; to provide for definitions; to provide for
+10 registration of amusement rides; to repeal relative to inflatable amusement devices;
+11 to provide for third-party inspection; to provide for operation; to provide for
+12 penalties; to provide for set-up inspection by the fire marshal; to provide for
+13 licensing of inspectors; to provide for licensing of operators; to provide for firm
+14 licensing; to provide for application procedures; to provide for duties of the state fire
+15 marshal; to provide for licensing fees; to provide for prohibited acts; to provide for
+16 cease-and-desist orders; to provide for insurance requirements; and to provide for
+17 related matters.
+18 Be it enacted by the Legislature of Louisiana:
+19 Section 1. R.S. 40:1482.2(A), 1482.3(6), (7), (8), and (14) through (27), 1484.4(A),
+20 (B)(introductory paragraph) and (3), (C)(1), and (D), 1484.5(A), (B)(1) and (3), 1484.6(B)
+Page 1 of 23
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-1104 ORIGINAL
+HB NO. 937
+1 through (F), 1484.8, 1485.9, 1484.11, 1484.13(A), (B)(3) through (8), (C)(2) and (3),
+2 1484.14(A) and (D), 1484.16(7) and (10), 1484.18, 1484.19(1) through (3), 1484.20(1)
+3 through (4), 1484.22, 1484.23(A) and (B), 1484.24(C), 1484.25(introductory paragraph) and
+4 (2), 1484.26, 1484.27, and 1484.28 are hereby amended and reenacted to read as follows:
+5 §1484.2. Purpose; administration and enforcement
+6 A. The purpose of this Part is to regulate the testing, inspection, and operation
+7 of inflatable amusement devices, amusement attractions, and amusement rides, to
+8 prohibit the use of such devices, attractions, and rides when they have not been
+9 properly registered, have not received a proper and timely certificate of inspection,
+10 and have not received a set-up inspection as provided for in this Part.
+11 * * *
+12 §1484.3. Definitions
+13 As used in this Part, the following terms have the meanings specified in this
+14 Section except where the context expressly indicates otherwise:
+15 * * *
+16 (6) "Audit" means an official inspection of an operator's actions and
+17 documentation as it relates to the coordination of inflatable amusement devices,
+18 amusement rides, and amusement attractions at an event and a set-up inspector's
+19 actions, documentation, and tagging as it relates to the set-up inspection of inflatable
+20 amusement devices, amusement rides, and amusement attractions at an event,
+21 including each operator's and set-up inspector's adherence to applicable statutes and
+22 rules.
+23 (7) "Certificate of inspection" means a certificate or report prepared by a
+24 third-party inspector pursuant to his inspection which verifies that the inflatable
+25 amusement device, amusement attraction, or amusement ride complies with all
+26 applicable adopted laws, rules, standards, and its corresponding manufacturer's
+27 installation manuals, maintenance and service bulletins, and notices.
+Page 2 of 23
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-1104 ORIGINAL
+HB NO. 937
+1 (8) "Certificate of registration" means a certificate issued by the office of
+2 state fire marshal upon receipt of a completed and approved registration application,
+3 current valid insurance as required by this Part, and a certificate of inspection.
+4 * * *
+5 (14) "Fixed operation location" means an operating location wherein
+6 amusement devices, amusement attractions, or amusement rides are operated for an
+7 indefinite period of time and are not often disassembled and reassembled.
+8 (15) "Inflatable amusement device" means any amusement attraction that
+9 incorporates a structural and mechanical system that employs a high-strength fabric
+10 or film that achieves its strength, shape, and stability by pretensioning with internal
+11 air pressure for activities including, but not limited to bouncing, climbing, sliding,
+12 or interactive play, which may or may not be enclosed.
+13 (16) "Inspect" or "inspection" means the thorough physical examination and
+14 functional testing of an inflatable amusement device, amusement attraction, or
+15 amusement ride and its component parts necessary to ensure that the device,
+16 attraction, or ride complies with all applicable adopted laws, rules, standards, and
+17 corresponding manufacturer's installation manuals, maintenance and service repair
+18 bulletins, or notices.
+19 (17)(16) "Investigate" or "investigation" means the thorough physical
+20 examination of an inflatable amusement device, amusement attraction, or amusement
+21 ride and its component parts by the office of state fire marshal in response to a
+22 complaint or an accident, which may or may not have resulted in injury or death, to
+23 determine the cause of the accident.
+24 (18)(17) "NAARSO" means the National Association of Amusement Ride
+25 Safety Officials.
+26 (19)(18) "Operate" means to manage and coordinate an inflatable
+27 amusement device, amusement attraction, or amusement ride at an event or a fixed
+28 operation location. The term includes management or coordination which may or
+Page 3 of 23
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-1104 ORIGINAL
+HB NO. 937
+1 may not be performed by the owner of the inflatable amusements device, amusement
+2 attraction, or amusement ride.
+3 (20)(19) "Operator" means a person or firm who may or may not own the
+4 inflatable amusements devices, amusement attractions, or amusement rides who is
+5 managing, coordinating, or has the duty to control the operation of the inflatable
+6 amusements devices, amusement attractions, or amusement rides at an event or a
+7 fixed operation location.
+8 (21)(20) "Owner" means a person or firm, or the agent of a person or firm,
+9 who owns an amusement attraction, or amusement ride, or more than two inflatable
+10 amusement devices, and at least one of the person's or firm's inflatable amusement
+11 devices, amusement attractions, or amusement rides is utilized in this state.
+12 (22)(21) "Ride operator" means the person or persons responsible for
+13 directly supervising, monitoring, and attending to the inflatable amusement device,
+14 amusement attraction, or amusement ride, including but not limited to collecting
+15 tickets or money, ensuring the appropriate number of patrons are boarding and
+16 deboarding a ride, ensuring riders are the appropriate height, latching and securing
+17 passengers, operating a ride, starting and stopping a ride, and monitoring patrons'
+18 activities during a ride's operation to ensure their safety.
+19 (23)(22) "Set-up inspection" means a review of all necessary documents,
+20 including service and repair documents, the observation of and examination of the
+21 assembly, set-up, and operation of an inflatable amusement device, amusement
+22 attraction, or amusement ride, and an inspection of the foundation, blocking, fuel
+23 containers, and mechanical and electrical conditions of such a device, attraction, an
+24 attraction or ride.
+25 (24) "Set-up inspector" means the person licensed by the office of state fire
+26 marshal to conduct the set-up inspection prior to the opening of an amusement
+27 attraction or prior to the operation of an inflatable amusement device or amusement
+28 ride at each event.
+Page 4 of 23
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-1104 ORIGINAL
+HB NO. 937
+1 (25)(23) "Temporary operation location" means an operating location where
+2 inflatable amusement devices, amusement attractions, or amusement rides are
+3 operated for a finite period of time not to exceed thirty days.
+4 (26)(24) "Testing" means the set-up and activation of an inflatable
+5 amusement device, amusement attraction, or amusement ride for the purpose of
+6 analyzing such device, attraction, or ride and its component parts for safety. This
+7 may be done in conjunction with an inspection.
+8 (27)(25) "Third-party inspector" means a person licensed by the office of
+9 state fire marshal to test and inspect inflatable amusement devices, perform annual
+10 testing and inspecting of amusement attractions, and amusement rides.
+11 §1484.4. Registration of inflatable amusement devices, amusement attractions, and
+12 amusement rides; requirements
+13 A. Any owner of an inflatable amusement device, amusement attraction, or
+14 amusement ride shall register each of his inflatable amusement devices, amusement
+15 attractions, or amusement rides with the office of state fire marshal prior to its use
+16 in this state. An owner shall renew the registration each year for each inflatable
+17 amusement device, amusement attraction, or amusement ride being used in this state.
+18 B. To register the inflatable amusement device, amusement attraction, or
+19 amusement ride, the owner shall submit all of the following to the office of state fire
+20 marshal for approval:
+21 * * *
+22 (3) A copy of the general liability insurance in which all inflatable
+23 amusement devices, amusement attractions, or amusement rides being registered are
+24 listed on the submitted insurance declaration page.
+25 C. Upon approval by the state fire marshal, a certificate of registration shall
+26 be issued as follows:
+27 (1) Initial registration. Initial registration can occur at any time. A registration
+28 plate shall be issued bearing a permanent registration number. The registration plate
+Page 5 of 23
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-1104 ORIGINAL
+HB NO. 937
+1 shall be permanently affixed to the inflatable amusement device, amusement
+2 attraction, or amusement ride in a conspicuous location.
+3 * * *
+4 D. An owner shall notify the office of state fire marshal if a plate or decal is
+5 lost or damaged. Any plate or decal that is lost or damaged shall be decommissioned.
+6 Prior to receiving a new plate or decal, the owner shall submit an attestation that the
+7 plate was lost or return the damaged plate or decal to the office of state fire marshal
+8 and pay the required fee. The fee to replace a lost or damaged plate or decal is thirty
+9 dollars.
+10 §1484.5. Third-party inspection of inflatable amusement devices, amusement
+11 attractions, and amusement rides; certificate of inspection required;
+12 cease and desist orders
+13 A. Except for the purpose of testing, training, or inspection, no inflatable
+14 amusement device, amusement attraction, or amusement ride shall be operated in this
+15 state without a current certificate of registration, valid registration plate, and
+16 registration decal issued by the office of state fire marshal.
+17 B.(1) Each inflatable amusement device, amusement attraction, or
+18 amusement ride shall be inspected by a third-party inspector for safety and subjected
+19 to nondestructive testing, according to the manufacturer's recommendations, if any,
+20 at least annually, in accordance with ASTM-F-24, as promulgated by the state fire
+21 marshal in conformity with the Administrative Procedure Act, and other applicable
+22 standards, regulations, manuals, manufacturers' specifications, service bulletins, and
+23 notices.
+24 * * *
+25 (3) If the third-party inspection shows that an inflatable amusement device,
+26 amusement attraction, or amusement ride does not comply with all relevant
+27 provisions of this Part and the adopted standards, rules, regulations, and applicable
+28 manuals, service bulletins, and notices, the third-party inspector shall notify and
+29 submit the findings to the state fire marshal within ten five days of the inspection.
+Page 6 of 23
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-1104 ORIGINAL
+HB NO. 937
+1 The office of state fire marshal shall issue a cease and desist order to the operator or
+2 owner indicating that operation of the inflatable amusement device, amusement
+3 attraction, or amusement ride, which does not comply, is to immediately cease in the
+4 state. The state fire marshal shall lift any cease and desist order and issue
+5 registration plates or registration decals, if applicable, for the inflatable amusement
+6 devices, amusement attractions, or amusement rides only when the deficiencies have
+7 been remedied to the satisfaction of a third-party inspector and proof of satisfaction
+8 is submitted to and approved by the state fire marshal.
+9 §1484.6. Operation of amusement rides and amusement attractions; notice; changes
+10 in schedule; certain required annual inspections; fines
+11 * * *
+12 B.(1) Any operator who gives written or electronic notification to the office
+13 of state fire marshal of his intent to commence operation of the amusement ride or
+14 amusement attraction, and notifies the office of a change in schedule location, date,
+15 or the ride itinerary fewer than five days prior to commencing operation shall be
+16 fined as follows: two hundred fifty dollars per ride or attraction per event.
+17 (a) Fifty dollars per ride or attraction for the first offense.
+18 (b) Seventy-five dollars per ride or attraction for the second offense.
+19 (c) Two hundred dollars per ride or attraction for the third offense.
+20 (d) Two hundred fifty dollars per ride or attraction for each additional
+21 offense thereafter.
+22 (2) In determining the number of offenses that have occurred, only offenses
+23 occurring over the three-year period preceding the offense at issue shall be
+24 considered.
+25 C. If, after the notification, the operator changes his schedule of locations or
+26 dates, he shall immediately notify the office of state fire marshal of the change. An
+27 operator shall pay a fine of two hundred fifty dollars for any change in schedule of
+28 location or date that occurs less than five days prior to the commencement of
+29 operation of the amusement ride or amusement attraction.
+Page 7 of 23
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-1104 ORIGINAL
+HB NO. 937
+1 D. Prior to operating any new amusement ride or amusement attraction, the
+2 operator shall notify the office of state fire marshal of his intent to commence
+3 operation, but shall not operate the amusement ride or amusement attraction until the
+4 owner has registered the amusement ride or amusement attraction as required in this
+5 Part.
+6 E.(1) D.(1) The state fire marshal or his designee may inspect all amusement
+7 rides or amusement attractions operating in the state at least once during the duration
+8 of the event at which the amusement ride or amusement attraction is being operated.
+9 * * *
+10 F. E. The state fire marshal or his designee has the authority to publish a
+11 listing of all noncompliant operators and make such list available to the public upon
+12 written demand.
+13 * * *
+14 §1484.8. Set-up inspection; requirements; notification to the fire marshal
+15 A. An operator shall have a set-up inspection conducted by the office of state
+16 fire marshal on all inflatable amusement devices, amusement attractions, and
+17 amusement rides at least once prior to their operation at each event in the state.
+18 B. The set-up inspection may be conducted by a third-party inspector or an
+19 employee of the operator of the inflatable amusement device, amusement attraction,
+20 or amusement ride who is specially trained to perform a set-up inspection.
+21 C. If an inflatable amusement device, amusement attraction, or amusement
+22 ride is in compliance pursuant to the findings of a set-up inspection and
+23 corresponding adopted rules and regulations, the third-party inspector or set-up
+24 inspector shall affix a tag to the inflatable amusement device, amusement attraction,
+25 or amusement ride.
+26 D. If an inflatable amusement device, amusement attraction, or amusement
+27 ride is not in compliance pursuant to the findings of a set-up inspection and
+28 corresponding adopted rules and regulations, a third-party inspector or set-up
+29 inspector the fire marshal shall cease operation of the inflatable amusement device,
+Page 8 of 23
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-1104 ORIGINAL
+HB NO. 937
+1 amusement attraction, or amusement ride and notify the office of state fire marshal
+2 within two hours of the determination, and tag it accordingly.
+3 E.C. The office of state fire marshal shall specifically adopt rules and
+4 regulations in accordance with the Administrative Procedure Act for enforcement of
+5 this Section.
+6 §1484.9. License required to inspect inflatable amusement devices, amusement
+7 attractions, and amusement rides; prohibitions
+8 A. A person or firm shall not engage in the testing or inspection of an
+9 inflatable amusement device, amusement attraction, or amusement ride for the
+10 purpose of providing an annual third-party inspection as required by this Part, unless
+11 the person or firm holds a current and valid license issued by the state fire marshal
+12 as provided in this Part.
+13 B. No person or firm shall aid, abet, facilitate, or otherwise assist any
+14 unlicensed person or firm in the engagement of any testing or inspecting of an
+15 inflatable amusement device, amusement attraction, or amusement ride when such
+16 person or firm knew or should have known the latter person or firm was unlicensed.
+17 C. A person or firm shall not test or inspect an inflatable amusement device,
+18 amusement attraction, or amusement ride if such person or firm is also the owner or
+19 operator of the same.
+20 §1484.11. License required to operate inflatable amusement devices, amusement
+21 rides, and amusement attractions; service and repairs by owners;
+22 prohibitions
+23 A. A person or firm, not to include a ride operator as defined in this Part,
+24 shall not engage in the operation of an inflatable amusement device, amusement
+25 attraction, or amusement ride unless the person or firm holds a current and valid
+26 license issued by the state fire marshal as provided in this Part.
+27 B. No person or firm shall aid, abet, facilitate, or otherwise assist any
+28 unlicensed person or firm in the operation of an inflatable amusement device,
+Page 9 of 23
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-1104 ORIGINAL
+HB NO. 937
+1 amusement attraction, or amusement ride when the person or firm knew or should
+2 have known the latter person or firm was unlicensed.
+3 C. The state fire marshal may, by rule, allow the owner of an inflatable
+4 amusement device, amusement attraction, or amusement ride, or an employee of the
+5 owner, to perform minor service and repairs of the inflatable amusement device,
+6 amusement ride, or amusement attraction. The owner shall document such service
+7 or repair and assume responsibility for all such service or repair.
+8 §1484.13. Application for firm license; third-party inspection firm license; operating
+9 firm license; requirements to maintain; prohibitions; penalties
+10 A. To engage in the third-party inspection or operation of an inflatable
+11 amusement device, amusement attraction, or amusement ride, a firm shall apply for
+12 and obtain a license and the respective relevant endorsement for third-party
+13 inspection or operation. The third-party inspection endorsement authorizes the
+14 licensee to conduct any necessary testing.
+15 B. An applicant for a third-party inspection firm license shall submit all of
+16 the following to the state fire marshal:
+17 * * *
+18 (3) An original A certificate of insurance from the firm's insurance company
+19 documenting that the firm has general liability coverage in a minimum amount of
+20 one million dollars two million dollars and lists of the office of state fire marshal as
+21 certificate holder.
+22 (4) An original certificate of insurance documenting that the firm has "Errors
+23 and Omissions" coverage in a minimum amount of one million dollars.
+24 (5) An original A certificate of insurance from the firm's insurance company
+25 documenting that the firm has a current and valid worker's compensation insurance
+26 policy as required by state law.
+27 (6)(5) The name of the person who will serve as the contact for the firm.
+28 (7)(6) The application fee authorized by this Part.
+Page 10 of 23
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-1104 ORIGINAL
+HB NO. 937
+1 (8)(7) Proof of employment of a qualified individual with proper certification
+2 and training at each of its operating locations.
+3 C. An applicant for an operating firm license shall submit the following to
+4 the state fire marshal:
+5 * * *
+6 (2) An original A certificate of insurance from the firm's insurance company
+7 documenting that the firm has general liability coverage in a minimum amount of
+8 one two million dollars and in which all inflatable amusement devices, amusement
+9 attractions, or amusement rides subject to coverage are listed on the declarations
+10 page.
+11 (3) An original A certificate of insurance documenting that the firm has a
+12 current and valid workers' compensation insurance policy as required by state law.
+13 * * *
+14 §1484.14. Application for an individual license; requirements to maintain;
+15 prohibitions; penalties
+16 A. To engage in the third-party inspection or operation of an inflatable
+17 amusement device, amusement attraction, or amusement ride, an individual shall
+18 apply for and obtain a license and the respective relevant endorsement for third-party
+19 inspection or operation. The third-party inspection endorsement authorizes the
+20 licensee to conduct any necessary testing. Each individual license holder shall
+21 maintain his license on his person while engaging in any such activity and present
+22 his license for inspection upon demand of any employee of the office of state fire
+23 marshal, a fire department, or any law enforcement officer.
+24 * * *
+25 D. An individual licensed as provided in this Section shall not contract his
+26 services as an independent contractor or agent with any other firm, whether such firm
+27 is engaged in testing, third-party inspection, or operation.
+28 * * *
+29 §1484.16. Powers and duties of the state fire marshal
+Page 11 of 23
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-1104 ORIGINAL
+HB NO. 937
+1 The state fire marshal shall:
+2 * * *
+3 (7) Conduct inspections and perform audits to ensure compliance with this
+4 Part and investigate at reasonable times, and within reasonable limits and manner,
+5 inflatable amusement devices, amusement attractions, or amusement rides in any
+6 area where they are assembled, maintained, stored, serviced, or in use. The state fire
+7 marshal or his designee, upon presenting credentials to an owner or operator, is
+8 authorized to act as described in this Paragraph without prior notice.
+9 * * *
+10 (10) Investigate all accidents related to an inflatable amusement device,
+11 amusement attraction, or amusement ride resulting in injury or death, or as requested
+12 by an operator, customer, patron, rider, or user.
+13 * * *
+14 §1484.18. Fees; required renewal; penalties
+15 A. The fire marshal is authorized to assess and collect fees as provided in this
+16 Part.
+17 B. Fees for the registration of each inflatable amusement device, amusement
+18 attraction, or amusement ride are as follows:
+19 (1) Initial Registration Fee:
+20 (a) Inflatable amusement device: $100.00
+21 (b) Child or "Kiddie" amusement attraction or amusement ride: $100.00
+22 (c) Adult amusement attraction or amusement ride: $200.00
+23 (2) Annual Renewal Fee:
+24 (a) Inflatable amusement device: $100.00
+25 (b) Child or "Kiddie" amusement attraction or amusement ride: $100.00
+26 (c) Adult amusement attraction or amusement ride: $200.00
+27 C. The licensing fees for a firm are as follows:
+28 (1) Initial Fee:
+29 (a) Inspection endorsement: $500.00
+Page 12 of 23
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-1104 ORIGINAL
+HB NO. 937
+1 (b) Operation endorsement: $500.00
+2 (2) Renewal Fee:
+3 (a) Inspection endorsement: $100.00
+4 (b) Operation endorsement: $100.00
+5 D. The licensing fees for an individual's license are as follows:
+6 (1) Initial Fee:
+7 (a) Third-party inspector endorsement: $250.00
+8 (b) Operator or Owner endorsement: $250.00
+9 (c) Set-up inspector endorsement: $250.00
+10 (2) Renewal Fee:
+11 (a) Third-Party inspector endorsement: $50.00
+12 (b) Operator or Owner endorsement: $50.00
+13 (c) Set-up inspector endorsement: $50.00
+14 Registration and annual renewal of an amusement attraction ride:
+15 (1) Child or "Kiddie" amusement attraction or amusement ride:
+16 $100.00
+17 (2) Adult amusement attraction or amusement ride: $200.00
+18 B. Third-party inspection or owner operator firm:
+19 (1) Initial Fee: $500.00
+20 (2) Renewal Fee: $250.00
+21 C. Individual third-party or owner operator:
+22 (1) Initial Fee: $350.00
+23 (2) Renewal: $200.00
+24 D. Set-up inspections at event sites:
+25 (1) Amusement attraction or device: $100.00 per device
+26 (2) Generator: $200.00 per device
+27 E. All licenses are valid for one year, unless a multi-year license is created,
+28 and shall be renewed by the license holder within the thirty days prior to the license
+Page 13 of 23
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-1104 ORIGINAL
+HB NO. 937
+1 expiration date. The state fire marshal may create a prorated fee system to allow
+2 employee license renewal dates to coincide with the firm license renewal date.
+3 F. Any license not renewed within the thirty days prior to its expiration date
+4 is past due for renewal and subject to late fees. The license holder shall pay a late fee
+5 penalty of twenty-five dollars for a license renewed within the first forty-five days
+6 past the license expiration date. The license holder shall pay a late fee penalty of fifty
+7 dollars for a license renewed between forty-six and sixty days past the license
+8 expiration date After a license has expired, the individual or firm to whom the
+9 license was issued shall have fifteen days following the date of expiration to file an
+10 application for renewal of the license without the payment of a late fee. Any person
+11 who makes application for renewal of a license after fifteen days following the
+12 expiration date of the license shall be charged a late fee of one-hundred twenty-five
+13 dollars.
+14 G. The state fire marshal shall suspend a license if the license is not renewed
+15 within sixty days past its expiration date or if the license holder has not maintained
+16 the license. The cost to reinstate a suspended license is the cost of the respective
+17 license holder's initial fee plus twenty dollars.
+18 H. The cost for a duplicate or replacement firm or individual license is twenty
+19 twenty-five dollars, regardless of how many endorsements are carried.
+20 I. H. The cost to transfer an individual license from one firm to another is
+21 twenty twenty-five dollars.
+22 J. I. The fees established in this Section are not refundable, except when
+23 certain conditions apply as the state fire marshal may establish.
+24 K. J. There are no fees associated with any inspections and audits performed
+25 by the office of state fire marshal, unless otherwise indicated by this Part.
+26 L. K. All fees collected pursuant to this Part shall be used exclusively for the
+27 operation and maintenance of the amusement rides and safety division within the
+28 office of state fire marshal, code enforcement and building safety.
+29 §1484.19. Prohibited acts; operator
+Page 14 of 23
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-1104 ORIGINAL
+HB NO. 937
+1 No person or firm shall do any of the following:
+2 (1) Engage in the operation of an inflatable amusement device, amusement
+3 attraction, or amusement ride without a valid license issued as provided in this Part.
+4 (2) Aid and abet an unlicensed individual, employee, or firm in the testing,
+5 inspection, or operation of an inflatable amusement device, amusement attraction,
+6 or amusement ride without a valid license.
+7 (3) Operate an inflatable amusement device, amusement attraction, or
+8 amusement ride contrary to manufacturer's specifications or codes or standards
+9 adopted in rules promulgated by the state fire marshal without specific written
+10 authorization from the office of state fire marshal.
+11 * * *
+12 §1484.20. Prohibited acts; third-party inspector
+13 No person or firm shall do any of the following:
+14 (1) Engage in the inspection or testing of an inflatable amusement device,
+15 amusement ride, or amusement attraction without a valid license issued as provided
+16 in this Part.
+17 (2) Aid and abet an unlicensed operator in the operation of an inflatable
+18 amusement device, amusement attraction, or amusement ride.
+19 (3) Aid and abet an unlicensed individual or firm in the inspection or testing
+20 of an inflatable amusement device, amusement ride, or amusement attraction.
+21 (4) Certify, test, or inspect an inflatable amusement device, amusement
+22 attraction, or amusement ride contrary to the provisions of this Part and adopted
+23 standards, regulations, and applicable manuals, service bulletins, and notices.
+24 * * *
+25 §1484.22. Notice of violation of standard; cease and desist order
+26 A. If after an inspection, investigation, or audit of any inflatable amusement
+27 device, amusement ride, or amusement attraction, the office of state fire marshal
+28 determines that the respective device, ride, ride or attraction is in violation of any
+29 standard promulgated pursuant to the provisions of this Part, and that there may be
+Page 15 of 23
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-1104 ORIGINAL
+HB NO. 937
+1 a substantial probability of death or physical injury to the public from its continued
+2 use, a notice of violation may be given to both the owner and operator of the device,
+3 ride, or attraction, and a red tag shall be attached to the device, ride, ride or
+4 attraction. The attached red tag constitutes a cease and desist order.
+5 B. After the red tag is attached, the use of the inflatable amusement device,
+6 amusement ride, or amusement attraction is prohibited. The red tag shall not be
+7 removed until the device, ride, or attraction is made safe for public use, in
+8 accordance with R.S. 40:1484.5(B)(3), and the required safeguards are provided.
+9 The tag shall not be removed except by the state fire marshal or his designee.
+10 §1484.23. Insurance; bond
+11 A. No operator shall operate an amusement attraction or amusement ride
+12 unless the operator has either of the following:
+13 (1) An a general liability insurance policy in an amount of not less than one
+14 million dollars two million dollars listing the state fire marshal as the certificate
+15 holder insuring the operator against liability for injury suffered by persons riding the
+16 amusement attraction or ride.
+17 (2) A bond in a like amount, provided the aggregate liability of the surety of
+18 any such bond shall not exceed the face amount.
+19 B. A certificate of insurance from the insurance company verifying coverage
+20 shall be filed with the office of state fire marshal, code enforcement and building
+21 safety licensing division.
+22 * * *
+23 §1484.24. Violations and penalties; cease and desist order; injunctive relief
+24 offense.
+25 * * *
+26 C. In addition to the foregoing provisions, the state fire marshal may assess
+27 civil penalties attributable to the operator of an inflatable amusement device,
+28 amusement ride, or amusement attraction to the owner or lessee of the site on which
+29 the inflatable amusement device, amusement attraction, or amusement ride is
+Page 16 of 23
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-1104 ORIGINAL
+HB NO. 937
+1 located, if the owner or lessee of the site failed to reasonably determine that the
+2 operator of the inflatable amusement device, amusement ride, or amusement
+3 attraction is in proper compliance with the requirements of this Part.
+4 * * *
+5 §1484.25. Exemptions
+6 The following inflatable amusement devices, amusement attractions, or
+7 amusement rides are exempt from the provisions of this Part:
+8 * * *
+9 (2) An inflatable amusement device, amusement attraction, or amusement
+10 ride which is owned and operated by a nonprofit religious, educational, or charitable
+11 institution or association if such attraction or ride is located within a building subject
+12 to inspection by the state fire marshal or his designee.
+13 * * *
+14 §1484.26. Local regulation
+15 Nothing contained in this Part shall prevent any local governmental
+16 subdivision of this state from licensing or regulating any inflatable amusement
+17 device, amusement attraction, or amusement ride, carnival, or circus as otherwise
+18 provided by law.
+19 §1484.27. Waiver of inspection
+20 The state fire marshal may waive the requirement that an inflatable
+21 amusement device, amusement attraction, amusement ride, or any component part
+22 be inspected before being operated in this state if an operator gives satisfactory proof
+23 to the office of state fire marshal that such device, the amusement attraction, ride, or
+24 any component part has passed an inspection conducted by a public agency whose
+25 inspection standards and requirements are at least equal to those requirements and
+26 standards established by the state fire marshal pursuant to the provisions of this Part.
+27 §1484.28. Rules adopted
+28 The state fire marshal shall adopt and issue rules, in accordance with the
+29 provisions of the Administrative Procedure Act, establishing standards for the
+Page 17 of 23
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-1104 ORIGINAL
+HB NO. 937
+1 installation, repair, maintenance, use, operation, and inspection, and
+2 decommissioning of inflatable amusement devices, amusement attractions, and
+3 amusement rides for the protection of the public. The rules shall be based upon
+4 generally accepted engineering standards and shall be concerned with but not
+5 necessarily limited to engineering force stresses, safety devices, and preventive
+6 maintenance. The rules shall provide for the reporting of accidents and injuries
+7 incurred from the operation of inflatable amusement devices, amusement attractions,
+8 or amusement rides.
+9 Section 2. R.S.40:1484.7, 1484.15, 1484.21, and 1484.23(E) are hereby repealed.
+DIGEST
+The digest printed below was prepared by House Legislative Services. It constitutes no part
+of the legislative instrument. The keyword, one-liner, abstract, and digest do not constitute
+part of the law or proof or indicia of legislative intent. [R.S. 1:13(B) and 24:177(E)]
+HB 937 Original 2026 Regular Session LaCombe
+Abstract: Provides relative to revisions of the Amusement Rides Safety Law.
+Present law provides that the purpose of the Amusement Rides Safety Law is to regulate the
+testing, inspection, and operation of inflatable amusement devices, amusement attractions,
+and amusement rides, and to prohibit the use of such devices, attractions, and rides when
+they have not been properly registered, have not received a proper and timely certificate of
+inspection and have not received a set-up inspection.
+Proposed law retains present law except removes all references to inflatable amusement
+devices and set- up inspections from the Amusement Rides Safety Law.
+Present law provides for definitions.
+Proposed law modifies present law definitions to remove references to inflatable amusement
+device and removes the definitions "inflatable amusement device" and "set-up inspector".
+Further modifies the definition of "Third-party inspector" to require a person licensed by the
+office of state fire marshal to perform annual testing and inspecting of amusement attractions
+and amusement rides.
+Present law requires the owner of an inflatable amusement device, amusement attraction, or
+amusement ride to provide for the initial registration of such device, attraction, or ride.
+Requires a registration application, a certain certificate of inspection, and a copy of certain
+general liability insurance to be submitted to the fire marshal. Further requires the annual
+registration renewal of such devices, attractions, and rides.
+Proposed law retains present law except removes all references to inflatable amusement
+devices from registration requirements.
+Present law requires an owner to notify the office of state fire marshal if a plate or decal is
+lost or damaged. Further provides that prior to receiving a new plate or decal, the owner shall
+return the damaged plate or decal to the office of state fire marshal and pay a $30 fee.
+Page 18 of 23
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-1104 ORIGINAL
+HB NO. 937
+Proposed law retains present law and further requires an owner to submit an attestation that
+the plate was lost to the office of state fire marshal.
+Present law requires certain third-party inspection of inflatable amusement devices,
+amusement attractions, and amusement rides. Prohibits the operation of such device,
+attraction, or ride unless respective certificate of inspection has been provided by a third-
+party inspector and a certificate of registration has been issued by the fire marshal.
+Present law requires a third-party inspector to provide notice, within 10 days, to the fire
+marshal when an inflatable amusement device, amusement attraction, or amusement ride
+does not comply with certain inspection requirements. Provides for the fire marshal to
+subsequently issue a cease-and-desist order to a respective operator, and such order shall not
+be lifted unless deficiencies have been remedied.
+Proposed law retains present law except removes all references to the registration of an
+inflatable amusement device, and decreases the notification time for a third-party inspector
+to report deficiencies to the fire marshal from 10 days to 5 days.
+Present law requires an operator to notify the fire marshal at least 5 days prior to
+commencing the operation of an amusement attraction or amusement ride. Assesses a fine
+per ride or attraction if the operator notifies the fire marshal less than 5 days prior to
+commencing operation as follows:
+(1) $50.00 for the first offense.
+(2) $75.00 for the second offense.
+(3) $200.00 for the third offense.
+(4) $250.00 for each additional offense thereafter.
+Present law provides for a $250.00 fine per ride or attraction if the operator notifies the fire
+marshal of a change in date or location less than 5 days prior to operation. Present law
+applies to inflatable amusement devices, except the fine for respective late notices to the fire
+marshal changes from $250 to $200.
+Proposed law retains present law in part, except change the fine schedule for an operator
+failing to notify the fire marshal prior to commencing the operation to $250.00 per ride or
+attraction per event. Further removes notice requirement for inflatable amusement devices.
+Present law provides for set-up inspections. Requires an operator to have a set-up inspection
+conducted on all inflatable amusement devices, amusement attractions, and amusement rides
+at least once prior to their operation at each event in the state. Provides for the set-up
+inspection to be conducted by a third party inspector or an employee of the operator
+specially trained to perform a set-up inspection.
+Present law provides that if an inflatable amusement device, amusement attraction, or
+amusement ride complies with the requirements of a set-up inspection, the third-party
+inspector or set-up inspector is required to affix a tag to such device, attraction, or ride.
+Provides that if such device, attraction, or ride is not in compliance with the requirements
+of a set-up inspection, the third-party inspector is required to cease operation of such device,
+attraction, or ride and provide notice to the fire marshal within 2 hours of the determination
+of noncompliance, and tag it accordingly.
+Proposed law requires an operator to have a set-up inspection conducted by the office of
+state fire marshal on amusement attractions and amusement rides at least once prior to their
+operation at each event. Further removes the ability for third-party inspectors to conduct set-
+up inspections.
+Page 19 of 23
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-1104 ORIGINAL
+HB NO. 937
+Present law prohibits a person or firm from engaging in the testing and inspection or
+operation of an inflatable amusement device, amusement attraction, or amusement ride
+unless the person or firm holds a current or valid license as provided in present law.
+Present law prohibits a person or firm from aiding, abetting, facilitating, or otherwise
+assisting any unlicensed person or firm in the engagement of testing and inspecting or
+operating when such person or firm knew or should have known the latter person or firm was
+unlicensed.
+Present law authorizes the fire marshal to adopt administrative rules allowing the owner of
+an inflatable amusement device, amusement attraction, or amusement ride, or an employee
+of the owner to perform minor service and repairs of such device, attraction, or ride.
+Requires the owner to document such service or repair and assume responsibility for all such
+service or repair.
+Proposed law retains present law except removes all reference to inflatable amusement
+devices.
+Present law requires a firm or operator applying for a firm license to obtain a license and
+endorsement to test and inspect or operate an inflatable amusement device, amusement
+attraction, or amusement ride. Further requires an applicant for a third-party inspection firm
+license or an operating firm license to submit a complete application including the names
+of certain persons, documentation that the firm is an entity duly authorized to conduct
+business within this state, certain documentation issued by the secretary of state if the firm
+is incorporated, regardless of whether such firm is physically located in the state, certain
+insurance information, and the payment of the required application fee. Further provide
+insurance documenting general liability coverage in a minimum amount of $1,000,000.00.
+Proposed law retains present law except increases the minimum amount of general liability
+from $1,000,000.00 to $2,000,000.00 and removes any reference to inflatable amusement
+devices.
+Present law provides the fire marshal with certain rights and authorities, including but not
+limited to the authority to formulate and administer certain necessary rules, including rules
+pertaining to the evaluation of qualifications and examinations of persons and firms, the
+authority to issue certain licenses, to decrease limits of insurance coverage and authorize
+acceptance of surplus lines, and the authority to conduct inspections, investigations, and
+audits.
+Proposed law retains present law except removes references to inflatable amusement
+devices.
+Present law requires the attainment of a license and respective endorsement to perform the
+set-up inspection of an inflatable amusement device, amusement attraction, or amusement
+ride. Authorizes employees of the owners or operators of such a device, attraction, or ride
+to become licensed to perform the set-up inspection.
+Proposed law removes license endorsement for set-up inspection.
+Present law authorizes the fire marshal to assess and collect certain fees. Fees for the
+registration of each inflatable amusement device, amusement attraction, or amusement ride
+are as follows:
+(1) Initial Registration Fee:
+(a) Inflatable amusement device: $100.00
+(b) Child or "Kiddie" amusement attraction or amusement ride: $100.00
+(c) Adult amusement attraction or amusement ride: $200.00
+Page 20 of 23
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-1104 ORIGINAL
+HB NO. 937
+(2) Annual Renewal Fee:
+(a) Inflatable amusement device: $100.00
+(b) Child or "Kiddie" amusement attraction or amusement ride: $100.00
+(c) Adult amusement attraction or amusement ride: $200.00
+Present law provides for firm license fees as follows:
+(1) Initial Fee:
+(a) Inspection endorsement: $500.00
+(b) Operation endorsement: $500.00
+(2) Renewal Fee:
+(a) Inspection endorsement: $100.00
+(b) Operation endorsement: $100.00
+Present law provides licensing fees for an individual's license as follows:
+(1) Initial Fee:
+(a) Third-party inspector endorsement: $250.00
+(b) Operator or Owner endorsement: $250.00
+(c) Set-up inspector endorsement: $250.00
+(d) Qualifier endorsement: $1,000.00
+(2) Renewal Fee:
+(a) Third-Party inspector endorsement: $50.00
+(b) Operator or Owner endorsement: $50.00
+(c) Set-up inspector endorsement: $50.00
+(d) Qualifier endorsement: $100.00
+Proposed law removes the authority of the fire marshal to assess and collect fees and remove
+all fees provided in present law except as follows:
+A. Registration and annual renewal of an amusement attraction ride:
+(1) Child or "Kiddie" amusement attraction or amusement ride: $100.00
+(2) Adult amusement attraction or amusement ride: $200.00
+B. Third-party inspection or owner operator firm:
+(1) Initial Fee: $500.00
+(2) Renewal Fee:$250.00
+C. Individual third-party or owner operator:
+(1) Initial Fee: $350.00
+(2) Renewal: $200.00
+D. Set-up inspections at event sites:
+(1) Amusement attraction or device: $100.00 per device
+(2) Generator: $200.00 per device
+Present law provides that licenses are valid for 1 year, unless a multi-year license is created.
+Requires a license to be renewed by the license holder within the 30 days prior to the license
+expiration date. Authorizes the fire marshal to create a prorated fee system to allow
+employee license renewal dates to coincide with the firm license renewal date.
+Proposed law retains present law except removes the requirement of a license to be renewed
+within 30 days prior to the license expiration date.
+Present law provides that a license not renewed within the 30 days prior to its expiration date
+is past due for renewal and subject to late fees. Requires the license holder to pay a late fee
+penalty of $25.00 for a license renewed within the first 45 days past the license expiration
+Page 21 of 23
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-1104 ORIGINAL
+HB NO. 937
+date. Requires the license holder to pay a late fee penalty of $50.00 for a license renewed
+between 46 and 60 days past the license expiration date.
+Proposed law requires the individual or firm to file an application for renewal of a license
+without payment of a late fee, after a license has expired. Provides that a late fee of $125.00
+shall be charged to any person who makes application for renewal of a license after 15 days
+following expiration.
+Present law provides for the fire marshal's suspension of a license if the license is not
+renewed within 60 days past its expiration date or if the license holder has not maintained
+the license.
+Proposed law removes the authority of the fire marshal to suspend a license.
+Present law provides a $20.00 fee for a duplicate or replacement firm or individual license,
+regardless of how many endorsements are carried. Further provides a cost of $20.00 to
+transfer an individual license from one firm to another.
+Proposed law increases the fee for a duplicate or replacement license and to transfer an
+individual license from one firm to another from $20.00 to $25.00.
+Present law prohibits a person, firm, third-party inspector, or set-up inspector from engaging
+in certain acts including but not limited to: (1) The operation of an inflatable amusement
+device, amusement attraction, or amusement ride without a valid license, (2) Aiding and
+abetting an unlicensed individual, employee, or firm in the testing, inspection, or operation
+of an inflatable amusement device, amusement attraction, or amusement ride, (3) Operating
+an inflatable amusement device, amusement attraction, or amusement ride contrary to New
+law, (4) Engaging in certain false, misleading, or deceptive practices, and (5) Failing to
+maintain certain valid licenses and insurance.
+Proposed law retains present law except removes references to inflatable amusement devices
+and set-up inspector.
+Present law provides if after inspection or investigation of any amusement ride or attraction,
+the office of state fire marshal determines such ride is in violation of any promulgated
+standard or determines substantial probability of death or serious physical injury to the
+public from the continued use of such ride or attraction, a notice of violation is required to
+be given in writing to the operator of the amusement ride or attraction and a red tag shall be
+attached to the ride or attraction, which constitutes a cease and desist order. Prohibits
+removal of the red tag unless the device, ride, or attraction is made safe for public use and
+the required safeguards are provided. Provides for the red tag to be removed only by the fire
+marshal or his designee.
+Proposed law retains present law except removes reference to inflatable amusement devices.
+Present law requires certain insurance or a bond. Prohibits a person from operating an
+amusement attraction or amusement ride unless the person has either a policy of insurance
+in an amount of not less than $1,000,000.00 that provides certain coverage against the
+operator's liability for injury suffered by persons, or a bond in the amount of $1,000,000.00,
+provided the aggregate liability of the surety does not exceed the face amount of the bond.
+Proposed law changes the policy limit required from $1,000,000.00 to $2,000,000.00 and
+removes the ability to provide a bond in a like amount.
+Present law requires the operator of an inflatable amusement device to have not less than
+$300,000.00 of liability insurance or a bond in a like amount.
+Page 22 of 23
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-1104 ORIGINAL
+HB NO. 937
+Proposed law removes the insurance or bond requirement for the operation of inflatable
+amusement devices.
+Present law provides provisions to exempt certain inflatable amusement devices, amusement
+attractions, or amusement rides from present law. Provides that the provisions of present law
+do not prevent local governmental subdivision from licensing or regulation any inflatable
+amusement device, amusement attraction, or amusement ride, carnival, or circus as
+otherwise provided by law.
+Present law authorizes the state fire marshal to waive the requirement for an inflatable
+amusement device, an amusement attraction, amusement ride, or any respective component
+part to be inspected prior to operation in this state or respective component part has passed
+an inspection conducted by a public agency whose inspection standards and requirements
+are at least equal to the requirements and standards established in present law.
+Present law requires the state fire marshal to adopt and issue rules, establishing standards for
+the installation, repair, maintenance, use, operation and inspection of inflatable amusement
+devices, amusement attractions, and amusement rides for the protection of the public.
+Proposed law retains present law except removes reference to inflatable amusement devices
+and further adds a requirement the state fire marshal to adopt and issue rules for the
+decommissioning of inflatable amusement devices, amusement attractions, and amusement
+rides for the protection of the public.
+(Amends R.S. 40:1482.2(A), 1482.3(6), (7), (8), and (14) through (27), 1484.4(A), (B)(intro.
+para.) and (3), (C)(1), and (D), 1484.5(A), (B)(1) and (3), 1484.6(B) through (F), 1484.8,
+
+Section 2:
+1485.9, 1484.11, 1484.13(A), (B)(3) through (8), (C)(2) and (3), 1484.14(A) and (D),
+
+Section 3:
+1484.16(7) and (10), 1484.18, 1484.19(1) through (3), 1484.20(1) through (4), 1484.22,
+
+Section 4:
+1484.23(A) and (B), 1484.24(C), 1484.25(intro. para.) and (2), 1484.26, 1484.27, and
+
+Section 5:
+1484.28; Repeals R.S.40:1484.7, 1484.15, 1484.21, and 1484.23(E))
+Page 23 of 23
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+[DELETED: 4O a a r R 4 1 ( ( a ( t ( p f t i  t p f o t p f t p f s i b t f m t p f]
+[DELETED: 4O ( 1 1 1 1 ( t ( ( a ( " m a o i o a o a a d a r a a a a a e a l r s a i c m]
+[DELETED: 4O " o l m a o l w t o a i a d a a o r a i c p n t e t t d " o " m t t p  "  m t m a c a i]
+[DELETED: 4O  " o m t p o p r f]
+[DELETED: 4O a d a a o a r a " m t s a a o a i A c o t g l i i w a i]
+[DELETED: 4O b p a t t i a d a T i o i a d a w a c c o r v r p a  E i a d a a o a o a r d n c w a r]
+[DELETED: 4O  T s f m s l a c a d o a i o t t p p t o a i s b o d o t f p t c]
+[DELETED: 4O m o a i a d a a a i i c p t t f o a s i a i n i c p t t f o a s i a a r a r a t i o s]
+[DELETED: 4O  T s f s a r L i i a a d a a o a r f t N p o f s a a f o o a a p o f i t o o a i a d]
+[DELETED: 4O T e i t t i o o a o a l a t r r e f t o o T t i e a t]
+[DELETED: 4O A f a i l r t m T e i t t i o o a o o T t i e a t t c a n t E i l h s]
+[DELETED: 4O:$:$:$:$:$:$:$]
+[DELETED: 4O:$:$:$:$:$:$:$:$   $:$]
+[DELETED: 4O]
+[DELETED: 4O O a i a d a a o t o i a]
+[DELETED: 4O o a a a r t s b a t t d r r o u t d r o a i m s f p u i p a t t o o a i a d i a d a a o a r i]
+[DELETED: 4O o t i a d a r o a f i a d a a o c i t P s p a l g o s f m m w t r t a i o t A P A e s f t]
+[DELETED: 4O r m u o a i a o i a d a a a a e s a s b c w b nl2nL]
+[DELETED: 4O l r c t i o i a d a a a r P t o o s d l r a o t n t f m a l 5 d p t t b c b a t p i o a e o t o]
+[DELETED: 4O a t o p s s d a r l r p l e r r t i a]
+[DELETED: 4O:$:$ d A t f m t c a p f s t a]
+[DELETED: 4O]
+[DELETED: 4O d a a o a r c o c a a s f a a i r 1 1 1 p 1 a]
+
+
+================================================================================
+
+Raw Text:
+HLS 26RS-1104 ORIGINAL
+2026 Regular Session
+HOUSE BILL NO. 937
+BY REPRESENTATIVE LACOMBE AND SENATOR KLEINPETER
+AMUSEMENT PARKS: Provides relative to revisions of the Amusement Rides Safety Law
+1 AN ACT
+2 To amend and reenact R.S. 40:1482.2(A), 1482.3(6), (7), (8), and (14) through (27),
+3 1484.4(A), (B)(introductory paragraph) and (3), (C)(1), and (D), 1484.5(A), (B)(1)
+4 and (3), 1484.6(B) through (F), 1484.8, 1485.9, 1484.11, 1484.13(A), (B)(3) through
+5 (8), (C)(2) and (3), 1484.14(A) and (D), 1484.16(7) and (10), 1484.18, 1484.19(1)
+6 through (3), 1484.20(1) through (4), 1484.22, 1484.23(A) and (B), 1484.24(C),
+7 1484.25(introductory paragraph) and (2), 1484.26, 1484.27, and 1484.28 and to
+8 repeal R.S.40:1484.7, 1484.15, 1484.21, and 1484.23(E), relative to the regulation
+9 and safety of amusement rides and devices; to provide for definitions; to provide for
+10 registration of amusement rides; to repeal relative to inflatable amusement devices;
+11 to provide for third-party inspection; to provide for operation; to provide for
+12 penalties; to provide for set-up inspection by the fire marshal; to provide for
+13 licensing of inspectors; to provide for licensing of operators; to provide for firm
+14 licensing; to provide for application procedures; to provide for duties of the state fire
+15 marshal; to provide for licensing fees; to provide for prohibited acts; to provide for
+16 cease-and-desist orders; to provide for insurance requirements; and to provide for
+17 related matters.
+18 Be it enacted by the Legislature of Louisiana:
+19 Section 1. R.S. 40:1482.2(A), 1482.3(6), (7), (8), and (14) through (27), 1484.4(A),
+20 (B)(introductory paragraph) and (3), (C)(1), and (D), 1484.5(A), (B)(1) and (3), 1484.6(B)
+Page 1 of 23
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1104 ORIGINAL
+HB NO. 937
+1 through (F), 1484.8, 1485.9, 1484.11, 1484.13(A), (B)(3) through (8), (C)(2) and (3),
+2 1484.14(A) and (D), 1484.16(7) and (10), 1484.18, 1484.19(1) through (3), 1484.20(1)
+3 through (4), 1484.22, 1484.23(A) and (B), 1484.24(C), 1484.25(introductory paragraph) and
+4 (2), 1484.26, 1484.27, and 1484.28 are hereby amended and reenacted to read as follows:
+5 §1484.2. Purpose; administration and enforcement
+6 A. The purpose of this Part is to regulate the testing, inspection, and operation
+7 of inflatable amusement devices, amusement attractions, and amusement rides, to
+8 prohibit the use of such devices, attractions, and rides when they have not been
+9 properly registered, have not received a proper and timely certificate of inspection,
+10 and have not received a set-up inspection as provided for in this Part.
+11 * * *
+12 §1484.3. Definitions
+13 As used in this Part, the following terms have the meanings specified in this
+14 Section except where the context expressly indicates otherwise:
+15 * * *
+16 (6) "Audit" means an official inspection of an operator's actions and
+17 documentation as it relates to the coordination of inflatable amusement devices,
+18 amusement rides, and amusement attractions at an event and a set-up inspector's
+19 actions, documentation, and tagging as it relates to the set-up inspection of inflatable
+20 amusement devices, amusement rides, and amusement attractions at an event,
+21 including each operator's and set-up inspector's adherence to applicable statutes and
+22 rules.
+23 (7) "Certificate of inspection" means a certificate or report prepared by a
+24 third-party inspector pursuant to his inspection which verifies that the inflatable
+25 amusement device, amusement attraction, or amusement ride complies with all
+26 applicable adopted laws, rules, standards, and its corresponding manufacturer's
+27 installation manuals, maintenance and service bulletins, and notices.
+Page 2 of 23
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1104 ORIGINAL
+HB NO. 937
+1 (8) "Certificate of registration" means a certificate issued by the office of
+2 state fire marshal upon receipt of a completed and approved registration application,
+3 current valid insurance as required by this Part, and a certificate of inspection.
+4 * * *
+5 (14) "Fixed operation location" means an operating location wherein
+6 amusement devices, amusement attractions, or amusement rides are operated for an
+7 indefinite period of time and are not often disassembled and reassembled.
+8 (15) "Inflatable amusement device" means any amusement attraction that
+9 incorporates a structural and mechanical system that employs a high-strength fabric
+10 or film that achieves its strength, shape, and stability by pretensioning with internal
+11 air pressure for activities including, but not limited to bouncing, climbing, sliding,
+12 or interactive play, which may or may not be enclosed.
+13 (16) "Inspect" or "inspection" means the thorough physical examination and
+14 functional testing of an inflatable amusement device, amusement attraction, or
+15 amusement ride and its component parts necessary to ensure that the device,
+16 attraction, or ride complies with all applicable adopted laws, rules, standards, and
+17 corresponding manufacturer's installation manuals, maintenance and service repair
+18 bulletins, or notices.
+19 (17)(16) "Investigate" or "investigation" means the thorough physical
+20 examination of an inflatable amusement device, amusement attraction, or amusement
+21 ride and its component parts by the office of state fire marshal in response to a
+22 complaint or an accident, which may or may not have resulted in injury or death, to
+23 determine the cause of the accident.
+24 (18)(17) "NAARSO" means the National Association of Amusement Ride
+25 Safety Officials.
+26 (19)(18) "Operate" means to manage and coordinate an inflatable
+27 amusement device, amusement attraction, or amusement ride at an event or a fixed
+28 operation location. The term includes management or coordination which may or
+Page 3 of 23
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1104 ORIGINAL
+HB NO. 937
+1 may not be performed by the owner of the inflatable amusements device, amusement
+2 attraction, or amusement ride.
+3 (20)(19) "Operator" means a person or firm who may or may not own the
+4 inflatable amusements devices, amusement attractions, or amusement rides who is
+5 managing, coordinating, or has the duty to control the operation of the inflatable
+6 amusements devices, amusement attractions, or amusement rides at an event or a
+7 fixed operation location.
+8 (21)(20) "Owner" means a person or firm, or the agent of a person or firm,
+9 who owns an amusement attraction, or amusement ride, or more than two inflatable
+10 amusement devices, and at least one of the person's or firm's inflatable amusement
+11 devices, amusement attractions, or amusement rides is utilized in this state.
+12 (22)(21) "Ride operator" means the person or persons responsible for
+13 directly supervising, monitoring, and attending to the inflatable amusement device,
+14 amusement attraction, or amusement ride, including but not limited to collecting
+15 tickets or money, ensuring the appropriate number of patrons are boarding and
+16 deboarding a ride, ensuring riders are the appropriate height, latching and securing
+17 passengers, operating a ride, starting and stopping a ride, and monitoring patrons'
+18 activities during a ride's operation to ensure their safety.
+19 (23)(22) "Set-up inspection" means a review of all necessary documents,
+20 including service and repair documents, the observation of and examination of the
+21 assembly, set-up, and operation of an inflatable amusement device, amusement
+22 attraction, or amusement ride, and an inspection of the foundation, blocking, fuel
+23 containers, and mechanical and electrical conditions of such a device, attraction, an
+24 attraction or ride.
+25 (24) "Set-up inspector" means the person licensed by the office of state fire
+26 marshal to conduct the set-up inspection prior to the opening of an amusement
+27 attraction or prior to the operation of an inflatable amusement device or amusement
+28 ride at each event.
+Page 4 of 23
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1104 ORIGINAL
+HB NO. 937
+1 (25)(23) "Temporary operation location" means an operating location where
+2 inflatable amusement devices, amusement attractions, or amusement rides are
+3 operated for a finite period of time not to exceed thirty days.
+4 (26)(24) "Testing" means the set-up and activation of an inflatable
+5 amusement device, amusement attraction, or amusement ride for the purpose of
+6 analyzing such device, attraction, or ride and its component parts for safety. This
+7 may be done in conjunction with an inspection.
+8 (27)(25) "Third-party inspector" means a person licensed by the office of
+9 state fire marshal to test and inspect inflatable amusement devices, perform annual
+10 testing and inspecting of amusement attractions, and amusement rides.
+11 §1484.4. Registration of inflatable amusement devices, amusement attractions, and
+12 amusement rides; requirements
+13 A. Any owner of an inflatable amusement device, amusement attraction, or
+14 amusement ride shall register each of his inflatable amusement devices, amusement
+15 attractions, or amusement rides with the office of state fire marshal prior to its use
+16 in this state. An owner shall renew the registration each year for each inflatable
+17 amusement device, amusement attraction, or amusement ride being used in this state.
+18 B. To register the inflatable amusement device, amusement attraction, or
+19 amusement ride, the owner shall submit all of the following to the office of state fire
+20 marshal for approval:
+21 * * *
+22 (3) A copy of the general liability insurance in which all inflatable
+23 amusement devices, amusement attractions, or amusement rides being registered are
+24 listed on the submitted insurance declaration page.
+25 C. Upon approval by the state fire marshal, a certificate of registration shall
+26 be issued as follows:
+27 (1) Initial registration. Initial registration can occur at any time. A registration
+28 plate shall be issued bearing a permanent registration number. The registration plate
+Page 5 of 23
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1104 ORIGINAL
+HB NO. 937
+1 shall be permanently affixed to the inflatable amusement device, amusement
+2 attraction, or amusement ride in a conspicuous location.
+3 * * *
+4 D. An owner shall notify the office of state fire marshal if a plate or decal is
+5 lost or damaged. Any plate or decal that is lost or damaged shall be decommissioned.
+6 Prior to receiving a new plate or decal, the owner shall submit an attestation that the
+7 plate was lost or return the damaged plate or decal to the office of state fire marshal
+8 and pay the required fee. The fee to replace a lost or damaged plate or decal is thirty
+9 dollars.
+10 §1484.5. Third-party inspection of inflatable amusement devices, amusement
+11 attractions, and amusement rides; certificate of inspection required;
+12 cease and desist orders
+13 A. Except for the purpose of testing, training, or inspection, no inflatable
+14 amusement device, amusement attraction, or amusement ride shall be operated in this
+15 state without a current certificate of registration, valid registration plate, and
+16 registration decal issued by the office of state fire marshal.
+17 B.(1) Each inflatable amusement device, amusement attraction, or
+18 amusement ride shall be inspected by a third-party inspector for safety and subjected
+19 to nondestructive testing, according to the manufacturer's recommendations, if any,
+20 at least annually, in accordance with ASTM-F-24, as promulgated by the state fire
+21 marshal in conformity with the Administrative Procedure Act, and other applicable
+22 standards, regulations, manuals, manufacturers' specifications, service bulletins, and
+23 notices.
+24 * * *
+25 (3) If the third-party inspection shows that an inflatable amusement device,
+26 amusement attraction, or amusement ride does not comply with all relevant
+27 provisions of this Part and the adopted standards, rules, regulations, and applicable
+28 manuals, service bulletins, and notices, the third-party inspector shall notify and
+29 submit the findings to the state fire marshal within ten five days of the inspection.
+Page 6 of 23
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1104 ORIGINAL
+HB NO. 937
+1 The office of state fire marshal shall issue a cease and desist order to the operator or
+2 owner indicating that operation of the inflatable amusement device, amusement
+3 attraction, or amusement ride, which does not comply, is to immediately cease in the
+4 state. The state fire marshal shall lift any cease and desist order and issue
+5 registration plates or registration decals, if applicable, for the inflatable amusement
+6 devices, amusement attractions, or amusement rides only when the deficiencies have
+7 been remedied to the satisfaction of a third-party inspector and proof of satisfaction
+8 is submitted to and approved by the state fire marshal.
+9 §1484.6. Operation of amusement rides and amusement attractions; notice; changes
+10 in schedule; certain required annual inspections; fines
+11 * * *
+12 B.(1) Any operator who gives written or electronic notification to the office
+13 of state fire marshal of his intent to commence operation of the amusement ride or
+14 amusement attraction, and notifies the office of a change in schedule location, date,
+15 or the ride itinerary fewer than five days prior to commencing operation shall be
+16 fined as follows: two hundred fifty dollars per ride or attraction per event.
+17 (a) Fifty dollars per ride or attraction for the first offense.
+18 (b) Seventy-five dollars per ride or attraction for the second offense.
+19 (c) Two hundred dollars per ride or attraction for the third offense.
+20 (d) Two hundred fifty dollars per ride or attraction for each additional
+21 offense thereafter.
+22 (2) In determining the number of offenses that have occurred, only offenses
+23 occurring over the three-year period preceding the offense at issue shall be
+24 considered.
+25 C. If, after the notification, the operator changes his schedule of locations or
+26 dates, he shall immediately notify the office of state fire marshal of the change. An
+27 operator shall pay a fine of two hundred fifty dollars for any change in schedule of
+28 location or date that occurs less than five days prior to the commencement of
+29 operation of the amusement ride or amusement attraction.
+Page 7 of 23
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1104 ORIGINAL
+HB NO. 937
+1 D. Prior to operating any new amusement ride or amusement attraction, the
+2 operator shall notify the office of state fire marshal of his intent to commence
+3 operation, but shall not operate the amusement ride or amusement attraction until the
+4 owner has registered the amusement ride or amusement attraction as required in this
+5 Part.
+6 E.(1) D.(1) The state fire marshal or his designee may inspect all amusement
+7 rides or amusement attractions operating in the state at least once during the duration
+8 of the event at which the amusement ride or amusement attraction is being operated.
+9 * * *
+10 F. E. The state fire marshal or his designee has the authority to publish a
+11 listing of all noncompliant operators and make such list available to the public upon
+12 written demand.
+13 * * *
+14 §1484.8. Set-up inspection; requirements; notification to the fire marshal
+15 A. An operator shall have a set-up inspection conducted by the office of state
+16 fire marshal on all inflatable amusement devices, amusement attractions, and
+17 amusement rides at least once prior to their operation at each event in the state.
+18 B. The set-up inspection may be conducted by a third-party inspector or an
+19 employee of the operator of the inflatable amusement device, amusement attraction,
+20 or amusement ride who is specially trained to perform a set-up inspection.
+21 C. If an inflatable amusement device, amusement attraction, or amusement
+22 ride is in compliance pursuant to the findings of a set-up inspection and
+23 corresponding adopted rules and regulations, the third-party inspector or set-up
+24 inspector shall affix a tag to the inflatable amusement device, amusement attraction,
+25 or amusement ride.
+26 D. If an inflatable amusement device, amusement attraction, or amusement
+27 ride is not in compliance pursuant to the findings of a set-up inspection and
+28 corresponding adopted rules and regulations, a third-party inspector or set-up
+29 inspector the fire marshal shall cease operation of the inflatable amusement device,
+Page 8 of 23
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1104 ORIGINAL
+HB NO. 937
+1 amusement attraction, or amusement ride and notify the office of state fire marshal
+2 within two hours of the determination, and tag it accordingly.
+3 E.C. The office of state fire marshal shall specifically adopt rules and
+4 regulations in accordance with the Administrative Procedure Act for enforcement of
+5 this Section.
+6 §1484.9. License required to inspect inflatable amusement devices, amusement
+7 attractions, and amusement rides; prohibitions
+8 A. A person or firm shall not engage in the testing or inspection of an
+9 inflatable amusement device, amusement attraction, or amusement ride for the
+10 purpose of providing an annual third-party inspection as required by this Part, unless
+11 the person or firm holds a current and valid license issued by the state fire marshal
+12 as provided in this Part.
+13 B. No person or firm shall aid, abet, facilitate, or otherwise assist any
+14 unlicensed person or firm in the engagement of any testing or inspecting of an
+15 inflatable amusement device, amusement attraction, or amusement ride when such
+16 person or firm knew or should have known the latter person or firm was unlicensed.
+17 C. A person or firm shall not test or inspect an inflatable amusement device,
+18 amusement attraction, or amusement ride if such person or firm is also the owner or
+19 operator of the same.
+20 §1484.11. License required to operate inflatable amusement devices, amusement
+21 rides, and amusement attractions; service and repairs by owners;
+22 prohibitions
+23 A. A person or firm, not to include a ride operator as defined in this Part,
+24 shall not engage in the operation of an inflatable amusement device, amusement
+25 attraction, or amusement ride unless the person or firm holds a current and valid
+26 license issued by the state fire marshal as provided in this Part.
+27 B. No person or firm shall aid, abet, facilitate, or otherwise assist any
+28 unlicensed person or firm in the operation of an inflatable amusement device,
+Page 9 of 23
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1104 ORIGINAL
+HB NO. 937
+1 amusement attraction, or amusement ride when the person or firm knew or should
+2 have known the latter person or firm was unlicensed.
+3 C. The state fire marshal may, by rule, allow the owner of an inflatable
+4 amusement device, amusement attraction, or amusement ride, or an employee of the
+5 owner, to perform minor service and repairs of the inflatable amusement device,
+6 amusement ride, or amusement attraction. The owner shall document such service
+7 or repair and assume responsibility for all such service or repair.
+8 §1484.13. Application for firm license; third-party inspection firm license; operating
+9 firm license; requirements to maintain; prohibitions; penalties
+10 A. To engage in the third-party inspection or operation of an inflatable
+11 amusement device, amusement attraction, or amusement ride, a firm shall apply for
+12 and obtain a license and the respective relevant endorsement for third-party
+13 inspection or operation. The third-party inspection endorsement authorizes the
+14 licensee to conduct any necessary testing.
+15 B. An applicant for a third-party inspection firm license shall submit all of
+16 the following to the state fire marshal:
+17 * * *
+18 (3) An original A certificate of insurance from the firm's insurance company
+19 documenting that the firm has general liability coverage in a minimum amount of
+20 one million dollars two million dollars and lists of the office of state fire marshal as
+21 certificate holder.
+22 (4) An original certificate of insurance documenting that the firm has "Errors
+23 and Omissions" coverage in a minimum amount of one million dollars.
+24 (5) An original A certificate of insurance from the firm's insurance company
+25 documenting that the firm has a current and valid worker's compensation insurance
+26 policy as required by state law.
+27 (6)(5) The name of the person who will serve as the contact for the firm.
+28 (7)(6) The application fee authorized by this Part.
+Page 10 of 23
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1104 ORIGINAL
+HB NO. 937
+1 (8)(7) Proof of employment of a qualified individual with proper certification
+2 and training at each of its operating locations.
+3 C. An applicant for an operating firm license shall submit the following to
+4 the state fire marshal:
+5 * * *
+6 (2) An original A certificate of insurance from the firm's insurance company
+7 documenting that the firm has general liability coverage in a minimum amount of
+8 one two million dollars and in which all inflatable amusement devices, amusement
+9 attractions, or amusement rides subject to coverage are listed on the declarations
+10 page.
+11 (3) An original A certificate of insurance documenting that the firm has a
+12 current and valid workers' compensation insurance policy as required by state law.
+13 * * *
+14 §1484.14. Application for an individual license; requirements to maintain;
+15 prohibitions; penalties
+16 A. To engage in the third-party inspection or operation of an inflatable
+17 amusement device, amusement attraction, or amusement ride, an individual shall
+18 apply for and obtain a license and the respective relevant endorsement for third-party
+19 inspection or operation. The third-party inspection endorsement authorizes the
+20 licensee to conduct any necessary testing. Each individual license holder shall
+21 maintain his license on his person while engaging in any such activity and present
+22 his license for inspection upon demand of any employee of the office of state fire
+23 marshal, a fire department, or any law enforcement officer.
+24 * * *
+25 D. An individual licensed as provided in this Section shall not contract his
+26 services as an independent contractor or agent with any other firm, whether such firm
+27 is engaged in testing, third-party inspection, or operation.
+28 * * *
+29 §1484.16. Powers and duties of the state fire marshal
+Page 11 of 23
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1104 ORIGINAL
+HB NO. 937
+1 The state fire marshal shall:
+2 * * *
+3 (7) Conduct inspections and perform audits to ensure compliance with this
+4 Part and investigate at reasonable times, and within reasonable limits and manner,
+5 inflatable amusement devices, amusement attractions, or amusement rides in any
+6 area where they are assembled, maintained, stored, serviced, or in use. The state fire
+7 marshal or his designee, upon presenting credentials to an owner or operator, is
+8 authorized to act as described in this Paragraph without prior notice.
+9 * * *
+10 (10) Investigate all accidents related to an inflatable amusement device,
+11 amusement attraction, or amusement ride resulting in injury or death, or as requested
+12 by an operator, customer, patron, rider, or user.
+13 * * *
+14 §1484.18. Fees; required renewal; penalties
+15 A. The fire marshal is authorized to assess and collect fees as provided in this
+16 Part.
+17 B. Fees for the registration of each inflatable amusement device, amusement
+18 attraction, or amusement ride are as follows:
+19 (1) Initial Registration Fee:
+20 (a) Inflatable amusement device: $100.00
+21 (b) Child or "Kiddie" amusement attraction or amusement ride: $100.00
+22 (c) Adult amusement attraction or amusement ride: $200.00
+23 (2) Annual Renewal Fee:
+24 (a) Inflatable amusement device: $100.00
+25 (b) Child or "Kiddie" amusement attraction or amusement ride: $100.00
+26 (c) Adult amusement attraction or amusement ride: $200.00
+27 C. The licensing fees for a firm are as follows:
+28 (1) Initial Fee:
+29 (a) Inspection endorsement: $500.00
+Page 12 of 23
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1104 ORIGINAL
+HB NO. 937
+1 (b) Operation endorsement: $500.00
+2 (2) Renewal Fee:
+3 (a) Inspection endorsement: $100.00
+4 (b) Operation endorsement: $100.00
+5 D. The licensing fees for an individual's license are as follows:
+6 (1) Initial Fee:
+7 (a) Third-party inspector endorsement: $250.00
+8 (b) Operator or Owner endorsement: $250.00
+9 (c) Set-up inspector endorsement: $250.00
+10 (2) Renewal Fee:
+11 (a) Third-Party inspector endorsement: $50.00
+12 (b) Operator or Owner endorsement: $50.00
+13 (c) Set-up inspector endorsement: $50.00
+14 Registration and annual renewal of an amusement attraction ride:
+15 (1) Child or "Kiddie" amusement attraction or amusement ride:
+16 $100.00
+17 (2) Adult amusement attraction or amusement ride: $200.00
+18 B. Third-party inspection or owner operator firm:
+19 (1) Initial Fee: $500.00
+20 (2) Renewal Fee: $250.00
+21 C. Individual third-party or owner operator:
+22 (1) Initial Fee: $350.00
+23 (2) Renewal: $200.00
+24 D. Set-up inspections at event sites:
+25 (1) Amusement attraction or device: $100.00 per device
+26 (2) Generator: $200.00 per device
+27 E. All licenses are valid for one year, unless a multi-year license is created,
+28 and shall be renewed by the license holder within the thirty days prior to the license
+Page 13 of 23
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1104 ORIGINAL
+HB NO. 937
+1 expiration date. The state fire marshal may create a prorated fee system to allow
+2 employee license renewal dates to coincide with the firm license renewal date.
+3 F. Any license not renewed within the thirty days prior to its expiration date
+4 is past due for renewal and subject to late fees. The license holder shall pay a late fee
+5 penalty of twenty-five dollars for a license renewed within the first forty-five days
+6 past the license expiration date. The license holder shall pay a late fee penalty of fifty
+7 dollars for a license renewed between forty-six and sixty days past the license
+8 expiration date After a license has expired, the individual or firm to whom the
+9 license was issued shall have fifteen days following the date of expiration to file an
+10 application for renewal of the license without the payment of a late fee. Any person
+11 who makes application for renewal of a license after fifteen days following the
+12 expiration date of the license shall be charged a late fee of one-hundred twenty-five
+13 dollars.
+14 G. The state fire marshal shall suspend a license if the license is not renewed
+15 within sixty days past its expiration date or if the license holder has not maintained
+16 the license. The cost to reinstate a suspended license is the cost of the respective
+17 license holder's initial fee plus twenty dollars.
+18 H. The cost for a duplicate or replacement firm or individual license is twenty
+19 twenty-five dollars, regardless of how many endorsements are carried.
+20 I. H. The cost to transfer an individual license from one firm to another is
+21 twenty twenty-five dollars.
+22 J. I. The fees established in this Section are not refundable, except when
+23 certain conditions apply as the state fire marshal may establish.
+24 K. J. There are no fees associated with any inspections and audits performed
+25 by the office of state fire marshal, unless otherwise indicated by this Part.
+26 L. K. All fees collected pursuant to this Part shall be used exclusively for the
+27 operation and maintenance of the amusement rides and safety division within the
+28 office of state fire marshal, code enforcement and building safety.
+29 §1484.19. Prohibited acts; operator
+Page 14 of 23
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1104 ORIGINAL
+HB NO. 937
+1 No person or firm shall do any of the following:
+2 (1) Engage in the operation of an inflatable amusement device, amusement
+3 attraction, or amusement ride without a valid license issued as provided in this Part.
+4 (2) Aid and abet an unlicensed individual, employee, or firm in the testing,
+5 inspection, or operation of an inflatable amusement device, amusement attraction,
+6 or amusement ride without a valid license.
+7 (3) Operate an inflatable amusement device, amusement attraction, or
+8 amusement ride contrary to manufacturer's specifications or codes or standards
+9 adopted in rules promulgated by the state fire marshal without specific written
+10 authorization from the office of state fire marshal.
+11 * * *
+12 §1484.20. Prohibited acts; third-party inspector
+13 No person or firm shall do any of the following:
+14 (1) Engage in the inspection or testing of an inflatable amusement device,
+15 amusement ride, or amusement attraction without a valid license issued as provided
+16 in this Part.
+17 (2) Aid and abet an unlicensed operator in the operation of an inflatable
+18 amusement device, amusement attraction, or amusement ride.
+19 (3) Aid and abet an unlicensed individual or firm in the inspection or testing
+20 of an inflatable amusement device, amusement ride, or amusement attraction.
+21 (4) Certify, test, or inspect an inflatable amusement device, amusement
+22 attraction, or amusement ride contrary to the provisions of this Part and adopted
+23 standards, regulations, and applicable manuals, service bulletins, and notices.
+24 * * *
+25 §1484.22. Notice of violation of standard; cease and desist order
+26 A. If after an inspection, investigation, or audit of any inflatable amusement
+27 device, amusement ride, or amusement attraction, the office of state fire marshal
+28 determines that the respective device, ride, ride or attraction is in violation of any
+29 standard promulgated pursuant to the provisions of this Part, and that there may be
+Page 15 of 23
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1104 ORIGINAL
+HB NO. 937
+1 a substantial probability of death or physical injury to the public from its continued
+2 use, a notice of violation may be given to both the owner and operator of the device,
+3 ride, or attraction, and a red tag shall be attached to the device, ride, ride or
+4 attraction. The attached red tag constitutes a cease and desist order.
+5 B. After the red tag is attached, the use of the inflatable amusement device,
+6 amusement ride, or amusement attraction is prohibited. The red tag shall not be
+7 removed until the device, ride, or attraction is made safe for public use, in
+8 accordance with R.S. 40:1484.5(B)(3), and the required safeguards are provided.
+9 The tag shall not be removed except by the state fire marshal or his designee.
+10 §1484.23. Insurance; bond
+11 A. No operator shall operate an amusement attraction or amusement ride
+12 unless the operator has either of the following:
+13 (1) An a general liability insurance policy in an amount of not less than one
+14 million dollars two million dollars listing the state fire marshal as the certificate
+15 holder insuring the operator against liability for injury suffered by persons riding the
+16 amusement attraction or ride.
+17 (2) A bond in a like amount, provided the aggregate liability of the surety of
+18 any such bond shall not exceed the face amount.
+19 B. A certificate of insurance from the insurance company verifying coverage
+20 shall be filed with the office of state fire marshal, code enforcement and building
+21 safety licensing division.
+22 * * *
+23 §1484.24. Violations and penalties; cease and desist order; injunctive relief
+24 offense.
+25 * * *
+26 C. In addition to the foregoing provisions, the state fire marshal may assess
+27 civil penalties attributable to the operator of an inflatable amusement device,
+28 amusement ride, or amusement attraction to the owner or lessee of the site on which
+29 the inflatable amusement device, amusement attraction, or amusement ride is
+Page 16 of 23
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1104 ORIGINAL
+HB NO. 937
+1 located, if the owner or lessee of the site failed to reasonably determine that the
+2 operator of the inflatable amusement device, amusement ride, or amusement
+3 attraction is in proper compliance with the requirements of this Part.
+4 * * *
+5 §1484.25. Exemptions
+6 The following inflatable amusement devices, amusement attractions, or
+7 amusement rides are exempt from the provisions of this Part:
+8 * * *
+9 (2) An inflatable amusement device, amusement attraction, or amusement
+10 ride which is owned and operated by a nonprofit religious, educational, or charitable
+11 institution or association if such attraction or ride is located within a building subject
+12 to inspection by the state fire marshal or his designee.
+13 * * *
+14 §1484.26. Local regulation
+15 Nothing contained in this Part shall prevent any local governmental
+16 subdivision of this state from licensing or regulating any inflatable amusement
+17 device, amusement attraction, or amusement ride, carnival, or circus as otherwise
+18 provided by law.
+19 §1484.27. Waiver of inspection
+20 The state fire marshal may waive the requirement that an inflatable
+21 amusement device, amusement attraction, amusement ride, or any component part
+22 be inspected before being operated in this state if an operator gives satisfactory proof
+23 to the office of state fire marshal that such device, the amusement attraction, ride, or
+24 any component part has passed an inspection conducted by a public agency whose
+25 inspection standards and requirements are at least equal to those requirements and
+26 standards established by the state fire marshal pursuant to the provisions of this Part.
+27 §1484.28. Rules adopted
+28 The state fire marshal shall adopt and issue rules, in accordance with the
+29 provisions of the Administrative Procedure Act, establishing standards for the
+Page 17 of 23
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1104 ORIGINAL
+HB NO. 937
+1 installation, repair, maintenance, use, operation, and inspection, and
+2 decommissioning of inflatable amusement devices, amusement attractions, and
+3 amusement rides for the protection of the public. The rules shall be based upon
+4 generally accepted engineering standards and shall be concerned with but not
+5 necessarily limited to engineering force stresses, safety devices, and preventive
+6 maintenance. The rules shall provide for the reporting of accidents and injuries
+7 incurred from the operation of inflatable amusement devices, amusement attractions,
+8 or amusement rides.
+9 Section 2. R.S.40:1484.7, 1484.15, 1484.21, and 1484.23(E) are hereby repealed.
+DIGEST
+The digest printed below was prepared by House Legislative Services. It constitutes no part
+of the legislative instrument. The keyword, one-liner, abstract, and digest do not constitute
+part of the law or proof or indicia of legislative intent. [R.S. 1:13(B) and 24:177(E)]
+HB 937 Original 2026 Regular Session LaCombe
+Abstract: Provides relative to revisions of the Amusement Rides Safety Law.
+Present law provides that the purpose of the Amusement Rides Safety Law is to regulate the
+testing, inspection, and operation of inflatable amusement devices, amusement attractions,
+and amusement rides, and to prohibit the use of such devices, attractions, and rides when
+they have not been properly registered, have not received a proper and timely certificate of
+inspection and have not received a set-up inspection.
+Proposed law retains present law except removes all references to inflatable amusement
+devices and set- up inspections from the Amusement Rides Safety Law.
+Present law provides for definitions.
+Proposed law modifies present law definitions to remove references to inflatable amusement
+device and removes the definitions "inflatable amusement device" and "set-up inspector".
+Further modifies the definition of "Third-party inspector" to require a person licensed by the
+office of state fire marshal to perform annual testing and inspecting of amusement attractions
+and amusement rides.
+Present law requires the owner of an inflatable amusement device, amusement attraction, or
+amusement ride to provide for the initial registration of such device, attraction, or ride.
+Requires a registration application, a certain certificate of inspection, and a copy of certain
+general liability insurance to be submitted to the fire marshal. Further requires the annual
+registration renewal of such devices, attractions, and rides.
+Proposed law retains present law except removes all references to inflatable amusement
+devices from registration requirements.
+Present law requires an owner to notify the office of state fire marshal if a plate or decal is
+lost or damaged. Further provides that prior to receiving a new plate or decal, the owner shall
+return the damaged plate or decal to the office of state fire marshal and pay a $30 fee.
+Page 18 of 23
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1104 ORIGINAL
+HB NO. 937
+Proposed law retains present law and further requires an owner to submit an attestation that
+the plate was lost to the office of state fire marshal.
+Present law requires certain third-party inspection of inflatable amusement devices,
+amusement attractions, and amusement rides. Prohibits the operation of such device,
+attraction, or ride unless respective certificate of inspection has been provided by a third-
+party inspector and a certificate of registration has been issued by the fire marshal.
+Present law requires a third-party inspector to provide notice, within 10 days, to the fire
+marshal when an inflatable amusement device, amusement attraction, or amusement ride
+does not comply with certain inspection requirements. Provides for the fire marshal to
+subsequently issue a cease-and-desist order to a respective operator, and such order shall not
+be lifted unless deficiencies have been remedied.
+Proposed law retains present law except removes all references to the registration of an
+inflatable amusement device, and decreases the notification time for a third-party inspector
+to report deficiencies to the fire marshal from 10 days to 5 days.
+Present law requires an operator to notify the fire marshal at least 5 days prior to
+commencing the operation of an amusement attraction or amusement ride. Assesses a fine
+per ride or attraction if the operator notifies the fire marshal less than 5 days prior to
+commencing operation as follows:
+(1) $50.00 for the first offense.
+(2) $75.00 for the second offense.
+(3) $200.00 for the third offense.
+(4) $250.00 for each additional offense thereafter.
+Present law provides for a $250.00 fine per ride or attraction if the operator notifies the fire
+marshal of a change in date or location less than 5 days prior to operation. Present law
+applies to inflatable amusement devices, except the fine for respective late notices to the fire
+marshal changes from $250 to $200.
+Proposed law retains present law in part, except change the fine schedule for an operator
+failing to notify the fire marshal prior to commencing the operation to $250.00 per ride or
+attraction per event. Further removes notice requirement for inflatable amusement devices.
+Present law provides for set-up inspections. Requires an operator to have a set-up inspection
+conducted on all inflatable amusement devices, amusement attractions, and amusement rides
+at least once prior to their operation at each event in the state. Provides for the set-up
+inspection to be conducted by a third party inspector or an employee of the operator
+specially trained to perform a set-up inspection.
+Present law provides that if an inflatable amusement device, amusement attraction, or
+amusement ride complies with the requirements of a set-up inspection, the third-party
+inspector or set-up inspector is required to affix a tag to such device, attraction, or ride.
+Provides that if such device, attraction, or ride is not in compliance with the requirements
+of a set-up inspection, the third-party inspector is required to cease operation of such device,
+attraction, or ride and provide notice to the fire marshal within 2 hours of the determination
+of noncompliance, and tag it accordingly.
+Proposed law requires an operator to have a set-up inspection conducted by the office of
+state fire marshal on amusement attractions and amusement rides at least once prior to their
+operation at each event. Further removes the ability for third-party inspectors to conduct set-
+up inspections.
+Page 19 of 23
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1104 ORIGINAL
+HB NO. 937
+Present law prohibits a person or firm from engaging in the testing and inspection or
+operation of an inflatable amusement device, amusement attraction, or amusement ride
+unless the person or firm holds a current or valid license as provided in present law.
+Present law prohibits a person or firm from aiding, abetting, facilitating, or otherwise
+assisting any unlicensed person or firm in the engagement of testing and inspecting or
+operating when such person or firm knew or should have known the latter person or firm was
+unlicensed.
+Present law authorizes the fire marshal to adopt administrative rules allowing the owner of
+an inflatable amusement device, amusement attraction, or amusement ride, or an employee
+of the owner to perform minor service and repairs of such device, attraction, or ride.
+Requires the owner to document such service or repair and assume responsibility for all such
+service or repair.
+Proposed law retains present law except removes all reference to inflatable amusement
+devices.
+Present law requires a firm or operator applying for a firm license to obtain a license and
+endorsement to test and inspect or operate an inflatable amusement device, amusement
+attraction, or amusement ride. Further requires an applicant for a third-party inspection firm
+license or an operating firm license to submit a complete application including the names
+of certain persons, documentation that the firm is an entity duly authorized to conduct
+business within this state, certain documentation issued by the secretary of state if the firm
+is incorporated, regardless of whether such firm is physically located in the state, certain
+insurance information, and the payment of the required application fee. Further provide
+insurance documenting general liability coverage in a minimum amount of $1,000,000.00.
+Proposed law retains present law except increases the minimum amount of general liability
+from $1,000,000.00 to $2,000,000.00 and removes any reference to inflatable amusement
+devices.
+Present law provides the fire marshal with certain rights and authorities, including but not
+limited to the authority to formulate and administer certain necessary rules, including rules
+pertaining to the evaluation of qualifications and examinations of persons and firms, the
+authority to issue certain licenses, to decrease limits of insurance coverage and authorize
+acceptance of surplus lines, and the authority to conduct inspections, investigations, and
+audits.
+Proposed law retains present law except removes references to inflatable amusement
+devices.
+Present law requires the attainment of a license and respective endorsement to perform the
+set-up inspection of an inflatable amusement device, amusement attraction, or amusement
+ride. Authorizes employees of the owners or operators of such a device, attraction, or ride
+to become licensed to perform the set-up inspection.
+Proposed law removes license endorsement for set-up inspection.
+Present law authorizes the fire marshal to assess and collect certain fees. Fees for the
+registration of each inflatable amusement device, amusement attraction, or amusement ride
+are as follows:
+(1) Initial Registration Fee:
+(a) Inflatable amusement device: $100.00
+(b) Child or "Kiddie" amusement attraction or amusement ride: $100.00
+(c) Adult amusement attraction or amusement ride: $200.00
+Page 20 of 23
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1104 ORIGINAL
+HB NO. 937
+(2) Annual Renewal Fee:
+(a) Inflatable amusement device: $100.00
+(b) Child or "Kiddie" amusement attraction or amusement ride: $100.00
+(c) Adult amusement attraction or amusement ride: $200.00
+Present law provides for firm license fees as follows:
+(1) Initial Fee:
+(a) Inspection endorsement: $500.00
+(b) Operation endorsement: $500.00
+(2) Renewal Fee:
+(a) Inspection endorsement: $100.00
+(b) Operation endorsement: $100.00
+Present law provides licensing fees for an individual's license as follows:
+(1) Initial Fee:
+(a) Third-party inspector endorsement: $250.00
+(b) Operator or Owner endorsement: $250.00
+(c) Set-up inspector endorsement: $250.00
+(d) Qualifier endorsement: $1,000.00
+(2) Renewal Fee:
+(a) Third-Party inspector endorsement: $50.00
+(b) Operator or Owner endorsement: $50.00
+(c) Set-up inspector endorsement: $50.00
+(d) Qualifier endorsement: $100.00
+Proposed law removes the authority of the fire marshal to assess and collect fees and remove
+all fees provided in present law except as follows:
+A. Registration and annual renewal of an amusement attraction ride:
+(1) Child or "Kiddie" amusement attraction or amusement ride: $100.00
+(2) Adult amusement attraction or amusement ride: $200.00
+B. Third-party inspection or owner operator firm:
+(1) Initial Fee: $500.00
+(2) Renewal Fee:$250.00
+C. Individual third-party or owner operator:
+(1) Initial Fee: $350.00
+(2) Renewal: $200.00
+D. Set-up inspections at event sites:
+(1) Amusement attraction or device: $100.00 per device
+(2) Generator: $200.00 per device
+Present law provides that licenses are valid for 1 year, unless a multi-year license is created.
+Requires a license to be renewed by the license holder within the 30 days prior to the license
+expiration date. Authorizes the fire marshal to create a prorated fee system to allow
+employee license renewal dates to coincide with the firm license renewal date.
+Proposed law retains present law except removes the requirement of a license to be renewed
+within 30 days prior to the license expiration date.
+Present law provides that a license not renewed within the 30 days prior to its expiration date
+is past due for renewal and subject to late fees. Requires the license holder to pay a late fee
+penalty of $25.00 for a license renewed within the first 45 days past the license expiration
+Page 21 of 23
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1104 ORIGINAL
+HB NO. 937
+date. Requires the license holder to pay a late fee penalty of $50.00 for a license renewed
+between 46 and 60 days past the license expiration date.
+Proposed law requires the individual or firm to file an application for renewal of a license
+without payment of a late fee, after a license has expired. Provides that a late fee of $125.00
+shall be charged to any person who makes application for renewal of a license after 15 days
+following expiration.
+Present law provides for the fire marshal's suspension of a license if the license is not
+renewed within 60 days past its expiration date or if the license holder has not maintained
+the license.
+Proposed law removes the authority of the fire marshal to suspend a license.
+Present law provides a $20.00 fee for a duplicate or replacement firm or individual license,
+regardless of how many endorsements are carried. Further provides a cost of $20.00 to
+transfer an individual license from one firm to another.
+Proposed law increases the fee for a duplicate or replacement license and to transfer an
+individual license from one firm to another from $20.00 to $25.00.
+Present law prohibits a person, firm, third-party inspector, or set-up inspector from engaging
+in certain acts including but not limited to: (1) The operation of an inflatable amusement
+device, amusement attraction, or amusement ride without a valid license, (2) Aiding and
+abetting an unlicensed individual, employee, or firm in the testing, inspection, or operation
+of an inflatable amusement device, amusement attraction, or amusement ride, (3) Operating
+an inflatable amusement device, amusement attraction, or amusement ride contrary to New
+law, (4) Engaging in certain false, misleading, or deceptive practices, and (5) Failing to
+maintain certain valid licenses and insurance.
+Proposed law retains present law except removes references to inflatable amusement devices
+and set-up inspector.
+Present law provides if after inspection or investigation of any amusement ride or attraction,
+the office of state fire marshal determines such ride is in violation of any promulgated
+standard or determines substantial probability of death or serious physical injury to the
+public from the continued use of such ride or attraction, a notice of violation is required to
+be given in writing to the operator of the amusement ride or attraction and a red tag shall be
+attached to the ride or attraction, which constitutes a cease and desist order. Prohibits
+removal of the red tag unless the device, ride, or attraction is made safe for public use and
+the required safeguards are provided. Provides for the red tag to be removed only by the fire
+marshal or his designee.
+Proposed law retains present law except removes reference to inflatable amusement devices.
+Present law requires certain insurance or a bond. Prohibits a person from operating an
+amusement attraction or amusement ride unless the person has either a policy of insurance
+in an amount of not less than $1,000,000.00 that provides certain coverage against the
+operator's liability for injury suffered by persons, or a bond in the amount of $1,000,000.00,
+provided the aggregate liability of the surety does not exceed the face amount of the bond.
+Proposed law changes the policy limit required from $1,000,000.00 to $2,000,000.00 and
+removes the ability to provide a bond in a like amount.
+Present law requires the operator of an inflatable amusement device to have not less than
+$300,000.00 of liability insurance or a bond in a like amount.
+Page 22 of 23
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1104 ORIGINAL
+HB NO. 937
+Proposed law removes the insurance or bond requirement for the operation of inflatable
+amusement devices.
+Present law provides provisions to exempt certain inflatable amusement devices, amusement
+attractions, or amusement rides from present law. Provides that the provisions of present law
+do not prevent local governmental subdivision from licensing or regulation any inflatable
+amusement device, amusement attraction, or amusement ride, carnival, or circus as
+otherwise provided by law.
+Present law authorizes the state fire marshal to waive the requirement for an inflatable
+amusement device, an amusement attraction, amusement ride, or any respective component
+part to be inspected prior to operation in this state or respective component part has passed
+an inspection conducted by a public agency whose inspection standards and requirements
+are at least equal to the requirements and standards established in present law.
+Present law requires the state fire marshal to adopt and issue rules, establishing standards for
+the installation, repair, maintenance, use, operation and inspection of inflatable amusement
+devices, amusement attractions, and amusement rides for the protection of the public.
+Proposed law retains present law except removes reference to inflatable amusement devices
+and further adds a requirement the state fire marshal to adopt and issue rules for the
+decommissioning of inflatable amusement devices, amusement attractions, and amusement
+rides for the protection of the public.
+(Amends R.S. 40:1482.2(A), 1482.3(6), (7), (8), and (14) through (27), 1484.4(A), (B)(intro.
+para.) and (3), (C)(1), and (D), 1484.5(A), (B)(1) and (3), 1484.6(B) through (F), 1484.8,
+1485.9, 1484.11, 1484.13(A), (B)(3) through (8), (C)(2) and (3), 1484.14(A) and (D),
+1484.16(7) and (10), 1484.18, 1484.19(1) through (3), 1484.20(1) through (4), 1484.22,
+1484.23(A) and (B), 1484.24(C), 1484.25(intro. para.) and (2), 1484.26, 1484.27, and
+1484.28; Repeals R.S.40:1484.7, 1484.15, 1484.21, and 1484.23(E))
+Page 23 of 23
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+[DELETED: 4O a a r R 4 1 ( ( a ( t ( p f t i  t p f o t p f t p f s i b t f m t p f]
+[DELETED: 4O ( 1 1 1 1 ( t ( ( a ( " m a o i o a o a a d a r a a a a a e a l r s a i c m]
+[DELETED: 4O " o l m a o l w t o a i a d a a o r a i c p n t e t t d " o " m t t p  "  m t m a c a i]
+[DELETED: 4O  " o m t p o p r f]
+[DELETED: 4O a d a a o a r a " m t s a a o a i A c o t g l i i w a i]
+[DELETED: 4O b p a t t i a d a T i o i a d a w a c c o r v r p a  E i a d a a o a o a r d n c w a r]
+[DELETED: 4O  T s f m s l a c a d o a i o t t p p t o a i s b o d o t f p t c]
+[DELETED: 4O m o a i a d a a a i i c p t t f o a s i a i n i c p t t f o a s i a a r a r a t i o s]
+[DELETED: 4O  T s f s a r L i i a a d a a o a r f t N p o f s a a f o o a a p o f i t o o a i a d]
+[DELETED: 4O T e i t t i o o a o a l a t r r e f t o o T t i e a t]
+[DELETED: 4O A f a i l r t m T e i t t i o o a o o T t i e a t t c a n t E i l h s]
+[DELETED: 4O:$:$:$:$:$:$:$]
+[DELETED: 4O:$:$:$:$:$:$:$:$   $:$]
+[DELETED: 4O]
+[DELETED: 4O O a i a d a a o t o i a]
+[DELETED: 4O o a a a r t s b a t t d r r o u t d r o a i m s f p u i p a t t o o a i a d i a d a a o a r i]
+[DELETED: 4O o t i a d a r o a f i a d a a o c i t P s p a l g o s f m m w t r t a i o t A P A e s f t]
+[DELETED: 4O r m u o a i a o i a d a a a a e s a s b c w b nl2nL]
+[DELETED: 4O l r c t i o i a d a a a r P t o o s d l r a o t n t f m a l 5 d p t t b c b a t p i o a e o t o]
+[DELETED: 4O a t o p s s d a r l r p l e r r t i a]
+[DELETED: 4O:$:$ d A t f m t c a p f s t a]
+[DELETED: 4O]
+[DELETED: 4O d a a o a r c o c a a s f a a i r 1 1 1 p 1 a]
