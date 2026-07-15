@@ -1,0 +1,205 @@
+Title: HOUSE BILL NO. 897
+Official Title: HOUSE BILL NO. 897
+Number of Sections: 1
+Source: versions - HB897 Original
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+HLS 26RS-633 ORIGINAL
+2026 Regular Session
+BY REPRESENTATIVE MANDIE LANDRY
+HEALTH: Provides relative to protecting healthcare data
+1 AN ACT
+2 To enact R.S. 46:972.1(G) and (H), relative to Louisiana Pregnancy and Baby Care
+3 Initiative; to protect healthcare data; to provide for definitions; to establish
+4 procedures to obtain and revoke consent to share information; and to provide for
+5 related matters.
+6 Be it enacted by the Legislature of Louisiana:
+7 Section 1. R.S. 46:972.1(G) and (H) are hereby enacted to read as follows:
+8 §972.1. Louisiana Pregnancy and Baby Care Initiative
+9 * * *
+10 G.(1) The general contractor and subcontractors shall not disclose to any
+11 entity or individual a client's name or any protected health information that could
+12 reasonably be linked with an individual client, without the written permission of the
+13 client for that specific disclosure of information.
+14 (2) Prior to obtaining written permission for the disclosure of information,
+15 the general contractor and subcontractors shall provide the client with a clear and
+16 understandable privacy notice, including all of the following:
+17 (a) The specific purpose for disclosing the information to a third party.
+18 (b) The specific types of information to be disclosed.
+19 (c) The third parties who might or will receive the information.
+Page 1 of 3
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-633 ORIGINAL
+HB NO. 897
+1 (3) The general contractor and subcontractors shall provide a simple
+2 mechanism for a client to revoke any consent for the disclosure of information.
+3 (4) Within ten business days of a client's request, the general contractor and
+4 subcontractors shall provide to a client, without charge, a copy of all of that client's
+5 records possessed by the center.
+6 (5) This Section does not prohibit a general contractor and subcontractors
+7 from disclosures that maintain the confidentiality of individual clients' personal
+8 information, such as the numbers of clients who have been provided with particular
+9 goods or services.
+10 H.(1) The Louisiana Department of Children and Family Services may
+11 determine that a violation of this provision constitutes grounds for ineligibility,
+12 suspension, termination, or nonrenewal of any contract, grant, or cooperative
+13 endeavor agreement entered into with the department.
+14 (2) Any action taken pursuant to this Section shall be in accordance with
+15 applicable state contracting laws, rules, and procedures, including notice and an
+16 opportunity to cure or respond.
+DIGEST
+The digest printed below was prepared by House Legislative Services. It constitutes no part
+of the legislative instrument. The keyword, one-liner, abstract, and digest do not constitute
+part of the law or proof or indicia of legislative intent. [R.S. 1:13(B) and 24:177(E)]
+HB 897 Original 2026 Regular Session Mandie Landry
+Abstract: Provides for the protection of data for individual utilizing services provided by
+the Louisiana Pregnancy and Baby Care Initiative.
+Present law creates the Louisiana Pregnancy and Baby Care Initiative within the Department
+of Children and Family Services (DCFS) as a statewide program to promote childbirth and
+provide pregnancy, parenting, and adoption support services.
+Present law makes services available to pregnant women, biological fathers of unborn
+children, parents or guardians of children up to 36 months old, participants who have
+experienced the loss of a child, and immediate family members of participating parents.
+Present law requires the department to contract with a single nonprofit organization to serve
+as general contractor to manage the program and subcontract with existing nonprofit
+providers on a fee-for-service basis and prohibits the general contractor from providing
+direct client services.
+Page 2 of 3
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-633 ORIGINAL
+HB NO. 897
+Present law limits program-funded services to counseling or mentoring, referrals,
+educational classes, and material assistance intended to improve pregnancy or parenting
+outcomes.
+Proposed law prohibits the general contractor and subcontractors from disclosing a client’s
+name or protected health information without the client’s written permission for the specific
+disclosure.
+Proposed law requires the general contractor and subcontractors, before obtaining written
+consent, to provide a clear privacy notice explaining the purpose of the disclosure, the
+specific information to be disclosed, and the third parties who may receive the information.
+Proposed law requires the general contractor and subcontractors to provide a simple method
+for clients to revoke consent to disclose their information.
+Proposed law requires the general contractor and subcontractors to provide a client, upon
+request and at no cost, a copy of all records possessed by the contractor within ten business
+days.
+Proposed law allows the disclosure of aggregated or de-identified information that maintains
+client confidentiality.
+Proposed law authorizes DCFS to treat violations of these confidentiality provisions as
+grounds for contract ineligibility, suspension, termination, or nonrenewal.
+Proposed law requires that any enforcement action be taken in accordance with applicable
+state contracting laws, including notice and an opportunity to cure or respond.
+(Adds R.S.46:972.1(G) and (H))
+Page 3 of 3
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+[DELETED: 3O e R 4 a ( r t L P a B C t p h d t p f d t e]
+[DELETED: 3O  T g c a s s p a s t o n o a c g o cl2nM g c t m t p a s w e n]
+[DELETED: 3O l l p s t c o m r]
+
+
+================================================================================
+
+Raw Text:
+HLS 26RS-633 ORIGINAL
+2026 Regular Session
+HOUSE BILL NO. 897
+BY REPRESENTATIVE MANDIE LANDRY
+HEALTH: Provides relative to protecting healthcare data
+1 AN ACT
+2 To enact R.S. 46:972.1(G) and (H), relative to Louisiana Pregnancy and Baby Care
+3 Initiative; to protect healthcare data; to provide for definitions; to establish
+4 procedures to obtain and revoke consent to share information; and to provide for
+5 related matters.
+6 Be it enacted by the Legislature of Louisiana:
+7 Section 1. R.S. 46:972.1(G) and (H) are hereby enacted to read as follows:
+8 §972.1. Louisiana Pregnancy and Baby Care Initiative
+9 * * *
+10 G.(1) The general contractor and subcontractors shall not disclose to any
+11 entity or individual a client's name or any protected health information that could
+12 reasonably be linked with an individual client, without the written permission of the
+13 client for that specific disclosure of information.
+14 (2) Prior to obtaining written permission for the disclosure of information,
+15 the general contractor and subcontractors shall provide the client with a clear and
+16 understandable privacy notice, including all of the following:
+17 (a) The specific purpose for disclosing the information to a third party.
+18 (b) The specific types of information to be disclosed.
+19 (c) The third parties who might or will receive the information.
+Page 1 of 3
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-633 ORIGINAL
+HB NO. 897
+1 (3) The general contractor and subcontractors shall provide a simple
+2 mechanism for a client to revoke any consent for the disclosure of information.
+3 (4) Within ten business days of a client's request, the general contractor and
+4 subcontractors shall provide to a client, without charge, a copy of all of that client's
+5 records possessed by the center.
+6 (5) This Section does not prohibit a general contractor and subcontractors
+7 from disclosures that maintain the confidentiality of individual clients' personal
+8 information, such as the numbers of clients who have been provided with particular
+9 goods or services.
+10 H.(1) The Louisiana Department of Children and Family Services may
+11 determine that a violation of this provision constitutes grounds for ineligibility,
+12 suspension, termination, or nonrenewal of any contract, grant, or cooperative
+13 endeavor agreement entered into with the department.
+14 (2) Any action taken pursuant to this Section shall be in accordance with
+15 applicable state contracting laws, rules, and procedures, including notice and an
+16 opportunity to cure or respond.
+DIGEST
+The digest printed below was prepared by House Legislative Services. It constitutes no part
+of the legislative instrument. The keyword, one-liner, abstract, and digest do not constitute
+part of the law or proof or indicia of legislative intent. [R.S. 1:13(B) and 24:177(E)]
+HB 897 Original 2026 Regular Session Mandie Landry
+Abstract: Provides for the protection of data for individual utilizing services provided by
+the Louisiana Pregnancy and Baby Care Initiative.
+Present law creates the Louisiana Pregnancy and Baby Care Initiative within the Department
+of Children and Family Services (DCFS) as a statewide program to promote childbirth and
+provide pregnancy, parenting, and adoption support services.
+Present law makes services available to pregnant women, biological fathers of unborn
+children, parents or guardians of children up to 36 months old, participants who have
+experienced the loss of a child, and immediate family members of participating parents.
+Present law requires the department to contract with a single nonprofit organization to serve
+as general contractor to manage the program and subcontract with existing nonprofit
+providers on a fee-for-service basis and prohibits the general contractor from providing
+direct client services.
+Page 2 of 3
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-633 ORIGINAL
+HB NO. 897
+Present law limits program-funded services to counseling or mentoring, referrals,
+educational classes, and material assistance intended to improve pregnancy or parenting
+outcomes.
+Proposed law prohibits the general contractor and subcontractors from disclosing a client’s
+name or protected health information without the client’s written permission for the specific
+disclosure.
+Proposed law requires the general contractor and subcontractors, before obtaining written
+consent, to provide a clear privacy notice explaining the purpose of the disclosure, the
+specific information to be disclosed, and the third parties who may receive the information.
+Proposed law requires the general contractor and subcontractors to provide a simple method
+for clients to revoke consent to disclose their information.
+Proposed law requires the general contractor and subcontractors to provide a client, upon
+request and at no cost, a copy of all records possessed by the contractor within ten business
+days.
+Proposed law allows the disclosure of aggregated or de-identified information that maintains
+client confidentiality.
+Proposed law authorizes DCFS to treat violations of these confidentiality provisions as
+grounds for contract ineligibility, suspension, termination, or nonrenewal.
+Proposed law requires that any enforcement action be taken in accordance with applicable
+state contracting laws, including notice and an opportunity to cure or respond.
+(Adds R.S.46:972.1(G) and (H))
+Page 3 of 3
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+[DELETED: 3O e R 4 a ( r t L P a B C t p h d t p f d t e]
+[DELETED: 3O  T g c a s s p a s t o n o a c g o cl2nM g c t m t p a s w e n]
+[DELETED: 3O l l p s t c o m r]

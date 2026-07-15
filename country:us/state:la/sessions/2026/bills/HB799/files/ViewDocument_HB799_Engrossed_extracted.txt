@@ -1,0 +1,1327 @@
+Title: HOUSE BILL NO. 799
+Official Title: HOUSE BILL NO. 799
+Number of Sections: 6
+Source: versions - HB799 Engrossed
+Media Type: application/pdf
+Strikethrough Detection: 17 sections found
+
+================================================================================
+
+Section 1:
+HLS 26RS-552 ENGROSSED
+2026 Regular Session
+BY REPRESENTATIVE FONTENOT
+FIRE PROTECT/FIRE MARSHAL: Provides relative to boilers
+1 AN ACT
+2 To amend and reenact R.S. 36:408(D)(1)(d) and to enact Subpart D-4 of Part III of Chapter
+3 7 of Title 40 of the Louisiana Revised Statutes of 1950, to be comprised of R.S.
+4 40:1664.21 through 1664.33 and to repeal Part II of Chapter 1 of Title 23 of the
+5 Louisiana Revised Statutes of 1950, comprised of R.S. 23:41 through 49, and Part
+6 III of Chapter 5 of Title 23 of the Louisiana Revised Statutes of 1950, comprised of
+7 R.S. 23:531 through 546, relative to the inspection of boilers; to establish the
+8 authority of the state fire marshal; to provide for rulemaking and regulatory
+9 authority; to provide for duties of the fire marshal; to provide for licensing of boiler
+10 inspectors; to provide for inspections of boilers; to provide for inspection certificates;
+11 to provide for fees; to provide for penalties; to provide boiler installation procedures;
+12 to provide for exemptions; to provide for examinations; to provide for an effective
+13 date; and to provide for related matters.
+14 Be it enacted by the Legislature of Louisiana:
+15 Section 1. R.S. 36:408(D)(1)(d) is hereby amended and reenacted to read as follows:
+16 §408. Offices; purposes and functions
+17 * * *
+18 D.(1) The office of state fire marshal, code enforcement and building safety,
+19 shall perform generally the functions of the state relating to the protection of life and
+20 property from the hazards of fire and of panic which may arise from fire or from the
+21 threat of fire or explosion, including but not necessarily restricted to:
+22 * * *
+Page 1 of 17
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-552 ENGROSSED
+HB NO. 799
+1 (d) Exclusive power to investigate and to make and prescribe rules and
+2 regulations for the proper construction, installation, repair, use, operation, and safety
+3 of boilers in the state, the city of New Orleans excepted to license boiler inspectors,
+4 and to issue general or special orders for the enforcement of such rules and
+5 regulations as well as any provision of law affecting boilers. The rules and
+6 regulations so formulated shall conform as nearly as practicable to the boiler
+7 construction code of the American Society of Mechanical Engineers, all as specified
+8 in R.S. 23:531 through 542 Subpart D-4 of Part III of Chapter 7 of Title 40 of the
+9 Louisiana Revised Statutes of 1950.
+10 * * *
+11 Section 2. Subpart D-4 of Part III of Chapter 7 of Title 40 of the Louisiana Revised
+12 Statutes of 1950, comprised of R.S. 40:1664.21 through 1664.33, is hereby enacted to read
+13 as follows:
+14 SUBPART D-4. BOILERS
+15 §1664.21. State fire marshal; authority to make rules; investigations
+16 A. The state fire marshal has the exclusive power to investigate, and to
+17 promulgate rules and regulations, in accordance with the Administrative Procedure
+18 Act, for the proper construction, installation, repair, use, operation, and safety of
+19 boilers in this state and to issue orders for the enforcement of rules and regulations
+20 as well as any provisions of law affecting boilers.
+21 B. The rules and regulations shall conform to the boiler construction code
+22 of the American Society of Mechanical Engineers (ASME). Boilers requiring
+23 ASME Code stamping by the owner, user, or fabricator in shop or field fabrication,
+24 assembly, modification, or repair shall be inspected in accordance with the ASME
+25 Code and national board standards.
+26 §1664.22. Duties of fire marshal
+27 The fire marshal may do all of the following:
+Page 2 of 17
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-552 ENGROSSED
+HB NO. 799
+1 (1) Employ and compensate, with the approval of the governor, inspectors
+2 and other assistants and employees as are necessary for the exercise of the powers
+3 and the performance of the duties prescribed in this Subpart.
+4 (2) Have free access to any premises in the state where a boiler is being
+5 constructed, installed, or operated, for the purpose of investigating whether that
+6 boiler is built, repaired, installed, or operated in accordance with the provisions of
+7 this Subpart.
+8 (3) Prosecute all violators of the provisions of this Subpart.
+9 (4) Issue, suspend, or revoke installation permits for boilers and operating
+10 certificates allowing boilers to be operated, as provided in this Subpart.
+11 (5) Draw upon the state treasurer for funds necessary to meet any expense
+12 authorized by this Subpart which, in addition to the salaries of employees, shall
+13 include necessary traveling expenses and the expenses incident to the maintenance
+14 of any offices required in the state.
+15 (6) Enforce the laws governing the use of boilers and to enforce the rules and
+16 regulations of the fire marshal.
+17 (7) Keep a complete record of the type, dimensions, age, condition, pressure
+18 allowed upon, location, and date of the last inspection of all boilers to which this
+19 Subpart applies.
+20 §1664.23. Licensed boiler inspectors
+21 A. The fire marshal may license inspectors to inspect boilers in this state in
+22 accordance with all of the following:
+23 (1) The current edition of the National Board Inspection Code published by
+24 the National Board of Boiler and Pressure Vessel Inspectors.
+25 (2) The current standards for Controls and Safety Devices for Automatically
+26 Fired Boilers, also known as CSD-1, published by the American Society of
+27 Mechanical Engineers (ASME).
+28 (3) All applicable sections of the ASME codes.
+Page 3 of 17
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-552 ENGROSSED
+HB NO. 799
+1 B. A licensed inspector shall receive no salary from nor shall any of his
+2 expenses be paid by the state except as provided in R.S. 40:1664.21(1). A licensed
+3 inspector shall do all of the following:
+4 (1) Hold an in-service inspector's commission from the National Board of
+5 Boiler and Pressure Vessel Inspectors.
+6 (2) Maintain employment with a company that is all of the following:
+7 (a) Accredited by the National Board of Boiler and Pressure Vessel
+8 Inspectors as an authorized inspection agency performing inservice inspection
+9 activities as published in NB-369.
+10 (b) Authorized by the fire marshal to inspect boilers in this state.
+11 (3)(a) For an insured boiler, inspect that boiler within thirty days of the
+12 expiration date on the operating certificate of that boiler, whether the inspector is
+13 employed by or under contract with the insurance company.
+14 (b) For an uninsured boiler, or for a boiler with an operating certificate that
+15 has been expired for more than thirty days, that boiler may be inspected by any
+16 licensed inspector holding a current and valid inspector commission in this state.
+17 (4) Submit a report of every boiler inspection to the fire marshal within
+18 fifteen calendar days from the date of the inspection, unless otherwise approved by
+19 the fire marshal. Failure to submit the report within this time period may result in the
+20 fire marshal's rejection of the report.
+21 C. The fire marshal may do all of the following:
+22 (1) Revoke an inspector's license for cause and only after an administrative
+23 hearing.
+24 (2) Promulgate rules and regulations through the Administrative Procedure
+25 Act as may be deemed necessary for the implementation of the provisions of this
+26 Section.
+27 §1664.24. Inspection of boilers; periods; extensions
+28 A. An external inspection of each power boiler or high-temperature, high-
+29 pressure water boiler in this state shall be conducted annually by a licensed boiler
+Page 4 of 17
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-552 ENGROSSED
+HB NO. 799
+1 inspector while the boiler is under normal operating conditions, except as provided
+2 in R.S. 40:1664.27.
+3 B. An internal inspection of each power boiler or high-temperature, high-
+4 pressure water boiler in this state shall be conducted annually by a licensed boiler
+5 inspector, except as provided in R.S. 40:1664.27 or in this Subsection as follows:
+6 (1)(a) A power boiler, the operation of which is an integral part of or
+7 necessary adjunct to other continuous operations, shall be inspected internally and
+8 issued operating certificates at intervals as are permitted by planned or scheduled
+9 shutdown of the processing operation of five days or more in duration occurring after
+10 three years have elapsed since the last inspection of the boiler, but not exceeding five
+11 years between such intervals.
+12 (b) A power boiler shall undergo at least one internal inspection before the
+13 owner or operator may apply for a three to five year operating certificate extension.
+14 (c) If the owner or operator of a power boiler submits a written and signed
+15 statement to the fire marshal affirming that the boiler is an integral part of or
+16 necessary adjunct to other continuous operations, the fire marshal may grant an
+17 extension of the interval between internal inspections of that boiler up to a maximum
+18 of five years.
+19 (2) The fire marshal may extend the interval between internal inspections of
+20 stationary boilers for a period not to exceed twenty-four months and issue an
+21 operating certificate extension if the owner or operator of that boiler submits a
+22 written and signed statement to the fire marshal affirming the following:
+23 (a) Continuous water treatment under competent and experienced
+24 supervision has been in effect since the last internal inspection for the purpose of
+25 controlling and limiting corrosion and deposits.
+26 (b) Accurate and complete records are available showing that since the last
+27 internal inspection samples of boiler water have been taken at regular intervals not
+28 greater than twenty-four hours of operation and that the water condition in the boiler
+29 is satisfactorily controlled.
+Page 5 of 17
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-552 ENGROSSED
+HB NO. 799
+1 (c) Accurate and complete records are available showing the dates, if any,
+2 that the boiler has been out of service and the reasons for the service disruption since
+3 the last internal inspection, and such records shall include the nature of all repairs to
+4 the boiler, the reasons for those repairs, and by whom the repairs were made.
+5 (d) The last internal and current external inspection of the boiler indicates
+6 the inspection period may be safely extended.
+7 C.(1) Low-pressure boilers shall receive inspections in accordance with the
+8 following schedule:
+9 (a) Steam or vapor boilers shall have an external inspection and an internal
+10 inspection every two years where construction permits.
+11 (b) Hot water heating and hot water supply boilers shall have an external
+12 inspection every two years and where construction permits, an internal inspection at
+13 the discretion of the inspector.
+14 (c) Potable water boilers shall have an external inspection every two years.
+15 (2) Inspections shall include the functions of all controls and devices. If at
+16 any time a hydrostatic test is deemed necessary to determine the safety of a boiler,
+17 the test shall be made by a licensed inspector or at the discretion of the fire marshal.
+18 §1664.25. Operating certificates; fees; issuance and suspension
+19 A.(1) If, upon inspection, a boiler is found to be suitable and to conform to
+20 the rules and regulations of the fire marshal, the fire marshal shall issue to the owner
+21 or operator of that boiler an operating certificate specifying the maximum pressure
+22 which the boiler may be allowed to carry.
+23 (2) A one hundred fifty dollar fee shall be collected by the fire marshal for
+24 the issuance or reinstatement of any operating certificate and for any extension of
+25 internal inspection.
+26 (3) The internal and external operating certificates shall be prominently
+27 posted on the boiler or in the room containing the boiler.
+28 B.(1) The fire marshal or a licensed inspector may suspend an operating
+29 certificate if he reasonably believes the boiler for which it was issued cannot
+Page 6 of 17
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-552 ENGROSSED
+HB NO. 799
+1 continue to be operated safely or in accordance with the fire marshal's rules and
+2 regulations. The suspension of an operating certificate shall continue in effect until
+3 the boiler has been made to conform to the fire marshal's rules and regulations
+4 regarding boilers and until the fire marshal has reinstated the operating certificate.
+5 (2) If the fire marshal or a licensed inspector finds that a boiler is operating
+6 unsafely or that the boiler constitutes an imminent hazard, the licensed inspector
+7 shall immediately order the boiler to be shut down, and shall notify the fire marshal
+8 of his findings within twenty-four hours. The shutdown shall be carried out in
+9 accordance with applicable safety standards and established safe shutdown
+10 procedures, and shall be consistent with documented operating and safety
+11 procedures, including appropriate coordination, isolation of energy sources, and any
+12 required internal or external notifications.
+13 C. The operating certificate fee provided for in this Section is intended to
+14 cover the cost of the issuance of those operating certificates and shall be retained and
+15 disbursed by the fire marshal.
+16 §1664.26. Operation of boiler without operating certificate; penalty
+17 A. The operation of a boiler without an operating certificate or with a
+18 suspended or expired operating certificate shall be penalized as follows:
+19 (1) If the fire marshal or a licensed inspector finds that the owner has failed
+20 to comply with the provisions of this Section, or receives a report from a licensed
+21 inspector that a boiler is not in compliance with applicable safety standards, he shall
+22 issue a written order to the boiler's owner or operator to have the boiler brought into
+23 compliance with applicable safety standards and to have a satisfactory inspection
+24 conducted before the boiler may be returned to operation.
+25 (2) If the fire marshal finds that the owner has failed to comply with his
+26 warning, the fire marshal shall issue a second order and may impose a fine of no
+27 more than two hundred fifty dollars per day against the owner or operator for failure
+28 to comply with this Section.
+Page 7 of 17
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-552 ENGROSSED
+HB NO. 799
+1 (3) The fire marshal may promulgate rules and regulations in accordance
+2 with the Administrative Procedure Act to implement provisions of this Section.
+3 B. Each day of unlawful operation shall constitute a separate offense.
+4 §1664.27. Installation of boilers
+5 No boiler shall be installed after six months following the date on which the
+6 rules and regulations promulgated by the fire marshal governing new installations
+7 become effective unless that boiler conforms to the newly-promulgated rules and
+8 regulations.
+9 §1664.28. Exemptions from provisions
+10 A. The provisions of this Subpart shall not be construed as in any way
+11 preventing the use or sale of boilers which have been installed or in use in this state
+12 prior to July 7, 1938, and which have been made to conform to the rules and
+13 regulations of the fire marshal governing existing installations, as provided in R.S.
+14 40:1664.26.
+15 B. The provisions of this Subpart are not applicable to any of the following:
+16 (1) Boilers subject to inspection by any department or agency of the federal
+17 government.
+18 (2) Air tanks located on vehicles used for transporting passengers or freight.
+19 (3) Boilers of steam fire engines brought into the state for temporary use in
+20 times of emergency.
+21 (4) Portable boilers used for agricultural purposes only.
+22 (5) Steam heating boilers carrying not more than fifteen pounds pressure
+23 used exclusively for noncommercial purposes located in any private home.
+24 (6) Potable water boilers below one hundred twenty gallon capacity and less
+25 than two hundred thousand BTUs (British Thermal Units).
+26 (7) Hot water heating and supply boilers used exclusively for
+27 noncommercial purposes located in any private home.
+28 (8) Boilers located in any private home.
+Page 8 of 17
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-552 ENGROSSED
+HB NO. 799
+1 §1664.29. Fees for operating certificates
+2 A. The owner or operator of a boiler required by this Subpart to be inspected
+3 by a licensed inspector shall pay to the fire marshal a fee of one hundred fifty dollars
+4 for every operating certificate.
+5 B. Failure to pay operating certificate fees within thirty days following the
+6 date of the inspection may subject the owner, operator, or person requesting the
+7 special inspection to fines and penalties according to the fire marshal's rules and
+8 regulations.
+9 C. The fees for inspection provided for in this Section are intended to defray
+10 the cost of employment of the office of state fire marshal and shall be retained and
+11 disbursed by the fire marshal for this purpose.
+12 D. The provisions of this Section do not apply to commercial potable-water
+13 boilers of less than one hundred twenty gallons and two hundred thousand BTU
+14 capacity.
+15 §1664.30. Installation, moving, or reinstallation of power boilers, steam heating,
+16 water supply, potable water, or hot water boilers; licensing; examination; fees
+17 A. Any installation, moving, or reinstallation of power boilers, steam
+18 heating, water supply, potable water, or hot water heating boilers in this state shall
+19 be supervised by an installer licensed by the fire marshal to perform that work.
+20 B. The initial fee for an installer license is one hundred dollars payable to
+21 the fire marshal prior to issuance of that license. The annual renewal fee for an
+22 installer's license is fifty dollars payable on or before January thirty-first of each
+23 year.
+24 C. Each person applying to be licensed for the installation, moving, or
+25 reinstallation of power boilers, steam heating, water supply, potable water, or hot
+26 water heating boilers shall obtain a score of seventy percent or more on an
+27 examination administered by the fire marshal or his designated representative before
+28 an installer license is issued by the fire marshal.
+Page 9 of 17
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-552 ENGROSSED
+HB NO. 799
+1 D. The fee for the installer's license examination is one hundred fifty dollars,
+2 payable at the time of examination.
+3 §1664.31. Application for installation, moving, or reinstallation of a boiler; fee
+4 A. All boilers in this state shall be installed, moved, or reinstalled under the
+5 supervision of a licensed installer and that licensed installer shall submit a signed
+6 permit application to the fire marshal before the beginning of work. The application
+7 shall list all of the following:
+8 (1) The location of the boiler.
+9 (2) The date installation is to be completed.
+10 (3) The trade name of the boiler.
+11 (4) The type of boiler.
+12 (5) The manufacturer's and National Board's identifying number, and ASME
+13 Stamp.
+14 B. This application for permit to install, move, or reinstall a boiler shall be
+15 accompanied by an installation permit fee of one hundred fifty dollars and shall be
+16 signed by the licensed installer.
+17 §1664.32. Penalties
+18 No boiler in this state shall be installed, moved, or reinstalled without a
+19 permit issued to a licensed installer by the fire marshal or his designated
+20 representative. Whoever fails to comply with the provisions of R.S. 40:1664.30 and
+21 1664.31 may be fined not more than two hundred fifty dollars per day.
+22 §1664.33. Disposition of fees
+23 All fees collected pursuant to this Subpart shall be used exclusively for the
+24 operation and maintenance of the office of the state fire marshal.
+25 Section 3. Part II of Chapter 1 of Title 23 of the Louisiana Revised Statutes of 1950,
+26 comprised of R.S. 23:41 through 49, and Part III of Chapter 5 of Title 23 of the Louisiana
+27 Revised Statutes of 1950, comprised of R.S. 23:531 through 546, are hereby repealed in their
+28 entirety.
+29 Section 4. This Act shall become effective on January 1, 2027.
+Page 10 of 17
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-552 ENGROSSED
+HB NO. 799
+DIGEST
+The digest printed below was prepared by House Legislative Services. It constitutes no part
+of the legislative instrument. The keyword, one-liner, abstract, and digest do not constitute
+part of the law or proof or indicia of legislative intent. [R.S. 1:13(B) and 24:177(E)]
+HB 799 Engrossed 2026 Regular Session Fontenot
+Abstract: Provides relative to boilers.
+Present law provides for the regulation of boilers by the state fire marshal in present law
+(Title 23 of the Louisiana Revised Statutes of 1950).
+Proposed law updates the language of these statutes to modern standards, and moves
+provisions to proposed law (Part III of Chapter 7 of Title 40).
+Present law provides for the purposes and functions of offices within the Dept. of Public
+Safety and Corrections, including the office of state fire marshal.
+Proposed law amends present law regarding the purpose and function of the office of state
+fire marshal to reflect the changes being made in proposed law but otherwise retains present
+law.
+Present law provides for the Louisiana State Board of Boiler Examiners and its membership,
+powers, and duties, and provisions regarding examinations, certificates of competency, and
+revocation of certificates.
+Proposed law repeals provisions of present law relative to the Louisiana State Board of
+Boiler Examiners.
+Present law provides for the authority of the assistant secretary of office of state fire marshal
+to investigate and promulgate rules and regulations regarding construction, installation,
+repair, use, operation, and safety of boilers in this state.
+Proposed law grants the authority to the state fire marshal and amends the language for
+greater clarity and readability but otherwise maintains the provisions of present law.
+Present law provides that the fire marshal's rules and regulations conform as nearly as
+practicable to the boiler construction code of the American Society of Mechanical Engineers.
+Proposed law provides that the fire marshal's rules and regulations shall conform to the
+boiler construction code of the American Society of Mechanical Engineers but otherwise
+maintains the provisions of present law.
+Present law provides that the assistant secretary shall do the following:
+(1) Employ and compensate, with the approval of the governor, inspectors and other
+assistants and employees as he may deem necessary for the exercise of the powers
+and the performance of the duties prescribed in proposed law.
+(2) Have free access for himself or authorized representatives to any premises in the
+state where a boiler is being constructed, installed, or operated, for the purpose of
+ascertaining whether such boiler is built, repaired, installed, or operated in
+accordance with the provisions of proposed law.
+(3) Prosecute all violators of the provisions of proposed law.
+Page 11 of 17
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-552 ENGROSSED
+HB NO. 799
+(4) Issue, suspend, or revoke inspection certificates allowing boilers to be operated, as
+provided in proposed law.
+(5) Draw upon the state treasurer for funds necessary to meet any expense authorized by
+this Part which, in addition to the salaries of employees, shall include necessary
+traveling expenses and the expenses incident to the maintenance of any offices
+required in the state.
+(6) Enforce the laws governing the use of boilers and to enforce the rules and regulations
+of the assistant secretary.
+(7) Keep a complete record of the type, dimensions, age, condition, pressure allowed
+upon, location, and date of the last inspection, of all boilers to which proposed law
+applies.
+Proposed law provides that the fire marshal shall do all of the provisions provided in present
+law.
+Present law provides that the assistant secretary may, upon the request of any company
+authorized to insure against loss from explosion of boilers in this state, appoint the boiler
+inspectors of the company as special inspectors, who shall serve at his pleasure, provided
+that each such inspector holds a certificate of competency as an inspector of boilers from the
+National Board of Boiler and Pressure Vessel Inspectors.
+Present law provides that special inspectors shall inspect all boilers insured by their
+respective companies, and the owners or users of such insured boilers shall be exempt from
+the payment of inspection fees required in present law. Each company employing such
+special inspectors shall, within thirty days following each annual internal inspection made
+by them, file a report of such inspection with the assistant secretary upon appropriate forms
+as promulgated by the American Society of Mechanical Engineers.
+Proposed law provides that the fire marshal may license inspectors to inspect boilers in this
+state in accordance with the National Board Inspection Code published by the National
+Board of Boiler and Pressure Vessel Inspectors, the Controls and Safety Devices for
+Automatically Fired Boilers published by the American Society of Mechanical Engineers
+(ASME), and all applicable sections of the ASME codes.
+Proposed law provides that licensed inspectors shall not be compensated by the state, and
+shall do all of the following:
+(1) Hold an in-service inspector's commission from the National Board of Boiler and
+Pressure Vessel Inspectors.
+(2) Maintain employment with a company both authorized by the fire marshal to inspect
+boilers in this state and accredited by the National Board of Boiler and Pressure
+Vessel Inspectors as an authorized inspection agency performing in-service
+inspection activities as published in NB-369.
+(3) For an insured boiler, inspect that boiler within thirty days of the expiration date on
+the operating certificate of that boiler, whether the inspector is employed by or under
+contract with the insurance company. However, for an uninsured boiler, or for a
+boiler with an operating certificate that has expired for more than thirty days, such
+a boiler may be inspected by any licensed inspector holding a current and valid
+inspector commission in this state.
+(4) Submit a report of every boiler inspection to the fire marshal within fifteen calendar
+days from the date of the inspection, unless otherwise approved by the fire marshal.
+Page 12 of 17
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-552 ENGROSSED
+HB NO. 799
+Failure to submit the report within this time period may result in the fire marshal's
+rejection of the report.
+Present law provides separate procedures for the appointment of boiler inspectors for the city
+of New Orleans.
+Proposed law provides one procedure for the entire state.
+Present law provides that the assistant secretary may:
+(1) Revoke inspector recognition for cause and only after an administrative hearing.
+(2) Monitor inspection activities by the special inspectors for the city of New Orleans.
+(3) Follow up on overdue repair reports with the New Orleans inspection agency.
+(4) Promulgate rules and regulations through the Administrative Procedure Act as may
+be deemed necessary for the implementation of the provisions of present law.
+Proposed law provides that the fire marshal may do all of the following:
+(1) Revoke an inspector's license for cause and only after an administrative hearing.
+(2) Promulgate rules and regulations through the Administrative Procedure Act as may
+be deemed necessary for the implementation of the provisions of proposed law.
+Present law provides for the inspection schedule for power boilers, high-pressure and high-
+temperature water boilers, stationary boilers, and low-pressure boilers.
+Proposed law requires a written and signed statement by the owner or operator of a power
+boiler or a high-pressure, high-temperature water boiler affirming that the boiler is an
+integral part of or necessary adjunct to other continuous operations to apply for a 3 to 5 year
+extension of internal operating certificate inspection, but otherwise updates language and
+retains the provisions of present law.
+Present law provides for inspection certificates, and fees of $20 for the issuance of
+inspection certificate and $40 for extensions of internal inspection, and $200 for issuance
+of inspection certificate for a period not to exceed 5 years. Present law requires inspection
+certificates to be posted under glass in the room containing the boiler. In the case of a
+potable boiler, the certificate shall likewise be posted in a metal container fastened to a
+machine or tool box accompanying the boiler, and that no inspection certificate issued for
+a boiler inspected by a special inspector is valid after the boiler for which it was issued
+ceases to be insured by an authorized insurance company.
+Proposed law provides that a $150 fee shall be collected by the fire marshal for the issuance
+or reinstatement of any operating certificate and for any extension of internal inspection, and
+that the internal and external operating certificates shall be prominently posted on the boiler
+or in the room containing the boiler.
+Present law provides that the assistant secretary may at any time suspend an inspection
+certificate if the boiler for which it was issued cannot be operated safely, and that the
+suspension of an inspection certificate shall continue in effect until the boiler has been made
+to conform to the rules and regulations of the assistant secretary governing the use of boilers,
+and until the inspection certificate has been reinstated.
+Proposed law provides that the fire marshal or a licensed inspector may suspend an operating
+certificate when he reasonably believes the boiler for which it was issued cannot continue
+to be operated safely or in accordance with the fire marshal's rules and regulations. The
+Page 13 of 17
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-552 ENGROSSED
+HB NO. 799
+suspension of an operating certificate continues in effect until the boiler has been made to
+conform to the fire marshal's rules and regulations regarding boilers and until the fire
+marshal has reinstated the operating certificate. If the fire marshal or a licensed inspector
+finds that a boiler is operating unsafely or that the boiler constitutes an imminent hazard, the
+licensed inspector shall immediately order the boiler to be shut down, and shall notify the
+fire marshal of his findings within twenty-four hours. Proposed law provides that any
+shutdown shall be carried out in accordance with applicable safety standards and established
+safe shutdown procedures, and shall be consistent with documented operating and safety
+procedures, including appropriate coordination, isolation of energy sources, and any required
+internal or external notifications.
+Present law provides that the operation of a boiler without an inspection certificate, or at a
+pressure exceeding that specified in such inspection certificate constitutes a misdemeanor
+on the part of the owner, user, or operator thereof punishable by a fine of not less than $25
+nor more than $500, or imprisonment for not less than 10 days, nor more than 90 days, or
+both. Each day of such unlawful operation constitutes a separate offense.
+Proposed law provides for a warning and civil penalty system as follows:
+(1) When the fire marshal or a licensed inspector finds that the owner has failed to
+comply with the provisions of proposed law, or receives a report from a licensed
+inspector that a boiler is not in compliance with applicable safety standards, he shall
+issue a written warning and order to have the boiler repaired and reinspected.
+(2) If the fire marshal finds that the owner has failed to comply with his warning, the fire
+marshal shall issue a second order and may impose a fine of no more than $250 per
+day against the owner or operator for failure to comply with proposed law.
+Present law provides that no boiler shall be installed after six months from the date upon
+which the rules and regulations formulated by the assistant secretary governing new
+installations shall have become effective, unless the boiler conforms to such rules and
+regulations and that boilers installed and ready for use, or being used, before the six months
+shall have elapsed, shall be made to conform to the rules and regulations of the assistant
+secretary governing existing installations, and the formulas therein prescribed shall be used
+in determining the maximum allowable working pressure therefor.
+Proposed law updates language to modern standards but otherwise retains these provisions
+of present law.
+Present law provides for which types of boilers are exempt from present law.
+Proposed law retains the same provisions as present law.
+Present law provides the following fee schedule for boiler inspections:
+(1) Potable-water boilers $ 15.00
+(2) Heating boilers $ 35.00
+(3) Power boilers
+Internal External
+(a) 100 sq. ft. or less
+heating surface $ 20.00 $ 50.00
+Page 14 of 17
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-552 ENGROSSED
+HB NO. 799
+(b) Over 100 sq. ft. and
+not exceeding 1000
+sq. ft. heating surface $ 35.00 $75.00
+(c) Over 1000 sq. ft. heating surface $ 70.00 $150.00
+(4) Electric boilers $ 30.00 $50.00
+(5) Coil-type steam generators $ 50.00
+(6) Special inspections
+(a) $300.00 and expenses for up to one-half day $ 250.00*
+(b) $600.00 and expenses for one day $ 500.00*
+(7) Quality control program reviews
+(a) Boiler and pressure vessel manufacturers and repair organizations
+(1) $250.00 and expenses for up to one-half day
+(2) $400.00 and expenses for one day
+(b) Safety valve assembly and repair organizations
+(1) $250.00 and expenses for up to one-half day
+(2) $400.00 and expenses for one day
+(8) Nuclear surveys
+(a) $250.00 and expenses for up to one-half day
+(b) $500.00 and expenses for one day
+Proposed law provides a fee of $150 for any boiler inspection.
+Present law provides that the manufacturer of a boiler or pressure vessel required by present
+law to be inspected shall pay to the assistant secretary an inspection fee for the ASME, or
+National Board of Boiler and Pressure Vessel Inspectors “Shop Reviews for Certificate of
+Authorization”, or both, in the amount of $1500 per location review.
+Proposed law repeals this shop review fee.
+Present law further provides that provisions of present law are not applicable to commercial
+potable-water boilers of 50-gallon capacity or less.
+Proposed law provides that provisions of proposed law do not apply to boilers with less than
+120 gallons capacity or less than 200,000 BTU capacity.
+Present law provides that the assistant secretary may in his discretion require any employee
+to furnish a bond conditioned upon the faithful performance of his duties and upon a true
+account of moneys handled by him. The cost of these bonds shall be paid by the assistant
+secretary as a necessary administrative expense.
+Page 15 of 17
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-552 ENGROSSED
+HB NO. 799
+Proposed law repeals this provision.
+Present law provides that every person, firm, or corporation engaged in the installation,
+moving, or reinstallation of power boilers, steam heating, or hot water heating boilers in this
+state shall be licensed by the assistant secretary to perform such work.
+Proposed law provides that any of this work shall be supervised by a licensed installer.
+Present law provides that licensed installers or movers shall pay a $75 annual license fee.
+Proposed law provides for a $100 fee for installer license issuance and a $50 annual renewal
+fee.
+Present law provides that every person, firm, or corporation shall pass a written examination
+administered by the chief boiler inspector before licensure.
+Proposed law maintains this requirement but provides that a passing score is one of 70% or
+greater.
+Present law provides for a $50 exam fee.
+Proposed law raises this fee to $150.
+Present law provides that when any boiler in this state, the city of New Orleans excepted, is
+to be installed, moved, or reinstalled, the installer must be licensed by the assistant secretary
+to perform such work and shall submit an application to the chief boiler inspector.
+Proposed law removes the exception for the city of New Orleans and provides that the work
+be supervised by a licensed installer who shall submit a signed permit application to the fire
+marshal before beginning the work.
+Present law provides the application shall list the location of the boiler, the date installation
+is to be completed, the trade name of the boiler, the type of boiler, and the manufacturer's
+and National Board's identifying number.
+Proposed law maintains this requirement of present law.
+Present law provides an installation or moving permit fee of $25.
+Proposed law raises this fee to $150.
+Present law provides that no boiler in this state, the city of New Orleans excepted, shall be
+installed, moved, or reinstalled without a permit issued to a licensed person by a chief boiler
+inspector.
+Proposed law removes the exemption for the city of New Orleans.
+Present law provides that whoever fails to comply with the provisions of present law
+regarding installation or moving boilers shall be fined not more than $1000 or imprisoned
+for not more than one year, or both. Each violation hereunder shall constitute a separate
+offense.
+Proposed law provides that there shall be a $250 per day fine and removes the imprisonment
+penalty.
+Present law provides that all inspection certificate and installation permit fees collected shall
+be used exclusively for the operation and maintenance of the boiler section within the office
+of the state fire marshal, code enforcement and building safety.
+Page 16 of 17
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HLS 26RS-552 ENGROSSED
+HB NO. 799
+Proposed law provides that these fees shall be maintained for the operation and maintenance
+of the office of state fire marshal.
+Effective Jan. 1, 2027.
+(Amends R.S. 36:408(D)(1)(d); Adds R.S. 40:1664.21-1664.33; Repeals R.S. 23:41-49 and
+531-546)
+Summary of Amendments Adopted by House
+The Committee Amendments Proposed by House Committee on Commerce to the
+original bill:
+
+Section 2:
+1. Make technical changes.
+
+Section 3:
+2. Provide that the fire marshal may license inspectors in accordance with current
+codes and standards published by the National Board of Boiler and Pressure
+Vessel Inspectors and the American Society of Mechanical Engineers.
+
+Section 4:
+3. Provide that a licensed inspector shall maintain employment with a company
+both authorized by the fire marshal to inspect boilers in this state and accredited
+by the National Board of Boiler and Pressure Vessel Inspectors as an authorized
+inspection agency performing inservice inspection activities as published in
+NB-369.
+
+Section 5:
+4. Provide for duties of a licensed inspector relative to insured boilers, uninsured
+boilers, and boilers with an operating certificate expired for more than 30 days.
+
+Section 6:
+5. Provide that any boiler shutdown ordered by the fire marshal or a licensed
+inspector be conducted in accordance with applicable safety standards and
+documented procedures.
+Page 17 of 17
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+[DELETED: 2E 2 t 5 r t t i o b t e t o t s f m t p f r a r]
+[DELETED: 2E t i g o s o f t e o s r a a w a a p o l a b  T r a s f s c a n a p t t b t A S o M (  B r]
+[DELETED: 2E B a k a C p b t A S o]
+[DELETED: 2E A b t N B o B a P V a a a i a p i i]
+[DELETED: 2E w t t f t t b i a o b f a p n t e t m a i a  C w t u c a e]
+[DELETED: 2E i h r b t b f w i w i c]
+[DELETED: 2E w a s s a e s s a s b c w d o a s]
+[DELETED: 2E h b   H w h a s b u e f]
+[DELETED: 2E  A i m o r o p b s h b s o a s o s p o m o a]
+[DELETED: 2E i t a l i b t f m o h d]
+[DELETED: 2Ed2nF l u t l o t s t m s a m)E)H w s b i b r i o o i)P]
+[DELETED: 2E)I)D)E)K l p t s i s i a b i b t o B a P V I t C a S D f)H)M I a a a i a p i)F)S]
+[DELETED: 2E)R)M)F)P R)P l p f i c a f o $ f t i o]
+[DELETED: 2E W I t r a r f b t a s g n)Ps$)Hs$)PlE)1e$0$]
+[DELETED: 2E)Oe$0 $)Oe$0$)Es$0$)Cs$)S)$ $)$   $)Q)B)$)$)S)$)$)N)$)$]
+[DELETED: 2E t c t o p]
+[DELETED: 2E.M.P.P.P.P b c i a w a s s a]
+
+
+================================================================================
+
+Raw Text:
+HLS 26RS-552 ENGROSSED
+2026 Regular Session
+HOUSE BILL NO. 799
+BY REPRESENTATIVE FONTENOT
+FIRE PROTECT/FIRE MARSHAL: Provides relative to boilers
+1 AN ACT
+2 To amend and reenact R.S. 36:408(D)(1)(d) and to enact Subpart D-4 of Part III of Chapter
+3 7 of Title 40 of the Louisiana Revised Statutes of 1950, to be comprised of R.S.
+4 40:1664.21 through 1664.33 and to repeal Part II of Chapter 1 of Title 23 of the
+5 Louisiana Revised Statutes of 1950, comprised of R.S. 23:41 through 49, and Part
+6 III of Chapter 5 of Title 23 of the Louisiana Revised Statutes of 1950, comprised of
+7 R.S. 23:531 through 546, relative to the inspection of boilers; to establish the
+8 authority of the state fire marshal; to provide for rulemaking and regulatory
+9 authority; to provide for duties of the fire marshal; to provide for licensing of boiler
+10 inspectors; to provide for inspections of boilers; to provide for inspection certificates;
+11 to provide for fees; to provide for penalties; to provide boiler installation procedures;
+12 to provide for exemptions; to provide for examinations; to provide for an effective
+13 date; and to provide for related matters.
+14 Be it enacted by the Legislature of Louisiana:
+15 Section 1. R.S. 36:408(D)(1)(d) is hereby amended and reenacted to read as follows:
+16 §408. Offices; purposes and functions
+17 * * *
+18 D.(1) The office of state fire marshal, code enforcement and building safety,
+19 shall perform generally the functions of the state relating to the protection of life and
+20 property from the hazards of fire and of panic which may arise from fire or from the
+21 threat of fire or explosion, including but not necessarily restricted to:
+22 * * *
+Page 1 of 17
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-552 ENGROSSED
+HB NO. 799
+1 (d) Exclusive power to investigate and to make and prescribe rules and
+2 regulations for the proper construction, installation, repair, use, operation, and safety
+3 of boilers in the state, the city of New Orleans excepted to license boiler inspectors,
+4 and to issue general or special orders for the enforcement of such rules and
+5 regulations as well as any provision of law affecting boilers. The rules and
+6 regulations so formulated shall conform as nearly as practicable to the boiler
+7 construction code of the American Society of Mechanical Engineers, all as specified
+8 in R.S. 23:531 through 542 Subpart D-4 of Part III of Chapter 7 of Title 40 of the
+9 Louisiana Revised Statutes of 1950.
+10 * * *
+11 Section 2. Subpart D-4 of Part III of Chapter 7 of Title 40 of the Louisiana Revised
+12 Statutes of 1950, comprised of R.S. 40:1664.21 through 1664.33, is hereby enacted to read
+13 as follows:
+14 SUBPART D-4. BOILERS
+15 §1664.21. State fire marshal; authority to make rules; investigations
+16 A. The state fire marshal has the exclusive power to investigate, and to
+17 promulgate rules and regulations, in accordance with the Administrative Procedure
+18 Act, for the proper construction, installation, repair, use, operation, and safety of
+19 boilers in this state and to issue orders for the enforcement of rules and regulations
+20 as well as any provisions of law affecting boilers.
+21 B. The rules and regulations shall conform to the boiler construction code
+22 of the American Society of Mechanical Engineers (ASME). Boilers requiring
+23 ASME Code stamping by the owner, user, or fabricator in shop or field fabrication,
+24 assembly, modification, or repair shall be inspected in accordance with the ASME
+25 Code and national board standards.
+26 §1664.22. Duties of fire marshal
+27 The fire marshal may do all of the following:
+Page 2 of 17
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-552 ENGROSSED
+HB NO. 799
+1 (1) Employ and compensate, with the approval of the governor, inspectors
+2 and other assistants and employees as are necessary for the exercise of the powers
+3 and the performance of the duties prescribed in this Subpart.
+4 (2) Have free access to any premises in the state where a boiler is being
+5 constructed, installed, or operated, for the purpose of investigating whether that
+6 boiler is built, repaired, installed, or operated in accordance with the provisions of
+7 this Subpart.
+8 (3) Prosecute all violators of the provisions of this Subpart.
+9 (4) Issue, suspend, or revoke installation permits for boilers and operating
+10 certificates allowing boilers to be operated, as provided in this Subpart.
+11 (5) Draw upon the state treasurer for funds necessary to meet any expense
+12 authorized by this Subpart which, in addition to the salaries of employees, shall
+13 include necessary traveling expenses and the expenses incident to the maintenance
+14 of any offices required in the state.
+15 (6) Enforce the laws governing the use of boilers and to enforce the rules and
+16 regulations of the fire marshal.
+17 (7) Keep a complete record of the type, dimensions, age, condition, pressure
+18 allowed upon, location, and date of the last inspection of all boilers to which this
+19 Subpart applies.
+20 §1664.23. Licensed boiler inspectors
+21 A. The fire marshal may license inspectors to inspect boilers in this state in
+22 accordance with all of the following:
+23 (1) The current edition of the National Board Inspection Code published by
+24 the National Board of Boiler and Pressure Vessel Inspectors.
+25 (2) The current standards for Controls and Safety Devices for Automatically
+26 Fired Boilers, also known as CSD-1, published by the American Society of
+27 Mechanical Engineers (ASME).
+28 (3) All applicable sections of the ASME codes.
+Page 3 of 17
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-552 ENGROSSED
+HB NO. 799
+1 B. A licensed inspector shall receive no salary from nor shall any of his
+2 expenses be paid by the state except as provided in R.S. 40:1664.21(1). A licensed
+3 inspector shall do all of the following:
+4 (1) Hold an in-service inspector's commission from the National Board of
+5 Boiler and Pressure Vessel Inspectors.
+6 (2) Maintain employment with a company that is all of the following:
+7 (a) Accredited by the National Board of Boiler and Pressure Vessel
+8 Inspectors as an authorized inspection agency performing inservice inspection
+9 activities as published in NB-369.
+10 (b) Authorized by the fire marshal to inspect boilers in this state.
+11 (3)(a) For an insured boiler, inspect that boiler within thirty days of the
+12 expiration date on the operating certificate of that boiler, whether the inspector is
+13 employed by or under contract with the insurance company.
+14 (b) For an uninsured boiler, or for a boiler with an operating certificate that
+15 has been expired for more than thirty days, that boiler may be inspected by any
+16 licensed inspector holding a current and valid inspector commission in this state.
+17 (4) Submit a report of every boiler inspection to the fire marshal within
+18 fifteen calendar days from the date of the inspection, unless otherwise approved by
+19 the fire marshal. Failure to submit the report within this time period may result in the
+20 fire marshal's rejection of the report.
+21 C. The fire marshal may do all of the following:
+22 (1) Revoke an inspector's license for cause and only after an administrative
+23 hearing.
+24 (2) Promulgate rules and regulations through the Administrative Procedure
+25 Act as may be deemed necessary for the implementation of the provisions of this
+26 Section.
+27 §1664.24. Inspection of boilers; periods; extensions
+28 A. An external inspection of each power boiler or high-temperature, high-
+29 pressure water boiler in this state shall be conducted annually by a licensed boiler
+Page 4 of 17
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-552 ENGROSSED
+HB NO. 799
+1 inspector while the boiler is under normal operating conditions, except as provided
+2 in R.S. 40:1664.27.
+3 B. An internal inspection of each power boiler or high-temperature, high-
+4 pressure water boiler in this state shall be conducted annually by a licensed boiler
+5 inspector, except as provided in R.S. 40:1664.27 or in this Subsection as follows:
+6 (1)(a) A power boiler, the operation of which is an integral part of or
+7 necessary adjunct to other continuous operations, shall be inspected internally and
+8 issued operating certificates at intervals as are permitted by planned or scheduled
+9 shutdown of the processing operation of five days or more in duration occurring after
+10 three years have elapsed since the last inspection of the boiler, but not exceeding five
+11 years between such intervals.
+12 (b) A power boiler shall undergo at least one internal inspection before the
+13 owner or operator may apply for a three to five year operating certificate extension.
+14 (c) If the owner or operator of a power boiler submits a written and signed
+15 statement to the fire marshal affirming that the boiler is an integral part of or
+16 necessary adjunct to other continuous operations, the fire marshal may grant an
+17 extension of the interval between internal inspections of that boiler up to a maximum
+18 of five years.
+19 (2) The fire marshal may extend the interval between internal inspections of
+20 stationary boilers for a period not to exceed twenty-four months and issue an
+21 operating certificate extension if the owner or operator of that boiler submits a
+22 written and signed statement to the fire marshal affirming the following:
+23 (a) Continuous water treatment under competent and experienced
+24 supervision has been in effect since the last internal inspection for the purpose of
+25 controlling and limiting corrosion and deposits.
+26 (b) Accurate and complete records are available showing that since the last
+27 internal inspection samples of boiler water have been taken at regular intervals not
+28 greater than twenty-four hours of operation and that the water condition in the boiler
+29 is satisfactorily controlled.
+Page 5 of 17
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-552 ENGROSSED
+HB NO. 799
+1 (c) Accurate and complete records are available showing the dates, if any,
+2 that the boiler has been out of service and the reasons for the service disruption since
+3 the last internal inspection, and such records shall include the nature of all repairs to
+4 the boiler, the reasons for those repairs, and by whom the repairs were made.
+5 (d) The last internal and current external inspection of the boiler indicates
+6 the inspection period may be safely extended.
+7 C.(1) Low-pressure boilers shall receive inspections in accordance with the
+8 following schedule:
+9 (a) Steam or vapor boilers shall have an external inspection and an internal
+10 inspection every two years where construction permits.
+11 (b) Hot water heating and hot water supply boilers shall have an external
+12 inspection every two years and where construction permits, an internal inspection at
+13 the discretion of the inspector.
+14 (c) Potable water boilers shall have an external inspection every two years.
+15 (2) Inspections shall include the functions of all controls and devices. If at
+16 any time a hydrostatic test is deemed necessary to determine the safety of a boiler,
+17 the test shall be made by a licensed inspector or at the discretion of the fire marshal.
+18 §1664.25. Operating certificates; fees; issuance and suspension
+19 A.(1) If, upon inspection, a boiler is found to be suitable and to conform to
+20 the rules and regulations of the fire marshal, the fire marshal shall issue to the owner
+21 or operator of that boiler an operating certificate specifying the maximum pressure
+22 which the boiler may be allowed to carry.
+23 (2) A one hundred fifty dollar fee shall be collected by the fire marshal for
+24 the issuance or reinstatement of any operating certificate and for any extension of
+25 internal inspection.
+26 (3) The internal and external operating certificates shall be prominently
+27 posted on the boiler or in the room containing the boiler.
+28 B.(1) The fire marshal or a licensed inspector may suspend an operating
+29 certificate if he reasonably believes the boiler for which it was issued cannot
+Page 6 of 17
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-552 ENGROSSED
+HB NO. 799
+1 continue to be operated safely or in accordance with the fire marshal's rules and
+2 regulations. The suspension of an operating certificate shall continue in effect until
+3 the boiler has been made to conform to the fire marshal's rules and regulations
+4 regarding boilers and until the fire marshal has reinstated the operating certificate.
+5 (2) If the fire marshal or a licensed inspector finds that a boiler is operating
+6 unsafely or that the boiler constitutes an imminent hazard, the licensed inspector
+7 shall immediately order the boiler to be shut down, and shall notify the fire marshal
+8 of his findings within twenty-four hours. The shutdown shall be carried out in
+9 accordance with applicable safety standards and established safe shutdown
+10 procedures, and shall be consistent with documented operating and safety
+11 procedures, including appropriate coordination, isolation of energy sources, and any
+12 required internal or external notifications.
+13 C. The operating certificate fee provided for in this Section is intended to
+14 cover the cost of the issuance of those operating certificates and shall be retained and
+15 disbursed by the fire marshal.
+16 §1664.26. Operation of boiler without operating certificate; penalty
+17 A. The operation of a boiler without an operating certificate or with a
+18 suspended or expired operating certificate shall be penalized as follows:
+19 (1) If the fire marshal or a licensed inspector finds that the owner has failed
+20 to comply with the provisions of this Section, or receives a report from a licensed
+21 inspector that a boiler is not in compliance with applicable safety standards, he shall
+22 issue a written order to the boiler's owner or operator to have the boiler brought into
+23 compliance with applicable safety standards and to have a satisfactory inspection
+24 conducted before the boiler may be returned to operation.
+25 (2) If the fire marshal finds that the owner has failed to comply with his
+26 warning, the fire marshal shall issue a second order and may impose a fine of no
+27 more than two hundred fifty dollars per day against the owner or operator for failure
+28 to comply with this Section.
+Page 7 of 17
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-552 ENGROSSED
+HB NO. 799
+1 (3) The fire marshal may promulgate rules and regulations in accordance
+2 with the Administrative Procedure Act to implement provisions of this Section.
+3 B. Each day of unlawful operation shall constitute a separate offense.
+4 §1664.27. Installation of boilers
+5 No boiler shall be installed after six months following the date on which the
+6 rules and regulations promulgated by the fire marshal governing new installations
+7 become effective unless that boiler conforms to the newly-promulgated rules and
+8 regulations.
+9 §1664.28. Exemptions from provisions
+10 A. The provisions of this Subpart shall not be construed as in any way
+11 preventing the use or sale of boilers which have been installed or in use in this state
+12 prior to July 7, 1938, and which have been made to conform to the rules and
+13 regulations of the fire marshal governing existing installations, as provided in R.S.
+14 40:1664.26.
+15 B. The provisions of this Subpart are not applicable to any of the following:
+16 (1) Boilers subject to inspection by any department or agency of the federal
+17 government.
+18 (2) Air tanks located on vehicles used for transporting passengers or freight.
+19 (3) Boilers of steam fire engines brought into the state for temporary use in
+20 times of emergency.
+21 (4) Portable boilers used for agricultural purposes only.
+22 (5) Steam heating boilers carrying not more than fifteen pounds pressure
+23 used exclusively for noncommercial purposes located in any private home.
+24 (6) Potable water boilers below one hundred twenty gallon capacity and less
+25 than two hundred thousand BTUs (British Thermal Units).
+26 (7) Hot water heating and supply boilers used exclusively for
+27 noncommercial purposes located in any private home.
+28 (8) Boilers located in any private home.
+Page 8 of 17
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-552 ENGROSSED
+HB NO. 799
+1 §1664.29. Fees for operating certificates
+2 A. The owner or operator of a boiler required by this Subpart to be inspected
+3 by a licensed inspector shall pay to the fire marshal a fee of one hundred fifty dollars
+4 for every operating certificate.
+5 B. Failure to pay operating certificate fees within thirty days following the
+6 date of the inspection may subject the owner, operator, or person requesting the
+7 special inspection to fines and penalties according to the fire marshal's rules and
+8 regulations.
+9 C. The fees for inspection provided for in this Section are intended to defray
+10 the cost of employment of the office of state fire marshal and shall be retained and
+11 disbursed by the fire marshal for this purpose.
+12 D. The provisions of this Section do not apply to commercial potable-water
+13 boilers of less than one hundred twenty gallons and two hundred thousand BTU
+14 capacity.
+15 §1664.30. Installation, moving, or reinstallation of power boilers, steam heating,
+16 water supply, potable water, or hot water boilers; licensing; examination; fees
+17 A. Any installation, moving, or reinstallation of power boilers, steam
+18 heating, water supply, potable water, or hot water heating boilers in this state shall
+19 be supervised by an installer licensed by the fire marshal to perform that work.
+20 B. The initial fee for an installer license is one hundred dollars payable to
+21 the fire marshal prior to issuance of that license. The annual renewal fee for an
+22 installer's license is fifty dollars payable on or before January thirty-first of each
+23 year.
+24 C. Each person applying to be licensed for the installation, moving, or
+25 reinstallation of power boilers, steam heating, water supply, potable water, or hot
+26 water heating boilers shall obtain a score of seventy percent or more on an
+27 examination administered by the fire marshal or his designated representative before
+28 an installer license is issued by the fire marshal.
+Page 9 of 17
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-552 ENGROSSED
+HB NO. 799
+1 D. The fee for the installer's license examination is one hundred fifty dollars,
+2 payable at the time of examination.
+3 §1664.31. Application for installation, moving, or reinstallation of a boiler; fee
+4 A. All boilers in this state shall be installed, moved, or reinstalled under the
+5 supervision of a licensed installer and that licensed installer shall submit a signed
+6 permit application to the fire marshal before the beginning of work. The application
+7 shall list all of the following:
+8 (1) The location of the boiler.
+9 (2) The date installation is to be completed.
+10 (3) The trade name of the boiler.
+11 (4) The type of boiler.
+12 (5) The manufacturer's and National Board's identifying number, and ASME
+13 Stamp.
+14 B. This application for permit to install, move, or reinstall a boiler shall be
+15 accompanied by an installation permit fee of one hundred fifty dollars and shall be
+16 signed by the licensed installer.
+17 §1664.32. Penalties
+18 No boiler in this state shall be installed, moved, or reinstalled without a
+19 permit issued to a licensed installer by the fire marshal or his designated
+20 representative. Whoever fails to comply with the provisions of R.S. 40:1664.30 and
+21 1664.31 may be fined not more than two hundred fifty dollars per day.
+22 §1664.33. Disposition of fees
+23 All fees collected pursuant to this Subpart shall be used exclusively for the
+24 operation and maintenance of the office of the state fire marshal.
+25 Section 3. Part II of Chapter 1 of Title 23 of the Louisiana Revised Statutes of 1950,
+26 comprised of R.S. 23:41 through 49, and Part III of Chapter 5 of Title 23 of the Louisiana
+27 Revised Statutes of 1950, comprised of R.S. 23:531 through 546, are hereby repealed in their
+28 entirety.
+29 Section 4. This Act shall become effective on January 1, 2027.
+Page 10 of 17
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-552 ENGROSSED
+HB NO. 799
+DIGEST
+The digest printed below was prepared by House Legislative Services. It constitutes no part
+of the legislative instrument. The keyword, one-liner, abstract, and digest do not constitute
+part of the law or proof or indicia of legislative intent. [R.S. 1:13(B) and 24:177(E)]
+HB 799 Engrossed 2026 Regular Session Fontenot
+Abstract: Provides relative to boilers.
+Present law provides for the regulation of boilers by the state fire marshal in present law
+(Title 23 of the Louisiana Revised Statutes of 1950).
+Proposed law updates the language of these statutes to modern standards, and moves
+provisions to proposed law (Part III of Chapter 7 of Title 40).
+Present law provides for the purposes and functions of offices within the Dept. of Public
+Safety and Corrections, including the office of state fire marshal.
+Proposed law amends present law regarding the purpose and function of the office of state
+fire marshal to reflect the changes being made in proposed law but otherwise retains present
+law.
+Present law provides for the Louisiana State Board of Boiler Examiners and its membership,
+powers, and duties, and provisions regarding examinations, certificates of competency, and
+revocation of certificates.
+Proposed law repeals provisions of present law relative to the Louisiana State Board of
+Boiler Examiners.
+Present law provides for the authority of the assistant secretary of office of state fire marshal
+to investigate and promulgate rules and regulations regarding construction, installation,
+repair, use, operation, and safety of boilers in this state.
+Proposed law grants the authority to the state fire marshal and amends the language for
+greater clarity and readability but otherwise maintains the provisions of present law.
+Present law provides that the fire marshal's rules and regulations conform as nearly as
+practicable to the boiler construction code of the American Society of Mechanical Engineers.
+Proposed law provides that the fire marshal's rules and regulations shall conform to the
+boiler construction code of the American Society of Mechanical Engineers but otherwise
+maintains the provisions of present law.
+Present law provides that the assistant secretary shall do the following:
+(1) Employ and compensate, with the approval of the governor, inspectors and other
+assistants and employees as he may deem necessary for the exercise of the powers
+and the performance of the duties prescribed in proposed law.
+(2) Have free access for himself or authorized representatives to any premises in the
+state where a boiler is being constructed, installed, or operated, for the purpose of
+ascertaining whether such boiler is built, repaired, installed, or operated in
+accordance with the provisions of proposed law.
+(3) Prosecute all violators of the provisions of proposed law.
+Page 11 of 17
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-552 ENGROSSED
+HB NO. 799
+(4) Issue, suspend, or revoke inspection certificates allowing boilers to be operated, as
+provided in proposed law.
+(5) Draw upon the state treasurer for funds necessary to meet any expense authorized by
+this Part which, in addition to the salaries of employees, shall include necessary
+traveling expenses and the expenses incident to the maintenance of any offices
+required in the state.
+(6) Enforce the laws governing the use of boilers and to enforce the rules and regulations
+of the assistant secretary.
+(7) Keep a complete record of the type, dimensions, age, condition, pressure allowed
+upon, location, and date of the last inspection, of all boilers to which proposed law
+applies.
+Proposed law provides that the fire marshal shall do all of the provisions provided in present
+law.
+Present law provides that the assistant secretary may, upon the request of any company
+authorized to insure against loss from explosion of boilers in this state, appoint the boiler
+inspectors of the company as special inspectors, who shall serve at his pleasure, provided
+that each such inspector holds a certificate of competency as an inspector of boilers from the
+National Board of Boiler and Pressure Vessel Inspectors.
+Present law provides that special inspectors shall inspect all boilers insured by their
+respective companies, and the owners or users of such insured boilers shall be exempt from
+the payment of inspection fees required in present law. Each company employing such
+special inspectors shall, within thirty days following each annual internal inspection made
+by them, file a report of such inspection with the assistant secretary upon appropriate forms
+as promulgated by the American Society of Mechanical Engineers.
+Proposed law provides that the fire marshal may license inspectors to inspect boilers in this
+state in accordance with the National Board Inspection Code published by the National
+Board of Boiler and Pressure Vessel Inspectors, the Controls and Safety Devices for
+Automatically Fired Boilers published by the American Society of Mechanical Engineers
+(ASME), and all applicable sections of the ASME codes.
+Proposed law provides that licensed inspectors shall not be compensated by the state, and
+shall do all of the following:
+(1) Hold an in-service inspector's commission from the National Board of Boiler and
+Pressure Vessel Inspectors.
+(2) Maintain employment with a company both authorized by the fire marshal to inspect
+boilers in this state and accredited by the National Board of Boiler and Pressure
+Vessel Inspectors as an authorized inspection agency performing in-service
+inspection activities as published in NB-369.
+(3) For an insured boiler, inspect that boiler within thirty days of the expiration date on
+the operating certificate of that boiler, whether the inspector is employed by or under
+contract with the insurance company. However, for an uninsured boiler, or for a
+boiler with an operating certificate that has expired for more than thirty days, such
+a boiler may be inspected by any licensed inspector holding a current and valid
+inspector commission in this state.
+(4) Submit a report of every boiler inspection to the fire marshal within fifteen calendar
+days from the date of the inspection, unless otherwise approved by the fire marshal.
+Page 12 of 17
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-552 ENGROSSED
+HB NO. 799
+Failure to submit the report within this time period may result in the fire marshal's
+rejection of the report.
+Present law provides separate procedures for the appointment of boiler inspectors for the city
+of New Orleans.
+Proposed law provides one procedure for the entire state.
+Present law provides that the assistant secretary may:
+(1) Revoke inspector recognition for cause and only after an administrative hearing.
+(2) Monitor inspection activities by the special inspectors for the city of New Orleans.
+(3) Follow up on overdue repair reports with the New Orleans inspection agency.
+(4) Promulgate rules and regulations through the Administrative Procedure Act as may
+be deemed necessary for the implementation of the provisions of present law.
+Proposed law provides that the fire marshal may do all of the following:
+(1) Revoke an inspector's license for cause and only after an administrative hearing.
+(2) Promulgate rules and regulations through the Administrative Procedure Act as may
+be deemed necessary for the implementation of the provisions of proposed law.
+Present law provides for the inspection schedule for power boilers, high-pressure and high-
+temperature water boilers, stationary boilers, and low-pressure boilers.
+Proposed law requires a written and signed statement by the owner or operator of a power
+boiler or a high-pressure, high-temperature water boiler affirming that the boiler is an
+integral part of or necessary adjunct to other continuous operations to apply for a 3 to 5 year
+extension of internal operating certificate inspection, but otherwise updates language and
+retains the provisions of present law.
+Present law provides for inspection certificates, and fees of $20 for the issuance of
+inspection certificate and $40 for extensions of internal inspection, and $200 for issuance
+of inspection certificate for a period not to exceed 5 years. Present law requires inspection
+certificates to be posted under glass in the room containing the boiler. In the case of a
+potable boiler, the certificate shall likewise be posted in a metal container fastened to a
+machine or tool box accompanying the boiler, and that no inspection certificate issued for
+a boiler inspected by a special inspector is valid after the boiler for which it was issued
+ceases to be insured by an authorized insurance company.
+Proposed law provides that a $150 fee shall be collected by the fire marshal for the issuance
+or reinstatement of any operating certificate and for any extension of internal inspection, and
+that the internal and external operating certificates shall be prominently posted on the boiler
+or in the room containing the boiler.
+Present law provides that the assistant secretary may at any time suspend an inspection
+certificate if the boiler for which it was issued cannot be operated safely, and that the
+suspension of an inspection certificate shall continue in effect until the boiler has been made
+to conform to the rules and regulations of the assistant secretary governing the use of boilers,
+and until the inspection certificate has been reinstated.
+Proposed law provides that the fire marshal or a licensed inspector may suspend an operating
+certificate when he reasonably believes the boiler for which it was issued cannot continue
+to be operated safely or in accordance with the fire marshal's rules and regulations. The
+Page 13 of 17
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-552 ENGROSSED
+HB NO. 799
+suspension of an operating certificate continues in effect until the boiler has been made to
+conform to the fire marshal's rules and regulations regarding boilers and until the fire
+marshal has reinstated the operating certificate. If the fire marshal or a licensed inspector
+finds that a boiler is operating unsafely or that the boiler constitutes an imminent hazard, the
+licensed inspector shall immediately order the boiler to be shut down, and shall notify the
+fire marshal of his findings within twenty-four hours. Proposed law provides that any
+shutdown shall be carried out in accordance with applicable safety standards and established
+safe shutdown procedures, and shall be consistent with documented operating and safety
+procedures, including appropriate coordination, isolation of energy sources, and any required
+internal or external notifications.
+Present law provides that the operation of a boiler without an inspection certificate, or at a
+pressure exceeding that specified in such inspection certificate constitutes a misdemeanor
+on the part of the owner, user, or operator thereof punishable by a fine of not less than $25
+nor more than $500, or imprisonment for not less than 10 days, nor more than 90 days, or
+both. Each day of such unlawful operation constitutes a separate offense.
+Proposed law provides for a warning and civil penalty system as follows:
+(1) When the fire marshal or a licensed inspector finds that the owner has failed to
+comply with the provisions of proposed law, or receives a report from a licensed
+inspector that a boiler is not in compliance with applicable safety standards, he shall
+issue a written warning and order to have the boiler repaired and reinspected.
+(2) If the fire marshal finds that the owner has failed to comply with his warning, the fire
+marshal shall issue a second order and may impose a fine of no more than $250 per
+day against the owner or operator for failure to comply with proposed law.
+Present law provides that no boiler shall be installed after six months from the date upon
+which the rules and regulations formulated by the assistant secretary governing new
+installations shall have become effective, unless the boiler conforms to such rules and
+regulations and that boilers installed and ready for use, or being used, before the six months
+shall have elapsed, shall be made to conform to the rules and regulations of the assistant
+secretary governing existing installations, and the formulas therein prescribed shall be used
+in determining the maximum allowable working pressure therefor.
+Proposed law updates language to modern standards but otherwise retains these provisions
+of present law.
+Present law provides for which types of boilers are exempt from present law.
+Proposed law retains the same provisions as present law.
+Present law provides the following fee schedule for boiler inspections:
+(1) Potable-water boilers $ 15.00
+(2) Heating boilers $ 35.00
+(3) Power boilers
+Internal External
+(a) 100 sq. ft. or less
+heating surface $ 20.00 $ 50.00
+Page 14 of 17
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-552 ENGROSSED
+HB NO. 799
+(b) Over 100 sq. ft. and
+not exceeding 1000
+sq. ft. heating surface $ 35.00 $75.00
+(c) Over 1000 sq. ft. heating surface $ 70.00 $150.00
+(4) Electric boilers $ 30.00 $50.00
+(5) Coil-type steam generators $ 50.00
+(6) Special inspections
+(a) $300.00 and expenses for up to one-half day $ 250.00*
+(b) $600.00 and expenses for one day $ 500.00*
+(7) Quality control program reviews
+(a) Boiler and pressure vessel manufacturers and repair organizations
+(1) $250.00 and expenses for up to one-half day
+(2) $400.00 and expenses for one day
+(b) Safety valve assembly and repair organizations
+(1) $250.00 and expenses for up to one-half day
+(2) $400.00 and expenses for one day
+(8) Nuclear surveys
+(a) $250.00 and expenses for up to one-half day
+(b) $500.00 and expenses for one day
+Proposed law provides a fee of $150 for any boiler inspection.
+Present law provides that the manufacturer of a boiler or pressure vessel required by present
+law to be inspected shall pay to the assistant secretary an inspection fee for the ASME, or
+National Board of Boiler and Pressure Vessel Inspectors “Shop Reviews for Certificate of
+Authorization”, or both, in the amount of $1500 per location review.
+Proposed law repeals this shop review fee.
+Present law further provides that provisions of present law are not applicable to commercial
+potable-water boilers of 50-gallon capacity or less.
+Proposed law provides that provisions of proposed law do not apply to boilers with less than
+120 gallons capacity or less than 200,000 BTU capacity.
+Present law provides that the assistant secretary may in his discretion require any employee
+to furnish a bond conditioned upon the faithful performance of his duties and upon a true
+account of moneys handled by him. The cost of these bonds shall be paid by the assistant
+secretary as a necessary administrative expense.
+Page 15 of 17
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-552 ENGROSSED
+HB NO. 799
+Proposed law repeals this provision.
+Present law provides that every person, firm, or corporation engaged in the installation,
+moving, or reinstallation of power boilers, steam heating, or hot water heating boilers in this
+state shall be licensed by the assistant secretary to perform such work.
+Proposed law provides that any of this work shall be supervised by a licensed installer.
+Present law provides that licensed installers or movers shall pay a $75 annual license fee.
+Proposed law provides for a $100 fee for installer license issuance and a $50 annual renewal
+fee.
+Present law provides that every person, firm, or corporation shall pass a written examination
+administered by the chief boiler inspector before licensure.
+Proposed law maintains this requirement but provides that a passing score is one of 70% or
+greater.
+Present law provides for a $50 exam fee.
+Proposed law raises this fee to $150.
+Present law provides that when any boiler in this state, the city of New Orleans excepted, is
+to be installed, moved, or reinstalled, the installer must be licensed by the assistant secretary
+to perform such work and shall submit an application to the chief boiler inspector.
+Proposed law removes the exception for the city of New Orleans and provides that the work
+be supervised by a licensed installer who shall submit a signed permit application to the fire
+marshal before beginning the work.
+Present law provides the application shall list the location of the boiler, the date installation
+is to be completed, the trade name of the boiler, the type of boiler, and the manufacturer's
+and National Board's identifying number.
+Proposed law maintains this requirement of present law.
+Present law provides an installation or moving permit fee of $25.
+Proposed law raises this fee to $150.
+Present law provides that no boiler in this state, the city of New Orleans excepted, shall be
+installed, moved, or reinstalled without a permit issued to a licensed person by a chief boiler
+inspector.
+Proposed law removes the exemption for the city of New Orleans.
+Present law provides that whoever fails to comply with the provisions of present law
+regarding installation or moving boilers shall be fined not more than $1000 or imprisoned
+for not more than one year, or both. Each violation hereunder shall constitute a separate
+offense.
+Proposed law provides that there shall be a $250 per day fine and removes the imprisonment
+penalty.
+Present law provides that all inspection certificate and installation permit fees collected shall
+be used exclusively for the operation and maintenance of the boiler section within the office
+of the state fire marshal, code enforcement and building safety.
+Page 16 of 17
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-552 ENGROSSED
+HB NO. 799
+Proposed law provides that these fees shall be maintained for the operation and maintenance
+of the office of state fire marshal.
+Effective Jan. 1, 2027.
+(Amends R.S. 36:408(D)(1)(d); Adds R.S. 40:1664.21-1664.33; Repeals R.S. 23:41-49 and
+531-546)
+Summary of Amendments Adopted by House
+The Committee Amendments Proposed by House Committee on Commerce to the
+original bill:
+1. Make technical changes.
+2. Provide that the fire marshal may license inspectors in accordance with current
+codes and standards published by the National Board of Boiler and Pressure
+Vessel Inspectors and the American Society of Mechanical Engineers.
+3. Provide that a licensed inspector shall maintain employment with a company
+both authorized by the fire marshal to inspect boilers in this state and accredited
+by the National Board of Boiler and Pressure Vessel Inspectors as an authorized
+inspection agency performing inservice inspection activities as published in
+NB-369.
+4. Provide for duties of a licensed inspector relative to insured boilers, uninsured
+boilers, and boilers with an operating certificate expired for more than 30 days.
+5. Provide that any boiler shutdown ordered by the fire marshal or a licensed
+inspector be conducted in accordance with applicable safety standards and
+documented procedures.
+Page 17 of 17
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+[DELETED: 2E 2 t 5 r t t i o b t e t o t s f m t p f r a r]
+[DELETED: 2E t i g o s o f t e o s r a a w a a p o l a b  T r a s f s c a n a p t t b t A S o M (  B r]
+[DELETED: 2E B a k a C p b t A S o]
+[DELETED: 2E A b t N B o B a P V a a a i a p i i]
+[DELETED: 2E w t t f t t b i a o b f a p n t e t m a i a  C w t u c a e]
+[DELETED: 2E i h r b t b f w i w i c]
+[DELETED: 2E w a s s a e s s a s b c w d o a s]
+[DELETED: 2E h b   H w h a s b u e f]
+[DELETED: 2E  A i m o r o p b s h b s o a s o s p o m o a]
+[DELETED: 2E i t a l i b t f m o h d]
+[DELETED: 2Ed2nF l u t l o t s t m s a m)E)H w s b i b r i o o i)P]
+[DELETED: 2E)I)D)E)K l p t s i s i a b i b t o B a P V I t C a S D f)H)M I a a a i a p i)F)S]
+[DELETED: 2E)R)M)F)P R)P l p f i c a f o $ f t i o]
+[DELETED: 2E W I t r a r f b t a s g n)Ps$)Hs$)PlE)1e$0$]
+[DELETED: 2E)Oe$0 $)Oe$0$)Es$0$)Cs$)S)$ $)$   $)Q)B)$)$)S)$)$)N)$)$]
+[DELETED: 2E t c t o p]
+[DELETED: 2E.M.P.P.P.P b c i a w a s s a]

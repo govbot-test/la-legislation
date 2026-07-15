@@ -1,0 +1,69 @@
+Title: Amendments proposed by House Committee on Health and Welfare to Original House Bill
+Official Title: Amendments proposed by House Committee on Health and Welfare to Original House Bill
+Number of Sections: 1
+Source: versions - House Committee Amendment, #4308, H&W, Draft
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+HCAHB1028 4465 4308
+HOUSE COMMITTEE AMENDMENTS
+2026 Regular Session
+No. 1028 by Representative Lyons
+1 AMENDMENT NO. 1
+2 On page 1, line 2, change "R.S. 40:1257.2(C)" to "R.S. 40:1257.2(C) through (F)"
+3 AMENDMENT NO. 2
+4 On page 1, line 4, after "rate;" and before "and" insert "to provide for the promulgation of
+5 rules; to require an appropriation of funds;"
+6 AMENDMENT NO. 3
+7 On page 1, line 7, change "R.S. 40:1257.2(C) is" to "R.S. 40:1257.2(C) through (F) are"
+8 AMENDMENT NO. 4
+9 On page 1, between lines 13 and 14, insert the following:
+10 "D. The department shall promulgate rules to establish a NEMT rate
+11 methodology for multiple passenger trips that contains reduced rates based on the
+12 number of passengers being transported.
+13 E. The department shall not allow an individual to be transported via NEMT
+14 to a Medicaid covered service outside of the individual's parish of residence or
+15 contiguous parishes unless there is a determination of medical necessity.
+16 F. The Louisiana Medicaid program shall not increase the rates required by
+17 Subsection C of this Section until the legislature has appropriated the funding
+18 necessary for the provision of such increase."
+Page 1 of 1
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+[DELETED: AOAOrAOAO0" T d s p r t e a N r1m2n3E4t5c6F7S C o t S u t l h a f8n]
+
+
+================================================================================
+
+Raw Text:
+HCAHB1028 4465 4308
+HOUSE COMMITTEE AMENDMENTS
+2026 Regular Session
+Amendments proposed by House Committee on Health and Welfare to Original House Bill
+No. 1028 by Representative Lyons
+1 AMENDMENT NO. 1
+2 On page 1, line 2, change "R.S. 40:1257.2(C)" to "R.S. 40:1257.2(C) through (F)"
+3 AMENDMENT NO. 2
+4 On page 1, line 4, after "rate;" and before "and" insert "to provide for the promulgation of
+5 rules; to require an appropriation of funds;"
+6 AMENDMENT NO. 3
+7 On page 1, line 7, change "R.S. 40:1257.2(C) is" to "R.S. 40:1257.2(C) through (F) are"
+8 AMENDMENT NO. 4
+9 On page 1, between lines 13 and 14, insert the following:
+10 "D. The department shall promulgate rules to establish a NEMT rate
+11 methodology for multiple passenger trips that contains reduced rates based on the
+12 number of passengers being transported.
+13 E. The department shall not allow an individual to be transported via NEMT
+14 to a Medicaid covered service outside of the individual's parish of residence or
+15 contiguous parishes unless there is a determination of medical necessity.
+16 F. The Louisiana Medicaid program shall not increase the rates required by
+17 Subsection C of this Section until the legislature has appropriated the funding
+18 necessary for the provision of such increase."
+Page 1 of 1
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+[DELETED: AOAOrAOAO0" T d s p r t e a N r1m2n3E4t5c6F7S C o t S u t l h a f8n]
