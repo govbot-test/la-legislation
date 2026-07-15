@@ -1,0 +1,628 @@
+Title: Amendments proposed by House Committee on Civil Law and Procedure to Original House
+Official Title: Amendments proposed by House Committee on Civil Law and Procedure to Original House
+Number of Sections: 1
+Source: versions - House Committee Amendment, #1570, CL&P, Draft
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+HCAHB142 4747 1570
+HOUSE COMMITTEE AMENDMENTS
+2026 Regular Session
+Bill No. 142 by Representative Muscarello
+1 AMENDMENT NO. 1
+2 On page 1, line 2, after "Articles" and before "1426(A)(introductory paragraph)" insert
+3 "561,"
+4 AMENDMENT NO. 2
+5 On page 1, line 3, after "1572," and before "1841" insert "1702(C),"
+6 AMENDMENT NO. 3
+7 On page 1, line 3, delete "2083(B), and 4922" and insert "2083(B), 2126, 2128, 2166(F),
+8 2167(D), and 4922"
+9 AMENDMENT NO. 4
+10 On page 1, line 7, after "Statutes;" insert "to provide with respect to abandonment;"
+11 AMENDMENT NO. 5
+12 On page 1, line 7, after "trial;" insert "to provide with respect to default judgments;"
+13 AMENDMENT NO. 6
+14 On page 1, at the beginning of line 9, delete "respect to notice of trial;" and insert "respect
+15 to payment of costs and designation of the record on appeal; to provide with respect to
+16 transmission of notice;"
+17 AMENDMENT NO. 7
+18 On page 1, line 13, after "Articles" and before "1426(A)(introductory paragraph)" insert
+19 "561,"
+20 AMENDMENT NO. 8
+21 On page 1, line 14, after "1572," and before "1841" insert "1702(C),"
+22 AMENDMENT NO. 9
+23 On page 1, line 14, delete "2083(B), and 4922" and insert "2083(B), 2126, 2128, 2166(F),
+24 2167(D), and 4922"
+25 AMENDMENT NO. 10
+26 On page 1, between lines 15 and 16, insert the following:
+27 "Art. 561. Abandonment in trial and appellate court
+28 A.(1) An action is abandoned when the parties fail to take any step in its
+29 prosecution or defense in the trial court for a period of three years, unless it is a
+30 succession proceeding:
+31 (a) Which has been opened;
+32 (b) In which an administrator or executor has been appointed; or
+Page 1 of 6
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HCAHB142 4747 1570
+1 (c) In which a testament has been probated.
+2 (2) This provision Article shall be operative without formal order, but, on ex
+3 parte motion of any party or other interested person by affidavit that states that no
+4 step has been timely taken in the prosecution or defense of the action, the trial court
+5 shall enter a formal order of dismissal as of the date of its abandonment. The sheriff
+6 shall serve the order in the manner provided in Article 1314 and shall execute a
+7 return pursuant to Article 1292. A step in the prosecution or defense in the trial court
+8 shall interrupt the abandonment period. After the three-year abandonment period has
+9 expired, the defendant may renounce the defense of abandonment.
+10 (3) A motion to set aside a dismissal may be made only within thirty days of
+11 the date of the sheriff's service of the order of dismissal. If the trial court denies a
+12 timely motion to set aside the dismissal, the clerk of court shall give notice of the
+13 order of denial pursuant to Article 1913(A) and shall file a certificate pursuant to
+14 Article 1913(D). Any formal discovery authorized by this Code, whether or not filed
+15 of record, including the taking of a deposition with or without formal notice,
+16 constitutes a step in the prosecution or defense of an action against all parties on
+17 whom the discovery was served or who were in attendance or represented at the
+18 deposition.
+19 (4) An appeal of an order of dismissal may be taken only within sixty days
+20 of the date of the sheriff's service of the order of dismissal. An appeal of an order of
+21 denial may be taken only within sixty days of the date of the clerk's mailing of the
+22 order of denial.
+23 B.(1) Any formal discovery as authorized by this Code and served on all
+24 parties whether or not filed of record, including the taking of a deposition with or
+25 without formal notice, shall be deemed to be a step in the prosecution or defense of
+26 an action. Any party or other interested person may file an ex parte motion to dismiss
+27 based on abandonment and shall attach to the motion to dismiss an affidavit of the
+28 mover or the mover’s attorney of record certifying all of the following:
+29 (a) The three-year abandonment period has expired.
+30 (b) No timely step in the prosecution or defense of the action has been taken
+31 in accordance with Subparagraph (A)(2) or (3) of this Article.
+32 (c) No renunciation has occurred in accordance with Subparagraph (A)(2) of
+33 this Article.
+34 (2) The affidavit shall also include a list of all pleadings, documents, or
+35 judgments that have been filed in the record during the three years preceding the date
+36 on which the mover claims that the abandonment period expired. The mover shall
+37 also list and attach all written communication pertaining to the action between the
+38 mover and any adverse party or their attorneys of record in the one year preceding
+39 the date on which the mover claims that the abandonment period expired.
+40 C. The court shall enter an ex parte judgment of dismissal without prejudice
+41 as of the date of the abandonment of the action if the record confirms and the
+42 mover’s accompanying affidavit attests to all of the following:
+43 (1) The three-year abandonment period has expired.
+44 (2) No timely step in the prosecution or defense of an action has been taken
+45 in accordance with Subparagraph (A)(2) or (3) of this Article.
+46 (3) The defendant has not renounced the defense of abandonment in
+47 accordance with Subparagraph (A)(2) of this Article.
+48 (4) No pleadings, documents, or judgments have been filed in the record
+49 during the three years immediately preceding the expiration of the abandonment
+50 period.
+51 (5) There has been no written communication pertaining to the action
+52 between the mover and any adverse party or their attorneys of record during the last
+53 year of the abandonment period.
+54 D. If the mover’s affidavit certifies that any pleadings, documents, or
+55 judgments have been filed in the record during the three years preceding the
+56 expiration of the abandonment period or that there has been written communication
+57 pertaining to the action between the mover and any adverse party or their attorneys
+58 of record during the one year preceding the expiration of the abandonment period,
+Page 2 of 6
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HCAHB142 4747 1570
+1 the court shall either sign the judgment of dismissal ex parte or set the motion to
+2 dismiss for a contradictory hearing.
+3 E. The sheriff shall serve the ex parte judgment of dismissal in accordance
+4 with Article 1314 and shall execute a return pursuant to Article 1292.
+5 F. If an ex parte judgment of dismissal is granted, a motion to set aside the
+6 dismissal may be filed within thirty days after the date of the sheriff’s service of the
+7 judgment of dismissal. At the hearing to set aside the dismissal, the burden of proof
+8 rests with the mover of the original motion to dismiss based on abandonment. If the
+9 trial court denies a timely motion to set aside the dismissal, the clerk of court shall
+10 send notice of the order of denial pursuant to Article 1913(A) and shall file a
+11 certificate pursuant to Article 1913(D).
+12 G.(1) An appeal of a judgment of dismissal rendered ex parte may be taken
+13 within sixty days after the date of the sheriff’s service of the judgment of dismissal
+14 pursuant to Paragraph E of this Article.
+15 (2) An appeal of a judgment of dismissal rendered after a contradictory
+16 hearing may be taken within sixty days after the clerk’s transmission of that
+17 judgment.
+18 (3) An appeal of a denial of the motion to set aside a dismissal filed pursuant
+19 to Paragraph F of this Article may be taken within sixty days after the clerk’s
+20 transmission of the order of denial.
+21 C. H. An appeal is abandoned when the parties fail to take any step in its
+22 prosecution or disposition for the period provided in the rules of the appellate court.
+23 I. The granting of a motion to set aside a judgment of dismissal based on
+24 abandonment and the reversal of a judgment of dismissal on appeal shall each
+25 constitute a step in the prosecution or defense of an action.
+26 J. For the purposes of this Article, "transmission" means the sending of notice
+27 via the United States Postal Service, a commercial courier, or electronic mail.
+28 K. This Article does not apply to succession proceedings.
+29 Comments – 2026
+30 (a) The amendments to Subparagraph (A)(2) of this Article retain the rule that
+31 abandonment is operative without formal order. The amendments also adopt current
+32 jurisprudential rules providing that a step in the prosecution or defense of an action
+33 interrupts the three-year abandonment period and that, after the three-year
+34 abandonment period has expired, the defendant may renounce the defense of
+35 abandonment. See Foundation Elevation & Repair, LLC v. Miller, 408 So. 3d 893
+36 (La. 2025).
+37 (b) Subparagraph (B)(1) of this Article is new and requires that a more
+38 detailed affidavit be included with the ex parte motion to dismiss based on
+39 abandonment.
+40 (c) Paragraph C of this Article now requires the court to sign an ex parte
+41 judgment of dismissal without prejudice if the mover’s affidavit attests to all of the
+42 following: the abandonment period has expired; no timely step in the prosecution or
+43 defense of the action has occurred; the defendant has not renounced the defense of
+44 abandonment; no pleadings, documents, or judgments have been filed in the record
+45 during the three years immediately preceding the expiration of the abandonment
+46 period; and there has been no written communication pertaining to the action
+47 between the mover and any adverse party or their attorneys of record during the year
+48 preceding the expiration of the abandonment period.
+49 (d) Paragraph D of this Article is new and requires the court to either sign a
+50 judgment of dismissal ex parte or set the motion to dismiss for a contradictory
+51 hearing if the mover’s affidavit indicates that pleadings, documents, or judgments
+52 have been filed in the record during the three-year abandonment period or that there
+53 has been written communication pertaining to the action between the mover and any
+54 adverse party or their attorneys of record during the year immediately preceding the
+55 expiration of the abandonment period.
+Page 3 of 6
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HCAHB142 4747 1570
+1 (e) Paragraph F of this Article establishes a new rule that the burden of proof
+2 at a hearing on a motion to set aside a dismissal rests upon the mover of the initial
+3 motion to dismiss based on abandonment.
+4 * * *"
+5 AMENDMENT NO. 11
+6 On page 3, between lines 4 and 5, insert the following:
+7
+8 "Art. 1702. Default judgment
+9 * * *
+10 C. In those proceedings in which the sum due is on an open account or a
+11 promissory note, other negotiable instrument, or other conventional obligation, or a
+12 deficiency judgment derived therefrom, including those proceedings in which one
+13 or more mortgages, pledges, or other security for the open account, promissory note,
+14 negotiable instrument, conventional obligation, or deficiency judgment derived
+15 therefrom is sought to be enforced, maintained, or recognized, or in which the
+16 amount sought is that authorized by R.S. 9:2782 for a check dishonored for
+17 nonsufficient funds, a hearing in open court shall not be required unless the judge
+18 court, in his its discretion, directs that such a the hearing be held. The plaintiff shall
+19 submit to the clerk of court the proof required by law and the original and not less
+20 than one copy of the proposed default judgment. The judge court shall, within
+21 seventy-two hours of after receipt of such the submission from the clerk of court,
+22 sign the proposed default judgment or direct that a hearing be held. The Before the
+23 default judgment is signed, the clerk of court shall certify that no answer or other
+24 pleading has been filed by the defendant. The minute clerk shall make an entry
+25 showing the dates of receipt of proof, review of the record, and rendition of the
+26 default judgment. A certified copy of the signed default judgment shall be sent to the
+27 plaintiff by the clerk of court, and notice of the signing of the default judgment shall
+28 be given as provided in in accordance with Article 1913.
+29 * * *"
+30 AMENDMENT NO. 12
+31 On page 4, between lines 19 and 20, insert the following:
+32 "Art. 2126. Payment of costs
+33 A. The clerk of the trial court, immediately after After the order of appeal has
+34 been granted, the clerk of the trial court shall estimate the cost of the preparation of
+35 the record on appeal, including the fee of the court reporter for preparing the
+36 transcript and the filing fee required by the appellate court. The clerk shall send
+37 transmit notices of the estimated costs by certified mail to the appellant and by first
+38 class mail to the appellee.
+39 B. Within twenty days of the mailing of notice If the parties have not
+40 designated the record on appeal pursuant to Article 2128, the appellant shall, within
+41 twenty days after transmission of the notice of the estimated costs, pay the amount
+42 of the estimated costs to the clerk. The trial court may grant one extension of the
+43 period for paying the amount of the estimated costs for not more than an additional
+44 twenty days upon written motion showing good cause for the extension.
+45 C. If the parties have designated the record on appeal pursuant to Article
+46 2128, the clerk shall transmit a revised notice of the estimated costs to the appellant
+47 and appellee. The appellant shall, within twenty days after transmission of the
+48 revised notice of estimated costs, pay the amount of the estimated costs to the clerk.
+49 The trial court may grant one extension of the period for paying the amount of the
+50 revised estimated costs for not more than an additional twenty days upon written
+51 motion showing good cause for the extension.
+52 D. The appellant may question the excessiveness of the estimated costs by
+53 filing a written application motion for reduction in the trial court within the first
+54 twenty-day time limit, and the if the record has not been designated pursuant to
+Page 4 of 6
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HCAHB142 4747 1570
+1 Article 2128, or within twenty days after transmission of the revised notice of
+2 estimated costs if the record has been designated pursuant to Article 2128. The trial
+3 court may order reduction of the estimate upon proper showing. If an application the
+4 motion for reduction has been timely filed, the appellant shall have twenty days to
+5 pay the costs beginning from the date of the action by the trial court on application
+6 the motion for reduction.
+7 D. E. After the preparation of the record on appeal has been completed, the
+8 clerk of the trial court shall, as the situation may require, either refund to the
+9 appellant the difference between the estimated costs and the actual costs, if the
+10 estimated costs exceed the actual costs, or send a transmit notice by certified mail to
+11 the appellant of the amount of additional costs due, if the actual costs exceed the
+12 estimated costs. If the payment of additional costs is required, the appellant shall pay
+13 the amount of additional costs within twenty days of the mailing after transmission
+14 of the notice.
+15 E. F.If the appellant fails to pay the estimated costs, or the difference between
+16 the estimated costs and the actual costs, within the time specified, the trial judge, on
+17 his own motion or upon motion by the clerk or by any party, and after a hearing,
+18 shall do one of the following:
+19 (1) Enter a formal order of dismissal of the appeal on the grounds of
+20 abandonment; or.
+21 (2) Grant a ten day ten-day period within which costs must shall be paid in
+22 full, in default of which the appeal is dismissed as abandoned.
+23 F. G. If the appellant pays the costs required by this Article, the appeal may
+24 shall not be dismissed because of the passage of the return day without an extension
+25 being obtained or because of an untimely lodging of the record on appeal.
+26 H. For the purposes of this Article, "transmit" means the sending of notice
+27 via certified mail, electronic mail to the email address designated by counsel or the
+28 party, or commercial courier. The sending of notice by electronic means is complete
+29 upon transmission, provided that the sender receives an electronic confirmation of
+30 delivery.
+31 Comments – 2026
+32 Requirements relative to the transmission of the notice for the payment of
+33 estimated costs are adapted from the service requirements set forth in Article
+34 1313(C) applicable to pleadings and orders that set a court date and from Article
+35 2166(F) defining "transmission of notice" with respect to the appellate court.
+36 * * *
+37 Art. 2128. Same; determination of content
+38 The form and content of the record on appeal shall be in accordance with the
+39 rules of the appellate court, except as provided in the constitution Constitution of
+40 Louisiana and as provided in Article 2128.1. However, within three days, exclusive
+41 of holidays, after taking the appeal Within ten days after transmission of the notices
+42 of estimated costs by the clerk of court as provided in Article 2126, however, the
+43 appellant may designate in a writing by written notice filed with the trial court such
+44 the portions of the record which he that the appellant desires to constitute the record
+45 on appeal. Within five fourteen days, exclusive of holidays, after service of a copy
+46 of this designation on the other party, that party may also designate in a writing by
+47 written notice filed with the trial court such other portions of the record as he the
+48 party considers necessary. In such those cases, the clerk shall prepare the record on
+49 appeal as so directed, but a party or the trial court may cause to be filed thereafter
+50 any omitted portion of the record as a supplemental record. When no designation is
+51 made, the record shall be a transcript of all of the proceedings as well as all
+52 documents filed in the trial court.
+53 * * *
+54 Art. 2166. Court of appeal judgment rehearing; finality; stay
+55 * * *
+56 F. For the purposes of this Article, "transmission of the notice" means the
+57 sending of the notice via the United States Postal Service, or electronic mail, or
+58 facsimile.
+59 * * *
+Page 5 of 6
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HCAHB142 4747 1570
+1 Art. 2167. Supreme court judgment rehearing; finality; stay
+2 * * *
+3 D. For the purposes of this Article, "transmission of the notice" means the
+4 sending of the notice via the United States Postal Service, or electronic mail, or
+5 facsimile.
+6 * * *"
+7 AMENDMENT NO. 13
+8 On page 6, after line 22, add the following:
+9 "Section 5. The provisions of Code of Civil Procedure Article 561 as
+10 amended by Section 1 of this Act shall have prospective application only and shall
+11 apply to motions to dismiss based on abandonment filed on or after the effective date
+12 of this Act."
+Page 6 of 6
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+[DELETED: AO"AOAO2A0O1A2O3A4O5t6t7A8O9"0A1O2A3O425A6O7"8A9p0s1(2(]
+[DELETED: ((psssrse0(1t2t3o4A5o r i t t o a d w o w f n6c7w8d9(0o1d2o3B4p5w6a7b8m9(0(1i2(3t4(5j6o7a8m9t0C1a2m3(4(5i6( T d h n r t d o a i7a8(9d0p1( T h b n w c p t t a2b3y4D I t m a c t a p d o5j h b f i t r d t t y p t6e7p8o]
+[DELETED: tdEwFdjrt0s n1c2G3w4p5(6h m b t w s d a t c t o t7j8(9t0t1C2p3I4a5c6J7v8K9C0(1a2j3i t t a p a t a t t4a p h e t d m r t d o5a6(7(8d a b i w t e p m t d b o9a0(1j2f3d4a5d6p a t h b n w c p t t a7b8p9(0j1h2h3h4a5e]
+[DELETED: (am*AO"*0C1p2d3o4n i c o o d j d5t6a s i t a b R 9 f a c d f7n8c9s0t1s2s3d4p5s6d7p8b9*0A1O2"3A4b5t r o a i t f o t c r f p t6t7t8c9B W t d o t m o n I t p h n0d1t2o3p4t5C627a T w t a o t8r9T0r1m2D3f4t]
+[DELETED: A oecmptDc o t t c s a t s m r e r t ta0e1t2e3t4o5E6t7h8s9( E a f o o d o t a o t g o0a1(2f3F4s5b6H7v8p9u0d1C2R3e c a a f t s r s f i A41526*7A8T9r0L1o2o3a4t5o6o7w8p9a0a1m t r s b a t o a o t p a w a a2d3*4A5*6F7s8f9*]
+[DELETED: A*Dsf*AO" 5 T p o C o C P A 5 a0a1a2o]
+
+
+================================================================================
+
+Raw Text:
+HCAHB142 4747 1570
+HOUSE COMMITTEE AMENDMENTS
+2026 Regular Session
+Amendments proposed by House Committee on Civil Law and Procedure to Original House
+Bill No. 142 by Representative Muscarello
+1 AMENDMENT NO. 1
+2 On page 1, line 2, after "Articles" and before "1426(A)(introductory paragraph)" insert
+3 "561,"
+4 AMENDMENT NO. 2
+5 On page 1, line 3, after "1572," and before "1841" insert "1702(C),"
+6 AMENDMENT NO. 3
+7 On page 1, line 3, delete "2083(B), and 4922" and insert "2083(B), 2126, 2128, 2166(F),
+8 2167(D), and 4922"
+9 AMENDMENT NO. 4
+10 On page 1, line 7, after "Statutes;" insert "to provide with respect to abandonment;"
+11 AMENDMENT NO. 5
+12 On page 1, line 7, after "trial;" insert "to provide with respect to default judgments;"
+13 AMENDMENT NO. 6
+14 On page 1, at the beginning of line 9, delete "respect to notice of trial;" and insert "respect
+15 to payment of costs and designation of the record on appeal; to provide with respect to
+16 transmission of notice;"
+17 AMENDMENT NO. 7
+18 On page 1, line 13, after "Articles" and before "1426(A)(introductory paragraph)" insert
+19 "561,"
+20 AMENDMENT NO. 8
+21 On page 1, line 14, after "1572," and before "1841" insert "1702(C),"
+22 AMENDMENT NO. 9
+23 On page 1, line 14, delete "2083(B), and 4922" and insert "2083(B), 2126, 2128, 2166(F),
+24 2167(D), and 4922"
+25 AMENDMENT NO. 10
+26 On page 1, between lines 15 and 16, insert the following:
+27 "Art. 561. Abandonment in trial and appellate court
+28 A.(1) An action is abandoned when the parties fail to take any step in its
+29 prosecution or defense in the trial court for a period of three years, unless it is a
+30 succession proceeding:
+31 (a) Which has been opened;
+32 (b) In which an administrator or executor has been appointed; or
+Page 1 of 6
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HCAHB142 4747 1570
+1 (c) In which a testament has been probated.
+2 (2) This provision Article shall be operative without formal order, but, on ex
+3 parte motion of any party or other interested person by affidavit that states that no
+4 step has been timely taken in the prosecution or defense of the action, the trial court
+5 shall enter a formal order of dismissal as of the date of its abandonment. The sheriff
+6 shall serve the order in the manner provided in Article 1314 and shall execute a
+7 return pursuant to Article 1292. A step in the prosecution or defense in the trial court
+8 shall interrupt the abandonment period. After the three-year abandonment period has
+9 expired, the defendant may renounce the defense of abandonment.
+10 (3) A motion to set aside a dismissal may be made only within thirty days of
+11 the date of the sheriff's service of the order of dismissal. If the trial court denies a
+12 timely motion to set aside the dismissal, the clerk of court shall give notice of the
+13 order of denial pursuant to Article 1913(A) and shall file a certificate pursuant to
+14 Article 1913(D). Any formal discovery authorized by this Code, whether or not filed
+15 of record, including the taking of a deposition with or without formal notice,
+16 constitutes a step in the prosecution or defense of an action against all parties on
+17 whom the discovery was served or who were in attendance or represented at the
+18 deposition.
+19 (4) An appeal of an order of dismissal may be taken only within sixty days
+20 of the date of the sheriff's service of the order of dismissal. An appeal of an order of
+21 denial may be taken only within sixty days of the date of the clerk's mailing of the
+22 order of denial.
+23 B.(1) Any formal discovery as authorized by this Code and served on all
+24 parties whether or not filed of record, including the taking of a deposition with or
+25 without formal notice, shall be deemed to be a step in the prosecution or defense of
+26 an action. Any party or other interested person may file an ex parte motion to dismiss
+27 based on abandonment and shall attach to the motion to dismiss an affidavit of the
+28 mover or the mover’s attorney of record certifying all of the following:
+29 (a) The three-year abandonment period has expired.
+30 (b) No timely step in the prosecution or defense of the action has been taken
+31 in accordance with Subparagraph (A)(2) or (3) of this Article.
+32 (c) No renunciation has occurred in accordance with Subparagraph (A)(2) of
+33 this Article.
+34 (2) The affidavit shall also include a list of all pleadings, documents, or
+35 judgments that have been filed in the record during the three years preceding the date
+36 on which the mover claims that the abandonment period expired. The mover shall
+37 also list and attach all written communication pertaining to the action between the
+38 mover and any adverse party or their attorneys of record in the one year preceding
+39 the date on which the mover claims that the abandonment period expired.
+40 C. The court shall enter an ex parte judgment of dismissal without prejudice
+41 as of the date of the abandonment of the action if the record confirms and the
+42 mover’s accompanying affidavit attests to all of the following:
+43 (1) The three-year abandonment period has expired.
+44 (2) No timely step in the prosecution or defense of an action has been taken
+45 in accordance with Subparagraph (A)(2) or (3) of this Article.
+46 (3) The defendant has not renounced the defense of abandonment in
+47 accordance with Subparagraph (A)(2) of this Article.
+48 (4) No pleadings, documents, or judgments have been filed in the record
+49 during the three years immediately preceding the expiration of the abandonment
+50 period.
+51 (5) There has been no written communication pertaining to the action
+52 between the mover and any adverse party or their attorneys of record during the last
+53 year of the abandonment period.
+54 D. If the mover’s affidavit certifies that any pleadings, documents, or
+55 judgments have been filed in the record during the three years preceding the
+56 expiration of the abandonment period or that there has been written communication
+57 pertaining to the action between the mover and any adverse party or their attorneys
+58 of record during the one year preceding the expiration of the abandonment period,
+Page 2 of 6
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HCAHB142 4747 1570
+1 the court shall either sign the judgment of dismissal ex parte or set the motion to
+2 dismiss for a contradictory hearing.
+3 E. The sheriff shall serve the ex parte judgment of dismissal in accordance
+4 with Article 1314 and shall execute a return pursuant to Article 1292.
+5 F. If an ex parte judgment of dismissal is granted, a motion to set aside the
+6 dismissal may be filed within thirty days after the date of the sheriff’s service of the
+7 judgment of dismissal. At the hearing to set aside the dismissal, the burden of proof
+8 rests with the mover of the original motion to dismiss based on abandonment. If the
+9 trial court denies a timely motion to set aside the dismissal, the clerk of court shall
+10 send notice of the order of denial pursuant to Article 1913(A) and shall file a
+11 certificate pursuant to Article 1913(D).
+12 G.(1) An appeal of a judgment of dismissal rendered ex parte may be taken
+13 within sixty days after the date of the sheriff’s service of the judgment of dismissal
+14 pursuant to Paragraph E of this Article.
+15 (2) An appeal of a judgment of dismissal rendered after a contradictory
+16 hearing may be taken within sixty days after the clerk’s transmission of that
+17 judgment.
+18 (3) An appeal of a denial of the motion to set aside a dismissal filed pursuant
+19 to Paragraph F of this Article may be taken within sixty days after the clerk’s
+20 transmission of the order of denial.
+21 C. H. An appeal is abandoned when the parties fail to take any step in its
+22 prosecution or disposition for the period provided in the rules of the appellate court.
+23 I. The granting of a motion to set aside a judgment of dismissal based on
+24 abandonment and the reversal of a judgment of dismissal on appeal shall each
+25 constitute a step in the prosecution or defense of an action.
+26 J. For the purposes of this Article, "transmission" means the sending of notice
+27 via the United States Postal Service, a commercial courier, or electronic mail.
+28 K. This Article does not apply to succession proceedings.
+29 Comments – 2026
+30 (a) The amendments to Subparagraph (A)(2) of this Article retain the rule that
+31 abandonment is operative without formal order. The amendments also adopt current
+32 jurisprudential rules providing that a step in the prosecution or defense of an action
+33 interrupts the three-year abandonment period and that, after the three-year
+34 abandonment period has expired, the defendant may renounce the defense of
+35 abandonment. See Foundation Elevation & Repair, LLC v. Miller, 408 So. 3d 893
+36 (La. 2025).
+37 (b) Subparagraph (B)(1) of this Article is new and requires that a more
+38 detailed affidavit be included with the ex parte motion to dismiss based on
+39 abandonment.
+40 (c) Paragraph C of this Article now requires the court to sign an ex parte
+41 judgment of dismissal without prejudice if the mover’s affidavit attests to all of the
+42 following: the abandonment period has expired; no timely step in the prosecution or
+43 defense of the action has occurred; the defendant has not renounced the defense of
+44 abandonment; no pleadings, documents, or judgments have been filed in the record
+45 during the three years immediately preceding the expiration of the abandonment
+46 period; and there has been no written communication pertaining to the action
+47 between the mover and any adverse party or their attorneys of record during the year
+48 preceding the expiration of the abandonment period.
+49 (d) Paragraph D of this Article is new and requires the court to either sign a
+50 judgment of dismissal ex parte or set the motion to dismiss for a contradictory
+51 hearing if the mover’s affidavit indicates that pleadings, documents, or judgments
+52 have been filed in the record during the three-year abandonment period or that there
+53 has been written communication pertaining to the action between the mover and any
+54 adverse party or their attorneys of record during the year immediately preceding the
+55 expiration of the abandonment period.
+Page 3 of 6
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HCAHB142 4747 1570
+1 (e) Paragraph F of this Article establishes a new rule that the burden of proof
+2 at a hearing on a motion to set aside a dismissal rests upon the mover of the initial
+3 motion to dismiss based on abandonment.
+4 * * *"
+5 AMENDMENT NO. 11
+6 On page 3, between lines 4 and 5, insert the following:
+7
+8 "Art. 1702. Default judgment
+9 * * *
+10 C. In those proceedings in which the sum due is on an open account or a
+11 promissory note, other negotiable instrument, or other conventional obligation, or a
+12 deficiency judgment derived therefrom, including those proceedings in which one
+13 or more mortgages, pledges, or other security for the open account, promissory note,
+14 negotiable instrument, conventional obligation, or deficiency judgment derived
+15 therefrom is sought to be enforced, maintained, or recognized, or in which the
+16 amount sought is that authorized by R.S. 9:2782 for a check dishonored for
+17 nonsufficient funds, a hearing in open court shall not be required unless the judge
+18 court, in his its discretion, directs that such a the hearing be held. The plaintiff shall
+19 submit to the clerk of court the proof required by law and the original and not less
+20 than one copy of the proposed default judgment. The judge court shall, within
+21 seventy-two hours of after receipt of such the submission from the clerk of court,
+22 sign the proposed default judgment or direct that a hearing be held. The Before the
+23 default judgment is signed, the clerk of court shall certify that no answer or other
+24 pleading has been filed by the defendant. The minute clerk shall make an entry
+25 showing the dates of receipt of proof, review of the record, and rendition of the
+26 default judgment. A certified copy of the signed default judgment shall be sent to the
+27 plaintiff by the clerk of court, and notice of the signing of the default judgment shall
+28 be given as provided in in accordance with Article 1913.
+29 * * *"
+30 AMENDMENT NO. 12
+31 On page 4, between lines 19 and 20, insert the following:
+32 "Art. 2126. Payment of costs
+33 A. The clerk of the trial court, immediately after After the order of appeal has
+34 been granted, the clerk of the trial court shall estimate the cost of the preparation of
+35 the record on appeal, including the fee of the court reporter for preparing the
+36 transcript and the filing fee required by the appellate court. The clerk shall send
+37 transmit notices of the estimated costs by certified mail to the appellant and by first
+38 class mail to the appellee.
+39 B. Within twenty days of the mailing of notice If the parties have not
+40 designated the record on appeal pursuant to Article 2128, the appellant shall, within
+41 twenty days after transmission of the notice of the estimated costs, pay the amount
+42 of the estimated costs to the clerk. The trial court may grant one extension of the
+43 period for paying the amount of the estimated costs for not more than an additional
+44 twenty days upon written motion showing good cause for the extension.
+45 C. If the parties have designated the record on appeal pursuant to Article
+46 2128, the clerk shall transmit a revised notice of the estimated costs to the appellant
+47 and appellee. The appellant shall, within twenty days after transmission of the
+48 revised notice of estimated costs, pay the amount of the estimated costs to the clerk.
+49 The trial court may grant one extension of the period for paying the amount of the
+50 revised estimated costs for not more than an additional twenty days upon written
+51 motion showing good cause for the extension.
+52 D. The appellant may question the excessiveness of the estimated costs by
+53 filing a written application motion for reduction in the trial court within the first
+54 twenty-day time limit, and the if the record has not been designated pursuant to
+Page 4 of 6
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HCAHB142 4747 1570
+1 Article 2128, or within twenty days after transmission of the revised notice of
+2 estimated costs if the record has been designated pursuant to Article 2128. The trial
+3 court may order reduction of the estimate upon proper showing. If an application the
+4 motion for reduction has been timely filed, the appellant shall have twenty days to
+5 pay the costs beginning from the date of the action by the trial court on application
+6 the motion for reduction.
+7 D. E. After the preparation of the record on appeal has been completed, the
+8 clerk of the trial court shall, as the situation may require, either refund to the
+9 appellant the difference between the estimated costs and the actual costs, if the
+10 estimated costs exceed the actual costs, or send a transmit notice by certified mail to
+11 the appellant of the amount of additional costs due, if the actual costs exceed the
+12 estimated costs. If the payment of additional costs is required, the appellant shall pay
+13 the amount of additional costs within twenty days of the mailing after transmission
+14 of the notice.
+15 E. F.If the appellant fails to pay the estimated costs, or the difference between
+16 the estimated costs and the actual costs, within the time specified, the trial judge, on
+17 his own motion or upon motion by the clerk or by any party, and after a hearing,
+18 shall do one of the following:
+19 (1) Enter a formal order of dismissal of the appeal on the grounds of
+20 abandonment; or.
+21 (2) Grant a ten day ten-day period within which costs must shall be paid in
+22 full, in default of which the appeal is dismissed as abandoned.
+23 F. G. If the appellant pays the costs required by this Article, the appeal may
+24 shall not be dismissed because of the passage of the return day without an extension
+25 being obtained or because of an untimely lodging of the record on appeal.
+26 H. For the purposes of this Article, "transmit" means the sending of notice
+27 via certified mail, electronic mail to the email address designated by counsel or the
+28 party, or commercial courier. The sending of notice by electronic means is complete
+29 upon transmission, provided that the sender receives an electronic confirmation of
+30 delivery.
+31 Comments – 2026
+32 Requirements relative to the transmission of the notice for the payment of
+33 estimated costs are adapted from the service requirements set forth in Article
+34 1313(C) applicable to pleadings and orders that set a court date and from Article
+35 2166(F) defining "transmission of notice" with respect to the appellate court.
+36 * * *
+37 Art. 2128. Same; determination of content
+38 The form and content of the record on appeal shall be in accordance with the
+39 rules of the appellate court, except as provided in the constitution Constitution of
+40 Louisiana and as provided in Article 2128.1. However, within three days, exclusive
+41 of holidays, after taking the appeal Within ten days after transmission of the notices
+42 of estimated costs by the clerk of court as provided in Article 2126, however, the
+43 appellant may designate in a writing by written notice filed with the trial court such
+44 the portions of the record which he that the appellant desires to constitute the record
+45 on appeal. Within five fourteen days, exclusive of holidays, after service of a copy
+46 of this designation on the other party, that party may also designate in a writing by
+47 written notice filed with the trial court such other portions of the record as he the
+48 party considers necessary. In such those cases, the clerk shall prepare the record on
+49 appeal as so directed, but a party or the trial court may cause to be filed thereafter
+50 any omitted portion of the record as a supplemental record. When no designation is
+51 made, the record shall be a transcript of all of the proceedings as well as all
+52 documents filed in the trial court.
+53 * * *
+54 Art. 2166. Court of appeal judgment rehearing; finality; stay
+55 * * *
+56 F. For the purposes of this Article, "transmission of the notice" means the
+57 sending of the notice via the United States Postal Service, or electronic mail, or
+58 facsimile.
+59 * * *
+Page 5 of 6
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HCAHB142 4747 1570
+1 Art. 2167. Supreme court judgment rehearing; finality; stay
+2 * * *
+3 D. For the purposes of this Article, "transmission of the notice" means the
+4 sending of the notice via the United States Postal Service, or electronic mail, or
+5 facsimile.
+6 * * *"
+7 AMENDMENT NO. 13
+8 On page 6, after line 22, add the following:
+9 "Section 5. The provisions of Code of Civil Procedure Article 561 as
+10 amended by Section 1 of this Act shall have prospective application only and shall
+11 apply to motions to dismiss based on abandonment filed on or after the effective date
+12 of this Act."
+Page 6 of 6
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+[DELETED: AO"AOAO2A0O1A2O3A4O5t6t7A8O9"0A1O2A3O425A6O7"8A9p0s1(2(]
+[DELETED: ((psssrse0(1t2t3o4A5o r i t t o a d w o w f n6c7w8d9(0o1d2o3B4p5w6a7b8m9(0(1i2(3t4(5j6o7a8m9t0C1a2m3(4(5i6( T d h n r t d o a i7a8(9d0p1( T h b n w c p t t a2b3y4D I t m a c t a p d o5j h b f i t r d t t y p t6e7p8o]
+[DELETED: tdEwFdjrt0s n1c2G3w4p5(6h m b t w s d a t c t o t7j8(9t0t1C2p3I4a5c6J7v8K9C0(1a2j3i t t a p a t a t t4a p h e t d m r t d o5a6(7(8d a b i w t e p m t d b o9a0(1j2f3d4a5d6p a t h b n w c p t t a7b8p9(0j1h2h3h4a5e]
+[DELETED: (am*AO"*0C1p2d3o4n i c o o d j d5t6a s i t a b R 9 f a c d f7n8c9s0t1s2s3d4p5s6d7p8b9*0A1O2"3A4b5t r o a i t f o t c r f p t6t7t8c9B W t d o t m o n I t p h n0d1t2o3p4t5C627a T w t a o t8r9T0r1m2D3f4t]
+[DELETED: A oecmptDc o t t c s a t s m r e r t ta0e1t2e3t4o5E6t7h8s9( E a f o o d o t a o t g o0a1(2f3F4s5b6H7v8p9u0d1C2R3e c a a f t s r s f i A41526*7A8T9r0L1o2o3a4t5o6o7w8p9a0a1m t r s b a t o a o t p a w a a2d3*4A5*6F7s8f9*]
+[DELETED: A*Dsf*AO" 5 T p o C o C P A 5 a0a1a2o]

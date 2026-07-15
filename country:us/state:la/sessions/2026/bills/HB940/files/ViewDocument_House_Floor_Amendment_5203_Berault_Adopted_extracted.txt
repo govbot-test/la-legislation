@@ -1,0 +1,186 @@
+Title: Amendments proposed by Representative Berault to Reengrossed House Bill No. 940 by
+Official Title: Amendments proposed by Representative Berault to Reengrossed House Bill No. 940 by
+Number of Sections: 1
+Source: versions - House Floor Amendment, #5203, Berault, Adopted
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+HFAHB940 2549 5203
+FOR OFFICE USE ONLY
+HOUSE FLOOR AMENDMENTS
+2026 Regular Session
+Representative Berault
+1 AMENDMENT NO. 1
+2 On page 1, line 2, after "To" and before "relative to" delete "enact R.S. 14:337.2," and insert
+3 "amend and reenact R.S. 44:4.1(B)(7) and to enact R.S. 14:337.2, R.S. 42:17(F), and R.S.
+4 49:954(F),"
+5 AMENDMENT NO. 2
+6 On page 1, line 8, after "force;" and before "to provide for a" delete "to provide for
+7 rulemaking;" and insert "to provide for exceptions to the Open Meetings Law; to provide for
+8 public records exceptions; to provide for exceptions to the Administrative Procedure Act;"
+9 AMENDMENT NO. 3
+10 On page 1, line 9, after "immunity;" and before "to provide for an" delete "to provide for
+11 termination;"
+12 AMENDMENT NO. 4
+13 On page 2, after line 29, insert the following:
+14 "(f) An unmanned aircraft system authorized by the Federal Aviation
+15 Administration to conduct commercial flights if such system is being operated by an
+16 employee or agent of the system's owner in the scope of his employment."
+17 AMENDMENT NO. 5
+18 On page 3, at the end of line 18, insert the following: "Each such summary shall be exempt
+19 from disclosure pursuant to the Public Records Law."
+20 AMENDMENT NO. 6
+21 On page 3, delete line 29 in its entirety and on page 4, delete lines 1 through 3 in their
+22 entirety and insert the following:
+23 "(2) The task force, with the assistance of the office of technology services,
+24 shall maintain the following, the contents of which shall be exempt from disclosure
+25 pursuant to the Public Records Law:
+26 (a) A statewide inventory of approved hardware and software technologies
+27 for agency use.
+28 (b) A database accessible by state and local law enforcement agencies of
+29 technical advisories and bulletins regarding the capabilities of"
+Page 1 of 2
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+HFAHB940 2549 5203
+1 AMENDMENT NO. 7
+2 On page 4, delete lines 5 through 11 in their entirety and insert the following:
+3 "G. The task force shall prepare a threat and vulnerability, law enforcement
+4 sensitive assessment for the purpose of prevention of terrorist-related activity for the
+5 House and Senate Select Committees on Homeland Security."
+6 AMENDMENT NO. 8
+7 On page 5, delete lines 22 through 27 in their entirety and insert the following:
+8 "J.(1) The task force shall adopt policies and procedures necessary for the
+9 implementation and administration of the provisions of this Section."
+10 AMENDMENT NO. 9
+11 On page 5, line 28, after "The" and before "shall include" delete "rules" and insert "policies
+12 and procedures"
+13 AMENDMENT NO. 10
+14 On page 6, delete lines 26 and 27 in their entirety and insert the following:
+15 "(3) Policies and procedures adopted pursuant to Subparagraphs (2)(a)
+16 through (d) and (f) of this Subsection shall be exempt from disclosure pursuant to the
+17 Public Records Law.
+18
+19 Section 2. R.S. 42:17(F) is hereby enacted to read as follows:
+20 §17. Exceptions to open meetings
+21 * * *
+22 F. The provisions of this Chapter shall not apply to meetings of the Counter-
+23 Unmanned Aircraft Systems Joint Task Force and any sub-committee thereof.
+24 Section 3. R.S. 44:4.1(B)(7) is hereby amended and reenacted to read as follows:
+25 §4.1. Exceptions
+26 * * *
+27 B. The legislature further recognizes that there exist exceptions, exemptions,
+28 and limitations to the laws pertaining to public records throughout the revised
+29 statutes and codes of this state. Therefore, the following exceptions, exemptions, and
+30 limitations are hereby continued in effect by incorporation into this Chapter by
+31 citation:
+32 * * *
+33 (7) R.S. 14:337.2, 403, 403.1, 403.5
+34 * * *
+35 Section 4. R.S. 49:954(F) is hereby enacted to read as follows:
+36 §954. Exemptions from provisions of Chapter
+37 * * *
+38 F. This Chapter shall not be applicable to the Counter-Unmanned Aircraft
+39 Systems Joint Task Force and any sub-committee thereof."
+40 AMENDMENT NO. 11
+41 On page 6, at the beginning of line 28, change "Section 2." to "Section 5."
+Page 2 of 2
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+[DELETED: AO"4AO p 1 l 8 a " a b p f a d " p frpA0O1t2A3O4"  A u a s a b t F A5A6e7A8O9f0A1O2e3"4s5p6(7f8(9t]
+[DELETED: AO"sHAO"i0A1O2a3A4O5"  P a p p t S (6t7P9S0§1*2F3U4S5§6*7B8a t l p t p r t r9s0l1c2*3(4*5S6§7*8F9S0A1O]
+
+
+================================================================================
+
+Raw Text:
+HFAHB940 2549 5203
+FOR OFFICE USE ONLY
+HOUSE FLOOR AMENDMENTS
+2026 Regular Session
+Amendments proposed by Representative Berault to Reengrossed House Bill No. 940 by
+Representative Berault
+1 AMENDMENT NO. 1
+2 On page 1, line 2, after "To" and before "relative to" delete "enact R.S. 14:337.2," and insert
+3 "amend and reenact R.S. 44:4.1(B)(7) and to enact R.S. 14:337.2, R.S. 42:17(F), and R.S.
+4 49:954(F),"
+5 AMENDMENT NO. 2
+6 On page 1, line 8, after "force;" and before "to provide for a" delete "to provide for
+7 rulemaking;" and insert "to provide for exceptions to the Open Meetings Law; to provide for
+8 public records exceptions; to provide for exceptions to the Administrative Procedure Act;"
+9 AMENDMENT NO. 3
+10 On page 1, line 9, after "immunity;" and before "to provide for an" delete "to provide for
+11 termination;"
+12 AMENDMENT NO. 4
+13 On page 2, after line 29, insert the following:
+14 "(f) An unmanned aircraft system authorized by the Federal Aviation
+15 Administration to conduct commercial flights if such system is being operated by an
+16 employee or agent of the system's owner in the scope of his employment."
+17 AMENDMENT NO. 5
+18 On page 3, at the end of line 18, insert the following: "Each such summary shall be exempt
+19 from disclosure pursuant to the Public Records Law."
+20 AMENDMENT NO. 6
+21 On page 3, delete line 29 in its entirety and on page 4, delete lines 1 through 3 in their
+22 entirety and insert the following:
+23 "(2) The task force, with the assistance of the office of technology services,
+24 shall maintain the following, the contents of which shall be exempt from disclosure
+25 pursuant to the Public Records Law:
+26 (a) A statewide inventory of approved hardware and software technologies
+27 for agency use.
+28 (b) A database accessible by state and local law enforcement agencies of
+29 technical advisories and bulletins regarding the capabilities of"
+Page 1 of 2
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HFAHB940 2549 5203
+1 AMENDMENT NO. 7
+2 On page 4, delete lines 5 through 11 in their entirety and insert the following:
+3 "G. The task force shall prepare a threat and vulnerability, law enforcement
+4 sensitive assessment for the purpose of prevention of terrorist-related activity for the
+5 House and Senate Select Committees on Homeland Security."
+6 AMENDMENT NO. 8
+7 On page 5, delete lines 22 through 27 in their entirety and insert the following:
+8 "J.(1) The task force shall adopt policies and procedures necessary for the
+9 implementation and administration of the provisions of this Section."
+10 AMENDMENT NO. 9
+11 On page 5, line 28, after "The" and before "shall include" delete "rules" and insert "policies
+12 and procedures"
+13 AMENDMENT NO. 10
+14 On page 6, delete lines 26 and 27 in their entirety and insert the following:
+15 "(3) Policies and procedures adopted pursuant to Subparagraphs (2)(a)
+16 through (d) and (f) of this Subsection shall be exempt from disclosure pursuant to the
+17 Public Records Law.
+18
+19 Section 2. R.S. 42:17(F) is hereby enacted to read as follows:
+20 §17. Exceptions to open meetings
+21 * * *
+22 F. The provisions of this Chapter shall not apply to meetings of the Counter-
+23 Unmanned Aircraft Systems Joint Task Force and any sub-committee thereof.
+24 Section 3. R.S. 44:4.1(B)(7) is hereby amended and reenacted to read as follows:
+25 §4.1. Exceptions
+26 * * *
+27 B. The legislature further recognizes that there exist exceptions, exemptions,
+28 and limitations to the laws pertaining to public records throughout the revised
+29 statutes and codes of this state. Therefore, the following exceptions, exemptions, and
+30 limitations are hereby continued in effect by incorporation into this Chapter by
+31 citation:
+32 * * *
+33 (7) R.S. 14:337.2, 403, 403.1, 403.5
+34 * * *
+35 Section 4. R.S. 49:954(F) is hereby enacted to read as follows:
+36 §954. Exemptions from provisions of Chapter
+37 * * *
+38 F. This Chapter shall not be applicable to the Counter-Unmanned Aircraft
+39 Systems Joint Task Force and any sub-committee thereof."
+40 AMENDMENT NO. 11
+41 On page 6, at the beginning of line 28, change "Section 2." to "Section 5."
+Page 2 of 2
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+[DELETED: AO"4AO p 1 l 8 a " a b p f a d " p frpA0O1t2A3O4"  A u a s a b t F A5A6e7A8O9f0A1O2e3"4s5p6(7f8(9t]
+[DELETED: AO"sHAO"i0A1O2a3A4O5"  P a p p t S (6t7P9S0§1*2F3U4S5§6*7B8a t l p t p r t r9s0l1c2*3(4*5S6§7*8F9S0A1O]

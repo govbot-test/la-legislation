@@ -1,0 +1,392 @@
+Title: SENATE BILL NO. 5
+Official Title: SENATE BILL NO. 5
+Number of Sections: 1
+Source: versions - SB5 Original
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+SLS 26RS-53 ORIGINAL
+2026 Regular Session
+BY SENATOR HENSGENS
+MENTAL HEALTH. Provides for the regulation of mental health chatbots that use artificial
+intelligence technology. (gov sig)
+1 AN ACT
+2 To enact Part I-B of Chapter 1 of Title 28, to be comprised of R.S. 28:16 and 17, relative to
+3 mental health chatbots; to provide for definitions; to provide for disclosures; to
+4 require certain protocols; to provide for the use of personal information; to provide
+5 for advertisements; to provide for enforcement by the attorney general; to provide
+6 for civil penalties; to provide for an effective date; and to provide for related matters.
+7 Be it enacted by the Legislature of Louisiana:
+8 Section 1. Part I-B of Chapter 1 of Title 28, comprised of R.S. 28:16 and 17, is
+9 hereby enacted to read as follows:
+10 PART I-B. ARTIFICIAL INTELLIGENCE APPLICATIONS
+11 RELATING TO MENTAL HEALTH
+12 §16. Protections for users of mental health chatbots
+13 A. As used in this Part, the following definitions shall apply:
+14 (1)"Artificial intelligence" means an artificial system developed in
+15 computer software, physical hardware, or other context that solves tasks
+16 requiring human-like perception, cognition, planning, learning, communication,
+17 or physical action.
+Page 1 of 6
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+SLS 26RS-53 ORIGINAL
+SB NO. 5
+1 (2)(a) "Mental health chatbot" means an artificial intelligence
+2 technology that:
+3 (i) Uses a system that is trained on data and is designed to simulate
+4 human conversation with a consumer through text, audio, or visual
+5 communication.
+6 (ii) Generates unscripted outputs similar to outputs created by a human,
+7 with limited or no human oversight.
+8 (iii) Engages in interactive conversations with a user of the mental health
+9 chatbot similar to the confidential communications that an individual would
+10 have with a licensed mental health provider.
+11 (iv) Represents to a user or causes a reasonable person to believe that it
+12 can or will provide mental health therapy or help a user manage or treat mental
+13 health conditions.
+14 (b)"Mental health chatbot" does not include artificial intelligence
+15 technology that only provides scripted output, such as guided meditations or
+16 mindfulness exercises, or analyzes an individual's input for the purpose of
+17 connecting the individual with a human mental health provider.
+18 (3) "Operator" means a person who makes a mental health chatbot
+19 platform available to a user.
+20 (4)"User" means an individual located in Louisiana at the time the
+21 individual accesses or uses a mental health chatbot.
+22 B. An operator of a mental health chatbot shall cause the chatbot to
+23 clearly and conspicuously disclose to a user that the chatbot is an artificial
+24 intelligence technology and not a human. The disclosure shall be made:
+25 (1) Before the user may access the features of the mental health chatbot.
+26 (2) At the beginning of any interaction with the user if the user has not
+27 accessed the mental health chatbot within the previous seven days.
+28 (3) Any time a user asks or otherwise prompts the mental health chatbot
+29 about whether artificial intelligence is being used.
+Page 2 of 6
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+SLS 26RS-53 ORIGINAL
+SB NO. 5
+1 C. An operator of a mental health chatbot shall have protocols in place
+2 to address possible suicidal ideation, self-harm, or physical harm to others
+3 expressed by the user, including referral to a crisis service provider such as a
+4 suicide hotline.
+5 D.(1) An operator of a mental health chatbot may not sell to or share
+6 with any third party any individually identifiable health information of a user
+7 or the user's input. This Subsection shall not apply to individually identifiable
+8 health information that is requested by a healthcare provider with the consent
+9 of the user, provided to a health plan of a user upon request of the user, or
+10 shared to ensure the effective functionality of the mental health chatbot with
+11 another party with which the operator has a contract related to such
+12 functionality.
+13 (2) When sharing information pursuant to this Subsection, the operator
+14 and the other entity shall comply with all applicable privacy and security
+15 provisions of 45 CFR Part 160 and 45 CFR Part 164, Subparts A and E, as if the
+16 operator were a covered entity and the other entity were a business associate,
+17 as such terms are defined in 45 CFR 160.103.
+18 E. An operator may not use a mental health chatbot to advertise a
+19 specific product or service to a user in a conversation between the user and the
+20 mental health chatbot unless the chatbot clearly and conspicuously identifies the
+21 advertisement as an advertisement and discloses to the user any sponsorship,
+22 business affiliation, or agreement that the operator has with a third party to
+23 promote, advertise, or recommend the product or service.
+24 F. An operator of a mental health chatbot may not use a user's input to:
+25 (1) Determine whether to display an advertisement for a product or
+26 service to the user, unless the advertisement is for the mental health chatbot
+27 itself.
+28 (2) Determine a product, service, or category of product or service, to
+29 advertise to the user.
+Page 3 of 6
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+SLS 26RS-53 ORIGINAL
+SB NO. 5
+1 (3) Customize how an advertisement is presented to the user.
+2 G. The provisions of this Section shall not prohibit a mental health
+3 chatbot from recommending that a user seek counseling, therapy, or other
+4 assistance from a licensed healthcare professional.
+5 §17. Violations; enforcement authority
+6 A. The attorney general may bring a civil action to enforce any violations
+7 of this Part.
+8 B. An operator that violates the provisions of this Part shall be subject
+9 to a civil fine of up to ten thousand dollars per violation.
+10 C.(1) At least forty-five days before the day on which the attorney
+11 general initiates an enforcement action against an operator who is subject to the
+12 requirements of this Part, the attorney general shall provide the operator with
+13 a written notice that identifies each alleged violation and an explanation of the
+14 basis for each allegation.
+15 (2) Except as provided in Paragraph (3) of this Subsection, the attorney
+16 general shall not initiate an action if the operator cures the notice violation
+17 within forty-five days after the date on which the operator receives the notice
+18 by providing the attorney general with a written statement indicating that the
+19 violation is cured and no further violations will occur.
+20 (3) The attorney general may initiate a civil action against an operator
+21 who does either of the following:
+22 (a) Fails to cure a violation after receiving the written notice provided for
+23 in Paragraph (1) of this Subsection.
+24 (b) Commits another violation of the same provision after curing a
+25 violation and providing a written statement in accordance with Paragraph (2)
+26 of this Subsection.
+27 (4) If a court of competent jurisdiction grants judgment or injunctive
+28 relief to the attorney general, the court shall award the attorney general
+29 reasonable attorney fees, court costs, and investigative costs.
+Page 4 of 6
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+SLS 26RS-53 ORIGINAL
+SB NO. 5
+1 (5) A person who violates an administrative order or court order issued
+2 for a violation of this Part shall be subject to a civil penalty of not more than
+3 five thousand dollars for each violation. A civil penalty in accordance with this
+4 Section may be imposed in any civil action brought by the attorney general.
+5 (6) All monies received from the payment of a fine or civil penalty
+6 imposed and collected pursuant to the provisions of this Section shall be used
+7 by the attorney general for consumer protection enforcement efforts or to
+8 promote consumer protection and education.
+9 Section 2. This Act shall become effective upon signature by the governor or, if not
+10 signed by the governor, upon expiration of the time for bills to become law without signature
+11 by the governor, as provided by Article III, Section 18 of the Constitution of Louisiana. If
+12 vetoed by the governor and subsequently approved by the legislature, this Act shall become
+13 effective on the day following such approval.
+The original instrument and the following digest, which constitutes no part
+of the legislative instrument, were prepared by Senate Legislative Services.
+The keyword, summary, and digest do not constitute part of the law or proof
+or indicia of legislative intent. [R.S. 1:13(B) and 24:177(E)]
+DIGEST
+SB 5 Original 2026 Regular Session Hensgens
+Proposed law defines "artificial intelligence", "mental health chatbot", "operator", and
+"user".
+Proposed law requires an operator of a mental health chatbot to disclose to a user that the
+chatbot is an artificial intelligence technology and not a human at certain intervals.
+Proposed law requires an operator of a mental health chatbot to have protocols in place to
+address possible suicidal ideation, self-harm, or physical harm to others expressed by the
+user.
+Proposed law prohibits an operator of a mental health chatbot from selling or sharing
+individually identifiable health information of a user or the user's input with any third party,
+except as authorized by proposed law.
+Proposed law prohibits an operator from using a mental health chatbot to advertise a specific
+product or service unless the chatbot clearly and conspicuously identifies the advertisement
+as an advertisement and discloses certain information to the user.
+Proposed law prohibits using the user's input to tailor advertisements to the user.
+Proposed law authorizes the attorney general to bring a civil action against an operator for
+violations of proposed law.
+Page 5 of 6
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+SLS 26RS-53 ORIGINAL
+SB NO. 5
+Proposed law provides for a civil fine of up to $10,000 per violation.
+Proposed law provides for processes for the attorney general to initiate and pursue civil
+action against an operator.
+Proposed law provides for the disposition of funds collected by the attorney general pursuant
+to proposed law.
+Effective upon signature of the governor or lapse of time for gubernatorial action.
+(Adds R.S. 28:16 and 17)
+Page 6 of 6
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+[DELETED: 3OATmrffBSh0P1R2§3A4( i m a a s d i5c s p h o o c t s t6r7o]
+[DELETED: 3O( " h c m a a it(h c w a c t t a o vc(w(c0h1(2c3h4( h c d n i a i5t6m7c8(9p0( l a1i2B3c4i5(6(7a8(9a]
+[DELETED: 3OCtesDwoho0s1a p w w t o h a c r t s2f3(4a t o c w a a p a s5p6o7a8E m9s0m1a2b3p4F5(6s7i8(9a]
+[DELETED: 3O(Gca§AoBt0C A l f d b t d o w t a1g2r3a4b5(6g7w8b9v0(1w2(3i4( C a v o t s a 5v6o7(8r t t a g t c s a t a g9r]
+[DELETED: 3O(ffS( m r t p o a f o pib f cpS0s1b2v3el2nH l d " i " h c " a]
+[DELETED: 3O]
+
+
+================================================================================
+
+Raw Text:
+SLS 26RS-53 ORIGINAL
+2026 Regular Session
+SENATE BILL NO. 5
+BY SENATOR HENSGENS
+MENTAL HEALTH. Provides for the regulation of mental health chatbots that use artificial
+intelligence technology. (gov sig)
+1 AN ACT
+2 To enact Part I-B of Chapter 1 of Title 28, to be comprised of R.S. 28:16 and 17, relative to
+3 mental health chatbots; to provide for definitions; to provide for disclosures; to
+4 require certain protocols; to provide for the use of personal information; to provide
+5 for advertisements; to provide for enforcement by the attorney general; to provide
+6 for civil penalties; to provide for an effective date; and to provide for related matters.
+7 Be it enacted by the Legislature of Louisiana:
+8 Section 1. Part I-B of Chapter 1 of Title 28, comprised of R.S. 28:16 and 17, is
+9 hereby enacted to read as follows:
+10 PART I-B. ARTIFICIAL INTELLIGENCE APPLICATIONS
+11 RELATING TO MENTAL HEALTH
+12 §16. Protections for users of mental health chatbots
+13 A. As used in this Part, the following definitions shall apply:
+14 (1)"Artificial intelligence" means an artificial system developed in
+15 computer software, physical hardware, or other context that solves tasks
+16 requiring human-like perception, cognition, planning, learning, communication,
+17 or physical action.
+Page 1 of 6
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-53 ORIGINAL
+SB NO. 5
+1 (2)(a) "Mental health chatbot" means an artificial intelligence
+2 technology that:
+3 (i) Uses a system that is trained on data and is designed to simulate
+4 human conversation with a consumer through text, audio, or visual
+5 communication.
+6 (ii) Generates unscripted outputs similar to outputs created by a human,
+7 with limited or no human oversight.
+8 (iii) Engages in interactive conversations with a user of the mental health
+9 chatbot similar to the confidential communications that an individual would
+10 have with a licensed mental health provider.
+11 (iv) Represents to a user or causes a reasonable person to believe that it
+12 can or will provide mental health therapy or help a user manage or treat mental
+13 health conditions.
+14 (b)"Mental health chatbot" does not include artificial intelligence
+15 technology that only provides scripted output, such as guided meditations or
+16 mindfulness exercises, or analyzes an individual's input for the purpose of
+17 connecting the individual with a human mental health provider.
+18 (3) "Operator" means a person who makes a mental health chatbot
+19 platform available to a user.
+20 (4)"User" means an individual located in Louisiana at the time the
+21 individual accesses or uses a mental health chatbot.
+22 B. An operator of a mental health chatbot shall cause the chatbot to
+23 clearly and conspicuously disclose to a user that the chatbot is an artificial
+24 intelligence technology and not a human. The disclosure shall be made:
+25 (1) Before the user may access the features of the mental health chatbot.
+26 (2) At the beginning of any interaction with the user if the user has not
+27 accessed the mental health chatbot within the previous seven days.
+28 (3) Any time a user asks or otherwise prompts the mental health chatbot
+29 about whether artificial intelligence is being used.
+Page 2 of 6
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-53 ORIGINAL
+SB NO. 5
+1 C. An operator of a mental health chatbot shall have protocols in place
+2 to address possible suicidal ideation, self-harm, or physical harm to others
+3 expressed by the user, including referral to a crisis service provider such as a
+4 suicide hotline.
+5 D.(1) An operator of a mental health chatbot may not sell to or share
+6 with any third party any individually identifiable health information of a user
+7 or the user's input. This Subsection shall not apply to individually identifiable
+8 health information that is requested by a healthcare provider with the consent
+9 of the user, provided to a health plan of a user upon request of the user, or
+10 shared to ensure the effective functionality of the mental health chatbot with
+11 another party with which the operator has a contract related to such
+12 functionality.
+13 (2) When sharing information pursuant to this Subsection, the operator
+14 and the other entity shall comply with all applicable privacy and security
+15 provisions of 45 CFR Part 160 and 45 CFR Part 164, Subparts A and E, as if the
+16 operator were a covered entity and the other entity were a business associate,
+17 as such terms are defined in 45 CFR 160.103.
+18 E. An operator may not use a mental health chatbot to advertise a
+19 specific product or service to a user in a conversation between the user and the
+20 mental health chatbot unless the chatbot clearly and conspicuously identifies the
+21 advertisement as an advertisement and discloses to the user any sponsorship,
+22 business affiliation, or agreement that the operator has with a third party to
+23 promote, advertise, or recommend the product or service.
+24 F. An operator of a mental health chatbot may not use a user's input to:
+25 (1) Determine whether to display an advertisement for a product or
+26 service to the user, unless the advertisement is for the mental health chatbot
+27 itself.
+28 (2) Determine a product, service, or category of product or service, to
+29 advertise to the user.
+Page 3 of 6
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-53 ORIGINAL
+SB NO. 5
+1 (3) Customize how an advertisement is presented to the user.
+2 G. The provisions of this Section shall not prohibit a mental health
+3 chatbot from recommending that a user seek counseling, therapy, or other
+4 assistance from a licensed healthcare professional.
+5 §17. Violations; enforcement authority
+6 A. The attorney general may bring a civil action to enforce any violations
+7 of this Part.
+8 B. An operator that violates the provisions of this Part shall be subject
+9 to a civil fine of up to ten thousand dollars per violation.
+10 C.(1) At least forty-five days before the day on which the attorney
+11 general initiates an enforcement action against an operator who is subject to the
+12 requirements of this Part, the attorney general shall provide the operator with
+13 a written notice that identifies each alleged violation and an explanation of the
+14 basis for each allegation.
+15 (2) Except as provided in Paragraph (3) of this Subsection, the attorney
+16 general shall not initiate an action if the operator cures the notice violation
+17 within forty-five days after the date on which the operator receives the notice
+18 by providing the attorney general with a written statement indicating that the
+19 violation is cured and no further violations will occur.
+20 (3) The attorney general may initiate a civil action against an operator
+21 who does either of the following:
+22 (a) Fails to cure a violation after receiving the written notice provided for
+23 in Paragraph (1) of this Subsection.
+24 (b) Commits another violation of the same provision after curing a
+25 violation and providing a written statement in accordance with Paragraph (2)
+26 of this Subsection.
+27 (4) If a court of competent jurisdiction grants judgment or injunctive
+28 relief to the attorney general, the court shall award the attorney general
+29 reasonable attorney fees, court costs, and investigative costs.
+Page 4 of 6
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-53 ORIGINAL
+SB NO. 5
+1 (5) A person who violates an administrative order or court order issued
+2 for a violation of this Part shall be subject to a civil penalty of not more than
+3 five thousand dollars for each violation. A civil penalty in accordance with this
+4 Section may be imposed in any civil action brought by the attorney general.
+5 (6) All monies received from the payment of a fine or civil penalty
+6 imposed and collected pursuant to the provisions of this Section shall be used
+7 by the attorney general for consumer protection enforcement efforts or to
+8 promote consumer protection and education.
+9 Section 2. This Act shall become effective upon signature by the governor or, if not
+10 signed by the governor, upon expiration of the time for bills to become law without signature
+11 by the governor, as provided by Article III, Section 18 of the Constitution of Louisiana. If
+12 vetoed by the governor and subsequently approved by the legislature, this Act shall become
+13 effective on the day following such approval.
+The original instrument and the following digest, which constitutes no part
+of the legislative instrument, were prepared by Senate Legislative Services.
+The keyword, summary, and digest do not constitute part of the law or proof
+or indicia of legislative intent. [R.S. 1:13(B) and 24:177(E)]
+DIGEST
+SB 5 Original 2026 Regular Session Hensgens
+Proposed law defines "artificial intelligence", "mental health chatbot", "operator", and
+"user".
+Proposed law requires an operator of a mental health chatbot to disclose to a user that the
+chatbot is an artificial intelligence technology and not a human at certain intervals.
+Proposed law requires an operator of a mental health chatbot to have protocols in place to
+address possible suicidal ideation, self-harm, or physical harm to others expressed by the
+user.
+Proposed law prohibits an operator of a mental health chatbot from selling or sharing
+individually identifiable health information of a user or the user's input with any third party,
+except as authorized by proposed law.
+Proposed law prohibits an operator from using a mental health chatbot to advertise a specific
+product or service unless the chatbot clearly and conspicuously identifies the advertisement
+as an advertisement and discloses certain information to the user.
+Proposed law prohibits using the user's input to tailor advertisements to the user.
+Proposed law authorizes the attorney general to bring a civil action against an operator for
+violations of proposed law.
+Page 5 of 6
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-53 ORIGINAL
+SB NO. 5
+Proposed law provides for a civil fine of up to $10,000 per violation.
+Proposed law provides for processes for the attorney general to initiate and pursue civil
+action against an operator.
+Proposed law provides for the disposition of funds collected by the attorney general pursuant
+to proposed law.
+Effective upon signature of the governor or lapse of time for gubernatorial action.
+(Adds R.S. 28:16 and 17)
+Page 6 of 6
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+[DELETED: 3OATmrffBSh0P1R2§3A4( i m a a s d i5c s p h o o c t s t6r7o]
+[DELETED: 3O( " h c m a a it(h c w a c t t a o vc(w(c0h1(2c3h4( h c d n i a i5t6m7c8(9p0( l a1i2B3c4i5(6(7a8(9a]
+[DELETED: 3OCtesDwoho0s1a p w w t o h a c r t s2f3(4a t o c w a a p a s5p6o7a8E m9s0m1a2b3p4F5(6s7i8(9a]
+[DELETED: 3O(Gca§AoBt0C A l f d b t d o w t a1g2r3a4b5(6g7w8b9v0(1w2(3i4( C a v o t s a 5v6o7(8r t t a g t c s a t a g9r]
+[DELETED: 3O(ffS( m r t p o a f o pib f cpS0s1b2v3el2nH l d " i " h c " a]
+[DELETED: 3O]

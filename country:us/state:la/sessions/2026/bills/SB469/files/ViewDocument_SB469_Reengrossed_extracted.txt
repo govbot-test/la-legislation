@@ -1,0 +1,951 @@
+Title: SENATE BILL NO. 469
+Official Title: SENATE BILL NO. 469
+Number of Sections: 5
+Source: versions - SB469 Reengrossed
+Media Type: application/pdf
+Strikethrough Detection: 13 sections found
+
+================================================================================
+
+Section 1:
+SLS 26RS-752 REENGROSSED
+2026 Regular Session
+BY SENATOR ABRAHAM
+UTILITIES. Provides relative to the Louisiana Underground Utilities and Facilities Damage
+Prevention Law. (8/1/26)
+1 AN ACT
+2 To amend and reenact R.S. 40:1749.12, 1749.13(B)(6), 1749.14(A) and (C)(4),
+3 1749.18(B)(4), and 1749.19 and to enact R.S. 40:1749.13(F) and 1749.23(B)(4),
+4 relative to the Louisiana Underground Utilities and Facilities Damage Prevention
+5 Law; to provide for regional notification centers; to provide for enforcement of
+6 excavation or demolition; to provided for notices; to provide for exemptions; to
+7 provide for terms, conditions, and definitions; and to provide for related matters.
+8 Be it enacted by the Legislature of Louisiana:
+9 Section 1. R.S. 40:1749.12, 1749.13(B)(6), 1749.14(A) and (C)(4), 1749.18(B)(4),
+10 and 1749.19 are hereby amended and reenacted and R.S. 40:1749.13(F) and 1749.23(B)(4)
+11 are hereby enacted to read as follows:
+12 §1749.12. Definitions
+13 As used in this Part, the following terms have the meanings ascribed to them
+14 in this Section:
+15 (1) "Agricultural excavator" means a person who owns or operates a farm and
+16 is directly involved in the cultivation of land or crops or who raises livestock.
+17 (2) "Clear or no conflict" means a response provided by an owner or
+Page 1 of 13
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+SLS 26RS-752 REENGROSSED
+SB NO. 469
+1 operator of underground utilities or facilities when the owner or operator
+2 determines that its facilities or utilities are not in conflict with the proposed area
+3 of excavation.
+4 (2)(3) "Commissioner" means the commissioner of conservation.
+5 (3)(4) "Damage" means any defacing, scraping, gouging, breaking, cutting,
+6 or displacement of, impact upon or removal of an underground facility or utility or
+7 its means of primary support.
+8 (4)(5) "Demolisher" means any person engaged in the act of demolishing as
+9 defined in Paragraph (2)(6) of this Section.
+10 (5)(6) "Demolition" means the total or partial wrecking, razing, rendering,
+11 moving, or removing of any building or structure, movable or immovable.
+12 (6)(7) "Emergency" means any crisis situation which poses an imminent
+13 threat or danger to life, health, or property, which requires immediate action, if such
+14 action is taken. The term also includes an unplanned utility outage, which requires
+15 immediate action, if such action is taken.
+16 (7)(8) "Excavation" or "excavate" means any operation causing movement
+17 or removal of earth, rock, or other materials in or on the ground or submerged in a
+18 marine environment that could reasonably result in damage to underground or
+19 submerged utilities or facilities by the use of powered or mechanical or manual
+20 means, including but not limited to pile driving, digging, blasting, augering, boring,
+21 back filling, dredging, compaction, plowing-in, trenching, ditching, tunneling,
+22 land-leveling, grading, and mechanical probing. "Excavation" or "excavate" shall not
+23 include manual probing, normal commercial farming operations, or any activity
+24 resulting from force majeure related occurrences, including but not limited to an act
+25 of God or an act of nature.
+26 (8)(9) "Excavator" means any person who engages in excavation operations.
+27 (9)(10) "Forestry excavator" means an excavator who is a logger, prescribed
+28 burner, site preparation operator, or tree planter for commercial forestry operations.
+29 (10)(11) "Inclement weather" means weather that prohibits or impedes a
+Page 2 of 13
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+SLS 26RS-752 REENGROSSED
+SB NO. 469
+1 worker's use of his locating equipment or causes undue risk to himself or his
+2 equipment such as lightning, heavy rain, tornadoes, hurricanes, floods, sleet, snow,
+3 or flooding conditions.
+4 (11)(12) "Large project excavation or demolition" means excavation or
+5 demolition activity within a contiguous area that cannot reasonably be completed
+6 within twenty calendar days for routine demolition or excavation or within thirty
+7 calendar days for agricultural, forestry, or marine excavation or demolition activity.
+8 (13) "Locate request" means a communication between an excavator or
+9 demolisher and the regional notification center in which a request for locating
+10 underground utilities or facilities is processed.
+11 (12)(14) "Marine excavator" means an excavator or demolisher who is
+12 performing excavation or demolition in areas such as swamps, wetlands, shallow
+13 water, waterways, rivers, bayous, bays, lakes, the sea, and arms of the sea.
+14 (13)(15) "Mark-by time" is the date and time provided by the regional
+15 notification center by which the utility or facility operator is required to mark the
+16 location or provide information to enable an excavator or demolisher, using
+17 reasonable and prudent means, to determine the specific location of the utility or
+18 facility as provided for in R.S. 40:1749.14(D). The mark-by time may be extended
+19 if mutually agreed upon and documented between the excavator and operator.
+20 (14)(16) "Normal commercial farming operations" means the following
+21 operations or activities for agriculture cultivation purposes:
+22 (a) Operations or activities that do not encroach upon a private utility or
+23 pipeline servitude, public right-of-way, or a public franchise area.
+24 (b) Operations or activities that do encroach upon a private utility or pipeline
+25 servitude and the depth of the excavation is less than twelve inches in the soil below
+26 the existing surface grade.
+27 (15)(17) "Operator" means any person who owns or operates a public or
+28 private underground facility or utility which furnishes a service or material or stores,
+29 transports, or transmits electric energy, steam, oil, gases, natural gas, gas, mixture
+Page 3 of 13
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+SLS 26RS-752 REENGROSSED
+SB NO. 469
+1 of gases, petroleum, petroleum products, hazardous or flammable fluids, toxic or
+2 corrosive fluids/gases, including telephone or telegraph system, fiber optic electronic
+3 communication systems, or water or water systems, or drainage, sewer systems, or
+4 traffic control systems or other items of like nature.
+5 (16)(18) "Person" means an individual, firm, partnership, association, limited
+6 liability company, corporation, joint venture, municipality, governmental agency,
+7 political subdivision, or agent of the state or any legal representative thereof.
+8 (17)(19) "Pipeline" means all intrastate and interstate pipeline facilities
+9 defined by 49 CFR 192.3 and 49 CFR 195.2.
+10 (20) "Positive response" means once a facility owner or facility operator
+11 marks the location of existing facilities in the proposed excavation area or
+12 determines that excavation or demolition is not in conflict with any existing
+13 underground facilities, the facility owner or facility operator then notifies the
+14 excavator of the status of the location request ticket by appropriate response
+15 through the regional notification center's positive response system.
+16 (18)(21) "Regional notification center" means any one of the following:
+17 (a) An entity designated as nonprofit by the Internal Revenue Service under
+18 Section 501(c) of the Internal Revenue Code and which is organized to protect its
+19 members from damage and is certified by the Department of Public Safety and
+20 Corrections in accordance with this Part.
+21 (b) An organization of operators, consisting of two or more separate operators
+22 who jointly have underground utilities or facilities in three or more parishes in
+23 Louisiana, which is organized to protect its own installation from damage and has
+24 been certified by the Department of Public Safety and Corrections in accordance
+25 with this Part.
+26 (c) An operator who has underground utilities or facilities in a majority of
+27 parishes in Louisiana and is organized to protect its own installation from damage,
+28 and has been certified by the Department of Public Safety and Corrections in
+29 accordance with this Part.
+Page 4 of 13
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+SLS 26RS-752 REENGROSSED
+SB NO. 469
+1 (19)(22) "Routine excavation or demolition" means excavation or demolition
+2 activity that requires no more than twenty calendar days to be completed, and no
+3 more than thirty calendar days for agricultural, forestry, or marine excavation or
+4 demolition activity.
+5 (20)(23) "Service line or lines" means underground facilities or utilities
+6 which provide power, gas, natural gas, communication, or water capabilities to a
+7 building or structure or buildings or group of structures.
+8 (24) "Ticket" means the notification sent by the regional notification
+9 center to any owner or operator who has a facility located within the proposed
+10 area of excavation.
+11 (25) "Ticket number" means a unique identification number assigned by
+12 the regional notification center to each locate request.
+13 (21)(26) "Underground facility or utility" means any pipe, conduit, duct,
+14 wire, cable, valve, line, fiber optic equipment, or other structure which is buried or
+15 placed below ground or submerged for use in connection with storage, conveyance,
+16 transmission, or protection of electronics communication system, telephone or
+17 telegraph system, or fiber optic, electric energy, oil, natural gas, gas, gases, steam,
+18 mixture of gases, petroleum, petroleum products, hazardous or flammable
+19 fluids/gases, toxic or corrosive fluids/gases, hazardous fluids/gases, or other
+20 substances of like nature or water or water systems, sewer systems or traffic,
+21 drainage control systems, or other items of like nature.
+22 (22)(27) "Wildfire" means an uncontrolled combustion of natural vegetation.
+23 §1749.13. Excavation and demolition; prohibitions
+24 * * *
+25 B.(1) * * *
+26 (6) At least one person on any underground or submerged excavation or
+27 demolition site shall have proof of completion of the training and education provided
+28 by the Regional Notification Center. Training is required on an annual basis through
+29 the Regional Notification Center and shall be available through its website free of
+Page 5 of 13
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+SLS 26RS-752 REENGROSSED
+SB NO. 469
+1 charge. Excavators or demolishers engaged in logging operations, or those who
+2 have been certified by an operator qualification program subject to Title 49, CFR,
+3 Part 192 or Part 195, shall be exempt from this requirement.
+4 * * *
+5 F.(1) The provisions of this Subsection shall apply only to excavation
+6 activities performed in connection with broadband development projects
+7 funded in whole or in part through the Broadband Equity, Access, and
+8 Deployment (BEAD) Program.
+9 (2) Prior to commencing excavation on a BEAD-funded broadband
+10 project, an excavator shall provide not less than thirty days advance notice to
+11 all operators with underground facilities located in the proposed project area
+12 by utilizing the regional notification center's large project excavation or
+13 demolition locate request.
+14 (3) After providing thirty days advanced notice, but prior to the
+15 requirements of R.S. 40:1749.13(B), the excavator or demolisher and the
+16 operator having facilities within the excavation project area shall attempt in
+17 good faith to enter into a mutual written agreement that shall determine the
+18 scope of work, the mark-by-times, and any other project-specific coordination
+19 requirements. The agreement shall not be unreasonably withheld, conditioned,
+20 or delayed. In the event the parties are unable to reach a mutual written
+21 agreement, excavation shall not be delayed on that basis alone. The operator
+22 may comply with either of the following:
+23 (a) The standard marking requirements and timelines set forth in this
+24 Chapter.
+25 (b) At the operator's election, any marking schedule or coordination
+26 agreement already agreed to by other operators for the same excavation
+27 project. Nothing in this Section shall relieve any party of its obligations under
+28 this Chapter.
+29 (4) Each executed written agreement shall be electronically uploaded by
+Page 6 of 13
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+SLS 26RS-752 REENGROSSED
+SB NO. 469
+1 the excavator or demolisher to the regional notification center and attached to
+2 the applicable large project excavation or demolition ticket. The written
+3 agreement shall be available at the excavation site for inspection.
+4 (5) If facility markings are not visible at the time excavation is to
+5 commence, and no positive response has been provided by the operator with any
+6 underground utility or facility in conflict in the proposed area of excavation, the
+7 excavator shall not begin excavation until documented notice is made to the
+8 operator of the underground utility or facility. The operator shall have three
+9 hours from the time documented notice is made to either mark the facility or
+10 provide a positive response that there is no conflict. If the operator fails to
+11 respond within three hours of the documented notice, the excavation may
+12 commence with the excavator or demolisher exercising due care to protect any
+13 underground utility or facility within the area of excavation.
+14 (6) Any excavator or demolisher performing excavation activities in the
+15 public right-of-way pursuant to a BEAD-funded broadband project shall
+16 display, at the excavation site, signage identifying the excavator, demolisher or
+17 their agents or contractors, the broadband service provider for whom the work
+18 is being performed, and a telephone number or email address for project
+19 inquiries.
+20 (7) Each project shall comply with the provisions of this Part.
+21 (8) The provisions of this Subsection shall terminate on August 1, 2030.
+22 §1749.14. Regional notification center
+23 A. Each operator of an underground utility or facility, including all state
+24 agencies and political subdivisions of the state, shall become a member of,
+25 participate in, and share the cost of a regional notification center, except as provided
+26 for in R.S. 40:1749.19. Each regional notification center shall have the capability to
+27 receive emergency locate requests twenty-four hours a day and to disseminate the
+28 information as soon as it is received to the appropriate operators and all affected
+29 regional notification centers in this state.
+Page 7 of 13
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+SLS 26RS-752 REENGROSSED
+SB NO. 469
+1 * * *
+2 C.(1) * * *
+3 * * *
+4 (4) Should an underground utility or facility operator determine that its
+5 underground facilities are not in conflict with the location of the request or determine
+6 that its underground facilities are not fully marked for locating purposes, a
+7 notification shall be sent to the excavator prior to the mark-by time. A notification
+8 to the regional notification center that generated the location request shall suffice for
+9 compliance with this Section as it pertains to positive response A facility operator
+10 shall provide a positive response through the regional notification center before
+11 expiration of the time allowed for marking. The response shall indicate whether
+12 the operator's facilities are present and marked, not present, or that additional
+13 time is required.
+14 * * *
+15 §1749.18. Certification of a regional notification center by Department of Public
+16 Safety and Corrections
+17 * * *
+18 B. For the purposes of promoting cost effectiveness, ease of use, safety, and
+19 the protection of property, workmen, and citizens from damage, injury, and death,
+20 the rules and regulations shall include but not be limited to requirements that any
+21 regional notification center, that is either certified or that applies for certification
+22 pursuant to the provisions of this Chapter, shall have and maintain the following:
+23 * * *
+24 (4)(a) Specifically defined geopolitical services areas that are coterminous
+25 with parish boundaries and do not overlap any other defined service area.
+26 (b) The provisions of this Paragraph shall apply only to those regional
+27 notification centers described in R.S. 40:1749.12(13)(a)(21)(a).
+28 * * *
+29 §1749.19. Voluntary participation by incorporated municipalities and parish
+Page 8 of 13
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+SLS 26RS-752 REENGROSSED
+SB NO. 469
+1 governments
+2 A. Each incorporated municipality or parish government that operates
+3 under a home rule charter that was adopted prior to January 1, 1958, which
+4 owns or operates, in its own right or through a special district or districts created
+5 pursuant to constitutional, home rule, or statutory authority, a drainage system, a
+6 sewer system, drainage, water or water system, telephone or telegraph, fiber optic,
+7 electronics equipment system, traffic control system, or an electrical energy system
+8 and/or a gas or natural gas system underground facility within its local jurisdiction
+9 which would otherwise be included in R.S. 40:1749.14, and which does not desire
+10 to be so included, shall adopt an ordinance indicating this desire by adopted an
+11 ordinance on or before December 31, 1998, indicating its desire to be excluded
+12 from the provisions of R.S. 40:1749.14 shall be exempt from the requirements
+13 of R.S. 40:1749.14. This exemption shall apply to all such systems that are
+14 owned or operated by the incorporated municipality or parish government in
+15 its own right or through a special district or districts, including those systems
+16 existing at the time that the incorporated municipality or parish government
+17 adopted the ordinance indicating its desire to be excluded from the provisions
+18 of R.S. 40:1749.14 and those subsequently established or acquired. Each exempt
+19 incorporated municipality, parish government, and public utility shall maintain
+20 a permitting process or other established procedure through which a permittee
+21 may obtain, if available, information regarding the approximate location of
+22 such systems owned or operated by the incorporated municipality, parish
+23 government, or public utility that are situated in the immediate vicinity of the
+24 permitted work or area of excavation. The ordinance shall be filed with the
+25 secretary of state for verification purposes. An incorporated municipality or parish
+26 government which fails to adopt the ordinance shall be subject to the provisions of
+27 this Part on and after December 31, 1998.
+28 B. Each municipality or parish government which owns or operates in its own
+29 right, or through a special district or districts created pursuant to law, a drainage
+Page 9 of 13
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+SLS 26RS-752 REENGROSSED
+SB NO. 469
+1 system, a sewer system, water or water system, telephone or telegraph, fiber optic,
+2 electronics equipment system, traffic control system, an electrical energy system,
+3 natural gas system, and/or a gas system underground facility within its local
+4 jurisdiction which would otherwise be included in R.S. 40:1749.17, and which is
+5 incorporated or created subsequent to July 1, 1997, and which does not desire to be
+6 so included, shall comply with the provisions of Subsection A of this Section within
+7 one year of the date of its first municipal elections or within one year of the date of
+8 creation of a special district.
+9 * * *
+10 §1749.23. Enforcement and adjudication; administration; levy of civil penalties
+11 * * *
+12 B. The deputy secretary for the office of public safety services in the
+13 Department of Public Safety and Corrections or any local law enforcement agency
+14 shall have the right to:
+15 * * *
+16 (4) Order the cessation of excavation or demolition activities when the
+17 officer has reasonable cause to believe the excavator is operating in violation of
+18 this Part. Excavation or demolition shall not resume until the excavator
+19 demonstrates compliance with this Part. For the purposes of this Paragraph,
+20 "reasonable cause" means articulable facts observed by the officer that would
+21 lead a reasonable person to believe that a violation of this Part is occurring or
+22 is about to occur, including but not limited to the absence of a valid locate
+23 ticket, an expired ticket, excavation within unmarked or improperly marked
+24 areas, or other observable noncompliance pursuant to this Part.
+25 * * *
+Page 10 of 13
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+SLS 26RS-752 REENGROSSED
+SB NO. 469
+The original instrument and the following digest, which constitutes no part
+of the legislative instrument, were prepared by Senate Legislative Services.
+The keyword, summary, and digest do not constitute part of the law or proof
+or indicia of legislative intent. [R.S. 1:13(B) and 24:177(E)]
+DIGEST
+SB 469 Reengrossed 2026 Regular Session Abraham
+Present law provides relative to the Louisiana Underground Utilities and Facilities Damage
+Prevention Law.
+Present law provides for definitions.
+Proposed law retains present law and adds a definition for "clear or no conflict", "locate
+request", "positive response", "ticket", and "ticket number".
+Present law requires at least one person present at any underground or submerged excavation
+or demolition site possess proof of completion of annual training provided free of charge by
+the regional notification center and exempts excavators and demolishers certified under
+operator qualification programs pursuant to present law.
+Proposed law retains present law and clarifies that the exemption is for excavators or
+demolishers engaged in logging operations.
+Proposed law provides for excavation procedures for broadband development projects
+funded through the Broadband Equity, Access, and Deployment (BEAD) Program.
+Proposed law requires an excavator, demolishers, and operators to provide at least 30 days
+advanced notice to all operators with underground facilities located in the proposed project
+area by utilizing the regional notification center. Requires excavators, demolishers, and
+operators to attempt in good faith to enter into a written coordination agreement after 30
+days' notice but before standard marking requirements apply.
+Proposed law provides that failure to reach an agreement shall not delay excavation and
+allows operators to follow either standard marking requirements or an agreed-upon project
+schedule, while maintaining all existing obligations under present law.
+Proposed law provides that the executed agreement shall be electronically uploaded by the
+excavator or demolisher to the regional notification center and attached to large project
+excavation or demolition ticket and made available at the excavation site for inspection.
+Proposed law provides that if required facility markings are not visible and no positive
+response has been received from an operator, the excavator shall not begin excavation until
+documented notice is made to the operator of the underground utility or facility. Further
+requires the operator to mark the facilities or provide a positive response that there is no
+conflict within three hours from the time of contact. Allows the excavation, exercised with
+due care, if the operator fails to respond within three hours of contact.
+Proposed law requires any excavator or demolisher performing excavation activities in the
+public right of way for a broadband development project to display signage at the excavation
+site identifying the excavator or demolisher, the broadband service provider for whom the
+work is being performed, and a contact telephone number or email address for project
+inquiries.
+Proposed law provides that the provisions of proposed law terminate on August 1, 2030.
+Present law requires each operator of an underground utility or facility, including state
+Page 11 of 13
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+SLS 26RS-752 REENGROSSED
+SB NO. 469
+agencies and political subdivisions, to become a member of, participate in, and share the cost
+of a regional notification center, except for voluntary participation by incorporated
+municipalities and parish governments. Further requires the regional notification center to
+receive emergency locate requests 24 hours a day and promptly disseminate the information
+to appropriate operators and affected regional notification centers in the state.
+Proposed law retains present law except removes the exemption for voluntary participation
+by incorporated municipalities and parish governments.
+Present law requires an underground utility or facility operator to notify the excavator prior
+to the mark-by-time if the operator determines its facilities are not in conflict with the
+excavation location or are not fully marked for locating purposes. Provides that notification
+to the regional notification center that generated the locate request satisfies the positive
+response requirement.
+Proposed law requires a facility operator to provide a positive response through the regional
+notification center before the expiration of the time allowed for marking, indicating whether
+the operator's facilities are present and marked, not present, or whether additional time is
+required.
+Present law allows incorporated municipalities and parish governments that own or operate
+underground facilities to opt out of the Underground Utilities and Facilities Damage
+Prevention Law by adopting and filing an ordinance expressing such intent by specified
+deadlines. Further provides that municipalities or parish governments created after July 1,
+1997, may opt out by adopting such ordinance within one year of their creation or first
+municipal election.
+Proposed law retains present law exemptions limits the exemption to incorporated
+municipalities or parish governments operating under a home rule charter adopted prior to
+January 1, 1958. Provides that entities that adopted an ordinance on or before December 31,
+1998, are exempt from certain requirements under present law and that such exemption
+applies to both existing and subsequently acquired systems.
+Proposed law requires exempt entities to maintain a permitting process or other procedure
+to provide, if available, information regarding the approximate location of underground
+facilities. Further requires that the ordinance be filed with the secretary of state and that
+failure to adopt such ordinance results in applicability of the law and removes provisions
+allowing municipalities or parish governments created after July 1, 1997, to opt out within
+one year.
+Present law provides that the deputy secretary for the office of public safety services, Dept.
+of Public Safety and Corrections, or any local law enforcement agency shall have the right
+to:
+(1) Monitor any excavation or demolition, including requests for the excavator or
+demolisher to provide the locate request number issued by a regional notification
+center.
+(2) Issue citations for violations of the provisions of present law.
+(3) Seek restraining orders, injunctions, or any other available civil remedies.
+Proposed law retains present law and adds the authorization for the Dept. of Public Safety
+and Corrections or any local law enforcement officer to order the cessation of excavation or
+demolition activities when the officer has reasonable cause to believe the excavator is in
+violation of present law. Defines "reasonable cause".
+(Amends R.S. 40:1749.12, 1749.13(B)(6), 1749.14(A) and (C)(4), 1749.18(B)(4), and
+
+Section 2:
+1749.19; adds R.S. 40:1749.13(F) and 1749.23(B)(4))
+Page 12 of 13
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+SLS 26RS-752 REENGROSSED
+SB NO. 469
+Summary of Amendments Adopted by Senate
+Committee Amendments Proposed by Senate Committee on Commerce, Consumer
+Protection, and International Affairs to the original bill
+
+Section 3:
+1. Makes technical changes.
+Senate Floor Amendments to engrossed bill
+
+Section 4:
+1. Limits the option to opt-out from underground utility regulation to
+municipalities or parish governments with a home rule charter established
+prior to January 1, 1958, requires those exempt entities to maintain a process
+for providing location information on underground facilities, and eliminates
+the ability of newly created municipalities or districts to opt out of the
+present law.
+
+Section 5:
+2. Makes technical changes.
+Page 13 of 13
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+[DELETED: 2RAT a a r R 4 1 1 a (1rLepBS0a1a2§3A4i5(6i7(]
+[DELETED: 2Ro udo((oi(d0(1m2(3t4a5i6(7o8m e t c r r i d t u o9s0m1b f d c p t d t2l3i4r5o6(7(8b9(]
+[DELETED: 2Rw u o h l e o c u r t h o heo( " p e o d m e odwc(d0u1( " e m a e o d w i2p3w4( " t i t d a t p b t r5n6l o p i t e a e o d u7r8f9i0( " c f o m t f1o2(3p4(5s6t7(8p9t]
+[DELETED: 2Rocct(lp( " m a i a i p fd0(1m2d3u4e5t6(7(8S9m0C1(2w3L4b5w6(7p8a h b c b t D o P S a C i9a]
+[DELETED: 2R(amd( mwb(c0a1(2t3(4w5p6t o p o e c s t o7t8m o g p p p h o f9f t o c f h f o o0s o l n o w o w s s s o t1d2(3§4*5B)*6(7d8b9t]
+[DELETED: 2RchP*Fa p i c w b d pf i w o i p t t B E A aD( c e a B b0p1a2b u t r n c l p e o3d4( A p t d a n b p t t5r o R 4 t e o d a t6o7g8s9r0o I t e t p t r m w1a2m3(4C5(6a a a t b o o f t s e7p8t9(]
+[DELETED: 2Rtt a l p e o d t T wa( I f m a n v a t t e i tcueoh0p1r w t o t d n e2c3u4(5p r p t a B b p s6d7t8i b p a a t n o e a f p9i0(1(2§3A4a a p s o t s s b a m o5p6f7r8i9r]
+[DELETED: 2R*C)**( a u o f o d iut i u f a n f m f l p ntc0s1e2t3t4*5§6S7*8B9t0t1r2p3*4(5w6( T p o t P s a o t t r7n8*9§ V p b i m a p]
+[DELETED: 2RgA E i m o p g t ouopseaw0t1o2f3o4o5i6e7a8o9i0a1m2s s o o o b t i m p3g4p o a5s6g7t8B9r]
+[DELETED: 2Rsen g s a a g s u f w i ljisoc*0§1*2B T d s f t o o p s s i t3D4s5*6(7o8t P E o d s n r u t e9d0"1l2i3t4a5*]
+[DELETED: 2Rd2nA l b]
+[DELETED: 2R a r n c e f v p b i f t o o o t U U a F D l r p l e l t e t i)M a e o d i r f t e o)I)S R 4 1 1 a ( 1 a]
+[DELETED: 2R.M.L t o t o f u u r t a o n c m o d t o o o t.M]
+
+
+================================================================================
+
+Raw Text:
+SLS 26RS-752 REENGROSSED
+2026 Regular Session
+SENATE BILL NO. 469
+BY SENATOR ABRAHAM
+UTILITIES. Provides relative to the Louisiana Underground Utilities and Facilities Damage
+Prevention Law. (8/1/26)
+1 AN ACT
+2 To amend and reenact R.S. 40:1749.12, 1749.13(B)(6), 1749.14(A) and (C)(4),
+3 1749.18(B)(4), and 1749.19 and to enact R.S. 40:1749.13(F) and 1749.23(B)(4),
+4 relative to the Louisiana Underground Utilities and Facilities Damage Prevention
+5 Law; to provide for regional notification centers; to provide for enforcement of
+6 excavation or demolition; to provided for notices; to provide for exemptions; to
+7 provide for terms, conditions, and definitions; and to provide for related matters.
+8 Be it enacted by the Legislature of Louisiana:
+9 Section 1. R.S. 40:1749.12, 1749.13(B)(6), 1749.14(A) and (C)(4), 1749.18(B)(4),
+10 and 1749.19 are hereby amended and reenacted and R.S. 40:1749.13(F) and 1749.23(B)(4)
+11 are hereby enacted to read as follows:
+12 §1749.12. Definitions
+13 As used in this Part, the following terms have the meanings ascribed to them
+14 in this Section:
+15 (1) "Agricultural excavator" means a person who owns or operates a farm and
+16 is directly involved in the cultivation of land or crops or who raises livestock.
+17 (2) "Clear or no conflict" means a response provided by an owner or
+Page 1 of 13
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-752 REENGROSSED
+SB NO. 469
+1 operator of underground utilities or facilities when the owner or operator
+2 determines that its facilities or utilities are not in conflict with the proposed area
+3 of excavation.
+4 (2)(3) "Commissioner" means the commissioner of conservation.
+5 (3)(4) "Damage" means any defacing, scraping, gouging, breaking, cutting,
+6 or displacement of, impact upon or removal of an underground facility or utility or
+7 its means of primary support.
+8 (4)(5) "Demolisher" means any person engaged in the act of demolishing as
+9 defined in Paragraph (2)(6) of this Section.
+10 (5)(6) "Demolition" means the total or partial wrecking, razing, rendering,
+11 moving, or removing of any building or structure, movable or immovable.
+12 (6)(7) "Emergency" means any crisis situation which poses an imminent
+13 threat or danger to life, health, or property, which requires immediate action, if such
+14 action is taken. The term also includes an unplanned utility outage, which requires
+15 immediate action, if such action is taken.
+16 (7)(8) "Excavation" or "excavate" means any operation causing movement
+17 or removal of earth, rock, or other materials in or on the ground or submerged in a
+18 marine environment that could reasonably result in damage to underground or
+19 submerged utilities or facilities by the use of powered or mechanical or manual
+20 means, including but not limited to pile driving, digging, blasting, augering, boring,
+21 back filling, dredging, compaction, plowing-in, trenching, ditching, tunneling,
+22 land-leveling, grading, and mechanical probing. "Excavation" or "excavate" shall not
+23 include manual probing, normal commercial farming operations, or any activity
+24 resulting from force majeure related occurrences, including but not limited to an act
+25 of God or an act of nature.
+26 (8)(9) "Excavator" means any person who engages in excavation operations.
+27 (9)(10) "Forestry excavator" means an excavator who is a logger, prescribed
+28 burner, site preparation operator, or tree planter for commercial forestry operations.
+29 (10)(11) "Inclement weather" means weather that prohibits or impedes a
+Page 2 of 13
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-752 REENGROSSED
+SB NO. 469
+1 worker's use of his locating equipment or causes undue risk to himself or his
+2 equipment such as lightning, heavy rain, tornadoes, hurricanes, floods, sleet, snow,
+3 or flooding conditions.
+4 (11)(12) "Large project excavation or demolition" means excavation or
+5 demolition activity within a contiguous area that cannot reasonably be completed
+6 within twenty calendar days for routine demolition or excavation or within thirty
+7 calendar days for agricultural, forestry, or marine excavation or demolition activity.
+8 (13) "Locate request" means a communication between an excavator or
+9 demolisher and the regional notification center in which a request for locating
+10 underground utilities or facilities is processed.
+11 (12)(14) "Marine excavator" means an excavator or demolisher who is
+12 performing excavation or demolition in areas such as swamps, wetlands, shallow
+13 water, waterways, rivers, bayous, bays, lakes, the sea, and arms of the sea.
+14 (13)(15) "Mark-by time" is the date and time provided by the regional
+15 notification center by which the utility or facility operator is required to mark the
+16 location or provide information to enable an excavator or demolisher, using
+17 reasonable and prudent means, to determine the specific location of the utility or
+18 facility as provided for in R.S. 40:1749.14(D). The mark-by time may be extended
+19 if mutually agreed upon and documented between the excavator and operator.
+20 (14)(16) "Normal commercial farming operations" means the following
+21 operations or activities for agriculture cultivation purposes:
+22 (a) Operations or activities that do not encroach upon a private utility or
+23 pipeline servitude, public right-of-way, or a public franchise area.
+24 (b) Operations or activities that do encroach upon a private utility or pipeline
+25 servitude and the depth of the excavation is less than twelve inches in the soil below
+26 the existing surface grade.
+27 (15)(17) "Operator" means any person who owns or operates a public or
+28 private underground facility or utility which furnishes a service or material or stores,
+29 transports, or transmits electric energy, steam, oil, gases, natural gas, gas, mixture
+Page 3 of 13
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-752 REENGROSSED
+SB NO. 469
+1 of gases, petroleum, petroleum products, hazardous or flammable fluids, toxic or
+2 corrosive fluids/gases, including telephone or telegraph system, fiber optic electronic
+3 communication systems, or water or water systems, or drainage, sewer systems, or
+4 traffic control systems or other items of like nature.
+5 (16)(18) "Person" means an individual, firm, partnership, association, limited
+6 liability company, corporation, joint venture, municipality, governmental agency,
+7 political subdivision, or agent of the state or any legal representative thereof.
+8 (17)(19) "Pipeline" means all intrastate and interstate pipeline facilities
+9 defined by 49 CFR 192.3 and 49 CFR 195.2.
+10 (20) "Positive response" means once a facility owner or facility operator
+11 marks the location of existing facilities in the proposed excavation area or
+12 determines that excavation or demolition is not in conflict with any existing
+13 underground facilities, the facility owner or facility operator then notifies the
+14 excavator of the status of the location request ticket by appropriate response
+15 through the regional notification center's positive response system.
+16 (18)(21) "Regional notification center" means any one of the following:
+17 (a) An entity designated as nonprofit by the Internal Revenue Service under
+18 Section 501(c) of the Internal Revenue Code and which is organized to protect its
+19 members from damage and is certified by the Department of Public Safety and
+20 Corrections in accordance with this Part.
+21 (b) An organization of operators, consisting of two or more separate operators
+22 who jointly have underground utilities or facilities in three or more parishes in
+23 Louisiana, which is organized to protect its own installation from damage and has
+24 been certified by the Department of Public Safety and Corrections in accordance
+25 with this Part.
+26 (c) An operator who has underground utilities or facilities in a majority of
+27 parishes in Louisiana and is organized to protect its own installation from damage,
+28 and has been certified by the Department of Public Safety and Corrections in
+29 accordance with this Part.
+Page 4 of 13
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-752 REENGROSSED
+SB NO. 469
+1 (19)(22) "Routine excavation or demolition" means excavation or demolition
+2 activity that requires no more than twenty calendar days to be completed, and no
+3 more than thirty calendar days for agricultural, forestry, or marine excavation or
+4 demolition activity.
+5 (20)(23) "Service line or lines" means underground facilities or utilities
+6 which provide power, gas, natural gas, communication, or water capabilities to a
+7 building or structure or buildings or group of structures.
+8 (24) "Ticket" means the notification sent by the regional notification
+9 center to any owner or operator who has a facility located within the proposed
+10 area of excavation.
+11 (25) "Ticket number" means a unique identification number assigned by
+12 the regional notification center to each locate request.
+13 (21)(26) "Underground facility or utility" means any pipe, conduit, duct,
+14 wire, cable, valve, line, fiber optic equipment, or other structure which is buried or
+15 placed below ground or submerged for use in connection with storage, conveyance,
+16 transmission, or protection of electronics communication system, telephone or
+17 telegraph system, or fiber optic, electric energy, oil, natural gas, gas, gases, steam,
+18 mixture of gases, petroleum, petroleum products, hazardous or flammable
+19 fluids/gases, toxic or corrosive fluids/gases, hazardous fluids/gases, or other
+20 substances of like nature or water or water systems, sewer systems or traffic,
+21 drainage control systems, or other items of like nature.
+22 (22)(27) "Wildfire" means an uncontrolled combustion of natural vegetation.
+23 §1749.13. Excavation and demolition; prohibitions
+24 * * *
+25 B.(1) * * *
+26 (6) At least one person on any underground or submerged excavation or
+27 demolition site shall have proof of completion of the training and education provided
+28 by the Regional Notification Center. Training is required on an annual basis through
+29 the Regional Notification Center and shall be available through its website free of
+Page 5 of 13
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-752 REENGROSSED
+SB NO. 469
+1 charge. Excavators or demolishers engaged in logging operations, or those who
+2 have been certified by an operator qualification program subject to Title 49, CFR,
+3 Part 192 or Part 195, shall be exempt from this requirement.
+4 * * *
+5 F.(1) The provisions of this Subsection shall apply only to excavation
+6 activities performed in connection with broadband development projects
+7 funded in whole or in part through the Broadband Equity, Access, and
+8 Deployment (BEAD) Program.
+9 (2) Prior to commencing excavation on a BEAD-funded broadband
+10 project, an excavator shall provide not less than thirty days advance notice to
+11 all operators with underground facilities located in the proposed project area
+12 by utilizing the regional notification center's large project excavation or
+13 demolition locate request.
+14 (3) After providing thirty days advanced notice, but prior to the
+15 requirements of R.S. 40:1749.13(B), the excavator or demolisher and the
+16 operator having facilities within the excavation project area shall attempt in
+17 good faith to enter into a mutual written agreement that shall determine the
+18 scope of work, the mark-by-times, and any other project-specific coordination
+19 requirements. The agreement shall not be unreasonably withheld, conditioned,
+20 or delayed. In the event the parties are unable to reach a mutual written
+21 agreement, excavation shall not be delayed on that basis alone. The operator
+22 may comply with either of the following:
+23 (a) The standard marking requirements and timelines set forth in this
+24 Chapter.
+25 (b) At the operator's election, any marking schedule or coordination
+26 agreement already agreed to by other operators for the same excavation
+27 project. Nothing in this Section shall relieve any party of its obligations under
+28 this Chapter.
+29 (4) Each executed written agreement shall be electronically uploaded by
+Page 6 of 13
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-752 REENGROSSED
+SB NO. 469
+1 the excavator or demolisher to the regional notification center and attached to
+2 the applicable large project excavation or demolition ticket. The written
+3 agreement shall be available at the excavation site for inspection.
+4 (5) If facility markings are not visible at the time excavation is to
+5 commence, and no positive response has been provided by the operator with any
+6 underground utility or facility in conflict in the proposed area of excavation, the
+7 excavator shall not begin excavation until documented notice is made to the
+8 operator of the underground utility or facility. The operator shall have three
+9 hours from the time documented notice is made to either mark the facility or
+10 provide a positive response that there is no conflict. If the operator fails to
+11 respond within three hours of the documented notice, the excavation may
+12 commence with the excavator or demolisher exercising due care to protect any
+13 underground utility or facility within the area of excavation.
+14 (6) Any excavator or demolisher performing excavation activities in the
+15 public right-of-way pursuant to a BEAD-funded broadband project shall
+16 display, at the excavation site, signage identifying the excavator, demolisher or
+17 their agents or contractors, the broadband service provider for whom the work
+18 is being performed, and a telephone number or email address for project
+19 inquiries.
+20 (7) Each project shall comply with the provisions of this Part.
+21 (8) The provisions of this Subsection shall terminate on August 1, 2030.
+22 §1749.14. Regional notification center
+23 A. Each operator of an underground utility or facility, including all state
+24 agencies and political subdivisions of the state, shall become a member of,
+25 participate in, and share the cost of a regional notification center, except as provided
+26 for in R.S. 40:1749.19. Each regional notification center shall have the capability to
+27 receive emergency locate requests twenty-four hours a day and to disseminate the
+28 information as soon as it is received to the appropriate operators and all affected
+29 regional notification centers in this state.
+Page 7 of 13
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-752 REENGROSSED
+SB NO. 469
+1 * * *
+2 C.(1) * * *
+3 * * *
+4 (4) Should an underground utility or facility operator determine that its
+5 underground facilities are not in conflict with the location of the request or determine
+6 that its underground facilities are not fully marked for locating purposes, a
+7 notification shall be sent to the excavator prior to the mark-by time. A notification
+8 to the regional notification center that generated the location request shall suffice for
+9 compliance with this Section as it pertains to positive response A facility operator
+10 shall provide a positive response through the regional notification center before
+11 expiration of the time allowed for marking. The response shall indicate whether
+12 the operator's facilities are present and marked, not present, or that additional
+13 time is required.
+14 * * *
+15 §1749.18. Certification of a regional notification center by Department of Public
+16 Safety and Corrections
+17 * * *
+18 B. For the purposes of promoting cost effectiveness, ease of use, safety, and
+19 the protection of property, workmen, and citizens from damage, injury, and death,
+20 the rules and regulations shall include but not be limited to requirements that any
+21 regional notification center, that is either certified or that applies for certification
+22 pursuant to the provisions of this Chapter, shall have and maintain the following:
+23 * * *
+24 (4)(a) Specifically defined geopolitical services areas that are coterminous
+25 with parish boundaries and do not overlap any other defined service area.
+26 (b) The provisions of this Paragraph shall apply only to those regional
+27 notification centers described in R.S. 40:1749.12(13)(a)(21)(a).
+28 * * *
+29 §1749.19. Voluntary participation by incorporated municipalities and parish
+Page 8 of 13
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-752 REENGROSSED
+SB NO. 469
+1 governments
+2 A. Each incorporated municipality or parish government that operates
+3 under a home rule charter that was adopted prior to January 1, 1958, which
+4 owns or operates, in its own right or through a special district or districts created
+5 pursuant to constitutional, home rule, or statutory authority, a drainage system, a
+6 sewer system, drainage, water or water system, telephone or telegraph, fiber optic,
+7 electronics equipment system, traffic control system, or an electrical energy system
+8 and/or a gas or natural gas system underground facility within its local jurisdiction
+9 which would otherwise be included in R.S. 40:1749.14, and which does not desire
+10 to be so included, shall adopt an ordinance indicating this desire by adopted an
+11 ordinance on or before December 31, 1998, indicating its desire to be excluded
+12 from the provisions of R.S. 40:1749.14 shall be exempt from the requirements
+13 of R.S. 40:1749.14. This exemption shall apply to all such systems that are
+14 owned or operated by the incorporated municipality or parish government in
+15 its own right or through a special district or districts, including those systems
+16 existing at the time that the incorporated municipality or parish government
+17 adopted the ordinance indicating its desire to be excluded from the provisions
+18 of R.S. 40:1749.14 and those subsequently established or acquired. Each exempt
+19 incorporated municipality, parish government, and public utility shall maintain
+20 a permitting process or other established procedure through which a permittee
+21 may obtain, if available, information regarding the approximate location of
+22 such systems owned or operated by the incorporated municipality, parish
+23 government, or public utility that are situated in the immediate vicinity of the
+24 permitted work or area of excavation. The ordinance shall be filed with the
+25 secretary of state for verification purposes. An incorporated municipality or parish
+26 government which fails to adopt the ordinance shall be subject to the provisions of
+27 this Part on and after December 31, 1998.
+28 B. Each municipality or parish government which owns or operates in its own
+29 right, or through a special district or districts created pursuant to law, a drainage
+Page 9 of 13
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-752 REENGROSSED
+SB NO. 469
+1 system, a sewer system, water or water system, telephone or telegraph, fiber optic,
+2 electronics equipment system, traffic control system, an electrical energy system,
+3 natural gas system, and/or a gas system underground facility within its local
+4 jurisdiction which would otherwise be included in R.S. 40:1749.17, and which is
+5 incorporated or created subsequent to July 1, 1997, and which does not desire to be
+6 so included, shall comply with the provisions of Subsection A of this Section within
+7 one year of the date of its first municipal elections or within one year of the date of
+8 creation of a special district.
+9 * * *
+10 §1749.23. Enforcement and adjudication; administration; levy of civil penalties
+11 * * *
+12 B. The deputy secretary for the office of public safety services in the
+13 Department of Public Safety and Corrections or any local law enforcement agency
+14 shall have the right to:
+15 * * *
+16 (4) Order the cessation of excavation or demolition activities when the
+17 officer has reasonable cause to believe the excavator is operating in violation of
+18 this Part. Excavation or demolition shall not resume until the excavator
+19 demonstrates compliance with this Part. For the purposes of this Paragraph,
+20 "reasonable cause" means articulable facts observed by the officer that would
+21 lead a reasonable person to believe that a violation of this Part is occurring or
+22 is about to occur, including but not limited to the absence of a valid locate
+23 ticket, an expired ticket, excavation within unmarked or improperly marked
+24 areas, or other observable noncompliance pursuant to this Part.
+25 * * *
+Page 10 of 13
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-752 REENGROSSED
+SB NO. 469
+The original instrument and the following digest, which constitutes no part
+of the legislative instrument, were prepared by Senate Legislative Services.
+The keyword, summary, and digest do not constitute part of the law or proof
+or indicia of legislative intent. [R.S. 1:13(B) and 24:177(E)]
+DIGEST
+SB 469 Reengrossed 2026 Regular Session Abraham
+Present law provides relative to the Louisiana Underground Utilities and Facilities Damage
+Prevention Law.
+Present law provides for definitions.
+Proposed law retains present law and adds a definition for "clear or no conflict", "locate
+request", "positive response", "ticket", and "ticket number".
+Present law requires at least one person present at any underground or submerged excavation
+or demolition site possess proof of completion of annual training provided free of charge by
+the regional notification center and exempts excavators and demolishers certified under
+operator qualification programs pursuant to present law.
+Proposed law retains present law and clarifies that the exemption is for excavators or
+demolishers engaged in logging operations.
+Proposed law provides for excavation procedures for broadband development projects
+funded through the Broadband Equity, Access, and Deployment (BEAD) Program.
+Proposed law requires an excavator, demolishers, and operators to provide at least 30 days
+advanced notice to all operators with underground facilities located in the proposed project
+area by utilizing the regional notification center. Requires excavators, demolishers, and
+operators to attempt in good faith to enter into a written coordination agreement after 30
+days' notice but before standard marking requirements apply.
+Proposed law provides that failure to reach an agreement shall not delay excavation and
+allows operators to follow either standard marking requirements or an agreed-upon project
+schedule, while maintaining all existing obligations under present law.
+Proposed law provides that the executed agreement shall be electronically uploaded by the
+excavator or demolisher to the regional notification center and attached to large project
+excavation or demolition ticket and made available at the excavation site for inspection.
+Proposed law provides that if required facility markings are not visible and no positive
+response has been received from an operator, the excavator shall not begin excavation until
+documented notice is made to the operator of the underground utility or facility. Further
+requires the operator to mark the facilities or provide a positive response that there is no
+conflict within three hours from the time of contact. Allows the excavation, exercised with
+due care, if the operator fails to respond within three hours of contact.
+Proposed law requires any excavator or demolisher performing excavation activities in the
+public right of way for a broadband development project to display signage at the excavation
+site identifying the excavator or demolisher, the broadband service provider for whom the
+work is being performed, and a contact telephone number or email address for project
+inquiries.
+Proposed law provides that the provisions of proposed law terminate on August 1, 2030.
+Present law requires each operator of an underground utility or facility, including state
+Page 11 of 13
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-752 REENGROSSED
+SB NO. 469
+agencies and political subdivisions, to become a member of, participate in, and share the cost
+of a regional notification center, except for voluntary participation by incorporated
+municipalities and parish governments. Further requires the regional notification center to
+receive emergency locate requests 24 hours a day and promptly disseminate the information
+to appropriate operators and affected regional notification centers in the state.
+Proposed law retains present law except removes the exemption for voluntary participation
+by incorporated municipalities and parish governments.
+Present law requires an underground utility or facility operator to notify the excavator prior
+to the mark-by-time if the operator determines its facilities are not in conflict with the
+excavation location or are not fully marked for locating purposes. Provides that notification
+to the regional notification center that generated the locate request satisfies the positive
+response requirement.
+Proposed law requires a facility operator to provide a positive response through the regional
+notification center before the expiration of the time allowed for marking, indicating whether
+the operator's facilities are present and marked, not present, or whether additional time is
+required.
+Present law allows incorporated municipalities and parish governments that own or operate
+underground facilities to opt out of the Underground Utilities and Facilities Damage
+Prevention Law by adopting and filing an ordinance expressing such intent by specified
+deadlines. Further provides that municipalities or parish governments created after July 1,
+1997, may opt out by adopting such ordinance within one year of their creation or first
+municipal election.
+Proposed law retains present law exemptions limits the exemption to incorporated
+municipalities or parish governments operating under a home rule charter adopted prior to
+January 1, 1958. Provides that entities that adopted an ordinance on or before December 31,
+1998, are exempt from certain requirements under present law and that such exemption
+applies to both existing and subsequently acquired systems.
+Proposed law requires exempt entities to maintain a permitting process or other procedure
+to provide, if available, information regarding the approximate location of underground
+facilities. Further requires that the ordinance be filed with the secretary of state and that
+failure to adopt such ordinance results in applicability of the law and removes provisions
+allowing municipalities or parish governments created after July 1, 1997, to opt out within
+one year.
+Present law provides that the deputy secretary for the office of public safety services, Dept.
+of Public Safety and Corrections, or any local law enforcement agency shall have the right
+to:
+(1) Monitor any excavation or demolition, including requests for the excavator or
+demolisher to provide the locate request number issued by a regional notification
+center.
+(2) Issue citations for violations of the provisions of present law.
+(3) Seek restraining orders, injunctions, or any other available civil remedies.
+Proposed law retains present law and adds the authorization for the Dept. of Public Safety
+and Corrections or any local law enforcement officer to order the cessation of excavation or
+demolition activities when the officer has reasonable cause to believe the excavator is in
+violation of present law. Defines "reasonable cause".
+(Amends R.S. 40:1749.12, 1749.13(B)(6), 1749.14(A) and (C)(4), 1749.18(B)(4), and
+1749.19; adds R.S. 40:1749.13(F) and 1749.23(B)(4))
+Page 12 of 13
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-752 REENGROSSED
+SB NO. 469
+Summary of Amendments Adopted by Senate
+Committee Amendments Proposed by Senate Committee on Commerce, Consumer
+Protection, and International Affairs to the original bill
+1. Makes technical changes.
+Senate Floor Amendments to engrossed bill
+1. Limits the option to opt-out from underground utility regulation to
+municipalities or parish governments with a home rule charter established
+prior to January 1, 1958, requires those exempt entities to maintain a process
+for providing location information on underground facilities, and eliminates
+the ability of newly created municipalities or districts to opt out of the
+present law.
+2. Makes technical changes.
+Page 13 of 13
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+[DELETED: 2RAT a a r R 4 1 1 a (1rLepBS0a1a2§3A4i5(6i7(]
+[DELETED: 2Ro udo((oi(d0(1m2(3t4a5i6(7o8m e t c r r i d t u o9s0m1b f d c p t d t2l3i4r5o6(7(8b9(]
+[DELETED: 2Rw u o h l e o c u r t h o heo( " p e o d m e odwc(d0u1( " e m a e o d w i2p3w4( " t i t d a t p b t r5n6l o p i t e a e o d u7r8f9i0( " c f o m t f1o2(3p4(5s6t7(8p9t]
+[DELETED: 2Rocct(lp( " m a i a i p fd0(1m2d3u4e5t6(7(8S9m0C1(2w3L4b5w6(7p8a h b c b t D o P S a C i9a]
+[DELETED: 2R(amd( mwb(c0a1(2t3(4w5p6t o p o e c s t o7t8m o g p p p h o f9f t o c f h f o o0s o l n o w o w s s s o t1d2(3§4*5B)*6(7d8b9t]
+[DELETED: 2RchP*Fa p i c w b d pf i w o i p t t B E A aD( c e a B b0p1a2b u t r n c l p e o3d4( A p t d a n b p t t5r o R 4 t e o d a t6o7g8s9r0o I t e t p t r m w1a2m3(4C5(6a a a t b o o f t s e7p8t9(]
+[DELETED: 2Rtt a l p e o d t T wa( I f m a n v a t t e i tcueoh0p1r w t o t d n e2c3u4(5p r p t a B b p s6d7t8i b p a a t n o e a f p9i0(1(2§3A4a a p s o t s s b a m o5p6f7r8i9r]
+[DELETED: 2R*C)**( a u o f o d iut i u f a n f m f l p ntc0s1e2t3t4*5§6S7*8B9t0t1r2p3*4(5w6( T p o t P s a o t t r7n8*9§ V p b i m a p]
+[DELETED: 2RgA E i m o p g t ouopseaw0t1o2f3o4o5i6e7a8o9i0a1m2s s o o o b t i m p3g4p o a5s6g7t8B9r]
+[DELETED: 2Rsen g s a a g s u f w i ljisoc*0§1*2B T d s f t o o p s s i t3D4s5*6(7o8t P E o d s n r u t e9d0"1l2i3t4a5*]
+[DELETED: 2Rd2nA l b]
+[DELETED: 2R a r n c e f v p b i f t o o o t U U a F D l r p l e l t e t i)M a e o d i r f t e o)I)S R 4 1 1 a ( 1 a]
+[DELETED: 2R.M.L t o t o f u u r t a o n c m o d t o o o t.M]
