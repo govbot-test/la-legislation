@@ -1,0 +1,426 @@
+Title: SENATE BILL NO. 304
+Official Title: SENATE BILL NO. 304
+Number of Sections: 1
+Source: versions - SB304 Original
+Media Type: application/pdf
+Strikethrough Detection: 6 sections found
+
+================================================================================
+
+Section 1:
+SLS 26RS-77 ORIGINAL
+2026 Regular Session
+BY SENATOR EDMONDS
+COLLEGES/UNIVERSITIES. Provides for accreditation for public colleges and
+universities. (gov sig)
+1 AN ACT
+2 To enact R.S. 17:3125.1 and Chapter 25-B of Title 17 of the Louisiana Revised Statutes of
+3 1950, to be comprised of R.S. 17:3171 through 3176, relative to public post
+4 secondary institutions and governing boards; to authorize the Board of Regents to set
+5 policy regarding accreditation of public postsecondary institutions; to authorize
+6 public postsecondary management boards to select an accreditor under certain
+7 circumstances; to provide for coordination between the Board of Regents and public
+8 postsecondary management boards; to provide for implementation; to provide for
+9 electronic notification by certain institutions of higher education; to provide for
+10 powers; to provide for duties; to provide for prohibitions; to provide for definitions;
+11 to direct the Louisiana State Law Institute to make technical changes; to provide for
+12 an effective date; and to provide for related matters.
+13 Be it enacted by the Legislature of Louisiana:
+14 Section 1. R.S. 17:3125.1 and Chapter 25-B of Title 17 of the Louisiana Revised
+15 Statutes of 1950, comprised of R.S. 17:3171 through 3176, are hereby enacted to read as
+16 follows:
+17 §3125.1. Accreditation; powers of the Board of Regents
+Page 1 of 6
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+SLS 26RS-77 ORIGINAL
+SB NO. 304
+1 The Board of Regents shall have the power to set policy regarding the
+2 accreditation of all public postsecondary institutions, as provided in Chapter
+3 25-B of Title 17 of the Louisiana Revised Statutes of 1950.
+4 * * *
+5 CHAPTER 25-B. ACCREDITATION OF
+6 PUBLIC POST SECONDARY INSTITUTIONS
+7 §3171. Application
+8 Except as otherwise specifically provided by law, this Chapter shall
+9 govern the accreditation of all public postsecondary institutions.
+10 §3172. Definitions
+11 As used in this Chapter, the following terms have the following meaning
+12 unless the context clearly indicates otherwise:
+13 (1) "Board of Regents" means the coordinating body for public
+14 postsecondary education that oversees policies, budgets, academic program
+15 approval, and facility planning for all Louisiana universities, community
+16 colleges, and technical schools, pursuant to Article VIII, Section 5 of the
+17 Constitution of Louisiana and R.S. 17:3121.
+18 (2) "Management board" means a governing board of a public
+19 postsecondary education institution that is responsible for supervising the
+20 day-to-day operations of such institutions under the overall jurisdictional
+21 planning and budgetary authority of the Louisiana Board of Regents. Article
+22 VIII of the Constitution of Louisiana provides that the management boards are
+23 the Board of Supervisors of Louisiana State University and Agricultural and
+24 Mechanical College, the Board of Supervisors for the University of Louisiana
+25 System, the Board of Supervisors of Southern University and Agricultural and
+26 Mechanical College, and the Board of Supervisors of Community and Technical
+27 Colleges.
+28 (3) "Public postsecondary institution" or "institution" means a public
+29 college or university that is under the jurisdiction of a management board for
+Page 2 of 6
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+SLS 26RS-77 ORIGINAL
+SB NO. 304
+1 postsecondary education created by or under authority of the Constitution of
+2 Louisiana.
+3 §3173. Powers of the Board of Regents; coordination with management boards
+4 A. In coordination with each management board of a public
+5 postsecondary institution, the Board of Regents shall have the power to set
+6 policy regarding each of the following:
+7 (1) Accreditation of public postsecondary institutions.
+8 (2) Specialized accreditation of any individual program or unit at a
+9 public postsecondary institution where such accreditation is required.
+10 B. The Board of Regents shall adopt policies to allow a public
+11 postsecondary institution, subject to the approval of the institution's
+12 management board, to seek a new institutional accreditor from a list of
+13 accreditors recognized by the United State Department of Education or to seek
+14 a new specialized accreditor from a list of specialized accreditors maintained by
+15 the Board of Regents.
+16 C. The Board of Regents, in coordination with the management boards,
+17 shall develop a process of changing an institutional accreditor in a manner that
+18 ensures that a public postsecondary institution remains accredited at all times
+19 by an accreditor recognized by the United States Department of Education.
+20 D. With respect to specialized accreditation of an individual program or
+21 unit, the Board of Regents shall do all of the following:
+22 (1) Identify a list of programs that require specialized accreditation for
+23 each program or unit and a corresponding list of accreditors.
+24 (2) Adopt policies, in coordination with the management boards, to
+25 ensure that each program or unit requiring specialized accreditation remains
+26 accredited at all times by an accreditor from the list of accreditors maintained
+27 by the Board of Regents.
+28 §3174. Process for accreditation; applications; accreditors
+29 A. A public postsecondary institution may seek a new accreditor for the
+Page 3 of 6
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+SLS 26RS-77 ORIGINAL
+SB NO. 304
+1 institution or for a specialized program or unit so long as the selection of an
+2 accreditor and the process of seeking accreditation complies with this Chapter.
+3 B. If a public postsecondary institution seeks a new accreditor, the
+4 institution shall apply for approval with the institution's management board.
+5 C. The public postsecondary institution shall seek an accreditor that
+6 prioritizes all of the following:
+7 (1) Promotes credential success and workforce outcomes.
+8 (2) Promotes educational quality and affordability.
+9 (3) Promotes financial stability of the public postsecondary institutions.
+10 (4) Ensures appropriate accountability through a rigorous annual review
+11 of the faculty.
+12 D. The management board may not approve an accreditor unless the
+13 accreditor has agreed, in writing, that the accreditor will not condition the
+14 initial accreditation and will not condition any continued accreditation upon
+15 any violation of law, as prohibited in R.S. 17:3175.
+16 §3175. Management boards of public postsecondary institutions
+17 A. If a public postsecondary institution applies for a new accreditor, as
+18 provided in R.S. 17:3173, the management board shall do all of the following:
+19 (1) Review the institution's application and determine if the proposed
+20 accreditor meets the standards and requirements set forth in this Chapter.
+21 (2) Determine if the application for a new accreditor complies with the
+22 policies set forth by the Board of Regents, as provided in R.S. 17:3172.
+23 B. With respect to a public postsecondary institution's accreditor or any
+24 application for a new accreditor, the management board shall, in coordination
+25 with the Board of Regents, do all of the following:
+26 (1) Ensure that each public postsecondary institution that is under the
+27 management board's jurisdiction shall post on the institution's website the
+28 status of its accreditation and other documentation that the management board
+29 deems relevant that has been submitted to the accreditor to gain or maintain
+Page 4 of 6
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+SLS 26RS-77 ORIGINAL
+SB NO. 304
+1 accreditation.
+2 (2) Specify the manner and frequency that the institution is to notify or
+3 update the public on the progress of reaccreditation with the same accreditor
+4 or the process of accreditation with a new accreditor through the institution's
+5 website.
+6 §3176. Prohibited accreditors
+7 Notwithstanding any other provision of law to the contrary, no
+8 accreditor may be chosen that conditions accreditation upon any violation of the
+9 Constitution of Louisiana or any state law.
+10 Section 2. The Louisiana State Law Institute, pursuant to its statutory authority, is
+11 hereby directed to delete "Southern Association of Colleges and Schools Commission on
+12 Colleges" and replace with "accreditor recognized by the United States Department of
+13 Education" in R.S. 17:3164, 3223, 3351.17, and 5029 and in any other Section in Title 17
+14 or in any other Section or Code of the Louisiana Revised Statutes of 1950.
+15 Section 3. This Act shall become effective upon signature by the governor or, if not
+16 signed by the governor, upon expiration of the time for bills to become law without signature
+17 by the governor, as provided by Article III, Section 18 of the Constitution of Louisiana. If
+18 vetoed by the governor and subsequently approved by the legislature, this Act shall become
+19 effective on the day following such approval.
+The original instrument and the following digest, which constitutes no part
+of the legislative instrument, were prepared by Senate Legislative Services.
+The keyword, summary, and digest do not constitute part of the law or proof
+or indicia of legislative intent. [R.S. 1:13(B) and 24:177(E)]
+DIGEST
+SB 304 Original 2026 Regular Session Edmonds
+Present law provides that public colleges and universities are to be accredited by the
+Southern Association of Colleges and Schools Commission on Colleges (SACSCOC).
+Proposed law provides that a public college or university may seek a new accreditor for the
+institution or may seek a new accreditor for a specialized program or unit so long as the
+selection of an accreditor and the process of seeking accreditation complies with proposed
+law.
+Proposed law provides that, in coordination with each higher education management board,
+the Bd. of Regents has the power to set policy regarding accreditation of colleges and
+universities and set policy for specialized accreditation of any individual program or unit at
+Page 5 of 6
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+SLS 26RS-77 ORIGINAL
+SB NO. 304
+a public college or university. Proposed law provides that Bd. of Regents is to adopt policies
+to allow colleges and universities, subject to the approval of their higher education
+management board, to seek a new institutional accreditor from a list of accreditors
+recognized by the U.S. Dept. of Education or to seek a new specialized accreditor from a list
+of specialized accreditors maintained by the Bd. of Regents.
+Proposed law provides that, if a college or university seeks a new accreditor, then the
+institution is to apply for approval with their institution's higher education management
+board. Proposed law further provides that any new accreditor must:
+(1) Promote credential success and workforce outcomes.
+(2) Promote educational quality and affordability.
+(3) Promote financial stability of the public postsecondary institutions.
+(4) Ensure appropriate accountability through a rigorous annual review of the faculty.
+Proposed law provides that the higher education management board may not approve a new
+accreditor unless the accreditor meets the standards set in proposed law.
+Proposed law provides that, if a college or university seeks a new accreditor, the
+management board is to coordinate with the Bd. to do all that is necessary to gain or
+maintain accreditation and update the public on the college or university's website as to the
+progress of accreditation with a new accreditor.
+Proposed law requires that no accreditor may be chosen that conditions accreditation upon
+any violation of the La. Constitution or any state law.
+Proposed law changes accreditation references in present law from "Southern Association
+of Colleges and Schools Commission on Colleges" to "an accreditor recognized by the U.S.
+Dept. of Education".
+Effective upon signature of the governor or lapse of time for gubernatorial action.
+(Add R.S. 17:3125.1, and 3171-3176)
+Page 6 of 6
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+[DELETED: 7O P f a f p c aAT1 t b c o R 1 t 3 r t p psp o tp p m b t s a a u ccpe0p1t2a3B4S5S6f7§]
+[DELETED: 7OTa2*CP§Eg0§1A2u3( " o R m t c b f p4p5a a f p f a L u c6c a t s p t A V S 5 o t7C8( " b m a g b o a p9p e i t i r f s t0d o o s i u t o j1p2V3t4M5S6M7C8(9c]
+[DELETED: 7OpL§A I c w e m b o a ppp((p0B T B o R s a p t a a p1p i s t t a o t i2m b t s a n i a f a l o3a4a5t6C7s8e9b0D1u2(3e4( A5e6a7b8§9A]
+[DELETED: 7OiaB I p p i s a n a tiCp(((0(1o2D3a4i5a6§7A8p9(0a1(2p3B4a5w6 (7m8s9d]
+[DELETED: 7Oa(uow§N a o p o l t t c naC0S1h2C3E4o5S6s7b8v9el2nE l p t p c a u a t b a t]
+[DELETED: 7O a c a u s t t a o t h e b t s a n i a f a l o a)P)P)P)E l p t i a c o u s a n a t]
+
+
+================================================================================
+
+Raw Text:
+SLS 26RS-77 ORIGINAL
+2026 Regular Session
+SENATE BILL NO. 304
+BY SENATOR EDMONDS
+COLLEGES/UNIVERSITIES. Provides for accreditation for public colleges and
+universities. (gov sig)
+1 AN ACT
+2 To enact R.S. 17:3125.1 and Chapter 25-B of Title 17 of the Louisiana Revised Statutes of
+3 1950, to be comprised of R.S. 17:3171 through 3176, relative to public post
+4 secondary institutions and governing boards; to authorize the Board of Regents to set
+5 policy regarding accreditation of public postsecondary institutions; to authorize
+6 public postsecondary management boards to select an accreditor under certain
+7 circumstances; to provide for coordination between the Board of Regents and public
+8 postsecondary management boards; to provide for implementation; to provide for
+9 electronic notification by certain institutions of higher education; to provide for
+10 powers; to provide for duties; to provide for prohibitions; to provide for definitions;
+11 to direct the Louisiana State Law Institute to make technical changes; to provide for
+12 an effective date; and to provide for related matters.
+13 Be it enacted by the Legislature of Louisiana:
+14 Section 1. R.S. 17:3125.1 and Chapter 25-B of Title 17 of the Louisiana Revised
+15 Statutes of 1950, comprised of R.S. 17:3171 through 3176, are hereby enacted to read as
+16 follows:
+17 §3125.1. Accreditation; powers of the Board of Regents
+Page 1 of 6
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-77 ORIGINAL
+SB NO. 304
+1 The Board of Regents shall have the power to set policy regarding the
+2 accreditation of all public postsecondary institutions, as provided in Chapter
+3 25-B of Title 17 of the Louisiana Revised Statutes of 1950.
+4 * * *
+5 CHAPTER 25-B. ACCREDITATION OF
+6 PUBLIC POST SECONDARY INSTITUTIONS
+7 §3171. Application
+8 Except as otherwise specifically provided by law, this Chapter shall
+9 govern the accreditation of all public postsecondary institutions.
+10 §3172. Definitions
+11 As used in this Chapter, the following terms have the following meaning
+12 unless the context clearly indicates otherwise:
+13 (1) "Board of Regents" means the coordinating body for public
+14 postsecondary education that oversees policies, budgets, academic program
+15 approval, and facility planning for all Louisiana universities, community
+16 colleges, and technical schools, pursuant to Article VIII, Section 5 of the
+17 Constitution of Louisiana and R.S. 17:3121.
+18 (2) "Management board" means a governing board of a public
+19 postsecondary education institution that is responsible for supervising the
+20 day-to-day operations of such institutions under the overall jurisdictional
+21 planning and budgetary authority of the Louisiana Board of Regents. Article
+22 VIII of the Constitution of Louisiana provides that the management boards are
+23 the Board of Supervisors of Louisiana State University and Agricultural and
+24 Mechanical College, the Board of Supervisors for the University of Louisiana
+25 System, the Board of Supervisors of Southern University and Agricultural and
+26 Mechanical College, and the Board of Supervisors of Community and Technical
+27 Colleges.
+28 (3) "Public postsecondary institution" or "institution" means a public
+29 college or university that is under the jurisdiction of a management board for
+Page 2 of 6
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-77 ORIGINAL
+SB NO. 304
+1 postsecondary education created by or under authority of the Constitution of
+2 Louisiana.
+3 §3173. Powers of the Board of Regents; coordination with management boards
+4 A. In coordination with each management board of a public
+5 postsecondary institution, the Board of Regents shall have the power to set
+6 policy regarding each of the following:
+7 (1) Accreditation of public postsecondary institutions.
+8 (2) Specialized accreditation of any individual program or unit at a
+9 public postsecondary institution where such accreditation is required.
+10 B. The Board of Regents shall adopt policies to allow a public
+11 postsecondary institution, subject to the approval of the institution's
+12 management board, to seek a new institutional accreditor from a list of
+13 accreditors recognized by the United State Department of Education or to seek
+14 a new specialized accreditor from a list of specialized accreditors maintained by
+15 the Board of Regents.
+16 C. The Board of Regents, in coordination with the management boards,
+17 shall develop a process of changing an institutional accreditor in a manner that
+18 ensures that a public postsecondary institution remains accredited at all times
+19 by an accreditor recognized by the United States Department of Education.
+20 D. With respect to specialized accreditation of an individual program or
+21 unit, the Board of Regents shall do all of the following:
+22 (1) Identify a list of programs that require specialized accreditation for
+23 each program or unit and a corresponding list of accreditors.
+24 (2) Adopt policies, in coordination with the management boards, to
+25 ensure that each program or unit requiring specialized accreditation remains
+26 accredited at all times by an accreditor from the list of accreditors maintained
+27 by the Board of Regents.
+28 §3174. Process for accreditation; applications; accreditors
+29 A. A public postsecondary institution may seek a new accreditor for the
+Page 3 of 6
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-77 ORIGINAL
+SB NO. 304
+1 institution or for a specialized program or unit so long as the selection of an
+2 accreditor and the process of seeking accreditation complies with this Chapter.
+3 B. If a public postsecondary institution seeks a new accreditor, the
+4 institution shall apply for approval with the institution's management board.
+5 C. The public postsecondary institution shall seek an accreditor that
+6 prioritizes all of the following:
+7 (1) Promotes credential success and workforce outcomes.
+8 (2) Promotes educational quality and affordability.
+9 (3) Promotes financial stability of the public postsecondary institutions.
+10 (4) Ensures appropriate accountability through a rigorous annual review
+11 of the faculty.
+12 D. The management board may not approve an accreditor unless the
+13 accreditor has agreed, in writing, that the accreditor will not condition the
+14 initial accreditation and will not condition any continued accreditation upon
+15 any violation of law, as prohibited in R.S. 17:3175.
+16 §3175. Management boards of public postsecondary institutions
+17 A. If a public postsecondary institution applies for a new accreditor, as
+18 provided in R.S. 17:3173, the management board shall do all of the following:
+19 (1) Review the institution's application and determine if the proposed
+20 accreditor meets the standards and requirements set forth in this Chapter.
+21 (2) Determine if the application for a new accreditor complies with the
+22 policies set forth by the Board of Regents, as provided in R.S. 17:3172.
+23 B. With respect to a public postsecondary institution's accreditor or any
+24 application for a new accreditor, the management board shall, in coordination
+25 with the Board of Regents, do all of the following:
+26 (1) Ensure that each public postsecondary institution that is under the
+27 management board's jurisdiction shall post on the institution's website the
+28 status of its accreditation and other documentation that the management board
+29 deems relevant that has been submitted to the accreditor to gain or maintain
+Page 4 of 6
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-77 ORIGINAL
+SB NO. 304
+1 accreditation.
+2 (2) Specify the manner and frequency that the institution is to notify or
+3 update the public on the progress of reaccreditation with the same accreditor
+4 or the process of accreditation with a new accreditor through the institution's
+5 website.
+6 §3176. Prohibited accreditors
+7 Notwithstanding any other provision of law to the contrary, no
+8 accreditor may be chosen that conditions accreditation upon any violation of the
+9 Constitution of Louisiana or any state law.
+10 Section 2. The Louisiana State Law Institute, pursuant to its statutory authority, is
+11 hereby directed to delete "Southern Association of Colleges and Schools Commission on
+12 Colleges" and replace with "accreditor recognized by the United States Department of
+13 Education" in R.S. 17:3164, 3223, 3351.17, and 5029 and in any other Section in Title 17
+14 or in any other Section or Code of the Louisiana Revised Statutes of 1950.
+15 Section 3. This Act shall become effective upon signature by the governor or, if not
+16 signed by the governor, upon expiration of the time for bills to become law without signature
+17 by the governor, as provided by Article III, Section 18 of the Constitution of Louisiana. If
+18 vetoed by the governor and subsequently approved by the legislature, this Act shall become
+19 effective on the day following such approval.
+The original instrument and the following digest, which constitutes no part
+of the legislative instrument, were prepared by Senate Legislative Services.
+The keyword, summary, and digest do not constitute part of the law or proof
+or indicia of legislative intent. [R.S. 1:13(B) and 24:177(E)]
+DIGEST
+SB 304 Original 2026 Regular Session Edmonds
+Present law provides that public colleges and universities are to be accredited by the
+Southern Association of Colleges and Schools Commission on Colleges (SACSCOC).
+Proposed law provides that a public college or university may seek a new accreditor for the
+institution or may seek a new accreditor for a specialized program or unit so long as the
+selection of an accreditor and the process of seeking accreditation complies with proposed
+law.
+Proposed law provides that, in coordination with each higher education management board,
+the Bd. of Regents has the power to set policy regarding accreditation of colleges and
+universities and set policy for specialized accreditation of any individual program or unit at
+Page 5 of 6
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-77 ORIGINAL
+SB NO. 304
+a public college or university. Proposed law provides that Bd. of Regents is to adopt policies
+to allow colleges and universities, subject to the approval of their higher education
+management board, to seek a new institutional accreditor from a list of accreditors
+recognized by the U.S. Dept. of Education or to seek a new specialized accreditor from a list
+of specialized accreditors maintained by the Bd. of Regents.
+Proposed law provides that, if a college or university seeks a new accreditor, then the
+institution is to apply for approval with their institution's higher education management
+board. Proposed law further provides that any new accreditor must:
+(1) Promote credential success and workforce outcomes.
+(2) Promote educational quality and affordability.
+(3) Promote financial stability of the public postsecondary institutions.
+(4) Ensure appropriate accountability through a rigorous annual review of the faculty.
+Proposed law provides that the higher education management board may not approve a new
+accreditor unless the accreditor meets the standards set in proposed law.
+Proposed law provides that, if a college or university seeks a new accreditor, the
+management board is to coordinate with the Bd. to do all that is necessary to gain or
+maintain accreditation and update the public on the college or university's website as to the
+progress of accreditation with a new accreditor.
+Proposed law requires that no accreditor may be chosen that conditions accreditation upon
+any violation of the La. Constitution or any state law.
+Proposed law changes accreditation references in present law from "Southern Association
+of Colleges and Schools Commission on Colleges" to "an accreditor recognized by the U.S.
+Dept. of Education".
+Effective upon signature of the governor or lapse of time for gubernatorial action.
+(Add R.S. 17:3125.1, and 3171-3176)
+Page 6 of 6
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+[DELETED: 7O P f a f p c aAT1 t b c o R 1 t 3 r t p psp o tp p m b t s a a u ccpe0p1t2a3B4S5S6f7§]
+[DELETED: 7OTa2*CP§Eg0§1A2u3( " o R m t c b f p4p5a a f p f a L u c6c a t s p t A V S 5 o t7C8( " b m a g b o a p9p e i t i r f s t0d o o s i u t o j1p2V3t4M5S6M7C8(9c]
+[DELETED: 7OpL§A I c w e m b o a ppp((p0B T B o R s a p t a a p1p i s t t a o t i2m b t s a n i a f a l o3a4a5t6C7s8e9b0D1u2(3e4( A5e6a7b8§9A]
+[DELETED: 7OiaB I p p i s a n a tiCp(((0(1o2D3a4i5a6§7A8p9(0a1(2p3B4a5w6 (7m8s9d]
+[DELETED: 7Oa(uow§N a o p o l t t c naC0S1h2C3E4o5S6s7b8v9el2nE l p t p c a u a t b a t]
+[DELETED: 7O a c a u s t t a o t h e b t s a n i a f a l o a)P)P)P)E l p t i a c o u s a n a t]
