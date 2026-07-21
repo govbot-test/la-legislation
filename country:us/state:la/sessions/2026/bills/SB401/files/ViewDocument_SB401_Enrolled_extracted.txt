@@ -1,0 +1,380 @@
+Title: 
+Official Title: 
+Source: versions - SB401 Enrolled
+Media Type: application/pdf
+
+================================================================================
+
+2026 Regular Session ENROLLED
+SENATE BILL NO. 401
+BY SENATOR TALBOT AND REPRESENTATIVE CHASSION
+1 AN ACT
+2 To amend and reenact R.S. 44:4.1(B)(11), to enact Subpart C-2 of Part II of Chapter 6 of
+3 Title 22 of the Louisiana Revised Statutes of 1950, to be comprised of R.S.
+4 22:1870.10 through 1870.18, and to repeal R.S. 22:1870(B)(5), relative to a
+5 Prescription Drug Affordability Board; to provide legislative findings and purpose;
+6 to provide for definitions; to establish the Prescription Drug Affordability Board; to
+7 provide for membership, powers, and duties of the board; to require drug
+8 manufacturers to provide drug pricing information to the board; to require drug
+9 pricing transparency requirements; to provide for annual report requirements; to
+10 provide for reporting requirements of prescription drug price that increases over a
+11 certain amount; to provide for manufacturers' obligations; to provide for webpage
+12 requirements; to provide for public access to certain drug pricing information; to
+13 provide for penalties for violations; to provide for the authority of the attorney
+14 general; to provide for public records exception; and to provide for related matters.
+15 Be it enacted by the Legislature of Louisiana:
+16 Section 1. Subpart C-2 of Part II of Chapter 6 of Title 22 of the Louisiana Revised
+17 Statutes of 1950, comprised of R.S. 22:1870.10 through 1870.18, is hereby enacted to read
+18 as follows:
+19 SUBPART C-2. Prescription Drug Affordability Board
+20 §1870.10. Legislative findings; purpose
+21 A.(1) The Legislature of Louisiana hereby finds that the costs of
+22 prescription drugs have been increasing dramatically without any attributed
+23 reason.
+24 (2) The legislature further finds that containing healthcare costs requires
+25 containing prescription drug costs.
+26 B. Therefore, the legislature hereby declares, in order to contain
+27 prescription drug costs, it is essential to understand the drivers of those costs,
+Page 1 of 11
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SB NO. 401 ENROLLED
+1 as transparency is typically the first step toward cost containment.
+2 §1870.11. Definitions
+3 As used in this Part, the following words have the following meanings
+4 unless the context indicates otherwise:
+5 (1) "Board" means the Prescription Drug Affordability Board
+6 established pursuant to this Subpart.
+7 (2) "Department" means the Department of Insurance.
+8 (3) "Enrollee" means any individual entitled to coverage of healthcare
+9 services.
+10 (4) "Manufacturer" means any entity which is engaged in the
+11 production, preparation, propagation, compounding, conversion, or processing
+12 of prescription drugs for human use, whether directly or indirectly, by
+13 extraction from substances of natural origin, independently by means of
+14 chemical synthesis, or by a combination of extraction and chemical synthesis,
+15 or any entity engaged in the packaging, repackaging, labeling, relabeling, or
+16 distribution of prescription drugs. The term shall not include a wholesale
+17 distributor of prescription drugs licensed pursuant to the Louisiana Drug and
+18 Device Distributors Act, R.S. 37:3461 et seq., a retailer, or a pharmacist licensed
+19 pursuant to the Louisiana Pharmacy Practice Act, R.S. 37:1161 et seq.
+20 (5) "Prescription drug" means a drug as defined in 21 U.S.C. 321.
+21 (6) "Rebate" means either of the following:
+22 (a) Drug manufacturer price concessions including but not limited to
+23 base price concessions, whether described as a rebate or otherwise, and any
+24 price protection rebates and performance-based price concessions that may
+25 accrue directly or indirectly to the pharmacy benefit manager, health insurance
+26 issuer or health plan, or other party on behalf of the health insurance issuer or
+27 health plan, including a pharmacy benefit manager, from a manufacturer,
+28 dispensing pharmacy, or other party in connection with the dispensing or
+29 administration of a prescription drug.
+30 (b) Reasonable estimates of any other costs that are passed through or
+Page 2 of 11
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SB NO. 401 ENROLLED
+1 are reasonably anticipated to be passed through to the health insurance issuer
+2 or health plan and serve to reduce the health insurance issuer or health plan's
+3 liabilities for a prescription drug.
+4 (7) "Research and development expenditures" means all costs that a
+5 pharmaceutical manufacturer incurs during a calendar year that relate to the
+6 research and development of products, processes, or services and includes the
+7 costs of research and development of products, processes, or services that the
+8 pharmaceutical manufacturer has acquired or obtained via a license.
+9 (8) "Wholesale acquisition cost" or "WAC" has the same meaning as
+10 provided in 42 U.S.C. 1395w-3a(c)(6)(B).
+11 §1870.12. Prescription Drug Affordability Board
+12 A. The Prescription Drug Affordability Board is hereby established
+13 within the Department of Insurance.
+14 B. The board shall consist of the following members:
+15 (1) The commissioner of insurance, or his designee.
+16 (2) The secretary of the Louisiana Department of Health, or his designee.
+17 (3) The president of the Louisiana Board of Pharmacy, or his designee.
+18 (4) Two public members appointed by the governor.
+19 (5) Two public members appointed by the president of the Senate.
+20 (6) Two public members appointed by the speaker of the House of
+21 Representatives.
+22 (7) One member of a patient advocacy group, appointed by the
+23 commissioner.
+24 C. The public members shall have a significant healthcare or pharmacy
+25 background.
+26 D.(1) Each public member shall serve for a term of five years.
+27 (2) Each public member shall hold office for the term of appointment
+28 and until his successor is appointed and qualified.
+29 E. Any vacancy in the membership of the board shall be filled for the
+30 unexpired term in the manner provided for the original appointment. Members
+Page 3 of 11
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SB NO. 401 ENROLLED
+1 shall be eligible for reappointment to the board.
+2 F.(1) The board shall organize as soon as possible after the appointment
+3 of its members and shall annually elect a chairperson and vice chairperson from
+4 among its members, and a secretary who need not be a member of the board.
+5 (2) The board shall meet at least four times a year and may hold
+6 additional meetings as necessary to discharge its duties. The board shall also
+7 meet at the call of the chairperson or the commissioner.
+8 G. A majority of the membership of the board shall constitute a quorum
+9 for the transaction of board business.
+10 H. Members of the board shall serve without compensation.
+11 I. A member, or his designee, shall not be an employee of, a board
+12 member of, or a consultant to a manufacturer, pharmacy benefit manager,
+13 health insurance carrier, health maintenance organization, managed care
+14 organization, or wholesale distributor or related trade association.
+15 J. Any conflict of interest, including a financial or personal association,
+16 that has the potential to bias or has the appearance of biasing an individual's
+17 decision in matters related to the board or the conduct of the board's activities
+18 shall be considered and disclosed when appointing members, or a member's
+19 designee, to the board.
+20 K. The department shall provide the board with staff support from
+21 existing personnel within the department and meeting facilities as is necessary
+22 for the board to carry out its duties.
+23 §1870.13. Critical prescription drug list
+24 A. The board shall develop a list of critical prescription drugs made
+25 available in Louisiana for which there is a substantial public interest in
+26 understanding the development of pricing for the drugs. Generic or biosimilar
+27 drugs shall be placed on the list only if they have a wholesale acquisition cost of
+28 one hundred dollars or more for a unit cost increase of more than two hundred
+29 percent during any twelve-month period.
+30 B. In developing the list required by Subsection A of this Section, the
+Page 4 of 11
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SB NO. 401 ENROLLED
+1 board shall consider, at a minimum, all of the following factors:
+2 (1) The cost of the drug to public healthcare programs including but not
+3 limited to Medicaid.
+4 (2) The current cost of the drug in the state.
+5 (3) The extent of use of the drug within the state.
+6 (4) The availability and cost of comparable or therapeutically equivalent
+7 courses of treatment.
+8 (5) The rate at which the drug is deemed to produce successful outcomes
+9 when used to treat the conditions for which it is most commonly prescribed.
+10 (6) Any other objectively quantifiable factors as the board determines to
+11 be relevant to evaluating the significance of the availability of the drug in
+12 Louisiana.
+13 C. The board may also consider recommendations for drugs to be
+14 included in the list submitted by government agencies, members of the public,
+15 and professional organizations representing the pharmaceutical industry,
+16 healthcare practitioners, pharmaceutical manufacturers, managed care plans,
+17 prescription drug benefit managers, and other insurers.
+18 D. The list developed pursuant to this Section shall be reviewed and
+19 updated by the board at least once every three years.
+20 §1870.14. Manufacturer reporting
+21 A. By June first of each calendar year, the board shall identify up to ten
+22 prescription drugs on which the state spends significant healthcare dollars, after
+23 accounting for rebates. The drugs identified shall represent different drug
+24 classes and may include generics.
+25 B. For each prescription drug identified pursuant to Subsection A of this
+26 Section, the board shall require the drug's manufacturer to report all of the
+27 following:
+28 (1) The drug's wholesale acquisition cost increase.
+29 (2) The manufacturer's aggregate company-level research and
+30 development and other relevant capital expenditures for the most recent year
+Page 5 of 11
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SB NO. 401 ENROLLED
+1 for which final audited data is available.
+2 (3) A written description, suitable for public release, of factors that
+3 contributed to any reported increase in wholesale acquisition cost for the
+4 reporting year.
+5 C. The quality and types of information and data that a drug
+6 manufacturer submits to the board under this Section shall be consistent with
+7 the quality and types of information and data that the manufacturer includes
+8 in the manufacturer's annual consolidated report on Securities and Exchange
+9 Commission Form 10-K or any other public disclosure.
+10 D. By December thirty-first of each calendar year, the board shall
+11 publish a report on its website based on the information that it receives
+12 pursuant to Subsection B of this Section.
+13 E. Information provided to the board pursuant to Subsection B of this
+14 Section is exempt from public inspection and copying pursuant to the Public
+15 Records Law, R. S. 44:1 et seq.
+16 §1870.15. Rulemaking; enforcement
+17 A. The commissioner, on behalf of the board, shall adopt, pursuant to the
+18 Administrative Procedure Act, R.S. 49:950 et seq., any rules and regulations
+19 necessary to implement the provisions of this Subpart.
+20 B. The failure of a manufacturer to provide the information required by
+21 this Subpart shall constitute a prohibited practice under the Unfair Trade
+22 Practices and Consumer Protection Law, R.S. 51:1401 et seq., and shall be
+23 subject to the enforcement provisions of that Chapter.
+24 §1870.16. Confidentiality
+25 A. All information and data obtained by the department pursuant to this
+26 Subpart that are not otherwise publicly available are considered to be a trade
+27 secret, confidential, and proprietary information. Such information and data
+28 are not subject to disclosure pursuant to the Public Records Law, R.S. 44:1 et
+29 seq.
+30 B.(1) Information provided to the department, board, or an interested
+Page 6 of 11
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SB NO. 401 ENROLLED
+1 party pursuant to this Subpart shall, except to the extent it is already in the
+2 public domain, be considered trade secret pursuant to the Uniform Trade
+3 Secrets Act, R.S. 51:1431 et seq., exempt from disclosure pursuant to the Public
+4 Records Law, R. S. 44:1 et seq., and shall not be disclosed directly or indirectly.
+5 (2) Except to provide the general public with wholesale acquisition costs
+6 under R.S. 22:1870.18(A)(2) of this Subpart, the department, board, or
+7 interested parties and their agents shall not publish or otherwise disclose any
+8 information that would allow for the identification of an individual drug,
+9 therapeutic class of drugs, or manufacturer; that would reveal the prices of any
+10 drug or therapeutic class of drugs; or that has the potential to compromise the
+11 financial, competitive, or proprietary nature of any information submitted by
+12 the manufacturer pursuant to this Subpart.
+13 (3) The department, board, and interested third parties shall impose the
+14 confidentiality protections of this Subpart on any third party that may receive
+15 or otherwise have access to this information.
+16 §1870.17. Report to the legislature
+17 A.(1) The board shall prepare an annual report on prescription drug
+18 prices and their role in overall healthcare spending in the state based on the
+19 data submitted to the board pursuant to R.S. 22:1870.14 and in accordance with
+20 R.S. 22:1870.16.
+21 (2) The board shall identify and include in the report a list of those
+22 prescription drugs that have a cost in this state that is excessively high when
+23 compared with the cost of the drug in other states and countries and when
+24 compared with the overall cost of researching, developing, and producing the
+25 drug in light of the number of years the drug has been made available for
+26 distribution.
+27 (3) The board may include in the report recommendations for actions to
+28 lower prescription drug costs and spending across the state while maintaining
+29 access to and the quality of health care.
+30 B. The board shall submit the report to the House and Senate committees
+Page 7 of 11
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SB NO. 401 ENROLLED
+1 on insurance no later than sixty days prior to the start of the regular legislative
+2 session. The board shall also make the report publicly available on the website
+3 of the Department of Insurance and the Louisiana Department of Health.
+4 §1870.18. Prescription drug pricing transparency; annual report;
+5 webpage requirements and publications; penalty and enforcement
+6 A.(1) Not later than January fifteenth of each calendar year, a
+7 pharmaceutical drug manufacturer shall submit a report to the department
+8 stating the current wholesale acquisition cost information for the United States
+9 Food and Drug Administration-approved prescription drugs sold in or into this
+10 state by that manufacturer.
+11 (2) The department shall develop a webpage that provides the general
+12 public with prescription drug price information submitted pursuant to this
+13 Section. The webpage shall be made available on the department's website with
+14 a dedicated link that is prominently displayed on the home page or by a
+15 separate easily identifiable webpage address.
+16 B.(1) This Section applies only to prescription drugs with a wholesale
+17 acquisition cost of at least one hundred dollars for a thirty-day supply before
+18 the effective date of an increase described by this Section.
+19 (2) Not later than the thirtieth day after the effective date of an increase
+20 of forty percent or more over the preceding three calendar years or fifteen
+21 percent or more in the preceding calendar year in the wholesale acquisition cost
+22 of a prescription drug to which this Section applies, a pharmaceutical drug
+23 manufacturer shall submit a report to the commissioner. The report shall
+24 include all of the following information:
+25 (a) The name of the prescription drug.
+26 (b) Whether the prescription drug is a brand name or generic.
+27 (c) The effective date of the change in wholesale acquisition cost.
+28 (d) A statement regarding the factor or factors that caused the increase
+29 in the wholesale acquisition cost and an explanation of the role of each factor's
+30 impact on the cost.
+Page 8 of 11
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SB NO. 401 ENROLLED
+1 (3) If, during a calendar year, a prescription drug with a wholesale
+2 acquisition cost of at least one hundred dollars for a thirty-day supply increases
+3 in price by forty percent or more over the preceding three calendar years or
+4 fifteen percent or more in the preceding calendar year in the wholesale
+5 acquisition cost of the prescription drug, the pharmaceutical drug
+6 manufacturer shall include in the annual report submitted pursuant to this
+7 Section all of the following information:
+8 (a) Aggregate, company-level research and development costs for the
+9 most recent year for which final audit data is available.
+10 (b) The name of each of the manufacturer's prescription drugs approved
+11 by the United States Food and Drug Administration in the previous three
+12 calendar years.
+13 (c) The name of each of the manufacturer's prescription drugs that lost
+14 patent exclusivity in the United States in the previous three calendar years.
+15 (4) A manufacturer's obligations pursuant to this Subsection shall be
+16 fully satisfied by the submission of information and data that a manufacturer
+17 includes in the manufacturer's annual consolidated report on Securities and
+18 Exchange Commission Form 10-K or any other public disclosure.
+19 C. Not later than the sixtieth day after receipt of the report submitted,
+20 the department shall publish the cost increase information required pursuant
+21 to this Section on the department's webpage for prescription drug price
+22 information.
+23 D.(1) If the department determines that a pharmaceutical drug
+24 manufacturer failed to submit a report, or failed to submit the report in the
+25 manner prescribed by Subsection B of this Section and the rules adopted
+26 pursuant to this Section, the department shall provide written notice of the
+27 failure to the manufacturer.
+28 (2) On receipt of notice described by this Subsection, a pharmaceutical
+29 drug manufacturer shall submit a report that does all of the following:
+30 (a) Complies with Subsection B of this Section and rules adopted
+Page 9 of 11
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SB NO. 401 ENROLLED
+1 pursuant to this Section.
+2 (b) Addresses all issues raised in the notice.
+3 (3) The department may not assess an administrative penalty pursuant
+4 to this Subsection against a pharmaceutical drug manufacturer that submits to
+5 the department the required report, as applicable, on or before the forty-fifth
+6 day after the date the manufacturer receives notice pursuant to this Section.
+7 E.(1) The department may assess an administrative penalty against a
+8 manufacturer that violates this Section or rules pursuant to this Subsection.
+9 (2) In determining the amount of the penalty, the department shall
+10 consider all of the following:
+11 (a) The manufacturer's previous violations.
+12 (b) The seriousness of the violation.
+13 (c) The manufacturer's demonstrated good faith.
+14 (d) Any other matters as justice may require.
+15 (3) The penalty may not exceed one thousand dollars a day for each
+16 violation.
+17 (4) Each day a violation continues may be considered a separate
+18 violation.
+19 (5) The enforcement of the penalty may be stayed during the time the
+20 order is under judicial review if the manufacturer pays the penalty to the clerk
+21 of the court or files a security bond with the court in the amount of the penalty.
+22 (6) The attorney general may sue to collect the penalty. Money collected
+23 pursuant to this Section shall be deposited in the state treasury and may be
+24 appropriated only to the department for the purposes of administering this
+25 Section.
+26 Section 2. R.S. 44:4.1(B)(11) is hereby amended and reenacted to read as follows:
+27 §4.1. Exceptions
+28 * * *
+29 B. The legislature further recognizes that there exist exceptions, exemptions,
+30 and limitations to the laws pertaining to public records throughout the revised
+Page 10 of 11
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SB NO. 401 ENROLLED
+1 statutes and codes of this state. Therefore, the following exceptions, exemptions, and
+2 limitations are hereby continued in effect by incorporation into this Chapter by
+3 citation:
+4 * * *
+5 (11) R.S. 22:2, 14, 31, 42.1, 88, 244, 263, 265, 461, 550.7, 550.22, 550.29,
+6 550.30, 571, 572, 572.1, 572.2, 574, 601.3, 618, 639, 691.4, 691.5, 691.6, 691.7,
+7 691.8, 691.9, 691.9.1, 691.10, 691.38, 691.56, 732, 752, 753, 771, 834, 972(D), 976,
+8 1008, 1019.2, 1203, 1460, 1464, 1466, 1483.1. 1488, 1546, 1559, 1566(D), 1644,
+9 1656, 1657.1, 1660.7, 1723, 1796, 1801, 1808.3, 1869, 1870.14, 1870.16, 1927,
+10 1929, 1983, 1984, 2036, 2045, 2056, 2085, 2091, 2293, 2303, 2508
+11 * * *
+12 Section 3. R.S. 22:1870(B)(5) is hereby repealed.
+13 Section 4. The provisions of Sections 1, 2, and 3 of this Act shall take effect and
+14 become enforceable on January 1, 2027, only if Section 7 of the Act which originated as
+15 Senate Bill No. 387 of the 2026 Regular Session of the Legislature is enacted and becomes
+16 effective.
+PRESIDENT OF THE SENATE
+SPEAKER OF THE HOUSE OF REPRESENTATIVES
+GOVERNOR OF THE STATE OF LOUISIANA
+APPROVED:
+Page 11 of 11
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.

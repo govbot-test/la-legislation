@@ -1,0 +1,750 @@
+Title: 
+Official Title: 
+Source: versions - SB389 Act 895
+Media Type: application/pdf
+
+================================================================================
+
+2026 Regular Session ACT No. 895 ENROLLED
+SENATE BILL NO. 389
+BY SENATOR CONNICK
+1 AN ACT
+2 To amend and reenact R.S. 4:420, 421(A), 422, 422.1, 423(G)(4), 424(A)(6) through (9),
+3 (B), (C), (D), and (E), 426, 431, 432(A), and 433(A) and (B), to enact R.S. 4:423.1,
+4 424(A)(10) and (F), 427(A)(8), 432.1, 434, and 435, and to repeal R.S. 4:425 and
+5 430, relative to agents and athletes; to provide for registration of agents; to provide
+6 for denial of registration, refusal to renew, revocation, or suspension; to provide for
+7 agent's contract, disclosure, schedule of fees, maximum fee, notification, and
+8 penalty; to provide for required disclosures for endorsement contracts; to provide for
+9 prohibited activities; to provide for violations and penalties; to provide for record
+10 keeping; to provide for implementation of rules and regulations; to provide for
+11 enforcement; to provide for liability; to provide for civil remedies; to provide for
+12 unlawful payments and penalties; to provide for unfair trade practices; to provide for
+13 terms, conditions, responsibilities, and procedures; to provide for an effective date;
+14 and to provide for related matters.
+15 Be it enacted by the Legislature of Louisiana:
+16 Section 1. R.S. 4:420, 421(A), 422, 422.1, 423(G)(4), 424(A)(6) through (9), (B),
+17 (C), (D), and (E), 426, 431, 432(A), and 433(A) and (B) are hereby amended and reenacted
+18 and R.S. 4:423.1, 424(A)(10) and (F), 427(A)(8), 432.1, 434, and 435 are hereby enacted to
+19 read as follows:
+20 §420. Declaration of purpose
+21 A. The legislature hereby recognizes that it is a special privilege afforded to
+22 athlete agents and other persons acting in a representative, advisory, or
+23 managerial capacity to contact student athletes to secure their athletic abilities for
+24 professional sports teams, professional sports organizations, or for endorsement
+25 or commercial opportunities. The legislature also feels that with that privilege
+Page 1 of 22
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SB NO. 389 ENROLLED
+1 should come certain duties, obligations, and responsibilities. The legislature hereby
+2 enacts the laws of this Chapter to regulate those contacts and relationships and to
+3 protect young, inexperienced student athletes in this state from unscrupulous athlete
+4 agents and other persons who would seek to exploit such athletes, or their
+5 educational institutions or schools, when entering or seeking to enter into an agent
+6 contract, endorsement contract, or professional sport services contract or when
+7 obtaining or seeking to obtain employment with a professional sports team, or
+8 commercial opportunities.
+9 B. It is the further purpose of the legislature in enacting this Chapter to
+10 protect student athletes from contacts with and accepting things of value from athlete
+11 agents and other persons in a manner so as to cause such athletes to unintentionally
+12 lose their eligibility to compete in interscholastic or intercollegiate athletics, or
+13 otherwise suffer financial or reputational harm.
+14 C. It is the further purpose of the legislature to protect the educational
+15 institutions and schools of this state from unscrupulous athlete agents, athletes, and
+16 other persons who would cause such institutions educational institutions or schools
+17 to suffer various sanctions, penalties, or other adverse consequences as a result of
+18 unlawful activities in connection with athletes participating in sports at such
+19 educational institutions and schools.
+20 D. Another purpose of the legislature in enacting this Chapter is to recognize
+21 that the relationship between a student athlete and their institution or school is one
+22 of contract.
+23 E. Accordingly, the legislature, in enacting the provisions of this Chapter,
+24 hereby creates causes of action, rights, and remedies for such institutions
+25 educational institutions or schools and schools athletes to recover for damages
+26 caused to the educational institution or, school, or athlete by any person acting in
+27 violation of this Chapter. Such causes of action specifically include but are not
+28 limited to the cause of action known as tortious interference with an athlete contract,
+29 statutory civil remedies, and enforcement actions by the division under
+30 applicable unfair trade practices law.
+Page 2 of 22
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SB NO. 389 ENROLLED
+1 §421. Definitions
+2 A. As used in this Chapter:
+3 (1) "Agent contract" means any contract or agreement, whether written or
+4 oral, under which an athlete authorizes an athlete agent individual to negotiate or
+5 solicit on behalf of the athlete for the employment of the athlete by one or more
+6 professional sports teams or organizations.
+7 (2) "Anything of value" means any thing of value. It shall be given the
+8 broadest possible construction, including any conceivable thing of the slightest value,
+9 movable or immovable, corporeal or incorporeal, public or private, and specifically
+10 including transportation, telephone and telegraph services, or discounts, loans,
+11 advances, payments, other services available for hire, or other benefits. It shall be
+12 construed in the popular sense of the phrase and not necessarily as synonymous with
+13 the traditional legal term "property". It shall specifically include but not be limited
+14 to a donation, sale, lease, loan, suretyship, and mortgage.
+15 (3)(a) "Athlete" means a student who resides in this state, or a student who
+16 does not reside in this state but has informed in writing an institution of higher
+17 education in this state of the student's intent to participate in that school's
+18 intercollegiate sports contests, and who is characterized by either any of the
+19 following:
+20 (i) Is eligible to participate, or will be eligible to participate, in junior high,
+21 high school, or intercollegiate sports contests as a member of a sports team of a
+22 junior high, high school, or educational institution of higher education which is
+23 located in this state and or which is a member of a federation or association.
+24 (ii) Has participated Participates as a member of such a sports team at a
+25 junior high, high school, or educational institution of higher education.
+26 (iii) Resides in this state and is eligible to participate, or will be eligible
+27 to participate, in interscholastic or intercollegiate sports at any school or
+28 educational institution, whether or not located in this state.
+29 (b) "Athlete" does shall not mean a student an individual who has been
+30 determined to be permanently ineligible to participate in a particular
+Page 3 of 22
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SB NO. 389 ENROLLED
+1 interscholastic or intercollegiate sport, but only with respect to that sport, or an
+2 individual who has completed his last intercollegiate or interscholastic sports
+3 contest, including postseason contests, or who has notified in writing the athletic
+4 director or head coach of the school or institution at which he is participating that he
+5 is renouncing his eligibility to participate on such sports team.
+6 (4)(a) "Athlete agent" means any person who an individual, whether or not
+7 registered under this Chapter, who does either of the following:
+8 (i) For compensation or in anticipation of compensation, enters into an
+9 agent contract with an athlete or, directly or indirectly, recruits or solicits an
+10 athlete to enter into an agent contract or professional sport services contract with any
+11 person, or who offers anything of value to any person to induce an athlete to enter
+12 into an agreement by which any person will represent the athlete, or who for
+13 anything of value procures, offers, promises, or attempts to obtain employment for
+14 an athlete with a professional sports team.
+15 (ii) An individual who, for compensation or in anticipation of
+16 compensation, represents or advises an athlete in connection with an
+17 endorsement contract, or endorsement activities, including name, image, and
+18 likeness matters.
+19 (b) The term shall not include an individual who performs any of the
+20 following activities:
+21 (i) Acts solely on behalf of a professional sports team or professional
+22 sports organization.
+23 (ii) Is a licensed, registered, or certified professional and offers or
+24 provides services to an athlete customarily provided by members of the
+25 profession, unless the individual also performs any of the following activities:
+26 (aa) Recruits or solicits the athlete to enter into an agent contract or
+27 endorsement contract.
+28 (bb) Procures, for compensation, employment or offers, promises,
+29 attempts, or negotiates to obtain employment for the athlete as a professional
+30 athlete or member of a professional sports team or organization.
+Page 4 of 22
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SB NO. 389 ENROLLED
+1 (cc) Receives consideration for providing the services calculated using
+2 a different method than for an individual who is not a student athlete.
+3 (5) "Athlete contract" means any contract or agreement executed by a student
+4 an athlete with an educational institution or school concerning the student's
+5 participation in that educational institution's intercollegiate or school's sports
+6 contests or interscholastic athletic activities.
+7 (6) "Certified by the appropriate players association" means that an athlete
+8 agent has received approval of his application for certification from the appropriate
+9 players association of the professional league for which he is soliciting athletes, has
+10 fulfilled all other requirements of the players association, and is in good standing
+11 before the players association.
+12 (7) "Contact" means any communication, directly or indirectly, by an
+13 athlete agent or by any intermediary with an athlete, or with any third person for the
+14 purpose of having that third person communicate with the athlete about the
+15 possibility of or formation of any business, financial, or other contractual
+16 relationship or agreement, including an agent contract, or a professional services
+17 contract, a professional sports services contract, or endorsement contract.
+18 (8) "Division" means the public protection division of the Department of
+19 Justice.
+20 (9) "Educational institution" means any institution of higher education
+21 in this state, including any postsecondary institution, community college,
+22 college, institution of higher learning, or university, whether public or private.
+23 (10) "Endorsement activities" means any activity or activities related to
+24 advertising or sponsorship in which an athlete, for consideration or other value,
+25 uses or permits the use or association of the athlete's name, image, likeness,
+26 publicity, reputation, following, fame, or other personal or commercial
+27 attributes, whether or not related to the athlete's athletic ability or
+28 performance.
+29 (11) "Endorsement contract" means an agreement under which an
+30 athlete is employed or receives anything of value to permit the use, promotion,
+Page 5 of 22
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SB NO. 389 ENROLLED
+1 or association of the athlete's name, image, and likeness, publicity, reputation,
+2 following, fame, or other personal or commercial attributes, whether or not
+3 related to the athlete's athletic ability or performance.
+4 (12) "Federation or association" means any state or national federation,
+5 association, or commission for the promotion and regulation of interscholastic or
+6 intercollegiate sports governing athletes and their relationships with athlete agents.
+7 (10) "Institution" means any institution of higher education in this state
+8 having an athlete contract with an athlete.
+9 (11)(13) "Intermediaries" or "third person" means any persons other than the
+10 athlete agent or the athlete.
+11 (12)(14) "Person" means an individual, estate, company, corporation,
+12 business or nonprofit entity association, partnership, or other legal entity.
+13 (13)(15) "Registered athlete agent" means an athlete agent registered with the
+14 division under the provisions of this Chapter.
+15 (16) "Registration" means registration as an athlete agent under this
+16 Chapter.
+17 (14)(17) "School" means any secondary school in this state, including high
+18 schools and junior high schools, that has an athlete contract with an athlete.
+19 (18) "Recruit or solicit" means to attempt to influence the choice of an
+20 athlete by an athlete agent or, if the athlete is a minor, the athlete's parent or
+21 legal guardian, directly or indirectly.
+22 * * *
+23 §422. Registration of agents
+24 A.(1) An individual shall not act as an athlete agent shall register in this
+25 state unless the individual is registered with the division as provided in this
+26 Chapter before the athlete agent may contact an athlete.
+27 (2) An athlete agent must first be certified by the appropriate professional
+28 players association or associations in the professional league or leagues for which
+29 he is soliciting athletes in order to be registered as an athlete agent in this state. An
+30 individual who is not registered pursuant to this Chapter may act as an athlete
+Page 6 of 22
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SB NO. 389 ENROLLED
+1 agent in this state for purposes other than entering into an agent contract or
+2 endorsement contract if both of the following occur:
+3 (a) The athlete or third person acting on behalf of the athlete initiates
+4 communication with the individual.
+5 (b) Not later than seven days after the initial act that requires
+6 registration pursuant to this Chapter, the individual submits a completed
+7 application for registration to the division.
+8 (3) Any agent contract, or designation of any consideration to or for the
+9 athlete agent or any third person in an endorsement contract, resulting from
+10 conduct in violation of this Subsection is void and unenforceable, and the athlete
+11 agent shall return any consideration received under the contract.
+12 (3)(4) For the purposes of this Chapter, any document required to be filed
+13 with the division shall be deemed filed when it is received either physically or
+14 electronically in any office designated by the division for the receipt of such
+15 documents.
+16 B.(1) A written application for registration or renewal shall be signed by the
+17 applicant, notarized, made to the division on a form prescribed by the division, and
+18 shall state:
+19 (a) The name of the applicant and the address of the applicant's principal
+20 place of business. An applicant for registration as an athlete agent shall submit
+21 an application to the division on a form prescribed by the division. The
+22 applicant shall be an individual.
+23 (2) The application shall be signed by the applicant under penalty of
+24 perjury and shall include, at a minimum, the following information:
+25 (a) The applicant's full name and date and place of birth.
+26 (b) The applicant's principal place of business and all contact
+27 information, including work and mobile telephone numbers and means of
+28 electronic communication.
+29 (c) The name and address of each business or employer of the applicant,
+30 including the nature and form of the business.
+Page 7 of 22
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SB NO. 389 ENROLLED
+1 (d) Each social-media account with which the applicant or the
+2 applicant's business or employer is affiliated.
+3 (b)(e) The business or occupation engaged in by the applicant for during the
+4 five years immediately preceding the date of application, including any
+5 professional or occupational licenses, registrations, or certifications held during
+6 that period.
+7 (f) Whether the applicant is certified or registered by any professional
+8 sports league or players association, including the name of the association and
+9 the status of the certification.
+10 (g) A description of the applicant's formal training, practical experience,
+11 and educational background relating to activities as an athlete agent.
+12 (c)(h) The names and addresses of three references, including any persons,
+13 if any, with whom the applicant has dealt in his capacity as an athlete agent or in the
+14 practice of his business or profession, not to exceed three such persons.
+15 (d)(i) The names and addresses of all persons, except bona fide employees
+16 on stated salaries, who are financially interested as partners, associates, or officers,
+17 managers, members, profit sharers, or who directly or indirectly hold an
+18 ownership or equity interest of five percent or greater in the applicant's
+19 operation of the business of the athlete agent.
+20 (e)(j) The names and addresses of all athletes for whom the applicant acted
+21 as an athlete agent is providing professional services for compensation at the time
+22 of the renewal within the five years preceding the date of this application,
+23 including the sport and last-known educational institution or school.
+24 (f)(k) The name and address of the applicant's agent for service of process,
+25 including an affidavit accepting such appointment from the applicant's agent for
+26 service of process, if not previously filed and on record with the secretary of state.
+27 (l) Whether the applicant, or any person identified in Subparagraph (h)
+28 of this Paragraph, has been denied, has suspended, has withdrawn, or has
+29 terminated any state or federal professional, occupational, or business license,
+30 including any reprimand or censure.
+Page 8 of 22
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SB NO. 389 ENROLLED
+1 (m) Whether the applicant, or any person identified in Subparagraph (h)
+2 of this Paragraph, has been a defendant or respondent in any civil proceeding
+3 within the preceding fifteen years, including the nature and disposition of the
+4 proceeding.
+5 (n) Whether the applicant, or any person identified in Subparagraph (h)
+6 of this Paragraph, has an unsatisfied judgment, or a judgment of continuing
+7 effect.
+8 (o) Whether the applicant, or any person identified in Subparagraph (h)
+9 of this Paragraph, has been adjudicated bankrupt within the preceding ten
+10 years.
+11 (p) Whether there has been any administrative or judicial determination
+12 that the applicant, or any person identified in Subparagraph (h) of this
+13 Paragraph, made a false, misleading, deceptive, or fraudulent representation.
+14 (q) Each instance in which conduct of the applicant, or any person
+15 identified in Subparagraph (h) of this Paragraph, resulted in a sanction,
+16 suspension, or declaration of ineligibility imposed on an athlete or an
+17 educational institution or school.
+18 (r) Each sanction, suspension, denial, revocation, or refusal to renew any
+19 registration as an athlete agent in this or any other state.
+20 (s) Each state in which the applicant is currently registered or has
+21 applied to be registered as an athlete agent.
+22 (t) Any additional information required by the division to administer this
+23 Chapter.
+24 (u) Proof of completion of training as prescribed by the attorney general.
+25 (2)(3) If the applicant is a corporation, the information required by this
+26 Subsection shall be provided by each officer of that corporation. If the applicant is
+27 an association or partnership, such information shall be provided by each associate
+28 or partner.
+29 C. The registration is valid from July first of one year through June thirtieth
+30 of the following year. An initial registration is valid until the first June thirtieth
+Page 9 of 22
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SB NO. 389 ENROLLED
+1 following the date of the registration. Renewal of the registration may be made by
+2 the filing of an application for renewal.
+3 With respect to agent contracts, the applicant shall be certified by the
+4 appropriate player's association. Certification by a player's association shall not
+5 be required for registration for an athlete agent engaged only for the purposes
+6 of endorsement contracts or endorsement activities pursuant to this Chapter,
+7 but any such certification shall be disclosed.
+8 D.(1) An individual registered as an athlete agent in another state may
+9 apply for registration in this state by submitting all of the following:
+10 (a) A copy of the application for registration filed in the other state.
+11 (b) A statement signed under penalty of perjury and identifying any
+12 material change in the information contained in the application or affirming
+13 that no material change has occurred.
+14 (c) A copy of the certificate of registration issued by the other state.
+15 (2) The division may issue a certificate of registration if the division
+16 determines all of the following:
+17 (a) The registration requirements of the other state are substantially
+18 similar to or more restrictive than those of this Chapter.
+19 (b) The applicant's registration has not been suspended or revoked and
+20 no disciplinary action involving the applicant's conduct as an athlete agent is
+21 pending in any jurisdiction.
+22 (3) The division may cooperate with other states and national
+23 organizations to develop common registration standards and to exchange
+24 information relating to disciplinary actions.
+25 E. The registration or renewal of registration issued pursuant to this
+26 Chapter is valid for two years. Renewal of the registration shall be made by the
+27 filing of an application for renewal.
+28 F.(1) If acting as an athlete agent in this state, a nonresident individual
+29 shall appoint a registered agent with the Louisiana secretary of state's office to
+30 serve as his agent for service of process in any civil or administrative action
+Page 10 of 22
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SB NO. 389 ENROLLED
+1 arising from conduct under this Chapter.
+2 (2) The division may issue subpoenas for documents, records, and
+3 testimony relevant to the administration or enforcement of this Chapter.
+4 D.G. To produce sufficient revenue to offset the expenses incurred by the
+5 division in administering this Chapter, an annual registration fee of one hundred
+6 dollars shall be paid.
+7 H. The attorney general shall prescribe training for all applicants for
+8 registration as an athlete agent.
+9 I.(1) As a condition of registration, each applicant shall consent to and
+10 submit to a background check conducted by or on behalf of the division.
+11 (2) The applicant shall bear the cost of the background check.
+12 (3) Failure to consent to or cooperate with the background check shall
+13 result in denial of the application.
+14 §422.1. Denial of registration; refusal to renew; revocation or suspension;
+15 notification; hearing
+16 A. The division may, pursuant to an adjudicatory hearing, refuse to issue or
+17 renew a registration upon proof that the applicant has engaged in any one or more
+18 of the following activities: The division may refuse to issue or renew a certificate
+19 of registration to an applicant for registration if the division determines that the
+20 applicant fails to comply with any requirement of this Chapter, or the rules the
+21 division adopts, including but not limited to submitting an incomplete
+22 application or failing to provide any information, document, or fee required by
+23 R.S. 4:422.
+24 B. The division may refuse to issue or renew or may suspend or revoke
+25 a certificate of registration if the division determines the applicant has engaged
+26 in conduct that has a significantly adverse effect on the applicant's fitness to act
+27 as an athlete agent. In making the determination, the division may consider
+28 whether the applicant:
+29 (1) Has made false or misleading statements of a material nature in his
+30 application for registration or renewal.
+Page 11 of 22
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SB NO. 389 ENROLLED
+1 (2) Has ever been convicted of fraud, embezzlement, a felonious theft, or any
+2 other crime involving a misappropriation of funds, which could render him unfit in
+3 a fiduciary capacity.
+4 (3) Has engaged in conduct which violates or causes an athlete to violate any
+5 rule or regulation promulgated by any federation or association.
+6 (4)(2) Has violated any provision of this Chapter or rules adopted
+7 pursuant to this Chapter.
+8 (3) Has been denied certification by any professional players association.
+9 (4) Has had a registration as an athlete agent denied, suspended,
+10 revoked, or refused renewal in this or any other state.
+11 (5) Has engaged in conduct which has caused an educational institution or
+12 school to be investigated by or sanctioned by any federation or association.
+13 (6) Has engaged in conduct that adversely reflects on the individual's
+14 credibility, honesty, or integrity.
+15 C. The division shall refuse to issue or renew or shall suspend or revoke
+16 a certificate of registration if the division determines the applicant has ever
+17 engaged in either of the following:
+18 (1) Pleaded guilty or no contest to, or has been convicted of fraud,
+19 embezzlement, a felonious theft, any crime involving moral turpitude, or any
+20 other crime involving a misappropriation of funds, which could render him
+21 unfit in a fiduciary capacity.
+22 (2) Made false or misleading, deceptive, or fraudulent statements of a
+23 material nature in his application for registration or renewal, or in his conduct
+24 as an athlete agent.
+25 B.D. The division may, pursuant to an adjudicatory hearing or district court
+26 proceeding, suspend or revoke a registration upon proof that an athlete agent has
+27 engaged in any of the activities enumerated in Subsection A Subsection B of this
+28 Section or for a violation of this Chapter or any rule adopted pursuant to this
+29 Chapter.
+30 C.E. Prior to a denial, refusal to renew, suspension, or revocation of
+Page 12 of 22
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SB NO. 389 ENROLLED
+1 registration, the division shall notify the applicant or athlete agent in writing by
+2 certified mail of the reasons for denial, refusal to renew, suspension, or revocation
+3 and of the date of the hearing. All adjudicatory hearings shall be held in accordance
+4 with the Administrative Procedure Act.
+5 F. The division may issue a temporary certificate of registration while an
+6 application for registration or renewal is pending.
+7 §423. Agent's contract; schedule of fees; maximum fee; notification; penalty
+8 * * *
+9 G.(1) * * *
+10 (4) Any agent contract executed by a student an athlete with an athlete agent
+11 who has failed to comply with the notification and disclosure requirements of R.S.
+12 4:423(B) and 424(C) and (D) this Section and R.S. 4:424 is void and unenforceable.
+13 * * *
+14 §423.1. Additional required disclosures for endorsement contracts; rules
+15 A. This Section governs the relationship between an athlete and an
+16 athlete agent when the athlete agent represents or advises the athlete in
+17 connection with an endorsement contract or endorsement activity, including
+18 name, image, and likeness matters.
+19 B.(1) When an athlete agent represents or advises an athlete in
+20 connection with an endorsement contract or endorsement activity, the athlete
+21 agent shall, prior to or at the time of undertaking such representation, execute
+22 with the athlete a written endorsement representation disclosure. The
+23 endorsement representation disclosure shall be signed by both the athlete agent
+24 and the athlete and shall constitute the governing instrument of the
+25 agent-athlete relationship for the endorsement contract and endorsement
+26 activity representation under this Chapter.
+27 (2) An endorsement representation disclosure shall contain, at a
+28 minimum, all of the following:
+29 (a) A statement that the athlete agent is registered as an athlete agent in
+30 this state and a list of any other states in which the athlete agent is registered.
+Page 13 of 22
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SB NO. 389 ENROLLED
+1 (b) The amount and method of calculating the consideration or fee to be
+2 paid by or on behalf of the athlete to the athlete agent in connection with any
+3 endorsement contract or endorsement activity, and any other consideration or
+4 fee the athlete agent has received or will receive from any source.
+5 (c) The name and a description of the compensation of any third person
+6 who will be compensated in connection with any endorsement contract or
+7 endorsement activity in which the athlete participates.
+8 (d) A description of any expenses the athlete agrees to reimburse to the
+9 athlete agent.
+10 (e) A description and scope of the services to be provided by the athlete
+11 agent to the athlete.
+12 (f) The duration of the endorsement representation disclosure.
+13 (g) The date of execution of the endorsement representation disclosure.
+14 C. The endorsement representation disclosure shall be retained by both
+15 the athlete agent and the athlete. The endorsement representation disclosure
+16 shall not be required to be filed with the division but shall be produced to the
+17 division upon request or subpoena.
+18 D. If an athlete agent fails to execute an endorsement representation
+19 disclosure as required by this Section, the athlete agent shall forfeit any right
+20 to compensation in connection with any endorsement contract or endorsement
+21 activity undertaken by the athlete.
+22 E. The division may adopt rules, in accordance with the Administrative
+23 Procedure Act, prescribing any of the following:
+24 (1) The form and format of the endorsement representation disclosure
+25 required by Subsection B of this Section.
+26 (2) Additional disclosures required to protect athletes, educational
+27 institutions and schools, and the public, including any risks to eligibility or
+28 institutional compliance.
+29 (3) Required statements, acknowledgments, and warnings.
+30 (4) Any other rule necessary to carry out the purposes of this Chapter.
+Page 14 of 22
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SB NO. 389 ENROLLED
+1 F.(1) An athlete agent who represents an athlete in connection with an
+2 endorsement contract for compensation for the use of the athlete's name, image,
+3 and likeness, shall ensure that the athlete discloses the endorsement contract to
+4 the educational institution or school pursuant to R.S. 17:3701 et seq.
+5 (2) An athlete agent shall not represent an athlete in connection with any
+6 endorsement contract or endorsement activity that the athlete agent knows or
+7 reasonably should know would cause the athlete to lose eligibility.
+8 G. An endorsement contract or endorsement activity related to an
+9 athlete's name, image, and likeness matter; the athlete agent; and any athlete
+10 with whom the athlete agent engages, shall comply with all applicable
+11 requirements of R.S. 17:3701 et seq., and any rule adopted by the division
+12 pursuant to this Section.
+13 §424. Prohibited activities; duties, obligations, and responsibilities
+14 A. An athlete agent shall not:
+15 * * *
+16 (6) Enter into any agreement, written or oral, with or offer anything of value
+17 to any employee of an educational institution of higher education or school located
+18 in this state in return for that employee's inducement of any athlete to enter into an
+19 agreement for representation of the athlete.
+20 (7) Offer anything of value to the athlete or any other person to induce an
+21 athlete to enter into an agreement, written or oral, for representation of the athlete
+22 agent contract, or endorsement contract.
+23 (8) Postdate agent contracts or endorsement representation disclosures.
+24 (9) Contact an athlete in a manner so as to violate the rules of the federation
+25 or association of which that school or educational institution where the athlete is
+26 participating in sports contests is a member, to discuss the athlete agent's
+27 representation of the athlete in the marketing of the athlete's athletic ability or
+28 reputation, or endorsement activities.
+29 (10) Make an agreement for, charge, or collect an unreasonable fee or an
+30 unreasonable amount for consideration or expenses.
+Page 15 of 22
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SB NO. 389 ENROLLED
+1 B. Only an athlete agent shall be allowed to contact an athlete. The use,
+2 encouragement, or solicitation of any intermediaries or third persons to contact an
+3 athlete by an athlete agent is prohibited.
+4 C. An athlete agent owes all of the following duties to an athlete:
+5 (1) A duty to disclose to the athlete any risk of loss of eligibility.
+6 (2) A duty to explain to the athlete all foreseeable consequences of any
+7 athlete agent contacts agent contracts or endorsement contracts, including
+8 agreements relating to name, image, and likeness activities where applicable.
+9 (3) A duty to refrain from any contacts with an athlete until having complied
+10 with notification requirements to the institutions or schools division as required by
+11 Subsection D of this Section provided in R.S. 4:422(A)(2).
+12 (4) A duty to deal directly and without the use of intermediaries or any third
+13 person with any athlete.
+14 (5) A duty to not provide an athlete with anything of value prior to the
+15 execution of an agent contract or endorsement contract, except as otherwise
+16 expressly permitted by this Chapter.
+17 (6) A duty to refrain from any conduct which would cause the athlete to
+18 violate any rule of the federation or association of which the educational institution
+19 or school where the athlete is participating in sports contests is a member.
+20 (7) A duty to comply with federal law, including but not limited to the
+21 Sports Agent Responsibility and Trust Act, 15 U.S.C. 7801 et seq.
+22 D.C. An athlete agent owes all of the following duties to an educational
+23 institution or school:
+24 (1) A duty to comply with notification requirements to the athletic director
+25 of the institution or school the athlete attends and to the head coach of the sport in
+26 which the athlete competes, with respect to agent contracts only.
+27 (2) A duty to refrain from any conduct which would cause the educational
+28 institution or school to violate the rules of the federation or association of which the
+29 educational institution or school where the athlete is participating in sports contests
+30 is a member.
+Page 16 of 22
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SB NO. 389 ENROLLED
+1 (3) A duty to notify the athletic director of the institution or school that the
+2 athlete attends and the head coach of the sport in which the athlete competes seven
+3 days in advance of any contact with an athlete of an intent by the agent to contact the
+4 athlete for purposes of representation, with respect to agent contracts only.
+5 (4) A duty to notify the athletic director of the educational institution or
+6 school that the athlete attends and the head coach of the sport in which the athlete
+7 competes by way of written notice of the execution of an agency agent contract
+8 which must be given before any subsequent participation by the student athlete in
+9 interscholastic or intercollegiate athletics the educational institution or school
+10 athletics program and not later than seventy-two hours after execution of an agent
+11 contract.
+12 E.D. Until such time as the athlete agent complies with the notification
+13 provided in Subsection D C of this Section, this Chapter shall prohibit or limit an
+14 athlete agent from sending to an athlete any written materials relating to the
+15 professional credentials of the agent or to specific services offered by the agent
+16 relating to the representation of an athlete in the marketing of an athlete's athletic
+17 ability or reputation and agent contracts. Similarly, until such time as the athlete
+18 agent complies with the notification provided in Subsection D C of this Section, this
+19 Chapter shall prohibit an athlete agent from any contact with the athlete or any third
+20 person, regardless of who attempts to initiate such contact.
+21 E. With respect to endorsement contracts or endorsement activities
+22 related to an athlete's name, image, and likeness matters, the athlete agent, and
+23 any athlete with whom the athlete agent engages with, shall comply with all
+24 applicable requirements of R.S. 17:3701 et seq., and any rules adopted by the
+25 division under R.S. 4:423.1.
+26 F. A determination by the attorney general that a particular agent or
+27 agency fee is unreasonable may be subject to judicial review by the Nineteenth
+28 Judicial District Court based on the record only and based on an abuse of
+29 discretion standard.
+30 * * *
+Page 17 of 22
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SB NO. 389 ENROLLED
+1 §426. Violations; penalties
+2 A. An athlete agent who violates the provisions of this Chapter is subject,
+3 pursuant to an adjudicatory hearing or district court proceeding, to:
+4 (1) Forfeiture of any right of repayment of anything of value either received
+5 by an athlete as an inducement to enter into any agent contract or received for any
+6 other reason.
+7 (2) Payment of a refund of any consideration paid to the athlete agent on an
+8 athlete's behalf.
+9 (3) Payment of reasonable attorney fees and court costs incurred by an athlete
+10 in suing an athlete agent for violation of this Chapter.
+11 B. Upon a finding that an athlete agent has violated a provision of this
+12 Chapter, as determined from admissions of the athlete agent freely and
+13 voluntarily made or as the result of an adjudicatory hearing, the administrative
+14 law judge may assess a fine against an athlete agent not to exceed one hundred
+15 thousand dollars for a violation of this Chapter.
+16 C. All monies received from the payment of the fines imposed and
+17 collected pursuant to the provisions of this Section shall be deposited into the
+18 Department of Justice Legal Support Fund pursuant to R.S. 49:259.
+19 B.D. Any person commits an offense if he intentionally or knowingly either
+20 files a false sworn complaint, application, or gives false sworn testimony to any
+21 person concerning activities covered by this Chapter. This offense, upon conviction,
+22 shall be punishable by a fine of not more than one thousand dollars or by
+23 imprisonment of not more than six months, or both.
+24 C.E. Any athlete agent who fails to register as required by R.S. 4:422 shall,
+25 upon conviction, be guilty of a misdemeanor, punishable by a fine of not more than
+26 one thousand dollars or by imprisonment of not more than six months, or both.
+27 D.F. Any athlete agent who violates any other duty, obligation, or
+28 responsibility prescribed by R.S. 4:424 or engages in conduct prohibited by that
+29 Section, shall, upon conviction, be guilty of a felony punishable by a fine of no less
+30 than one thousand dollars and not more than ten thousand dollars or by imprisonment
+Page 18 of 22
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SB NO. 389 ENROLLED
+1 with or without hard labor for up to five years, or both.
+2 E.G. Any athlete agent who fails to comply with the filing and notice
+3 requirements of R.S. 4:423 shall, upon conviction, be guilty of a misdemeanor
+4 punishable by a fine of not more than one thousand dollars or by imprisonment of
+5 not more than six months, or both.
+6 §427. Records to be kept; penalties
+7 A. An athlete agent shall keep records of travel, entertainment, and other
+8 expenses incurred by the athlete agent which adequately describe the:
+9 * * *
+10 (8) Copies of all agent contracts and endorsement contracts entered into
+11 with athletes.
+12 * * *
+13 §431. Enforcement
+14 A. Each year the division shall compile a list of athletes, which were signed
+15 to a contract by a professional sports team, and shall contact the appropriate players
+16 associations to determine which agents have been retained to represent those athletes.
+17 (1) The division may, to the extent practicable, maintain a record or
+18 database of registered athlete agents.
+19 (2) The division may require registered agents to report annually, or
+20 upon request, the names of athletes for whom they have provided such services
+21 in the preceding year, including the sport and last-known educational institution
+22 or school, to facilitate compliance monitoring and enforcement under this
+23 Chapter and R.S. 17:3701 et seq.
+24 B. In the event that the agents retained by the athletes are not registered in
+25 this state, the division shall may contact the district attorney where the athlete's
+26 school or educational institution of higher education is located. The district
+27 attorney's office shall may take appropriate measures to investigate and prosecute
+28 any unregistered athlete agents operating in this state.
+29 C. The division shall may inform in writing the appropriate players
+30 association of any unregistered athlete agent operating in this state.
+Page 19 of 22
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SB NO. 389 ENROLLED
+1 §432. Liability for loss of eligibility
+2 A. If an athlete loses his eligibility to participate in sports sanctioned by the
+3 federation or association of which the school or educational institution is a member,
+4 or if the school or educational institution is investigated or sanctioned by such
+5 federation or association as a result of any violation of the rules of the federation or
+6 association of which the school or educational institution is a member, the school
+7 or educational institution of higher education that such athlete attended shall have
+8 a cause of action, specifically including but not limited to an action of tortious
+9 interference with a contract, against such athlete, the athlete agent of such athlete,
+10 and any other parties connected with the violation.
+11 * * *
+12 §432.1. Civil remedies
+13 A. An athlete may bring a civil action against an athlete agent for
+14 damages if the athlete is adversely affected by an act or omission of the athlete
+15 agent in violation of this Chapter. An athlete is adversely affected if, because of
+16 the act or omission, the athlete is harmed by either of the following:
+17 (1) Loses eligibility or is suspended or disqualified from participation in
+18 interscholastic or intercollegiate athletics.
+19 (2) Suffers financial or reputational harm.
+20 B. In an action brought under this Section, the court may award actual
+21 damages, court costs, and reasonable attorney fees. An athlete agent found
+22 liable under this Section forfeits any right to compensation and shall refund any
+23 consideration paid to the athlete agent.
+24 §433. Unlawful payments; penalties
+25 A. Notwithstanding any other provision of this Chapter to the contrary, it
+26 shall be unlawful for any person to make or offer a monetary payment, or anything
+27 of value to an athlete or any other person where such offer does any one or both of
+28 the following:
+29 (1) Causes or is intended to cause the athlete to be penalized or to lose his
+30 eligibility to participate in sports sanctioned by the federation or association of which
+Page 20 of 22
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SB NO. 389 ENROLLED
+1 the school or institution is a member.
+2 (2) Causes or is intended to cause the educational institution of higher
+3 education or school which the athlete attended or was being recruited to participate
+4 in sports contests at the time the payment or thing of value was received, to be
+5 investigated or placed on probation, penalized, or otherwise sanctioned by the
+6 federation or association of which the school or institution is a member.
+7 B. The athlete and the educational institution or school shall each have an
+8 independent cause of action, specifically including but not limited to a cause of
+9 action for tortious interference with an athlete contract against such person for
+10 damages, reasonable attorney fees, and court costs.
+11 * * *
+12 §434. Unfair or deceptive acts or practices; investigations and actions by the
+13 attorney general; private actions
+14 A. A violation of this Chapter constitutes an unfair or deceptive act or
+15 practice in trade or commerce for purposes of the Louisiana Unfair Trade
+16 Practices and Consumer Protection Law, R.S. 51:1401 et seq., and shall subject
+17 the violator to all actions, remedies, and penalties therein, including
+18 investigations and actions by the attorney general and private actions.
+19 B. The remedies and penalties provided by this Section are cumulative
+20 and in addition to any other civil, administrative, or criminal remedies or
+21 penalties provided by this Chapter or available under other laws of this state.
+22 §435. Requirement to register
+23 An athlete agent operating on or before the effective date of this Act shall
+24 be registered pursuant to the provisions of this Chapter no later than August 1,
+25 2026. Any athlete agent who fails to register by August 1, 2026, shall
+26 immediately cease all activity as an athlete agent in this state until such
+27 registration is complete.
+28 Section 2. R.S. 4:425 and 430 are hereby repealed.
+29 Section 3. This Act shall become effective upon signature by the governor or, if not
+30 signed by the governor, upon expiration of the time for bills to become law without signature
+Page 21 of 22
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SB NO. 389 ENROLLED
+1 by the governor, as provided by Article III, Section 18 of the Constitution of Louisiana. If
+2 vetoed by the governor and subsequently approved by the legislature, this Act shall become
+3 effective on the day following such approval.
+PRESIDENT OF THE SENATE
+SPEAKER OF THE HOUSE OF REPRESENTATIVES
+GOVERNOR OF THE STATE OF LOUISIANA
+APPROVED:
+Page 22 of 22
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
