@@ -1,0 +1,1319 @@
+Title: 
+Official Title: 
+Source: versions - SB514 Engrossed
+Media Type: application/pdf
+
+================================================================================
+
+SLS 26RS-1491 ENGROSSED
+2026 Regular Session
+SENATE BILL NO. 514
+BY SENATOR OWEN
+TRANSPORTATION/DEV DEPT. Provides relative to Department of Transportation and
+Development aeronautic activities. (8/1/26)
+1 AN ACT
+2 To amend and reenact R.S. 2:1(15), (16), and (17), 2.1(B)(1), 5, 6(B)(1), 7, 7.1, 8, 9, 10, 13,
+3 14, 81 through 87, 131(A), 135.1(F), (G), (H), (J), and (L)(1), 135.2, 135.3(A) and
+4 (B), 135.4(B), 136, 331(A), 381, 382, 383, 384, 385(A) and (B), 386(A) and (B), and
+5 the introductory paragraph of 386(C), 390, 601(5) and (6), 607(B), 609(2), 801
+6 through 809, 811 through 814, 901, 902, 903(A), to enact R.S. 2:2.1(B)(2)(p), (G),
+7 (H), and (I), and to repeal R.S. 2:135.1(N)(3), and 1001 through 1004, relative to the
+8 Department of Transportation and Development aeronautic activities; to provide for
+9 the office of multimodal commerce; to provide for delegation of powers; to provide
+10 for shifting powers and duties from the secretary of the Department of Transportation
+11 and Development to the commissioner of the office of multimodal commerce;
+12 provides for name change of certain departments; to provide for distinction of terms;
+13 to provide for aeronautics and aviation; and to provide for related matters.
+14 Be it enacted by the Legislature of Louisiana:
+15 Section 1. R.S. 2:1(15), (16), and (17), 2.1(B)(1), 5, 6(B)(1), 7, 7.1, 8, 9, 10, 13, 14,
+16 81 through 87, 131(A), 135.1(F), (G), (H), (J), and (L)(1), 135.2, 135.3(A) and (B),
+17 135.4(B), 136, 331(A), 381, 382, 383, 384, 385(A) and (B), 386 (A) and (B), and the
+Page 1 of 37
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-1491 ENGROSSED
+SB NO. 514
+1 introductory paragraph of 386(C), 390, 601(5) and (6), 607(B), 609(2), 801 through 809, 811
+2 through 814, 901, 902, 903(A) are hereby amended and reenacted and R.S. 2:2.1(B)(2)(p),
+3 (G), (H), and (I) are hereby enacted to read as follows:
+4 §1. Definitions
+5 For the purposes of this Title, the following definitions shall apply:
+6 * * *
+7 (15) "Department" or "Department of Public Works" means the Department
+8 of Transportation and Development, except where the Department of Public Safety
+9 and Corrections is specified office of multimodal commerce.
+10 (16) "Director" means the Assistant Secretary Aviation director of
+11 aeronautics, office of multimodal commerce, aeronautics division, Louisiana
+12 Department of Transportation and Development.
+13 (17) "Fixed-base operator" or "FBO" means an individual or a firm operating
+14 at an airport and providing general aircraft or air cargo services including, but not
+15 limited to sale of fuel, maintenance, storage, repair, and ground and flight
+16 instructions.
+17 * * *
+18 §2.1. Louisiana Advanced Aviation and Drone Advisory Committee
+19 * * *
+20 B.(1) The secretary of the Department of Transportation and Development
+21 commissioner of multimodal commerce shall create the Louisiana Advanced
+22 Aviation and Drone Advisory Committee and it shall be comprised of fifteen
+23 members. The members shall be selected by the following individuals as a means of
+24 representing a diverse set of stakeholders involved in the deployment and
+25 advancement of drone technologies in the state. The committee shall provide
+26 recommendations to the secretary of the Department of Transportation and
+27 Development commissioner of multimodal commerce as well as both the House
+28 Committee on Transportation, Highways and Public Works and the Senate
+29 Committee on Transportation, Highways and Public Works on policy and regulatory
+Page 2 of 37
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-1491 ENGROSSED
+SB NO. 514
+1 issues related to the adoption of drone technologies.
+2 (2) The members shall be appointed by the following groups or individuals:
+3 * * *
+4 (p) One member from the governor's office of homeland security and
+5 emergency preparedness appointed by the director.
+6 * * *
+7 G. Advanced aeronautics functions of the department
+8 (1) The functions of the office of multimodal commerce aeronautics
+9 division within the Department of Transportation and Development shall be to
+10 study, administer, construct, improve, promote, and regulate the use of
+11 advanced air mobility systems and to perform such other functions with regard
+12 to public aeronautical facilities and to provide recommendations to the
+13 commissioner of the office of multimodal commerce, secretary of the
+14 Department of Transportation and Development, and both the House
+15 Committee on Transportation, Highways and Public Works, and the Senate
+16 Committee on Transportation, Highways, and Public Works, on policy and
+17 regulatory issues related to the adoption of and advancement of advanced
+18 aviation technologies, including, advanced air mobility, new air traffic control
+19 system, unmanned aircraft systems, urban air mobility, rural air mobility,
+20 universal traffic management, vertiports, and airspace integration technologies.
+21 The legislature directs the secretary and commissioner to establish an advanced
+22 aeronautics director and functions to administer and progress advanced air
+23 mobility and associated functions.
+24 (2) Annually, or as required by the joint committee, the department shall
+25 issue a report regarding the state of unmanned and advanced aeronautics
+26 technologies and shall summarize the progress on all projects previously
+27 approved. This report shall be submitted to the joint committee by February 1
+28 of each year.
+29 (3) The commissioner of the office of multimodal commerce, or his
+Page 3 of 37
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-1491 ENGROSSED
+SB NO. 514
+1 designee, shall serve as the department liaison with the Federal Aviation
+2 Administration to address issues with federal, state, and local laws governing
+3 unmanned aircraft systems, unmanned aerial systems, advanced air mobility
+4 and airspace integration.
+5 (4) In performing the functions provided in this Section, the department
+6 may consult with industry stakeholders representing diverse interests in
+7 advanced aviation technologies, including but not limited to representatives
+8 from agriculture, public safety, surveying, oil and gas, unmanned vehicle
+9 systems associations, educational institutions, rotorcraft industry, and airport
+10 management.
+11 H.(1) The department may establish and operate funding and
+12 development programs to support the development, adoption, economic
+13 integration, and promotion of advanced aviation technologies in the state,
+14 including but not limited to:
+15 (a) Grants for research, innovation, infrastructure development, and
+16 workforce training related to unmanned aircraft systems, unmanned aerial
+17 systems, and advanced air mobility.
+18 (b) Pursuit and administration of federal funding opportunities,
+19 including grants from the Federal Aviation Administration, Department of
+20 Homeland Security, or other agencies for drone integration, counter-unmanned
+21 aircraft technologies, and strategic economic and implementation plans.
+22 (2) Such programs shall be developed in alignment with the state's
+23 strategic economic plans, including the Louisiana advanced air mobility
+24 strategic plan, and shall prioritize projects that enhance safety, security,
+25 economic impact, workforce development, and job creation. Funding for these
+26 programs may be derived from legislative appropriations, federal grants,
+27 public-private partnerships, or other available sources. The department shall
+28 include updates on funding program activities, awards, and outcomes in the
+29 annual reports required under Subsection B of this Section.
+Page 4 of 37
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-1491 ENGROSSED
+SB NO. 514
+1 (3)(a) Eligibility for program funding shall be determined based on
+2 criteria established by the department, including demonstrated economic
+3 benefit to the state, compliance with federal and state regulations, and
+4 involvement of diverse stakeholders. The office may contract with qualified
+5 consultants for grant writing and program administration services as needed.
+6 (b) Prior to implementing the established criteria and procedures, the
+7 department shall secure the approval of these procedures by the joint
+8 committee in accordance with the administrative procedure act. The procedures
+9 shall be the approved set of guidelines for administering applications through
+10 the program and shall be made available to eligible industry stakeholders.
+11 I. The department may employ or contract for such personnel and
+12 resources as necessary to efficiently perform the functions provided in this
+13 Section.
+14 * * *
+15 §5. Duties of Department of Transportation and Development; aeronautic activities;
+16 exceptions
+17 The secretary and employees of the department designated by him
+18 commissioner of the office of multimodal commerce, or his designee shall
+19 supervise and direct all aeronautic activities and facilities, except those activities
+20 pertaining to aircraft registration, identification, equipment, and enforcement
+21 delegated to the secretary of the Department of Public Safety and Corrections or his
+22 designee. Unless specified, all licenses, orders, rules, and regulations pertaining to
+23 aeronautics shall bear the secretary's commissioner's signature, or the signature of
+24 employees designated by him to sign such licenses, orders, rules, or regulations; and
+25 the secretary commissioner shall insure that all rules and regulations of the
+26 department pertaining to aeronautics are obeyed. He shall direct investigations with
+27 respect to aeronautic activities. He, and any employee designated by him, may
+28 administer oaths when necessary in the discharge of official duties and may affix his
+29 jurat to any license or document pertaining to the promotion or regulation of
+Page 5 of 37
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-1491 ENGROSSED
+SB NO. 514
+1 aviation, whether state or federal, concerning which oath is to be made.
+2 §6. Powers and duties of the department; promulgation of rules and regulations
+3 pertaining to aeronautics
+4 * * *
+5 B.(1) Accordingly, the department may prescribe such reasonable rules and
+6 regulations as it deems necessary and advisable:
+7 (a) For the public safety and for the promotion of aeronautics governing the
+8 designing, laying out, location, building, equipping, operation, and use of all airports,
+9 landing fields, or landing strips;
+10 (b) Governing the curriculum, equipment, personnel, and operation and
+11 management of all air instruction;
+12 (c) For the purpose of protecting the health and safety of students receiving
+13 or to receive such instruction of student aviators;
+14 (d)(b) For the public safety and safety of those engaged in aeronautics;
+15 (e)(c) For the promotion of aeronautics governing the establishment, location,
+16 maintenance, and operation of all air markings, air beacons, and other nonfederal
+17 air-navigation facilities.
+18 * * *
+19 §7. Powers and duties of the department; development of aeronautics
+20 The department shall assist in the development of aviation and aviation
+21 aeronautics and aeronautical facilities for the purpose of safeguarding, growing,
+22 and optimizing the interests of those engaged in all phases of the industry and of the
+23 general public and of promoting aeronautics and probatively advancing
+24 multimodal commerce initiatives. Accordingly, the department may expend any
+25 or all the moneys allocated and deposited for the acquisition or enlargement by
+26 purchase, grant, lease, condemnation, or other means, and for the construction,
+27 operation, and maintenance of airports, landing fields, vertiports, advanced air
+28 mobility, electrical vertical takeoff and land facilities, or emergency landing
+29 strips, or of other aeronautic facilities or services for the safety and advancement,
+Page 6 of 37
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-1491 ENGROSSED
+SB NO. 514
+1 and promotion of economic improvement and development of aeronautics, which
+2 shall include the joint establishment or provision of such aeronautic facilities or
+3 services in cooperation with other state or federal departments or with other political
+4 subdivisions.
+5 §7.1. Operation and maintenance of aeronautical navigation aids
+6 The Department of Transportation and Development may, subject to
+7 legislative appropriation of sufficient funds, enter into a contract or contracts to
+8 maintain, repair, and use such nonfederal air navigation aids as the department
+9 deems necessary to operate a statewide aeronautical navigation system. A plan for
+10 such a system shall be presented to the Joint Legislative Committee on the Budget
+11 for approval before the program is put into effect.
+12 §8. Powers and duties of the department; aeronautics; license; fees
+13 All proposed airports, landing fields, air schools, flying clubs, air beacons,
+14 or other navigation facilities, and landing fields shall first be approved by the
+15 department before they are so used or operated. No airport, landing field, air school,
+16 flying club, vertiport, advanced air mobility facility, air beacon, or other air
+17 navigation facility, except airports and landing fields constructed and operated prior
+18 to July 28, 1936, shall be used or operated without the approval of the department,
+19 and no aircraft, except in case of emergency, shall land upon or take off from any
+20 area other than an airport, landing field, or landing strip. No license, rule, order, or
+21 regulation promulgated under the authority of this Section or of this Chapter shall
+22 apply to airports, landing fields, air beacons, air markings, or other air navigation
+23 facilities owned or operated by the government of the United States or by this state.
+24 The department may issue a certificate of its approval registration in each case and
+25 make reasonable charges therefor.
+26 §9. Powers and duties of the secretary; aeronautics; investigations and hearings
+27 The secretary or any person designated by the secretary commissioner, or
+28 his designee, may hold investigations, inquiries, and hearings concerning matters
+29 covered by the provisions of this Chapter, and all accidents in aeronautics, except for
+Page 7 of 37
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-1491 ENGROSSED
+SB NO. 514
+1 aircraft registration, identification, equipment, and enforcement delegated to the
+2 Department of Public Safety and Corrections. All hearings conducted in accordance
+3 with the provisions of this Section shall be open to the public. The secretary,
+4 commissioner and every person designated by him to hold any inquiry,
+5 investigation, or hearing may administer oaths and affirmations, certify to all official
+6 acts, issue subpoenas, compel the attendance and testimony of witnesses, and the
+7 production of papers, books, and documents. In case of failure to comply with any
+8 subpoena or order issued under authority of this Chapter, the secretary or his
+9 authorized representative commissioner, or his designee, may invoke the aid of any
+10 district court which may have jurisdiction in such cases. The court may thereupon
+11 order the witness to comply with the requirements of the subpoena or order to give
+12 evidence touching the matter in question. Any failure to obey the order of said court
+13 may be punished by the court as a contempt thereof.
+14 §10. Powers and duties of the secretary commissioner; exceptions; aeronautics;
+15 investigations and hearings; reports and testimony
+16 To facilitate the making of investigations by the secretary commissioner, or
+17 his designee, in the interest of the public safety and the promotion of aeronautics,
+18 the reports of investigations or hearings, or any part thereof, or any testimony given
+19 thereat, shall not be admitted in evidence or used for any purpose in any suit, action,
+20 or proceeding growing out of any matter referred to in said investigation, hearing,
+21 or report thereof, except in case of criminal or other proceedings instituted by or on
+22 behalf of the Department of Public Safety and Corrections under the provisions of
+23 this Chapter.
+24 * * *
+25 §13. Powers and duties of the department; aeronautics; license rejection
+26 In any case where the department rejects an application for permission
+27 registration to operate or establish an airport, landing field, air school, flying club,
+28 air beacon, or other air navigation facility, or in any case where the department shall
+29 issue any order requiring certain things to be done, it shall set forth its reasons and
+Page 8 of 37
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-1491 ENGROSSED
+SB NO. 514
+1 shall state the requirements to be met before such approval registration shall be
+2 given or the order modified or changed. In any case where the department may deem
+3 it necessary it may order the closing of any airport, landing field, or order any air
+4 school, flying club, or air beacon, or other air navigation facility to cease operations
+5 until it complies with the requirements of the department. The secretary
+6 commissioner or any person designated by him, and any officer, state, parish, or
+7 municipal, charged with the duty of enforcing any provisions of this Chapter, may
+8 shall inspect and examine at reasonable hours any premises, and the buildings and
+9 other structures thereon, where airports, landing fields, air schools, flying clubs, air
+10 beacons, vertiports, advanced air mobility facilities, or other air navigation
+11 facilities are operated. Any order made by the department pursuant to this Chapter
+12 shall be served upon the interested person by registered mail or in person before such
+13 order shall become effective.
+14 §14. Appeal from department order or regulation pertaining to aeronautics
+15 Any person against whom an order has been entered may, within ten
+16 calendar days after service, appeal to the district court for the parish in which
+17 property affected by the order is located, for the purpose of having the
+18 reasonableness or lawfulness of the order inquired into or determined.
+19 * * *
+20 §81. Authority of state to own airports; operation of airports by Department of
+21 Public Works
+22 A. The department of public works in on behalf of and in the name of the
+23 state, out of funds available for such purposes, may plan, establish, construct,
+24 enlarge, improve, maintain, equip, operate, regulate, protect, promote, and police
+25 airports and air navigation facilities within the state. The department may construct,
+26 install, equip, maintain, and operate at such airports buildings and other facilities for
+27 the servicing of aircraft or for the accommodation of air travelers., education,
+28 workforce development, economic growth, and public-private initiatives to
+29 leverage public airport assets and infrastructure to attract, develop, and scale
+Page 9 of 37
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-1491 ENGROSSED
+SB NO. 514
+1 new and innovative entrants for transportation, logistics, and defense to ensure
+2 alignment with market demand and collaboration of resources across the state.
+3 B. All airports, and other air navigation facilities presently owned or leased
+4 or which may be owned or leased hereafter by the state shall be maintained, managed
+5 and operated by the department, which may charge such fees as it shall see fit for the
+6 use of said airports or air navigation facilities. The department may enter into such
+7 contracts as it shall deem advisable for the sale of aviation fuel and lubricants and
+8 for the operation of other concessions and it may grant leases of every type covering
+9 its hangars, buildings and other real and personal property for such sums and upon
+10 such terms as it may see fit.
+11 C. All revenues earned or produced by the department on account of such
+12 fees, contracts or leases shall be kept separate from all other funds of the state and
+13 shall be deposited in one of the banks of the City of Baton Rouge a FDIC insured
+14 bank subject to withdrawal by the Director of Public Works commissioner, or his
+15 designee, who may use them to pay salaries, to purchase and repair equipment and
+16 to meet other expenses incidental to the operation, development and maintenance of
+17 these facilities.
+18 §82. Acquisition of airports by state; limitations
+19 For the purposes set forth in R.S. 2:81 the department of public works by
+20 purchase, donation, lease, or condemnation may acquire property or an interest
+21 therein, including servitudes in airport hazards or land outside the boundaries of an
+22 airport, necessary to permit safe and efficient operation of the airports, to permit the
+23 removal, obstruction-marking, or obstruction-lighting of airport hazards, or to
+24 prevent the establishment of airport hazards. In like manner, the department may
+25 acquire existing airports and air navigation facilities. The department shall not
+26 acquire any airport or air navigation facility owned or controlled by a political
+27 subdivision of the state without consent first being obtained in writing from the
+28 governing authority of the political subdivision.
+29 §83. Authority of state to dispose of airports
+Page 10 of 37
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-1491 ENGROSSED
+SB NO. 514
+1 A. The department may dispose of any airport, air navigation facility, and
+2 portion thereof, or any interest therein. The disposal shall be in accordance with the
+3 laws governing the disposition of property of the state; except that disposal to a
+4 political subdivision of the state or to the United States for aeronautical purposes
+5 may be effected upon such terms and conditions as the department deems in the best
+6 interest of the state.
+7 B. The secretary of the Department of Transportation and Development is
+8 hereby authorized to either transfer the Harry P. Williams Memorial Airport in
+9 Patterson, Louisiana to the St. Mary Parish governing authority or to take whatever
+10 steps are necessary to close the Harry P. Williams Memorial Airport and to dispose
+11 of any interest the state may have in the airport to the St. Mary Parish governing
+12 authority. In addition to the authority hereinabove granted the secretary to transfer
+13 or close the Harry P. Williams Memorial Airport, the secretary may enter into a
+14 cooperative endeavor agreement with the St. Mary Parish governing authority
+15 whereby the state shall retain legal ownership and the St. Mary Parish governing
+16 authority shall operate and maintain the said airport. For a period of one year from
+17 July 14, 1988, the St. Mary Parish governing authority shall not be required to
+18 comply with the provisions of the Public Bid Law for agreements pertaining to
+19 operations, but shall be required to comply with the public bid law for any
+20 purchasing or construction. The secretary is authorized to execute any and all
+21 agreements or documents which may be necessary to accomplish either the transfer
+22 or closure of the airport. The secretary shall have full power and authority to utilize
+23 whatever method he deems in the best interest of the state to accomplish the purposes
+24 of this Section.
+25 §84. Department of public works as agent for political subdivisions in securing
+26 federal aid
+27 The department of public works may act as agent for any municipality or
+28 parish in Louisiana in applying for, accepting, receiving, receipting for, and
+29 disbursing any federal funds or other nonstate funding made available to finance,
+Page 11 of 37
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-1491 ENGROSSED
+SB NO. 514
+1 in whole or in part, the planning, acquisition, construction, improvement,
+2 maintenance, or operation of any municipal or parish publicly owned and public-
+3 use airport or air navigation facility.
+4 §85. Authority of municipality or parish to designate department of public works its
+5 agent
+6 The governing authority of any municipality or parish may authorize the
+7 department of public works to act as its agent through a cooperative endeavor
+8 agreement for the purposes set forth in R.S. 2:84.
+9 §86. Authority of department of public works the department to contract with the
+10 United States
+11 The department of public works, as principal for the state and as agent for
+12 any municipality or parish when authorized in writing, may contract with the United
+13 States or its subdivisions as required in connection with a grant or loan of federal
+14 funds for airport or air navigation facilities.
+15 §87. Disposition of funds by department of public works
+16 The department of public works shall deposit in the state treasury funds
+17 received pursuant to R.S. 2:84 and R.S. 2:86. Unless otherwise prescribed by the
+18 authority from which the moneys are received, the The funds shall be kept in a
+19 separate fund designated according to the purposes for which the funds are made
+20 available. The funds shall be held and disbursed by the state for such purposes and
+21 upon such conditions upon which they are made available.
+22 §131. Definition; political subdivisions may acquire airports
+23 A. "Political subdivision" as used in this Part means any parish of this state
+24 as well as any city or county of another adjoining or adjacent state which is
+25 authorized by the law of that state to engage in a joint endeavor for the creation and
+26 operation of an airport district with a political subdivision of this state. In any such
+27 joint endeavor, except to the extent manifestly inconsistent with this Part, the law of
+28 that state will govern the acquisition of lands in such other state and the appointment,
+29 term of service, and compensation for commissioners appointed by or for such city
+Page 12 of 37
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-1491 ENGROSSED
+SB NO. 514
+1 or county.
+2 * * *
+3 §135.1. Authority to equip, improve, establish fees and charges, and lease airport
+4 facilities
+5 * * *
+6 F. Notwithstanding any provisions of law to the contrary, no municipality,
+7 parish, airport district, airport authority, or other political subdivision may grant a
+8 lease of an entire airport nor may the public be deprived of its rightful, equal, and
+9 uniform use of the airport or landing field or portion thereof, except at such times as
+10 may be required in the interest of public safety, and no exclusive concession, license,
+11 or lease agreement may be made relative to the business of servicing, repairing, or
+12 furnishing of supplies for aircraft or the sale, rental, or leasing of aircraft or flight
+13 instruction. Prospective lessees providing such services must have complied shall
+14 comply with the minimum aeronautical standards established by the lessor.
+15 G. Lease agreements entered into with fixed-base operators prior to June 22,
+16 1978, may be amended so as to provide for an initial or primary term of up to thirty
+17 years and an optional extension terms of up to an additional twenty-five years
+18 without advertising or competitive bidding, with the terms, conditions, fees, and
+19 rentals in such lease agreement to be agreed upon by the authority and the fixed-base
+20 operator.
+21 H. The provisions of this Section shall not apply to the Department of
+22 Military Affairs of the state of Louisiana when leasing airport space at a publicly-
+23 owned airport for military aeronautical purposes.
+24 * * *
+25 J. All leases with a term of five years or more shall contain a provision for
+26 annual periodic adjustments based on a recognized economic index.
+27 * * *
+28 L.(1) Notwithstanding any other provision of law to the contrary, leases of
+29 public airport operational space, facilities, equipment, and other airport land and
+Page 13 of 37
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-1491 ENGROSSED
+SB NO. 514
+1 improvements at any air facility may be entered into with persons engaged in the
+2 manufacture, storage, maintenance, retrofitting, repair, or maintenance of aircraft in
+3 excess of eighty-eight thousand pounds commonly used by the military services of
+4 the United States or any state, or private person engaged in air carrier operations, or
+5 scheduled commuter operations, or nonscheduled charter of persons, or property, or
+6 mail, for initial terms of up to thirty years, and for optional extension terms of up to
+7 an additional twenty-five years, without advertising or competitive bidding.
+8 * * *
+9 §135.2. Distribution of sales tax revenue
+10 When an airport is located in more than one political subdivision, sales and
+11 use tax revenues generated at the airport shall be distributed to each of the political
+12 subdivisions based upon the acreage contained in each political subdivision in
+13 relation to the total acreage of the airport. The provisions of this Section shall apply
+14 only if the majority of the acreage of such airport is located within the parish of
+15 Jefferson used in accordance with the provisions of the Federal Aviation
+16 Administration policy and procedures concerning the use of airport revenues.
+17 §135.3. Aerial applicators; discrimination prohibited
+18 A. No city, town, or other political subdivision of this state which establishes
+19 airports or landing fields, or which acquires, leases, or sets apart real property for
+20 such purposes shall use any aspect of its authority to discriminate against the use of
+21 such airports or landing fields by any aerial applicator appropriately licensed by the
+22 Department of Agriculture for aerial application of seeds, fertilizers, or pesticides
+23 provided such aerial applicator complies with all regulations as may be promulgated
+24 by the airport owner or operator or in accordance with the provisions of R.S.
+25 2:135.1(N) or (O), the Department of Transportation and Development for the
+26 furtherance of flying safety and protection of the airport environs.
+27 B. In the event that any airport authority objects to the use of its facilities by
+28 a licensed aerial applicator, the airport sponsor shall notify the FAA Flight
+29 Standards district office, the office of agricultural and environmental sciences of
+Page 14 of 37
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-1491 ENGROSSED
+SB NO. 514
+1 the Department of Agriculture and Forestry shall upon request send a representative
+2 and the department. The airport sponsor may request a representative from
+3 each agency to inspect and monitor the field prior to, during, and after the use by the
+4 aerial applicator to ascertain if any harmful chemicals and other residues remain as
+5 a result of the use by the aerial applicator. If the commissioner of the Department of
+6 Agriculture and Forestry any one of the agencies determines that the applicator is
+7 or has been in violation, the commissioner shall have the authority to suspend the
+8 offending applicator from further use of the airport or landing strip each agency
+9 shall take the appropriate action to ensure the safety and protection of the
+10 airport operating environment.
+11 * * *
+12 §135.4. Payment methods at airports
+13 * * *
+14 B.(1) All air carrier airports or their authorized agents may collect payment
+15 by credit card, debit card, or a similar approved payment device for any transaction
+16 including but not limited to food and beverage or other consumer-related purchases
+17 in commercial terminal facilities.
+18 (2) No air carrier airport or its authorized agent shall prohibit the use of
+19 United States currency, coin or paper money, for the payment of such transactions.
+20 * * *
+21 §136. Funds for operation may be raised by taxation and otherwise
+22 The local public authorities having power to appropriate monies within the
+23 cities, or other political subdivisions of this state, acquiring, establishing, developing,
+24 operating, maintaining, or controlling airports or landing fields under the provisions
+25 of this Part, may appropriate and cause to be raised by taxation or otherwise in such
+26 political subdivisions, monies sufficient to carry out therein the provisions of this
+27 Part; and may shall use for such purposes monies derived from the airports or
+28 landing fields.
+29 * * *
+Page 15 of 37
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-1491 ENGROSSED
+SB NO. 514
+1 §331. Authority to acquire or improve land for industrial parks
+2 A. In addition to any other authority conferred by the constitution and statutes
+3 of this state, any airport district, commission, board or airport authority may acquire,
+4 except by expropriation, and/or improve land for industrial parks within the limits
+5 of the district, commission, board or authority, and may acquire, purchase, construct
+6 or improve industrial plant buildings and necessary property and appurtenances
+7 thereto and lease, by suitable and appropriate contract, to any enterprise locating or
+8 existing within such airport district, commission, board or airport authority, a plant
+9 site, appurtenances and plant building or buildings, either, both or severally. Leases
+10 authorized to be executed hereunder may be entered into by the airport district
+11 without advertisement for bids, provided that any lease having a term of three years
+12 or longer shall first be submitted to and approved by the Board of Commerce and
+13 Industry of the State of Louisiana.
+14 * * *
+15 CHAPTER 3. AIRPORT AERONAUTICAL ZONING
+16 §381. Authority of municipalities and parishes
+17 For promoting safety or the general welfare of the community the governing
+18 body of all incorporated cities, towns and villages and of the parishes may shall
+19 promulgate, administer, and enforce airport zoning regulations limiting the height
+20 of structures and objects of natural growth and otherwise regulate the use of property
+21 in the vicinity of airports and landing fields. Any regulations adopted shall comply
+22 with any United States Department of Transportation, Federal Aviation
+23 Administration, advisory circular, order, regulation, safety guideline,
+24 recommendation, or other official document in order to ensure aviation aeronautical
+25 safety and compatible land use.
+26 §382. Declaration of effect of airport aeronautical hazards
+27 It is hereby found and declared that an airport aeronautical hazard endangers
+28 the lives and property of users of the airport aeronautical facilities and of occupants
+29 of land in its vicinity, and also, if of the obstruction type, in effect reduces the size
+Page 16 of 37
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-1491 ENGROSSED
+SB NO. 514
+1 of the area available for landing, taking-off, and maneuvering of aircraft, thus
+2 tending to destroy or impair the utility of the airport aeronautical facility or landing
+3 field and the public health, public safety, or general welfare.
+4 §383. Airport Aeronautical zoning regulations by parishes, cities, towns, villages
+5 and other political subdivisions
+6 Every parish, incorporated city, town, village, or other political subdivision
+7 may shall adopt, administer, and enforce under the police power and in the manner
+8 and upon the conditions prescribed, airport zoning regulations for any airport
+9 aeronautical or landing field within its jurisdiction, which regulations shall divide
+10 the area surrounding the airport aeronautical facility or landing field into zones and
+11 within such zones, specify the land uses permitted and regulate and restrict the height
+12 to which structures and trees may be erected or allowed to grow. In adopting or
+13 revising any such zoning regulations, the political subdivision shall consider, among
+14 other things, the character of the flying operations to be conducted at the airport
+15 aeronautical facility or landing field, the nature of the terrain, the height of existing
+16 structures and trees above the level of the airport aeronautical facility or landing
+17 field, the possibility of lowering or removing existing obstructions, and the views of
+18 the agency of the federal government charged with fostering of civil aeronautics, as
+19 to the aerial approaches necessary to safe flying operations at the airport
+20 aeronautical facility or landing field.
+21 §384. General zoning ordinances; effect or scope; joint boards; extent of jurisdiction
+22 of political subdivisions; reasonable regulations
+23 A. In the event that a political sub-division has adopted, or hereafter adopts,
+24 a general zoning ordinance, regulating, among other things, the height of buildings,
+25 any airport aeronautical zoning regulations adopted for the same area or portion
+26 thereof under this Chapter, may be incorporated in and made a part of such general
+27 zoning regulations, and be administered and enforced in connection therewith, but
+28 such general zoning regulations shall not limit the effectiveness or scope of the
+29 regulations adopted under this Chapter.
+Page 17 of 37
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-1491 ENGROSSED
+SB NO. 514
+1 B. Any two or more parishes or other political subdivisions may agree, by
+2 ordinance duly adopted, to create a joint board and delegate to said board the powers
+3 herein conferred to promulgate, administer, and enforce airport zoning regulations
+4 to protect the aerial approaches of any airport aeronautical or landing field located
+5 within the corporate limits of any one or more of said political subdivisions. Such
+6 joint boards shall have as members two representatives appointed by the chief
+7 executive officer of each political subdivision participating in the creation of said
+8 board and a chairman elected by a majority of the members so appointed.
+9 C. The jurisdiction of each parish or other political subdivision is hereby
+10 extended to the promulgation, administering and enforcement of airport zoning
+11 regulations to protect the approaches of any airport or landing field which is owned
+12 by said parish or other political subdivision but located wholly or partially outside
+13 the corporate limits of the parish or other political subdivision. In case of conflict
+14 with any airport aeronautical zoning or regulations promulgated by any other parish
+15 or other political subdivision, the regulations adopted pursuant to this sub-section
+16 shall prevail.
+17 D. All airport aeronautical zoning regulations adopted under this Chapter
+18 shall be reasonable and none shall require the removal, lowering, or other change or
+19 alteration of any structure or tree not conforming to the regulations when adopted or
+20 amended, or otherwise interfere with the continuance of any non-conforming use,
+21 except as provided in R.S. 2:385A.
+22 §385. Permits; variances; obstruction marking and lighting
+23 A. Permits. If airport aeronautical zoning regulations are adopted a system
+24 shall be established by any political subdivision for the granting of permits to
+25 establish or construct new structures and other uses and to replace existing structures
+26 and other uses or make substantial changes therein or substantial repairs thereof. In
+27 any event, before any non-conforming structure or tree may be replaced,
+28 substantially altered or repaired, rebuilt, allowed to grow higher, or replanted, a
+29 permit shall be secured from the administrative agency authorized to administer and
+Page 18 of 37
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-1491 ENGROSSED
+SB NO. 514
+1 enforce the regulations, authorizing such replacement, change, or repair. No such
+2 permit shall be granted that would allow the structure or tree in question to be made
+3 higher or become a greater hazard to air navigation than it was when the applicable
+4 regulation was adopted; and whenever the administrative agency determines that a
+5 non-conforming structure or tree has been abandoned or more than eighty percent
+6 torn down, destroyed, deteriorated, or decayed: (1) no permit shall be granted that
+7 would allow the structure or tree to exceed the applicable height limit or otherwise
+8 deviate from the zoning regulations; and (2) whether application is made for a permit
+9 under this Subsection or not, the agency may by appropriate action compel the owner
+10 of the non-conforming structure or tree, at his own expense, to lower, remove,
+11 reconstruct, or equip such object as may be necessary to conform to the regulations
+12 or, if the owner of the non-conforming structure or tree shall neglect or refuse to
+13 comply with such order for ten days after notice thereof, the agency may proceed to
+14 have the object so lowered, removed, reconstructed, or equipped and assess the cost
+15 and expense thereof upon the object or the land whereon it is or was located. Unless
+16 such an assessment is paid within ninety days from the service of notice thereof on
+17 the agent or owner of such object or land, the sum shall bear interest at the rate of ten
+18 percent per annum until paid, and shall be collected in the same manner as are
+19 general taxes. Except as indicated, all applications for permits for replacement,
+20 change or repair of non-conforming uses shall be granted.
+21 B. Variances. Any person desiring to erect any structures, or increase the
+22 height of any structure, or permit the growth of any tree, or otherwise use his
+23 property, in violation of airport aeronautical zoning regulations adopted under this
+24 Chapter, may apply to the board of appeals, as provided in R.S. 2:386 for a variance
+25 from the zoning regulations in question. Such variances shall be allowed where a
+26 literal application or enforcement of the regulations would result in practical
+27 difficulty or unnecessary hardship and the relief granted would not be contrary to the
+28 public interest but do substantial justice and be in accordance with the spirit of the
+29 regulations and this Chapter.
+Page 19 of 37
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-1491 ENGROSSED
+SB NO. 514
+1 * * *
+2 §386. Procedure for adoption and administration of regulations; appeals
+3 A. Adoption of zoning regulations. No airport aeronautical zoning
+4 regulations shall be adopted, amended, or changed under this Chapter except by
+5 action of the legislative body of the parish or other political subdivision in question,
+6 or the joint board provided for in R.S. 2:384(B) after a public hearing in relation
+7 thereto, at which parties of interest and citizens shall have an opportunity to be heard.
+8 At least thirty days' notice of the hearing shall be published in an official paper, or
+9 a paper of general circulation, in the political subdivision or subdivisions in which
+10 the airport or landing field is located.
+11 B. Administration of zoning regulations–Administrative agency. The
+12 legislative body of any political subdivision adopting airport aeronautical zoning
+13 regulations under this chapter may delegate the duty of administering and enforcing
+14 such regulations to any administrative agency under its jurisdiction, or may create
+15 a new administrative agency to perform such duty, but such administrative agency
+16 shall not be or include any member of the board of appeals. The duties of such
+17 administrative agency shall include that of hearing and deciding all permits under
+18 R.S. 2:385A, but such agency shall not have or exercise any of the powers delegated
+19 to the board of appeals.
+20 C. Administration of airport aeronautical zoning regulations; board of
+21 appeal. Airport zoning regulations adopted under this Chapter shall provide for a
+22 board of appeals to have and exercise the following powers:
+23 * * *
+24 §390. Short title
+25 This Chapter may be known as the Airport Aeronautical Zoning Law.
+26 §601. Definitions
+27 The following words or terms whenever used or referred to in this Chapter
+28 shall have the following respective meanings unless different meanings clearly
+29 appear from the context:
+Page 20 of 37
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-1491 ENGROSSED
+SB NO. 514
+1 * * *
+2 (5) "Air navigation Aeronautical facility" means any facility - other than one
+3 owned and operated by the United States–used in, available for use in, or designed
+4 for use in aid of air navigation, including any structures, mechanisms, lights,
+5 beacons, markers, communicating systems, or other instrumentalities, or devices
+6 used or useful as an aid, or constituting an advantage or convenience, to the safe
+7 taking-off, navigation, and landing of aircraft, or the safe and efficient operation or
+8 maintenance of an airport, and any combination of any or all of such facilities.
+9 (6) "Aeronautical hazard" means any structure, object of natural growth, or
+10 use of land which obstructs the airspace required for the flight of aircraft in landing
+11 or taking-off at an airport or is otherwise hazardous to such landing or taking-off of
+12 aircraft.
+13 * * *
+14 §607. Federal and state aid
+15 * * *
+16 B. An authority is authorized to designate the office of aviation aeronautics
+17 division of the Department of Transportation and Development as its agent to accept,
+18 receive, receipt for, and disburse federal and state monies, and other monies, public
+19 or private, made available by grant or loan or both, to accomplish in whole or in part,
+20 any of the purposes of this Chapter; and to designate the said department as its agent
+21 in contracting for and supervising the planning, acquisition, development,
+22 construction, improvement, maintenance, equipment, or operation of any airport or
+23 other air navigation facility. An authority may enter into an agreement with the said
+24 department prescribing the terms and conditions of the agency in accordance with
+25 such terms and conditions as are prescribed by the United States, if federal money
+26 is involved, and in accordance with the applicable laws of this state. All federal
+27 monies accepted under this Section by the office of aviation aeronautics division
+28 of the Department of Transportation and Development shall be accepted and
+29 transferred or expended by said department upon such terms and conditions as are
+Page 21 of 37
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-1491 ENGROSSED
+SB NO. 514
+1 prescribed by the United States. All monies received by the office of aviation
+2 aeronautics division pursuant to this Subsection shall be deposited in the
+3 Transportation Trust Fund of the state treasury and, unless otherwise prescribed
+4 by the agency from which such monies were received, shall be kept in separate funds
+5 designated according to the purposes for which the monies were made available and
+6 held by the state in trust for such purpose.
+7 * * *
+8 §609. Subdivision cooperation
+9 For the purpose of aiding and cooperating in the planning, undertaking,
+10 construction, or operations of airports or air navigation facilities pursuant to the
+11 provisions of this Chapter, any subdivision for which an authority has been created
+12 may, upon such terms, with or without consideration, as it may determine:
+13 * * *
+14 (2) Provide that all or a portion of the taxes or funds available or to become
+15 available to, or required by law to be used by, the subdivision for airport purposes,
+16 be transferred or paid directly to the airport authority as such funds become available
+17 to the subdivision; and unless otherwise prescribed by the agency from which the
+18 monies were received, shall be kept in separate funds designated according to
+19 the purposes for which the monies were made available and held in trust for
+20 such purpose.
+21 * * *
+22 CHAPTER 7. AIRPORT CONSTRUCTION AND DEVELOPMENT
+23 PRIORITY PROGRAM
+24 §801. Definitions
+25 As used in this Chapter, unless the context clearly indicates otherwise, the
+26 following definitions shall apply:
+27 (1) "Airport authority" means the owner of any airport or landing field,
+28 vertiport, advanced air mobility facility, or the governing authority of any airport
+29 district.
+Page 22 of 37
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-1491 ENGROSSED
+SB NO. 514
+1 (2) "Airport construction and development priority program" means the
+2 priority list of projects submitted by the department and approved by the joint
+3 committee pursuant to this Chapter Airport development program" means a
+4 program of infrastructure improvements and development projects of
+5 qualifying airports submitted by the department and approved by the Senate
+6 and House committees on transportation, highway and public works pursuant
+7 to this Chapter.
+8 (3) "Construction or development project" means a program of construction
+9 or development, either new or continuing, that will be planned and implemented with
+10 the primary goal of improving aviation aeronautical activities in the state.
+11 (4) "Department" means the Department of Transportation and Development,
+12 office of multimodal commerce.
+13 (5) "Joint committee" means legislative committees including the House
+14 Committee on Transportation, Highways and Public Works and the Senate
+15 Committee on Transportation, Highways and Public Works, functioning as a joint
+16 legislative committee.
+17 (6) "Sponsor" means any state agency, city, town, parish, airport authority,
+18 airport district, airport commission or other political subdivision which owns,
+19 leases, or controls any airport, landing field, landing strip, seaplane base, helipad, or
+20 aid to air navigation.
+21 §802. Methodology for airport project evaluation
+22 A.(1) Applications for funding of any airport construction or development
+23 project may be submitted by any airport authority, except as provided in R.S. 2:806.
+24 However, to be eligible for state funding from the Airport Construction and
+25 Development Priority Program for an airport project, an airport authority located in
+26 a political subdivision which has adopted airport zoning regulations, shall certify to
+27 the Department of Transportation and Development that the political subdivision's
+28 regulations are in compliance with United States Department of Transportation,
+29 Federal Aviation Administration, advisory circulars, orders, regulations, safety
+Page 23 of 37
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-1491 ENGROSSED
+SB NO. 514
+1 guidelines, recommendations, or other official documents that have been issued for
+2 the purpose of ensuring aviation safety and compatible land use. Equal consideration
+3 shall be given to rural aviation and commercial urban aviation. Applications shall be
+4 made to the Department of Transportation and Development by November first of
+5 each year, for consideration of funding in the following fiscal year. Applications
+6 submitted in accordance with the provisions of this Chapter shall not be subject to
+7 the provisions of R.S. 39:104, 111, 114, and 121. Information to be provided in the
+8 application shall include but not be limited to the following:
+9 (a) Description of the project and demonstration of immediate need for the
+10 project.
+11 (b) Preliminary project design and cost estimate.
+12 (c) Description of project area.
+13 A.(1) Applications for state funding of any airport construction or
+14 development project shall be submitted by any airport sponsor. To be eligible
+15 for state funding from the Airport Development Program for an airport project,
+16 an airport sponsor located in a political subdivision which has adopted airport
+17 aeronautical zoning regulations, shall certify to the Department of
+18 Transportation and Development that the political subdivision's regulations are
+19 in compliance with United States Department of Transportation, Federal
+20 Aviation Administration, advisory circulars, orders, regulations, safety
+21 guidelines, recommendations, or other official documents that have been issued
+22 for the purpose of ensuring aeronautical safety and compatible land use. Final
+23 applications submitted in accordance with the provisions of this Chapter shall
+24 not be subject to the provisions of R.S. 39:104, 111, 114, and 121. Information
+25 to be provided in the application shall be submitted in accordance with the
+26 Louisiana Aeronautical Development Manual.
+27 (2) Project applications shall not be subjected to formal review and
+28 evaluation until the information required in the application has been submitted.
+29 (3) Projects being funded on August 15, 2010, and projects on the proposed
+Page 24 of 37
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-1491 ENGROSSED
+SB NO. 514
+1 Airport Priority Program for FY 2010-2011 on August 15, 2010, are exempt from
+2 the requirements of this Subsection.
+3 B. Applications shall be reviewed by the department and any other
+4 appropriate state agencies which meet the provisions of R.S. 2:802(C) and meet
+5 the eligibility requirements within the evaluation procedures, shall be included
+6 in the Airport Development Program.
+7 C. If the sponsor, or any local unit of government obtains ninety percent
+8 or more funding for an aeronautical project, from federal sources or from
+9 sources other than state funds, the legislature shall give priority to funding the
+10 local match amount necessary for the aeronautical project.
+11 D. Procedures for application review and evaluation shall be developed by
+12 the department. Prior to implementing the review and evaluation procedures, the
+13 department shall secure the approval of these procedures by the joint committee in
+14 accordance with the Administrative Procedure Act. The procedures and a shall be
+15 approved by a set of guidelines for completing project applications shall be made
+16 available to eligible airport authorities prior to September 1, 1989.
+17 E.(1) The commissioner of multimodal commerce, or his designee, shall,
+18 for the purpose of administering the provisions of this Chapter, divide and
+19 classify the airports of the Louisiana airport system by type, volume and kind
+20 of traffic, operational status, federal status, federal obligation requirements,
+21 purpose, or otherwise to ensure a system that is safe, efficient, and complies
+22 with state and federal safety standards.
+23 (2) The commissioner of multimodal commerce shall classify airports
+24 comprising of functional operations and shall establish current standards for
+25 their functional classification. It shall undertake a continuing study of the needs
+26 of the various airports for the purpose of maintaining safety standards and shall
+27 update such study every two years with the most current information and data
+28 to support funding allocations and justify overall development objectives.
+29 (3) The department shall prepare and update a master plan to support
+Page 25 of 37
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-1491 ENGROSSED
+SB NO. 514
+1 and sustain the justification for the classification and characterization of the
+2 Louisiana integrated airport system requirements to be updated every two
+3 years in coordination with the federal national plan of integrated airport
+4 systems report by the federal aviation administration for program inclusion.
+5 (a) Every two years the department shall provide to the legislative
+6 committees a report on the classification and characterization of the airport
+7 system.
+8 (b) The department shall promulgate rules, procedures, and
+9 implementation policies and publish them in the Louisiana Aeronautical
+10 Development Manual in accordance with the Administrative Procedure Act.
+11 §803. Priority list of projects; public hearings; final program Proposed Program of
+12 Airport Development
+13 A. Prior to the convening of each regular session of the legislature, beginning
+14 with the 1990 Regular Session, the department shall prepare and shall furnish the
+15 priority list to the joint committee which shall hold a public hearing or hearings for
+16 the purpose of reviewing the priority list of projects for the coming fiscal year. Prior
+17 to each hearing, the department shall publish the appropriate official notice in the
+18 necessary journals. Subsequent to the joint committee hearing and prior to the
+19 convening of the regular session, the department shall prepare the final construction
+20 program for the coming fiscal year for submission to the joint committee. When this
+21 final construction program, as approved by the joint committee, is presented to the
+22 legislature for funding for the coming fiscal year, the legislature shall not add any
+23 projects to this final construction program except as provided in Subsection B of this
+24 Section.
+25 B. If the governing authority of an airport authority district, parish, or of any
+26 local unit of government obtains ninety percent or more funding for an airport, or for
+27 an airport project, from federal sources or from sources other than state funds, the
+28 legislature shall give priority to funding the remaining amount necessary for the
+29 airport or for the airport project, even if the project is not on the priority list of
+Page 26 of 37
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-1491 ENGROSSED
+SB NO. 514
+1 projects.
+2 A. Each year, the department shall submit to the legislative committees
+3 an airport development program to be commenced in the ensuing fiscal year.
+4 B. The department shall provide to the Senate and House committees on
+5 transportation, highways and public works a supplemental program proposed
+6 to be commenced which are in various stages of planning.
+7 §804. Proposed program of construction Airport Development Program; public
+8 hearings; final program
+9 A. Each year, beginning with the fiscal year commencing in 1990, the
+10 department shall submit to the joint committee an airport construction or
+11 development priority program to be commenced in the ensuing fiscal year, which
+12 shall be based upon the anticipated revenues to be appropriated by the legislature,
+13 and listed in an order of priority of the projects herein.
+14 B. The department also shall provide to the joint committee annually a
+15 supplemental list of projects proposed to be commenced within the ensuing four
+16 years which are in various stages of planning and preparation. The supplemental list
+17 shall be subject to change by the department until the department finally approves
+18 each project for construction.
+19 A. Prior to the convening of each regular session of the legislature, the
+20 department shall prepare and shall furnish the recommended list of proposed
+21 projects to the legislative committees which shall hold a public hearing or
+22 hearings for the purpose of reviewing the program applications for the coming
+23 fiscal year. Prior to each hearing, the department shall publish the appropriate
+24 official notice in the official journal of the state. Subsequent to the committee
+25 hearing and prior to the convening of the regular session, the department shall
+26 prepare the final airport development program for the coming fiscal year for
+27 submission to the Senate and House committees on transportation, highways
+28 and public works. When this final airport development program, as approved
+29 by both committees, is presented to the legislature for funding for the coming
+Page 27 of 37
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-1491 ENGROSSED
+SB NO. 514
+1 fiscal year, the legislature shall not add any projects to this final airport
+2 development program.
+3 B. The legislature declares it to be in the public interest that a program
+4 for development of airport infrastructure be utilized to develop the airport
+5 development program that accomplishes the following:
+6 (1) Prioritizes, above all else, transparency to the public, accuracy, and
+7 efficiency of program delivery.
+8 (2) Brings and maintains the state airport system into a good state of
+9 repair and optimizes the efficiency and economic growth of airport facilities.
+10 (3) Improves safety for aeronautical users and communities.
+11 (4) Supports resiliency in the multimodal transportation system.
+12 (5) Fosters diverse economic development and job growth, international
+13 and domestic commerce, and tourism.
+14 (6) Fosters and encourages multimodal connectivity.
+15 (7) Ensures airport safety compliance for the public interest and
+16 provides a system of compliance review and adherence.
+17 (8) Encourages use and adoption of advanced and innovative
+18 technologies.
+19 (9) Ensures a right-sized system of airports to enhance and grow the
+20 state economy.
+21 §805. Projects undertaken by the department
+22 A. After adoption of the department's recommendations by the joint
+23 committee Senate and House committees on transportation, highways and public
+24 works, the approved list of projects program shall be forwarded to the department
+25 for implementation subject to the limitation of appropriated appropriation of funds.
+26 The department shall not delete, add, or substitute any projects for those approved
+27 by the joint committee, revise any projects applications approved by the
+28 committees, except as provided in R.S. 2:806; however, the secretary of the
+29 department may the commissioner of multimodal commerce, or his designee, at
+Page 28 of 37
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-1491 ENGROSSED
+SB NO. 514
+1 his discretion, authorize projects to be undertaken and financed due to an emergency
+2 out of the secretary's emergency fund. At least semiannually, or as often as required
+3 by the joint committee, the department shall summarize and report the progress to
+4 date on all projects previously approved and shall submit a recapitulation of all
+5 emergency projects for the preceding six-month period, outlining the nature of the
+6 emergency and the cost of each project.
+7 B. No airport project shall be undertaken by the department involving
+8 Transportation Trust Fund appropriations except those included in the approved
+9 program listing for that fiscal year with the exception of projects undertaken and
+10 financed out of the secretary's emergency fund through funds recovered from
+11 completed projects and/or nonactive projects that have been canceled, closed,
+12 audited, or finalized.
+13 §806. Commencement of projects; substitutions; New Orleans International Airport
+14 A. The projects planned for the year for which appropriations have been
+15 made shall have six months upon the appropriation to be commenced in that year;
+16 however, if a project cannot be commenced within six months of the year for which
+17 it is planned, the secretary of the department shall file with the project records a
+18 public statement as to the factors causing the delay, and the next priority project shall
+19 be substituted therefor. When the delaying factors have been overcome, the delayed
+20 project shall be placed in the highest priority for the next ensuing fiscal year.
+21 Unresolved debt resulting from project cost overruns approved by the department
+22 shall be paid from current year funds. Any remaining debt shall be given top priority
+23 in the following year. Funds allocated for each project shall remain so allocated until
+24 the project is completed and the project costs are liquidated appropriations have
+25 been made, the department shall cancel the project. The sponsor shall submit
+26 a new application for the project which shall then be placed in the airport
+27 development program and re-evaluated for inclusion.
+28 B. The New Orleans International Airport or its successor shall be prohibited
+29 from participating in the airport priority program for five consecutive years from the
+Page 29 of 37
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-1491 ENGROSSED
+SB NO. 514
+1 first fiscal year in which such priority program is funded by the legislature only if,
+2 as, and when House Bill No. 80 of the 1989 Regular Session of the Legislature of
+3 Louisiana is finally adopted and approved by the electorate.*
+4 §807. Allocation, reallocation of funds; deposit to Transportation Trust Fund
+5 A. The Transportation Trust Fund shall be one of the source of state funds
+6 provided for any airport aeronautical project on the priority list airport
+7 development program commenced pursuant to the provisions of this Chapter. Prior
+8 to the commencement of any work, the department shall require the presiding officer
+9 or owner of each airport authority sponsor involved in a project to execute an
+10 agreement and statement of sponsorship, and compliance certification which
+11 includes but is not limited to an agreement to assume all maintenance and operation
+12 and utility service costs for the project as may be required without cost to the state.
+13 B. Any monies allocated for any project not needed for said project may be
+14 reallocated for the completion of any other project or projects specified. Any monies
+15 not needed for the completion of said projects shall be deposited in and credited to
+16 the Transportation Trust Fund, for reallocation to the Airport Construction and
+17 Development Priority Airport Development Program.
+18 §808. Preparation of plans and specifications; letting of bids for construction;
+19 supervision of construction
+20 The department may prepare or contract for the necessary plans and
+21 specifications, may let the contract for bid, and may supervise the construction of the
+22 project.
+23 §809. Inspection
+24 A. The department may approve the engineering, and construction, and
+25 design-build plans for any proposed airport projects that are prepared by consultant
+26 or contract engineers for any recipient airport authority sponsor. The department
+27 may inspect the construction of a project at any time to assure project compliance.
+28 B. The department may inspect a complete project with the consultant or
+29 contract engineer. The sponsor or contract engineer shall notify the department
+Page 30 of 37
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-1491 ENGROSSED
+SB NO. 514
+1 in writing at least seven business days prior to the inspection being conducted.
+2 The sponsor or contract engineer shall notify the department in writing at least seven
+3 business days prior to the inspection being conducted. The sponsor shall certify to
+4 the department as a condition of grant acceptance that construction is in accordance
+5 with plans and specifications. The department may inspect a completed project at
+6 any time to assure that the project is being maintained in accordance with project
+7 specifications and agreements.
+8 * * *
+9 §811. Audit of distribution to recipient airport authorities sponsors
+10 The monies distributed to the recipient authorities sponsors shall be audited
+11 by the legislative auditor or a certified public accountant at least biennially pursuant
+12 to R.S. 24:513(A) and shall issue and distribute all audit reports pursuant to R.S.
+13 24:516(A). To the extent that funds available to the legislative auditor permit, the
+14 audits of each recipient airport authority sponsor of the use of the monies shall
+15 include an investigation of any failure to comply with the recommendations for
+16 planning, design, and construction adopted by the department. The recipient airport
+17 authority sponsor shall certify annually to the legislative auditor that the funds made
+18 available under this Chapter have been expended in accordance with the standards
+19 established by law.
+20 §812. Report of any misuse of funds
+21 If the legislative auditor determines that any expenditures by the recipient
+22 airport authority sponsor have not been made in accordance with this Chapter, he
+23 shall promptly report the facts of such expenditure to the Legislative Audit Advisory
+24 Council. The council shall make further investigation of the matter as it deems
+25 necessary.
+26 §813. Misuse of funds; withholding of distribution; notification of district attorney
+27 A.(1) If, on the basis of the report of the legislative auditor, or from its own
+28 investigation, the Legislative Audit Advisory Council, hereinafter referred to as the
+29 "council", determines that there has been a misuse by a recipient airport authority
+Page 31 of 37
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-1491 ENGROSSED
+SB NO. 514
+1 sponsor of funds from the program, it shall then determine whether a partial or total
+2 withholding of the authority's sponsor's appropriation for any remaining portion of
+3 the current fiscal year shall be necessary. Should the council determine that it is
+4 necessary to withhold all or any part of the authority's sponsor's appropriation, the
+5 council shall send notification of its determination to the co-chairmen of the joint
+6 committee and to each member of the legislature who represents any portion of the
+7 authority sponsor.
+8 (2) If, thirty days after the members of the legislature and the co-chairmen
+9 of the Senate and House committees on transportation, highways, and public
+10 works, are notified, the council determines that the misuse has not yet ceased, the
+11 council shall send a resolution instructing the state treasurer and the department to
+12 immediately suspend distributions to the airport authority sponsor of funds
+13 appropriated for the program. The suspension of funds shall remain in effect until the
+14 Legislative Audit Advisory Council verifies, in writing, to the state treasurer and the
+15 department that the offending authority sponsor is again in compliance with this
+16 Chapter. Such written verification shall be given when the legislative auditor
+17 certifies to the council that, to the best of his knowledge, the authority sponsor is in
+18 compliance with this Chapter or, in the absence of said certification, when the
+19 council determines that the authority sponsor is in compliance with this Chapter.
+20 Upon receipt of the council's written verification, the state treasurer and the
+21 department shall reinstate the distribution of funds and distribute all funds
+22 previously withheld to the affected recipient airport authority sponsor.
+23 (3) The council shall report any action it has taken with regard to the
+24 suspension of funds to the joint committee Senate and House committees on
+25 transportation, highways and public works and the legislature at the next regular
+26 session, along with any recommendations it may have for forfeiture of suspended
+27 funds by those authorities sponsors which are still in noncompliance with this
+28 Chapter. Forfeiture of funds can be authorized only by the legislature.
+29 B. In any case where there has been a determination made by the council that
+Page 32 of 37
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-1491 ENGROSSED
+SB NO. 514
+1 there has been a misuse by a recipient airport authority sponsor of funds
+2 appropriated for the program, the council shall furnish a copy of the written
+3 resolution directing the state treasurer to withhold funds to the district attorney of the
+4 parish or parishes where the misuse of funds occurred. The district attorney shall,
+5 within thirty days, advise the chairman of the council as to action he has taken or
+6 proposes to take in connection with the misuse of funds cited in the resolution.
+7 Where future action is proposed by the district attorney, the council shall set a date
+8 for receipt of further advice in the matter. Where such advice is not forthcoming
+9 from the district attorney, or where it is evident that suitable action has not been
+10 taken, the council shall report the matter to the joint committee and the legislature
+11 at its next regular session for whatever action the joint committee and the legislature
+12 deems advisable under the circumstances.
+13 §814. Project development; schedule
+14 When aviation aeronautical projects receiving funding from the Federal
+15 Aviation Administration are being negotiated by the department, the department, the
+16 local sponsor, the department, the sponsor of the project, and the Federal Aviation
+17 Administration shall agree upon an official schedule of project development which
+18 shall set the project time schedule. If the department is unable to complete timely
+19 reviews as stipulated within the schedule, for reasons solely in the control of the
+20 department, the project shall be deemed to be approved in accordance with the
+21 standard process of the Federal Aviation Administration.
+22 §901. Creation and Program administration
+23 The General Aviation and Reliever Airport Maintenance Grant Program is
+24 hereby created within the division of aviation aeronautics of the Department of
+25 Transportation and Development for the purpose of providing for airport basic
+26 airside airport maintenance to assist Louisiana general aviation and reliever airports
+27 and to enhance their safety airports with the cost of maintenance materials and
+28 implementation that enhance their safety of aircraft operations.
+29 §902. Grant eligibility
+Page 33 of 37
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-1491 ENGROSSED
+SB NO. 514
+1 A. Grants made through the program shall be limited to Louisiana general
+2 aviation and reliever airports as identified in the airport system in accordance
+3 with R.S. 2:802 and 804 and shall be awarded to those projects applications which
+4 address basic airside airport maintenance needs and attempt to enhance safety of
+5 aircraft operations and infrastructure issues at existing airport facilities.
+6 B. Each successful grant applicant shall provide a like match in funds from
+7 other sources sponsor sources other than state funds. All matching funds must be
+8 available to the program after the date of the grant award and funds spent prior to the
+9 grant award shall not be considered in fulfillment of the match requirement.
+10 C. (1) Except as provided in Paragraph (2) of this Subsection, grants shall be
+11 limited to not more than ten thousand dollars per airport per fiscal year.
+12 (2) Applications for additional grant money funding by an airport that has
+13 been awarded the maximum amount in a fiscal year may be considered for additional
+14 funding after April thirtieth of a fiscal year if all of the applications for grants which
+15 have been submitted for the fiscal year have been accepted or rejected and any funds
+16 in the grant program remain unallocated for the fiscal year.
+17 D. Funding through the grant program shall be subject to but not limited to
+18 the following criteria:
+19 (1) The availability of funds.
+20 (2) A comparative needs analysis of requested projects applications as
+21 determined by the division of aviation aeronautics.
+22 (3) Demonstrated safety benefits to be derived from the project application.
+23 §903. Rules and regulations
+24 A. The department shall promulgate rules and regulations to implement this
+25 Chapter which shall include but not necessarily be limited to:
+26 (1) Project Application submission.
+27 (2) Project Application evaluation, including but not limited to financial
+28 feasibility.
+29 (3) Program administration.
+Page 34 of 37
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-1491 ENGROSSED
+SB NO. 514
+1 (4) Prioritization of projects.
+2 (5) Grant awards.
+3 (6) Airport Certification program.
+4 (7) Airport compliance evaluation.
+5 * * *
+6 Section 2. R.S. 2:135.1(N)(3) and 1001 through 1004 are hereby repealed.
+The original instrument and the following digest, which constitutes no part
+of the legislative instrument, were prepared by Senate Legislative Services.
+The keyword, summary, and digest do not constitute part of the law or proof
+or indicia of legislative intent. [R.S. 1:13(B) and 24:177(E)]
+DIGEST
+SB 514 Engrossed 2026 Regular Session Owen
+Present law provides for definitions. Proposed law retains present law and updates
+definitions for "department", "director" and "fixed base operator".
+Present law provides for the secretary and employees of the department designated by him
+to supervise and direct all aeronautic activities and facilities. Proposed law changes the
+duties of aeronautics from the secretary of DOTD to the DOTD office of multimodal
+commerce commissioner.
+Present law provides for the secretary of DOTD to create the La. Advanced Aviation and
+Drone Advisory Committee. Proposed law adds the commissioner of multimodal as a creator
+of the advisory committee. Proposed law further adds a member from the governor's office
+of homeland security and emergency preparedness as a member of the committee.
+Proposed law adds the functions of the office of multimodal commerce, aeronautics
+division.
+Proposed law provides the legislature direct secretary and commissioner to establish an
+advanced aeronautics director and functions to administer and progress advanced air
+mobility and associated functions. Proposed law provides for the commissioner of the office
+of multimodal commerce, or his designee, to serve as the department liaison with the Federal
+Aviation Administration.
+Proposed law provides the department may establish and operate funding and development
+programs to support the development, adoption, economic integration, and promotion of
+advanced aviation technologies in the state and develop programs in alignment with the
+state's strategic economic plans.
+Proposed law provides funding for programs may be derived from legislative appropriations,
+federal grants, public-private partnerships, or other available sources.
+Present law provides for duties of the department relative to aeronautics under the direction
+of the secretary of DOTD. Proposed law removes duties from the secretary to the
+commissioner of the office of multimodal commerce.
+Present law provides for activities pertaining to aircraft registration, identification,
+equipment, and enforcement delegated to the secretary of the Department of Public Safety
+and Corrections or his designee. Proposed law moves the provisions relative to aircraft
+Page 35 of 37
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-1491 ENGROSSED
+SB NO. 514
+registration, identification, equipment, and enforcement from the secretary of DPS to the
+DOTD, office of multimodal commerce commissioner.
+Present law provides the secretary of DOTD may administer oaths when necessary and sign
+any license or document relevant to the promotion or regulation of aviation, whether state
+or federal. Proposed law changes this responsibility from the secretary of DOTD to the
+DOTD, office of multimodal commerce commissioner.
+Present law provides for powers and duties of the department and promulgation of rules and
+regulations pertaining to aeronautics. Proposed law retains present law except for air
+instruction and air marketing and all other nonfederal air navigation facilities.
+Present law provides for the department to prescribe reasonable rules and regulations as it
+deems necessary and advisable regarding curriculum, equipment, personnel, and operation
+and management of all air instruction. Proposed law removes this provision.
+Present law provides for protecting the health and safety of students receiving or to receive
+instruction of student aviators. Proposed law removes this provision.
+Present law provides for the promotion of aeronautics governing the establishment, location,
+maintenance, and operation of all air markings, air beacons, and other air-navigation
+facilities. Proposed law retains present law and removes the provisions governing the
+establishment, location, maintenance and operation of air markings.
+Present law provides the department of public works may plan, establish, construct, enlarge,
+improve, maintain, equip, operate, regulate, protect, promote and police airports and air
+navigation facilities within the state. Proposed law makes technical updates from the
+department of public works to the department and includes that the department may
+construct, install, equip, maintain, and operate at such airports buildings and other facilities
+for the servicing of aircraft, education, workforce development, economic growth, and
+public-private initiatives to leverage public airport assets and infrastructure to attract,
+develop, and scale new and innovative entrants for transportation, logistics, and defense to
+ensure alignment with market demand and collaboration of resources across the state.
+Present law provides for the secretary of the DOTD to either transfer the Harry P. Williams
+Memorial Airport in Patterson, Louisiana to the St. Mary Parish governing authority or to
+take whatever steps are necessary to close the Harry P. Williams Memorial Airport and to
+dispose of any interest the state may have in the airport. Proposed law repeals present law.
+Proposed law makes technical changes.
+Present law provides leases with a term of five years or more shall contain a provision for
+periodic adjustments. Proposed law changes from periodic adjustments to annual periodic
+adjustments.
+Present law provides for the distribution of sales tax revenue when an airport is located in
+more than one political subdivision and only applied when the majority of the acreage of
+such airport was located within the parish of Jefferson. Proposed law provides sales and use
+tax revenues generated at the airport only be used in accordance with the provision of FAA
+policy and procedures.
+Proposed law adds provisons for "airport sponsors". Proposed law further makes technical
+corrections and updates authority and duties from the department of public works to DOTD.
+Proposed law makes technical corrections and updates terminology including from "airport"
+to "aeronautical" and the Department of Public Works to the DOTD.
+Proposed law provides for a change from DOTD "office of aviation" to "aeronautics
+division".
+Page 36 of 37
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-1491 ENGROSSED
+SB NO. 514
+Proposed law provides for all monies received by the aeronautics division be deposited in
+the Transportation Trust Fund of the state treasury and, unless otherwise prescribed by the
+agency from which such monies were received.
+Proposed law updates definitions in the Airport Construction and Development program.
+Proposed law further changes the methodology for airport project evaluation for applications
+for state funding, the requirements necessary for legislative and public hearings of the airport
+development program, and rules and regulations for the implementation of proposed law.
+Effective August 1, 2026.
+(Amends R.S. 2:1(15), (16), and (17), 2.1(B)(1), 5, 6(B)(1), 7, 7.1, 8, 9, 10, 13, 14, 81
+through 87, 131(A), 135.1(F), (G), (H), (J), and (L)(1), 135.2, 135.3(A) and (B), 135.4(B),
+136, 331(A), 381 through 384, 385(A) and (B), 386 (A) and (B), and 386(C)(intro para),
+390, 601(5) and (6), 607(B), 609(2), 801 through 809, 811 through 814, 901, 902, 903(A);
+adds R.S. 2:2.1(B)(2)(p), (G), (H), and (I); repeals R.S. 2:135.1(N)(3), and 2:1001 through
+1004)
+Summary of Amendments Adopted by Senate
+Committee Amendments Proposed by Senate Committee on Transportation,
+Highways, and Public Works to the original bill
+1. Adds and updates terminology.
+2. Changes and moves duties from the secretary of DOTD to the commissioner
+of multimodal commerce.
+3. Removes duties from DOTD to the office of multimodal commerce.
+4. Makes technical changes.
+5. Changes the "Airport Priority Program" to the "Program of Airport
+Development" and changes requirements, regulations, procedures, and
+reporting requirements.
+6. Repeals communication facilities.
+Page 37 of 37
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.

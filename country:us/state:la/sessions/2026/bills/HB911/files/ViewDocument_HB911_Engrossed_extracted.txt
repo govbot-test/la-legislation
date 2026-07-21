@@ -1,0 +1,936 @@
+Title: 
+Official Title: 
+Source: versions - HB911 Engrossed
+Media Type: application/pdf
+
+================================================================================
+
+HLS 26RS-1258 ENGROSSED
+2026 Regular Session
+HOUSE BILL NO. 911
+BY REPRESENTATIVE MCMAKIN
+PARISH/ORLEANS: Provides for the complete reform and modernization of the judicial
+components of Orleans Parish
+1 AN ACT
+2 To amend and reenact R.S. 13:1, 842(A), and 1381(introductory paragraph) and to enact
+3 R.S. 13:474.1, 477(41), 621.41 through 621.45, 714.1, 714.2, 751.1 through 751.5,
+4 841.3, 983, 996.62, and to repeal R.S. 9:2745, R.S. 13:1031 through 1147, 1211
+5 through 1212.1, 1271 through 1312, 1335 through 1347, 1371, 1372, 1377, 1381.1
+6 through 1400, 1566 through 1568.3, 1587.1, 1587.2, and 1593 through 1595.3,
+7 relative to the reorganization and consolidation of the civil and criminal district
+8 courts and juvenile court, clerk of the civil and criminal district courts; to provide,
+9 delineate, and otherwise designate the powers, authority, duties, functions,
+10 compensation, fees, and related matters concerning the civil and criminal district
+11 courts, clerks of the civil and criminal courts, and other judicial officers and officials
+12 for the parish of Orleans; to create the Forty-First Judicial District, its subsequent
+13 divisions, sections, magistrate, and commissioners; to abolish the Orleans Parish
+14 Juvenile Court and transfer its jurisdiction; to extend the terms of office of the judges
+15 of the juvenile court now in office; to transfer the jurisdiction of the juvenile court
+16 to the Forty-First Judicial District Court; to provide for the juvenile section of the
+17 Forty-First Judicial District Court; to create the Consolidated Judicial Expense Fund
+18 for certain courts; to provide for the consolidation of certain offices and judicial
+19 expense funds; to provide for the election of a single clerk of court for the parish of
+20 Orleans commencing with the next election for parochial and municipal officers in
+Page 1 of 26
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1258 ENGROSSED
+HB NO. 911
+1 Orleans Parish; to provide for continuation of retirement system coverage; to provide
+2 for the reduction by attrition of judges upon retirement; to direct the Louisiana State
+3 Law Institute to change statutory references necessitated by this Act and to make
+4 recommendations it deems necessary to clarify or modify its provisions, including
+5 the elimination of antiquated provisions; to provide for effective dates; and to
+6 provide for related matters.
+7 Be it enacted by the Legislature of Louisiana:
+8 Section 1. Legislative intent and history. In the 2006 Regular Session of the
+9 Legislature, the legislature overwhelmingly adopted Act 621 to merge the courts and clerks
+10 of court of Orleans Parish into a single reformed structure. That Act was supported by
+11 twenty-nine Senators and ninety-six members of the House of Representatives and signed
+12 into law by Governor Blanco. In 2012 via Act 474 the legislature repealed those provisions
+13 before they were allowed to go into effect. The legislature recognized in Act 621, and
+14 affirms today that:
+15 There should be effective, efficient, and economic administration of governmental
+16 services at all levels. It is the intent of the legislature that the public interest is best served
+17 by the elimination, to the fullest extent practicable, of the duplication of effort within local
+18 government in order to expend public funds more efficiently and wisely and to meet more
+19 effectively and conveniently the needs of the people who provide the revenues for its
+20 operations, particularly in the wake of devastation wrought by hurricanes Katrina and Rita
+21 and in the wake of the large deficits and unprecedented financial crisis the City of New
+22 Orleans currently faces.
+23 It is the public policy of this state to ensure that all courts, officials, and offices
+24 enumerated in Article V of the Louisiana Constitution of 1974 are structured in a manner
+25 which is responsive to the needs of the people, operated efficiently, and consistent with the
+26 funds available. The state, as well as the city of New Orleans and its citizens, now have
+27 limited resources with which to support the number of judges and judicial offices it did
+28 previously. The legislature finds that the structure of the judiciary in Orleans Parish is
+29 fragmented and inefficient and must be fundamentally changed if the city/ Orleans Parish
+Page 2 of 26
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1258 ENGROSSED
+HB NO. 911
+1 is to flourish. The costs of operating one district court and one clerk of the district court will
+2 inherently be less due to economies of scale. The legislature recognizes that the city of New
+3 Orleans is of economic, historical, and cultural significance to this state and to this nation
+4 and that efficiency of its judiciary and offices comprising the judiciary is fundamental and
+5 that the legislature should provide the best framework for its future. The consolidation of
+6 the courts and officers covered by this Act is critical to the future financial stability of the
+7 city and will ultimately lessen the financial burden to the citizens of the city of New Orleans
+8 and this state. The legislature recognizes that a judicial system founded 200 years ago is
+9 unrealistic and not viable in the 21st century. The legislature does hereby enact these
+10 provisions in accordance with the authority granted in Section 32 of Article V of the
+11 Louisiana Constitution of 1974.
+12 Section 2. There are three judicial districts larger than the Parish of Orleans. The
+13 states most populated parish and judicial district is East Baton Rouge Parish. It also has a
+14 noticeably higher caseload than the Orleans Parish courts. The 19th Judicial District has
+15 fifteen judges, the East Baton Rouge Family Court has four, and the East Baton Rouge
+16 Juvenile Court has two. The state's largest parish elects the equivalent of twenty-one district
+17 judges. It also elects four appellate court judges. The Parish of Orleans elects ten appellate
+18 court judges and thirty-one trial court judges (Civil, Criminal, and Juvenile).
+19 The legislature finds that there is no reason that Orleans should have more judges
+20 than larger parishes with a higher caseload, but to facilitate transition to a proper number has
+21 decided to make this reduction that still leaves Orleans with twenty-two judgeships which
+22 is still the most district judgeships in the State of Louisiana. Therefore, the following
+23 judgeships are abolished effective January 1, 2027: Divisions E and F of the Orleans
+24 Juvenile Court, Divisions A, I, and J of the Orleans Criminal District Court, and Divisions
+25 C, L, M, and N of the Orleans Civil District Court are abolished effective December 31,
+26 2026. The Secretary of State shall not include those offices in the 2026 fall elections nor
+27 authorize qualifying for those judgeships.
+28 Section 3. The clerk of the civil district court shall become the clerk of court of
+29 Orleans Parish. The property, employees, and duties of the clerk of the criminal district
+Page 3 of 26
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1258 ENGROSSED
+HB NO. 911
+1 court and of the clerk of the Orleans Parish juvenile court shall be under the control of the
+2 clerk of court of Orleans Parish effective December 31, 2026. The clerk of the criminal
+3 district court shall be authorized to finish their current term at the same salary and maintain
+4 responsibility for elections until the end of their term and may utilize employees of the clerk
+5 of court for that purpose.
+6 Section 4. R.S. 13:1, 842(A), and 1381(introductory paragraph) are hereby amended
+7 and reenacted and R.S. 13:474.1, 477(41), 621.41 through 621.45, 714.1, 714.2, 751.1
+8 through 751.5, 841.3, 983, and 996.62 through 996.64 are hereby enacted to read as follows:
+9 TITLE 13. COURTS AND JUDICIAL PROCEDURE
+10 CHAPTER 1. JUDICIAL OFFICERS AND EMPLOYEES, IN GENERAL
+11 PART I. GENERAL PROVISIONS
+12 §1. Duties of the minute clerks of courts of Orleans Parish
+13 The minute clerks of the court of appeals and of the civil and criminal district
+14 courts of the parish of Orleans Forty-First Judicial District Court shall attend the
+15 sessions of the court for which they are appointed, and shall, under the supervision
+16 of the judge or judges of the courts, keep the minutes of the court, issue all notices,
+17 copies of rules and orders entered on the minutes, which are required to be issued,
+18 and make due entries on the dockets of the causes and of the proceedings therein, and
+19 shall perform such other duties as the judges may direct.
+20 * * *
+21 §474.1. Judicial depository
+22 A. The bank or banks so designated as fiscal agent for such funds shall
+23 furnish adequate security, satisfactory to the judges, to secure the return and payment
+24 of any such deposited funds.
+25 B. It shall be the duty of the judges to endeavor to receive interest on all
+26 monies so deposited, and if, for any reason, the fiscal agent, or agents, so designated
+27 are unable or unwilling to pay interest on such deposit, the judges of the district court
+28 are hereby authorized to purchase certificates of deposit, and other forms of
+Page 4 of 26
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1258 ENGROSSED
+HB NO. 911
+1 certificates of indebtedness bearing interest, or they may purchase short-term United
+2 States bonds, treasury notes, or certificates.
+3 C. Any and all interest received on all such monies so deposited, or from any
+4 certificates of deposit, certificates of indebtedness, or United States bonds, treasury
+5 notes, or certificates, shall be distributed in the following manner:
+6 (1) One-half of all interest so received, as received, shall be transferred to
+7 and shall form part of the Consolidated Judicial Expense Fund for the Forty-First
+8 Judicial District Court, in reimbursement and payment for the services rendered in
+9 administering said "registry of the court" fund by the judges, clerk, and other
+10 employees whose salaries are paid out of the fund.
+11 (2) The ultimate recipient of any of said funds so deposited in the registry
+12 of the court shall receive interest on such sum received by him, to be calculated on
+13 the following basis, to wit:
+14 (a) The rate of interest per annum to be paid such recipient shall be one-half
+15 of the average interest rate received from the fiscal agent and/or from certificates of
+16 deposit, certificates of indebtedness, United States government bonds, treasury notes,
+17 or certificates, during the period that the funds being disbursed were on deposit in
+18 the registry of the court.
+19 (b) Interest shall be paid such recipient on the same percentage of such sum
+20 he receives as the total amount of such registry funds invested with interest bears to
+21 the total of such funds held in the registry of the court during the preceding year.
+22 (c) In determining the amount of such registry funds invested with interest,
+23 and the total of such funds held in the registry of the court, as provided in
+24 Subparagraph (b) of this Paragraph, the basis for such determination shall be the
+25 average daily balance of the total funds invested and the average daily balances of
+26 the total funds held in the registry of the court fund during the period that the funds
+27 being disbursed were on deposit in the registry of the court fund.
+28 D. In the event it becomes necessary to disburse funds which have been
+29 deposited in the registry of the Consolidated Judicial Expense Fund, in accordance
+Page 5 of 26
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1258 ENGROSSED
+HB NO. 911
+1 with a duly rendered court order, in excess of the amount held by the fiscal agent of
+2 the fund, in its noninterest bearing account, the presiding judge or the acting chief
+3 judge of the Forty-First Judicial District Court, on an order issued by the majority of
+4 the judges of the district court, sitting en banc, shall have the authority to borrow
+5 such funds so needed for disbursal from the fiscal agent, or others, at the then
+6 prevailing interest rate for loans of this character, using as collateral to secure any
+7 such loan an amount of bonds, or certificates of deposit, or certificates of
+8 indebtedness in which funds have been invested, and, if required so to do by any
+9 such lending agency, to execute any note or other form of agreement to repay such
+10 loan.
+11 * * *
+12 §477. Judicial districts
+13 There shall be forty-one judicial districts in the state and each district shall
+14 be composed as follows:
+15 * * *
+16 (41) The parish of Orleans shall compose the Forty-First District.
+17 * * *
+18 §621.41. Forty-First Judicial District
+19 A.(1) The Forty-First Judicial District Court shall have twenty-one judges
+20 and one magistrate judge.
+21 (2) The Forty-First Judicial District Court shall have the same jurisdiction
+22 as the district courts throughout the state, as fixed by the constitution, as provided
+23 in this Section, or as provided by law.
+24 B.(1) The judges of the Forty-First Judicial District Court by rule adopted
+25 by a majority vote of the judges sitting en banc, with the consent of the judge of the
+26 respective division, may assign certain divisions of the court to a criminal section
+27 and certain divisions to a civil, domestic relations, or other section of the court. The
+28 judges of the Forty-First Judicial District Court, including the magistrate judge, en
+29 banc, shall assign certain divisions of the court to a juvenile section when the
+Page 6 of 26
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1258 ENGROSSED
+HB NO. 911
+1 Juvenile Court of the parish of Orleans is abolished and jurisdiction of that court is
+2 transferred to the Forty-First Judicial District Court.
+3 (2) Notwithstanding any principal assignments to divisions, all divisions of
+4 the court shall retain general jurisdiction to hear all matters.
+5 C. The Forty-First Judicial District Court shall be composed of divisions A
+6 through U and the magistrate judge over the magistrate section.
+7 D. The judges presently presiding over Divisions A, B, and D through K of
+8 the Civil District Court for the parish of Orleans shall preside over Divisions A
+9 through J of the Forty-First Judicial District Court. The judges shall continue to
+10 serve until the thirty-first day of December of the year in which their terms expire.
+11 E. The judges presently presiding over Divisions B through H and K and L
+12 of the Criminal District Court for the parish of Orleans shall preside over Divisions
+13 K through Q of the Forty-First Judicial District Court. The judges shall continue to
+14 serve until the thirty-first day of December of the year in which their terms expire.
+15 F. The judges assigned to the juvenile section shall preside over Divisions
+16 T and U of the Forty-First Judicial District Court.
+17 G. The court of appeal with jurisdiction over the parish of Orleans shall have
+18 appellate jurisdiction over all cases tried in the city courts of New Orleans and all
+19 cases tried before the Municipal and Traffic Court of New Orleans.
+20 H. All judges of the Forty-First Judicial District shall be elected by the
+21 qualified electors of the parish for terms of six years at the congressional election to
+22 be held in 2026 and every six years thereafter. Each judge shall take office on the
+23 first day of January of the year following election and shall serve through December
+24 thirty-first of the last year of his term. Any candidate for election to the office of
+25 judge of this court must designate the division for which he is a candidate, and, if
+26 elected, shall succeed to the office of judge of the division for which he was a
+27 candidate. The judge oldest in continuous service in each division of the district
+28 court shall preside, and in the event two or more judges shall have served the same
+29 length of time, the judge oldest in years shall preside.
+Page 7 of 26
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1258 ENGROSSED
+HB NO. 911
+1 I.(1) Subject to the recommendations of the committee provided for in R.S.
+2 13:996.62, on the date that the Forty-First Judicial District Court becomes effective,
+3 all of the books, papers, records, monies, actions, and other property of every kind
+4 and description, movable and immovable, real and personal, possessed, controlled,
+5 or used by the Civil District Court for the parish and Criminal District Court for the
+6 parish shall be transferred and be owned, possessed, controlled, and used by the
+7 Forty-First Judicial District Court.
+8 (2) The judges of the Forty-First Judicial District, including the magistrate
+9 judge, shall retain all accrued benefits and contributions to which they were entitled
+10 and shall continue to contribute, if applicable, to the retirement system or pension
+11 fund to which they were contributing on December 31, 2026. The salaries of the
+12 judges and group health and life insurance premiums shall continue to be paid from
+13 the same sources and in the same manner in which they were paid on December 31,
+14 2026; however, the payment of health and life insurance premiums shall be in
+15 accordance with the unified group health and life insurance program adopted by the
+16 committee provided for in R.S. 13:996.62.
+17 (3) The employees of the Civil District Court for the parish, the Criminal
+18 District Court for the parish, and the Juvenile Court for the parish shall be transferred
+19 in accordance with this Section, to the extent required and in accordance with
+20 applicable civil service laws, and shall be subject to the supervision and control of
+21 the Forty-First Judicial District Court. The employees transferred in accordance with
+22 this Section shall continue to contribute to the retirement system or pension fund to
+23 which they were contributing on the effective date of this Section, including the
+24 retention of all accrued benefits and contributions to which they were entitled on the
+25 effective date of this Section. The salaries of the employees shall continue to be paid
+26 from the same sources and in the manner in which they are paid on December 31,
+27 2026. The employees shall continue to be entitled to participate in the same health
+28 and life insurance plans they are participating in on December 31, 2026.
+Page 8 of 26
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1258 ENGROSSED
+HB NO. 911
+1 §621.42. Forty-First Judicial District; office or positions and functions
+2 The Forty-First Judicial District Court shall have a position or office of
+3 judicial administrator, deputy judicial administrator, and assistants as needed and
+4 shall provide for the conduct of the jury commission and sanity hearings, the cost of
+5 all of which shall be allocated by the Judicial Budgetary Control Council to such
+6 court; however, the positions provided for in R.S. 13:1384 shall be paid as required
+7 by the provisions of that Section.
+8 §621.43. Abolition of Orleans Parish Juvenile Court; extension of terms of office;
+9 jurisdiction; conferred on Forty-First Judicial District Court; transfer of cases
+10 A. The Orleans Parish Juvenile Court is abolished effective December 31,
+11 2026. The terms of office of the judges of the juvenile court now in office shall be
+12 extended until December 31, 2026. After the effective date of this Section, no judge
+13 shall be elected to the Orleans Parish Juvenile Court except to fill a vacancy and in
+14 such case the term of office shall expire on December 31, 2026.
+15 B. It is the express intent of this Section that the jurisdiction conferred by
+16 law, particularly the Louisiana Children's Code, upon the Orleans Parish Juvenile
+17 Court, shall be vested in the Forty-First Judicial District Court and shall be the same
+18 as it exists on the effective date of this Section. All of its powers, its duties, and its
+19 various departments or its personnel, except as provided in this Section, shall be
+20 vested in the Forty-First Judicial District Court as provided in this Section and R.S.
+21 13:621.45 and 621.46.
+22 C. Effective January 1, 2027, all pending cases filed in the Orleans Parish
+23 Juvenile Court are hereby transferred to the Forty-First Judicial District Court for the
+24 parish of Orleans. All records and files of the Orleans Parish Juvenile Court shall be
+25 transferred to the Forty-First Judicial District Court, which shall hear and dispose of
+26 each such case with the same legal effect as if it had been instituted in that court in
+27 the first instance.
+Page 9 of 26
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1258 ENGROSSED
+HB NO. 911
+1 §621.44. Forty-First Judicial District Court; initial judges; term of office; election;
+2 juvenile section
+3 The judges of the Forty-First Judicial District Court in office on January 1,
+4 2027, shall en banc create the Juvenile Section of that court. The rule shall designate
+5 not less than two judges who shall be assigned all cases involving juvenile matters
+6 over which the district court has jurisdiction.
+7 §621.45. Implementing legislation
+8 The legislature shall enact any such other legislation necessary to effectuate
+9 the provisions transferring jurisdiction over juvenile matters to the Forty-First
+10 Judicial District Court.
+11 * * *
+12 SUBPART D. MAGISTRATES AND COMMISSIONERS
+13 * * *
+14 §714.1. Magistrate Section, Forty-First Judicial District; judge; election; salary;
+15 powers; jurisdiction
+16 A. In addition to the judges provided for in R.S. 13:621.41(C), there shall be
+17 one additional judgeship who shall be assigned to the Magistrate Section of the
+18 Forty-First Judicial District Court, except as otherwise provided for in this Section.
+19 The judge shall be known as the magistrate and shall preside over the Magistrate
+20 Section. The magistrate shall receive the same salary, payable in the same manner,
+21 as the state pays to the other judges of the Forty-First Judicial District Court. The
+22 magistrate shall be elected at the same time, shall take office at the same time, and
+23 shall serve for the same term of office as the other judges of the Forty-First Judicial
+24 District Court. The magistrate shall be a member of the court sitting en banc.
+25 B. The magistrate shall have and possess all of the powers, duties,
+26 jurisdiction, rights, prerogatives, and qualifications as are now prescribed by the
+27 constitution and laws of this state relative to judges of the Forty-First Judicial
+28 District Court, except as provided herein.
+Page 10 of 26
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1258 ENGROSSED
+HB NO. 911
+1 C. The magistrate shall have jurisdiction to act as committing magistrate in
+2 felony and misdemeanor charges and to hold preliminary examinations, with the
+3 authority to bail or discharge, or to hold for trial, in all cases before the Forty-First
+4 Judicial District Court, and shall have the power to adopt all necessary rules with
+5 respect thereto.
+6 D. The magistrate shall hear preliminary motions, conduct extradition
+7 hearings, accept pleas in misdemeanor cases, hear and render judgments in other
+8 matters, including misdemeanor cases, preliminary to the trial on the merits, conduct
+9 trials of misdemeanor cases, preside over jury trials of misdemeanor cases, and sign
+10 and issue search and arrest warrants upon probable cause being shown in accordance
+11 with law. The magistrate shall have the right to appoint a court reporter, deputy
+12 court reporter, and minute clerk as provided by law, and the sheriff for the parish
+13 shall appoint a crier and deputy sheriff for the section of the court created herein as
+14 provided by law.
+15 E. The Forty-First Judicial District Court, including the magistrate of the
+16 Magistrate Section of said court, acting en banc, shall prescribe rules and procedures
+17 not inconsistent with the constitution and laws of this state to be followed in all
+18 matters to be presented before the Magistrate Section.
+19 §714.2. Commissioners; Magistrate Section; Forty-First Judicial District Court
+20 A.(1) There shall be up to two commissioners appointed to the Magistrate
+21 Section of the Forty-First Judicial District Court. The persons appointed to the
+22 offices of commissioner created by this Section shall be known as commissioners
+23 and shall not be judges, but shall have the same qualifications, powers, duties,
+24 jurisdiction, and functions, all as is now or hereafter provided for the judge in the
+25 Magistrate Section of the Forty-First Judicial District Court. The commissioners
+26 shall serve a term of six years.
+27 (2) The salary of the commissioners of the Forty-First Judicial District Court
+28 for the parish shall be fifty-five percent of the salary paid to a judge of the
+29 Forty-First Judicial District Court, said salary and related benefits as provided for by
+Page 11 of 26
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1258 ENGROSSED
+HB NO. 911
+1 law, to be payable in the same manner and from the same sources as the salary and
+2 benefits of a judge of the Forty-First Judicial District Court. The support services
+3 and personnel including minute clerks and stenographers, as shall be necessary for
+4 the offices of commissioner, and such supporting services and personnel shall be
+5 paid in the same amount and from the same source as they are paid on December 31,
+6 2026.
+7 (3) The judges of the Forty-First Judicial District Court, sitting en banc, shall
+8 determine the further powers, duties, functions, and policy affecting the offices of
+9 commissioner, not inconsistent with the provisions of this Section.
+10 B. Should there be a vacancy created by the removal, resignation, or death
+11 of any commissioner, the judges of the district court, sitting en banc, shall fill the
+12 vacancy by appointment for the unexpired term. At the termination of the initial
+13 term and any subsequent terms of a commissioner, said judges, sitting en banc, shall
+14 appoint successors to the office for like terms. All commissioners are subject to
+15 removal for any reason for which a judge of the Forty-First Judicial District Court
+16 may be removed from office. Such removal shall be by order of the judges sitting
+17 en banc, after notice and hearing. No person shall serve as commissioner unless he
+18 has practiced law in the state of Louisiana for a period of not less than five years.
+19 C. No commissioner of the magistrate office shall practice law before the
+20 Forty-First Judicial District Court.
+21 * * *
+22 SUBPART B. CLERKS
+23 * * *
+24 §751.1. Clerk of the Forty-First Judicial District Court
+25 A. There shall be one clerk of the Forty-First Judicial District Court who
+26 shall be elected by the qualified electors of Orleans Parish. He shall be elected at the
+27 election for parochial and municipal officers in Orleans Parish, shall serve for a term
+28 of four years, and shall take office and begin his term on the first Monday in May
+29 following election. The clerk shall be called the clerk of court of the Forty-First
+Page 12 of 26
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1258 ENGROSSED
+HB NO. 911
+1 Judicial District Court. No separate clerk of the Civil District Court for the parish
+2 of Orleans and no separate clerk of the Criminal District Court for the parish of
+3 Orleans shall be elected after their current term of office expires. At the expiration
+4 of the current term of the Clerk of the Criminal District Court, the separate offices
+5 of the clerk of the Civil District Court for the parish of Orleans, the clerk of court of
+6 the Criminal District Court for the parish of Orleans, and the clerk of court of the
+7 Juvenile Court for the parish of Orleans shall be abolished and the functions, duties,
+8 and responsibilities of their respective offices shall be merged and consolidated
+9 within the office of the clerk of court of the Forty-First Judicial District Court.
+10 C. All of the books, papers, records, monies, actions, and other property of
+11 every kind and description, movable and immovable, real and personal, possessed,
+12 controlled, or used by the clerk of the Civil District Court for the parish of Orleans
+13 and the clerk of the Criminal District Court for the parish of Orleans shall be
+14 transferred and be owned, possessed, controlled, and used by the clerk of the
+15 Forty-First Judicial District Court.
+16 D. The employees of the clerk of the Civil District Court for the parish of
+17 Orleans, the clerk of the Criminal District Court for the parish of Orleans, and the
+18 Juvenile Court of the parish of Orleans shall be transferred in accordance with this
+19 Section, to the extent required and in accordance with applicable civil service laws
+20 and rules, and shall be subject to the supervision and control of the clerk of the
+21 Forty-First Judicial District Court. The employees transferred in accordance with this
+22 Section shall continue to contribute to the retirement system or pension fund to
+23 which they were contributing on the effective date of this Section, including the
+24 retention of all accrued benefits and contributions to which they were entitled on the
+25 effective date of this Section. The salaries of the employees of the clerk of Civil
+26 District Court and the clerk of Criminal District Court shall continue to be paid from
+27 the same sources and in the manner in which they were paid on the effective date of
+28 this Section.
+29 §751.2. Salary
+Page 13 of 26
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1258 ENGROSSED
+HB NO. 911
+1 The provisions of R.S. 13:782 shall apply to the clerk of the Forty-First
+2 Judicial District Court except as otherwise provided therein and he shall receive a
+3 salary as established in R.S. 13:782(A) based on the applicable population of the
+4 parish according to the latest United States census which shall be payable out of the
+5 Consolidated Judicial Expense Fund.
+6 §751.3. Expenses
+7 In addition to his salary, the clerk of the Forty-First Judicial District Court
+8 shall receive a sum not to exceed ten percent of his annual salary as an expense
+9 allowance. This allowance shall be payable out of the expense fund or its successor
+10 upon the warrant of the clerk.
+11 §751.4. Clerk’s salary fund
+12 Except as provided in R.S. 13:783(C), the clerk of the Forty-First Judicial
+13 District Court shall collect all fees and charges due his office and deposit them in a
+14 fund known as the Clerk’s Salary Fund. The clerk shall keep an accurate set of
+15 books in connection with this fund showing all receipts of his office, including
+16 notarial fees, and all expenditures. On or before the tenth of October each year, he
+17 shall render a statement from the books for the fiscal year beginning July first and
+18 ending June thirtieth to the governing body of the parish. A clerk who fails to
+19 comply with this Section shall forfeit to the parish fifty percent of the compensation
+20 received by him under R.S. 13:782.
+21 §751.5. Cross-references
+22 The provisions of R.S. 13:750 and 750.1 shall apply in Orleans Parish.
+23 * * *
+24 SUBPART C. FEES
+25 * * *
+26 §841.3. Fees; clerk for the Forty-First Judicial District; collection
+27 The clerk of the Forty-First Judicial District Court shall collect the fees set
+28 forth in R.S. 13:1213, 1213.1, 1381, 1595.3, 2157, and any other fees required by
+29 statute to be paid to or collected by the clerks of the Civil District Court for the
+Page 14 of 26
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1258 ENGROSSED
+HB NO. 911
+1 parish of Orleans, the Criminal District Court for the parish of Orleans, the Juvenile
+2 Court for the parish of Orleans, or the First or Second City Court of the City of New
+3 Orleans and shall deposit no less than fifty percent of the amounts collected in the
+4 Clerk's Operational Fund. The remaining funds shall be deposited in the
+5 Consolidated Judicial Expense Fund.
+6 * * *
+7 §842. Advance costs
+8 A. The clerks of the district courts shall demand and receive from the
+9 plaintiff or plaintiffs in each ordinary suit, whether accompanied by conservatory
+10 writs or not, not less than twenty dollars or such other amount as may be fixed by
+11 law for advanced costs, to be disbursed to the clerk's salary fund or to others as their
+12 fees accrue. Whenever the costs have exhausted the amount of the original advance
+13 deposit, the clerk may refuse to perform any further function in the proceeding until
+14 the additional costs for the function have been paid, in accordance with the fees set
+15 forth in R.S. 13:841 or, in Orleans Parish , the Forty-First Judicial District Court as
+16 set forth in R.S. 13:841.3 or, in R.S. 13:1213.
+17 * * *
+18 §983. Court reporters for the Forty-First Judicial District Court
+19 A.(1) Each judge of the Forty-First Judicial District may appoint no more
+20 than two court reporters for his division, which reporters shall hold office until it is
+21 declared vacated by the judge making such appointment.
+22 (2) The judges of the Forty-First Judicial District, sitting en banc and with
+23 approval of the governing authority of the parish, may appoint additional qualified
+24 court reporters as they deem necessary, who shall serve at the pleasure of the court
+25 en banc and may be assigned to the various divisions of the court, or to the grand
+26 jury, as the court en banc may direct.
+27 B. Each court reporter appointed under the provisions of this Section shall
+28 be required to take an oath of office and furnish bond for the faithful performance
+29 of the duties of the office. The bond shall be in favor of the judges of the Forty-First
+Page 15 of 26
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1258 ENGROSSED
+HB NO. 911
+1 Judicial District Court for the purpose of protecting litigants against any acts of
+2 incompetence or neglect of duty by the court reporter. The bond shall be recorded
+3 and filed in the office of the clerk of court. Any party litigant shall have the right to
+4 sue on said bond for any damages sustained through any wrongful act or neglect of
+5 duty by the court reporter in the performance of his duties as official court reporter.
+6 C. The court reporters shall report in shorthand, stenotype, by recording
+7 machine, or in any recognized manner, and transcribe into longhand by typing or
+8 printing all the testimony taken in all civil appealable cases and shall furnish for the
+9 purposes of appeal the necessary copies of the testimony required by law.
+10 D. The court reporters shall work concurrently under the direction and
+11 supervision of the judges appointing them, according to the needs of the judicial
+12 district, in the interest of expediting the business before the court.
+13 E. Each court reporter shall perform secretarial duties for the district judge
+14 appointing the reporter, particularly in the absence of the judge's regular secretary.
+15 F. The court reporters shall receive a monthly salary to be fixed and
+16 determined by the judges of the Forty-First Judicial District sitting en banc, upon
+17 approval of the governing authority of the parish. The salaries shall be paid out of
+18 the general fund of the parish. The governing authority for the parish shall budget
+19 the salaries in its budget of annual expenses. Upon approval by the court, a portion
+20 thereof may be paid out of the Consolidated Expense Fund for the Forty-First
+21 Judicial District.
+22 G.(1)(a) In all civil cases, a fee of one dollar and fifty cents per original page
+23 of transcript, fifty cents per page for additional pages of original transcript for the
+24 first copy, and thirty-five cents per page for additional copies reported and
+25 transcribed beyond the first copy shall be charged by and paid to the court reporter
+26 for reports and for transcribing the testimony which shall be retained by him as
+27 compensation in addition to the salary as provided herein, and shall be taxed as costs
+28 of the suit in which the testimony is taken to be collected by the clerk of court,
+29 except in pauper cases.
+Page 16 of 26
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1258 ENGROSSED
+HB NO. 911
+1 (b) Payment of the fees shall be made primarily by the appellant immediately
+2 upon the transcription of the evidence, and the court reporter shall not be required
+3 to file the transcript with the clerk of court before payment.
+4 (2) Should the appellant fail or refuse to make such payment, the appellee
+5 or any other party to the suit may make the same and have it assessed as costs.
+6 (3) Even though counsel may attempt to procure a transcript of the entire
+7 record by alleging that the entire record is necessary to support a motion for a new
+8 trial, the trial judge shall not order the entire transcript to be typed unless he deems
+9 it indispensable to the record of the motion or proceedings.
+10 H.(1)(a) In all pauper cases under Code of Civil Procedure Article 5181 et
+11 seq., the governing authority for the parish shall pay to the court reporter for the
+12 transcribing of testimony, when an appeal is taken or upon order of the judge,
+13 one-half of the amount as would otherwise be required to be paid by the party who
+14 is proceeding in forma pauperis.
+15 (b) Such amount shall be paid at the time the transcription is filed, but only
+16 upon the written approval and order of the judge.
+17 (c) Such payments by the parish shall not exceed the sum of twenty-five
+18 hundred dollars for any one year.
+19 (2) The governing authority of the parish, upon making payment to any court
+20 reporter pursuant to this Section shall be legally subrogated to the rights of the court
+21 reporter as to all sums so paid for the transcription of testimony in pauper cases.
+22 (3) All judgments in cases in which the pauper shall be cast for costs,
+23 together with the statement of such costs, shall be recorded by the clerk of court in
+24 the mortgage records of the parish and such judgments when so recorded shall
+25 operate as judicial mortgages in favor of the parish governing authority.
+26 I.(1) The court reporters shall record such criminal proceedings as may be
+27 required by law or as ordered by the court.
+28 (2)(a) No fee shall be charged for taking evidence on assignments of error,
+29 motions, or other pleadings in criminal cases, unless approved by the presiding
+30 judge.
+Page 17 of 26
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1258 ENGROSSED
+HB NO. 911
+1 (b) When so approved, any such payment may be made from the
+2 Consolidated Expense Fund for the Forty-First Judicial District when the defendant
+3 is indigent and judges sitting en banc have approved the payment.
+4 (c) In such cases, however, only properly designated portions of the record
+5 shall be transcribed.
+6 J. The court reporters shall be provided with any office supplies necessary
+7 for the reporting and transcription of any notes of evidence taken by the court
+8 reporters. Each court reporter shall be responsible for all traveling expenses and
+9 other expenses incurred in the discharge of his duties.
+10 K. In criminal cases, the notes shall be maintained indefinitely and shall be
+11 returned to the appropriate court upon termination of employment. In other matters,
+12 the court reporters shall file and maintain their notes for a period of one year after
+13 judgment has become final.
+14 L. The clerk of court shall collect from every person filing any civil suit or
+15 proceeding, and who is not otherwise exempted by law from the payment of court
+16 costs, a sum to be determined by the judges of the district, sitting en banc, which sum
+17 shall not exceed fifteen dollars, subject, however, to the provisions of Code of Civil
+18 Procedure Article 5181 et seq.
+19 M.(1) The additional cost of fourteen dollars may be taxed against every
+20 nonindigent defendant who is convicted after trial or after a plea of guilty or who
+21 forfeits his bond in connection with any other criminal offense.
+22 (2) All funds received pursuant to this Section shall be used to pay court
+23 reporter fees for transcripts prepared for indigent defendants, including bills of
+24 exceptions, trials, motions, hearings on writs, and all court proceedings.
+25 (3) The judges of the Forty-First Judicial District Court, sitting en banc, may,
+26 by a majority vote of all members, authorize the payment of fees, to be determined
+27 by the court, to the deputy court reporters for the transcription of indigent defendant
+28 cases.
+29 * * *
+Page 18 of 26
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1258 ENGROSSED
+HB NO. 911
+1 §996.62. Consolidated Judicial Expense Fund for the Forty-First Judicial District
+2 A.(1) Effective January 1, 2027, there is hereby created a fund for the Forty-
+3 First Judicial District Court, the juvenile court for the parish of Orleans, and the First
+4 and Second City Courts of the city of New Orleans which shall be known as the
+5 “Consolidated Judicial Expense Fund.” As used in this Section, “judges” means the
+6 judges of the courts enumerated in this Subsection.
+7 (2) There is hereby created a committee of the following judges: three judges
+8 from the civil district court who shall be the chief judge and two of his designees,
+9 three judges from the criminal district court, including the magistrate judge, who
+10 shall be the chief judge and two of his designees, one judge from the juvenile court
+11 for the parish of Orleans with the most seniority, and one judge from the first or
+12 second city court with the most seniority. The chairman of the committee shall be
+13 elected by majority vote and serve for one year on a rotating basis among each court.
+14 (3) Beginning on January 1, 2027, the committee designated in Paragraph (2)
+15 of this Subsection shall:
+16 (a) Review all funds and funding sources for the courts enumerated in this
+17 Subsection.
+18 (b) Have an audit conducted by an independent certified public account of all
+19 monies, deposits and accounts possessed, controlled, exercised, or used by a court
+20 or judge.
+21 (c) Identify all obligations and debts of the courts enumerated in this
+22 Subsection.
+23 (d) Recommend appropriate funding levels and the sources for such funding
+24 for the courts.
+25 (e) Recommend the appropriate method for consolidating all funds, monies,
+26 deposits, accounts, obligations and debts of the enumerated courts into the
+27 Consolidated Judicial Expense Fund.
+28 (4) The committee shall report its findings and recommendations to the
+29 Senate Committee on Judiciary A and the House Committee on Judiciary not later
+30 than January 1, 2028.
+Page 19 of 26
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1258 ENGROSSED
+HB NO. 911
+1 B.(1) Notwithstanding any other law to the contrary, effective January 1,
+2 2029, all monies, deposits, accounts heretofore possessed, controlled, exercised, or
+3 used by a court or judge separately or collectively, enumerated in Subsection A of
+4 this Section shall be transferred to the Consolidated Judicial Expense Fund, in
+5 accordance with the recommendations of the Consolidation Review Committee, and
+6 monies so allocated to the fund shall be continued to be paid from the same sources
+7 as provided therein into a special account designated as the Consolidated Judicial
+8 Expense Fund.
+9 (2) This Section shall not apply to those funds collected pursuant to R.S.
+10 13:1141(A) and R.S. 13:1381.1.
+11 (3) The judges shall cause to be conducted annually an audit of the fund and
+12 the books and accounts relating thereto, and shall file the same with the office of the
+13 legislative auditor where it shall be available for public inspection.
+14 (4) The monies in the Consolidated Judicial Expense Fund may be used for
+15 any purpose connected with, incidental to, or related to the proper administration or
+16 function of the courts and judges designated in Subsection A of this Section or the
+17 offices of the judges thereof and is in addition to any and all other funds, salaries,
+18 expenses, or other monies that are provided, authorized, or established by law. The
+19 establishment of the Consolidated Judicial Expense Fund in no way relieves or
+20 extinguishes any obligation of the city of New Orleans to fund the court system.
+21 (5) The judges, en banc, may further appoint such secretarial, clerical,
+22 research, administrative, or other personnel as they deem necessary to expedite the
+23 business and function of the court and fix and pay all or any part of the salaries of
+24 such personnel out of the monies in the Consolidated Judicial Expense Fund. In like
+25 manner, the judges, en banc, may utilize the monies in the Consolidated Judicial
+26 Expense Fund to pay all or any part of the cost of establishing or maintaining, or
+27 both, a law library for the court, or for buying or maintaining, or both, any type of
+28 equipment, supplies, or other items consistent with or germane to the efficient
+29 operation of the court. In general, the Consolidated Judicial Expense Fund is
+30 established and may be used for any purpose or purposes connected with, incidental
+Page 20 of 26
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1258 ENGROSSED
+HB NO. 911
+1 to, or related to the proper administration or function of the said court or the offices
+2 of the individual judges and is in addition to any and all other funds, salaries,
+3 expenses, or other monies that are now or hereafter provided, authorized, or
+4 established by law for any of the aforesaid purposes.
+5 C.(1) The judges, en banc, may utilize the monies in the Judicial Expense
+6 Fund to pay all or any part of the cost of planning, designing, and constructing a new
+7 courthouse for the parish, which may house the following courts and all related
+8 support offices:
+9 (a) District court for the parish.
+10 (b) City courts.
+11 (c) Juvenile courts.
+12 (2) Any contract for the planning, designing, or construction of a new
+13 courthouse shall be subject to the public bid laws. The provisions of this Subsection
+14 shall not affect the obligation of the city of New Orleans to provide buildings to
+15 house the Civil District Court and the other courts housed therein and the Criminal
+16 District Court.
+17 D. The legislature hereby specifically states that this Section is in no way
+18 and to no extent intended to nor shall it be construed in any manner which will
+19 impair the contractual or other obligations of any fund transferred by this Subpart or
+20 of the state of Louisiana. It is hereby specifically provided that all obligations of any
+21 fund transferred in accordance with this Subpart hereafter shall be deemed to be the
+22 obligations of the Consolidated Judicial Expense Fund for the Forty-First Judicial
+23 District to which the fund is transferred to the same extent as if originally made by
+24 said fund. This transfer of obligations shall in no way create a personal obligation
+25 for any judge of the Forty-First Judicial District Court, if no such obligation existed
+26 prior to the transfer. In like manner, and in order to prevent any violation of the
+27 provisions, terms, or conditions of any gift, donation, deed, will, trust, or other
+28 instrument or disposition by which property of any kind has been vested in a fund
+29 transferred by this Section, or diversion from the purposes for which such property
+30 was thus vested in any fund, it is hereby specifically provided that each such
+Page 21 of 26
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1258 ENGROSSED
+HB NO. 911
+1 instrument or disposition hereafter shall be deemed to have been vested in the
+2 Consolidated Judicial Expense Fund for the Forty-First Judicial District to which the
+3 fund is transferred in the same manner and to the same extent as if originally so
+4 done.
+5 E. The Consolidated Judicial Expense Fund for the Forty-First Judicial
+6 District to which each fund is transferred shall be the successor in every way to each
+7 fund transferred and from which functions are or may be merged and consolidated,
+8 including all of the obligations and debts of each fund. In like manner, all other
+9 dedications and allocations of revenues and sources of revenues heretofore made,
+10 which are constitutional under the Constitution of Louisiana of 1974, shall continue,
+11 until otherwise hereafter provided by the constitution, in the same manner, to the
+12 same extent, and for the same purposes as were provided prior to the enactment of
+13 this Section.
+14 F. The provisions of this Section shall not be construed or applied in any way
+15 which will prevent full compliance by the state, or any department, office, or agency
+16 thereof, with the requirements of any Act of the Congress of the United States or any
+17 regulation made thereunder by which federal aid or other federal assistance has been
+18 or hereafter is made available to this state, or any department, office, agency, or
+19 subdivision thereof, anything contained in this Subpart to the contrary
+20 notwithstanding, and such compliance hereafter shall be insofar as such compliance
+21 affects any fund transferred in accordance with the provisions of this Section.
+22 G. Upon the transfer of each fund in accordance with this Section, any
+23 pending or unfinished business of each such fund shall be taken over and be
+24 completed by the Consolidated Judicial Expense Fund for the Forty-First Judicial
+25 District with the same power and authority as that of the fund transferred. The
+26 Consolidated Judicial Expense Fund shall be the successor in every way to each
+27 fund, and every act done by the Consolidated Judicial Expense Fund in the exercise
+28 of the functions of each shall be deemed to have the same force and effect under any
+Page 22 of 26
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1258 ENGROSSED
+HB NO. 911
+1 provisions of the constitution and laws in effect on the effective date of this Section
+2 as if done by the fund transferred.
+3 * * *
+4 §1381. Fees
+5 The following charges may be made for the services of the clerk of the
+6 criminal district court Forty-First Judicial District Court:
+7 * * *
+8 Section 5. Except as expressly otherwise provided in this Act, the term "clerk of
+9 court" shall mean the clerk of the Civil District Court for the parish of Orleans, until such
+10 time as the clerk of the Forty-First Judicial District Court has been elected and takes office,
+11 after which time references to the clerk of court shall mean the clerk of the Forty-First
+12 Judicial District Court.
+13 Section 6. The city of New Orleans shall continue to provide quarters for the conduct
+14 of the functions of the offices transferred to the clerk of court as provided in this Act in the
+15 city of New Orleans in the building in which the Civil Section of the Forty-First Judicial
+16 District Court holds court or other quarters contiguous thereto which shall be good and
+17 sufficient for the proper and efficient operation of the recordation of records and documents,
+18 including the installation and maintenance of appropriate fire protection and climate control
+19 systems.
+20 Section 7. All books, papers, records, money, actions, and other property of every
+21 kind and description, movable and immovable, real and personal, possessed, controlled, or
+22 used by each office transferred to the clerk of court by this Act shall be transferred with each
+23 office to the office of the clerk of court as the parish recorder and shall continue to be
+24 controlled and used by each office so transferred until the respective office is abolished as
+25 provided in this Act.
+26 Section 8. The legislature hereby specifically states that this Act is in no way and
+27 to no extent intended to nor shall it be construed in any manner which will impair the
+28 contractual or other obligations of any office transferred by this Act.
+29 Section 9. This Act shall not be construed or applied in any way which will prevent
+30 full compliance with the requirements of any Act of Congress of the United States or any
+Page 23 of 26
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1258 ENGROSSED
+HB NO. 911
+1 regulation made thereunder by which federal aid or other federal assistance has been or
+2 hereafter is made available.
+3 Section 10. Any legal proceeding to which any office transferred to the clerk of court
+4 in accordance with the provisions of this Act is a party and which is filed, initiated, or
+5 otherwise pending before any court on the effective date of such transfer, and all documents
+6 involved in or affected by any such legal proceeding, shall retain their effectiveness and shall
+7 be continued in the name of the office so transferred. All further legal proceedings and
+8 documents in the continuation, disposition, and enforcement of said legal proceeding shall
+9 be applicable to the office of clerk of court as the parish recorder without the necessity for
+10 amendment of any document.
+11 Section 11.(A) R.S. 13:1031 through 1147, 1271 through 1312, 1335 through 1347,
+12 1381.1 through 1400, 1566 through 1568.3, 1587.1 through 1587.2, and 1593 through 1595.3
+13 are hereby repealed in their entirety effective on January 1, 2027.
+14 (B) R.S. 13:1211 through 1212.1, 1371, and 1372 are hereby repealed in their
+15 entirety on the date that the clerk of the Forty-First Judicial District Court takes office.
+16 Section 12. This Section and Sections 4 through 18 of this Act shall become
+17 effective upon signature by the governor or, if not signed by the governor, upon expiration
+18 of the time for bills to become law without signature by the governor, as provided by Article
+19 III, Section 18 of the Constitution of Louisiana. If this Act is vetoed by the governor and
+20 subsequently approved by the legislature, the provisions of this Section, Sections 4 through
+21 18, of this Act shall become effective on the day following such approval.
+22 Section 13. The provisions of Section 2 of this Act shall become effective on
+23 January 1, 2027, except that the provisions of R.S. 13:621.41 and 714.1 shall be effective
+24 for purposes of qualifying and election of judges and magistrate of the Forty-First Judicial
+25 District Court to be held at the congressional election to be held in 2026.
+26 Section 14. All fees and costs assessed or collected by the clerk of the Civil District
+27 Court or the clerk of the Criminal District Court, for the parish of Orleans in effect on the
+28 effective date of this Section are continued and shall be assessed and collected in accordance
+29 with the provisions of law then in effect.
+Page 24 of 26
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1258 ENGROSSED
+HB NO. 911
+1 Section 15. The Louisiana State Law Institute is hereby directed to renumber and
+2 rearrange any sections or parts of Sections of this Act and make any such changes to
+3 references to other provisions of law consistent with the provisions of this Act. The
+4 Louisiana State Law Institute is also directed to submit such recommendations on or before
+5 March 1, 2027, as it deems necessary to clarify, modify, or repeal any of the provisions of
+6 this Act or any other provision of law, including the elimination of antiquated provisions
+7 consistent with the provisions of the Act.
+8 Section 16. If a vacancy occurs before December 31, 2026, in a division of civil or
+9 criminal court as specified in Section 2 of this Act to be abolished or in the office of the
+10 clerk of the criminal district court, no special election shall be held to fill the vacancy. In
+11 the case of the clerks of the civil and criminal district courts, the chief deputy of either office
+12 shall fill the unexpired term.
+DIGEST
+The digest printed below was prepared by House Legislative Services. It constitutes no part
+of the legislative instrument. The keyword, one-liner, abstract, and digest do not constitute
+part of the law or proof or indicia of legislative intent. [R.S. 1:13(B) and 24:177(E)]
+HB 911 Engrossed 2026 Regular Session McMakin
+Abstract: Provides for the complete reform and modernization of the judicial components
+of Orleans Parish.
+Present law provides for the Civil and Criminal District Courts for Orleans Parish, and the
+jurisdiction, compensation, authority, rule making ability, assignment, and designation of
+divisions, cases, expenses, costs, fees, and personnel, number of judges, commissioners, and
+magistrates allocated to divisions or sections, clerks of civil and criminal courts,
+compensation, fees, resultant judicial expenses, funds, deposits, bonds, retirement, and
+related duties and privileges, court reporters' selection, salary, and fees, magistrates and
+commissioners, their respective duties, jurisdiction, compensation, authority, and
+designations of the Civil and Criminal District Courts for Orleans Parish.
+Proposed law consolidates the civil and criminal courts, and the clerks of the respective
+courts into the 41st Judicial District Court, establishes one clerk of court for Orleans Parish,
+and otherwise would establish the salaries, composition, jurisdiction of such judicial
+officials, including magistrates and commissioners, and transfer all the duties, powers, and
+functions of the former offices to the consolidated office, would create the Consolidated
+Judicial Expense Fund for the 41st Judicial District Court, its authority, practices, duties, and
+privileges, and otherwise operate under a board, composed of certain judicial officials, and
+to otherwise establish consolidated public offices similar to the other 40 existing judicial
+districts in the state.
+Proposed law consolidates the clerks of the Civil and Criminal District Courts in Orleans
+Parish and provides for a single clerk for both courts. Provides that one clerk shall be
+elected at the municipal and parochial election in certain parishes in 2032. Transfers the
+Page 25 of 26
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1258 ENGROSSED
+HB NO. 911
+duties, powers, and functions of the former offices to the consolidated office. Provides that
+the salaries of employees of the clerk of the civil district court and the criminal district court
+shall continue to be paid from the same sources and in the manner in which they were paid
+on the effective date of proposed law. Requires the clerk of the 41st Judicial District Court
+to collect all fees and charges due to his office and deposit them in a fund known as the
+Clerk's Salary Fund. Requires the clerk to collect the fees set forth in R.S. 13:1213.1 and
+deposit no less than 60% of the amounts collected in the fund, and the remaining shall be
+deposited in the Consolidated Judicial Expense Fund.
+Proposed law provides that any employees who are transferred through the consolidation of
+the civil and criminal courts or the consolidation of the clerks of such courts shall continue
+to contribute to the retirement system or pension fund to which they were contributing on
+the effective date of the consolidation provisions, including the retention of all accrued
+benefits and contributions to which they were entitled at such time.
+Proposed law creates the "Consolidated Judicial Expense Fund" for the civil and criminal
+district courts, the juvenile court for the parish of Orleans, and the First and Second City
+Court of the city of New Orleans. Further provides that such fund and all disbursements shall
+be administered and controlled by a committee composed of 4 judges from the civil district
+court, 4 judges from the criminal district court including the magistrate, 2 judges from the
+juvenile court for the parish of Orleans, and 1 judge from the first or second city court
+selected by a majority of the judges of the courts sitting en banc. At least one member from
+the criminal district court, the civil district court, and the juvenile court serving shall be the
+most senior judge at his respective court.
+Proposed law requires that, effective Jan. 1, 2027, all funds of a court or judge of the city or
+parish courts of Orleans Parish, separately or collectively, shall be transferred to the
+Consolidated Judicial Expense Fund in accordance with the recommendations of the
+Consolidation Review Committee and monies allocated shall continued to be paid from the
+same sources into the consolidated fund. Exempts funds deposited in the Clerk's Salary
+Fund from such proposed requirement. Further provides that the funds in the consolidated
+fund may be used for any purpose related to the administration or function of the courts and
+judges or the offices of the judges and is in addition to any other funds, salaries, expenses,
+or other monies which are authorized by law.
+Proposed law provides for an annual audit of the consolidated fund by the judges which shall
+be filed with the legislative auditor and shall be available for public inspection.
+Proposed law authorizes the use of the monies in the Judicial Expense Fund to pay all or part
+of expenses related to the construction of a new parish courthouse; however, further provides
+that such authorization does not affect the obligation of New Orleans to provide buildings
+to house the civil district court and the other related courts and the criminal district court.
+( Amends R.S. 13:1, 842(A), and 1381(introductory paragraph); Adds R.S. 13:474.1,
+477(41), 621.41-621.45, 714.1, 714.2, 751.1-751.5, 841.3, 983, 996.62-996.64; Repeals R.S.
+9:2745, R.S. 13:1031-1147, 1211-1212.1, 1271-1312, 1335-1347, 1371, 1372, 1377, 1381.1-
+1400, 1566-1568.3, 1587.1, 1587.2 and 1593-1595.3)
+Summary of Amendments Adopted by House
+The Committee Amendments Proposed by House Committee on Judiciary to the original
+bill:
+1. Make technical corrections.
+Page 26 of 26
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
