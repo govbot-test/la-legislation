@@ -1,0 +1,261 @@
+Title: 
+Official Title: 
+Source: versions - HB856 Act 678
+Media Type: application/pdf
+
+================================================================================
+
+ENROLLED
+ACT No. 678
+2026 Regular Session
+HOUSE BILL NO. 856
+BY REPRESENTATIVES FONTENOT AND THOMPSON
+1 AN ACT
+2 To amend and reenact R.S. 44:4.1(B)(34) and to enact R.S. 48:250.5, relative to Indefinite
+3 Delivery, Indefinite Quantity construction contracts; to authorize the Department of
+4 Transportation and Development and the office of Louisiana highway construction,
+5 respectively, to use Indefinite Delivery, Indefinite Quantity (ID/IQ) contracting for
+6 certain projects; to provide for solicitation of single or multiple competitive low-bid
+7 and best value ID/IQ construction phase contracts including multiple work orders
+8 and multiple awards; to provide for definitions; to provide for procedures and
+9 requirements for procurement and contracting; to provide for confidentiality of the
+10 evaluation process; to provide contract term limits; to provide for rulemaking; to
+11 provide for an effective date; and to provide for related matters.
+12 Be it enacted by the Legislature of Louisiana:
+13 Section 1. R.S. 44:4.1(B)(34) is hereby amended and reenacted to read as follows:
+14 §4.1. Exceptions
+15 * * *
+16 B. The legislature further recognizes that there exist exceptions, exemptions,
+17 and limitations to the laws pertaining to public records throughout the revised
+18 statutes and codes of this state. Therefore, the following exceptions, exemptions, and
+19 limitations are hereby continued in effect by incorporation into this Chapter by
+20 citation:
+21 * * *
+22 (34) R.S. 48:255.1 R.S. 48:250.5, 255.1
+23 * * *
+Page 1 of 8
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HB NO. 856 ENROLLED
+1 Section 2. R.S. 48:250.5 is hereby enacted to read as follows:
+2 §250.5. Indefinite Delivery, Indefinite Quantity construction contracts
+3 A. The legislature declares it to be in the public interest to increase
+4 efficiency and improve operational readiness in the construction and maintenance
+5 of state highways and bridges. Notwithstanding any other provision of law to the
+6 contrary, the requirements of this Part, if the secretary or the executive director of
+7 the office of Louisiana highway construction determines it is in the best interest of
+8 the public, the department or office of Louisiana highway construction may
+9 respectively procure and award indefinite delivery, indefinite quantity construction
+10 contracts pursuant to the requirements of this Section for the maintenance,
+11 preservation, reconstruction, rehabilitation, repair, and construction projects let by
+12 the department and the office of Louisiana highway construction, respectively, and
+13 related incidental work.
+14 B. As used in this Section, the following terms shall have the following
+15 meanings:
+16 (1) "Best value" means a selection process in which proposals contain price
+17 and qualitative components and award of one or multiple of the Indefinite Delivery,
+18 Indefinite Quantity contract is based upon a combination of price and qualitative
+19 considerations as provided in the solicitation documents.
+20 (2) "Indefinite Delivery, Indefinite Quantity (ID/IQ)" means a method of
+21 contracting that allows for delivery of an indefinite quantity of services over a fixed
+22 duration under which delivery of specific construction and construction-related
+23 services is authorized by work orders.
+24 (3) "Indefinite Delivery, Indefinite Quantity (ID/IQ) construction contract"
+25 means the principal contract awarded to an ID/IQ contractor pursuant to the
+26 requirements of this Section.
+27 (4) "Low bid" means a selection process in which proposals are evaluated
+28 based on the proposed price from the lowest responsible bidder.
+Page 2 of 8
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HB NO. 856 ENROLLED
+1 (5) "Multiple award" means an ID/IQ procurement where awards of ID/IQ
+2 construction contracts for the same scope of services are made to multiple ID/IQ
+3 contractors through a single procurement.
+4 (6) "Single award" means an ID/IQ procurement where award of the ID/IQ
+5 construction contract is made to a single ID/IQ contractor.
+6 (7) "Work order" means a contract document issued for a definite scope of
+7 work pursuant to an ID/IQ construction contract. A work order shall provide the
+8 location, time, and scope of work required and authorizes the ID/IQ contractor to
+9 deliver the scope of services described in the work order. It also provides required
+10 pay items, quantities, and unit prices, as applicable.
+11 C. For federal aid projects, the department and the office of Louisiana
+12 highway construction, respectively, shall comply with all federal laws and
+13 regulations that are conditions to federal participation, including but not limited to
+14 provisions of 2 CFR 200 and 23 CFR Part 635, Subpart F, as amended. In the event
+15 of a conflict between applicable required federal laws or regulations and the
+16 provisions of Title 48 and any state rules or regulations, the federal laws or
+17 regulations shall control on federal aid projects.
+18 D. Procurements pursuant to this Section may include single award or
+19 multiple award ID/IQ construction contracts. The legislature authorizes the
+20 department and the office of Louisiana highway construction to procure ID/IQ
+21 contracts using low bid and best value methods, and to award such contracts and any
+22 resulting work orders using low bid or best value, as specified in the solicitation
+23 documents. All procurement documents issued by the department and the office of
+24 Louisiana highway construction, respectively, including the NOI and RFP, shall
+25 indicate whether a single award or multiple awards will be made. Materials
+26 separately acquired by the department or office of Louisiana highway construction
+27 may be provided to contractors for use under and as a condition of any ID/IQ
+28 contract.
+29 E. Procurement and award of ID/IQ construction contacts shall meet the
+30 following requirements:
+Page 3 of 8
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HB NO. 856 ENROLLED
+1 (1) Single award ID/IQ construction contracts procured on a low-bid basis
+2 may be advertised and awarded using one of the following methods:
+3 (a) In accordance with R.S. 48:252 and 255 for award to the lowest
+4 responsive and responsible bidder.
+5 (b) In accordance with the advertisement and award procedures set forth in
+6 this Section.
+7 (2) Multiple-award ID/IQ construction contracts may be procured on a low
+8 bid or best value basis, as determined by the department and office of Louisiana
+9 highway construction, respectively. Such procurements shall be conducted in
+10 accordance with applicable Louisiana public bid and procurement laws including the
+11 requirements for advertisements and the procedures set forth in this Section.
+12 (3)(a) The procurement of any multiple-award ID/IQ construction contract
+13 or a single award ID/IQ construction contract not advertised and awarded pursuant
+14 to R.S. 48:252 and 255, shall commence with the department and the office of
+15 Louisiana highway construction, respectively, issuing a "notice of intent" (NOI)
+16 through advertisement on their designated webpages to request letters of interest
+17 (LOI). The NOI shall be advertised for at least ten business days prior to the deadline
+18 for submission of LOI and shall include a description of the ID/IQ services to be
+19 procured. The department and the office of Louisiana highway construction may also
+20 readvertise the NOI using additional media or publications and may readvertise as
+21 necessary if the number of responses received is deemed insufficient to ensure
+22 adequate competition.
+23 (b) After the deadline for submission of LOI for a single-award or
+24 multiple-award ID/IQ construction contract, the department and office of Louisiana
+25 highway construction shall issue a Request for Proposals ("RFP") to all contractors
+26 that submitted an LOI. The RFP shall include instructions for proposal preparation
+27 and submission, a description of the evaluation methodology, and shall comply with
+28 the requirements of this Section.
+29 (c) Bid bonds in accordance with R.S. 48:253 shall be specified in the
+30 department and the office of Louisiana highway construction's standard
+Page 4 of 8
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HB NO. 856 ENROLLED
+1 specifications or special provisions. The department and the office of Louisiana
+2 highway construction may waive the requirement for bid bonds for procurements
+3 under this Section.
+4 (4)(a) The assistant secretary for project delivery, with the concurrence of
+5 the secretary or designee, and the executive director of the office of Louisiana
+6 highway construction , respectively, shall establish an evaluation committee for
+7 evaluation of proposals received in response to the RFP. The evaluation committee
+8 may, in its discretion, be assisted by other departments and office of Louisiana
+9 highway construction personnel and external advisors in the evaluation the
+10 proposals.
+11 (b) The evaluation committee shall evaluate the proposals and make a
+12 recommendation of award to the secretary and executive director. The secretary,
+13 executive director, or their designees, shall make the final determination of award.
+14 (5) Prior to issuing a work order under a multiple-award ID/IQ construction
+15 contract, the department and the office of Louisiana highway construction,
+16 respectively, shall solicit competitive responses from the contractors awarded ID/IQ
+17 contracts under the solicitation in accordance with procedures set forth in the ID/IQ
+18 construction contract. The procurement documents or contract shall state the
+19 procedures and selection criteria for issuance of work orders. Work orders shall be
+20 awarded on a competitive low bid basis, or, where permitted by applicable law and
+21 approved for use with federal funds, on a best value basis in which price is a
+22 significant evaluation factor.
+23 (6) Proposals received by the department and the office of Louisiana
+24 highway construction and the evaluation committee's records, including the
+25 evaluation committee's findings, grading, score sheets, and recommendations, shall
+26 not be public records until the ID/IQ construction contract has been fully executed
+27 or the procurement has been cancelled. Following contract execution or cancellation,
+28 such records shall be subject to disclosure in accordance with applicable public
+29 records laws. Proprietary, confidential, trade secret, or otherwise protected
+30 information will remain exempt to the extent permitted by law. The meetings of the
+Page 5 of 8
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HB NO. 856 ENROLLED
+1 evaluation committee will not be subject to the Open Meetings Law in Title 44 of the
+2 Louisiana Revised Statutes.
+3 F. The department and the office of Louisiana highway construction may
+4 include the following items in their procurement documents or contracts:
+5 (1) The method for determining price escalation or de-escalation procedures
+6 when warranted by particular circumstances.
+7 (2) Special provisions specific to ID/IQ construction contracts.
+8 (3) Unit pricing or lists of work items specific to the ID/IQ construction
+9 contract.
+10 (4) A minimum quantity or dollar value if the department and the office of
+11 Louisiana highway construction opts to set a minimum.
+12 (5) A statement of procedures and selection criteria the department and
+13 office of Louisiana highway construction shall use in issuing work orders.
+14 (6) Any other information, terms, or requirements the department and the
+15 office of Louisiana highway construction deem necessary to include in procurement
+16 documents or contracts.
+17 G. The term of the initial ID/IQ construction contract and any optional
+18 contract extensions shall not exceed five years. The duration of the initial term and
+19 the terms of individual contract extensions shall be determined by the department
+20 and the office of Louisiana highway construction, respectively. The ID/IQ
+21 construction contract shall serve as the underlying agreement that establishes the
+22 general terms and conditions governing the relationship between the department and
+23 the office of Louisiana highway construction, respectively, and the selected bidder.
+24 Execution of the ID/IQ construction contract shall not authorize work or serve as a
+25 notice to proceed.
+26 H. Payment bonds under R.S. 48:256.3, performance bonds under R.S.
+27 48:255(D), retainage bonds under R.S. 48:256.1, the minimum required warranty
+28 period under R.S. 48:251, and the general requirements of Part XIII of Chapter 1 of
+29 this Title shall apply to the value and completion of work under an individual work
+30 order rather than the value and completion of all work under the ID/IQ construction
+Page 6 of 8
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HB NO. 856 ENROLLED
+1 contract unless otherwise specified in the ID/IQ construction contract or the
+2 individual work order, or otherwise provided in a special provision of the department
+3 and the office of Louisiana highway construction, respectively. The issuance of
+4 payment, performance, and retainage bonds shall be required at the time of execution
+5 of an individual work order unless otherwise specified by the ID/IQ construction
+6 contract, the individual work order, or a special provision developed by the
+7 department and the office of Louisiana highway construction, respectively.
+8 Stipulated damages apply to individual work orders and shall be calculated by the
+9 required completion date of an individual work order. Required insurance policies
+10 and the extent and type of coverage required shall be as determined by the
+11 department and the office of Louisiana highway construction, respectively. This
+12 Subsection shall also apply to low bid ID/IQ contracts as advertised and awarded
+13 pursuant to R.S. 48:252 and R.S. 48:255.
+14 I. This Section shall not apply to engineering and design service contracts
+15 or other consulting contracts of the department and the office of Louisiana highway
+16 construction, respectively, authorized by this Part or federal aid projects governed
+17 by 23 CFR Part 172, except that these services may be included in ID/IQ
+18 construction contracts to the extent that they support the construction of projects.
+19 J. Except as otherwise provided in this Section, the provisions of this Part
+20 shall apply to ID/IQ construction contracting. In the event of a conflict, the
+21 provisions of this Section shall prevail and shall supersede any conflicting provision
+22 of state law.
+23 K. The department and the office of Louisiana highway construction,
+24 respectively, may establish guidelines, standard specifications, special provisions,
+25 handbooks, or other required documents for elements of ID/IQ construction phase
+26 contracting not explicitly provided for in this Section or otherwise subject to the
+27 Administrative Procedure Act.
+28 L. The department and the office of Louisiana highway construction,
+29 respectively, may promulgate rules and regulations to implement and enforce the
+Page 7 of 8
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HB NO. 856 ENROLLED
+1 provisions of this Section in accordance with the provisions of the Administrative
+2 Procedure Act.
+3 Section 2. This Act shall become effective upon signature by the governor or, if not
+4 signed by the governor, upon expiration of the time for bills to become law without signature
+5 by the governor, as provided by Article III, Section 18 of the Constitution of Louisiana. If
+6 vetoed by the governor and subsequently approved by the legislature, this act shall become
+7 effective on the day following such approval.
+SPEAKER OF THE HOUSE OF REPRESENTATIVES
+PRESIDENT OF THE SENATE
+GOVERNOR OF THE STATE OF LOUISIANA
+APPROVED:
+Page 8 of 8
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.

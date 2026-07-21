@@ -1,0 +1,81 @@
+Title: 
+Official Title: 
+Source: versions - HB1071 Engrossed
+Media Type: application/pdf
+
+================================================================================
+
+HLS 26RS-2665 ENGROSSED
+2026 Regular Session
+HOUSE BILL NO. 1071
+BY REPRESENTATIVE MCFARLAND
+PUBLIC RECORDS: Provides for an exception to the Public Records Law for records of
+aerospace facilities or activities
+1 AN ACT
+2 To enact R.S. 44:3.7, relative to public records; to provide an exception for certain records
+3 of critical infrastructure of aerospace facilities or aerospace activities; to provide
+4 conditions; to provide for effectiveness; and to provide for related matters.
+5 Be it enacted by the Legislature of Louisiana:
+6 Section 1. R.S. 44:3.7 is hereby enacted to read as follows:
+7 §3.7. Aerospace facility and activity records
+8 A. Notwithstanding any other provision of law to the contrary, blueprints,
+9 plans, designs, technical data, operational documents, security information, and any
+10 other records related to the design, operation, flights, transportation, or security of
+11 critical infrastructure of aerospace facilities or aerospace activity shall be
+12 confidential if either of the following applies to the entity with custody of the
+13 records:
+14 (1) The entity maintains information subject to the International Traffic in
+15 Arms Regulations (ITAR) (22 CFR Parts 120 through 130).
+16 (2) The entity holds a current contract with the United States Department of
+17 Defense or any agency within the United States intelligence community.
+18 B. Nothing in this Chapter shall be construed to require the inspection,
+19 examination, copying, or reproduction of any record made confidential pursuant to
+20 this Section.
+Page 1 of 2
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-2665 ENGROSSED
+HB NO. 1071
+1 Section 2. This Act shall become effective upon signature by the governor or, if not
+2 signed by the governor, upon expiration of the time for bills to become law without signature
+3 by the governor, as provided by Article III, Section 18 of the Constitution of Louisiana. If
+4 vetoed by the governor and subsequently approved by the legislature, this Act shall become
+5 effective on the day following such approval.
+DIGEST
+The digest printed below was prepared by House Legislative Services. It constitutes no part
+of the legislative instrument. The keyword, one-liner, abstract, and digest do not constitute
+part of the law or proof or indicia of legislative intent. [R.S. 1:13(B) and 24:177(E)]
+HB 1071 Engrossed 2026 Regular Session McFarland
+Abstract: Provides an exception to the Public Records Law for records related to the
+design, operation, flights, transportation, or security of critical infrastructure of
+aerospace facilities or aerospace activity in certain circumstances.
+Present law (Public Records Law, R.S. 44:1, et seq.) generally provides for access to public
+records.
+Proposed law provides that blueprints, plans, designs, technical data, operational documents,
+security information, and any other records related to the design, operation, flights,
+transportation, or security of critical infrastructure of aerospace facilities or aerospace
+activity shall be confidential if the entity with custody of the records either maintains
+information subject to the federal International Traffic in Arms Regulations or holds a
+current contract with the U.S. Department of Defense or any agency within the U.S.
+intelligence community.
+Proposed law provides that the Public Records Law shall not be construed to require the
+inspection, examination, copying, or reproduction of any record made confidential pursuant
+to proposed law.
+Present law (R.S. 44:4.1) provides that the Public Records Law shall not apply to
+information that constitutes critical infrastructure information as defined in present federal
+law regardless of whether the information has been shared with any federal governmental
+agency.
+Proposed law retains present law.
+Present federal law (6 U.S.C. 671) defines "critical infrastructure information" as
+information not customarily in the public domain and related to the security of critical
+infrastructure or protected systems.
+Present federal law (42 U.S.C. 5195c) defines “critical infrastructure” as systems and assets,
+whether physical or virtual, so vital to the United States that the incapacity or destruction of
+such systems and assets would have a debilitating impact on security, national economic
+security, national public health or safety, or any combination of those matters.
+Effective upon signature of governor or lapse of time for gubernatorial action.
+(Adds R.S. 44:3.7)
+Page 2 of 2
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
