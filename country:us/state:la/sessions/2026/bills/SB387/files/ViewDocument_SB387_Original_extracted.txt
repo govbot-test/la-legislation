@@ -1,0 +1,391 @@
+Title: 
+Official Title: 
+Source: versions - SB387 Original
+Media Type: application/pdf
+
+================================================================================
+
+SLS 26RS-518 ORIGINAL
+2026 Regular Session
+SENATE BILL NO. 387
+BY SENATORS BASS AND TALBOT
+HEALTH/ACC INSURANCE. Provides relative to pharmacy benefit managers. (1/1/27)
+1 AN ACT
+2 To amend and reenact R.S. 22:1863 and R.S. 44:4.1(B)(11), to enact R.S. 22:1867.1, and to
+3 repeal R.S. 22:1868.1, relative to pharmacy benefit managers; to provide for
+4 definitions; to provide for a duty to enrollees, health plans, and providers; to provide
+5 for compensation; to provide for a private cause of action; to provide for audits; to
+6 provide for contract and other requirements; to provide for penalties; to provide for
+7 a public records exemption; to provide for an effective date; and to provide for
+8 related matters.
+9 Be it enacted by the Legislature of Louisiana:
+10 Section 1.R.S. 22:1863 is hereby amended and reenacted and R.S. 22:1867.1 is
+11 hereby enacted to read as follows:
+12 §1863. Definitions
+13 As used in this Subpart, the following definitions apply:
+14 (1) "Drug Shortage List" means a list of drug products posted on the United
+15 States Food and Drug Administration drug shortage website.
+16 (2) "Effective rate pricing" means any payment reduction for pharmacist or
+17 pharmacy services by a pharmacy benefit manager under a reconciliation process for
+Page 1 of 11
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-518 ORIGINAL
+SB NO. 387
+1 direct or indirect remuneration fees, a brand or generic effective rate of
+2 reimbursement, or any other reduction or aggregate reduction of payment.
+3 (3) "Enrollee" means any individual entitled to coverage of healthcare
+4 services from a health insurance issuer under a health plan.
+5 (3)(4) "Health benefit plan", "health plan", "plan", "benefit", or "health
+6 insurance coverage" means services consisting of medical care provided directly
+7 through insurance, reimbursement, or other means, and including items and services
+8 paid for as medical care under any hospital or medical service policy or certificate,
+9 hospital or medical service plan contract, preferred provider organization contract,
+10 or health maintenance organization contract offered by a health insurance issuer.
+11 However, excepted benefits are not included as a "health benefit plan".
+12 (5) "Healthcare service" means an item or service furnished to any
+13 individual for the purpose of preventing, diagnosing, alleviating, curing, or
+14 healing human illness, injury, or physical disability.
+15 (4)(6) "Health insurance issuer" means any entity that offers health insurance
+16 coverage through a plan, policy, or certificate of insurance subject to state law that
+17 regulates the business of insurance. "Health insurance issuer" shall also include a
+18 health maintenance organization, as defined and licensed pursuant to Subpart I of
+19 Part I of Chapter 2 of this Code.
+20 (5)(7)"Local pharmacy" means a pharmacy as defined in the North American
+21 Industry Classsification System (NAICS) Code 456110, which is domiciled in
+22 Louisiana and has fewer than ten retail outlets under its corporate umbrella.
+23 (6)(8) "Maximum Allowable Cost List" means a listing of the National Drug
+24 Code used by a pharmacy benefit manager setting the maximum allowable cost on
+25 which reimbursement to a pharmacy or pharmacist may be based. "Maximum
+26 Allowable Cost List" shall include any term that a pharmacy benefit manager or a
+27 healthcare insurer may use to establish reimbursement rates for generic and
+28 multi-source brand drugs to a pharmacist or pharmacy for pharmacist services.
+29 (7)(9)"NDC" means the National Drug Code, a numerical identifier assigned
+Page 2 of 11
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-518 ORIGINAL
+SB NO. 387
+1 to all prescription drugs.
+2 (10) "Person" includes a natural person, corporation, mutual company,
+3 unincorporated association, partnership, joint venture, limited liability
+4 company, trust, estate, foundation, not-for-profit corporation, unincorporated
+5 organization, government or governmental subdivision, or agency.
+6 (8)(11) "Pharmacist" means a licensed pharmacist as defined in R.S. 22:1852.
+7 (9)(12) "Pharmacist services" means products, goods, or services provided
+8 as a part of the practice of pharmacy as defined in R.S. 22:1852.
+9 (10)(13) "Pharmacy" means any appropriately licensed place where
+10 prescription drugs are dispensed as defined in R.S. 22:1852.
+11 (14) "Pharmacy benefit management fee" means a fee that covers the
+12 cost of providing one or more pharmacy benefit management services and that
+13 does not exceed the value of the service or services actually performed by the
+14 pharmacy benefit manager.
+15 (15) "Pharmacy benefit management service" means any of the
+16 following:
+17 (a) Negotiating the price of prescription drugs, including negotiating and
+18 contracting for direct or indirect rebates, discounts, or other price concessions.
+19 (b) Managing any aspect of a prescription drug benefit including but not
+20 limited to the processing and payment of claims for prescription drugs, the
+21 performance of drug utilization review, the processing of drug prior
+22 authorization requests, the adjudication of appeals or grievances related to the
+23 prescription drug benefit, contracting with network pharmacies, controlling the
+24 cost of covered prescription drugs, managing or providing data relating to the
+25 prescription drug benefit, or the provision of services related thereto.
+26 (c) Performance of any administrative, managerial, clinical, pricing,
+27 financial, reimbursement, data administration or reporting, or billing service.
+28 (d) Such other services as the commissioner may define by rule or
+29 regulation.
+Page 3 of 11
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-518 ORIGINAL
+SB NO. 387
+1 (11)(16) "Pharmacy benefit manager" has the same meaning as the term
+2 defined in R.S. 22:1641 and includes any person, either directly or indirectly, that
+3 provides one or more pharmacy benefit management services on behalf of an insurer
+4 or health plan, and any agent, contractor, intermediary, affiliate, subsidiary, or
+5 related entity of such person who facilitates, provides, directs, or oversees the
+6 provision of the pharmacy benefit management services.
+7 (12)(17) "Pharmacy benefits plan" or "pharmacy benefits program" means
+8 a plan or program that pays for, reimburses, covers the cost of, or otherwise provides
+9 for pharmacist services to individuals who reside in or are employed in Louisiana.
+10 (18) "Provider" means an individual or entity that furnishes, provides,
+11 dispenses, or administers one or more units of a prescription drug.
+12 (13)(19) "Rebates" means either of the following: all rebates, discounts, and
+13 other price concessions, based on utilization of a prescription drug and paid by the
+14 manufacturer or other party other than an enrollee, directly or indirectly, to the
+15 pharmacy benefit manager after the claim has been adjudicated at the pharmacy.
+16 Rebates shall include a reasonable estimate, as determined by the commissioner, of
+17 any volume-based discount or other discounts.
+18 (a) Negotiated price concessions including but not limited to base price
+19 concessions, whether described as a rebate or otherwise, and reasonable
+20 estimates of any price protection rebates and performance-based price
+21 concessions that may accrue directly or indirectly to the health insurance issuer
+22 or health plan, or other party on behalf of the health insurance issuer or health
+23 plan, including a pharmacy benefit manager, during the coverage year from a
+24 manufacturer, dispensing pharmacy, or other party in connection with the
+25 dispensing or administration of a prescription drug.
+26 (b) Reasonable estimates of any negotiated price concessions, fees, and
+27 other administrative costs that are passed through, or are reasonably
+28 anticipated to be passed through, to the health insurance issuer or health plan
+29 and serve to reduce the health insurance issuer or health plan's liabilities for a
+Page 4 of 11
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-518 ORIGINAL
+SB NO. 387
+1 prescription drug.
+2 (20) "Related entity" means either of the following:
+3 (a) Any entity, whether foreign or domestic, that is a member of any
+4 controlled group of corporations, as defined in Section 1563(a) of the Internal
+5 Revenue Code, except that "fifty percent" shall be substituted for "eighty
+6 percent" wherever the latter percentage appears in the code, of which a
+7 pharmacy benefit manager is a member.
+8 (b) Any of the following persons or entities that are treated as a related
+9 entity to the extent provided in rules adopted by the commissioner:
+10 (i) A person other than a corporation that is treated under the rules as
+11 a related entity of a pharmacy benefit manager.
+12 (ii) A person or entity that is treated under the rules as affiliated with a
+13 pharmacy benefit manager in cases where the pharmacy benefit manager is a
+14 person other than a corporation.
+15 (14)(21) "Specialty drug" means a drug that meets all of the following
+16 criteria:
+17 (a) The drug is used to treat and is prescribed for a person with a complex,
+18 chronic, or rare medical condition that is progressive, can be debilitating or fatal if
+19 left untreated or undertreated, or for which there is no known cure.
+20 (b) The drug is not routinely stocked at a majority of pharmacies within this
+21 state.
+22 (c) The drug has special handling, storage, inventory, or distribution
+23 requirements.
+24 (d) Patients receiving the drug require complex education and treatment
+25 maintenance, such as complex dosing, intensive monitoring, or clinical oversight.
+26 (15)(22) "Spread pricing" means any amount charged or claimed by a
+27 pharmacy benefit manager for a prescription drug that exceeds the amount paid by
+28 the pharmacy benefit manager to the pharmacist or pharmacy for the dispensing of
+29 the prescription drug, minus a pharmacy benefit management fee.
+Page 5 of 11
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-518 ORIGINAL
+SB NO. 387
+1 * * *
+2 §1867.1 PBM Duty; compensation; audits; contract and other requirements
+3 A. PBM Duty
+4 (1) A pharmacy benefit manager shall owe the pharmacy benefit
+5 manager duty to any enrollee, health plan, or provider that receives pharmacy
+6 benefit management services from the pharmacy benefit manager or that
+7 furnishes, covers, receives, or is administered a unit of a prescription drug for
+8 which the pharmacy benefit manager has provided pharmacy benefit
+9 management services.
+10 (a) Duty to enrollees. The pharmacy benefit manager duty owed to
+11 enrollees shall include duties of care and good faith and fair dealing. The
+12 commissioner shall adopt rules and regulations defining the scope of the duties
+13 owed to enrollees, including by obligating pharmacy benefit managers to
+14 provide all pharmacy benefit management services related to formulary design,
+15 utilization management, and grievances and appeals in a transparent manner
+16 to enrollees that is consistent with the best interest of enrollees and to disclose
+17 all conflicts of interest to enrollees.
+18 (b) Duty to health plans. The pharmacy benefit manager duty owed to
+19 health plans shall include duties of care and good faith and fair dealing. The
+20 commissioner shall adopt rules and regulations defining the scope of the duties
+21 owed to health plans, including by obligating pharmacy benefit managers to
+22 provide transparency to health plans about amounts charged or claimed by the
+23 pharmacy benefit manager in a manner that is adequate to identify all instances
+24 of spread pricing and to disclose all conflicts of interest to health plans.
+25 (c) Duty to providers. The pharmacy benefit manager duty owed to
+26 providers shall include duties of care and good faith and fair dealing. The
+27 commissioner shall adopt rules and regulations defining the scope of the duties
+28 owed to providers, including by obligating pharmacy benefit managers to
+29 provide transparency to providers about amounts charged or claimed by the
+Page 6 of 11
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-518 ORIGINAL
+SB NO. 387
+1 pharmacy benefit manager in a manner that is adequate to identify all instances
+2 of spread pricing and to disclose all conflicts of interest to providers.
+3 (2) Where there is a conflict between the pharmacy benefit manager
+4 duties owed in accordance with this Section, the pharmacy benefit manager
+5 duty owed to an enrollee shall be primary over the duty owed to any other
+6 party, and the pharmacy benefit manager duty owed to a provider shall be
+7 primary over the duty owed to a health plan.
+8 (3) A person who is aggrieved by a violation of this Section may bring a
+9 civil action before a state court of competent jurisdiction against a pharmacy
+10 benefit manager.
+11 B. PBM Compensation
+12 (1) A pharmacy benefit manager may negotiate but shall not retain
+13 rebates and fees, and shall only derive income from pharmacy benefit
+14 management fees for pharmacy benefit management services provided to a
+15 health insurance issuer or health plan in this state. The amount of any
+16 pharmacy benefit management fees shall be set forth in the agreement between
+17 the pharmacy benefit manager and the health insurance issuer or health plan.
+18 (2) Pharmacy benefit management fees charged by or paid to a
+19 pharmacy benefit manager from a health insurance issuer or health plan shall
+20 not be directly or indirectly based or contingent upon any of the following:
+21 (a) The acquisition cost or any other price metric of a drug.
+22 (b) The amount of savings, rebates, or other fees charged, realized, or
+23 collected by or generated based on the activity of the pharmacy benefit
+24 manager.
+25 (c) The amount of premiums, deductibles, or other cost-sharing or fees
+26 charged, realized, or collected by the pharmacy benefit manager from patients
+27 or other persons on behalf of a patient.
+28 (3) Annually by December 31, each pharmacy benefit manager operating
+29 in the state shall certify to the commissioner that it has fully and completely
+Page 7 of 11
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-518 ORIGINAL
+SB NO. 387
+1 complied with the requirements of this Subsection throughout the prior
+2 calendar year. The certification shall be signed by the chief executive officer or
+3 chief financial officer of the pharmacy benefit manager.
+4 C. PBM Audits
+5 (1) The commissioner and any health insurance issuer or health plan
+6 contracted with a pharmacy benefit manager holding a license issued by the
+7 commissioner may audit the pharmacy benefit manager once per calendar year.
+8 This audit right is in addition to, and shall not be construed to limit, any other
+9 audit rights authorized by law or contract. As part of any audit, the
+10 commissioner, health insurance issuer, or health plan may request information
+11 including but not limited to the any of following:
+12 (a) All reimbursement paid to retail pharmacies, on a claim level, for all
+13 customers of the pharmacy benefit manager in the state, including drug-specific
+14 reimbursement, dispensing fees, all rebates, other fees, ancillary charges,
+15 clawbacks, or adjustments to reimbursement.
+16 (b) Any difference in reimbursement paid to affiliated pharmacies and
+17 unaffiliated pharmacies, including differences in reimbursed ingredient costs
+18 and dispensing fees.
+19 (c) Historical claims data including ingredient cost, quantity, dispensing
+20 fee, sales tax, usual and customary price, channel such as mail or retail, health
+21 insurance issuer or health plan paid amount, days' supply, the amount paid by
+22 the covered individual, formulary tier, acquisition cost, and any administrative
+23 fee associated with the claim, as applicable.
+24 (d) Aggregate rebate amounts received directly or indirectly from
+25 manufacturers, including from any other entity affiliated with or related to the
+26 pharmacy benefit manager that negotiates or contracts with manufacturers,
+27 such as group purchasing organizations and rebate aggregators, by calendar
+28 quarter.
+29 (2) The pharmacy benefit manager shall provide information pursuant
+Page 8 of 11
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-518 ORIGINAL
+SB NO. 387
+1 to Paragraph (1) of this Subsection no later than thirty days of its receipt of any
+2 request from the commissioner, health insurance issuer, or health plan.
+3 (3) The commissioner may dictate the form in which the pharmacy
+4 benefit manager will provide information in response to an audit pursuant to
+5 Paragraph (1) of this Subsection.
+6 (4) The pharmacy benefit manager shall certify that all information
+7 submitted to the commissioner or any health insurance issuer or health plan in
+8 accordance with this Subsection is accurate and complete in all material
+9 respects. The certification shall be signed by the chief executive officer or chief
+10 financial officer of the pharmacy benefit manager.
+11 (5) The commissioner and any health insurance issuer or health plan
+12 contracted with a pharmacy benefit manager holding a license issued by the
+13 commissioner shall not directly or indirectly publish or otherwise disclose any
+14 confidential, proprietary information, including but not limited to any
+15 information that would reveal the identity of a specific health plan or
+16 manufacturer, the price charged for a specific drug or class of drugs, the
+17 amount of any rebates provided for a specific drug or class of drugs, or that
+18 would otherwise have the potential to compromise the financial, competitive, or
+19 proprietary nature of the information. Any such information shall be protected
+20 as confidential and proprietary information, and is not a public record and is
+21 exempt from disclosure pursuant to the Public Records Law, R.S. 44:4.1 et seq.
+22 The commissioner and any health insurance issuer or health plan contracted
+23 with a pharmacy benefit manager holding a license issued by the commissioner
+24 shall impose the confidentiality protections and requirements of this Paragraph
+25 on any agent or downstream third party that may receive or have access to this
+26 information.
+27 D. PBM Contract and Other Requirements
+28 (1) A pharmacy benefit manager contract with a health insurance issuer
+29 or health plan entered into, amended, extended, or renewed on or after January
+Page 9 of 11
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-518 ORIGINAL
+SB NO. 387
+1 1, 2027, shall do both of the following:
+2 (a) Specify all forms of revenue, including pharmacy benefit
+3 management fees, to be paid by the health insurance issuer or health plan to the
+4 pharmacy benefit manager.
+5 (b) Acknowledge that spread pricing is not permitted in accordance with
+6 R.S. 22:1867.
+7 E.(1) In addition to any other civil or criminal penalty authorized by law,
+8 a violation of this Section shall be punishable by the commissioner through a
+9 civil monetary penalty of twenty-five thousand dollars for each and every act
+10 or violation, with no aggregate penalty maximum.
+11 (2) If a violation for which the commissioner has imposed a fine in
+12 accordance with this Subsection is not corrected within thirty days after notice
+13 of the violation is received by the pharmacy benefit manager, the commissioner
+14 shall suspend or revoke the pharmacy benefit manager's license in accordance
+15 with R.S. 49:977.3.
+16 F. In implementing the requirements of this Section, the state shall
+17 regulate a pharmacy benefit manager or health insurance issuer only to the
+18 extent permissible under applicable law.
+19 Section 2. R.S. 44:4.1(B)(11) is hereby amended and reenacted to read as follows:
+20 §4.1. Exceptions
+21 * * *
+22 B. The legislature further recognizes that there exist exceptions, exemptions,
+23 and limitations to the laws pertaining to public records throughout the revised
+24 statutes and codes of this state. Therefore, the following exceptions, exemptions, and
+25 limitations are hereby continued in effect by incorporation into this Chapter by
+26 citation:
+27 * * *
+28 (11) R.S. 22:2, 14, 31, 42.1, 88, 244, 263, 265, 461, 550.7, 550.22, 550.29,
+29 550.30, 571, 572, 572.1, 572.2, 574, 601.3, 618, 639, 691.4, 691.5, 691.6, 691.7,
+Page 10 of 11
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-518 ORIGINAL
+SB NO. 387
+1 691.8, 691.9, 691.9.1, 691.10, 691.38, 691.56, 732, 752, 753, 771, 834, 972(D), 976,
+2 1008, 1019.2, 1203, 1460, 1464, 1466, 1483.1. 1488, 1546, 1559, 1566(D), 1644,
+3 1656, 1657.1, 1660.7, 1723, 1796, 1801, 1808.3, 1867.1, 1869, 1927, 1929, 1983,
+4 1984, 2036, 2045, 2056, 2085, 2091, 2293, 2303, 2508
+5 * * *
+6 Section 3. R.S. 22:1868.1 is hereby repealed.
+7 Section 4. This Act shall become effective on January 1, 2027.
+The original instrument and the following digest, which constitutes no part
+of the legislative instrument, were prepared by Senate Legislative Services.
+The keyword, summary, and digest do not constitute part of the law or proof
+or indicia of legislative intent. [R.S. 1:13(B) and 24:177(E)]
+DIGEST
+SB 387 Original 2026 Regular Session Bass
+Present law provides for definitions.
+Proposed law retains present law and adds definitions for "enrollee", "healthcare service",
+"person", "pharmacy benefit management fee", "pharmacy benefit management service",
+"provider", and "related entity". Proposed law also amends the definition for "rebates".
+Proposed law provides for a PBM's duty of care and good faith and fair dealing to enrollees,
+health plans, and providers.
+Proposed law provides for PBM compensation through pharmacy benefit manager fees and
+prohibits a PBM from retaining rebates and fees.
+Proposed law allows the commissioner of insurance and any health insurance issuer or health
+plan contracted with a PBM to audit the PBM once per calendar year. Proposed law further
+provides for information that may be requested as part of the audit and provides for the
+protection of confidential and proprietary information through a public records exemption.
+Proposed law requires PBM contracts to specify all forms of revenue to be paid by the health
+insurance issuer or health plan to the pharmacy benefit manager and to acknowledge that
+spread pricing is not permitted.
+Proposed law provides that, in addition to any other civil or criminal penalty authorized by
+law, a violation of proposed law is punishable by the commissioner through a civil monetary
+penalty of $25,000 for each and every act or violation, with no aggregate penalty maximum.
+Proposed law further provides that if a violation is not corrected within 30 days after notice
+of the violation is received by the PBM, the commissioner must suspend or revoke the
+pharmacy benefit manager's license.
+Proposed law is to be implemented to regulate a pharmacy benefit manager or health
+insurance issuer only to the extent permissible under applicable law.
+Effective January 1, 2027.
+(Amends R.S. 22:1863 and R.S. 44:4.1(B)(11); adds R.S. 22:1867.1; repeals R.S.22:1868.1)
+Page 11 of 11
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.

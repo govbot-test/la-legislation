@@ -1,0 +1,638 @@
+Title: 
+Official Title: 
+Source: versions - SB427 Engrossed
+Media Type: application/pdf
+
+================================================================================
+
+SLS 26RS-1259 ENGROSSED
+2026 Regular Session
+SENATE BILL NO. 427 (Substitute of Senate Bill No. 311 by Senator Pressly)
+BY SENATOR PRESSLY
+DONATIONS. Provides for procedures and methods to execute gifts under the Anatomical
+Gift Act. (1/1/27)
+1 AN ACT
+2 To amend and reenact R.S. 17:2351, 2354, 2354.1, 2354.2, 2354.7, 2354.8, and 2357(A) and
+3 (F) and to enact R.S. 17:2351.1 and 2354.10 through 2354.14, relative to anatomical
+4 gifts; to provide requirements and methods for executing an anatomical gift; to
+5 provide for definitions; to provide for authority to execute or revoke an anatomical
+6 gift; to provide for an effective date; and to provide for related matters.
+7 Be it enacted by the Legislature of Louisiana:
+8 Section 1. R.S. 17:2351, 2354, 2354.1, 2354.2, 2354.7, 2354.8, and 2357(A) and (F)
+9 are hereby amended and reenacted and R.S. 17:2351.1 and 2354.10 through 2354.14 are
+10 hereby enacted to read as follows:
+11 §2351. Definitions
+12 As used in this Part, the following terms have the following meanings:
+13 (1) "Adult" means a person who has attained eighteen years of age.
+14 (2) "Agent" means a person:
+15 (a) Authorized to make health care decisions on behalf of the principal by a
+16 power of attorney for health care; or
+17 (b) Expressly authorized to make an anatomical gift on behalf of the principal
+Page 1 of 18
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-1259 ENGROSSED
+SB NO. 427
+1 by any other record signed by the principal.
+2 (3) "Anatomical gift" or "gift" means a donation of all or part of a human
+3 body to take effect after the death of the donor for the purpose of transplantation,
+4 therapy, research, or education.
+5 (4) "Authorization" means a legally effective expression of intent
+6 governing acts to be undertaken after the death of the individual, including the
+7 recovery of organs or tissue pursuant to an anatomical gift.
+8 (5) "Consent" means a legally effective permission governing acts to be
+9 undertaken prior to the death of the individual, including premortem
+10 interventions, tests, procedures, or medications.
+11 (4)(6) "Decedent" means a deceased person whose body or part is or may be
+12 the source of an anatomical gift. The term does not include a stillborn infant and,
+13 subject to restrictions imposed by law, a fetus.
+14 (5)(7) "Disinterested witness" means a witness other than the spouse, child,
+15 parent, sibling, grandchild, grandparent, or guardian of the person who makes,
+16 amends, revokes, or refuses to make an anatomical gift, or an adult who exhibited
+17 special care and concern for the person. The term does not include a recipient of an
+18 anatomical gift in accordance with the provisions of R.S. 17:2353.
+19 (6)(8) "Document of gift" means a donor card or other record used to make
+20 an anatomical gift. The term includes a statement or symbol on a driver's license,
+21 identification card, fishing license, hunting license, or donor registry.
+22 (9) "Donation after circulatory death" or "DCD" means the recovery of
+23 organs or tissue for transplantation following the determination of death based
+24 on irreversible cessation of spontaneous circulatory and respiratory functions
+25 in accordance with R.S. 9:111.
+26 (10) "Donation after brain death" or "DBD" means the recovery of
+27 organs or tissue for transplantation following the determination of death based
+28 on irreversible total cessation of brain function, in accordance with R.S. 9:111.
+29 (7)(11) "Donor" means a person whose body or part is the subject of an
+Page 2 of 18
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-1259 ENGROSSED
+SB NO. 427
+1 anatomical gift.
+2 (8) "Donor registry" means a database that contains records of anatomical
+3 gifts and amendments to or revocations thereof.
+4 (9)(12) "Driver's license" means a license or permit issued by the Louisiana
+5 Department of Public Safety and Corrections, office of motor vehicles, to operate a
+6 vehicle, whether or not conditions are attached to the license or permit.
+7 (10)(13) "Eye bank" means a person that is licensed, accredited, or regulated
+8 under federal or state law to engage in the recovery, screening, testing, processing,
+9 storage, or distribution of human eyes or portions of human eyes.
+10 (11)(14) "Fishing license" means a license or permit issued by the Louisiana
+11 Department of Wildlife and Fisheries to fish as defined in R.S. 56:8, for a
+12 recreational purpose as defined in R.S. 56:8.
+13 (12)(15) "Guardian" means a person appointed by a court to make decisions
+14 regarding the support, care, education, health, or welfare of a person. The term does
+15 not include a guardian ad litem.
+16 (13)(16) "Hospital" means a facility licensed as a hospital under the laws of
+17 any state or a facility operated as a hospital by the United States, a state, or a
+18 subdivision of a state.
+19 (14)(17) "Hunting license" means a license or permit issued by the Louisiana
+20 Department of Wildlife and Fisheries to hunt as defined in R.S. 56:8 for a
+21 recreational purpose as defined in R.S. 56:8.
+22 (15)(18) "Identification card" means a card issued by the Louisiana
+23 Department of Public Safety and Corrections, office of motor vehicles.
+24 (16)(19) "Know" means to have actual knowledge.
+25 (20) "Legally effective" means having binding force under this Part and
+26 not subject to override except as expressly provided by law.
+27 (17)(21) "Minor" means a person who has not yet attained eighteen years of
+28 age.
+29 (18)(22) "Organ procurement organization" means a person designated by the
+Page 3 of 18
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-1259 ENGROSSED
+SB NO. 427
+1 secretary of the United States Department of Health and Human Services as an eye
+2 bank, organ procurement organization, or tissue bank.
+3 (19)(23) "Parent" means a person whose parental rights have not been
+4 terminated.
+5 (20)(24) "Part" means an organ, an eye, or tissue of a human being. The term
+6 does not include the whole body.
+7 (21)(25) "Person" means an individual, corporation, business trust, estate,
+8 trust, partnership, limited liability company, association, joint venture, public
+9 corporation, government or governmental subdivision, agency, or instrumentality,
+10 or any other legal or commercial entity.
+11 (22)(26) "Physician" means a person authorized and licensed to practice
+12 medicine or osteopathy under the laws of any state.
+13 (23)(27) "Prospective donor" means a person who is dead or near death and
+14 has been determined by a procurement organization to have a part that may be
+15 medically suitable for transplantation, therapy, research, or education. The term does
+16 not include a person who has made a refusal.
+17 (24)(28) "Reasonably available" means able to be contacted by a procurement
+18 organization without undue effort and willing and able to act in a timely manner
+19 consistent with existing medical criteria necessary for the making of an anatomical
+20 gift.
+21 (25)(29) "Recipient" means a person into whose body a part of a decedent has
+22 been or is intended to be transplanted.
+23 (26)(30) "Record" means information that is inscribed on a tangible medium
+24 or that is stored in an electronic or other medium and is retrievable in perceivable
+25 form.
+26 (27)(31) "Refusal" means a record created pursuant to the provisions of R.S.
+27 17:2354.1 legally effective expression of intent not to make an anatomical gift
+28 under this Part, that expressly states an intent to bar or has the legal effect of
+29 barring other persons from making an anatomical gift of a body or part of a person.
+Page 4 of 18
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-1259 ENGROSSED
+SB NO. 427
+1 (32) "Registry" means a record or database maintained or recognized
+2 by the state that contains records of legally effective anatomical gift decisions,
+3 including authorizations, refusals, amendments, revocations, affirmations of
+4 prior decisions, and indications that no anatomical gift decision should be
+5 recorded.
+6 (28)(33) "Sign" means, with the present intent to authenticate or adopt a
+7 record either:
+8 (a) To execute or adopt a tangible symbol.
+9 (b) To attach to or logically associate with the record an electronic symbol,
+10 sound, or process.
+11 (29)(34) "State" means a state of the United States, the District of Columbia,
+12 Puerto Rico, the United States Virgin Islands, or any territory or insular possession
+13 subject to the jurisdiction of the United States.
+14 (30)(35) "Technician" means any individual determined to be qualified to
+15 remove or process parts by an appropriate organization that is licensed, accredited,
+16 or regulated under federal or state law. The term includes an enucleator.
+17 (31)(36) "Tissue" means a portion of the human body other than an organ or
+18 an eye. The term does not include blood unless the blood is donated for the purpose
+19 of research or education.
+20 (32)(37) "Tissue bank" means a person that is licensed, accredited, or
+21 regulated under federal or state law to engage in the recovery, screening, testing,
+22 processing, storage, or distribution of tissue.
+23 (33)(38) "Transplant hospital" means a hospital that furnishes organ
+24 transplants and other medical and surgical specialty services required for the care of
+25 transplant patients.
+26 §2351.1. Rule of construction
+27 A. Nothing in this Part shall be construed to permit the recovery of an
+28 unpaired vital organ in a manner that causes or hastens the death of the donor,
+29 or prior to death being determined in accordance with R.S. 9:111.
+Page 5 of 18
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-1259 ENGROSSED
+SB NO. 427
+1 B. Nothing in this Part shall be construed to prohibit living organ or
+2 tissue donation that does not result in the death of the donor and is otherwise
+3 authorized by law.
+4 C. Unless expressly provided by law, authorization to make an
+5 anatomical gift after death shall not be construed as consent to any act
+6 undertaken prior to death.
+7 * * *
+8 §2354. Manner of executing anatomical gift prior to death of donor
+9 A. A donor may make an anatomical gift An anatomical gift may be made
+10 by an individual who is at least eighteen years of age or older or a minor who
+11 is emancipated pursuant to law or who is legally married, and who is otherwise
+12 authorized by law to make healthcare decisions for himself or herself by any of
+13 the following methods:
+14 (1) Authorizing By a document of gift signed by the donor, including
+15 authorization of a statement or symbol indicating that the donor has made an
+16 anatomical gift to be imprinted on his on a driver's license, identification card,
+17 fishing license, or hunting license, or registry, as provided by law.
+18 (2) Executing a will.
+19 (3) Any form of communication addressed to at least two adults, at least one
+20 of whom is a disinterested witness, during a terminal illness or injury. By a
+21 document of gift signed by another individual acting at the direction of the
+22 donor if the donor is physically unable to sign, provided the document is
+23 witnessed by two adults, at least one of whom is a disinterested witness, and
+24 states that it was signed and witnessed as provided in this Paragraph.
+25 (4) Any form of communication made during a terminal illness or injury
+26 and addressed to a physician or made in the presence of at least one
+27 disinterested adult witness, provided that:
+28 (a) If communicated to a physician, the communication is promptly
+29 documented in the medical record, including the date, time, and identity of the
+Page 6 of 18
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-1259 ENGROSSED
+SB NO. 427
+1 person receiving the communication; or
+2 (b) If made in the presence of a disinterested adult witness, the witness
+3 attests to the communication in writing.
+4 B. A donor or other person authorized to make an anatomical gift pursuant
+5 to R.S. 17:2352 may make a gift by a donor card or other record signed by the person
+6 making the gift or by authorizing that a statement or symbol indicating that a gift has
+7 been made be included on a donor registry . If the donor or other person is physically
+8 unable to sign a record, the record may be signed by another person at the direction
+9 of the person making the gift and the record shall:
+10 (1) Be witnessed by two adults, one of whom is a disinterested witness, who
+11 have signed at the request of the person making the gift; and
+12 (2) State that it has been signed and witnessed as provided in Paragraph (1)
+13 of this Subsection.
+14 B. A refusal to make an anatomical gift may be executed in the same
+15 manner and with the same legal effect as an anatomical gift under Subsection
+16 A of this Section.
+17 C. An anatomical gift or refusal executed in accordance with this Section
+18 constitutes a legally effective expression of the donor's intent and shall be given
+19 effect in accordance with this Part. A gift or refusal shall not be revoked,
+20 amended, or overridden except as expressly provided by law. A revocation
+21 under this Part withdraws a prior authorization or refusal and does not itself
+22 constitute an authorization or refusal.
+23 C.D. Revocation, suspension, expiration, or cancellation of a driver's license,
+24 identification card, fishing license, or hunting license upon which an anatomical gift
+25 is indicated does not invalidate the gift.
+26 D.E. An anatomical gift executed in a will takes effect upon the death of the
+27 donor whether or not the will is probated. Invalidation of the will after the death of
+28 the donor does not invalidate the gift.
+29 §2354.1. Refusal to make anatomical gift; effect
+Page 7 of 18
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-1259 ENGROSSED
+SB NO. 427
+1 A. A person An individual may refuse to make an anatomical gift of his the
+2 individual's body or part by executing any of the following: a refusal in any
+3 manner authorized for the execution of an anatomical gift under R.S. 17:2354.
+4 (1) A signed record in accordance with Subsection B of this Section or if he
+5 is physically unable to sign, another person acting at the direction of the person shall
+6 sign.
+7 (2) A will and testament, whether or not the will is admitted to probate or
+8 invalidated after his death.
+9 (3) Any form of communication made by the person during a terminal illness
+10 or injury addressed to at least two adults, one of whom is a disinterested witness.
+11 B. A signed record, shall be witnessed by at least two adults, one of whom
+12 is a disinterested witness, and shall state that it has been signed and witnessed as
+13 provided in Subsection A of this Section.
+14 B. A refusal executed pursuant to this Section shall be subject to the
+15 same requirements regarding form, signature, witnesses, authentication, and
+16 recording as applied to the execution of an anatomical gift under R.S. 17:2354.
+17 C. A person who has made a refusal to make an anatomical gift, may amend
+18 or revoke the refusal in any of the following ways:
+19 (1) In the manner provided in Subsection A of this Section for making a
+20 refusal.
+21 (2) By subsequently making an anatomical gift in accordance with R.S.
+22 17:2354 that is inconsistent with the refusal.
+23 (3) By destroying or canceling the record or a portion thereof evidencing the
+24 refusal, with the intent of revocation.
+25 C. A refusal executed in accordance with this Section constitutes a legally
+26 effective expression of the individual's intent and shall be given full force and
+27 effect under this Part.
+28 D. Except as otherwise provided in R.S. 17:2354.2, in the absence of an
+29 express contrary indication set forth in the refusal, an unrevoked refusal bars all
+Page 8 of 18
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-1259 ENGROSSED
+SB NO. 427
+1 other persons from making an anatomical gift of the body or part of the person
+2 individual.
+3 E. A refusal may be amended or revoked only in the manner provided
+4 in this Part.
+5 F. A refusal may include limitations or special instructions, which shall
+6 be honored to the extent permitted by law.
+7 G. A revocation of a refusal is a neutral act that withdraws the prior
+8 refusal, does not constitute an anatomical gift, and results in no anatomical gift
+9 decision being in effect unless and until a new authorization or refusal is made
+10 in accordance with this Part.
+11 §2354.2. Preclusive effect of anatomical gift; amendment; revocation
+12 A. Except as otherwise provided in Subsection G of this Section and subject
+13 Subject to Subsection F of this Section, in the absence of an express, contrary
+14 indication by the donor, a person other than the donor is barred from making,
+15 amending, or revoking an anatomical gift of the body or part of the donor if the gift
+16 complies with R.S. 17:2354 or 2356 was executed in accordance with R.S. 17:2354
+17 and has not been amended or revoked in accordance with R.S. 17:2356.
+18 B. A revocation of a an anatomical gift in accordance with R.S. 17:2356 is
+19 not a refusal and does not bar another person from making an anatomical gift of the
+20 body or part of the donor a neutral act that withdraws the prior anatomical gift,
+21 does not constitute a refusal for purposes of this Part, and results in no
+22 anatomical gift decision being in effect unless and until a new authorization or
+23 refusal is made in accordance with this Part.
+24 C. If a person other than the donor makes an unrevoked anatomical gift of the
+25 body or part or of the donor in accordance with R.S. 17:2354 or amends a gift of the
+26 body or part of the donor in accordance with R.S. 17:2356, another person may not
+27 make, amend, or revoke the gift, in accordance with R.S. 17:2356.
+28 D. A revocation of an anatomical gift of the body or part of a donor in
+29 accordance with R.S. 17:2356 by a person other than the donor does not bar another
+Page 9 of 18
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-1259 ENGROSSED
+SB NO. 427
+1 person from making an anatomical gift of the body or part in accordance with R.S.
+2 17:2354 or 2356 withdraws the prior gift but does not constitute a refusal and
+3 does not bar another person from making an anatomical gift of the body or part
+4 in accordance with this Part.
+5 E. In the absence of an express, contrary indication by the donor or other
+6 person authorized to make an anatomical gift, an anatomical gift of a part is neither
+7 a refusal to give another part nor a limitation on the making of a gift of another part
+8 at a later time by the donor or another person.
+9 F. In the absence of an express, contrary indication by the donor or other
+10 person authorized to make an anatomical gift, an anatomical gift of a part for one or
+11 more of the purposes in R.S. 17:2352 is not a limitation on the making of an
+12 anatomical gift of the part for any other purpose in accordance with R.S. 17:2354 or
+13 2356.
+14 G. If an unemancipated minor donor dies, his reasonably available parent
+15 may revoke or amend the anatomical gift.
+16 * * *
+17 §2354.7. Law governing validity; choice of law; presumption
+18 A. A valid document of gift shall be executed An anatomical gift decision,
+19 including an authorization or refusal, in accordance with the provisions of this
+20 Part, the laws of the state or country where it was executed made, or the laws of the
+21 state or country where the person making the anatomical gift was domiciled, has a
+22 place of residence resided, or was a national at the time the document of gift was
+23 executed anatomical gift decision was made.
+24 B. If a document of gift an anatomical gift decision is valid in accordance
+25 with this Part, the law of this state governs the interpretation of the document of gift
+26 and effect of the anatomical gift decision.
+27 C. A person may presume that a document of gift or amendment thereto an
+28 anatomical gift decision or amendment thereto is valid unless that person knows
+29 that it is not validly executed made or it was revoked.
+Page 10 of 18
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-1259 ENGROSSED
+SB NO. 427
+1 D. If multiple anatomical gift decisions exist, including decisions made
+2 in another state or country, the most recent legally effective authorization or
+3 refusal shall control.
+4 E. If the laws of another state or country conflict with the provisions of
+5 this Part, the provisions of this Part shall govern the determination of the effect
+6 of the anatomical gift decision.
+7 F. An anatomical gift decision made by a minor shall not constitute a
+8 legally effective authorization or refusal in this state.
+9 §2354.8. Donor registry Registry
+10 A. The secretary of the Louisiana Department of Health may establish or
+11 contract for the establishment of a donor registry.
+12 B. The Louisiana Department of Public Safety and Corrections, office of
+13 motor vehicles, and the Louisiana Department of Wildlife and Fisheries shall
+14 cooperate with any person administering any donor registry that this state
+15 establishes, contracts for, or recognizes for the purpose of transferring to the donor
+16 registry all relevant information regarding the making, amendment to, or revocation
+17 of an anatomical gift an individual's anatomical gift decision, including
+18 authorization, refusal, amendment, revocation of a prior authorization or
+19 refusal, affirmation of a previously recorded decision, or indication that no
+20 anatomical gift decision should be recorded, or informational indication in the
+21 case of a minor.
+22 C. A donor registry shall be accessible seven days a week, twenty-four hours
+23 a day and allow each of the following:
+24 (1) A donor An individual or other person authorized in accordance with
+25 R.S. 17:2352 to include on the donor registry a statement or symbol that the donor
+26 individual has made, amended, or revoked an anatomical gift or amended an
+27 anatomical gift decision, revoked a prior authorization or refusal, affirmed a
+28 previously recorded authorization or refusal, or has indicated that no
+29 anatomical gift decision should be recorded.
+Page 11 of 18
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-1259 ENGROSSED
+SB NO. 427
+1 (2) A procurement organization to obtain relevant information from the
+2 registry to determine, at or near death of the donor or a prospective donor, whether
+3 the donor or prospective donor has made, amended, or revoked an anatomical gift
+4 individual, whether the individual has made or amended an anatomical gift
+5 decision, revoked a prior authorization or refusal, affirmed a previously
+6 recorded authorization or refusal, or whether no anatomical gift decision is
+7 recorded.
+8 D. Personally identifiable information on a donor registry may not be used
+9 or disclosed without the express consent of the donor individual, prospective donor,
+10 or person that made the anatomical gift, for any purpose except to determine, at or
+11 near the death of the donor individual, whether he the individual has made,
+12 amended, or revoked an anatomical gift or amended an anatomical gift decision,
+13 revoked a prior authorization or refusal, affirmed a previously recorded
+14 authorization or refusal, or whether no anatomical gift decision is recorded.
+15 E. This Section does not prohibit any person from creating or maintaining a
+16 donor registry that is not established by or contracted with the state. Any such
+17 registry shall comply with Subsections C and D of this Section and shall not
+18 supersede the registry recognized by the state under this Section unless
+19 otherwise provided by law. A revocation recorded in the registry withdraws a
+20 prior authorization or refusal and results in no anatomical gift decision being
+21 recorded unless and until a new authorization or refusal is made.
+22 * * *
+23 §2354.10. Anatomical gifts by minors
+24 A. No state agency, political subdivision, department, office, or
+25 contractor thereof, including the office responsible for the issuance of driver's
+26 licenses or identification cards, shall solicit, query, or request from a minor any
+27 authorization for or refusal to make an anatomical gift in the absence of a
+28 parent or legal guardian.
+29 B. No representation by a minor concerning anatomical gift
+Page 12 of 18
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-1259 ENGROSSED
+SB NO. 427
+1 authorization or refusal shall be recorded, relied upon, or given legal effect
+2 unless made in the presence of a parent or legal guardian who affirmatively and
+3 expressly concurs in writing in the decision of the minor.
+4 C. Any representation made by a minor concerning an anatomical gift
+5 authorization or refusal, when made in the presence of and with the affirmative
+6 and express written concurrence of a parent or legal guardian, may be recorded
+7 solely for informational purposes and shall not be legally operative prior to the
+8 minor attaining the age of majority.
+9 D. Upon attainment of the age of majority, any informational record of
+10 anatomical gift authorization or refusal made by the individual as a minor in
+11 accordance with this Section shall become legally operative unless the individual
+12 affirmatively amends or revokes the record in accordance with law.
+13 E. Notwithstanding any provision of this Part, this Section shall not
+14 apply to a minor who is emancipated pursuant to law or who is legally married,
+15 and the individual shall be treated as an adult for purposes of this Part.
+16 F. Nothing in this Section shall be construed to limit the authority of a
+17 parent or legal guardian to make or refuse an anatomical gift on behalf of a
+18 minor as otherwise provided by law.
+19 §2354.11. Premortem interventions; definitions; prohibitions
+20 A. For purposes of this Section, "premortem intervention" means any
+21 medical procedure, test, medication, cannulation, or other intervention
+22 undertaken prior to the determination of death for the purpose of facilitating
+23 organ or tissue recovery.
+24 B. No premortem intervention shall be performed unless it is medically
+25 indicated for the direct benefit of the patient or is performed pursuant to a
+26 legally effective consent applicable to premortem interventions, as provided in
+27 this Section.
+28 C. Regardless of consent, no person shall perform or direct any
+29 premortem intervention that has a material likelihood of any of the following:
+Page 13 of 18
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-1259 ENGROSSED
+SB NO. 427
+1 (1) Hastening death.
+2 (2) Manufacturing, accelerating, or securing irreversibility of
+3 circulatory, respiratory, or neurologic cessation.
+4 (3) Preventing or materially interfering with the restoration or
+5 resumption of circulatory, respiratory, or neurologic function.
+6 D. Any physician or individual who performs or directs a premortem
+7 intervention shall be independent of, and shall not participate in, the recovery
+8 or transplantation of any organ or tissue from the individual, and shall not be
+9 a member of the transplant team.
+10 E. Authorization to make an anatomical gift after death does not
+11 constitute consent to any premortem intervention, test, procedure, or
+12 medication. Consent for any premortem intervention shall be separately and
+13 expressly obtained and shall be legally effective only if the following occur:
+14 (1) The consent is given by the patient, or by another person legally
+15 authorized under Louisiana law to consent to medical treatment on behalf of the
+16 patient.
+17 (2) The consent is voluntary and informed.
+18 (3) The nature and purpose of the premortem intervention are
+19 specifically described.
+20 (4) The patient or other person authorized to consent is informed that
+21 the intervention is performed for the purpose of facilitating organ or tissue
+22 recovery and is not medically indicated for the care or treatment of the patient.
+23 (5) The consent does not authorize any premortem intervention that
+24 poses a material risk of causing or hastening the death of the patient, or a
+25 material risk of interfering with the determination of death in accordance with
+26 R.S. 9:111.
+27 F. Nothing in this Section shall be construed to alter the standards for
+28 determination of death under R.S. 9:111 or to authorize any practice
+29 inconsistent with that Section.
+Page 14 of 18
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-1259 ENGROSSED
+SB NO. 427
+1 G. Nothing in this Section shall be construed to prohibit the provision of
+2 comfort care, palliative treatment, or the withdrawal or withholding of
+3 life-sustaining treatment in accordance with applicable law and accepted
+4 medical standards.
+5 §2354.12. Post-determination handling and transport of the decedent
+6 A. This Section applies following the determination and pronouncement
+7 of death under R.S. 9:111 and the recovery of any organ or tissue pursuant to
+8 an anatomical gift.
+9 B. Prior to the recovery of organs or tissue, the individual authorized to
+10 make an anatomical gift, or the individual's authorized representative where
+11 applicable, shall be informed in writing of any plan to do any of the following:
+12 (1) Transport the decedent from the hospital or facility where death was
+13 determined to another facility for further organ or tissue recovery, processing,
+14 or handling.
+15 (2) Continue mechanical ventilation, perfusion, or other artificial
+16 support of bodily functions following the determination of death for purposes
+17 related to organ or tissue recovery.
+18 C. No transport or continuation of mechanical support described in
+19 Subsection B of this Section shall occur unless expressly authorized as part of
+20 a legally effective authorization applicable to post-determination handling and
+21 transport.
+22 D. Authorization to make an anatomical gift after death shall not, by
+23 itself, constitute authorization for transport of the decedent to a nonhospital
+24 facility or for continuation of mechanical support following death
+25 determination.
+26 E. Any handling or transport of the decedent following death
+27 determination and organ or tissue recovery shall be conducted in a manner
+28 consistent with the dignity of the decedent and with the reasonable expectations
+29 of the family, as informed by the disclosures made under this Section.
+Page 15 of 18
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-1259 ENGROSSED
+SB NO. 427
+1 F. Nothing in this Section shall be construed to limit the recovery of
+2 organs or tissue otherwise authorized by law, to alter the standards for
+3 determination of death under R.S. 9:111, or, except to the extent necessary to
+4 carry out a valid anatomical gift, to alter or transfer the custodial authority of
+5 the person or persons authorized by law to control disposition of the body.
+6 §2354.13. Effect of anatomical gift decisions
+7 A. An authorization recorded in the registry constitutes a legally
+8 effective expression of intent and supersedes any prior refusal.
+9 B. A refusal recorded in the registry constitutes a legally effective
+10 expression of intent and supersedes any prior authorization.
+11 C. The most recent authorization or refusal recorded in the registry shall
+12 control.
+13 D. The absence of a recorded authorization or refusal indicates that no
+14 anatomical gift decision has been recorded in the registry and shall not
+15 constitute authorization or refusal.
+16 E. A response to a query by the office of motor vehicles or other state
+17 agency indicating that no anatomical gift decision should be recorded shall not
+18 constitute an authorization or refusal and shall have no legal effect.
+19 F. An informational indication made by a minor shall not constitute a
+20 legally effective authorization or refusal.
+21 §2354.14. Out-of-state anatomical gift decisions; effect
+22 A. An anatomical gift decision, including an authorization or refusal,
+23 made in another state that is valid under the laws of that state or of this state
+24 shall be recognized as a legally effective anatomical gift decision in this state.
+25 B. The effect of an anatomical gift decision recognized under this Section
+26 shall be determined in accordance with the laws of this state.
+27 C. If multiple anatomical gift decisions exist, including decisions made
+28 in another state, the most recent legally effective authorization or refusal shall
+29 control.
+Page 16 of 18
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-1259 ENGROSSED
+SB NO. 427
+1 D. If the laws of another state conflict with the provisions of this Part, the
+2 provisions of this Part shall govern the determination of the effect of the
+3 anatomical gift decision.
+4 E. Notwithstanding any provision of another state's law, an anatomical
+5 gift decision made by a minor shall not constitute a legally effective
+6 authorization or refusal in this state.
+7 * * *
+8 §2357. Rights and duties of procurement organizations; others
+9 A. When a hospital refers a person at or near death to a procurement
+10 organization, the procurement organization shall make a reasonable search of the
+11 records of the office of motor vehicles and any known donor the registry recognized
+12 under R.S. 17:2354.8 to ascertain whether the person has made an anatomical gift
+13 or amended an anatomical gift decision, revoked a prior authorization or
+14 refusal, affirmed a previously recorded authorization or refusal, or whether no
+15 anatomical gift decision is recorded.
+16 * * *
+17 F. Upon the death of a minor who was a donor or had signed a refusal has
+18 made an informational indication regarding anatomical gift status, unless a
+19 procurement organization knows he was legally married or emancipated, it shall
+20 conduct a reasonable search for his parents and provide them with an opportunity to
+21 revoke or amend the anatomical gift or the refusal. make an anatomical gift
+22 decision in accordance with this Part. Any informational indication recorded
+23 in the registry with respect to a minor shall not constitute a legally effective
+24 authorization or refusal but may be considered by the persons authorized to
+25 make an anatomical gift on behalf of the minor.
+26 * * *
+27 Section 2. This Act shall become effective on January 1, 2027.
+Page 17 of 18
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-1259 ENGROSSED
+SB NO. 427
+The original instrument and the following digest, which constitutes no part
+of the legislative instrument, were prepared by Senate Legislative Services.
+The keyword, summary, and digest do not constitute part of the law or proof
+or indicia of legislative intent. [R.S. 1:13(B) and 24:177(E)]
+DIGEST
+SB 427 Engrossed 2026 Regular Session Pressly
+Present law establishes the Anatomical Gift Act.
+Proposed law, relative to anatomical gifts, provides that no authorization to make an
+anatomical gift after death is to be construed as consent to any act undertaken prior to death.
+Proposed law provides that an anatomical gift may be made by an individual who is at least
+18 years of age or older or a minor who is emancipated pursuant to law or who is legally
+married, and who is otherwise authorized by law to make healthcare decisions for himself.
+Proposed law provides for methods for making an anatomical gift and provides that a refusal
+to make an anatomical gift may be executed in the same manner and with the same legal
+effect as an anatomical gift.
+Proposed law provides that a revocation of a refusal is a neutral act that withdraws the prior
+refusal, does not constitute an anatomical gift, and results in no anatomical gift decision
+being in effect unless and until a new authorization or refusal is made.
+Proposed law provides that if multiple anatomical gift decisions exist, including decisions
+made in another state or country, the most recent legally effective authorization or refusal
+shall control.
+Proposed law prohibits governmental entities, including driver's license authorities, from
+soliciting or recording anatomical gift authorization or refusal from minors in the absence
+of a parent or legal guardian and preserves requirement for express parental or guardian
+concurrence for any representation made to a minor but permits recordings of representations
+solely for informational purposes.
+Proposed law defines a donation after circulatory death and after brain death as when
+determined by a licensed physician based on ordinary standards of approved medical
+practice when the person has experienced irreversible cessation of spontaneous respiratory
+and circulatory functions. Prohibits premortem interventions that have a material likelihood
+of hastening death or manufacturing irreversibility regardless of consent. Provides that
+authorization to make an anatomical gift after death does not constitute consent to
+premortem interventions.
+Proposed law requires disclosure and express authorization for post-determination transport
+of a decedent to another facility and for continuation of mechanical support following death
+and standards for lawful organ and tissue recovery.
+Proposed law provides for the effect of anatomical gift decisions and out-of-state anatomical
+gift decisions.
+Effective January 1, 2027.
+(Amends R.S. 17:2351, 2354, 2354.1, 2354.2, 2354.7, 2354.8, and 2357(A) and (F); adds
+R.S.17:2351.1 and 2354.10-14)
+Page 18 of 18
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.

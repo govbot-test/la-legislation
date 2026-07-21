@@ -1,0 +1,128 @@
+Title: 
+Official Title: 
+Source: versions - House Committee Amendment, #4119, COM, Draft
+Media Type: application/pdf
+
+================================================================================
+
+HCAHB471 4463 4119
+HOUSE COMMITTEE AMENDMENTS
+2026 Regular Session
+Amendments proposed by House Committee on Commerce to Original House Bill No. 471
+by Representative Jordan
+1 AMENDMENT NO. 1
+2 On page 1, delete lines 12 through 16 in their entirety
+3 AMENDMENT NO. 2
+4 On page 1, line 17, change "(2)" to "(1)"
+5 AMENDMENT NO. 3
+6 On page 2, line 5, change "(3)" to "(2)"
+7 AMENDMENT NO. 4
+8 On page 2, line 12, change "(4)" to "(3)"
+9 AMENDMENT NO. 5
+10 On page 2, line 14, change "(5)" to "(4)"
+11 AMENDMENT NO. 6
+12 On page 2, line 17, change "(6)" to "(5)"
+13 AMENDMENT NO. 7
+14 On page 2, between lines 18 and 19, insert the following:
+15 "(6) "Loyalty, membership, or rewards program" means a loyalty, rewards,
+16 or club card program established for the genuine purpose of providing benefits to
+17 consumers who voluntarily participate in that program regardless of whether those
+18 benefits are provided directly by a business or through a loyalty program partner.
+19 (7) "Loyalty program partner" means a third party that provides loyalty
+20 membership or rewards program benefits to consumers who consent to participate
+21 in a loyalty, membership, or rewards program offered by a different seller."
+22 AMENDMENT NO. 8
+23 On page 2, line 19, change "(7)" to "(8)"
+24 AMENDMENT NO. 9
+25 On page 2, line 24, change "(8)" to "(9)"
+26 AMENDMENT NO. 10
+27 On page 2, between lines 27 and 28, insert the following:
+28 "(10) "Price-setting algorithm" or "PSA" means any technology, software,
+29 program, machine-based system or other computational process that uses statistical
+30 modeling, data analytics, artificial intelligence, or other data processing techniques
+Page 1 of 3
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HCAHB471 4463 4119
+1 to analyze surveillance data and is a substantial factor in setting, offering, or
+2 determining a price offered to an individual.
+3 (11) "Substantial factor" means more than a de minimis or incidental factor
+4 that informs the price offered to an individual.
+5 (12)(a) "Surveillance-based price discrimination" means using a PSA or the
+6 output of a PSA in determining the price offered to a consumer.
+7 (b) "Surveillance-based price discrimination" does not include the use of
+8 location data or an internet protocol address solely for the purpose of determining the
+9 jurisdiction where an individual is located if the location data or intent protocol
+10 address is used solely for the following purposes:
+11 (i) Limiting the offered products or services to those available in that
+12 jurisdiction.
+13 (ii) Displaying prices in the appropriate currency.
+14 (iii) Calculating jurisdiction-specific taxes.
+15 (iv) Complying with jurisdiction-specific disclosure or other regulatory
+16 requirements."
+17 AMENDMENT NO. 11
+18 On page 2, line 28, change "(9)" to "(13)" and after "observation," and before "inference,"
+19 insert "purchase,"
+20 AMENDMENT NO. 12
+21 On page 3, delete line 4, insert the following:
+22 "(14) "Third-party retailer" means an independent technology company that
+23 operates a website or consumer application on which an independent retailer markets
+24 its products or services.
+25 B.(1) It shall constitute an unfair trade practice for a third-party retailer to
+26 engage in surveillance-based price discrimination."
+27 AMENDMENT NO. 13
+28 On page 3, line 5, change "A corporation or person" to "A third-party retailer"
+29 AMENDMENT NO. 14
+30 On page 3, line 6, change "person" to "third-party retailer"
+31 AMENDMENT NO. 15
+32 On page 3, line 8, change "consumers." to "consumers, including based on consumer
+33 selections, delivery distance, and delivery time."
+34 AMENDMENT NO. 16
+35 On page 3, line 21, change "person" to "third-party retailer" and change "discount." to
+36 "discount, except purchase history information used as described in Item (vi) of this
+37 Subparagraph."
+38 AMENDMENT NO. 17
+39 On page 3, between lines 25 and 26, insert the following:
+40 "(vi) Discounts reward attributes uniformly of consumers' purchase history,
+41 such as purchase frequency, history length, or total dollars spent on the goods or
+42 services provided by the third-party retailer, with the third-party retailer or an
+Page 2 of 3
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HCAHB471 4463 4119
+1 affiliate of the third-party retailer offering the discount, from whom the goods and
+2 services will be purchased.
+3 (c) Differential prices are set forth in a subscription or other continuous
+4 agreement between the third-party retailer that includes a monthly or other recurring
+5 price that was not informed by a PSA."
+6 AMENDMENT NO. 18
+7 On page 3, delete line 26 and insert in lieu thereof the following:
+8 "(3) A third-party retailer has not engaged in surveillance-based price
+9 discrimination if the third-party retailer operates as an insurer complying with R.S.
+10 22:481 et seq. and"
+11 AMENDMENT NO. 19
+12 On page 3, after line 29, add the following:
+13 "(4) A third-party retailer has not engaged in surveillance-based price
+14 discrimination if the third-party retailer has offered differential prices pursuant to the
+15 following need-based discount programs that are disclosed and structured to provide
+16 reduced pricing or financial assistance based on objective eligibility criteria related
+17 to income or financial need:
+18 (a) Hospital discounted care.
+19 (b) Sliding scale fees.
+20 (c) Charity care or medical financial assistance policies."
+21 AMENDMENT NO. 20
+22 On page 4, line 1, change "An entity or person" to "A third-party retailer"
+23 AMENDMENT NO. 21
+24 On page 4, line 2, change "person" to "third-party retailer"
+25 AMENDMENT NO. 22
+26 On page 4, line 3, change "is" to "was"
+27 AMENDMENT NO. 23
+28 On page 4, delete lines 6 and 7 and insert in lieu thereof the following:
+29 "C. A violation of this Section is a deceptive and unfair trade practice and
+30 shall subject the violator to actions and penalties provided in the Unfair Trade
+31 Practices and Consumer Protection Law, R.S. 51:1401 et seq."
+Page 3 of 3
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
