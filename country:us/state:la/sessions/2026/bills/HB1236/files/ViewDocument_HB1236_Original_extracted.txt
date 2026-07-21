@@ -1,0 +1,196 @@
+Title: 
+Official Title: 
+Source: versions - HB1236 Original
+Media Type: application/pdf
+
+================================================================================
+
+HLS 26RS-3067 ORIGINAL
+2026 Regular Session
+HOUSE BILL NO. 1236 (Substitute for House Bill No. 866 by Representative Dewitt)
+BY REPRESENTATIVE DEWITT
+INSURANCE: Provides relative to pharmacy benefit managers reimbursements
+1 AN ACT
+2 To amend and reenact R.S. 22:1868(B)(introductory paragraph), (1), and (2), and (C), and
+3 to enact R.S. 22:1868(B)(5), (D), and (E), relative to pharmacy benefit managers; to
+4 provide for definitions; to provide for pharmacy reimbursements; to prohibit certain
+5 reimbursement cost assignments; to provide for certain prohibitions; and to provide
+6 for related matters.
+7 Be it enacted by the Legislature of Louisiana:
+8 Section 1. R.S. 22:1868 (B)(introductory paragraph), (1), and (2), and (C) are hereby
+9 amended and reenacted and R.S. 22:1868(B)(5), (D), and (E) are hereby enacted to read as
+10 follows:
+11 §1868. Local pharmacy reimbursement; National Average Drug Acquisition Costs;
+12 appeals
+13 * * *
+14 B. For purposes of this Section, the following definitions shall apply:
+15 (1)(a) "Acquisition cost" means the set of National Average Drug Acquisition
+16 Costs, "NADAC", as calculated by the Centers for Medicare and Medicaid Services
+17 and reflected in the most recently released public file. means the amount a local
+18 pharmacy actually pays to purchase a prescription drug or device, as evidenced by
+19 a wholesaler or manufacturer invoice, and shall not be less than the National Average
+Page 1 of 6
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-3067 ORIGINAL
+HB NO. 1236
+1 Drug Acquisition Cost or NADAC published by the Centers for Medicare and
+2 Medicaid Services on the date the prescription drug is dispensed.
+3 (b) For drugs for which no NADAC rate is published, acquisition cost means
+4 the local pharmacy's documented invoice cost or if no invoice is available, the
+5 wholesale acquisition cost as published in a nationally recognized drug pricing
+6 compendium on the date of dispensing.
+7 (c) "Acquisition cost" is not defined by or determined at the sole discretion
+8 of a pharmacy benefit manager or third-party administrator.
+9 (2) "Adjustment factor" means a percentage-based change to the prescription
+10 drug pricing benchmark, such as average wholesale price or national average drug
+11 acquisition cost or wholesale acquisition cost, applied uniformly across a class of
+12 drugs.
+13 * * *
+14 (5) "Professional dispensing fee" means a fee that meets all of the following:
+15 (a) Incurred at the point of sale or service and pays for costs in excess of the
+16 ingredient cost of a covered outpatient drug each time a covered outpatient drug is
+17 dispensed.
+18 (b) Includes only pharmacy costs associated with ensuring that possession
+19 of the appropriate covered outpatient drug is transferred to a beneficiary. Pharmacy
+20 costs include but are not limited to reasonable costs associated with a pharmacist's
+21 time in checking the computer for information about an individual's coverage,
+22 performing drug utilization review and preferred drug list review activities,
+23 measurement or mixing of the covered outpatient drug, filling the container,
+24 beneficiary counseling, physically providing the completed prescription to the
+25 beneficiary, delivery, special packaging, and overhead associated with maintaining
+26 the facility and equipment necessary to operate the pharmacy.
+27 (c) Does not include administrative costs incurred by the state in the
+28 operation of the covered outpatient drug benefit including systems costs for
+29 interfacing with pharmacies.
+Page 2 of 6
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-3067 ORIGINAL
+HB NO. 1236
+1 C. Notwithstanding any provision of law to the contrary, effective January
+2 1, 2026, a pharmacy benefit manager shall meet all of the following requirements for
+3 claims submitted by any local pharmacy to a pharmacy benefit manager
+4 administering claims on behalf of a health plan, except for the Office of Group
+5 Benefits:
+6 (1) Adopt a reimbursement formula using either NADAC as the prescription
+7 drug pricing benchmark or, if NADAC is not available, the wholesale acquisition
+8 cost. or, with prior written approval by the commissioner, an alternative prescription
+9 drug pricing benchmark that results in claim payment errors that are both comparable
+10 to or less than NADAC in terms of frequency and smaller than NADAC in terms of
+11 magnitude.
+12 (2) Adopt a reimbursement formula using an adjustment factor that, based
+13 on a percentage-based change to the prescription drug pricing benchmark, such as
+14 national average drug acquisition cost or wholesale acquisition cost, is applied
+15 uniformly across a class of drugs. claims experience data available to the pharmacy
+16 benefit manager, is reasonably expected to result in a claim payment error rate of no
+17 more than two percent per drug as identified by its national drug code.
+18 (3)(a) Adopt a reimbursement formula using a professional dispensing fee
+19 that is an amount not less than the professional dispensing fee established by the
+20 Louisiana Department of Health for the Louisiana Medicaid program.
+21 (b) The professional dispensing fee shall reflect the actual costs of the
+22 professional services provided by the pharmacists, and expenses related to the
+23 physical act of dispensing.
+24 (c) The department shall consider only cost-based data and is prohibited
+25 from relying on historical data related to the professional dispensing fee paid by
+26 pharmacy benefit managers.
+27 (3) (4) Adopt an appeal process for pharmacists to challenge claim payment
+28 errors that, at a minimum, meets all of the following requirements:
+Page 3 of 6
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-3067 ORIGINAL
+HB NO. 1236
+1 (a) A network pharmacy contract executed by and between a pharmacy
+2 benefit manager and a pharmacy located in Louisiana shall, at a minimum, contain
+3 a provision expressly acknowledging that if a Louisiana pharmacy's reimbursement
+4 for any covered drug or device is less than the pharmacy's acquisition cost for that
+5 drug or device, the pharmacy has the right to appeal that reimbursement and, if
+6 successful, receive additional payment so that the total reimbursement is equal to the
+7 pharmacy's demonstrated acquisition cost. The pharmacy benefit manager shall
+8 direct the pharmacy to the pharmacy benefit manager's electronic and written appeal
+9 locations.
+10 (b) Permit appeals to be filed for a period of fifteen days following the
+11 applicable date of payment.
+12 (c) If an appeal is filed with the pharmacy benefit manager, the pharmacy
+13 must include a written invoice from the wholesaler that includes the drug name,
+14 national drug code number, purchase date, and cost of the drug.
+15 (d) If a claim payment error occurred, the pharmacy benefit manager shall
+16 make an additional payment to the pharmacy to increase the reimbursement amount
+17 to the acquisition cost. The pharmacy benefit manager is prohibited from amending
+18 or changing the amount a prescription drug consumer must pay for an out-of-pocket
+19 cost share or expense.
+20 (e) The pharmacy benefit manager shall individually notify all pharmacies
+21 using the same customary supplier or wholesaler that a claim payment error occurred
+22 and that the pharmacy may reverse and resubmit the claim to correct the claim
+23 payment error. The pharmacy benefit manager shall make retroactive price
+24 adjustments in the next payment cycle.
+25 (f) If a pharmacy benefit manager determines that a claim payment error did
+26 not occur, it shall provide the pharmacy or pharmacist with an explanation of why
+27 it has upheld the payment, including a specific documentation of the acquisition cost
+28 on the date of service. The explanation shall be provided electronically or in writing
+29 through customary means of communication between the pharmacy benefit manager
+Page 4 of 6
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-3067 ORIGINAL
+HB NO. 1236
+1 and the pharmacy or pharmacist. The explanation shall also include a notice in at
+2 least ten-point font stating that, if the pharmacy or pharmacist disagrees with the
+3 decision, the pharmacy or pharmacist may file a complaint with the Department of
+4 Insurance.
+5 D. A pharmacy benefit manager, in this state, bears all costs associated with
+6 the reimbursement of professional dispensing fees. These costs shall not be assigned
+7 to plans, members, pharmacies, or pharmacists.
+8 E. The commissioner may require submission of claims-level data, including
+9 but not limited to reimbursement amounts, dispensing fees, and any adjustments, for
+10 the purpose of verifying compliance with this Section.
+11 Section 2. This Act shall become effective upon signature by the governor or, if not
+12 signed by the governor, upon expiration of the time for bills to become law without signature
+13 by the governor, as provided by Article III, Section 18 of the Constitution of Louisiana. If
+14 vetoed by the governor and subsequently approved by the legislature, this Act shall become
+15 effective on the day following such approval.
+DIGEST
+The digest printed below was prepared by House Legislative Services. It constitutes no part
+of the legislative instrument. The keyword, one-liner, abstract, and digest do not constitute
+part of the law or proof or indicia of legislative intent. [R.S. 1:13(B) and 24:177(E)]
+HB 1236 Original 2026 Regular Session Dewitt
+Abstract: Provides for pharmacy reimbursement guidelines. Prohibits certain
+reimbursement cost assignments. Prohibits cost changes to certain prescription
+drugs.
+Present law prohibits pharmacy benefit managers or persons acting on behalf of a pharmacy
+benefit managers from reimbursing a contracted or local pharmacy or pharmacist in this state
+an amount less than the acquisition cost for the covered drug, device, or service. Proposed
+law retains present law.
+Proposed law retains present law definitions applicable to pharmacy benefit manager
+reimbursements. Proposed law amends the definition of "acquisition cost" and adds the term
+"professional dispensing fee".
+Proposed law provides additional reimbursement guidelines for pharmacy benefit managers
+claims submitted by any local pharmacy to a pharmacy benefit manager administering
+claims on behalf of a health plan, except for the Office of Group Benefits.
+Proposed law retains present law relative to appeals process for pharmacists to challenge
+claim payment errors.
+Page 5 of 6
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-3067 ORIGINAL
+HB NO. 1236
+Proposed law prohibits pharmacy benefit managers from amending or changing the amount
+a prescription drug consumer must pay for an out-of-pocket cost share or expense.
+Proposed law requires pharmacy benefit managers to bear all costs associated with the
+reimbursement of professional dispensing fees. Proposed law prohibits such costs from
+being assigned to plans, members, pharmacies, and pharmacists.
+Proposed law authorizes the commissioner to require submission of claims-level data,
+including but not limited to reimbursement amounts, dispensing fees, and any adjustments,
+for the purpose of verifying compliance with proposed law.
+Effective upon signature of governor or lapse of time for gubernatorial action.
+(Amends R.S. 22:1868(B)(intro. para.), (1), and (2), and (C); Adds R.S. 22:1868(B)(5), (D),
+and (E))
+Page 6 of 6
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.

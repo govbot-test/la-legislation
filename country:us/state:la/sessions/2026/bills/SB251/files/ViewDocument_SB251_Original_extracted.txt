@@ -1,0 +1,319 @@
+Title: 
+Official Title: 
+Source: versions - SB251 Original
+Media Type: application/pdf
+
+================================================================================
+
+SLS 26RS-615 ORIGINAL
+2026 Regular Session
+SENATE BILL NO. 251
+BY SENATOR PRESSLY
+HOMELAND SECURITY. Provides for critical infrastructure protection. (8/1/26)
+1 AN ACT
+2 To enact Part B of Chapter 51 of Title 51 of the Louisiana Revised Statutes of 1950, to be
+3 comprised of R.S. 51:3081 through 3090, and to designate R.S. 51:3071 through
+4 3080 as Part A of Chapter 51 of Title 51 of the Louisiana Revised Statutes of 1950,
+5 relative to critical infrastructure protection; to provide for critical infrastructure that
+6 needs protection from foreign adversaries accessing state critical infrastructure; to
+7 provide for assessing the state's vulnerability to sanctioned communications
+8 equipment; to prohibit use of adversary cameras and laser sensor technologies in
+9 Louisiana transportation systems; to provide enforcement of protected activities; and
+10 to provide for related matters.
+11 Be it enacted by the Legislature of Louisiana:
+12 Section 1. Part B of Chapter 51 of Title 51 of the Louisiana Revised Statutes of 1950,
+13 comprised of R.S. 51:3081 through 3090, is hereby enacted to read as follows:
+14 PART B. CRITICAL INFRASTRUCTURE PROTECTION
+15 §3081.Title
+16 This Part shall be known and may be cited as the "Louisiana Critical
+17 Infrastructure Protection Act of 2026".
+Page 1 of 9
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-615 ORIGINAL
+SB NO. 251
+1 §3082. Purpose
+2 The purpose of this Chapter is to protect Louisiana critical
+3 infrastructure by prohibiting foreign adversaries from accessing state critical
+4 infrastructure, assessing Louisiana's vulnerability to sanctioned
+5 communications equipment, prohibiting the use of adversary cameras and laser
+6 sensor technologies in Louisiana transportation systems.
+7 §3083. Definitions
+8 The following definitions shall apply unless the context indicates
+9 otherwise:
+10 (1) "Company" shall mean a for-profit sole proprietorship, organization,
+11 association, corporation, partnership, joint venture, limited partnership, limited
+12 liability partnership, or limited liability company, including a wholly owned
+13 subsidiary or majority-owned subsidiary of those entities or business
+14 associations that exists to make a profit; or a nonprofit organization.
+15 (2) "Critical infrastructure" shall mean systems and assets, whether
+16 physical or virtual, so vital to Louisiana or the United States of America that the
+17 incapacity or destruction of such systems and assets would have a debilitating
+18 impact on state or national security, state or national economic security, state
+19 or national public health, or any combination of those matters. A critical
+20 infrastructure may be publicly or privately owned, and includes but is not
+21 limited to the following:
+22 (a) Gas and oil production, storage, or delivery systems.
+23 (b) Water supply, refinement, storage, or delivery systems.
+24 (c) Telecommunications networks.
+25 (d) Electrical power delivery systems.
+26 (e) Emergency services.
+27 (f) Transportation systems and services.
+28 (g) Personal data or otherwise classified information storage systems,
+29 including cybersecurity.
+Page 2 of 9
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-615 ORIGINAL
+SB NO. 251
+1 (3) "Cybersecurity" shall mean the measures taken to protect a
+2 computer, computer network, computer system, or other technology
+3 infrastructure against unauthorized use or access.
+4 (4) "Domicile" shall mean either the country in which a company is
+5 registered, or where the company's affairs are primarily completed, or where
+6 the majority of ownership share is held.
+7 (5) "Foreign adversary" shall mean those countries listed in 15 CFR
+8 791.4.
+9 (6) "Foreign Principal" shall mean the following entities:
+10 (a) The government or any official of the government of a foreign
+11 adversary.
+12 (b) A political party or member of a political party or any subdivision of
+13 a political party of a foreign adversary.
+14 (c) A partnership, association, corporation, organization, or other
+15 combination of persons organized under the laws of or having its principal place
+16 of business in a foreign adversary, or a subsidiary of such entity, owned or
+17 controlled wholly or in part by any person, entity, or collection of persons or
+18 entities of a foreign adversary.
+19 (d) Any person who is domiciled in a foreign adversary and is not a
+20 citizen or lawful permanent resident of the United States.
+21 (e) Any person, entity, or collection of persons or entities, described in
+22 Subparagraphs (a) through (d) of this Paragraph having a controlling interest
+23 in a partnership, association, corporation, organization, trust, or any other legal
+24 entity or subsidiary formed for the purpose of owning real property.
+25 (7) "Office" means the Governor's Office of Homeland Security and
+26 Emergency Preparedness.
+27 (8) "Software" shall mean any program or routine, or any set of one or
+28 more programs or routines, which are used or intended for use to cause one or
+29 more computers or pieces of computer related peripheral equipment, or any
+Page 3 of 9
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-615 ORIGINAL
+SB NO. 251
+1 combination thereof, to perform a task or set of tasks, as it relates to state
+2 infrastructure, or any operational software.
+3 §3084. Prohibited access to critical infrastructure
+4 A. A company or other entity constructing, repairing, operating, or
+5 otherwise having significant access to critical infrastructure may not enter into
+6 an agreement relating to critical infrastructure in this state with a foreign
+7 principal from a foreign adversary country if the agreement would allow the
+8 foreign principal from a foreign adversary country to directly or remotely
+9 access or control critical infrastructure in this state.
+10 B. A governmental entity may not enter into a contract or other
+11 agreement relating to critical infrastructure in this state with a company that
+12 is a foreign principal from a foreign adversary country if the agreement would
+13 allow the foreign principal from a foreign adversary country to directly or
+14 remotely access or control critical infrastructure in this state.
+15 C. Notwithstanding the provisions in Subsections A and B of this Section,
+16 an entity or governmental entity may enter into a contract or agreement
+17 relating to critical infrastructure with a foreign principal from a foreign
+18 adversary country or use products or services produced by a foreign principal
+19 from a foreign adversary country if all of the following apply:
+20 (1) There is no other reasonable option for addressing the need relevant
+21 to state critical infrastructure.
+22 (2) The contract is pre-approved by Governor's Office of Homeland
+23 Security and Emergency Preparedness.
+24 (3) Not entering into such a contract or agreement would pose a greater
+25 threat to the state than the threat associated with entering into the contract.
+26 §3085. Requirements for access to critical infrastructure
+27 A. In order to access critical infrastructure, a company shall file a
+28 certification form with the Governor's Office of Homeland Security and
+29 Emergency Preparedness. The office shall prescribe the registration form to be
+Page 4 of 9
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-615 ORIGINAL
+SB NO. 251
+1 filed pursuant to this Section.
+2 B. In order to maintain satisfactory registration as a company with
+3 access to critical infrastructure, a company shall do the following:
+4 (1) Identify all employee positions in the organization that have access
+5 to critical infrastructure.
+6 (2) Prior to hiring a person described in Subsection A of this Section or
+7 allowing a person to continue to have access to critical infrastructure, obtain
+8 from the office or a private vendor criminal history record information relating
+9 to the prospective employee and any other background information considered
+10 necessary by the company or required by the office to protect critical
+11 infrastructure from foreign adversary infiltration or interference.
+12 (3) Prohibit foreign nationals from an adversary nation from access to
+13 critical infrastructure.
+14 (4) Disclose any ownership of, partnership with, or control from any
+15 entity not domiciled within the United States.
+16 (5) Store and process all data generated by such critical infrastructure
+17 on servers outside of foreign adversaries.
+18 (6) Not use cloud service providers or data centers that are foreign
+19 adversary entities.
+20 (7) Immediately report any cyberattack, security breach, or suspicious
+21 activity to the Governor's Office of Homeland Security and Emergency
+22 Preparedness.
+23 (8) Be in compliance with the provisions of R.S. 51:3084.
+24 C. The Governor's Office of Homeland Security and Emergency
+25 Preparedness shall provide that a company is compliant with all requirements
+26 of this Section or revoke certification.
+27 §3086. Powers of Governor's Office of Homeland Security and Emergency
+28 Preparedness
+29 A. The office shall be notified by the owner of a critical infrastructure
+Page 5 of 9
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-615 ORIGINAL
+SB NO. 251
+1 installation of any proposed sale or transfer of, or investment in, such critical
+2 infrastructure to an entity domiciled outside of the United States or an entity
+3 with any foreign adversary ownership.
+4 B. The office shall have no more than thirty days following the notice to
+5 investigate a proposed sale, transfer, or investment in an entity as provided in
+6 this Section. If the office finds, within a reasonable suspicion, that such
+7 proposed sale, transfer, or investment shall threaten state critical infrastructure
+8 security, state economic security, state public health, or any combination of
+9 those matters, the attorney general, on behalf of the office, shall file a request
+10 for injunction opposing the proposed sale, transfer, or investment with the
+11 Louisiana Supreme Court.
+12 C. If the supreme court finds that such sale, transfer, or investment poses
+13 a reasonable threat to state critical infrastructure security, state economic
+14 security, state or national public health, or any combination of those matters,
+15 the court shall issue a denial of approval.
+16 D. The office shall notify critical infrastructure entities of known or
+17 suspected cyber threats, vulnerabilities, and adversarial activities in a manner
+18 consistent with the following:
+19 (1) Identifying and closing similar exploits in like critical infrastructure
+20 installations or processes, especially after being notified of the activity.
+21 (2) Maintaining operational security and normal functioning of critical
+22 infrastructure.
+23 (3) Any notification given pursuant to this Subsection shall protect the
+24 rights of private critical infrastructure entities, including by reducing the extent
+25 to which trade secrets or other proprietary information is shared between
+26 entities, to the extent that such precaution does not inhibit the ability of the
+27 Governor's Office of Homeland Security and Emergency Preparedness to
+28 effectively communicate the threat of a known or suspected exploit or
+29 adversarial activity.
+Page 6 of 9
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-615 ORIGINAL
+SB NO. 251
+1 §3087. Prohibitions on certain software in critical infrastructure
+2 A. All software used in critical infrastructure located within or serving
+3 Louisiana shall henceforth not include any software produced by a company
+4 headquartered in and subject to the laws of a foreign adversary, or a company
+5 under the direction or control of a foreign adversary.
+6 B. All software used in state infrastructure in operation within or serving
+7 Louisiana, to include any state infrastructure which is not permanently
+8 disabled, shall have all software prohibited under the provisions of R.S.
+9 51:3086(A) or (B) removed and replaced with software which is not prohibited
+10 under the provisions of R.S. 51:3086(A) or (B).
+11 C. Any state infrastructure provider that removes, discontinues, or
+12 replaces any prohibited software shall not be required to obtain any additional
+13 permits from any state agency or political subdivision for the removal,
+14 discontinuance, or replacement of such software as long as the state agency or
+15 political subdivision is properly notified of the necessary replacements and the
+16 replacement software is similar to the existing software.
+17 §3088. Prohibition on adversary network-connected devices
+18 A. On or after September 1, 2026, a governmental entity or critical
+19 infrastructure provider shall not knowingly add any additional foreign
+20 adversary network-connected technologies to any critical infrastructure
+21 operating network or renew a contract with a contracting vendor of a school
+22 bus infraction detection system, speed detection system, traffic infraction
+23 detector, or any other camera system used for enforcing traffic.
+24 B. On or after September 1, 2026, Governor's Office of Homeland
+25 Security and Emergency Preparedness shall create a public listing of all
+26 prohibited information and communications network-connected technologies
+27 that shall not be connected to critical infrastructure operating networks starting
+28 thirty days after the technology is listed. These technologies should include at
+29 a minimum school bus infraction detection systems, speed detection systems,
+Page 7 of 9
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-615 ORIGINAL
+SB NO. 251
+1 traffic infraction detectors, or any other camera system used for enforcing
+2 traffic, video surveillance technology, Light Detection and Ranging (LiDAR)
+3 technology, batteries, battery management systems, routers, modems, smart
+4 meters, solar inverters, and solar panels. The office shall include technologies
+5 where the original equipment manufacturer is controlled by a foreign
+6 adversary.
+7 §3089. Foreign Adversary Fraud Fund
+8 A. The Foreign Adversary Fraud Office (FAFO) is hereby created within
+9 the consumer protection division of the office of the attorney general. The
+10 director of this office shall be appointed by the attorney general.
+11 B. The FAFO shall develop and bring legal claims against entities
+12 suspected of violating consumer fraud laws in their marketing, distribution,
+13 selling and otherwise promulgating of foreign adversary technologies. The
+14 resources for staffing and costs of litigation costs with bringing consumer fraud
+15 claims under the FAFO shall be administered by the office of the attorney
+16 general who may use funds appropriated to execute contracts with outside
+17 counsel to assist in implementing the provisions of this Section.
+18 C. The FAFO office may pursue other litigation strategies, investigations,
+19 and other legal activities as approved by the attorney general provided these
+20 monies are used for defending Louisiana against foreign adversaries.
+21 §3090. Foreign Adversary Technology Rip and Replace Fund
+22 A. The Foreign Adversary Technology Rip and Replace Fund (FATRRP)
+23 is hereby created under the Governor's Office for Homeland Security and
+24 Emergency Preparedness. This fund shall provide resources for the replacement
+25 of foreign adversary technologies from state and local government systems and
+26 state critical infrastructure.
+27 B. The Governor's Office of Homeland Security and Emergency
+28 Preparedness shall develop a prioritized list of state and local government
+29 systems and state critical infrastructure based upon the security risk to the state
+Page 8 of 9
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-615 ORIGINAL
+SB NO. 251
+1 of incapacitation of the assets. Upon receipt of funds, the Governor's Office of
+2 Homeland Security and Emergency Preparedness shall audit these assets for the
+3 presence of foreign adversary technologies and shall rip and replace these
+4 technologies upon the availability of funds for replacement.
+5 Section 2. The Louisiana State Law Institute is hereby directed to designate the
+6 provisions of R.S. 51:3071 through 3080 as Part A of Chapter 51 of Title 51 of the Louisiana
+7 Revised Statutes of 1950 to be entitled, "PART A. DATABASE SECURITY BREACH
+8 NOTIFICATION".
+The original instrument and the following digest, which constitutes no part
+of the legislative instrument, were prepared by Senate Legislative Services.
+The keyword, summary, and digest do not constitute part of the law or proof
+or indicia of legislative intent. [R.S. 1:13(B) and 24:177(E)]
+DIGEST
+SB 251 Original 2026 Regular Session Pressly
+Proposed law enacts the "Louisiana Critical Infrastructure Protection Act".
+Proposed law provides mechanisms to protect against foreign adversaries accessing state
+critical infrastructure. Provides for assessing the state's vulnerability to sanctioned
+communications equipment and to prohibit certain use of adversary cameras and laser sensor
+technologies in state transportation systems.
+Proposed law creates the Foreign Adversary Fraud Office (FAFO) within the consumer
+protection division of the office of the attorney general to develop and bring legal claims
+against entities suspected of violating consumer fraud laws in their marketing, distribution,
+selling and otherwise promulgating of foreign adversary technologies.
+Authorizes the FAFO to pursue other litigation strategies, investigations, and other legal
+activities.
+Proposed law creates Foreign Adversary Technology Rip and Replace Fund (FATRRP)
+within the Governor's Office for Homeland Security and Emergency Preparedness to provide
+funds to assist in replacement of foreign adversary technologies from state and local
+government systems and state critical infrastructure.
+Proposed law requires that the Governor's Office of Homeland Security and Emergency
+Preparedness shall develop a prioritized list of state and local government systems and state
+critical infrastructure based upon the security risk to the state of incapacitation of the assets.
+Requires the office to audit these assets for the presence of foreign adversary technologies
+and shall rip and replace these technologies upon the availability of funds for replacement.
+Effective August 1, 2026.
+(Adds R.S. 51:3081-3090)
+Page 9 of 9
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.

@@ -1,0 +1,86 @@
+Title: 
+Official Title: 
+Source: versions - HB860 Original
+Media Type: application/pdf
+
+================================================================================
+
+HLS 26RS-1337 ORIGINAL
+2026 Regular Session
+HOUSE BILL NO. 860
+BY REPRESENTATIVE BRAUD
+CONTRACTS/BIDS: Authorizes the use of fillable form to receive electronic public bids
+1 AN ACT
+2 To amend and reenact R.S. 38:2212(B)(2), relative to electronic bidding; to authorize the use
+3 of fillable electronic bid forms for electronic bidding; to provide relative to
+4 advertisement of bids; to provide for formatting of certain bid forms; and to provide
+5 for related matters.
+6 Be it enacted by the Legislature of Louisiana:
+7 Section 1. R.S. 38:2212(B)(2) is hereby amended and reenacted to read as follows:
+8 §2212. Advertisement and letting to lowest responsible and responsive bidder;
+9 public work; electronic bidding; participation in mentor-protégé program;
+10 exemptions; subpoena
+11 * * *
+12 B.
+13 * * *
+14 (2) Any Except as otherwise provided in this Section, any public entity
+15 advertising for public work shall use only the Louisiana Uniform Bid Form as
+16 promulgated in accordance with the Administrative Procedure Act by the division
+17 of administration, office of facility planning and control. A public entity may use
+18 a fillable electronic bid form to facilitate the receipt of bids through an electronic
+19 bidding platform if the fillable electronic bid form includes all of the text and input
+20 fields contained in the Louisiana Uniform Bid Form. A public entity shall not add
+Page 1 of 3
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1337 ORIGINAL
+HB NO. 860
+1 any bidder requirements or bidder input fields to a fillable electronic bid form that
+2 are not contained in the Louisiana Uniform Bid Form. Deviations in the formatting
+3 of a fillable electronic bid form used by a public entity from the formatting of the
+4 Louisiana Uniform Bid Form shall not constitute a violation of this Section. The
+5 bidding documents shall require only the following information and documentation
+6 to be submitted by a bidder at the time designated in the advertisement for bid
+7 opening: Bid Security or Bid Bond; Acknowledgment of Addenda; Base Bid;
+8 Alternates; Signature of Bidder; Name, Title, and Address of Bidder; Name of Firm
+9 or Joint Venture; Corporate Resolution or written evidence of the authority of the
+10 person signing the bid; and Louisiana Contractors License Number, and on public
+11 works projects where unit prices are utilized, a section on the bid form where the unit
+12 price utilized in the bid shall be set forth including a description for each unit;
+13 however, unit prices shall not be utilized for the construction of building projects,
+14 unless the unit prices and their extensions are incorporated into the base bid or
+15 alternates. If a public entity adds any additional requirements for information, unless
+16 mandated by state or federal requirements, the requirements shall be void and not
+17 considered in the award of the contract. Any timely change by a bidder to the bid
+18 prior to submission of the bid shall be scratched through and initialed by the bidder
+19 or the person who submits the bid. The change as initialed shall be binding.
+20 * * *
+DIGEST
+The digest printed below was prepared by House Legislative Services. It constitutes no part
+of the legislative instrument. The keyword, one-liner, abstract, and digest do not constitute
+part of the law or proof or indicia of legislative intent. [R.S. 1:13(B) and 24:177(E)]
+HB 860 Original 2026 Regular Session Braud
+Abstract: Authorizes public entities to use a fillable electronic bid form for submitting
+bids.
+Present law specifies that no public entity may waive the rules in present law or its bidding
+documents. Requires public entities to use the La. Uniform Bid Form for public work,
+which only requires basic bidder information, bid security, acknowledgment of addenda,
+base bid, alternates, signatures, and license numbers. Authorizes the use of unit prices only
+as specified, and any extra requirements added by the public entity (unless legally required)
+Page 2 of 3
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1337 ORIGINAL
+HB NO. 860
+are void. Additionally, requires that changes to a bid before submission be initialed by the
+bidder and are binding.
+Proposed law retains present law and authorizes public entities to use a fillable electronic
+bid form for submitting bids, as long as it contains all text and fields from the La. Uniform
+Bid Form. Prohibits additional bidder requirements or input fields from being added.
+Clarifies that deviations in formatting from the standard form are not violations.
+(Amends R.S. 38:2212(B)(2))
+Page 3 of 3
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.

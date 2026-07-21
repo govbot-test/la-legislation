@@ -1,0 +1,655 @@
+Title: 
+Official Title: 
+Source: versions - HB734 Original
+Media Type: application/pdf
+
+================================================================================
+
+HLS 26RS-534 ORIGINAL
+2026 Regular Session
+HOUSE BILL NO. 734
+BY REPRESENTATIVES CARLSON, DESHOTEL, SCHLEGEL, AND CARVER
+COMMERCE: Creates a consumer bill of rights regarding artificial intelligence
+1 AN ACT
+2 To enact Part XIII of Chapter 10 of Title 38 of the Louisiana Revised Statutes of 1950, to
+3 be comprised of R.S. 38:2320.21, and Chapter 70 of Title 51 of the Louisiana
+4 Revised Statutes of 1950, to be comprised of R.S. 51:3301 through 3308, relative to
+5 regulation of artificial intelligence; to prohibit the state from entering into artificial
+6 intelligence contracts with foreign countries of concern; to provide an artificial
+7 intelligence bill of rights; to restrict chatbot use by minors; to provide for consumer
+8 protections regarding bots; to provide consumer protections for disclosure of data;
+9 to provide for civil causes of action; to provide for investigations by the attorney
+10 general; to prohibit unauthorized publication of a person's name, image, or likeness;
+11 to provide for civil penalties; to provide for exemptions; and to provide for related
+12 matters.
+13 Be it enacted by the Legislature of Louisiana:
+14 Section 1. Part XIII of Chapter 10 of Title 38 of the Louisiana Revised Statutes of
+15 1950, comprised of R.S. 38:2320.21, is hereby enacted as follows:
+16 PART XIII. ARTIFICIAL INTELLIGENCE
+17 §2320.21. Artificial intelligence; public contracts with entities of foreign countries
+18 of concern prohibited
+19 A. As used in this Section, these terms shall have the following definitions
+20 ascribed to them, unless the context indicates otherwise:
+Page 1 of 18
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-534 ORIGINAL
+HB NO. 734
+1 (1) "Artificial intelligence" means an engineered or machine-based system
+2 that varies in its level of autonomy and that can, for explicit or implicit objectives,
+3 infer from the input it receives how to generate outputs that influence physical or
+4 virtual environments.
+5 (2) “Foreign country of concern” means the People's Republic of China, the
+6 Russian Federation, the Islamic Republic of Iran, the Democratic People's Republic
+7 of Korea, or the Republic of Cuba, including any agency of or any other entity under
+8 significant control of a foreign country of concern.
+9 B. This state or a political subdivision shall not enter into, modify, renew,
+10 or extend a contract with an entity to provide artificial intelligence technology,
+11 software, or products, including as a portion of or an option to the products or
+12 services provided under the contract, unless the entity provides this state or that
+13 political subdivision with an affidavit signed by an officer or a representative of the
+14 entity attesting that the entity does not meet any of the following criteria:
+15 (1) The entity is owned by the government of a foreign country of concern.
+16 (2) A government of a foreign country of concern has a controlling interest
+17 in the entity.
+18 (3) The entity is organized under the laws of or has its principal place of
+19 business in a foreign country of concern.
+20 Section 2. Chapter 70 of Title 51 of the Louisiana Revised Statutes of 1950,
+21 comprised of R.S. 51:3301 through 3308, is hereby enacted to read as follows:
+22 CHAPTER 70. THE LOUISIANA A.I. BILL OF RIGHTS
+23 §3301. Short title
+24 This Chapter may be cited as the "The Louisiana A.I. Bill of Rights".
+25 §3302. Definitions
+26 As used in this Chapter, these terms have the following definitions ascribed
+27 to them, unless the context indicates otherwise:
+28 (1) "Account holder" means an individual who opens an account or creates
+29 a profile or is identified by the companion chatbot platform by a unique identifier
+Page 2 of 18
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-534 ORIGINAL
+HB NO. 734
+1 while he is using or accessing the platform, if the platform knows or has reason to
+2 believe the individual is a resident of this state.
+3 (2) "Artificial intelligence" means an engineered or machine-based system
+4 that varies in its level of autonomy and that can, for explicit or implicit objectives,
+5 infer from the input it receives how to generate outputs that influence physical or
+6 virtual environments.
+7 (3) "Artificial intelligence technology company" means a business or
+8 organization that produces, develops, creates, designs, or manufactures artificial
+9 intelligence technology or products, collects data for use in artificial intelligence
+10 products, or implements artificial intelligence technology.
+11 (4) "Bot" means an automated online software application in which all or
+12 substantially all of the actions or posts of the account are not the result of a natural
+13 person.
+14 (5) "Companion chatbot" means an artificial intelligence system with a
+15 natural language interface that provides adaptive, human-like responses to user
+16 inputs and is capable of meeting a user's social needs, including by exhibiting
+17 anthropomorphic features and being able to sustain a relationship across multiple
+18 interactions. "Companion chatbot" does not include the following:
+19 (a) A bot used only for customer service or for a business's operational
+20 purposes, productivity, or analysis related to source information, internal research,
+21 or technical assistance.
+22 (b) A bot that is a feature of a video game and is limited to replies related to
+23 the video game and does not discuss topics related to mental health, self-harm, or
+24 material harmful to minors or maintain a dialogue on other topics unrelated to the
+25 video game.
+26 (c) A stand-alone consumer electronic device that functions as a speaker and
+27 voice command interface, acts as a voice-activated virtual assistant, and does not
+28 sustain a relationship across multiple interactions or generate outputs likely to elicit
+29 emotional responses in the user.
+Page 3 of 18
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-534 ORIGINAL
+HB NO. 734
+1 (6) "Companion chatbot platform" means a platform that allows a user to
+2 engage with a companion chatbot.
+3 (7) "Deidentified data" means data that cannot reasonably be linked to an
+4 identified or identifiable individual or a device linked to that individual.
+5 (8) “Material harmful to minors” has the same meaning as defined in R.S.
+6 51:2121.
+7 (9) "Minor" means any person who has not attained the age of eighteen years.
+8 (10) "Operator" means a person who owns, operates, or otherwise makes
+9 available a bot to an individual in this state.
+10 (11) "Pop-up" means a visible notification on the computer, tablet, or mobile
+11 phone screen of a user which is resolved if the user interacts with or responds to the
+12 notification.
+13 (12) "Resident" means an individual who has resided in this state for more
+14 than six months during the preceding twelve-month period.
+15 (13) "User" means an individual who resides or is domiciled in this state and
+16 who accesses an internet website, online or cloud computing service, online
+17 application, or mobile application.
+18 (14) "Video game" means a game played on an electronic device that uses
+19 a computer, microprocessor, or similar electronic circuitry and its own monitor, or
+20 is designed to be used with a television set or a computer monitor, to interact with
+21 the user of the device.
+22 §3303. Rights relating to the use of artificial intelligence
+23 A. Residents of this state are entitled to certain rights with respect to the use
+24 of artificial intelligence including but not limited to all of the following:
+25 (1) The right to use artificial intelligence to improve their own lives and the
+26 lives of family members, fellow residents, and the world at large in accordance with
+27 the law.
+28 (2) The right to supervise, access, limit, and control their minor children's
+29 use of artificial intelligence.
+Page 4 of 18
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-534 ORIGINAL
+HB NO. 734
+1 (3) The right to know whether they are communicating with a human being
+2 or an artificial intelligence system, program, or chatbot.
+3 (4) The right to know if artificial intelligence technology companies are
+4 collecting personal information or biometric data, and the right to expect artificial
+5 intelligence technology companies to protect and deidentify that information or data
+6 in accordance with the law.
+7 (5) The right to pursue civil remedies authorized by law against persons who
+8 use artificial intelligence to appropriate the name, image, or likeness of others for
+9 commercial purposes without their consent.
+10 (6) The right to be protected by law from criminal acts, such as fraud,
+11 exploitation, identity theft, stalking, and cyberbullying, regardless of whether
+12 artificial intelligence is used in the commission of those acts.
+13 (7) The right to be protected by law from criminal acts relating to the
+14 alteration of existing images to create sexual or lewd or lascivious images or child
+15 pornography, regardless of whether artificial intelligence is used in the commission
+16 of those acts.
+17 (8) The right to know whether political advertisements, electioneering
+18 communications, or similar advertisements were created in whole or in part with the
+19 use of artificial intelligence.
+20 (9) The right to pursue civil remedies authorized by law against others who
+21 use artificial intelligence to slander, libel, or defame them.
+22 B. Residents of this state may exercise the rights described in this Section
+23 in accordance with existing law. This Section shall not be construed as creating new
+24 or independent rights or entitlements.
+25 §3304. Companion chatbot use for minors
+26 A. A companion chatbot platform shall prohibit a minor from entering into
+27 a contract with the platform to become an account holder or from maintaining an
+28 existing account, unless the minor's parent or guardian provides consent for the
+29 minor to become an account holder or maintain an existing account.
+Page 5 of 18
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-534 ORIGINAL
+HB NO. 734
+1 (1) If the minor's parent or guardian provides consent for the minor to
+2 become an account holder or maintain an existing account, the companion chatbot
+3 platform shall allow the consenting parent or guardian of the minor account holder
+4 to do all of the following:
+5 (a) Obtain copies of all interactions between the account holder and the
+6 companion chatbot.
+7 (b) Limit the amount of time that the account holder may interact with the
+8 companion chatbot each day.
+9 (c) Limit the days of the week and the times during the day when the account
+10 holder may interact with the companion chatbot.
+11 (d) Disable any of the interactions between the account holder and
+12 third-party account holders on the companion chatbot platform.
+13 (e) Receive timely notifications if the account holder expresses to the
+14 companion chatbot a desire or an intent to engage in self-harm or to harm others.
+15 (2) A companion chatbot platform shall do all of the following:
+16 (a) Terminate an account belonging to an account holder who is a minor if
+17 the companion chatbot platform treats or categorizes that account as belonging to a
+18 minor for purposes of targeting content or advertising and if the minor's parent or
+19 guardian has not provided consent for the minor to become an account holder or to
+20 maintain an existing account. The companion chatbot platform shall provide ninety
+21 days for the account holder to dispute the termination. Termination shall be effective
+22 upon the expiration of the ninety-day period if the account holder fails to effectively
+23 dispute the termination.
+24 (b) Allow an account holder who is a minor to request to terminate the
+25 account. Termination shall be effective within five business days of the request.
+26 (c) Allow the consenting parent or guardian of an account holder who is a
+27 minor to request that the minor's account be terminated. Termination shall be
+28 effective within ten business days following the request.
+Page 6 of 18
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-534 ORIGINAL
+HB NO. 734
+1 (d) Permanently delete all personal information held by the companion
+2 chatbot platform relating to the terminated account, unless state or federal law
+3 requires the platform to maintain the information.
+4 B. In connection with all accounts held by account holders who are minors,
+5 a companion chatbot platform shall do all of the following:
+6 (1) Disclose to the account holder that he is interacting with artificial
+7 intelligence.
+8 (2) Provide by default a clear and conspicuous notification to the account
+9 holder, at the beginning of companion chatbot interactions and at least once every
+10 hour during continuing interactions, reminding the minor to take a break and that the
+11 companion chatbot is artificially generated and not human.
+12 (3) Institute reasonable measures to prevent its companion chatbot from
+13 producing or sharing material harmful to minors or encouraging the account holder
+14 to engage in any of the conduct described or depicted in materials harmful to minors.
+15 C.(1) A knowing or reckless violation of this Section is deemed a deceptive
+16 or unfair trade practice or act pursuant to the Unfair Trade Practices and Consumer
+17 Protection Law, R.S. 51;1401 et seq.
+18 (2) If the attorney general has reason to believe that a companion chatbot
+19 platform is in violation of this Section, the attorney general may bring an action
+20 against that platform for a deceptive or unfair trade practice or act.
+21 (3) In addition to other remedies provided for in this Chapter, the attorney
+22 general may impose a civil penalty of up to fifty thousand dollars per violation as
+23 well as reasonable attorney fees and court costs.
+24 (4) If the companion chatbot platform's failure to comply with this Section
+25 is part of a consistent pattern of knowing or reckless conduct, punitive damages may
+26 be assessed against the companion chatbot platform.
+27 D.(1) A companion chatbot platform that knowingly or recklessly violates
+28 this Section shall be liable to a minor account holder for up to ten thousand dollars
+Page 7 of 18
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-534 ORIGINAL
+HB NO. 734
+1 in damages, as well as court costs and reasonable attorney fees, as ordered by the
+2 Court.
+3 (2) A civil action for a claim pursuant to this Subsection may be brought
+4 within two years of the date the complainant knew, or reasonably should have
+5 known, of the alleged violation.
+6 (3) An action brought pursuant to this Subsection may be brought only on
+7 behalf of a minor account holder.
+8 E. For purposes of bringing an action in accordance with this Section, a
+9 companion chatbot platform that allows a minor account holder in this state to create
+10 an account on the platform is considered to be both engaged in substantial and not
+11 isolated activities within this state and operating, conducting, engaging in, or
+12 carrying on a business and doing business in this state, and is therefore subject to the
+13 jurisdiction of the courts of this state.
+14 F. If a companion chatbot platform allows a minor account holder to use the
+15 companion chatbot platform, the parties have entered into a contract.
+16 G. This Section does not preclude any other available remedy at law or
+17 equity.
+18 §3305. Consumer protections regarding bots
+19 A. At the beginning of an interaction between a user and a bot, and at least
+20 once every hour during the interaction, an operator shall display a pop-up message
+21 notifying users that they are not engaging in dialogue with a human counterpart.
+22 B.(1) A violation of this Section is deemed a deceptive or unfair trade
+23 practice or act pursuant to the Unfair Trade Practices and Consumer Protection Law,
+24 R.S. 51;1401 et seq. and may be enforced by the attorney general on behalf of a user
+25 of a bot.
+26 (2) If the attorney general has reason to believe that an operator is in
+27 violation of this Section, the attorney general may bring an action against the
+28 operator for a deceptive or unfair trade practice or act.
+Page 8 of 18
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-534 ORIGINAL
+HB NO. 734
+1 (3) In addition to any other remedy provided for in this Chapter, the attorney
+2 general may impose a civil penalty of up to fifty thousand dollars per violation plus
+3 reasonable attorney fees and court costs as ordered by the court.
+4 C. This Section does not preclude any other available remedy at law or
+5 equity.
+6 D. For purposes of bringing an action pursuant to this Section, a person who
+7 meets the definition of an operator who owns, operates, or otherwise makes available
+8 a bot to individuals in this state is considered to be both engaged in substantial and
+9 not isolated activities within this state and operating, conducting, engaging in, or
+10 carrying on a business, and doing business in this state, and is therefore subject to the
+11 jurisdiction of the courts of this state.
+12 §3306. Consumer protections regarding deidentified data
+13 A. An artificial intelligence technology company shall not sell or disclose
+14 personal information of users unless the information is deidentified data except as
+15 required by the laws of this state or of the United States.
+16 B. An artificial intelligence technology company in possession of
+17 deidentified data shall do all of the following:
+18 (1) Take reasonable measures to ensure that the data cannot be associated
+19 with an individual.
+20 (2) Maintain and use the data in deidentified form.
+21 (3) Contractually obligate a recipient of the deidentified data to comply with
+22 this Section.
+23 (4) Implement business processes to prevent the inadvertent release of
+24 deidentified data.
+25 C.(1) A violation of this Section is deemed a deceptive or unfair trade
+26 practice or act pursuant to the Unfair Trade Practices and Consumer Protection Law,
+27 R.S. 51;1401 et seq., and may be enforced by the attorney general.
+28 (2) If the attorney general has reason to believe that an artificial intelligence
+29 technology company is in violation of this Section, the attorney general may bring
+Page 9 of 18
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-534 ORIGINAL
+HB NO. 734
+1 an action against the artificial intelligence technology company for a deceptive or
+2 unfair trade practice or act.
+3 (3) In addition to any other remedy provided for in this Chapter, the attorney
+4 general may collect a civil penalty of up to fifty thousand dollars per violation and
+5 reasonable attorney fees and court costs.
+6 D. For purposes of bringing an action pursuant to this Section, a person who
+7 meets the definition of an artificial intelligence technology company that produces,
+8 develops, creates, designs, or manufactures artificial intelligence technology or
+9 products, collects data for use in artificial intelligence products, or implements
+10 artificial intelligence technology in this state is considered to be both engaged in
+11 substantial and not isolated activities within this state and operating, conducting,
+12 engaging in, or carrying on a business, and doing business in this state, and is
+13 therefore subject to the jurisdiction of the courts of this state.
+14 §3307. Investigations
+15 A. If, by his own inquiry or as a result of complaints, the attorney general
+16 has reason to believe that a person has engaged in, or is engaging in, a practice or an
+17 act that violates this Chapter, the attorney general may administer oaths and
+18 affirmations, subpoena witnesses or matter, and collect evidence. Within five days,
+19 excluding weekends and legal holidays, after service of a subpoena or at any time
+20 before the return date specified in the subpoena, whichever time period is longer, the
+21 person served shall file in the district court of the parish in which it resides or in
+22 which it transacts business and serve upon the enforcing authority a petition for an
+23 order modifying or setting aside the subpoena. The petitioner shall raise any
+24 objection or privilege that would be available upon service of a subpoena in a civil
+25 action. The subpoena shall inform the party served of the party's rights under this
+26 Subsection.
+27 B. If the matter that the attorney general seeks to obtain by subpoena is
+28 located outside this state, the person subpoenaed shall make the matter available to
+29 the attorney general or his representative at the place where the person is located.
+Page 10 of 18
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-534 ORIGINAL
+HB NO. 734
+1 The attorney general may designate representatives, including officials of the state
+2 in which the matter is located, to inspect the matter on his behalf and may respond
+3 to similar requests from officials of other states.
+4 C. Upon the failure of a person, without lawful excuse, to obey a subpoena
+5 and upon reasonable notice to all persons affected, the attorney general may apply
+6 to the district court for an order compelling compliance.
+7 D. The attorney general may request that a person who refuses to comply
+8 with a subpoena on the grounds that the testimony or matter is self-incriminating be
+9 ordered by the court to provide that testimony or matter. Except in a prosecution for
+10 perjury, a person who complies with a court order to provide testimony or matter
+11 after asserting a valid privilege against self-incrimination shall not have that
+12 testimony or matter used against him in any criminal investigation or proceeding.
+13 E. A person upon whom a subpoena is served pursuant to this part shall
+14 comply with its terms unless otherwise provided by order of the court. A person who
+15 fails to appear, with the intent to avoid, evade, or prevent compliance in whole or in
+16 part with an investigation under this part, or who removes from any place, conceals,
+17 withholds, mutilates, alters, or destroys, or by any other means falsifies any
+18 documentary material in the possession, custody, or control of a person subject to a
+19 subpoena, or who knowingly conceals relevant information with the intent to avoid,
+20 evade, or prevent compliance, is liable for a civil penalty of not more than five
+21 thousand dollars per week in violation, reasonable attorney fees, and costs.
+22 §3308. Unauthorized publication of name, image, or likeness
+23 A. As used in this Section, the term:
+24 (1) "Generative artificial intelligence" means a machine-based system that
+25 can, for a given set of human-defined objectives, emulate the structure and
+26 characteristics of input data in order to generate derived synthetic content, including
+27 images, videos, audio, text, and other digital content.
+Page 11 of 18
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-534 ORIGINAL
+HB NO. 734
+1 (2) "Person" has the same meaning as in Civil Code Article 24 but also
+2 includes a government or a governmental subdivision, agency, instrumentality, or
+3 public corporation.
+4 (3) "Servicemember" means a person serving as a member of the United
+5 States Armed Forces on active duty or state active duty or a member of the Louisiana
+6 National Guard or United States Reserve Forces.
+7 (4) "Surviving children" means an individual's immediate offspring and any
+8 children legally adopted by the individual.
+9 (5) "Surviving spouse" means an individual's surviving spouse under the law
+10 of the individual's domicile at the time of the individual's death, regardless of
+11 whether the spouse later remarries.
+12 B. A person shall not publish, print, display, or otherwise publicly use for
+13 trade or for any commercial or advertising purpose the name, portrait, photograph,
+14 image, or other likeness of an individual created through generative artificial
+15 intelligence without the express written or oral consent to such use given by any of
+16 the following:
+17 (1) The individual.
+18 (2) Any other person authorized in writing by the individual to license the
+19 commercial use of the individual's name, image, or likeness.
+20 (3) If the individual is deceased, express consent of one of the following:
+21 (a) A person authorized in writing to license the commercial use of the
+22 deceased individual's name, image, or likeness.
+23 (b) If no person is authorized in accordance with Subparagraph (a) of this
+24 Paragraph, any one individual from a class composed of the deceased individual's
+25 surviving spouse and surviving children. A legal parent or guardian may give
+26 consent on behalf of a minor surviving child.
+27 C. A person shall not publish, print, display, or otherwise publicly use for
+28 purposes of trade or for any commercial or advertising purpose the name, portrait,
+Page 12 of 18
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-534 ORIGINAL
+HB NO. 734
+1 photograph, image, or other likeness of an individual without the express written or
+2 oral consent to such use given by any of the following:
+3 (1) The individual.
+4 (2) Any other person authorized in writing by the individual to license the
+5 commercial use of the individual's name, image, or likeness.
+6 (3) If the individual is deceased, express consent of one of the following:
+7 (a) A person authorized in writing to license the commercial use of the
+8 deceased individual's name, image, or likeness.
+9 (b) If no person is authorized in accordance with Subparagraph (a) of this
+10 Paragraph, any one individual from a class composed of the deceased individual's
+11 surviving spouse and surviving children. A legal parent or guardian may give
+12 consent on behalf of a minor surviving child.
+13 D. If the consent required in Subsections B or C of this Section is not
+14 obtained, the individual whose name, portrait, photograph, image, or other likeness
+15 is used, or a person authorized by the individual in writing to license the commercial
+16 use of the individual's name, image, or likeness, or, if the individual whose likeness
+17 is used is deceased, a person having the right to give consent, as provided in
+18 Subsection B or C of this Section, may bring an action to enjoin the unauthorized
+19 publication, printing, display, or other public use and to recover damages for any loss
+20 or injury resulting from the unauthorized publication, including an amount that
+21 would have been a reasonable royalty, and punitive or exemplary damages.
+22 E. If a person uses the name, portrait, photograph, image, or other likeness
+23 of a servicemember without obtaining the consent required in Subsections B or C of
+24 this Section and the use is not subject to an exception listed in this Section, the court
+25 may impose a civil penalty of up to one thousand dollars per violation in addition to
+26 the civil remedies contained in Subsection D of this Section. Each commercial
+27 transaction constitutes a violation under this Section.
+28 F. This Section does not apply to any of the following:
+Page 13 of 18
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-534 ORIGINAL
+HB NO. 734
+1 (1) The publication, printing, display, or use of the name, image, or likeness
+2 of an individual in a newspaper, magazine, book, news broadcast or telecast, or other
+3 news medium or publication if used as part of a bona fide news report or presentation
+4 having a current and legitimate public interest and if the name, image, or likeness is
+5 not used for advertising purposes.
+6 (2) The use of an individual's name, portrait, photograph, image, or other
+7 likeness in connection with the resale or other distribution of literary, musical, or
+8 artistic productions or other articles of merchandise or property with the individual's
+9 consent on or in connection with the initial sale or distribution of the productions,
+10 articles, or merchandise.
+11 (3) A photograph of an individual solely as a member of the public if the
+12 individual is not named or otherwise identified in or in connection with the use of the
+13 photograph.
+14 G. No action shall be brought under this Section by reason of a publication,
+15 printing, display, or other public use of the name, image, or likeness of an individual
+16 occurring more than forty years after the death of the individual.
+17 H. The remedies in this Section are in addition to and not in limitation of the
+18 remedies and rights of any person under the law against the invasion of his privacy.
+19 Section 3. The provisions of Section 1 of this Act shall become effective on July 1,
+20 2026; if vetoed by the governor and subsequently approved by the legislature, this Act shall
+21 become effective on July 1, 2026, or on the day following such approval by the legislature,
+22 whichever is later.
+DIGEST
+The digest printed below was prepared by House Legislative Services. It constitutes no part
+of the legislative instrument. The keyword, one-liner, abstract, and digest do not constitute
+part of the law or proof or indicia of legislative intent. [R.S. 1:13(B) and 24:177(E)]
+HB 734 Original 2026 Regular Session Carlson
+Abstract: Provides relative to the regulation of artificial intelligence technology,
+prohibiting the state from entering into contracts with entities owned or controlled
+by foreign countries of concern, providing an artificial intelligence bill of rights for
+residents of this state, restricting companion chatbot use by minors, providing
+consumer protections for regarding chatbots and data usage and deidentification by
+Page 14 of 18
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-534 ORIGINAL
+HB NO. 734
+artificial intelligence technology companies, and restricting unauthorized publication
+of a person's name, image, or likeness generated by artificial intelligence.
+Proposed law defines "artificial intelligence" and "foreign country of concern".
+Proposed law prohibits the state or a political subdivision from entering into, modifying,
+renewing, or extending a contract to provide artificial intelligence technology unless the
+entity provides an affidavit signed by an officer or a representative of the entity attesting that
+the entity does not meet any of the following criteria:
+(1) The entity is owned by the government of a foreign country of concern.
+(2) A government of a foreign country of concern has a controlling interest in the entity.
+(3) The entity is organized under the laws of or has its principal place of business in a
+foreign country of concern.
+Proposed law provides for an effective date of this provision of proposed law on July 1,
+2026; if vetoed by the governor and subsequently approved by the legislature, this Act shall
+become effective on July 1, 2026, or on the day following such approval by the legislature,
+whichever is later.
+Proposed law defines "account holder", "artificial intelligence", "artificial intelligence
+technology company", "bot", "companion chatbot", "companion chatbot platform",
+"deidentified data", "material harmful to minors", "minor", "operator", "pop-up", "resident",
+"user", and "video game".
+Proposed law establishes that residents of this state are entitled to certain rights with respect
+to artificial intelligence, including but not limited to the following:
+(1) The right to use artificial intelligence to improve their own lives and the lives of
+family members, fellow residents, and the world at large in accordance with the law.
+(2) The right to supervise, access, limit, and control their minor children's use of
+artificial intelligence.
+(3) The right to know whether they are communicating with a human being or an
+artificial intelligence system, program, or chatbot.
+(4) The right to know if artificial intelligence technology companies are collecting
+personal information or biometric data, and the right to expect artificial intelligence
+technology companies to protect and deidentify that information or data in
+accordance with the law.
+(5) The right to pursue civil remedies authorized by law against persons who use
+artificial intelligence to appropriate the name, image, or likeness of others for
+commercial purposes without their consent.
+(6) The right to be protected by law from criminal acts, such as fraud, exploitation,
+identity theft, stalking, and cyberbullying, regardless of whether artificial
+intelligence is used in the commission of those acts.
+(7) The right to be protected by law from criminal acts relating to the alteration of
+existing images to create sexual or lewd or lascivious images or child pornography,
+regardless of whether artificial intelligence is used in the commission of those acts.
+Page 15 of 18
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-534 ORIGINAL
+HB NO. 734
+(8) The right to know whether political advertisements, electioneering communications,
+or similar advertisements were created in whole or in part with the use of artificial
+intelligence.
+(9) The right to pursue civil remedies authorized by law against others who use artificial
+intelligence to slander, libel, or defame them.
+Proposed law provides that these rights may be exercised in accordance with existing law.
+Proposed law provides that a companion chatbot platform shall prohibit a minor from
+entering into a contract to become an account holder or maintaining an existing account
+without consent from the minor's parent or guardian.
+Proposed law provides that a companion chatbot platform shall allow the consenting parent
+or guardian of the minor account holder to do all of the following:
+(1) Obtain copies of all interactions between the account holder and the companion
+chatbot.
+(2) Limit the amount of time that the account holder may interact with the companion
+chatbot each day.
+(3) Limit the days of the week and the times during the day when the account holder
+may interact with the companion chatbot.
+(4) Disable any of the interactions between the account holder and third-party account
+holders on the companion chatbot platform.
+(5) Receive timely notifications if the account holder expresses to the companion
+chatbot a desire or an intent to engage in self-harm or to harm others.
+Proposed law provides that a companion chatbot platform shall terminate an account treated
+as a minor's for the purposes of targeted content or advertising if the minor's parent or
+guardian does not provide consent for the account's use, and to provide 90 days for the
+account holder to dispute the termination.
+Proposed law provides that a companion chatbot platform shall allow an account holder who
+is a minor to request account termination and terminate the account within 5 days of the
+request.
+Proposed law provides that a companion chatbot platform shall allow a minor's parent or
+guardian to request the minor's account be terminated and to terminate the account within
+10 days of the request.
+Proposed law provides that the companion chatbot platform shall delete all personal
+information related to the terminated minor account permanently unless state or federal law
+requires otherwise.
+Proposed law requires with respect to accounts of minors that a companion chatbot platform
+do all of the following:
+(1) Disclose to the account holder that he is interacting with artificial intelligence.
+(2) Provide by default a clear and conspicuous notification to the account holder, at the
+beginning of companion chatbot interactions and at least once every hour during
+continuing interactions, reminding the minor to take a break and that the companion
+chatbot is artificially generated and not human.
+Page 16 of 18
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-534 ORIGINAL
+HB NO. 734
+(3) Institute reasonable measures to prevent its companion chatbot from producing or
+sharing materials harmful to minors or encouraging the account holder to engage in
+any of the conduct described or depicted in materials harmful to minors.
+Proposed law provides that a violation of these provisions is a deceptive or unfair trade
+practice pursuant to the Unfair Trade Practices and Consumer Protection Law.
+Proposed law provides for actions by the attorney general.
+Proposed law provides for civil penalties.
+Proposed law provides for liability and damages to a minor account holder.
+Proposed law provides for a private cause of action on behalf of a minor account holder.
+Proposed law provides for jurisdiction.
+Proposed law provides that at the beginning of interactions and once every subsequent hour
+between a consumer and a bot, a pop-up message shall be displayed notifying users they are
+not engaged in dialogue with a human counterpart.
+Proposed law provides that a violation of proposed law an unfair trade practice pursuant to
+the Unfair Trade Practices and Consumer Protection Law.
+Proposed law provides for actions by the attorney general.
+Proposed law provides for civil penalties.
+Proposed law provides for jurisdiction.
+Proposed law provides that an artificial intelligence technology company shall not disclose
+or sell personal information unless that information is deidentified data.
+Proposed law provides that an artificial intelligence company in possession of deidentified
+data do all of the following:
+(1) Take reasonable measures to ensure that the data cannot be associated with an
+individual.
+(2) Maintain and use the data in deidentified form.
+(3) Contractually obligate a recipient of the deidentified data to comply with this
+Section.
+(4) Implement business processes to prevent the inadvertent release of deidentified data.
+Proposed law provides that a violation of proposed law is an unfair trade practice pursuant
+to the Unfair Trade Practices and Consumer Protection Law.
+Proposed law provides for actions by the attorney general.
+Proposed law provides for civil penalties.
+Proposed law provides for jurisdiction.
+Proposed law provides for investigation authority and procedures by the attorney general for
+violations of proposed law.
+Page 17 of 18
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-534 ORIGINAL
+HB NO. 734
+Proposed law defines "generative artificial intelligence", "person", "servicemember",
+"surviving children", and "surviving spouse".
+Proposed law provides that a person shall not publish, print, display, or otherwise publicly
+use for trade or for any commercial or advertising purpose the name, portrait, photograph,
+image, or other likeness of an individual created through generative artificial intelligence
+without the express written or oral consent to such use given by any of the following:
+(1) The individual.
+(2) Any other person authorized in writing by the individual to license the commercial
+use of the individual's name, image, or likeness.
+(3) If the individual is deceased, a person authorized in writing to license the
+commercial use of the deceased individual's name, image, or likeness; or if a person
+is not so authorized, then by any one individual from among a class composed of the
+deceased individual's surviving spouse and surviving children. A legal parent or
+guardian may give consent on behalf of a minor surviving child.
+Proposed law provides that a person shall not publish, print, display, or otherwise publicly
+use for trade or for any commercial or advertising purpose the name, portrait, photograph,
+image, or other likeness of an individual without the express written or oral consent to such
+use given by any of the following:
+(1) The individual.
+(2) Any other person authorized in writing by the individual to license the commercial
+use of the individual's name, image, or likeness.
+(3) If the individual is deceased, a person authorized in writing to license the
+commercial use of the deceased individual's name, image, or likeness; or if a person
+is not so authorized, then by any one individual from among a class composed of the
+deceased individual's surviving spouse and surviving children. A legal parent or
+guardian may give consent on behalf of a minor surviving child.
+Proposed law provides for exemptions to proposed law.
+Effective upon signature of governor or lapse of time for gubernatorial action.
+(Adds R.S. 38:2320.21 and R.S. 51:3301-3308)
+Page 18 of 18
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.

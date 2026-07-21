@@ -1,0 +1,148 @@
+Title: 
+Official Title: 
+Source: versions - Senate Committee Amendment, #1519, JUDB, Draft
+Media Type: application/pdf
+
+================================================================================
+
+SCASB251 539 1519
+SENATE COMMITTEE AMENDMENTS
+2026 Regular Session
+Amendments proposed by Senate Committee on Judiciary B to Original Senate Bill No. 251
+by Senator Pressly
+1 AMENDMENT NO. 1
+2 On page 1, line 3, after "through" change "3090" to "3091"
+3 AMENDMENT NO. 2
+4 On page 1, line 13, after "through" change "3090" to "3091"
+5 AMENDMENT NO. 3
+6 On page 2, line 2, after "purpose of this" change "Chapter" to "Part"
+7 AMENDMENT NO. 4
+8 On page 2, between lines 6 and 7, insert the following:
+9 "§3083. Rule of construction
+10 This Part shall be construed and applied in a manner consistent with
+11 federal law and shall not be interpreted or enforced to prohibit, restrict,
+12 condition, or delay any transaction, agreement, activity, technology, software,
+13 service, or access that has been authorized, approved, licensed, exempted, or
+14 otherwise permitted by the United States government."
+15 AMENDMENT NO. 5
+16 On page 2, line 7, change "§3083." to "§3084."
+17 AMENDMENT NO. 6
+18 On page 3, line 5, after "completed" delete the remainder of the line, delete line 6, and insert
+19 a period "."
+20 AMENDMENT NO. 7
+21 On page 3, line 9, after "Foreign" change "Principal" to "principal"
+22 AMENDMENT NO. 8
+23 On page 3, line 16, after "such entity," insert "that is"
+24 AMENDMENT NO. 9
+25 On page 3, delete lines 17 and 18, and insert the following:
+26 "controlled, directly or indirectly, by persons or entities of a foreign adversary
+27 through the ownership of a majority voting interest or the power to direct
+28 management or policies of the entity. Ownership shall not include passive
+29 ownership of publicly traded securities that does not confer the power to direct
+30 or influence management or operations."
+31 AMENDMENT NO. 10
+32 On page 3, between lines 26 and 27, insert the following:
+33 "(8) "Operational command authority" shall mean the authority to
+34 direct, control, or make real time operational decisions affecting the physical
+35 functioning, safety, or emergency response of critical infrastructure."
+36 AMENDMENT NO. 11
+37 On page 3, at the beginning of line 27, change "(8)" to "(9)"
+Page 1 of 4
+
+SCASB251 539 1519
+1 AMENDMENT NO. 12
+2 On page 4, line 3, change "§3084." to "§3085."
+3 AMENDMENT NO. 13
+4 On page 4, at the beginning of line 9, delete "access or control" and insert "exercise
+5 operational command authority over"
+6 AMENDMENT NO. 14
+7 On page 4, line 14, after "remotely" delete "access or control" and insert "exercise
+8 operational command authority over"
+9 AMENDMENT NO. 15
+10 On page 4, line 22, after "pre-approved by" delete the remainder of the line, delete line 23,
+11 and insert "the office."
+12 AMENDMENT NO. 16
+13 On page 4, line 24, after "entering into" change "such a" to "the"
+14 AMENDMENT NO. 17
+15 On page 4, between lines 25 and 26, insert the following:
+16 "D. Nothing in this Part shall apply to any transaction, agreement,
+17 activity, technology, software, service, or access that is conducted pursuant to
+18 and in compliance with a license, authorization, approval, exemption, or
+19 determination issued by the United States government, including but not limited
+20 to licenses or approvals issued by the U.S. Department of Homeland Security,
+21 U.S. Department of the Treasury, or U.S. Department of Commerce."
+22 AMENDMENT NO. 18
+23 On page 4, delete lines 26 through 29, and delete pages 5 and 6
+24 AMENDMENT NO. 19
+25 On page 7, at the beginning of line 1, change "§3087." to "§3086."
+26 AMENDMENT NO. 20
+27 On page 7, line 3, after "Louisiana shall" delete "henceforth"
+28 AMENDMENT NO. 21
+29 On page 7, line 10, after "R.S. 51:3086(A) or (B)" and before the period "." insert the
+30 following:
+31 "unless the software was lawfully installed prior to the effective date of this Act
+32 and remains compliant with applicable federal law"
+33 AMENDMENT NO. 22
+34 On page 7, at the beginning of line 17, change "§3088." to "§3087"
+35 AMENDMENT NO. 23
+36 On page 7, at the beginning of line 20, after "adversary" delete the remainder of the line,
+37 delete lines 21 through 23, and insert the following:
+38 "information technology systems and services that appear on a list created by
+39 the office. For purposes of this Part, the term "foreign adversary information
+40 technology systems and services" shall have the same meaning as R.S. 39:15.3."
+41 AMENDMENT NO. 24
+42 On page 7, line 24, after "2026," delete the remainder of the line, delete line 25, and insert
+43 the following:
+44 "the office shall create a public listing of all"
+Page 2 of 4
+
+SCASB251 539 1519
+1 AMENDMENT NO. 25
+2 On page 7, at the beginning of line 28, change "thirty" to "ninety"
+3 AMENDMENT NO. 26
+4 On page 7, line 28, after "listed." delete the remainder of the line, delete line 29, on page 8,
+5 delete lines 1 through 6, and insert the following:
+6 "This listing shall include technologies and companies covered by the U. S.
+7 Department of Commerce's Entity List, the Federal Communications
+8 Commission's Covered List, and the U.S. Department of Defense's Section
+9 1260H List. Additional technologies may be included if they are certified to be
+10 a security risk by a federal or state-level cybersecurity authority."
+11 AMENDMENT NO. 27
+12 On page 8, between lines 6 and 7, insert the following:
+13 "§3088. Telecommunications providers in compliance with federal law.
+14 Nothing in this Part shall apply to any provider of an interactive
+15 computer service, as defined in 47 U.S.C. 230, or any provider of a
+16 telecommunications service or an information service, as defined in 47 U.S.C.
+17 153, nor to any employee, agent, or contractor acting on behalf of such provider,
+18 to the extent such provider is in compliance with the Secure and Trusted
+19 Communications Networks Act of 2019.
+20 §3089. Electric utilities in compliance with federal law.
+21 Nothing in this Part shall apply to any investor owned utilities subject to
+22 the North American Electric Reliability Corporation (NERC) Reliability
+23 Standards, or to any investor owned utility assets subject to the Nuclear
+24 Regulatory Commission (NRC)"
+25 AMENDMENT NO. 28
+26 On page 8, at the beginning of line 7, change "§3089." to "§3090."
+27 AMENDMENT NO. 29
+28 On page 8, delete line 8 and insert the following:
+29 "Subject to appropriation, the Foreign Adversary Fraud Office (FAFO) shall
+30 be created within"
+31 AMENDMENT NO. 30
+32 On page 8, at the beginning of line 21, change "§3090." to "§3091."
+33 AMENDMENT NO. 31
+34 On page 8, line 22, after "A." change "The" to "Subject to appropriation, the"
+35 AMENDMENT NO. 32
+36 On page 8, at the beginning of line 23, change "is hereby" to "shall be"
+37 AMENDMENT NO. 33
+38 On page 8, line 25, after "from state" delete the remainder of the line, delete line 26, and
+39 insert the following:
+40 "owned and state operated systems only."
+41 AMENDMENT NO. 34
+42 On page 8, line 27, after "B." delete the remainder of the line and insert "Subject to
+43 appropriation, the office"
+Page 3 of 4
+
+SCASB251 539 1519
+1 AMENDMENT NO. 35
+2 On page 8, at the beginning of line 28, delete "Preparedness"
+Page 4 of 4

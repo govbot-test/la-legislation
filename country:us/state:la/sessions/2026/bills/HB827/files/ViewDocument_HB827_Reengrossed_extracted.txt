@@ -1,0 +1,1177 @@
+Title: 
+Official Title: 
+Source: versions - HB827 Reengrossed
+Media Type: application/pdf
+
+================================================================================
+
+HLS 26RS-1246 REENGROSSED
+2026 Regular Session
+HOUSE BILL NO. 827
+BY REPRESENTATIVE JORDAN
+PLUMBERS: Creates the Plumbing Workforce Access Act
+1 AN ACT
+2 To amend and reenact R.S. 37:2150, 2150.1, 2156(D), (E), (K)(1), 2156.1(A)(7), (B)(1), and
+3 (I), 2158(A)(introductory paragraph), and 2164(A), (B), (H), and (I), to enact R.S.
+4 37:2155.1, 2156.1.1, and 2158(A)(24) and Part II of Chapter 24 of Title 37 of the
+5 Louisiana Revised Statutes of 1950, to be comprised of R.S. 37:2175.1 through
+6 2175.10, and to repeal Chapter 16 of Title 37 of the Louisiana Revised Statutes of
+7 1950, comprised of R.S. 37:1361 through 1380, relative to licensing of plumbers; to
+8 provide the State Licensing Board for Contractors the power to license and regulate
+9 licensure of plumbers and plumbing contractors; to provide for definitions; to
+10 provide for a Plumbing Contractors Subcommittee of the State Licensing Board for
+11 Contractors; to provide for licensing penalties; to create the Louisiana Plumbing
+12 Workforce Access Act; to establish an institution-based pathway to plumbing
+13 licensure; to provide for curriculum standards; to provide for responsibilities of
+14 Louisiana Works and the Louisiana Community and Technical College System; to
+15 authorize competency-based assessment; to create an industry rotation program; to
+16 provide for employer incentives; to establish a returning citizen pathway; to provide
+17 for reciprocity by examination; to provide for rules and regulations; to abolish the
+18 State Plumbing Board; to provide for the transfer of assets and obligations from the
+19 State Plumbing Board to the State Licensing Board for Contractors; to provide for
+20 an effective date; to provide for the grandfathering of existing plumbing licenses;
+21 and to provide for related matters.
+Page 1 of 32
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1246 REENGROSSED
+HB NO. 827
+1 Be it enacted by the Legislature of Louisiana:
+2 Section 1. R.S. 37:2150, 2150.1, 2156(D), (E), (K)(1), 2156.1(A)(7), (B)(1), and (I),
+3 2158(A)(introductory paragraph), and 2164(A), (B), (H), and (I) are hereby amended and
+4 reenacted and R.S. 37:2155.1, 2156.1.1, and 2158(A)(24) are hereby enacted to read as
+5 follows:
+6 §2150. Purpose; legislative intent
+7 The purpose of the legislature in enacting this Chapter is the protection of the
+8 health, safety, and general welfare of all those persons dealing with persons engaged
+9 in the contracting and plumbing vocation vocations, and the affording of such
+10 persons of an effective and practical protection against the incompetent,
+11 inexperienced, unlawful, and fraudulent acts of contractors or plumbers with whom
+12 they contract. Further, the legislative intent is that the State Licensing Board for
+13 Contractors shall monitor construction and plumbing projects to ensure compliance
+14 with the licensure requirements of this Chapter.
+15 §2150.1. Definitions
+16 As used in this Chapter, the following terms have the following meanings:
+17 (1) "Apprentice plumber license" means the license that may be granted to
+18 a natural person engaged in learning the plumbing trade by working under the direct,
+19 on-the-job supervision of a journeyman plumber or master plumber, and in the
+20 employ of an employing entity. Apprentice plumbers shall be placed in an
+21 apprenticeship approved by the board.
+22 (2) "Board" means the State Licensing Board for Contractors.
+23 (2) (3) "Commercial" means any construction project except residential
+24 structures intended to be primarily occupied as a residence with no more than two
+25 separate dwelling units incorporated into one structure.
+26 (3) (4) "Contract" means an agreement to perform a scope of work that is
+27 regulated by this Chapter. The project value includes the entire cost of the labor,
+28 materials, rentals, and all direct and indirect project expenses. The cost of materials,
+29 rentals, and direct and indirect expenses shall be included regardless of who pays the
+Page 2 of 32
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1246 REENGROSSED
+HB NO. 827
+1 costs or if they are donated. The "principal contract" is the agreement to perform the
+2 entire scope of work for a construction project.
+3 (4) (5)(a) "Contractor" means any person who undertakes to, attempts to, or
+4 submits a price or bid or offers to construct, supervise, superintend, oversee, direct,
+5 perform, or in any manner assume charge of the construction, alteration, repair,
+6 improvement, movement, demolition, putting up, tearing down, furnishing labor, or
+7 furnishing labor together with material or equipment, or installing material or
+8 equipment for any of the following:
+9 (i) Any building, highway, road, railroad, sewer, grading, excavation,
+10 pipeline, public utility structure, project development, housing, or housing
+11 development, improvement, or any other construction undertaking for which the
+12 project value is fifty thousand dollars or more when the property is to be used for
+13 commercial purposes.
+14 (ii) Any new residential structure for which the project value is fifty
+15 thousand dollars or more when the property is used for residential purposes.
+16 (iii) Any improvements or repairs to an existing residential structure for
+17 which the project value is seven thousand five hundred dollars or more.
+18 (iv) Any mold remediation for which the project value is seven thousand five
+19 hundred dollars or more.
+20 (v) Any plumbing work.
+21 (b) The term "contractor" includes persons who receive an additional fee for
+22 the employment or direction of labor, or any other work beyond the normal
+23 architectural or engineering services.
+24 (c) A contractor holding a license in the major classification of hazardous
+25 materials, or any subclassifications thereunder, is defined in terms of work
+26 performed for which the project value is one dollar or more.
+27 (d) "Contractor" does not mean any person, supplier, manufacturer, or
+28 employee of such person who assembles, repairs, maintains, moves, puts up, tears
+29 down, or disassembles any patented or proprietary equipment supplied by such
+30 person to a contractor to be used solely by the contractor for a construction
+Page 3 of 32
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1246 REENGROSSED
+HB NO. 827
+1 undertaking. "Proprietary" means specific and specialized equipment installation,
+2 manufacturing processes, used, or components that are protected from disclosure to
+3 third parties by the owner or manufacturer of the equipment.
+4 (5) (6) "Controlled access" means the complete building or facility area
+5 under direct physical control within which an unauthorized person is denied access.
+6 (6) (7) "Electrical contractor" means any person who undertakes to, attempts
+7 to, or submits a price or bid or offers to construct, supervise, superintend, oversee,
+8 direct, perform, or in any manner assume charge of the construction, alteration,
+9 repair, improvement, movement, demolition, putting up, tearing down, or furnishing
+10 labor together with material and equipment, or installing the same for the wiring,
+11 fixtures, or appliances for the supply of electricity to any residential, commercial, or
+12 other project, for which the project value is ten thousand dollars or more. This
+13 Paragraph is not deemed or construed to limit the authority of a contractor, general
+14 contractor, or residential contractor, as those terms are defined in this Section, nor
+15 to require such individuals to become an electrical contractor.
+16 (7) (8) "Employee" means a worker whose employer deducts taxes from his
+17 wages and reports his annual earnings to the Internal Revenue Service using a W-2
+18 form.
+19 (8) (9) "Executive director" means the person appointed by the board to
+20 serve as the chief operating officer in connection with the day-to-day operation of
+21 the board's business. The executive director is the appointing authority for all
+22 employees of the board.
+23 (9) (10)(a) "General contractor" means a person who contracts directly with
+24 the owner. The term "general contractor" includes the term "primary contractor" and
+25 wherever used in this Chapter or in regulations promulgated thereunder "primary
+26 contractor" means "general contractor".
+27 (b) "General contractor" does not mean any person, supplier, manufacturer,
+28 or employee of such person who assembles, repairs, maintains, moves, puts up, tears
+29 down, or disassembles any patented or proprietary equipment supplied by such
+Page 4 of 32
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1246 REENGROSSED
+HB NO. 827
+1 person to a contractor to be used solely by the contractor for a construction
+2 undertaking.
+3 (10) (11) "Home improvement" means the reconstruction, alteration,
+4 renovation, repair, modernization, conversion, improvement, removal, or demolition,
+5 or the construction of an addition to any preexisting residential structure which
+6 building is used or designed to be used as a residence or dwelling unit, or to
+7 structures which are adjacent to such residence or building for which the project
+8 value is seven thousand five hundred dollars or more. "Home improvement" does not
+9 include services rendered gratuitously.
+10 (11) (12) "Home improvement contractor" means any person who undertakes
+11 or attempts to undertake or submits a price or bid or offers to construct, supervise,
+12 superintend, oversee, direct, perform, or in any manner assume charge of a home
+13 improvement project for which the project value is at least seven thousand five
+14 hundred dollars but less than fifty thousand dollars. A home improvement contractor
+15 shall not perform any structural work that is integral to the structural integrity of any
+16 new or existing structure, including but not limited to footings, foundations, outside
+17 walls, skeleton, bearing columns and interior load bearing walls, floor slabs, or
+18 roofing systems to any type.
+19 (13) "Journeyman plumber license" means the license that may be granted
+20 to a natural person who possesses the necessary qualifications and knowledge to
+21 install, alter, repair, and maintain plumbing systems; is supervised by a master
+22 plumber; and is in the employ of an employing entity.
+23 (12) (14) "License" means any form of license or registration the board is
+24 authorized to issue in accordance with this Chapter.
+25 (15) "Master plumber license" means the license that may be granted to a
+26 natural person who possesses the necessary qualifications and knowledge to plan and
+27 lay out plumbing systems; and who supervises journeyman plumbers in the
+28 installation, alteration, or repair of plumbing systems.
+29 (16) "Master plumbing contractor" means any person who undertakes to,
+30 attempts to, or submits a price or bid or offers to construct, supervise, superintend,
+Page 5 of 32
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1246 REENGROSSED
+HB NO. 827
+1 oversee, direct, perform, or in any manner assume charge of the construction,
+2 alteration, repair, improvement, movement, demolition, putting up, tearing down,
+3 furnishing labor, or furnishing labor together with material or equipment, or
+4 installing material or equipment regarding plumbing in any structure or setting, and
+5 is licensed by the board to do the same.
+6 (13) (17) "Mechanical contractor" means any person who undertakes to,
+7 attempts to, or submits a price or bid or offers to construct, supervise, superintend,
+8 oversee, direct, perform, or in any manner assume charge of the construction,
+9 alteration, repair, improvement, movement, demolition, putting up, tearing down, or
+10 furnishing labor, or furnishing labor together with material and equipment, or
+11 installing the same for the construction, installation, maintenance, testing, and repair
+12 of air conditioning, refrigeration, heating systems, and plumbing for all residential,
+13 commercial, and industrial applications as well as ventilation systems, mechanical
+14 work controls, boilers and other pressure vessels, steam and hot water systems and
+15 piping, gas piping and fuel storage, and chilled water and condensing water systems
+16 and piping, including but not limited to any type of industrial process piping and
+17 related valves, fittings, and components, for which the project value is ten thousand
+18 dollars or more. This Paragraph is not deemed or construed to limit the authority of
+19 a contractor, general contractor, or residential contractor, as those terms are defined
+20 in this Section, nor to require such individuals to become a mechanical contractor.
+21 (14) (18) "Mold remediation contractor" means any person who engages in
+22 removal, cleaning, sanitizing, demolition, or other treatment, including preventative
+23 activities, of mold or mold-contaminated matter that was not purposely grown at that
+24 location for which the project value is seven thousand five hundred dollars or more.
+25 Mold remediation applies only to the regulation of mold-related activities that affect
+26 indoor air quality and does not apply to routine cleaning when not conducted for the
+27 purpose of mold-related activities intended to affect indoor air quality.
+28 (15) (19) "Person" means any individual, firm, partnership, association,
+29 cooperative, corporation, limited liability company, limited liability partnership, or
+30 any other entity recognized by Louisiana law; and whether or not acting as a
+Page 6 of 32
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1246 REENGROSSED
+HB NO. 827
+1 principal, trustee, fiduciary, receiver, or as any other kind of legal or personal
+2 representative, or as a successor in interest, assignee, agent, factor, servant,
+3 employee, director, officer, or any other representative of such person; or any state
+4 or local governing authority or political subdivision.
+5 (20) "Plumber" means a natural person who performs the work or business
+6 of installing in buildings and on premises the pipes, fixtures, and other apparatus for
+7 supplying water, or removing liquid waste or water-borne waste, and fixtures, vessels
+8 and process piping that is in direct contact with products for human consumption.
+9 (16) (21) "Plumbing contractor" means any person who installs, maintains,
+10 and repairs potable and nonpotable tap water or sewer systems within a building
+11 structure or residential structure for which the project value is ten thousand dollars
+12 or more undertakes to, attempts to, or submits a price or bid or offers to construct,
+13 supervise, superintend, oversee, direct, perform, or in any manner assume charge of
+14 the construction, alteration, repair, improvement, movement, demolition, putting up,
+15 tearing down, furnishing labor, or furnishing labor together with material or
+16 equipment, or installing material or equipment regarding plumbing.
+17 (17) (22) "Principal" means an owner, shareholder, or an officer or director
+18 of a corporation; a member or manager of a limited liability company; a general
+19 partner of a partnership; a sole proprietor; a trustee; or a full-time employee with
+20 similar operational control or significant influence with respect to any person as
+21 determined by the board.
+22 (18) (23) "Qualifying party" means a natural person designated by the
+23 contractor to represent the contractor for the purpose of complying with the
+24 provisions of this Chapter including but not limited to meeting the requirements for
+25 the initial license and any continuation thereof.
+26 (19) (24)(a) "Residential contractor" means any person who constructs a
+27 fixed building or structure for sale or use by another as a residence or who, for a
+28 price, commission, fee, wage, or other compensation, undertakes or offers to
+29 undertake the construction or superintending of the construction of any residential
+30 structure which is not more than three floors in height, to be used by another as a
+Page 7 of 32
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1246 REENGROSSED
+HB NO. 827
+1 residence, for which the project value is fifty thousand dollars or more. The term
+2 "residential contractor" includes all persons who receive an additional fee for the
+3 employment or direction of labor, or any other work beyond the normal architectural
+4 or engineering services.
+5 (b) "Residential contractor" includes both of the following:
+6 (i) Any person bidding or performing home improvement for which the
+7 project value is seven thousand five hundred dollars or more.
+8 (ii) Any person performing the installation of a modular home with a value
+9 equal to or greater than fifty thousand dollars for which the total project value shall
+10 not include the cost of the component parts of the modular home in the condition
+11 each part leaves the factory pursuant to R.S. 40:1730.71.
+12 (c) "Residential contractor" does not include any person engaged in building
+13 residential structures that are built to the United States Department of Housing and
+14 Urban Development's construction standards for manufactured housing as outlined
+15 at 42 U.S.C. 5401 et seq., or mounted on a metal chassis and wheels.
+16 (25) "Residential plumbing contractor" means any person who undertakes
+17 to, attempts to, or submits a price or bid or offers to construct, supervise,
+18 superintend, oversee, direct, perform, or in any manner assume charge of the
+19 construction, alteration, repair, improvement, movement, demolition, putting up,
+20 tearing down, furnishing labor, or furnishing labor together with material or
+21 equipment, or installing material or equipment regarding plumbing in any residential
+22 structure that is not more than three floors in height, to be used by another as a
+23 residence, for which the project value is fifty thousand dollars or more, and is
+24 licensed by the board to do the same.
+25 (20) (26) "Residential roofing" means the construction, alteration, repair,
+26 improvement, demolition, putting up, tearing down, furnishing labor, or furnishing
+27 labor together with materials or equipment, or the installation of materials or
+28 equipment for any phase of roofing specific to a residential structure for which the
+29 project value is seven thousand five hundred dollars or more.
+Page 8 of 32
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1246 REENGROSSED
+HB NO. 827
+1 (21) (27) "Residential roofing contractor" means any person who undertakes
+2 to, attempts to, or submits a price or bid, or offers to construct, supervise,
+3 superintend, oversee, direct, perform, or in any manner assume charge of a
+4 residential roofing project for which the project value is seven thousand five hundred
+5 dollars or more.
+6 (22) (28) "Residential structure" means a building or structure that is used
+7 primarily for occupancy by a person as a residence. Such structures or buildings
+8 include but are not limited to single family dwellings and duplexes which are not
+9 more than three floors in height and structures that are part of or adjacent to the
+10 building or structures to be used as a residence. A residential structure more than
+11 three floors in height may be built by a person holding a building construction and
+12 residential construction license.
+13 (23) (29) "Subcontract" means an agreement to perform a portion of the
+14 scope of work contained in the principal contract including the entire cost of labor
+15 and materials of that part of the principal contract which is performed by the
+16 subcontractor.
+17 (24) (30)(a) "Subcontractor" means a person who contracts to perform a
+18 scope of work that is a part of the scope of work contained in the principal contract.
+19 (b) "Subcontractor" does not include any person, supplier, or manufacturer
+20 who assembles, repairs, maintains, moves, puts up, tears down, or disassembles any
+21 patented or proprietary equipment supplied by such person to a contractor to be used
+22 solely by the contractor for a construction undertaking.
+23 * * *
+24 §2155.1. Plumbing Contractors Subcommittee; membership; terms; powers; duties
+25 A.(1) There is hereby established within the board the Plumbing Contractors
+26 Subcommittee, hereinafter referred to as "plumbing subcommittee", consisting of
+27 the following eleven members appointed by the governor, each of whom shall be a
+28 resident of this state, and each of whom shall have been actively engaged in
+29 plumbing or contracting for at least five years prior to his appointment by the
+30 governor.
+Page 9 of 32
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1246 REENGROSSED
+HB NO. 827
+1 (a) Three members, each of whom shall be appointed from the membership
+2 of the Plumbing-Heating-Cooling Contractors Association of Louisiana.
+3 (b) Three members, each of whom shall be appointed from the membership
+4 of The United Association of Journeymen and Apprentices of the Plumbing and
+5 Pipefitting Industry of the United States and Canada.
+6 (c) One member who shall be appointed from the membership of the
+7 Louisiana Associated General Contractors.
+8 (d) One member who shall be appointed from the membership of the
+9 Associated Builders and Contractors of Louisiana.
+10 (e) One member who shall be appointed from the membership of the
+11 Louisiana Home Builders Association.
+12 (f) Two members, each of whom shall not be associated with the plumbing
+13 industry, to serve as members-at-large.
+14 (2) Each State Board of Elementary and Secondary Education district shall
+15 be represented among the membership provided in this Subsection.
+16 B.(1) The terms of office for the initial members appointed to the plumbing
+17 subcommittee is three members for a three-year term, four members for a two-year
+18 term, and four members for a one-year term, to be determined by the governor.
+19 Thereafter, all members are to be appointed for six-year terms.
+20 (2) All terms commence thirty days after appointment, and all members shall
+21 serve until their successors have been appointed and qualified. Vacancies occurring
+22 in the membership of the plumbing subcommittee for any reason shall be filled by
+23 appointment by the governor for the unexpired term. No member appointed may
+24 serve more than two consecutive six-year terms.
+25 (3) A member may be removed by the governor for cause; or at the request
+26 of the chairperson for failure to attend more than half of the regularly scheduled
+27 meetings within a twelve-month period or for cause.
+28 C. The executive director of the board shall serve as executive director of the
+29 plumbing subcommittee and does not have voting privileges.
+Page 10 of 32
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1246 REENGROSSED
+HB NO. 827
+1 D.(1) A member of the board shall serve as an ex officio member of the
+2 plumbing subcommittee and shall serve as the liaison between the plumbing
+3 subcommittee and the board. He shall be appointed by the chairperson of the board
+4 and shall serve as the chairperson of the plumbing subcommittee. His presence at a
+5 meeting of the plumbing subcommittee may be counted toward establishing a
+6 quorum of the plumbing subcommittee, and he shall have voting privileges only if
+7 either of the following circumstances exists:
+8 (a) His presence is necessary to establish a quorum of the plumbing
+9 subcommittee and there is a tie vote between the appointed members of the plumbing
+10 subcommittee.
+11 (b) His presence is necessary to establish a quorum of the plumbing
+12 subcommittee, only one appointed member of the plumbing subcommittee is present,
+13 and an additional ex officio member has been appointed pursuant to Paragraph (2)
+14 of this Subsection.
+15 (2) An additional ex officio member of the board shall serve on the plumbing
+16 subcommittee only if his presence, along with the ex officio member serving
+17 pursuant to Paragraph (1) of this Subsection, is required to establish a quorum of the
+18 plumbing subcommittee. This additional ex officio member shall be appointed by the
+19 chairperson of the board and shall serve as the vice chairperson of the plumbing
+20 subcommittee. He shall have voting privileges only if there is a tie vote between
+21 appointed members of the plumbing subcommittee and the ex officio member
+22 serving as chairperson of the plumbing subcommittee.
+23 (3) The board shall pay per diem and travel expenses for ex officio members.
+24 E. A quorum of the plumbing subcommittee consists of a majority of its
+25 members and is sufficient to conduct plumbing subcommittee business. The
+26 plumbing subcommittee shall meet at least once every other month to conduct its
+27 business unless, for good cause, a meeting cannot be held. Notice of plumbing
+28 subcommittee meetings shall be posted on the board's official website and at the
+29 board's office at least ten days prior to the date when the plumbing subcommittee is
+30 to meet.
+Page 11 of 32
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1246 REENGROSSED
+HB NO. 827
+1 F. Each member of the plumbing subcommittee is entitled to a per diem
+2 allowance of seventy-five dollars for each meeting he attends and to be reimbursed
+3 for all travel expenses necessarily incurred in attending meetings.
+4 G. Subject to the approval of the board, the plumbing subcommittee has all
+5 of the following powers and duties:
+6 (1) To adopt rules and regulations to govern all plumbing contractors,
+7 apprentice plumbers, journeyman plumbers, and master plumbers in this state,
+8 including all specialty classifications and sub-classifications of plumbing or
+9 plumbing contracting as adopted by the board.
+10 (2) To issue, suspend, or revoke licenses to do plumbing or plumbing
+11 business in this state pursuant to the provisions of this Chapter.
+12 (3) To prescribe and adopt regulations and policies for continuing education
+13 for plumbers. However, notwithstanding any other law to the contrary, the plumbing
+14 subcommittee shall not approve for use by licensees any continuing education
+15 courses or written training programs provided by a member of the plumbing
+16 subcommittee, or by a legal entity in which a member has a controlling interest.
+17 (4) To enforce against, prosecute, or enjoin all persons violating plumbing
+18 or plumbing contracting provisions of this Chapter, and rules and regulations of the
+19 board; to issue fines, penalties, and other costs for violations; and incur necessary
+20 expenses therein.
+21 (5) If an alleged violation is known to the plumbing subcommittee, the
+22 plumbing subcommittee may correct it or take appropriate action without formal
+23 complaint.
+24 §2156. Applications; licenses; fees; renewals
+25 * * *
+26 D. The board may assess an additional surcharge of not more than four
+27 hundred dollars in connection with the application for and issuance of a contractor's
+28 or plumber's license to a contractor or plumber not domiciled in this state, to be
+29 utilized to defray the additional cost of the investigation of the application of the
+30 non-Louisiana contractor or plumber.
+Page 12 of 32
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1246 REENGROSSED
+HB NO. 827
+1 E. When issuing a license to any contractor or plumber, the board shall state
+2 the contractor's or plumber's classification on the license for which he has completed
+3 all of the requirements.
+4 * * *
+5 K.(1) The board shall assess on each license renewal issued to a contractor,
+6 except a plumbing contractor, an additional fee of one hundred dollars per year to be
+7 dedicated and allocated as provided in this Subsection to any public university in this
+8 state or any community college school of construction management or construction
+9 technology in this state that is accredited by either the American Council for
+10 Construction Education or the Accreditation Board for Engineering and Technology.
+11 The board shall include on each license renewal form issued to a contractor an
+12 optional election whereby the contractor may choose to not participate in the
+13 remission of the additional one-hundred-dollar dedication fee.
+14 * * *
+15 §2156.1. Requirements for issuance of a contractor's license
+16 A. To become licensed in accordance with the provisions of this Chapter, an
+17 applicant shall make application to the board on a form adopted by the board and
+18 shall state the classifications for which he is applying from the list of major
+19 classifications listed herein or from the list of subclassifications and specialty
+20 classification as adopted by rule. The major classifications are:
+21 * * *
+22 (7) Master Plumbing.
+23 * * *
+24 B.(1) An applicant for a contractor's license or registration shall submit a
+25 financial statement on a form supplied by the board, current to within twelve months
+26 of the date of filing the application, prepared and signed by an accountant,
+27 bookkeeper, or certified public accountant and signed by the applicant, attesting the
+28 statement is true and correct. In lieu of a signature by a certified public accountant
+29 on the board's form, a current financial statement prepared by a certified public
+30 accountant may be attached.
+Page 13 of 32
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1246 REENGROSSED
+HB NO. 827
+1 * * *
+2 I.(1) Any plumbing contractor who currently holds a Master Plumber
+3 License from the State Plumbing Board of Louisiana shall be exempt from any trade
+4 examination requirement. Any person or business that advertises, solicits,
+5 undertakes, attempts, offers, or submits a price, bid, quote or estimate to construct,
+6 supervise, direct, oversee, or perform any construction, modification, repair, or
+7 maintenance of any portion of a plumbing system is required to hold the appropriate
+8 plumbing contractor license, classification, subclassification, or specialty
+9 classification.
+10 (2) Nothing in this Section shall be construed to permit plumbing contractors
+11 to perform plumbing work without first complying with the licensure provisions of
+12 Chapter 16 of this Title, R.S. 37:1361 et seq. A master plumbing contractor may
+13 contract to perform or supervise plumbing work for any structure. Master plumbing
+14 contractor qualifying party status may be obtained only by a licensed master
+15 plumber, and upon meeting all other requirements of licensure.
+16 (3) A residential plumbing contractor may contract to perform or supervise
+17 plumbing work only for a structure, not more than three floors in height, to be used
+18 by another as a residence. Residential plumbing contractor qualifying party status
+19 may be obtained by a licensed journeyman plumber or a licensed master plumber,
+20 and upon meeting all other requirements of licensure.
+21 * * *
+22 §2156.1.1. Requirements for issuance of a plumber's license; violations; penalties;
+23 classifications
+24 A. Any natural person who engages in any plumbing work of any kind,
+25 including as an employee of a plumbing contractor, is required to possess the
+26 appropriate plumber's license. Licenses for plumbers shall be issued in accordance
+27 with any of the following:
+28 (1) An applicant for licensure as an apprentice plumber shall register with
+29 the board in a method prescribed by the board and shall semi-annually verify his
+Page 14 of 32
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1246 REENGROSSED
+HB NO. 827
+1 employment in the trade of apprentice plumber with the board in a method
+2 prescribed by the board.
+3 (2) An applicant for licensure as a journeyman plumber may obtain that
+4 license from the board after the completion of two thousand hours of verified work
+5 as an apprentice plumber, and after passing both a written examination and a
+6 practical administration approved, recognized, or administered on behalf of the
+7 board.
+8 (3) An applicant for licensure as a master plumber may obtain that license
+9 from the board after first becoming a licensed journeyman plumber, the completion
+10 of one thousand hours of verified work as a licensed journeyman plumber, and after
+11 successfully passing a written examination approved, recognized, or administered
+12 on behalf of the board.
+13 B. A person may not perform plumbing work, or act as a plumber as defined
+14 in this Chapter, unless he holds an active license as a plumber in accordance with the
+15 provisions of this Chapter. The board or plumbing subcommittee may revoke,
+16 suspend, or refuse to renew a license; issue cease and desist orders to stop work;
+17 issue fines and penalties; or debar any person licensed pursuant to the provisions of
+18 this Chapter for a violation of any of the following requirements:
+19 (1) An apprentice plumber shall work only under the supervision of a
+20 journeyman plumber or a master plumber.
+21 (2) A journeyman plumber may be supervised by another journeyman
+22 plumber only if that supervising journeyman plumber is an employee of, or the
+23 qualifying party at, a residential plumbing contractor.
+24 (3) A journeyman plumber may be supervised by a master plumber who is
+25 employed by or the qualifying party of a master plumbing contractor.
+26 C. The plumbing subcommittee may promulgate rules and regulations for the
+27 issuance of apprentice, journeyman, and master plumber licenses or temporary
+28 working permits to persons possessing equivalent licenses or experience in another
+29 state and that are applying to perform work in this state, as well as any additional
+30 requirements or fees to be imposed for such a license or permit. Any rule or
+Page 15 of 32
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1246 REENGROSSED
+HB NO. 827
+1 regulation promulgated pursuant to this Subsection shall comply with the Welcome
+2 Home Act, R.S. 37:51 et seq., if applicable.
+3 D. Additional requirements for the issuance of plumber's licenses may be
+4 added by rule as the plumbing subcommittee deems appropriate.
+5 * * *
+6 §2158. Revocation and suspension of licenses; issuance of cease and desist orders;
+7 debarment; violations; penalty; criminal penalty
+8 A. No person may engage in the business of contracting, or act as a
+9 contractor as defined in this Chapter, unless he holds an active license as a contractor
+10 in accordance with the provisions of this Chapter. The board, plumbing
+11 subcommittee, and residential subcommittee may revoke, suspend, or refuse to
+12 renew a license; issue cease and desist orders to stop work; issue fines and penalties;
+13 or debar any person licensed pursuant to the provisions of this Chapter for any of the
+14 following violations:
+15 * * *
+16 (24) Undertaking, attempting, or submitting a price or bid or offers to
+17 construct, supervise, superintend, oversee, direct, perform, or in any manner assume
+18 charge of the construction, alteration, repair, improvement, movement, demolition,
+19 putting up, tearing down, furnishing labor, or furnishing labor together with material
+20 or equipment, or installing material or equipment regarding plumbing work without
+21 holding the plumbing contractor license required for that particular scope of work.
+22 * * *
+23 §2164. Violations; civil penalty; jurisdiction
+24 A. Any person who violates any provision of this Chapter shall, after notice
+25 and a hearing, be liable to the board for a fine of up to ten percent of the total
+26 contract or the value of the work bid or being performed for which there is a
+27 violation. In addition to the fine, the board may impose administrative costs and
+28 attorney fees for each offense. In determining the amount of the administrative
+29 penalty, the board, plumbing subcommittee, or residential subcommittee shall
+Page 16 of 32
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1246 REENGROSSED
+HB NO. 827
+1 consider the circumstances and seriousness of the violation, cooperation on the part
+2 of the contractor, and the history of previous violations.
+3 B. A monetary penalty assessed by the board, plumbing subcommittee, or
+4 the residential subcommittee is payable within ninety days or as provided by law.
+5 Failure to pay an outstanding penalty may be cause to deny issuance or renewal of
+6 a license or registration and may be subject to collection efforts as provided by law.
+7 * * *
+8 H. Anyone violating this Chapter who fails to cease work, after proper
+9 hearing and notification from the board, shall not be eligible to apply for a
+10 contractor's license or a plumber's license for a period not to exceed one year from
+11 the date of official notification to cease work.
+12 I.(1) All fines or penalties collected by the board pursuant to the provisions
+13 of this Section for violations of any provision of this Chapter, except for violations
+14 related to plumbing or plumbing contracting, shall, annually, at each audit of the
+15 board, be transferred to a separate contractor's educational trust fund to be used for
+16 educational purposes as determined by the trustees of the fund. The Construction
+17 Education Trust Fund shall make an audited financial report to the board annually.
+18 (2) All fines or penalties collected by the board pursuant to the provisions
+19 of this Section for violations related to plumbing or plumbing contracting shall,
+20 annually, at each audit of the board, be transferred to the Louisiana Community and
+21 Technical College System to be used exclusively for training programs related to the
+22 plumbing trade.
+23 * * *
+24 Section 2. Part II of Chapter 24 of Title 37 of the Louisiana Revised Statutes of
+25 1950, comprised of R.S. 37:2175.1 through 2175.10, is hereby enacted to read as follows:
+26 PART II. LOUISIANA PLUMBING WORKFORCE ACCESS ACT
+27 §2175.1. Short title
+28 This Part shall be known and may be cited as the "Louisiana Plumbing
+29 Workforce Access Act".
+30 §2175.2. Definitions
+Page 17 of 32
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1246 REENGROSSED
+HB NO. 827
+1 As used in this Part, the following terms have the following meanings:
+2 (1) "Approved institution" means a community college, vocational-technical
+3 school, or correctional facility training program that has received board approval to
+4 offer the Institutional Plumbing Pathway program pursuant to this Part.
+5 (2) "Board" means the State Licensing Board for Contractors.
+6 (3) "Competency checkpoint" means a standardized practical skills
+7 assessment administered or certified by the board at defined stages of the
+8 institutional pathway.
+9 (4) "Industry rotation" means a structured period of supervised hands-on
+10 work experience completed by an Institutional Plumbing Pathway student at a
+11 participating licensed plumbing contractor's worksite.
+12 (5) "Institutional Plumbing Pathway student" means a person enrolled in an
+13 approved institution's program established pursuant to this Part.
+14 (6) "LCTCS" means the Louisiana Community and Technical College
+15 System.
+16 (7) "Participating employer" means a licensed plumbing contractor that has
+17 registered with the board to accept Institutional Plumbing Pathway students for
+18 industry rotation as provided in this Part.
+19 (8) "Returning citizen" means a person who has been released from a state
+20 or federal correctional facility within the preceding five years.
+21 §2175.3. Institutional Plumbing Pathway established
+22 A. The board, in coordination with LCTCS, shall establish the Institutional
+23 Plumbing Pathway as an alternative route to qualify for the journeyman plumber
+24 examination. The Institutional Plumbing Pathway consists of three components:
+25 (1) Classroom and laboratory instruction at an approved institution as
+26 provided in R.S. 37:2175.5.
+27 (2) Competency checkpoints as provided in R.S. 37:2175.6.
+28 (3) Industry rotation as provided in R.S. 37:2175.7.
+Page 18 of 32
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1246 REENGROSSED
+HB NO. 827
+1 B. Completion of the Institutional Plumbing Pathway satisfies the experience
+2 and training requirements for application to sit for the journeyman plumber
+3 examination in lieu of the employer-sponsored apprenticeship requirements.
+4 C. All other requirements for journeyman licensure, including passage of the
+5 journeyman plumber examination administered by the board, remain in full force and
+6 effect. Nothing in this Part shall be construed to alter examination content, passing
+7 standards, or the board's authority over licensure decisions.
+8 D. A person who completes the Institutional Plumbing Pathway is eligible
+9 to apply for any license classification established in accordance with this Chapter or
+10 administered by the board, including any license classifications established by law
+11 or rule on or after the effective date of this Part, if the applicant meets all applicable
+12 requirements. The board shall determine eligibility, scope of work, and appropriate
+13 level of licensure based on demonstrated competency, training, and experience.
+14 E. Nothing in this Section shall be construed to waive or reduce any
+15 examination, competency, supervision, or public safety requirements established by
+16 either board.
+17 §2175.4. Curriculum and laboratory standards
+18 A. The board shall promulgate rules establishing minimum curriculum
+19 standards for approved institutions. Such standards shall include, at a minimum, all
+20 of the following:
+21 (1) The Louisiana Plumbing Code, including all applicable state amendments
+22 to the International Plumbing Code.
+23 (2) Pipe systems, materials, and installation techniques for residential,
+24 commercial, and industrial applications.
+25 (3) Blueprint reading and plumbing system design.
+26 (4) Workplace safety, including Occupational Safety and Health
+27 Administration standards applicable to plumbing work.
+28 (5) Applied mathematics for the trades.
+29 (6) Water supply, drainage, waste, and venting systems.
+30 (7) Medical gas systems and specialty installations, at the board's discretion.
+Page 19 of 32
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1246 REENGROSSED
+HB NO. 827
+1 B. An approved institution shall maintain laboratory facilities sufficient to
+2 allow students to develop hands-on competency in pipe fitting, fixture installation,
+3 and system assembly under the supervision of a licensed master plumber or licensed
+4 journeyman plumber employed by the institution.
+5 C. An institution seeking approval shall submit its proposed curriculum to
+6 the board for review. The board shall approve, conditionally approve, or deny the
+7 application within ninety days of receipt and shall provide written findings
+8 supporting its decision.
+9 D. Approved institutions shall be subject to periodic review by the board no
+10 less frequently than every three years. The board may revoke or suspend approval
+11 for material deficiencies in curriculum, facilities, or instructional quality.
+12 §2175.5. Competency checkpoints
+13 A. The board shall establish a series of not fewer than three competency
+14 checkpoints to be completed by Institutional Plumbing Pathway students at defined
+15 stages of the program. Competency checkpoints shall assess practical skills in
+16 accordance with standards promulgated by the board.
+17 B. Competency checkpoints shall be administered by board-certified
+18 assessors and shall be independent of the approved institution. No approved
+19 institution employee shall serve as the sole assessor for that institution's own
+20 students.
+21 C. A student who fails a competency checkpoint may remediate and retake
+22 the assessment in accordance with rules promulgated by the board. An approved
+23 institution shall provide remediation support for a student who does not pass.
+24 D. Successful completion of all required competency checkpoints shall be
+25 documented by the board and constitutes official verification of the student's
+26 practical competency for purposes of qualification to sit for the journeyman plumber
+27 examination.
+28 §2175.6. Industry rotation program
+29 A. As a component of the Institutional Plumbing Pathway, a student shall
+30 complete a minimum of two thousand hours of industry rotation across at least three
+Page 20 of 32
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1246 REENGROSSED
+HB NO. 827
+1 participating employers, with no single employer providing more than one thousand
+2 of the required rotation hours.
+3 B. Industry rotation shall expose the student to a range of plumbing
+4 applications. An approved institution shall endeavor to ensure that each student
+5 completes rotation hours in at least two of the following categories:
+6 (1) Residential new construction.
+7 (2) Residential service and repair.
+8 (3) Commercial construction.
+9 (4) Industrial or institutional applications.
+10 C. A participating employer shall do all of the following:
+11 (1) Register with the board and maintain a current registration in good
+12 standing.
+13 (2) Assign a licensed journeyman or master plumber to directly supervise
+14 each institutional pathway student at all times during industry rotation.
+15 (3) Submit quarterly hour verification reports to the board in a form
+16 prescribed by the board.
+17 (4) Certify that the student's work during rotation meets applicable safety
+18 and workmanship standards.
+19 D. Rotation hours are portable. If a student's rotation with one participating
+20 employer is interrupted for any reason, documented hours shall be credited toward
+21 the student's total and shall not be forfeited upon transfer to another participating
+22 employer.
+23 §2175.7. Returning citizen pathway
+24 A. The board shall authorize approved institutions to include correctional
+25 facilities operating under the jurisdiction of the Louisiana Department of Public
+26 Safety and Corrections as delivery sites for the pre-apprenticeship and classroom
+27 components of the Institutional Plumbing Pathway.
+28 B. A person incarcerated in a Louisiana correctional facility who completes
+29 a board-approved pre-apprenticeship plumbing program while incarcerated shall
+30 receive all of the following:
+Page 21 of 32
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1246 REENGROSSED
+HB NO. 827
+1 (1) Credit toward the classroom and laboratory instruction component of the
+2 Institutional Plumbing Pathway upon release.
+3 (2) Automatic registration as an Institutional Plumbing Pathway student
+4 upon release, subject to any applicable licensing restrictions imposed by the board
+5 related to the nature of prior convictions.
+6 (3) Eligibility to complete the industry rotation component through
+7 participating employers at no additional registration fee for a period of two years
+8 following release.
+9 C. The board shall not deny licensure to a returning citizen solely on the
+10 basis of a prior conviction unless the conviction is directly and substantially related
+11 to the duties and responsibilities of a licensed plumber, as determined by the board
+12 in accordance with R.S. 37:2950.
+13 D. Louisiana Works and the Reentry Advisory Council shall collaborate with
+14 the board to develop outreach, support services, and employer recruitment specific
+15 to the returning citizen pathway established by this Section.
+16 §2175.8. Louisiana equivalency examination for out-of-state licensees
+17 A. A person who holds a current and valid journeyman or master plumber
+18 license in good standing in another state may apply for licensure in this state by
+19 equivalency examination, in lieu of completing the Institutional Plumbing Pathway
+20 or an employer-sponsored apprenticeship.
+21 B. The equivalency examination shall test the applicant's knowledge of all
+22 of the following:
+23 (1) Amendments to the International Plumbing Code specific to this state.
+24 (2) Administrative licensing requirements and board rules applicable to this
+25 state.
+26 (3) Any specific construction or environmental conditions relevant to
+27 plumbing practice in this state.
+28 C. An applicant who passes the equivalency examination and satisfies all
+29 other board requirements, including applicable background checks and fees, shall be
+Page 22 of 32
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1246 REENGROSSED
+HB NO. 827
+1 issued a journeyman or master plumber license at the level commensurate with the
+2 applicant's out-of-state license.
+3 D. The board shall promulgate rules establishing the content, passing score,
+4 and administration of the equivalency examination within one hundred eighty days
+5 of the effective date of this Part.
+6 §2175.9. Financial assistance
+7 A. Louisiana Works, in coordination with LCTCS and the board, may
+8 develop a financial assistance program for Institutional Plumbing Pathway students
+9 who demonstrate financial need. The program may include any of the following:
+10 (1) Stipends for students during the industry rotation component.
+11 (2) Reimbursement of examination fees for students who pass the
+12 journeyman or master plumber examination on the first attempt.
+13 (3) Low-interest loans for tools, equipment, and program-related expenses.
+14 B. A student who receives financial assistance from a program created
+15 pursuant to this Section and becomes licensed in this state shall commit to working
+16 as a licensed plumber in this state for not fewer than two years following licensure
+17 as a condition of assistance. Louisiana Works may promulgate rules governing
+18 repayment obligations for a student who does not satisfy this commitment.
+19 C. Financial assistance in accordance with this Section shall be funded
+20 through appropriations made by the legislature. Louisiana Works shall report
+21 annually to the legislature on the number of students assisted, pass rates, and
+22 licensure outcomes.
+23 §2175.10. Rulemaking; implementation
+24 A. The board shall promulgate all rules necessary to implement this Part in
+25 accordance with the Administrative Procedure Act, R.S. 49:950 et seq. Initial rules
+26 shall be promulgated within one hundred eighty days of the effective date of this
+27 Part.
+28 B. The board shall submit an annual report to the legislature and the
+29 governor, not later than February first of each year, beginning in the year following
+30 the first full year of program operation, which shall include all of the following:
+Page 23 of 32
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1246 REENGROSSED
+HB NO. 827
+1 (1) The number of approved institutions and their locations.
+2 (2) Enrollment and completion rates, disaggregated by race, gender,
+3 geographic region, veteran status, and returning citizen status.
+4 (3) Journeyman examination pass rates for Institutional Plumbing Pathway
+5 graduates compared to traditional apprentices.
+6 (4) The number of participating employers and employer tax credits claimed.
+7 (5) Recommendations for program improvements.
+8 C. The board may enter into interagency agreements with LCTCS, the
+9 Louisiana Department of Public Safety and Corrections, Louisiana Works, and the
+10 Louisiana Department of Revenue as necessary to implement this Part.
+11 Section 3. Chapter 16 of Title 37 of the Louisiana Revised Statutes of 1950,
+12 comprised of R.S. 37:1361 through 1380, is hereby repealed in its entirety.
+13 Section 4. The Louisiana State Law Institute is hereby directed to make technical
+14 changes to statutory laws as necessary to reflect the succession of the State Plumbing Board
+15 by the State Licensing Board for Contractors as provided in this Act.
+16 Section 5. Any person licensed in this state as an apprentice plumber, journeyman
+17 plumber, or master plumber by the State Plumbing Board on or before December 31, 2026,
+18 shall hold the equivalent license of the State Licensing Board for Contractors created by this
+19 Act on January 1, 2027.
+20 Section 6.(A) On the effective date of this Section, the State Plumbing Board is
+21 abolished and its duties and functions shall be transferred to the State Licensing Board for
+22 Contractors. All unfinished business, references in laws and documents, employees,
+23 property, obligations, and books and records heretofore under the control of the State
+24 Plumbing Board shall be transferred to the State Licensing Board for Contractors as
+25 provided in this Section.
+26 (B) Unfinished business. Upon the transfer of duties and functions as provided in
+27 this Section, any pending or unfinished business of the State Plumbing Board shall be taken
+28 over and completed by the State Licensing Board for Contractors. The State Licensing Board
+29 for Contractors is the successor in every way to the State Plumbing Board.
+Page 24 of 32
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1246 REENGROSSED
+HB NO. 827
+1 (C) References in laws and documents. Wherever the State Plumbing Board is
+2 referred to or designated by the constitution or by any law or contract or other document,
+3 after the effective date of the abolition of that board as provided in this Act any such
+4 reference or designation is considered to apply to the State Licensing Board for Contractors.
+5 (D) Legal proceedings and documents continued. Any legal proceeding to which
+6 the State Plumbing Board is a party and which is filed, initiated, or pending before any court
+7 on January 1, 2027, and all documents involved in or affected by such legal proceeding, shall
+8 retain their effectiveness and shall be continued in the name of the State Licensing Board for
+9 Contractors. All further legal proceedings and documents in the continuation, disposition,
+10 and enforcement of such legal proceedings shall be in the name of the State Licensing Board
+11 for Contractors, and the State Licensing Board for Contractors shall be substituted for the
+12 party to which it is the successor without the necessity for amendment of any document to
+13 substitute the name of that board it is succeeding or the name or title of any office, official,
+14 employee, or other agent or representative of that board it is succeeding. Any legal
+15 proceeding and all documents involved in or affected by such legal proceeding, which
+16 proceeding has been continued in the name of the State Plumbing Board, shall retain their
+17 effectiveness, and those provisions of this Act requiring that the continuation, disposition,
+18 and enforcement of a legal proceeding and documents related thereto be in the name of the
+19 party to which the State Licensing Board for Contractors is the successor does not affect
+20 their validity.
+21 (E)(1) Protection of obligations; federal assistance. All obligations of the State
+22 Plumbing Board hereafter is considered to be the obligations of the State Licensing Board
+23 for Contractors to the same extent as if originally made by the State Licensing Board for
+24 Contractors and the same are hereby ratified. In like manner, and in order to prevent any
+25 violation of the provisions, terms, or conditions of any gift, donation, deed, will, trust, or
+26 other instrument or disposition by which property vested in the State Licensing Board for
+27 Contractors by this Act was previously vested in the State Plumbing Board or diversion from
+28 the purposes for which such property was so vested, it is hereby specifically provided that
+29 each such instrument or disposition hereafter is considered to have vested such property in
+Page 25 of 32
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1246 REENGROSSED
+HB NO. 827
+1 the State Licensing Board for Contractors in the same manner and to the same extent as if
+2 originally so done.
+3 (2) The State Licensing Board for Contractors is the successor in every way to the
+4 State Plumbing Board, including with respect to obligations and debts of the State Plumbing
+5 Board. All dedications and allocations of revenues and sources of revenues heretofore made
+6 shall continue in the same manner, to the same extent, and for the same purposes as were
+7 provided prior to the enactment of this Section of this Act, unless and until other provision
+8 is made for such dedications and allocations.
+9 (3) This Act shall not be construed or applied in any way which will prevent full
+10 compliance by the state, or any department, office, or agency thereof, with the requirements
+11 of any act of the Congress of the United States or any regulation made thereunder by which
+12 federal aid or other federal assistance has been or hereafter is made available to this state,
+13 or any department, office, agency, or subdivision thereof, anything contained in this Act to
+14 the contrary notwithstanding, and such compliance hereafter shall be accomplished by the
+15 State Licensing Board for Contractors.
+16 (F) Transfer of property. All books, papers, records, money, actions, and other
+17 property of every kind, movable and immovable, real and personal, heretofore possessed,
+18 controlled, or used by the State Plumbing Board are hereby transferred to the State Licensing
+19 Board for Contractors. All funds controlled by the State Plumbing Board are hereby
+20 transferred to the State Licensing Board for Contractors.
+21 (G) Transfer of employees. All employees engaged in the performance of duties of
+22 the State Plumbing Board are hereby transferred to the State Licensing Board for Contractors
+23 and are subject to applicable state civil service laws, rules, and regulations. Employee
+24 positions in the unclassified service will remain in the unclassified service.
+25 Section 7. The State Plumbing Board and the State Licensing Board of Contractors
+26 shall take all necessary actions prior to January 1, 2027, including but not limited to
+27 amending, adopting, and repealing administrative rules as are necessary to implement the
+28 provisions of this Act.
+29 Section 8. Sections 1 through 6 of this Act shall become effective on January 1,
+30 2027.
+Page 26 of 32
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1246 REENGROSSED
+HB NO. 827
+1 Section 9. Sections 7, 8, and this Section of this Act shall become effective upon
+2 signature by the governor, or, if not signed by the governor, upon expiration of the time for
+3 bills to become law without signature by the governor, as provided by Article III, Section
+4 18 of the Constitution of Louisiana. If vetoed by the governor and subsequently approved
+5 by the legislature, Sections 7, 8, and this Section of this Act shall become effective on the
+6 day following such approval.
+DIGEST
+The digest printed below was prepared by House Legislative Services. It constitutes no part
+of the legislative instrument. The keyword, one-liner, abstract, and digest do not constitute
+part of the law or proof or indicia of legislative intent. [R.S. 1:13(B) and 24:177(E)]
+HB 827 Reengrossed 2026 Regular Session Jordan
+Abstract: Creates the Plumbing Contractors Subcommittee in the State Licensing Bd. for
+Contractors, abolishes the State Plumbing Bd., and transfers all powers, duties, property, and
+obligations of the State Plumbing Bd. to the State Licensing Bd. for Contractors. Creates the
+Plumbing Workforce Access Act, providing an alternative educational pathway to plumbing
+licensure in partnership with LCTCS.
+Present law provides for the legislative purpose relative to the State Licensing Bd. for
+Contractors.
+Proposed law amends present law to provide for legislative intent of that board regarding
+plumbers.
+Present law provides for definitions.
+Proposed law amends definitions of "contractor" and "plumbing contractor" and adds
+definitions of "apprentice plumber license", "journeyman plumber license", "master plumber
+license", "master plumbing contractor", "plumber", and "residential plumbing contractor".
+Present law creates the State Plumbing Bd., provides for its domicile and its membership,
+provides for the term limits, compensation, and voting of members, and provides for officers
+of that board.
+Proposed law abolishes the State Plumbing Bd. and creates the Plumbing Contractors
+Subcommittee of the State Licensing Bd. for Contractors, provides for the membership,
+terms, voting, and reimbursement of its members, and provides for the officers of that
+subcommittee.
+Present law provides for the powers and duties of the State Plumbing Bd., and provides that
+the State Plumbing Bd. is the sole and exclusive agency with the power to license plumbers
+and plumbing businesses and the power to enjoin any person from engaging in plumbing
+work when it appears that the person is violating provisions of present law.
+Proposed law abolishes the State Plumbing Bd. and transfers its powers to license plumbers
+and plumbing businesses to the Plumbing Contractors Subcommittee of the State Licensing
+Bd. for Contractors, including all of the following:
+Page 27 of 32
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1246 REENGROSSED
+HB NO. 827
+(1) To adopt rules and regulations to govern all plumbing contractors and plumbers in
+this state, including all specialty classifications and sub-classifications.
+(2) To issue, suspend, or revoke licenses to do plumbing or plumbing business in this
+state pursuant to proposed law.
+(3) To prescribe and adopt regulations and policies for continuing education for
+plumbers.
+(4) To enforce against, prosecute, or enjoin all persons violating plumbing or plumbing
+contracting provisions of proposed law, and to issue fines and penalties for
+violations.
+Present law provides for licensing requirements of plumbers relative to certain kinds of work
+and business, provides relative to the grades of apprentice plumber, journeyman plumber,
+master plumber, residential plumber limited, medical gas and vacuum systems verifier,
+medical gas piping installer, and water protection supply specialists, with enforcement power
+by the State Plumbing Bd.
+Proposed law repeals the licensing requirements in present law and provides for licensing
+of individual plumbers in apprentice, journeyman, and master plumber license grades, and
+for plumbing contractors who may offer or contract to undertake plumbing work. Proposed
+law provides for specialty classifications or sub-classifications to be promulgated by rule
+issued by the Plumbing Contractors Subcommittee.
+Present law provides for temporary working permits for certain plumbers from other states.
+Proposed law repeals present law and provides for the Plumbing Contractors Subcommittee
+to create temporary working permits by rulemaking.
+Present law provides the fees the State Plumbing Board may fix for the examination,
+licensing, and renewal fees for various plumbing licenses, and for fees the State Licensing
+Bd. for Contractors may charge for contractor licenses.
+Proposed law repeals the fees that may be issued by the State Plumbing Bd. and amends
+present law regarding contractors to provide that the fees charged for contractor licenses will
+also apply to plumber licenses.
+Present law requires the State Plumbing Bd. to perform inspections, assess violations, issue
+injunctions, or fine any person performing plumbing work without a license issued by that
+board.
+Proposed law abolishes the State Plumbing Bd. and provides the Plumbing Contractors
+Subcommittee of the State Licensing Bd. for Contractors with the power to perform
+inspections, assess violations, or issue injunctions and fines.
+Proposed law provides for the transfer of all powers, duties, functions, references in law or
+documents, obligations, property, titles, revenues, and employees from the State
+Plumbing Bd. to the State Licensing Bd. for Contractors on the effective date of proposed
+law.
+Provides for multiple effective dates for provisions of proposed law.
+Proposed law shall be known and may be cited as the "Louisiana Plumbing Workforce
+Access Act".
+Proposed law provides legislative findings and purpose.
+Page 28 of 32
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1246 REENGROSSED
+HB NO. 827
+Proposed law defines "approved institution", "board", "competency checkpoint", industry
+rotation", "Institutional Plumbing Pathway student", "LCTCS", "participating employer",
+and "returning citizen".
+Proposed law provides the Institutional Plumbing Pathway as an alternative route to qualify
+for the journeyman plumber examination and provides components.
+Proposed law provides for rulemaking authority with respect to minimum curriculum
+standards and provides for laboratory standards and periodic review by the State Plumbing
+Board.
+Proposed law provides that a person who completes the Institutional Plumbing Pathway is
+eligible to apply for any license classification established under proposed law or
+administered by the State Plumbing Board or the Louisiana State Licensing Board for
+Contractors, including any license classifications established on or after the effective date
+of proposed law.
+Proposed law provides that the State Plumbing Bd. and the La. State Licensing Bd. for
+Contractors will determine eligibility, scope of work, and appropriate level of licensure
+based on demonstrated competency, training, and experience and that nothing in proposed
+law is to be construed to waive or reduce any examination, competency, supervision, or
+public safety requirements established by either board.
+Proposed law provides for required competency checkpoints which will assess practical
+skills in accordance with standards promulgated by the board.
+Proposed law requires a student to complete a minimum of 2,000 hours of industry rotation
+covering a range of plumbing applications across at least three participating employers, with
+no single employer providing more than 1,000 of the required rotation hours.
+Proposed law provides that a participating employer shall do all of the following:
+(1) Register with the board and maintain a current registration in good standing.
+(2) Assign a licensed journeyman or master plumber to directly supervise each
+institutional pathway student at all times during industry rotation.
+(3) Submit quarterly hour verification reports to the board in a form prescribed by the
+board.
+(4) Certify that the student's work during rotation meets applicable safety and
+workmanship standards.
+Proposed law provides for program participation by correctional facilities, and a person
+incarcerated in a correctional facility in this state who completes a board-approved
+pre-apprenticeship plumbing program while incarcerated shall receive all of the following:
+(1) Credit toward the classroom and laboratory instruction component of the
+Institutional Plumbing Pathway upon release.
+(2) Automatic registration as an Institutional Plumbing Pathway student upon release,
+subject to any applicable licensing restrictions imposed by the board related to the
+nature of prior convictions.
+(3) Eligibility to complete the industry rotation component through participating
+employers at no additional registration fee for a period of two years following
+release.
+Page 29 of 32
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1246 REENGROSSED
+HB NO. 827
+Proposed law requires the La. Works and the Reentry Advisory Council to collaborate with
+the board to develop the correctional program in accordance with proposed law.
+Proposed law provides that a person who holds a current and valid journeyman or master
+plumber license in good standing in another state may apply for licensure in this state by
+equivalency examination.
+Proposed law provides for the content of the equivalency examination.
+Proposed law provides that La. Works, in coordination with LCTCS and the board, may
+develop a financial assistance program funded through appropriations made by the
+legislature for Institutional Plumbing Pathway students who demonstrate financial need, and
+that qualifying students of a program created pursuant to proposed law shall commit to
+working as a licensed plumber in this state for no fewer than two years.
+Proposed law provides for rulemaking authority and requires initial rules to be promulgated
+within 180 days.
+Proposed law requires an annual report on program operation to the legislature and the
+governor.
+(Amends R.S. 37:2150, 2150.1, 2156(D), (E), and (K)(1), 2156.1(A)(7), (B)(1), and (I),
+2158(A)(intro. para.), and 2164(A), (B), (H), and (I); Adds R.S. 37:2155.1, 2156.1.1 and
+2158(A)(24), and 2175.1-2175.10; Repeals R.S. 37:1361-1380)
+Summary of Amendments Adopted by House
+The Committee Amendments Proposed by House Committee on Commerce to the
+original bill:
+1. Make technical changes.
+2. Provide that a person who completes the Institutional Plumbing Pathway shall
+be eligible to apply for any license classification established under present law,
+or administered by the State Plumbing Board or the Louisiana State Licensing
+Board for Contractors.
+3. Provide that the State Plumbing Board and the Louisiana State Licensing Board
+for Contractors shall determine eligibility, scope of work, and appropriate level
+of licensure based on demonstrated competency, training, and experience, and
+that nothing in proposed law shall be construed to waive or reduce any
+examination, competency, supervision, or public safety requirements established
+by either board.
+The House Floor Amendments to the engrossed bill:
+1. Make technical changes.
+2. Amend proposed law regarding development of a financial assistance program
+for the Institutional Plumbing Pathway from providing that La. Works shall
+develop that program to providing that La. Works may develop that program.
+3. Remove provisions providing legislative intent and purpose regarding the
+creation of the Institutional Plumbing Pathway program.
+4. Amend proposed law regarding annual reporting on program operation from
+issuing that report to the legislature, governor, and the La. Legislative Black
+Caucus to issuing that report to the legislature and the governor.
+Page 30 of 32
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1246 REENGROSSED
+HB NO. 827
+5. Amend proposed law to remove a $100 annual fee to be assessed on each
+plumbing contractor for license renewal to be disbursed to the La. Community
+and Technical College System for plumbing training programs.
+6. Delete proposed law that would have enacted a concurrent authority to license
+plumbers shared by the State Plumbing Board and the State Licensing Board for
+Contractors.
+7. Add proposed law that abolishes the State Plumbing Board and transfers all
+rights, obligations, property, employees, powers, and duties to the State
+Licensing Board for Contractors.
+8. Amend legislative intent relative to licensing of contractors.
+9. Define "apprentice plumber license", "journeyman plumber license", "master
+plumber license", "master plumbing contractor", "plumber", and "residential
+plumbing contractor".
+10. Amend the definitions of "contractor" and "plumbing contractor".
+11. Establish the Plumbing Contractors Subcommittee within the State Licensing
+Board for Contractors and provide for the membership, terms, powers, and duties
+of the subcommittee.
+12. Amend licensing and renewal provisions relative to contractors to include
+plumbing contractors.
+13. Amend major classifications of contractor licenses to include master plumbing.
+14. Provide for requirements relative to master plumbing contractor and residential
+plumbing contractor licenses.
+15. Provide for requirements relative to individual apprentice plumber licenses,
+journeyman plumber licenses, and master plumber licenses.
+16. Provide the Plumbing Contractors Subcommittee with rulemaking authority
+relative to requirements for issuance of plumber's licenses.
+17. Amend present law relative to revocation and suspension of contractors' licenses
+to provide the Plumbing Contractors Subcommittee with powers of license
+revocation and suspension.
+18. Provide for violations by plumbing contractors that may be punished by license
+revocation or suspension.
+19. Amends present law relative to violations and penalties for contractors to provide
+the Plumbing Contractors Subcommittee with the power to assess violations and
+penalties.
+20. Amend present law regarding violations and penalties for violations by
+contractors to add that provisions also apply to plumbers.
+21. Provide for fines and penalties collected by the State Licensing Bd. for
+Contractors or the Plumbing Contractors Subcommittee for plumbing violations
+or plumbing contracting violations to be transferred to La. Community and
+Technical College System for plumbing training programs.
+Page 31 of 32
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1246 REENGROSSED
+HB NO. 827
+22. Abolish the State Plumbing Bd. and transfer all powers, duties, functions, legal
+standing, obligations, property, and employees in present law to the State
+Licensing Bd. for Contractors.
+23. Repeal present law relative to licensing requirements and restrictions of
+plumbers to be enforced by the State Plumbing Bd.
+24. Provide that on the effective date of proposed law, all plumbers currently
+licensed in this state issued by State Plumbing Bd. shall have the equivalent
+license recognized by the State Licensing Bd. for Contractors.
+25. Direct State Plumbing Bd. and the State Licensing Bd. for Contractors to take all
+necessary actions prior to the effective date of proposed law to implement the
+provisions of proposed law.
+26. Provide for multiple effective dates of proposed law.
+Page 32 of 32
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.

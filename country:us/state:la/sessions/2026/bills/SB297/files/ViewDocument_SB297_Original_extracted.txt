@@ -1,0 +1,169 @@
+Title: 
+Official Title: 
+Source: versions - SB297 Original
+Media Type: application/pdf
+
+================================================================================
+
+SLS 26RS-484 ORIGINAL
+2026 Regular Session
+SENATE BILL NO. 297
+BY SENATOR DUPLESSIS
+INSURANCE RATES. Provides a process for insurers to assert the right to prevent public
+inspection of certain filing information based on a claim of trade secret. (8/1/26)
+1 AN ACT
+2 To amend and reenact R.S. 22:1464(D), relative to insurance rate filings; to provide for
+3 transparency in rate filings; to provide for trade secret protection for insurance rate
+4 filings; to provide for definitions; to provide for penalties; and to provide for related
+5 matters.
+6 Be it enacted by the Legislature of Louisiana:
+7 Section 1. R.S. 22:1464(D) is hereby amended and reenacted to read as follows:
+8 §1464. Rate filing
+9 * * *
+10 D.(1) All rates, supplementary rate information, and any supporting
+11 information filed pursuant to this Subpart shall be open to public inspection upon
+12 expiration of the notification period as applicable pursuant to R.S. 22:1451, or upon
+13 disapproval, except for information that is confidential, trade secret, or proprietary.
+14 The determination of whether such information is in fact confidential, trade secret,
+15 or proprietary shall be made by the commissioner in accordance with the
+16 provisions of this Subsection.
+17 (2)(a) If the commissioner receives a request for any information which has
+Page 1 of 5
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-484 ORIGINAL
+SB NO. 297
+1 been marked by the insurer or filer as confidential, trade secret, or proprietary, prior
+2 to disclosure, the commissioner shall notify the insurer or filer in writing of the
+3 request and the commissioner's determination of whether or not the information so
+4 requested is subject to disclosure.
+5 (b) Within ten days of receipt of the notification, the insurer or filer may
+6 request a hearing before the division of administrative law in accordance with R.S.
+7 22:2191 et seq. In the event of a hearing request, the commissioner's determination
+8 as to whether the information is confidential, trade secret, or proprietary shall be
+9 stayed.
+10 (c) Any action brought pursuant to this Paragraph shall be tried by preference
+11 and in a summary manner. The court may review the documents in-camera before
+12 reaching a decision.
+13 (3) Nothing in this Subsection precludes the public examination or
+14 reproduction of any record or part of a record which is not confidential, proprietary,
+15 or trade secret.
+16 (2) Any insurer claiming that documents or information filed under the
+17 provisions of this Section contain trade secrets shall file with the commissioner
+18 a notice of request for nondisclosure on the basis of trade secret protection.
+19 Failure to do so constitutes a waiver of any claim that the document or
+20 information is a trade secret.
+21 (3) A claim that information is subject to nondisclosure on the grounds
+22 it is a trade secret shall meet all of the following conditions:
+23 (a) It shall be information, including a formula, pattern, compilation,
+24 program, device, method, technique, or process that derives independent
+25 economic value, actual or potential, from not being generally known to and not
+26 being readily ascertainable through proper means by other persons who can
+27 obtain economic value from its disclosure or use, and is the subject of efforts
+28 that are unreasonable under the circumstances to maintain its secrecy.
+29 (b) Each page of a document or specific portion of a document claimed
+Page 2 of 5
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-484 ORIGINAL
+SB NO. 297
+1 to be a trade secret shall be clearly marked as "trade secret".
+2 (c) All material marked as a trade secret shall be separated from all non-
+3 trade secret material and submitted in a separate envelope or document clearly
+4 marked as "trade secret".
+5 (d) In submitting a notice of trade secret to the commissioner, the
+6 submitting party shall include a sworn affidavit that states the basis for the
+7 claim that the submission qualifies as a trade secret and attests to the truth of
+8 all of the following:
+9 (i) The affiant considers this information to be a trade secret that has
+10 value and provides an advantage or an opportunity to obtain an advantage over
+11 those who do not know or use it.
+12 (ii) The affiant has taken measures to prevent the disclosure of the
+13 information to anyone other than those who have been selected to have access
+14 for limited purposes and the affiant continues to take those measures.
+15 (iii) The information is and has not been reasonably obtainable by other
+16 persons by use of legitimate means without the affiant's consent.
+17 (iv) The information is not publicly available elsewhere, and the public
+18 release of the information would cause actual, demonstrable harm to affiant.
+19 (e) The submission shall include a summary prepared for the public
+20 describing the nature of the submission claimed to be a trade secret without
+21 disclosing the protected details of the submission.
+22 (4) The following items shall not be considered a trade secret and shall
+23 be subject to public disclosure:
+24 (a) Any financial information, including data, models, or assumptions,
+25 used in the calculation or justification for insurance rates.
+26 (b) All transactions between an insurer and any affiliate including but
+27 not limited to fees, commissions, payments, or profit-sharing agreements with
+28 managing general agents, claims adjusters, reinsurers, or third-party
+29 administrators.
+Page 3 of 5
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-484 ORIGINAL
+SB NO. 297
+1 (c) Office and employee compensation.
+2 (d) Dividends paid to shareholders.
+3 (e) Any information contained in rate filings.
+4 (f) Any information used to support or oppose proposed legislation.
+5 (g) The summary prepared in accordance with Subparagraph (3)(e) of
+6 this Subsection.
+7 (5) The commissioner shall review all claims of trade secret protection
+8 submitted pursuant to this Section. If the commissioner determines that the
+9 information does not meet the definition of a trade secret pursuant to this
+10 Section or falls within the categories provided for in Paragraph (4) of this
+11 Subsection, the claim shall be denied, and the commissioner shall issue a written
+12 notice of denial to the submitting party.
+13 (6) The commissioner shall, at least once every other year, contract with
+14 an independent third-party entity with expertise in insurance regulation to
+15 conduct an independent review of trade secret claims submitted pursuant to this
+16 Subsection. The contract shall require submission of a final report to the
+17 commissioner, the president of the Senate, and the speaker of the House of
+18 Representatives no later than February 1 of the year following the year in which
+19 a review is conducted identifying any trade secret claims the third-party entity
+20 recommends be rejected by the commissioner.
+21 (7) Any person who knowingly asserts a false claim of trade secret
+22 protection in order to conceal unlawful financial practices shall be subject to a
+23 fine imposed by the commissioner in an amount not to exceed twenty-five
+24 thousand dollars per violation and suspension or revocation of any certificate
+25 of authority or insurance license held by that person.
+26 * * *
+Page 4 of 5
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-484 ORIGINAL
+SB NO. 297
+The original instrument and the following digest, which constitutes no part
+of the legislative instrument, were prepared by Senate Legislative Services.
+The keyword, summary, and digest do not constitute part of the law or proof
+or indicia of legislative intent. [R.S. 1:13(B) and 24:177(E)]
+DIGEST
+SB 297 Original 2026 Regular Session Duplessis
+Present law provides that all rates, supplementary rate information, and any supporting
+information filed with commissioner of insurance in support of a rate filing shall be open to
+public inspection, except for information that is confidential, trade secret, or proprietary.
+Further authorizes the commissioner to determine if the information claimed to be
+confidential, trade secret, or proprietary is in fact confidential, trade secret, or proprietary.
+Proposed law retains present law.
+Proposed law requires that the insurer claiming documents or information contain trade
+secrets file with the commissioner a notice of request for nondisclosure on the basis of trade
+secret protection. Further provides that failure to file the notice constitutes a waiver of a
+claim of trade secrets.
+Proposed law provides criteria to determine if a claim of nondisclosure is correct.
+Proposed law requires the party submitting a notice of trade secret to the commissioner to
+include a sworn affidavit that states the basis for the claim of trade secret.
+Proposed law provides that certain information shall not be considered a trade secret.
+Proposed law requires the commissioner to employ an independent third-party entity to
+conduct an independent review of trade secret claims submitted at least once every other
+year, and to submit a report to the commissioner, president of the Senate, and speaker of the
+House of Representatives.
+Proposed law provides penalties for knowingly asserting a false claim of trade secret
+protection to conceal unlawful financial practices.
+Effective August 1, 2026.
+(Amends R.S. 22:1464(D))
+Page 5 of 5
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
