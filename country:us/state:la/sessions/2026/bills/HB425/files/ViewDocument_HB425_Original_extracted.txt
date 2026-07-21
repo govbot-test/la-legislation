@@ -1,0 +1,76 @@
+Title: 
+Official Title: 
+Source: versions - HB425 Original
+Media Type: application/pdf
+
+================================================================================
+
+HLS 26RS-1074 ORIGINAL
+2026 Regular Session
+HOUSE BILL NO. 425
+BY REPRESENTATIVE MANDIE LANDRY
+CONSUMERS/PROTECTION: Provides for consumer protection practices for customers
+engaging with artificial intelligence
+1 AN ACT
+2 To enact R.S. 51:1430, relative to unfair or deceptive trade practices; to provide for
+3 definitions; to provide for engagement with computer technology like artificial
+4 intelligence; to prohibit misleading communications with automated systems; to
+5 provide a cause of action; to provide for damages; to provide for injunctive relief;
+6 to provide for civil penalties; and to provide for related matters.
+7 Be it enacted by the Legislature of Louisiana:
+8 Section 1. R.S. 51:1430 is hereby enacted to read as follows:
+9 §1430. Unfair or deceptive trade practice; misleading communications with artificial
+10 intelligence systems
+11 A. As used in this Section, "automated system" means a chatbot, artificial
+12 intelligence agent, avatar, or other computer technology that engages in a textual or
+13 aural conversation and may mislead or deceive a reasonable person to believe the
+14 person is engaging with an actual human being.
+15 B. It is an unfair or deceptive trade practice for a corporation, organization,
+16 or person to engage in a commercial transaction or trade practice with a consumer
+17 in this state in which the consumer is communicating or otherwise interacting with
+18 an automated system and either of the following applies:
+19 (1) The consumer is not notified in a clear and conspicuous manner that the
+20 consumer is communicating with an automated system and not a human being.
+Page 1 of 2
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1074 ORIGINAL
+HB NO. 425
+1 (2) The consumer may reasonably believe he is engaging with a human.
+2 C. A consumer subjected to a commercial transaction that does not comply
+3 with Subsection B of this Section may initiate a civil action against the corporation,
+4 organization, or person that engaged in that transaction.
+5 D. A corporation, organization, or person that fails to comply with this
+6 Section with respect to any consumer is liable to the consumer for actual damages
+7 sustained by the consumer as a result of the violation plus statutory damages not to
+8 exceed one thousand dollars, or in the case of a class action, an amount the court
+9 determines for the class, not to exceed ten million dollars.
+10 E. The attorney general may seek injunctive relief against a corporation,
+11 organization, or person that fails to comply with this Section.
+12 F. A corporation, organization, or person found by a court to be in violation
+13 of this Section is liable for a civil penalty not to exceed five million dollars.
+DIGEST
+The digest printed below was prepared by House Legislative Services. It constitutes no part
+of the legislative instrument. The keyword, one-liner, abstract, and digest do not constitute
+part of the law or proof or indicia of legislative intent. [R.S. 1:13(B) and 24:177(E)]
+HB 425 Original 2026 Regular Session Mandie Landry
+Abstract: Provides for consumer protection practices for customers engaging with artificial
+intelligence.
+Proposed law defines "automated system".
+Proposed law establishes that it is an unfair or deceptive trade practice for a corporation,
+organization, or person to engage in a commercial transaction or trade practice with a
+consumer in this state in which the consumer is communicating or otherwise interacting with
+an automated system and either of the following applies:
+(1) The consumer is not notified in a clear and conspicuous manner that the consumer
+is communicating with an automated system and not a human being.
+(2) The consumer may otherwise reasonably believe the consumer is engaging with a
+human.
+Proposed law provides for a cause of action by a consumer subject to such a practice against
+a corporation, organization, or person.
+Proposed law provides for damages payable to the consumer by the corporation,
+organization, or person who engaged in the unfair trade practice.
+(Adds R.S. 51:1430)
+Page 2 of 2
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.

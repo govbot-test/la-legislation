@@ -1,0 +1,203 @@
+Title: 
+Official Title: 
+Source: versions - SB356 Original
+Media Type: application/pdf
+
+================================================================================
+
+SLS 26RS-186 ORIGINAL
+2026 Regular Session
+SENATE BILL NO. 356
+BY SENATOR DUPLESSIS
+ENVIRONMENTAL QUALITY. Provides for air monitoring systems in certain facilities.
+(8/1/26)
+1 AN ACT
+2 To enact R.S. 30:2382, relative to air quality; to provide for air monitoring systems at
+3 certain facilities; to provide for definitions; to provide for toxic air pollutant
+4 concentrations; to provide for system requirements; to provide for notification; to
+5 provide for reporting and record keeping; to provide for costs; to provide for rules
+6 and regulations; and to provide for related matters.
+7 Be it enacted by the Legislature of Louisiana:
+8 Section 1. R.S. 30:2382 is hereby enacted to read as follows:
+9 §2382. Air quality monitoring systems
+10 A. For purposes of this Section, the following terms shall have the
+11 meanings ascribed to them in this Section, unless the context clearly indicates
+12 otherwise:
+13 (1) "Acute exposure level" means the concentration of a toxic air
+14 pollutant, measured on a rolling one-hour average, at which health effects may
+15 occur. For purposes of this Section, acute exposure levels for toxic air pollutants
+16 shall be as follows:
+17 (a) Ammonia - 3,200 micrograms per cubic meter.
+Page 1 of 6
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-186 ORIGINAL
+SB NO. 356
+1 (b) Benzene - 27 micrograms per cubic meter.
+2 (c) 1,3-Butadiene - 660 micrograms per cubic meter.
+3 (d) Chlorine - 210 micrograms per cubic meter.
+4 (e) Formaldehyde - 55 micrograms per cubic meter.
+5 (f) Hydrogen cyanide - 340 micrograms per cubic meter.
+6 (g) Hydrogen fluoride - 240 micrograms per cubic meter.
+7 (h) Hydrogen sulfide - 42 micrograms per cubic meter.
+8 (i) Sulfur dioxide - 660 micrograms per cubic meter.
+9 (j) Toluene - 37,000 micrograms per cubic meter.
+10 (k) Vinyl chloride - 180,000 micrograms per cubic meter.
+11 (l) Xylenes - 22,000 micrograms per cubic meter.
+12 (2) "Air monitoring system" means equipment that continuously
+13 measures, records, and reports, in real-time, toxic air pollutant concentrations
+14 at or near a facility's property boundary. For purposes of this Section, an air
+15 monitoring system shall at a minimum meet the United States Environmental
+16 Protections Agency's monitoring requirements of 40 CFR Part 63, as amended,
+17 and shall include all of the following:
+18 (a) Sensing instrumentation that continuously monitors and records
+19 emissions of toxic air pollutants along an open path or paths at or adjacent to
+20 the facility's property boundary and that provides coverage of the entire
+21 boundary of the facility. Equipment shall monitor emissions during both
+22 routine operations and unplanned releases.
+23 (b) Data systems and equipment that continuously collect, process, and
+24 automatically disseminate both real-time and historical toxic air pollutant
+25 concentrations, variations, and trends, through a publicly accessible website.
+26 (c) Weather instrumentation that continuously measures ambient
+27 temperature, wind speed, wind direction, and relative humidity.
+28 (d) Notification systems and equipment that provide a real-time
+29 community alert when an air monitoring system detects that the rolling one-
+Page 2 of 6
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-186 ORIGINAL
+SB NO. 356
+1 hour average concentration of a toxic air pollutant exceeds the acute exposure
+2 threshold.
+3 (3) "Air monitoring system plan" means a written plan to be submitted
+4 by the facility to the department, prior to installation or operation of an air
+5 monitoring system, which shall include the following:
+6 (a) An inventory of equipment and instruments used to continuously
+7 monitor, record, and report toxic air pollutant concentrations on the entire
+8 boundary of the facility, including specifications and locations given in GPS
+9 coordinates.
+10 (b) An inventory of equipment and instruments used to continuously
+11 measure and record ambient temperature, wind speed, wind direction, relative
+12 humidity, and any other meteorological data within the boundaries of the
+13 facility, including specifications and locations given in GPS coordinates.
+14 (c) The location of each open path utilized by the facility's air monitoring
+15 system to monitor toxic air pollutants.
+16 (d) Quality assurance and quality control protocols for data collected by
+17 the air monitoring system.
+18 (e) Methods utilized to graphically display real-time and historical toxic
+19 air pollutant concentration data on a publicly available website.
+20 (f) Methods utilized to notify the public of unplanned releases.
+21 (g) Air monitoring system maintenance schedules.
+22 (h) Emergency measures to be implemented in the event of air
+23 monitoring system equipment or power failure.
+24 (i) Air monitoring system installation and implementation schedule.
+25 (4) "Facility" means an emissions point or group of emissions points with
+26 annual emissions, as reported to the office of environmental assessment for the
+27 three most recent calendar years, of greater than fifty pounds for any of the
+28 toxic air pollutants provided in Paragraph (5) of this Subsection, and that is
+29 classified under the North American Industry Classification Code System as one
+Page 3 of 6
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-186 ORIGINAL
+SB NO. 356
+1 of the following:
+2 (a) NAICS 324110 - petroleum refineries.
+3 (b) NAICS 325 - chemical manufacturing.
+4 (5) "Toxic air pollutant" means any of the following substances when
+5 airborne:
+6 (a) Ammonia.
+7 (b) Benzene.
+8 (c) 1,3-Butadiene.
+9 (d) Chlorine.
+10 (e) Diethanolamine.
+11 (f) Ethylbenzene.
+12 (g) Ethylene dichloride.
+13 (h) Ethylene oxide.
+14 (i) Formaldehyde.
+15 (j) Hydrogen cyanide.
+16 (k) Hydrogen fluoride.
+17 (l) Hydrogen sulfide.
+18 (m) Naphthalene.
+19 (n) Sulfur dioxide.
+20 (o) Toluene.
+21 (p) Vinyl chloride.
+22 (q) Xylenes.
+23 B. Each facility, as defined in this Section, shall be responsible for design,
+24 install, operate, and maintain an air monitoring system in accordance with this
+25 Section. The owner of a facility shall be responsible for all costs related to an air
+26 monitoring system installed on the facility, including but not limited to design,
+27 procurement, installation, operation, maintenance, record keeping, reporting,
+28 air monitoring system plan review and approval.
+29 C. When an air monitoring system detects that the rolling one-hour
+Page 4 of 6
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-186 ORIGINAL
+SB NO. 356
+1 average concentration of a toxic air pollutant exceeds the acute exposure
+2 threshold, the facility shall provide notification of an alert to interested persons.
+3 An alert shall be provided to first responders, the department, and impacted
+4 local governing authorities. The facility shall maintain a registration system
+5 whereby any interested party shall be allowed to request electronic alerts
+6 pursuant to this Subparagraph.
+7 D. The owner of a facility shall be responsible for submitting to the
+8 department quarterly reports summarizing the real-time and historical average
+9 measurements for each toxic air pollutant provided for in Paragraph (A)(5) of
+10 this Section. The report shall be submitted electronically in a format to be
+11 specified by the department. The facility shall maintain all data collected by an
+12 air monitoring system on-site and shall make the data accessible for
+13 examination by the department for a period of five years.
+14 E. The department is authorized to promulgate rules and regulations
+15 necessary to implement the requirements of this Section.
+16 F. The department shall periodically, but not less than every five years,
+17 review and revise as needed, based on the best available scientific evidence, the
+18 list of facilities, toxic air pollutants, and acute exposure levels that are subject
+19 to the requirements of this Section.
+The original instrument and the following digest, which constitutes no part
+of the legislative instrument, were prepared by Senate Legislative Services.
+The keyword, summary, and digest do not constitute part of the law or proof
+or indicia of legislative intent. [R.S. 1:13(B) and 24:177(E)]
+DIGEST
+SB 356 Original 2026 Regular Session Duplessis
+Present law provides for DEQ responsibility for environmental protection and regulation,
+having jurisdiction over air quality within the state. Authorizes DEQ to adopt rules and
+regulations for protection of the environment.
+Proposed law requires certain facilities that emit toxic air pollutants to install and operate
+air monitoring systems along the facility perimeter. Defines "facility" as a NAICS Code
+System petroleum refinery or chemical manufacturing facility with over 50 lbs. of emissions
+for any of the 17 enumerated pollutants. Further defines "toxic air pollutant", and "acute
+exposure thresholds" for certain airborne chemicals.
+Proposed law requires that facilities monitor for certain airborne pollutants, and provide
+Page 5 of 6
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-186 ORIGINAL
+SB NO. 356
+alerts to interested parties when a pollutant's concentration exceeds a certain exposure
+threshold.
+Proposed law defines "air monitoring system" and provides for certain planning, design,
+equipment, installation, data collection, public notification, and reporting requirements.
+Requires that the facility owner be responsible for costs of the system.
+Proposed law defines "air monitoring system plan" that the facility must submit to DEQ
+prior to installation of an air monitoring system, to provide an inventory and location of all
+equipment, quality control protocols, modes of data presentation and public notification,
+maintenance schedules, and system installation and maintenance schedules.
+Proposed law requires the facility to install and operate an on-site weather station to monitor
+meteorological data.
+Proposed law requires that a facility collect and maintain real-time and historical monitoring
+data for toxic air pollutants. Further requires that the facility allow interested persons to
+register for electronic notification of system alerts.
+Proposed law requires facility owners to electronically submit to DEQ quarterly reports of
+pollutant measurements.
+Proposed law authorizes DEQ to adopt rules to implement proposed law.
+Effective August 1, 2026.
+(Adds R.S. 30:2382)
+Page 6 of 6
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.

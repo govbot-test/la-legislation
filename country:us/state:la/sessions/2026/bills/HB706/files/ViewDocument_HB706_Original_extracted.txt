@@ -1,0 +1,162 @@
+Title: 
+Official Title: 
+Source: versions - HB706 Original
+Media Type: application/pdf
+
+================================================================================
+
+HLS 26RS-974 ORIGINAL
+2026 Regular Session
+HOUSE BILL NO. 706
+BY REPRESENTATIVE RISER
+ENERGY/OIL & GAS WELLS: Provides for the operation of commercial saltwater
+disposal wells
+1 AN ACT
+2 To enact R.S. 30:4.4, relative to commercial Class II disposal wells; to establish a default
+3 maximum authorized surface injection pressure for commercial disposal wells; to
+4 create a process for operators to apply for an increased maximum authorized surface
+5 injection pressure; to provide a timeline for department approval or denial of
+6 applications; to provide definitions; to provide for violations and penalties; and to
+7 provide for related matters.
+8 Be it enacted by the Legislature of Louisiana:
+9 Section 1. R.S. 30:4.4 is hereby enacted to read as follows:
+10 §4.4. Class II disposal wells; maximum authorized surface injection pressure
+11 A. The purpose of this Section is to establish the following for commercial
+12 Class II disposal wells:
+13 (1) A default maximum authorized surface injection pressure.
+14 (2) A process for operators to apply to the department for an increased
+15 maximum authorized surface injection pressure.
+16 (3) A timeline in which the department shall approve or disapprove of
+17 applications for an increased maximum authorized surface injection pressure.
+18 B. Definitions. The terms in this Subsection shall have the following
+19 meaning for the purposes of this Section:
+Page 1 of 5
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-974 ORIGINAL
+HB NO. 706
+1 (1) "Confining zone" means a geological formation, group of formations, or
+2 part of a formation stratigraphically overlying the injection zone that acts as a barrier
+3 to fluid movement above an injection zone.
+4 (2) "Disposal well" means a commercial Class II injection well that is used
+5 to inject into the subsurface exploration and production wastes as defined in LAC
+6 43:XIX.501.
+7 (3) "Fracture gradient" means the pressure gradient, expressed in pounds per
+8 square inch per foot, at which hydraulic fractures initiate in a formation.
+9 (4) "Injection interval" or "injection point" means the portion of the injection
+10 zone where the perforations of the injection well are located and where injection into
+11 the formation occurs, measured from the top-most perforation to the bottom-most
+12 perforation.
+13 (5) "Injection zone" means a geological formation, group of formations, or
+14 part of a formation permitted to receive fluids through a well.
+15 (6) "MASIP" means the maximum authorized surface injection pressure.
+16 (7) "Verified field data" means data obtained from step-rate tests,
+17 instantaneous shut-in pressure (ISIP) measurements, fracture-closure pressure
+18 determinations, fall-off analyses, or other tests performed in accordance with
+19 American Petroleum Institute Recommended Practice (API RP) 100-1 or its
+20 successor.
+21 C. Baseline standard. Injection pressure at the wellhead shall not exceed a
+22 maximum which shall be calculated so as to assure that the pressure during injection
+23 does not initiate new fractures or propagate existing fractures through the confining
+24 zone.
+25 D. Default MASIP. If no application for an increased MASIP is made
+26 pursuant to Subsection E of this Section or if an applicant fails to meet the
+27 requirements of Subsection E of this Section, the department may calculate the
+28 MASIP at ninety percent of the fracture gradient for the injection interval, using the
+Page 2 of 5
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-974 ORIGINAL
+HB NO. 706
+1 fracture gradient of the injection interval established in Eaton's fracture gradient
+2 chart or with other verified field data.
+3 E. Increases to the default MASIP.
+4 (1) Any operator either seeking a commercial Class II disposal well permit
+5 or with an existing commercial Class II disposal well permit may apply for an
+6 increased MASIP by demonstrating the following to the department:
+7 (a) Based on verified field data from the subject well or an offset well with
+8 similar geology which is anchored to or with a calibrated fracture model or
+9 supporting data set, an increased MASIP will not cause fractures to be initiated or
+10 propagated through the confining zone. Fractures in or above the injection interval
+11 and in the injection zone, as shown by the verified field data and the fracture model
+12 or supporting data set, are permitted if the fractures do not extend through the
+13 confining zone.
+14 (b) A Louisiana-licensed professional engineer or geoscientist has attested
+15 in an affidavit as to the validity of the data and model submitted.
+16 (c) There is sufficient confining shale or qualifying confining formations
+17 between the proposed injection interval and any intervals that are productive of oil
+18 or gas within a one mile radius of the disposal well.
+19 (d) The casing requirements provided in LAC 43:XIX.415 have been met.
+20 (e) There are no artificial penetrations within the area of review or any such
+21 penetrations have been properly sealed, completed, or plugged and abandoned.
+22 (f) A monitoring well or wells monitor the base of the underground source
+23 of drinking water.
+24 (g) Historical seismic data for the area of interest does not show increased
+25 seismicity or, if it does, the operator has submitted seismic monitoring and response
+26 plans approved by the department. The area of interest for this demonstration shall
+27 be a five mile radius from the well.
+28 (2) If the demonstration submitted for a disposal well meets the requirements
+29 of Paragraph (1) of this Subsection, the MASIP for the disposal well may be
+Page 3 of 5
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-974 ORIGINAL
+HB NO. 706
+1 permitted at up to one half pound per square inch per vertical foot, based on the
+2 depth to the top-most perforation, but at a minimum shall be permitted at four-tenths
+3 of a pound per square inch per vertical foot, based on the depth to the top-most
+4 perforation.
+5 (3) The department shall approve an increased MASIP that conforms with
+6 Paragraph (2) of this Subsection or a written denial for failure to meet the required
+7 demonstration within sixty days of receipt of an application submitted pursuant to
+8 this Section.
+9 G. Enforcement. Exceeding a permitted MASIP or violating a condition
+10 imposed pursuant to this Section shall constitute a violation of this Section subject
+11 to penalties provided in R.S. 30:18.
+DIGEST
+The digest printed below was prepared by House Legislative Services. It constitutes no part
+of the legislative instrument. The keyword, one-liner, abstract, and digest do not constitute
+part of the law or proof or indicia of legislative intent. [R.S. 1:13(B) and 24:177(E)]
+HB 706 Original 2026 Regular Session Riser
+Abstract: Establishes default maximum allowable surface injection pressure.
+Present law authorizes the secretary of the Dept. of Conservation and Energy to regulate
+Class II injection wells for the disposal of oil and gas exploration and production waste.
+Proposed law retains present law.
+Proposed law establishes a baseline standard for allowable injection pressure for commercial
+disposal wells by incorporating present law contained in federal regulations.
+Proposed law provides that the default MASIP for commercial disposal may be calculated
+by the department at 90% of the fracture gradient for the injection interval.
+Proposed law creates a process for operators to apply to the department for an increased
+MASIP by demonstrating the following to the department:
+(1) An increased MASIP will not cause fractures through the confining zone.
+(2) A licensed professional engineer or geoscientist attests to the validity of the first
+demonstration.
+(3) There are sufficient confining formations between the disposal well and any oil or
+gas well within one mile.
+(4) Regulatory casing requirements have been met.
+(5) There are no artificial penetrations within the area of review or penetrations have
+been properly sealed, completed, or plugged and abandoned.
+(6) There are monitoring wells that monitor the underground source of drinking water.
+(7) Historical seismic data for the area of interest does not show increased seismicity or
+the operator has seismic monitoring and response plans approved by the department.
+Page 4 of 5
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-974 ORIGINAL
+HB NO. 706
+Proposed law requires that the MASIP for an operator that meets the required
+demonstrations must be allowed at 0.4 pounds per square inch per vertical foot from the
+surface to the top-most perforation and may be allowed up to 0.5 pounds per square inch per
+vertical foot.
+Proposed law requires the department to approve or deny an application for an increased
+MASIP within 60 days of receiving the application.
+Proposed law provides that exceeding a permitted MASIP or violating any provisions of
+proposed law is a violation subject to penalties established in present law.
+(Adds R.S. 30:4.4)
+Page 5 of 5
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.

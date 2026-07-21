@@ -1,0 +1,273 @@
+Title: 
+Official Title: 
+Source: versions - HB940 Engrossed
+Media Type: application/pdf
+
+================================================================================
+
+HLS 26RS-484 ENGROSSED
+2026 Regular Session
+HOUSE BILL NO. 940
+BY REPRESENTATIVE BERAULT
+CRIME: Provides relative to the unlawful use of an unmanned aircraft system
+1 AN ACT
+2 To enact R.S. 14:337.2, relative to unmanned aircraft systems; to provide for definitions; to
+3 provide for duties of law enforcement agencies and officers; to provide for
+4 interception and mitigation measures; to provide for training; to provide for the
+5 submission of reports; to provide for duties of the office of technology services, the
+6 Governor's Office of Homeland Security and Emergency Preparedness, the office of
+7 state police, and the office of the attorney general; to provide for the creation of a
+8 joint task force; to provide for consultation with the Louisiana Sheriffs' Association;
+9 to provide for rulemaking; to provide for a presumption; to provide relative to
+10 immunity; to provide for an effective date; and to provide for related matters.
+11 Be it enacted by the Legislature of Louisiana:
+12 Section 1. R.S. 14:337.2 is hereby enacted to read as follows:
+13 §337.2. Unmanned aircraft systems; law enforcement training standards; reporting;
+14 immunity
+15 A. The provisions of this Section shall be known and may be cited as the
+16 "Law Enforcement Training Standards Governing Operations Act" or "LETS GO!
+17 Act".
+18 B. For purposes of this Section, the following terms have the following
+19 meanings:
+20 (1) "Forensic" means any technique in which an unmanned aircraft system,
+21 its control station, or its data is examined or preserved as evidence in connection
+22 with a law enforcement or regulatory action.
+Page 1 of 8
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-484 ENGROSSED
+HB NO. 940
+1 (2) "Intercept" means any authorized action of a law enforcement officer or
+2 agency to detect, track, disable, seize, or otherwise mitigate an unmanned aircraft
+3 system threat in accordance with this Section.
+4 (3) "Joint authority" means the Department of Public Safety and Corrections,
+5 office of state police, and the Louisiana Sheriffs' Association.
+6 (4) "Rules of engagement" means policies and operational procedures
+7 governing how a law enforcement agency or officer responds to, interdicts, or
+8 mitigates the operations of an unmanned aircraft system.
+9 (5) "Unmanned aircraft system" means an unmanned, powered aircraft that
+10 does not carry a human operator, can be autonomous or remotely piloted or operated,
+11 and can be expendable or recoverable. "Unmanned aircraft system" does not include
+12 any of the following:
+13 (a) A satellite orbiting the earth.
+14 (b) An unmanned aircraft system used by the federal government or a person
+15 who is acting pursuant to contract with the federal government to conduct
+16 surveillance of specific activities.
+17 (c) An unmanned aircraft system used by the state government or a person
+18 who is acting pursuant to a contract with the state government to conduct
+19 surveillance of specific activities.
+20 (d) An unmanned aircraft system used by a local government law
+21 enforcement agency or fire department.
+22 (e) An unmanned aircraft system used by a person, affiliate, employee,
+23 agent, or contractor of any business that is regulated by the Louisiana Public Service
+24 Commission or by a local franchising authority or the Federal Communications
+25 Commission under the Cable Television Consumer Protection and Competition Act
+26 of 1992 or of a municipal or public utility, while acting in the course and scope of
+27 his employment or agency relating to the operation, repair, or maintenance of a
+28 facility, servitude, or any property located on the immovable property which belongs
+29 to such a business.
+Page 2 of 8
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-484 ENGROSSED
+HB NO. 940
+1 C.(1) A law enforcement agency or officer acting pursuant to the rules of
+2 engagement may take reasonable mitigation measures against an unmanned aircraft
+3 system that the agency or officer reasonably suspects is engaged in illegal, nefarious,
+4 or threatening conduct.
+5 (2) Any interception or mitigation shall adhere to all of the following
+6 procedures:
+7 (a) It is consistent with approved rules of engagement.
+8 (b) It is documented in writing or electronically.
+9 (c) It is reported to the office of the attorney general within seventy-two
+10 hours of interception.
+11 (3) All equipment employed for interception or mitigation measures against
+12 an unmanned aircraft system shall comply with applicable state and federal laws and
+13 meet the procurement standards adopted pursuant to this Section.
+14 D.(1) A law enforcement agency or officer who performs or supervises an
+15 interception of an unmanned aircraft system shall complete the training program
+16 created pursuant to this Section.
+17 (2) Agencies shall maintain records of officer certifications and make such
+18 records available to the joint authority for inspection.
+19 (3) By January thirtieth of each year, every agency exercising interception
+20 authority over unmanned aircraft systems shall submit an annual summary of
+21 training and operational incidents to the office of the attorney general.
+22 E. Forensic laboratories utilized pursuant to this Section shall be accredited
+23 or approved by the joint authority or by federal agencies authorized to mitigate
+24 against unmanned aircraft systems.
+25 F.(1) The office of technology services and the Governor's Office of
+26 Homeland Security and Emergency Preparedness, referred to in this Section as
+27 GOHSEP, shall serve as the principal state agencies for technical and procurement
+28 coordination pursuant to this Section.
+Page 3 of 8
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-484 ENGROSSED
+HB NO. 940
+1 (2) In consultation with the joint authority, the office of technology services
+2 and GOHSEP shall do all of the following:
+3 (a) Develop uniform procurement standards for detection, interception, and
+4 forensic technologies involving unmanned aircraft systems.
+5 (b) Evaluate and certify equipment for cybersecurity, interoperability, and
+6 safety compliance.
+7 (c) Ensure all acquisitions comply with the applicable provisions of the
+8 Louisiana Procurement Code, R.S. 39:1551 et seq., and any applicable federal
+9 regulations.
+10 (d) Maintain a statewide inventory of approved technologies for agency use.
+11 (e) Issue technical advisories or bulletins regarding the capabilities of
+12 emerging counter-technology to unmanned aircraft systems.
+13 (3) No state or local agency shall procure mitigation or forensic equipment
+14 for unmanned aircraft systems without first obtaining permission from both the
+15 office of technology services and GOHSEP regarding technical compliance.
+16 G.(1) The joint authority shall prepare an annual public report that
+17 summarizes all of the following:
+18 (a) Mitigation incidents involving unmanned aircraft systems.
+19 (b) Training and certification compliance.
+20 (c) Forensic activities and outcomes.
+21 (d) Procurement reviews and technology developments.
+22 (e) Recommended legislative or regulatory improvements.
+23 (2) The joint authority shall meet annually and shall include individuals from
+24 the office of the attorney general, office of technology services, and GOHSEP.
+25 H.(1) The Legislature of Louisiana hereby authorizes and directs the creation
+26 of the Counter-Unmanned Aircraft Systems Joint Task Force.
+27 (2) The membership of the task force shall be as follows:
+28 (a) A state employee appointed by the governor, who will serve as the
+29 chairman.
+Page 4 of 8
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-484 ENGROSSED
+HB NO. 940
+1 (b) The superintendent of the office of state police or his designee.
+2 (c) The executive director of the Louisiana Sheriffs' Association or his
+3 designee.
+4 (d) The attorney general or his designee.
+5 (e) The director of GOHSEP or his designee.
+6 (f) The state chief information officer or his designee.
+7 (g) The chairman of the Drone Advisory Committee or his designee.
+8 (3) The members of the task force shall take direction from and report to the
+9 chairman. Additionally, the chairman shall notify the governor of any meetings,
+10 reports, and any other actions taken on behalf of the task force.
+11 I.(1) A law enforcement officer or agency who performs or supervises a
+12 mitigation of an unmanned aircraft system shall be presumed to have acted within
+13 the scope of lawful authority if he acts in good faith and in substantial compliance
+14 with this Section.
+15 (2) The office of the attorney general shall do all of the following:
+16 (a) Provide legal guidance and interpretation of this Section to the joint
+17 authority and participating law enforcement agencies.
+18 (b) Represent, defend, or otherwise assist law enforcement agencies or
+19 officers in proceedings arising from actions taken pursuant to this Section.
+20 (c) Issue advisory opinions concerning immunity, liability, and
+21 intergovernmental coordination.
+22 (3) Immunity shall not extend to acts of gross negligence, willful
+23 misconduct, or knowing violations of constitutional or statutory law.
+24 (4) Nothing in this Subsection shall preclude an individual from seeking
+25 judicial relief for unlawful actions or a violation of rights.
+26 J.(1) The Department of Public Safety and Corrections, office of state
+27 police, with consultation and input from the Louisiana Sheriffs' Association, shall
+28 adopt, amend, and repeal rules necessary to implement the provisions of this Section.
+Page 5 of 8
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-484 ENGROSSED
+HB NO. 940
+1 Any such rules and regulations shall be adopted, amended, or repealed only in
+2 compliance with the provisions of the Administrative Procedure Act.
+3 (2) The rules shall include but not be limited to any of the following:
+4 (a) Rules of engagement and coordination with federal agencies pertaining
+5 to the interception and mitigation of unmanned aircraft systems.
+6 (b) Training and certification standards for law enforcement officers engaged
+7 in mitigation or forensic activities. Training shall include but not be limited to all
+8 of the following:
+9 (i) Identification and detection of unmanned aircraft systems.
+10 (ii) Counter-technologies for unmanned aircraft systems.
+11 (iii) Operational safety and risk mitigation.
+12 (iv) Civil rights, privacy, and evidentiary considerations.
+13 (v) Scenario-based exercises.
+14 (c) Procedures for the management and preservation of forensics and
+15 evidence to ensure integrity and admissibility of evidence related to unmanned
+16 aircraft systems. Such procedures shall include but not be limited to all of the
+17 following:
+18 (i) Chain of custody documentation.
+19 (ii) Data extraction and verification of digital integrity.
+20 (iii) Secure storage of seized equipment.
+21 (iv) Metadata and telemetry preservation.
+22 (v) Reporting and certification of forensic specialists.
+23 (d) Inter-agency coordination protocols, memoranda of understanding, and
+24 reporting and oversight mechanisms.
+25 (e) Privacy, civil rights, and constitutional protections applicable to
+26 mitigation of unmanned aircraft systems.
+27 (f) Procurement and technology standards developed in coordination with
+28 the office of technology services and GOHSEP.
+Page 6 of 8
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-484 ENGROSSED
+HB NO. 940
+1 (3) The rules adopted pursuant to this Subsection shall be reviewed and
+2 updated at least once every three years.
+3 Section 2. This Act shall become effective upon signature by the governor or, if not
+4 signed by the governor, upon expiration of the time for bills to become law without signature
+5 by the governor, as provided by Article III, Section 18 of the Constitution of Louisiana. If
+6 vetoed by the governor and subsequently approved by the legislature, this Act shall become
+7 effective on the day following such approval.
+DIGEST
+The digest printed below was prepared by House Legislative Services. It constitutes no part
+of the legislative instrument. The keyword, one-liner, abstract, and digest do not constitute
+part of the law or proof or indicia of legislative intent. [R.S. 1:13(B) and 24:177(E)]
+HB 940 Engrossed 2026 Regular Session Berault
+Abstract: Provides relative to the unlawful use of an unmanned aircraft system.
+Proposed law defines the terms "forensic", "intercept", "joint authority", "rules of
+engagement", and "unmanned aircraft system".
+Proposed law authorizes a law enforcement agency or officer to take reasonable mitigation
+measures against an unmanned aircraft system that the agency or officer reasonably suspects
+is engaged in illegal, nefarious, or threatening conduct.
+Proposed law provides for interception or mitigation procedures.
+Proposed law provides for training, maintenance of records of officer certifications, and the
+submission of an annual summary of training and operational incidents.
+Proposed law requires that forensic laboratories utilized under proposed law be accredited
+or approved by the joint authority or by federal agencies authorized to mitigate against
+unmanned aircraft systems.
+Proposed law requires that the office of technology services (OTS) and the Governor's
+Office of Homeland Security (GOHSEP) serve as the principal state agencies for technical
+and procurement coordination under proposed law. Further provides for duties of OTS and
+GOHSEP.
+Proposed law prohibits any state or local agency from procuring mitigation or forensic
+equipment for unmanned aircraft systems without first obtaining permission from both the
+OTS and GOHSEP regarding technical compliance.
+Proposed law requires the joint authority to do both of the following:
+(1) Prepare an annual public report that summarizes certain information.
+(2) Meet annually with individuals from the office of the attorney general, OTS, and
+GOHSEP.
+Page 7 of 8
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-484 ENGROSSED
+HB NO. 940
+Proposed law authorizes the creation of the Counter-Unmanned Aircraft Systems Joint Task
+Force and provides for membership of the task force.
+Proposed law provides that a law enforcement officer or agency who performs or supervises
+a mitigation of an unmanned aircraft system is presumed to have acted within the scope of
+lawful authority if he acts in good faith and in substantial compliance with proposed law.
+Proposed law provides for duties of the office of the attorney general.
+Proposed law provides that immunity does not extend to acts of gross negligence, willful
+misconduct, or knowing violations of constitutional or statutory law. Further provides that
+nothing in proposed law precludes an individual from seeking judicial relief for unlawful
+actions or a violation of rights.
+Proposed law requires the Dept. of Public Safety and Corrections (DPS&C), office of state
+police, with consultation and input from the Louisiana Sheriffs' Assoc., to adopt, amend, and
+repeal rules necessary in accordance with the APA to implement the provisions of proposed
+law. Further enumerates what is to be included in these rules and provides for a review of
+these rules at least once every three years.
+Effective upon signature of governor or lapse of time for gubernatorial action.
+(Adds R.S. 14:337.2)
+Page 8 of 8
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
