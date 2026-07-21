@@ -1,0 +1,310 @@
+Title: 
+Official Title: 
+Source: versions - HB883 Enrolled
+Media Type: application/pdf
+
+================================================================================
+
+ENROLLED
+2026 Regular Session
+HOUSE BILL NO. 883
+BY REPRESENTATIVE SCHLEGEL
+1 AN ACT
+2 To amend and reenact R.S. 14:90.3(B), (C)(introductory paragraph), (1), (9), and (10), and
+3 (D) through (K) and to enact R.S. 14:90.3(C)(11) and (12) and (L) through (R) and
+4 R.S. 27:19.1 and 19.2, relative to restrictions against illegal online gambling; to
+5 provide for penalties for violations thereof; to provide for enforcement; to provide
+6 for remedies; and to provide for related matters.
+7 Be it enacted by the Legislature of Louisiana:
+8 Section 1. R.S. 14:90.3(B), (C)(introductory paragraph), (1), (9), and (10), and (D)
+9 through (K) are hereby amended and reenacted and R.S. 14:90.3(C)(11) and (12) and (L)
+10 through (R) are hereby enacted to read as follows:
+11 §90.3. Gambling by computer
+12 * * *
+13 B. Gambling by computer is the intentional conducting, or directly assisting
+14 in the conducting as a business of any game, contest, lottery, or contrivance whereby
+15 a person risks the loss of anything of value in order to realize a profit when accessing
+16 the Internet, World Wide Web, or any part thereof by way of any computer,
+17 computer system, computer network, computer software, or any server. Any game,
+18 contest, or promotion that is available on the internet or accessible on a mobile
+19 phone, computer terminal, or similar access device that utilizes a dual-currency
+20 system of payment allowing the player to exchange the currency for any prize or
+21 award, cash, or cash equivalents, or any chance to win any prize or award, cash, or
+22 cash equivalents, and simulates any form of gambling constitutes gambling by
+23 computer.
+Page 1 of 9
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HB NO. 883 ENROLLED
+1 C. For purposes of this Section, the following definitions apply:
+2 (1) "Client" means anyone physically located within this state using a
+3 computer to access a computer server to make gambling by computer wagers.
+4 * * *
+5 (9) "Merchant payment processor" means an entity that establishes a
+6 contractual relationship with a person engaged in the business of gambling by
+7 computer for the purpose of processing payment transactions on behalf of such
+8 person. A "merchant payment processor" does not include any federally insured
+9 financial institution, its subsidiaries or affiliates, or any payment card network.
+10 (10) "Platform provider" means any person storing or hosting content, files,
+11 data, and other information on a web server to make the content, files, data, or other
+12 information accessible on a website via a computer, mobile device, tablet, or other
+13 interactive device. A "platform provider" does not include any federally insured
+14 financial institution, its subsidiaries or affiliates, or any payment card network.
+15 (11) "Server" means a computer that listens for and services a client.
+16 (12) "World Wide Web" means a server providing connections to mega lists
+17 of information on the Internet; it is made up of millions of individual web sites
+18 linked together.
+19 D. Whoever Any client, as defined by this Section, who commits the crime
+20 of gambling by computer shall be fined not more than five hundred dollars, or
+21 imprisoned for not more than six months, or both.
+22 E. Whoever engages in gambling by computer, including anyone who
+23 designs, develops, manages, supervises, maintains, provides, or produces any
+24 computer services, computer system, computer network, computer software, or any
+25 server providing a Home Page, Web Site, or any other product accessing the Internet,
+26 World Wide Web, or any part thereof offering to any client for the primary purpose
+27 of the conducting as a business of any game, contest, lottery, or contrivance whereby
+28 a person risks the loss of anything of value in order to realize a profit shall be fined
+29 not more than twenty one hundred thousand dollars, or imprisoned with or without
+30 hard labor, for not more than five years, or both.
+Page 2 of 9
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HB NO. 883 ENROLLED
+1 F. Any applicant, licensed entity, platform provider, geolocation provider,
+2 gaming content supplier, promoter, endorser, media affiliate, or any other person
+3 who knowingly supports or facilitates the operation, conduct, or promotion of
+4 gambling by computer within this state shall be fined not more than twenty thousand
+5 dollars, or imprisoned with or without hard labor for not more than five years, or
+6 both. The financial penalties set forth in this Subsection shall be doubled when the
+7 knowing support or facilitation of the operation or conduct of gambling by computer
+8 involves an individual under twenty-one years of age.
+9 G.(1) No merchant payment processor shall knowingly accept or process any
+10 financial transaction in connection with the participation of a person physically
+11 located in this state who is gambling by computer. A merchant payment processor
+12 shall be deemed to have constructive knowledge that all persons and website URLs
+13 identified by the attorney general pursuant to R.S. 27:19.1 are engaged in gambling
+14 by computer.
+15 (2) A merchant payment processor may, on its own initiative, block, prohibit,
+16 prevent, or otherwise refuse to honor any financial transaction that it reasonably
+17 believes is or will be a restricted transaction described in Paragraph (1) of this
+18 Subsection. A merchant payment processor shall not be liable in tort to any person
+19 for such preventative measures.
+20 (3) A merchant payment processor who does not comply with a cease and
+21 desist notice pursuant to R.S. 27:19.1 shall be subject to the penalties in Subsection
+22 F of this Section.
+23 H.(1) No platform provider shall receive or transmit through its service any
+24 exchange of information that it reasonably believes is or will be sent in connection
+25 with the participation of a person in gambling by computer. A platform provider
+26 shall be deemed to have constructive knowledge that all persons and website URLs
+27 identified by the attorney general pursuant to R.S. 27:19.1 are engaged in gambling
+28 by computer.
+29 (2) A platform provider may, on its own initiative, block the receipt or
+30 transmission through its service of any exchange of information that it reasonably
+Page 3 of 9
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HB NO. 883 ENROLLED
+1 believes is or will be sent in violation of Paragraph (1) of this Subsection. A
+2 platform provider shall not be liable in tort to any person for such preventative
+3 measures. The provisions of this Paragraph apply only to information regarding
+4 illegal conduct of gambling by computer.
+5 (3) A platform provider who does not comply with a cease and desist notice
+6 pursuant to R.S. 27:19.1 shall be subject to the penalties in Subsection F of this
+7 Section.
+8 (4) A platform provider shall be deemed to have constructive knowledge that
+9 all persons and website URLs identified by the attorney general pursuant to R.S.
+10 27:19.1 are engaged in gambling by computer. A platform provider who accepts and
+11 offers an advertisement for a person or website URL identified by the attorney
+12 general pursuant to R.S. 27:19.1 shall constitute prima facie evidence of support of
+13 gambling by computer.
+14 I. Each gambling by computer wager offered or accepted by a person
+15 constitutes a separate violation for purposes of this Section. Each individual
+16 promotion of illegal online gambling in this state constitutes a separate violation.
+17 J. Without limiting the penalties provided in this Section, the court shall
+18 order forfeiture of any profits, gains, gross receipts, or other benefits earned by the
+19 person in connection with violations of this Section.
+20 F. K. The conducting or assisting in the conducting of gaming activities or
+21 operations upon a riverboat, at the official gaming establishment, by operating an
+22 electronic video draw poker device, by a charitable gaming licensee, or at a pari-
+23 mutuel wagering facility, conducting slot machine gaming at an eligible horse racing
+24 facility, or the operation of a state lottery which is licensed for operation and
+25 regulated under the provisions of Chapters 4 and 11 of Title 4, Chapters 4, 5, 6, and
+26 7 of Title 27, or Subtitle XI of Title 47 of the Louisiana Revised Statutes of 1950,
+27 shall not be considered gambling by computer for the purposes of this Section, so as
+28 long as the wagering is done on the premises of the licensed establishment.
+29 G. L. The conducting or assisting in the conducting of pari-mutuel wagering
+30 at licensed racing facilities under the provisions of Chapter 4 of Title 4 of the
+Page 4 of 9
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HB NO. 883 ENROLLED
+1 Louisiana Revised Statutes of 1950, shall not be considered gambling by computer
+2 for the purposes of this Section so as long as the wagering is done on the premises
+3 of the licensed establishment.
+4 H. M. Nothing in this Section shall prohibit, limit, or otherwise restrict the
+5 purchase, sale, exchange, or other transaction related to stocks, bonds, futures,
+6 options, commodities, or other similar instruments or transactions occurring on a
+7 stock or commodities exchange, brokerage house, or similar entity.
+8 I. N. The providing of Internet or other on-line access, transmission, routing,
+9 storage, or other communication related services, or Web Site design, development,
+10 storage, maintenance, billing, advertising, hypertext linking, transaction processing,
+11 or other site related services, by telephone companies, Internet Service Providers,
+12 software developers, licensors, or other such parties providing such services to
+13 customers in the normal course of their business, shall not be considered gambling
+14 by computer even though the activities of such customers using such services to
+15 conduct a prohibited game, contest, lottery, or contrivance may constitute gambling
+16 by computer for the purposes of this Section. The provisions of this Subsection shall
+17 not exempt from criminal prosecution any telephone company, Internet Service
+18 Provider, software developer, licensor, or other such party if its primary purpose in
+19 providing such service is to conduct gambling as a business.
+20 J. O. Except as provided in R.S. 27:305, participation in any fantasy sports
+21 contest as defined by R.S. 27:302 shall not be considered gambling by computer for
+22 the purposes of this Section.
+23 K. P. Sports wagering shall not be considered gambling by computer for
+24 purposes of this Section so as long as the wagering is conducted in compliance with
+25 Chapter 10 of Title 27 of the Louisiana Revised Statutes of 1950 or Chapter 10 of
+26 Subtitle XI of Title 47 of the Louisiana Revised Statutes of 1950.
+27 Q. Nothing in this Section shall be construed to impose liability upon a
+28 platform provider solely for the hosting, publication, transmission, or display of
+29 information provided by a third party to the extent such liability is preempted by 47
+30 U.S.C. 230.
+Page 5 of 9
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HB NO. 883 ENROLLED
+1 R. This Section does not apply to any federally insured financial institution,
+2 its subsidiaries or affiliates, or any payment card network.
+3 * * *
+4 Section 2. R.S. 27:19.1 and 19.2 are hereby enacted to read as follows:
+5 §19.1. Attorney general; illegal online gambling; cease and desist notice
+6 A. The attorney general, or the chairman of the board, acting in the board's
+7 discretion, may send a written cease and desist notice to any person who operates,
+8 conducts, or promotes gambling by computer within this state in violation of R.S.
+9 14:90.3, including platform providers as defined in R.S. 14:90.3 who allow the
+10 exchange of information regarding gambling by computer or merchant payment
+11 processors as defined in R.S. 14:90.3 who allow the exchange of currency in
+12 furtherance of gambling by computer. The cease and desist notice shall do all of the
+13 following:
+14 (1) State, generally, the illegal activity being conducted.
+15 (2) State that the person has no more than ten days after the date notice is
+16 received to cease the illegal activity.
+17 (3) State that failure to comply with Paragraph (2) of this Subsection may
+18 result in a fine as described in R.S. 14:90.3.
+19 B. If the chairman of the board issues a cease and desist notice pursuant to
+20 this Section, the chairman shall promptly forward a copy of the notice to the attorney
+21 general. The attorney general shall maintain a depository to collect, maintain, and
+22 retain each cease and desist notice sent in accordance with this Section. The attorney
+23 general shall maintain a listing, which will be publicly available on the website of
+24 the attorney general, identifying the name of each gambling by computer operator
+25 and associated online gambling website URL address, platform provider, or
+26 merchant payment processor that has been issued a cease and desist notice pursuant
+27 to this Section by either the board or the attorney general. Noncompliance with this
+28 Subsection is not a defense to any action commenced pursuant to R.S. 14:90.3.
+Page 6 of 9
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HB NO. 883 ENROLLED
+1 C. The manner of service of a cease and desist notice issued in accordance
+2 with this Section shall be made in compliance with Chapters 2 and 3 of Title II, Book
+3 II of the Code of Civil Procedure.
+4 D. A cease and desist notice served in accordance with this Section is
+5 admissible in any proceeding pursuant to R.S. 14:90.3 and constitutes prima facie
+6 evidence that the person has knowledge that gambling by computer or the promoting
+7 or marketing of gambling by computer was occurring on the internet site of the
+8 gambling by computer operator, that the platform provider was allowing the
+9 exchange of information, or that the merchant payment processor was allowing the
+10 exchange of currency in furtherance of gambling by computer.
+11 E. A person outside of this state who owns, maintains, or operates an internet
+12 website that transmits information through or with a platform provider and who
+13 knows or should know that the information is broadcast within this state submits to
+14 the jurisdiction of this state for enforcement pursuant to this Section.
+15 F. Prior to sending a cease and desist notice, the attorney general may
+16 provide reasonable notice to the board to enable the board to determine if it will join
+17 in the notice.
+18 G. If the attorney general has reason to believe that a person is offering,
+19 operating, conducting, promoting, supporting, or acting in furtherance of gambling
+20 by computer or taking any other action in violation of R.S. 14:90.3, he may bring an
+21 action in the name of the state to restrain by temporary or permanent injunction the
+22 conduct giving rise to such violation.
+23 H. The attorney general may exercise his authority in furtherance of the
+24 investigation and enforcement of this Section, including, without limitation, to issue
+25 subpoenas.
+26 I. The attorney general may utilize the division to conduct investigations and
+27 enforce the provisions of this Section and the provisions of R.S. 14:90.3.
+28 J. The attorney general may enter into agreements with the division, the
+29 board, or any other federal or state law enforcement agency for the exchange and
+30 release of investigatory and other information.
+Page 7 of 9
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HB NO. 883 ENROLLED
+1 K. The attorney general and the court shall construe liberally this Title and
+2 R.S. 14:90 et seq., relating to gambling and betting, to prevent prohibited activities.
+3 §19.2. Attorney general; illegal online gambling; other civil remedies
+4 A. In addition to any other remedy under law, upon application by the
+5 attorney general, regardless of whether proceedings have been initiated pursuant to
+6 this Chapter, a court may issue any relief it deems appropriate to prevent and restrain
+7 activities prohibited by this Chapter. Such relief may include a temporary restraining
+8 order, preliminary injunction, or injunction against any person in violation of R.S.
+9 14:90.3 to prevent or restrain gambling by computer and any related transactions or
+10 activities, including, without limitation, the removal of any gambling by computer
+11 website, the freezing of bank or credit accounts associated with such website or such
+12 gambling by computer activity, and the removal of a person's access to such websites
+13 or accounts who participates in the gambling by computer activity. In an action
+14 seeking injunctive relief, violation of this Chapter shall conclusively be determined
+15 irreparable harm.
+16 B.(1) In addition to the remedies available in Subsection A of this Section,
+17 the attorney general may seek an ex parte injunction to do all the following:
+18 (a) Compel a platform provider as defined in R.S. 14:90.3 to remove or
+19 disable access to a website violating this Chapter, or a hypertext link to a website
+20 violating this Chapter.
+21 (b) Enjoin a merchant payment processor as defined in R.S. 14:90.3 from
+22 processing transactions for the gambling by computer operator.
+23 (c) Compel a person in violation of R.S. 14:90.3 to discontinue supporting,
+24 marketing, promoting, or conducting gambling by computer in this state.
+25 (2) In such case, a hearing on the ex parte injunction shall be held within
+26 thirty days, and after such hearing the court may convert the injunction to a
+27 preliminary injunction.
+28 C. Relief granted pursuant to this Section against a platform provider that is
+29 not otherwise engaged in gambling by computer shall:
+Page 8 of 9
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HB NO. 883 ENROLLED
+1 (1) Be limited to the removal of, or disabling of access to, the website
+2 violating this Chapter, or a hypertext link to a website violating this Chapter, that is
+3 stored on a computer server that such platform provider controls or operates.
+4 (2) Specify the website to which it applies.
+5 (3) Specify the website or hypertext link to be removed or other access to be
+6 disabled.
+7 D. Any violation of an order entered against a platform provider or merchant
+8 payment processor as defined in R.S. 14:90.3 is punishable by a fine of fifty
+9 thousand dollars for a first violation and a fine of one hundred thousand dollars for
+10 each subsequent violation for each day that the gambling by computer activity
+11 remains accessible on the website to persons physically located in this state or for a
+12 merchant payment processor, each subsequent gambling by computer transaction that
+13 is processed and each act in support of gambling by computer.
+14 E. Relief granted pursuant to this Section against a merchant payment
+15 processor or other person that supports the operation, conduct, or promotion of
+16 gambling by computer in violation of R.S. 14:90.3 that is not otherwise engaged in
+17 illegal online gambling shall:
+18 (1) Be limited to the suspension of processing transactions for the gambling
+19 by computer operator and with persons physically located in this state, or be limited
+20 to ceasing support of the operation, conduct, or promotion of gambling by computer
+21 in this state.
+22 (2) Specify the website to which it applies.
+SPEAKER OF THE HOUSE OF REPRESENTATIVES
+PRESIDENT OF THE SENATE
+GOVERNOR OF THE STATE OF LOUISIANA
+APPROVED:
+Page 9 of 9
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
