@@ -1,0 +1,665 @@
+Title: 
+Official Title: 
+Source: versions - House Committee Amendment, #4960, H&W, Draft
+Media Type: application/pdf
+
+================================================================================
+
+HCAHB1093 4465 4960
+HOUSE COMMITTEE AMENDMENTS
+2026 Regular Session
+Substitute for Original House Bill No. 1093 by Representative Carlson as proposed by the
+House Committee on Health and Welfare
+This document reflects the content of a substitute bill but is not in a bill form; page
+numbers in this document DO NOT correspond to page numbers in the substitute bill
+itself.
+To amend and reenact R.S. 37:1277(A)(introductory paragraph) and (1) and to enact Part IX
+of Chapter 15 of Title 37 of the Louisiana Revised Statutes of 1950, to be comprised
+of R.S. 37:1360.121 through 1360.135, relative to the practice of naturopathic
+medicine; to create the Louisiana Naturopathic Physician's Practice Act; to create the
+Louisiana Naturopathic Advisory Council within the Louisiana State Board of
+Medical Examiners; to provide for criminal history checks; to provide for the duties
+of the Louisiana State Board of Medical Examiners; to provide for licensing
+naturopathic physicians; to provide for educational requirements; to provide for
+scope of practice; to prohibit certain acts; to provide for prescriptive authority and
+prescriptive endorsement; to establish independent practice; to provide for
+advertising; to provide for displaying credentials; to provide for fees; and to provide
+for related matters.
+Be it enacted by the Legislature of Louisiana:
+Section 1. R.S. 37:1277(A)(introductory paragraph) and (1) are hereby amended and
+reenacted and Part IX of Chapter 15 of Title 37 of the Louisiana Revised Statutes of 1950,
+comprised of R.S. 37:1360.121 through 1360.135, is hereby enacted to read as follows:
+§1277. Louisiana State Board of Medical Examiners; authorization to obtain
+criminal history record information
+A. As used in this Section the following terms shall have the following
+meaning:
+(1) "Applicant" means an individual who has made application to the board
+for the issuance, renewal, or reinstatement of any form of health care practitioner
+licensure which the board is authorized by law to issue, including but not limited to
+licensure as a physician or surgeon pursuant to R.S. 37:1261 et seq.; as a podiatrist
+Page 1 of 19
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HCAHB1093 4465 4960
+pursuant to R.S. 37:611 et seq.; as a physician assistant pursuant to R.S. 37:1360.21
+et seq.; as a naturopathic physician pursuant to R.S. 1360.121 et seq.; as a midwife
+practitioner pursuant to R.S. 37:3240 et seq.; as a respiratory therapist or respiratory
+therapy assistant pursuant to R.S. 37:3351 et seq.; as an occupational therapist or
+occupational therapy assistant pursuant to R.S. 37:3001 et seq.; as a clinical
+laboratory scientist pursuant to R.S. 37:1311 et seq.; as a clinical exercise
+physiologist pursuant to R.S. 37:3421 et seq.; as an athletic trainer pursuant to R.S.
+37:3301 et seq.; as an acupuncturist or acupuncturist's assistant pursuant to R.S.
+37:1356 et seq.; as a private radiologic technologist pursuant to R.S. 37:1292; or as
+a dispensing physician pursuant to LAC 46:XLV.6501 et seq.
+* * *
+PART IX. NATUROPATHIC PHYSICIANS
+§1360.121. Short title
+This Part shall be known as and may be cited as the "Louisiana Naturopathic
+Physician's Practice Act".
+§1360.122. Definitions
+For the purposes of this Part, the following terms have the meanings ascribed
+to them in this Section:
+(1) "Board" means the Louisiana State Board of Medical Examiners.
+(2)(a) "Compounding" means the combining of components into a
+compounded preparation in either of the following conditions:
+(i) As the result of a practitioner's prescription drug order or initiative based
+on the practitioner-patient-pharmacist relationship in the course of professional
+practice to meet the specialized medical need of an individual patient of the
+practitioner that cannot be filled by a drug approved by the United States Food and
+Drug Administration.
+(ii) For the purpose of, or incidental to, research, teaching, or chemical
+analysis and not for sale or dispensing.
+Page 2 of 19
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HCAHB1093 4465 4960
+(b) Compounding includes the preparation of drugs, nutrients, or devices in
+anticipation of receiving prescriptive drug orders based on routine, regularly
+observed prescribing patterns.
+(c) Compounding does not include reconstituting any mixed drug according
+to the United States Food and Drug Administration-approved labeling of the drug.
+(3) "Controlled substance" means a controlled dangerous substance
+enumerated in Schedules I through V in accordance with R.S. 40:961 et seq. with the
+exclusion of testosterone.
+(4) "Council" means the Louisiana Naturopathic Advisory Council.
+(5) "Device" means an instrument, apparatus, implement, machine,
+contrivance, implant, in vitro reagent, or other similar or related article, including a
+component part or accessory that is any of the following:
+(a) Recognized in the official national formulary, or the United States
+pharmacopoeia, or any supplement thereof.
+(b) Intended for use in the diagnosis of disease or other conditions.
+(c) Used for the cure, mitigation, treatment, or prevention of disease in
+humans.
+(d) Not dependent upon being metabolized for the achievement of any of its
+primary intended purposes.
+(6) "Dispense" or "dispensing" means to deliver prescription medication to
+the ultimate user or research subject to or pursuant to the lawful order of a
+practitioner or pursuant to the prescription of mid-level practitioner, including but
+not limited to delivering prescription medication to a patient by mail, common
+carrier, personal delivery, or third-party delivery to any location requested by the
+patient.
+(7) "Drug" means any of the following:
+(a) Any substance recognized as a drug in the official compendium, or
+supplement thereto, designated by the board for use in the diagnosis, cure,
+mitigation, treatment, or prevention of diseases in humans.
+Page 3 of 19
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HCAHB1093 4465 4960
+(b) Any substance intended for use in the diagnosis, cure, mitigation,
+treatment, or prevention of disease in humans.
+(c) Any substance other than food intended to affect the structure or any
+function of the body.
+(8) "Durable medical equipment" means equipment that can withstand
+repeated use, is primarily and customarily used to serve a medical purpose, is
+generally not useful to a person in the absence of illness or injury, and is appropriate
+for use in the home including but not limited to all of the following:
+(a) Blood glucose meters.
+(b) Continuous glucose monitors.
+(c) Blood pressure monitors.
+(d) Pulse oximeters.
+(e) Thermometers.
+(f) Oxygen concentrators and tanks.
+(g) Nebulizers.
+(h) Infusion pumps.
+(i) Any other assistive technology or device used in the management of a
+patient's health.
+(9) "Legend drug" means any drug or drug product bearing on the label of
+the manufacturer or distributor, as required by the United States Food and Drug
+Administration, the statement "Caution: Federal law prohibits dispensing without
+prescription".
+(10) "Licensee" means a naturopathic physician licensed by the board in
+accordance with this Part.
+(11) "Naturopathic medicine" means a system of health care for the
+prevention, diagnosis, and treatment of human health conditions, injury, and disease;
+the promotion or restoration of health; and the support and stimulation of a patient's
+inherent self-healing processes through patient education and the use of naturopathic
+therapies and therapeutic substances.
+Page 4 of 19
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HCAHB1093 4465 4960
+(12)(a) "Naturopathic physical medicine" means the use of physical agents
+of air, water, heat, cold, sound, and light and the physical modalities of
+electrotherapy, biofeedback, diathermy, ultraviolet light, ultrasound, hydrotherapy,
+exercise, naturopathic manipulation and mobilization therapy.
+(b) "Naturopathic physical medicine" does not mean the employment or
+application of chiropractic or spinal adjustments and the principles or techniques of
+chiropractic science as described in R.S. 37:2801 et. seq. or the manipulation or
+adjustment of the spine or extremity joints of the human body beyond the elastic
+barrier, including small amplitude movement at or beyond the end range of normal
+joint motion.
+(13) "Naturopathic therapy" means, including but not limited to the use of
+naturopathic physical medicine, suggestion, hygiene, a therapeutic substance, a drug,
+nutrition and food science, homeopathic medicine, or a clinical laboratory procedure.
+(14) "Nutrition and food science" means the prevention and treatment of
+disease or other human conditions through the use of food, water, herbs, roots, bark,
+or natural food elements.
+(15) "Prescription" means an order from a practitioner authorized by law to
+prescribe for a drug or device that is patient-specific and communicated by any
+means to a pharmacist in a permitted pharmacy.
+(16) "Suggestion" means a technique using any of the following:
+(a) Biofeedback.
+(b) Quantitative electroencephalography.
+(c) Neurofeedback.
+(d) Health education.
+(e) Health counseling.
+(17) "Therapeutic substance" means a natural or pharmaceutical substance
+used in the practice of naturopathic medicine for the prevention, diagnosis, or
+treatment of disease or the promotion or restoration of health. Therapeutic substances
+include but are not limited to all of the following:
+(i) A vitamin.
+Page 5 of 19
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HCAHB1093 4465 4960
+(ii) A mineral.
+(iii) A nutriceutical.
+(iv) A botanical medicine.
+(v) Oxygen.
+(vi) Hyperbaric oxygen therapy or HBOT or Mild hyperbaric oxygen therapy
+or mHBOT.
+(vii) Ozone.
+(viii) Homeopathic medicine.
+(ix) Hormone or contraceptive device.
+(x) A drug.
+(xi) Peptide.
+(xii) Other physiologic substances.
+(b) The use of therapeutic substances are limited to those consistent with the
+education and training of the naturopathic doctor.
+§1360.123. The Louisiana Naturopathic Advisory Council
+A. The Louisiana Naturopathic Advisory Council is created to assist the
+Louisiana State Board of Medical Examiners in the administration and oversight of
+the practice of naturopathic medicine.
+B. The council consists of the following members:
+(1) Three members who are licensed naturopathic physicians.
+(2) One member who is a consumer.
+C.(1) The members of the council shall be selected by the governor.
+(2) Each council member who is a naturopathic physician shall meet all of
+the following criteria:
+(a) Be licensed in this state as a naturopathic physician.
+(b) Actively practice naturopathic medicine in this state.
+(c) Pass the Naturopathic Physician Licensing Exam (NPLEX) administered
+by the North American Board of Naturopathic Examiners.
+(d) Have a minimum of two years of clinical experience in the practice of
+naturopathic medicine.
+Page 6 of 19
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HCAHB1093 4465 4960
+(3) The consumer member shall represent consumer interests through
+experience in public service, community advocacy, law, and ethics.
+D.(1) A majority of the members of the council shall constitute a quorum.
+(2) All members of the council shall serve a term of three years.
+(3) The council shall elect a chairperson by a majority of the vote.
+(4). The council shall meet, at a minimum, twice annually, or as called by
+the board.
+(5) The council shall maintain records of the content of its meetings and
+submit a copy of the such records to the board.
+E. The council has all of the following duties:
+(1) Advise the board on licensure requirements and professional standards
+for naturopathic physicians.
+(2) Recommend rules and regulations governing the practice of naturopathic
+medicine.
+(3) Provide guidance to the board regarding prescribing authority as defined
+in this Part.
+(4) Advise on ethics, examinations, continuing education, and professional
+conduct.
+(5) Review licensure applications and make recommendations to the board.
+(6) Review prescribing practices.
+(7) Provide recommendations for updates or clarifications on law provided
+for in this Part.
+F. The council shall make recommendations only. The board retains full and
+final authority over licensure, discipline, rulemaking, and approval of prescriptive
+authority.
+§1360.125. Scope of practice
+A. A licensee may practice naturopathic medicine, naturopathic physical
+medicine, and naturopathic therapy in accordance with naturopathic medical
+education, training, and rules adopted by the board including all of the following:
+Page 7 of 19
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HCAHB1093 4465 4960
+(1) Performing physical examinations including speculum examinations and
+examinations of body orifices.
+(2) Ordering laboratory examinations and diagnostic imaging studies.
+(3) Interpreting laboratory examinations for diagnostic purposes.
+(4) Ordering diagnostic imaging studies and taking action based on a
+radiologist's report in a manner consistent with naturopathic training.
+(5) Prescribing, administering, dispensing, and ordering drugs as authorized
+by this Part.
+(6) Prescribing, recommending, or administering a therapeutic substance
+including all of the following:
+(a) Therapeutic substances including but not limited to food, food extracts,
+nutraceuticals, vitamins, minerals, amino acids, enzymes, whole gland thyroid,
+peptides, botanicals, homeopathic preparations, plant substances, dietary
+supplements, and nonprescriptive drugs.
+(b) Human cellular and tissue-based products that are not regulated as drugs.
+(c) Substances authorized for oral, nasal, topical, auricular, ocular,
+transdermal, intradermal, subcutaneous, intramuscular, intravenous, ligamentous,
+tendinous, periarticular, intra-vaginal, or rectal, including proliferative therapy.
+(d) Hyperbaric oxygen therapy, also know as HBOT; mild hyperbaric
+oxygen therapy, also known as mHBOT; and ozone.
+(e) Durable medical equipment and devices.
+(7) Engaging in healthcare and nutritional counseling, including fertility
+counseling.
+(8) Providing dietary therapy, naturopathic physical medicine, and barrier
+contraceptive devices.
+(9) Providing biofeedback, neurofeedback, frequency-based therapies
+including but not limited to RIFE, light based, and soundwave modalities.
+B. Prescribing, dispensing, and compounding authority exercised pursuant
+to this Part shall be subject to all applicable provisions of state and federal law
+including oversight by the Louisiana Board of Pharmacy.
+Page 8 of 19
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HCAHB1093 4465 4960
+C. The use of non-diagnostic ultrasound shall not include the interpretation
+of diagnostic imaging studies.
+D. A licensee may provide naturopathic care to a pregnant patient, including
+comprehensive prenatal care, wellness care, education, nutritional support, and labor
+support services consistent with the licensee's education and training.
+§1360.126. Requirements for licensure
+A. A license issued by the board is valid for one year from the date of
+issuance.
+D. The board shall require an applicant for licensure to submit all of the
+following:
+(1) An application provided by the board.
+(2) An application fee and any other fees required by the board.
+(3) Evidence of graduation from an approved naturopathic medical
+educational program in accordance with this Part.
+(4) Evidence of passing of a competency-based national naturopathic
+medicine licensing examination administered by the North American Board of
+Naturopathic Examiners, or an equivalent agency recognized by the board.
+C. If the board determines that an applicant is eligible to be licensed in
+accordance with this Part and determines that the applicant is physically and
+mentally capable of safely practicing naturopathic medicine, the board shall issue the
+applicant a license to practice naturopathic medicine.
+D. The board shall renew a license to practice naturopathic medicine if the
+licensee completes all of the following:
+(1) Submits a renewal application provided by the board.
+(2) Pays the renewal fee and any other fees required by the board.
+(3) Meets continuing education requirements established by the board.
+(4) Remains in good standing in accordance with this Part and board rules.
+E.(1) The board may issue a license to practice naturopathic medicine to an applicant
+who is licensed in good standing in another state, territory, or jurisdiction of the United
+Page 9 of 19
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HCAHB1093 4465 4960
+States or province with licensing requirements substantially equivalent to or greater than
+those of this state, as determined by the board. The applicant shall do all of the following:
+(a) Submit an application and applicable fees.
+(b) Provide verification of current licensure in good standing.
+(c) Demonstrate successful completion of a competency-based naturopathic
+medical licensing examination that was accepted by the previous state, territory,
+jurisdiction, or province.
+(d) Provide evidence of active practice or continued competency as defined
+by board rule.
+(2) The board may require additional information necessary to determine
+substantial equivalency.
+F.(1) The board may require a licensee who fails to provide consent and
+information required by the board to obtain a criminal history review.
+(2) The board may deny, suspend, or revoke the license of a licensee that is
+convicted of a felony or an offense involving fraud or public safety.
+G. Licensure does not confer prescriptive authority. Prescriptive authority
+shall be granted only through a separate prescriptive endorsement issued by the
+board upon satisfaction of additional educational, examination, and rule requirements
+provided for in this Part.
+H. The board may deny, suspend, revoke, or otherwise discipline a licensee
+in accordance with this Part and board rules.
+§1360.127. Educational qualifications; professional competency examination
+A. An applicant seeking a license to practice naturopathic medicine shall
+have graduated from a school of naturopathic medicine that meets all of the
+following requirements:
+(1) The school is a degree-granting doctoral-level naturopathic medical
+education program that offers didactic and supervised clinical training and results in
+the awarding of the degree of Doctor of Naturopathic Medicine or Doctor of
+Naturopathy.
+(2) The course of study is any one of the following:
+Page 10 of 19
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HCAHB1093 4465 4960
+(a) Accredited or a candidate for accreditation by the Council on
+Naturopathic Medical Education or a successor or board-recognized programmatic
+accrediting agency for naturopathic medical programs that the board determines to
+be substantial equivalent to the Council on Naturopathic Medical Education
+standards, including supervised clinical training, assessment, and outcomes,
+regardless of the accrediting agency's recognition status with the United States
+Department of Education. Programs taught entirely or primarily via distance
+education, or lacking supervised live patient care, do not meet the requirements of
+this Subparagraph.
+(b) Housed in an institution of higher education that is accredited or is a
+candidate for accreditation by an institutional accrediting agency recognized by the
+United States Department of Education or the Council for Higher Education
+Accreditation, their successors, or any comparable federally recognized national
+quality-assurance body; or if no qualified programmatic naturopathic medical
+program accreditor exists, the program is housed within an institution of higher
+education that is accredited, or in candidacy, by an institutional accrediting agency
+recognized by the United States Department of Education or the Council for Higher
+Education Accreditation, or by a Canadian provincial quality assurance body; and
+the board, through rule, determines the program meets or exceeds the curricular and
+clinical standards set forth in the Council for Higher Education Adccreditation
+Handbook of Accreditation then in effect, or its successor, including supervised
+clinical training with live patient encounters. Programs taught entirely or primarily
+via distance education do not meet the requirement of this Subparagraph.
+(c) From a degree-granting institution of higher education in the United
+States or a diploma-granting degree-equivalent institution of higher education in
+Canada that, prior to the existence of the Council of Higher Education, offered a
+full-time, structured curriculum in basic sciences and supervised patient care
+comprising a doctoral naturopathic medical education requiring not less than one
+hundred thirty-two weeks of coursework to be completed within a period of not less
+than thirty months, which was reputable and in good standing in the judgment of the
+Page 11 of 19
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HCAHB1093 4465 4960
+board, and which, if still in existence, has current programmatic accreditation by the
+Council on Naturopathic Medical Education or an equivalent accrediting agency.
+Successful completion of a competency-based national naturopathic medicine
+licensing examination administered by the North American Board of Naturopathic
+Examiners, or an equivalent agency recognized by the Board, or, for graduates of
+approved naturopathic medical programs in the United States prior to the existence
+of the CNME, a competency-based state naturopathic medicine licensing
+examination or equivalent Canadian provincial licensing examination for the practice
+of naturopathic medicine approved by the Board
+§1360.128. Fees
+A. The board shall fix and collect fees that do not exceed the following
+amounts for each type of fee and are not refundable:
+(1) Application and initial license $500.00
+(2) Temporary or provisional license $300.00
+(3) License renewal $400.00
+(4) License verification $100.00
+(5) Duplicate license $100.00
+(6) Document certification $ 25.00
+(7) Issuance of a subpoena $ 50.00
+(8) Probation monitoring $400.00
+(9) Delinquent fee, in addition to the renewal fee. $250.00
+B. The board may assess additional fees in conjunction with license renewal
+for programs authorized in accordance with this Part including but not limited to
+professional health monitoring programs or continuing education administration.
+C. The board shall not establish or collect any fee in excess of the maximum
+amounts provided in this Section unless the increase is authorized by an act of the
+legislature.
+§1360.129. Display of qualifications
+A licensee shall display the license issued in accordance with this Part
+conspicuously at the principal place of practice and shall make available evidence
+Page 12 of 19
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HCAHB1093 4465 4960
+of completion of an approved naturopathic medical educational program and passage
+of an approved professional competency examination.
+§1360.130. Prescriptive authority; requirements
+A.(1) After meeting all requirements of this Part and obtaining a prescriptive
+endorsement, in accordance with the provisions of this Part, a licensee may
+prescribe, administer, dispense and order any of the following:
+(a) Legend drugs.
+(b) Testosterone products and controlled substances listed in Schedules III,
+IV, and V as provided for in R.S. 40:946.
+(2) A licensee shall not prescribe or order controlled substances listed in
+Schedule I or II, as provided for in R.S. 40:964, benzodiazepines, opioids, or opioid
+derivatives.
+B. A licensee may administer a drug utilizing routes of administration
+including but not limited to oral, nasal, topical, auricular, ocular, rectal, vaginal,
+intramuscular, transdermal, intradermal, subcutaneous, ligamentous, tendinous, and
+intravenous, including proliferative therapy.
+C. All prescribing shall be in accordance with applicable state and federal
+law, including requirements for registration with the United States Drug
+Enforcement Administration when applicable.
+D. A naturopathic physician may prescribe nonprescription medications
+without limitation.
+E. Prescribing, dispensing, and compounding authority exercised in
+accordance with this Part shall be subject to all applicable provisions of state and
+federal law including oversight by the Louisiana Board of Pharmacy.
+F. The board shall require a licensee to do all of the following:
+(1) Record each prescription order in writing which may include
+electronically recorded and transmitted communication. Each order shall include the
+name, address, and telephone number of the naturopathic physician.
+(2) Prescribe only when the naturopathic physician has adequate education,
+training, and experience to safely manage the medical regimen.
+Page 13 of 19
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HCAHB1093 4465 4960
+(3) Register with the United States Drug Enforcement Administration to
+prescribe controlled substances authorized by this Part.
+(4) Comply with requirements of state and federal law and rules developed
+by the board relative to prescribing pharmaceutical drugs.
+(5) The board may require a period of monitored prescribing, which may
+include chart review, peer review, or other competency-based evaluation, for a
+period not to exceed one year or until sufficient prescribing competency is
+demonstrated.
+§1360.131. Prescriptive endorsement
+A. In order to obtain the special license endorsement which shall authorize
+a naturopathic physician to prescribe, dispense, and administer prescription
+medicines, an otherwise qualified naturopathic physician will be required to pass the
+naturopathic pharmacology examination or a substantially equivalent examination
+approved by the board.
+B. For no less than one year after receiving the special license endorsement,
+prescriptions shall be reviewed by an objective and independent supervising
+physician licensed, or a naturopathic physician licensed. The supervising physician
+shall possess an unencumbered license and have been prescribing and administering
+prescription drugs without limitation for five years or more. The supervising
+physician shall evaluate the naturopathic physician’s ability to do all of the
+following:
+(1) Safely prescribe and administer prescription drugs within the
+naturopath’s scope of practice.
+(2) Comply with federal and state law.
+(3) Comply with the applicable administrative rules of the Louisiana Board
+of Pharmacy.
+C. The naturopathic and supervising physicians shall have a formal written
+agreement. The agreement shall address the requirements of Subsection B of this
+Section. The agreement shall be available for inspection upon request by the board.
+Page 14 of 19
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HCAHB1093 4465 4960
+D. A naturopathic physician who satisfies the supervision requirement in
+Subsection B of this Section shall notify the board that this requirement has been met
+and file a certificate of completion signed by the supervisor.
+E. The executive director of the board may waive the prescription review
+requirement in Subsection B of this Section if the newly endorsed naturopathic
+physician can show that he has experience in prescribing prescription medicines
+under the laws of another jurisdiction that has standards and qualifications for a
+naturopathic physician to prescribe prescription medications at least equal to those
+required under these rules.
+F. The use of prescription medications in a manner that has not been
+approved by the United States Food and Drug Administration is referred to as
+"off-label." In addition to the use of prescription medications in a manner approved
+by the United States Food and Drug Administration, a naturopathic physician who
+has appropriate competency, training, and experience may prescribe medications in
+an "off-label" manner in conformance with generally accepted standards of practice,
+including safety and efficacy, for both allopathic and naturopathic physicians.
+§1360.132. Referrals to other providers
+A licensee shall refer a patient to a physician or other licensed healthcare
+provider authorized to practice in this state if the patient's condition is beyond the
+licensee's scope of practice or requires a level of care not authorized by this Part.
+§1360.133. Prohibitions; exceptions
+A. A licensee shall not engage in any of the following:
+(1) Practicing or claiming to practice as a medical doctor, osteopathic
+physician, dentist, chiropractor, acupuncturist, podiatrist, or any other healthcare
+professional unless also licensed as such in this state.
+(2) Performing surgery.
+(3) Using general or spinal anesthesia.
+(4) Administering ionizing radioactive substances for therapeutic purposes.
+(5) Administering, conducting, or interpreting the results of diagnostic
+imaging studies except as authorized by the board.
+Page 15 of 19
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HCAHB1093 4465 4960
+(6) Performing labor, delivery, or any procedure involving the reproductive
+organs of a pregnant patient, or performing operative or invasive obstetrical
+procedures.
+(7) Prescribing, dispensing, or administering controlled dangerous
+substances, except as specifically authorized in accordance with this Part.
+B. Nothing in this Part shall be construed to prohibit or restrict any of the
+following:
+(1) The lawful practice of a profession by an individual licensed, certified,
+or registered in accordance with state law while acting within his scope of practice.
+(2) The practice of naturopathic medicine by a student enrolled in an
+approved naturopathic medical educational program, when performed pursuant to
+instruction and under the supervision of a licensee or other duly licensed professional
+in the instructed field.
+(3) Any person selling vitamins, herbs, supplements, or wellness products
+from providing general information about such products.
+(4) A practitioner licensed in another jurisdiction from entering this state to
+consult with a licensee, limited to consultation, examination, recommendation, or
+testimony in litigation.
+C.(1) Traditional naturopaths, herbalists, life coaches, nutrition coaches, and
+other natural healers who are not licensed in accordance with this Part shall not be
+prohibited from providing non-medical wellness services, education, coaching,
+nutritional guidance, homeopathy, herbal remedies, or other therapies within their
+scope of training and practice, if that a person does not do any of the following:
+(a) Use a protected licensee title prohibited by this Part.
+(b) Represent or assume the character or appearance of a licensee.
+(c) Use a name, title, credential, abbreviation, or designation that indicates
+or implies state licensure as a naturopathic physician.
+(2) A person not licensed in accordance with this Part shall use the terms
+"traditional naturopath" or "naturopath" if the person complies with the disclosure
+requirements of this Part and does not imply licensure as a naturopathic physician.
+Page 16 of 19
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HCAHB1093 4465 4960
+§1360.134. Protected titles for licensed naturopathic physicians
+A. A licensee shall use the title "Naturopathic Medical Doctor" or
+"Naturopathic Doctor" and may use the abbreviations "N.D.", "ND", "NMD", or
+"N.M.D.".
+B. A licensee has the exclusive right to use any of the following terms:
+(1) "Naturopathic doctor".
+(2) "Doctor of naturopathic medicine".
+(3) "Doctor of naturopathy".
+(4) "N.D.", "ND", "NMD", or "N.M.D.".
+(5) "Naturopathic physician".
+C. A person represents himself as a naturopathic physician when he uses or
+adopts any of the terms provided for in this Section or otherwise represents being
+licensed in accordance with this Part.
+D. A person shall not use "doctor," "physician," "N.D.", "NMD," "N.M.D.",
+"Doctor of Naturopathic Medicine," or similar terms implying licensure under this
+Part unless licensed.
+§1360.135. Independent practice of naturopathic medicine
+The practice of naturopathic medicine authorized by this Part does not require
+physician oversight, supervisory agreements, or collaboration as a condition of
+licensure or lawful practice except as provided for in this Part.
+Section 2. This Act shall become effective on January 1, 2027.
+DIGEST
+The digest printed below was prepared by House Legislative Services. It constitutes no part
+of the legislative instrument. The keyword, one-liner, abstract, and digest do not constitute
+part of the law or proof or indicia of legislative intent. [R.S. 1:13(B) and 24:177(E)]
+HB Draft 2026 Regular Session
+Abstract: Establishes standards and oversight of the practice of naturopathic medicine.
+Present law authorizes the Louisiana St. Bd. of Medical Examiners (LSBME) to obtain
+background checks on certain healthcare professional licensed by the board.
+Proposed law authorizes LSBME to obtain criminal history record information for applicants
+seeking issuance, renewal, or reinstatement of healthcare practitioner licensure.
+Page 17 of 19
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HCAHB1093 4465 4960
+Proposed law defines “applicant” and other terms applicable to naturopathic physicians and
+the practice of naturopathic medicine.
+Proposed law establishes the “Louisiana Naturopathic Physician’s Practice Act”.
+Proposed law provides definitions for key terms including "biological product",
+"compounding", "controlled substance", "device", "dispensing", "drug", "durable medical
+equipment", "legend drug", "licensee", "naturopathic medicine", "naturopathic physical
+medicine", "naturopathic therapy", "prescription", and "suggestion".
+Proposed law creates the Louisiana Naturopathic Advisory Council to assist the board in
+oversight and regulation of naturopathic medicine.
+Proposed law provides for council membership, qualifications, terms, quorum, meetings, and
+duties, including advisory functions on licensure, standards, prescribing, and discipline.
+Proposed law provides that the board retains final authority over licensure, rulemaking,
+discipline, and prescriptive authority.
+Proposed law authorizes licensees to practice naturopathic medicine, including
+examinations, ordering and interpreting diagnostics, prescribing and administering certain
+therapies and substances, and providing counseling and supportive care.
+Proposed law provides for limitations on practice, including compliance with state and
+federal law and restrictions on diagnostic ultrasound interpretation.
+Proposed law authorizes naturopathic care for pregnant patients within scope of training.
+Proposed law requires licensure for the practice of naturopathic medicine and provides for
+annual licensure and renewal requirements.
+Proposed law provides for licensure qualifications, including education, examination,
+application, fees, and demonstration of competency.
+Proposed law authorizes licensure by reciprocity for applicants licensed in other jurisdictions
+with substantially equivalent requirements.
+Proposed law authorizes the board to deny, suspend, or revoke licenses based on criminal
+history or failure to comply with background check requirements.
+Proposed law provides that licensure alone does not confer prescriptive authority and
+requires a separate prescriptive endorsement.
+Proposed law establishes educational requirements for licensure, including graduation from
+accredited or equivalent naturopathic medical programs with supervised clinical training.
+Proposed law authorizes the board to establish and collect specified fees, subject to statutory
+maximums.
+Proposed law requires licensees to display licensure and provide evidence of qualifications.
+Proposed law provides for prescriptive authority upon issuance of a prescriptive
+endorsement, including authority to prescribe legend drugs and certain controlled substances,
+with specified prohibitions.
+Proposed law establishes requirements for prescribing practices, including compliance with
+federal and state law and possible monitoring.
+Page 18 of 19
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HCAHB1093 4465 4960
+Proposed law requires passage of a pharmacology examination and supervised prescribing
+period to obtain a prescriptive endorsement, with limited waiver authority.
+Proposed law authorizes off-label prescribing consistent with accepted standards of care.
+Proposed law requires referrals to other healthcare providers when a patient’s condition
+exceeds the licensee’s scope of practice.
+Proposed law prohibits certain acts, including performing surgery, using anesthesia,
+administering certain substances, or practicing outside defined scope.
+Proposed law provides exceptions preserving the lawful practice of other licensed
+professionals and certain non-medical wellness activities.
+Proposed law permits unlicensed individuals to provide limited wellness services if they do
+not represent themselves as licensed naturopathic physicians and comply with disclosure
+requirements.
+Proposed law establishes protected titles for licensed naturopathic physicians and restricts
+use of such titles by unlicensed individuals.
+Proposed law requires disclosures by unlicensed individuals using the term “naturopath” and
+authorizes the board to adopt formatting standards.
+Proposed law provides for independent practice of naturopathic medicine without physician
+supervision, except as otherwise provided.
+Effective Jan. 1, 2027.
+(Amends R.S. 37:1277(A)(intro. para) and (1); Adds R.S. 37:1360.121-1360.135)
+Page 19 of 19
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.

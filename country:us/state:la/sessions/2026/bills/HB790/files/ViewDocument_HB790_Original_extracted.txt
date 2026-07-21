@@ -1,0 +1,589 @@
+Title: 
+Official Title: 
+Source: versions - HB790 Original
+Media Type: application/pdf
+
+================================================================================
+
+HLS 26RS-895 ORIGINAL
+2026 Regular Session
+HOUSE BILL NO. 790
+BY REPRESENTATIVE JORDAN
+CORRECTIONAL FACILITIES: Provides relative to medical emergency preparedness in
+correctional facilities
+1 AN ACT
+2 To amend and reenact Code of Criminal Procedure Article 62(C) and to enact Part XX of
+3 Chapter 7 of Title 15 of the Louisiana Revised Statues of 1950, comprised of R.S.
+4 15:1199.31 through 1199.43, and R.S. 15:1199.44, relative to medical emergencies
+5 involving inmates; to provide for definitions; to provide for certain requirements and
+6 certifications; to provide for training; to provide for preventative measures and
+7 screening measures relative to contraband; to provide for duties; to provide for a
+8 cause of action; to provide for the recovery of damages; to provide for liability; to
+9 provide for criminal penalties; to provide for notification requirements and
+10 procedures; to provide for reporting; to provide for funding; to provide for
+11 severability; to provide for rulemaking; to provide relative to the authority of the
+12 attorney general; to provide for effective dates; and to provide for related matters.
+13 Be it enacted by the Legislature of Louisiana:
+14 Section 1. Part XX of Chapter 7 of Title 15 of the Louisiana Revised Statues of
+15 1950, comprised of R.S. 15:1199.31 through 1199.43, is hereby enacted to read as follows:
+16 PART XX. LOUISIANA CORRECTIONAL FACILITY MEDICAL EMERGENCY
+17 RESPONSE AND ACCOUNTABILITY ACT
+18 §1199.31. Short title
+19 This Part shall be known and may be cited as the "Louisiana Correctional
+20 Facility Medical Emergency Response and Accountability Act".
+Page 1 of 16
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-895 ORIGINAL
+HB NO. 790
+1 §1199.32. Definitions
+2 As used in this Part, the following terms have the following meanings:
+3 (1) "Automated external defibrillator" means a medical device heart monitor
+4 and defibrillator that has all of the following characteristics:
+5 (a) Received approval of its pre-market notification filed pursuant to 21
+6 U.S.C. 360k from the United States Food and Drug Administration.
+7 (b) Is capable of recognizing the presence or absence of ventricular
+8 fibrillation or rapid ventricular tachycardia and is capable of determining whether
+9 defibrillation should be performed.
+10 (c) Automatically charges and requests delivery of an electrical impulse to
+11 the heart of an individual upon a determination that defibrillation should be
+12 performed.
+13 (d) Is capable of delivering the electrical impulse to the heart of an
+14 individual.
+15 (2) "Cardiopulmonary resuscitation" means the measures used to restore or
+16 support cardiac or respiratory function in the event of a cardiac or respiratory arrest.
+17 (3) "Chaplain" means any religious or spiritual counselor, whether
+18 employed, contracted, or a volunteer, who provides religious services within a
+19 correctional facility.
+20 (4) "Correctional facility" means any jail, prison, penitentiary, juvenile
+21 institution, temporary holding center, or detention facility.
+22 (5) "Correctional officer" means any person employed by or contracted with
+23 a correctional facility to supervise, guard, or maintain custody of inmates.
+24 (6) "Department" means the Department of Public Safety and Corrections.
+25 (7) "Immediate family member" means spouse, parents, children, siblings,
+26 grandparents, grandchildren, or legal guardian.
+27 (8) "Medical emergency" means any condition requiring immediate medical
+28 intervention, including but not limited to cardiac arrest, respiratory distress, seizure,
+29 loss of consciousness, severe bleeding, or suspected overdose.
+Page 2 of 16
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-895 ORIGINAL
+HB NO. 790
+1 §1199.33. Cardiopulmonary resuscitation; certification requirements
+2 A.(1) Every correctional officer employed at a correctional facility in this
+3 state shall obtain and maintain a current certification in cardiopulmonary
+4 resuscitation and automated external defibrillator use from the American Heart
+5 Association, American Red Cross, or equivalent organization approved by the
+6 Louisiana Department of Health.
+7 (2) Every chaplain who provides services within a correctional facility shall
+8 obtain and maintain a current certification in cardiopulmonary resuscitation and
+9 automated external defibrillator use from the American Heart Association, American
+10 Red Cross, or equivalent organization approved by the Louisiana Department of
+11 Health.
+12 (3) Initial certification shall be obtained as follows:
+13 (a) For every correctional officer and chaplain who is currently employed,
+14 within one hundred eighty days of January 1, 2027.
+15 (b) For any correctional officer and chaplain who is hired on or after January
+16 1, 2027, within ninety days of employment or commencement of services.
+17 B.(1) All personnel who are required to maintain certification in
+18 cardiopulmonary resuscitation pursuant to this Section shall recertify annually or as
+19 required by the certifying organization, whichever requires recertification on a more
+20 frequent basis.
+21 (2) The warden of each correctional facility shall maintain documentation
+22 of all staff certifications and establish a tracking system to ensure timely
+23 recertification.
+24 C. Cardiopulmonary resuscitation training shall include all of the following:
+25 (1) Recognition of cardiac arrest and other medical emergencies.
+26 (2) Hands-on practice with mannequins.
+27 (3) Proper automated external defibrillator operation.
+28 (4) Scene safety assessment.
+29 (5) Communication with emergency medical services.
+Page 3 of 16
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-895 ORIGINAL
+HB NO. 790
+1 (6) Documentation requirements.
+2 §1199.34. Automated external defibrillators
+3 A.(1) Every correctional facility shall maintain a sufficient number of
+4 operational automated external defibrillators to ensure that at least one automated
+5 external defibrillator is available within a three-minute response time from any
+6 location within the facility where inmates are housed or congregate.
+7 (2)(a) Every correctional facility shall maintain at least one automated
+8 external defibrillator in each of the following locations:
+9 (i) Every housing unit or cellblock.
+10 (ii) Any medical or infirmary area.
+11 (iii) Recreational areas.
+12 (iv) Visitation areas.
+13 (b) In addition, one portable automated external defibrillator shall be
+14 maintained for emergency response teams.
+15 B. All automated external defibrillators shall be inspected monthly to ensure
+16 operational readiness. Inspection records shall be maintained for a minimum of five
+17 years and made available to the department upon request.
+18 C. Automated external defibrillators shall meet all of the following
+19 requirements:
+20 (1) Clearly marked with signage that is visible from at least fifty feet.
+21 (2) Stored in unlocked, accessible locations.
+22 (3) Accompanied by written operating instructions.
+23 (4) Equipped with adult and pediatric pads as appropriate.
+24 §1199.35. Inmate cardiopulmonary resuscitation training program
+25 A.(1) Each correctional facility shall establish a voluntary inmate
+26 cardiopulmonary resuscitation training program to train eligible inmates in basic
+27 cardiopulmonary resuscitation techniques.
+28 (2) The department, in consultation with the Louisiana Department of
+29 Health, shall develop curriculum and eligibility criteria for inmate participants.
+Page 4 of 16
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-895 ORIGINAL
+HB NO. 790
+1 B.(1) An inmate with documented good behavior and no disciplinary
+2 infractions within the preceding six months may volunteer for cardiopulmonary
+3 resuscitation training.
+4 (2) Priority shall be given to an inmate assigned to work details in areas
+5 where medical emergencies are more likely to occur or where staff presence is
+6 limited.
+7 (3) Participation in the program shall be noted positively in the records of
+8 the inmate and considered in determinations regarding diminution of sentence at the
+9 discretion of the warden or facility administrator.
+10 C. An inmate who successfully completes training may receive recognition
+11 but shall not be required to act or officially designated as a first responder.
+12 D. Nothing in this Section shall impose a legal duty upon an inmate to
+13 render aid and the inmate shall not face disciplinary action for failure to provide
+14 assistance during a medical emergency.
+15 §1199.36. Contraband prevention; staff screening
+16 A.(1) All correctional officers and staff with direct inmate contact shall be
+17 subject to unannounced screening for contraband at random intervals, but no less
+18 than on a quarterly basis.
+19 (2) Screening methods may include all of the following:
+20 (a) Physical searches of persons and belongings.
+21 (b) Metal detection.
+22 (c) Drug testing.
+23 (d) Review of communications and visitor logs.
+24 (e) Financial disclosure reviews when reasonable suspicion exists that
+25 contraband has been introduced, sent, given, possessed, or attempted to be
+26 introduced, sent, given, or possessed at the correctional facility.
+27 B.(1) The department shall establish standardized protocols for staff
+28 screening that respect employee dignity while ensuring facility security.
+Page 5 of 16
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-895 ORIGINAL
+HB NO. 790
+1 (2) Screening shall be conducted by designated personnel or third-party
+2 contractors independent of the facility's regular chain of command.
+3 (3) Each facility shall document all screening activities and maintain records
+4 of these activities for a minimum of three years.
+5 C. Any correctional officer or staff member who is confirmed to have
+6 introduced contraband into a correctional facility shall be subject to any of the
+7 following:
+8 (1) Immediate suspension pending investigation.
+9 (2) Termination of employment upon substantiation of charges.
+10 (3) Criminal prosecution under R.S. 14:402 or any other applicable law.
+11 (4) Permanent prohibition from employment in any correctional facility in
+12 this state.
+13 §1199.37. Duty to render aid
+14 A.(1) All correctional officers and staff have an affirmative duty to render
+15 immediate aid and summon emergency medical services upon discovery or
+16 notification of an inmate experiencing a medical emergency. For purposes of this
+17 Section, "render aid" includes all of the following:
+18 (a) Engaging in an immediate assessment of the situation.
+19 (b) Summoning emergency medical services and on-site medical staff.
+20 (c) Beginning cardiopulmonary resuscitation and applying automated
+21 external defibrillator if cardiac arrest is suspected.
+22 (d) Maintaining scene safety and preserving evidence for investigation.
+23 (e) Ensuring continuous monitoring until professional medical personnel
+24 arrive.
+25 B. No correctional officer or staff member shall do any of the following:
+26 (1) Ignore, dismiss, or delay response to reports of an inmate medical
+27 emergency.
+28 (2) Fail to summon emergency medical services.
+29 (3) Interfere with emergency medical response.
+Page 6 of 16
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-895 ORIGINAL
+HB NO. 790
+1 (4) Fail to render aid within the scope of their training and certification.
+2 (5) Retaliate against an inmate or staff member who reports a medical
+3 emergency.
+4 C. Any medical emergency involving an inmate shall be documented in an
+5 incident report within two hours of the event. Documentation shall include all of the
+6 following:
+7 (1) The approximate time the emergency was discovered or reported.
+8 (2) The name of any responding staff.
+9 (3) Actions taken, including the approximate time cardiopulmonary
+10 resuscitation was initiated and automated external defibrillator was applied.
+11 (4) The approximate time emergency medical services were summoned and
+12 the approximate time they arrived.
+13 (5) The name of any witnesses.
+14 (6) The outcome and disposition of the medical emergency.
+15 §1199.38. Civil liability
+16 A.(1) An inmate who suffers an injury, or the estate or immediate family
+17 member of a deceased inmate, may bring a civil action against any correctional
+18 officer or staff member who does any of the following:
+19 (a) Fails to render aid during a medical emergency in violation of R.S.
+20 15:1199.37.
+21 (b) Acts with deliberate indifference to the serious medical needs of the
+22 inmate.
+23 (c) Recklessly or intentionally delays medical response.
+24 (2) Each correctional facility and its governing authority may be held liable
+25 for any of the following:
+26 (a) Failure to properly train staff as required by this Part.
+27 (b) Failure to maintain required automated external defibrillator equipment.
+28 (c) Policies or customs that discourage or prevent adequate medical
+29 response.
+Page 7 of 16
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-895 ORIGINAL
+HB NO. 790
+1 (d) Inadequate supervision of staff members who have a history of failure
+2 to respond to medical emergencies.
+3 B.(1) A prevailing plaintiff may recover any of the following:
+4 (a) Compensatory damages for medical expenses, pain and suffering, and
+5 wrongful death.
+6 (b) Punitive damages where the conduct was willful, wanton, or reckless.
+7 (c) Attorney fees and costs.
+8 (d) Any other relief deemed appropriate by the court.
+9 (2) Sovereign immunity and qualified immunity shall not apply to claims
+10 arising under this Section where the conduct of the defendant constitutes gross
+11 negligence, deliberate indifference, or willful misconduct.
+12 C.(1) The plaintiff shall have the burden of proving all elements of his claim
+13 by a preponderance of the evidence.
+14 (2) Evidence of a defendant's failure to comply with the requirements of this
+15 Part shall create a rebuttable presumption of negligence.
+16 §1199.39. Criminal penalties
+17 A. No correctional officer or staff member with knowledge of a medical
+18 emergency involving an inmate shall intentionally, knowingly, or with gross
+19 negligence do any of the following:
+20 (1) Fail to render aid or summon emergency medical services as required
+21 under R.S. 15:1199.37, and such failure results in serious bodily injury or death of
+22 the inmate.
+23 (2) Interfere with, delay, or prevent a response to a medical emergency.
+24 (3) File a false report concerning a response to a medical emergency or
+25 falsify documentation required under this Part.
+26 B.(1) Whoever violates the provisions of Paragraph (A)(1) of this Section
+27 shall be fined not less than five thousand dollars nor more than twenty-five thousand
+28 dollars, imprisoned with or without hard labor for not less than one year nor more
+Page 8 of 16
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-895 ORIGINAL
+HB NO. 790
+1 than five years, or both. In addition, the offender shall be prohibited from
+2 employment in any correctional facility or law enforcement agency in this state.
+3 (2) Whoever violates the provisions of Paragraph (A)(2) of this Section shall
+4 be fined not less than one thousand dollars nor more than ten thousand dollars,
+5 imprisoned with or without hard labor for not more than two years, or both. In
+6 addition, the offender shall be suspended or terminated from employment at the
+7 correctional facility.
+8 (3) Whoever violates the provisions of Paragraph (A)(3) of this Section shall
+9 be fined not less than one thousand dollars nor more than five thousand dollars,
+10 imprisoned with or without hard labor for not more than six months, or both.
+11 C. Nothing in this Section shall be construed to prevent prosecution under
+12 any other applicable provision of law.
+13 §1199.40. Family notification requirements
+14 A.(1) In the event of the death of an inmate, the warden, facility
+15 administrator, or designated official shall make all reasonable efforts to notify an
+16 immediate family member of the inmate within thirty minutes of the time of death
+17 as confirmed by medical personnel.
+18 (2) Notification methods shall include all of the following in order of
+19 preference:
+20 (a) Direct telephone contact with the immediate family member.
+21 (b) Contact through a law enforcement welfare check.
+22 (c) Notification through an emergency contact person designated by the
+23 inmate.
+24 (3) If the facility is unable to contact an immediate family member within
+25 thirty minutes, the facility shall do all of the following:
+26 (a) Document all attempts to contact any immediate family members.
+27 (b) Continue attempts every hour for the first six hours.
+28 (c) Notify any attorney of record for the inmate.
+Page 9 of 16
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-895 ORIGINAL
+HB NO. 790
+1 (d) Document the approximate time and method that contact with an
+2 immediate family member is successfully made.
+3 B.(1) In the event an inmate suffers a life-threatening medical emergency
+4 that requires hospitalization or emergency surgery, the warden, facility administrator,
+5 or designated official shall make all reasonable efforts to notify an immediate family
+6 member within thirty minutes of the inmate's transport to an external medical
+7 facility.
+8 (2) Notification shall include all of the following:
+9 (a) The nature of the medical emergency, to the extent known.
+10 (b) The medical facility where the inmate was transported.
+11 (c) The contact information for the medical facility.
+12 (d) The contact person at the medical facility for follow-up information.
+13 C.(1) Any notification that is made pursuant to this Section shall be
+14 documented in writing and include all of the following:
+15 (a) The confirmed time of death or approximate time of the critical medical
+16 emergency.
+17 (b) The approximate time of notification attempts.
+18 (c) The method of notification.
+19 (d) The person notified and relationship of that person to the inmate.
+20 (e) The approximate time that contact with an immediate family member was
+21 successfully made.
+22 (f) The name of staff member who provided the notification.
+23 (2) The correctional facility shall document and maintain all information
+24 pertaining to notification in the file of the inmate and provide this information to
+25 immediate family members upon request.
+26 D. Failure to comply with the notification requirements of this Section shall
+27 result in any of the following:
+28 (1) An administrative investigation of the warden, facility administrator, and
+29 any other responsible staff.
+Page 10 of 16
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-895 ORIGINAL
+HB NO. 790
+1 (2) Disciplinary action that may include termination.
+2 (3) A civil penalty of not more than one thousand dollars per day for each
+3 day family notification is delayed beyond the required time period, payable to either
+4 the immediate family member or the estate of the inmate.
+5 §1199.41. Reporting; oversight
+6 A. The department shall submit an annual report to the legislature not later
+7 than March first with all of the following information:
+8 (1) Compliance rates with cardiopulmonary resuscitation certification
+9 requirements by facility.
+10 (2) The number and types of medical emergencies in correctional facilities.
+11 (3) Response times and outcomes.
+12 (4) The number of inmates trained in cardiopulmonary resuscitation.
+13 (5) Staff screening results and contraband interdiction rates.
+14 (6) Civil actions and criminal prosecutions instituted under this Part.
+15 (7) Family notification compliance rates.
+16 (8) Recommendations for response improvement to inmate medical
+17 emergencies.
+18 B. The Louisiana legislative auditor shall conduct random audits of
+19 correctional facilities to ensure compliance with this Part. Audit findings shall be
+20 made public and reported to the legislature.
+21 §1199.42. Funding
+22 A.(1) The legislature shall appropriate sufficient funds to the department for
+23 implementation of this Part that include all of the following:
+24 (a) Initial and ongoing cardiopulmonary resuscitation training costs.
+25 (b) Purchase and maintenance of automated external defibrillator equipment.
+26 (c) Staff screening program costs.
+27 (d) Inmate training program costs.
+28 (2) Correctional facilities may seek grants from federal and private sources
+29 to offset implementation costs.
+Page 11 of 16
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-895 ORIGINAL
+HB NO. 790
+1 B. No correctional facility shall charge an inmate or his family any fee
+2 related to a medical emergency response, cardiopulmonary resuscitation training, or
+3 family notification required under this Part.
+4 §1199.43. Severability
+5 If any provision of this Part or the application thereof is held invalid, such
+6 invalidity shall not affect other provisions or applications of this Part which can be
+7 given effect without the invalid provisions or applications, and to this end the
+8 provisions of this Part are hereby declared severable.
+9 Section 2. R.S. 15:1199.44 is hereby enacted to read as follows:
+10 §1199.44. Rulemaking
+11 A. The department shall promulgate rules and regulations necessary to
+12 implement the provisions of this Part within one hundred eighty days of the effective
+13 date of this Section. These rules and regulations shall include, but not be limited to
+14 all of the following:
+15 (1) Specific cardiopulmonary resuscitation and automated external
+16 defibrillator training curricula and standards.
+17 (2) Staff screening protocols and procedures.
+18 (3) Incident reporting and investigation procedures.
+19 (4) Family notification protocols.
+20 (5) Monitoring and compliance mechanisms.
+21 Section 3. Code of Criminal Procedure Article 62(C) is hereby amended and
+22 reenacted to read as follows:
+23 Art. 62. Authority of attorney general; supervision of district attorney
+24 * * *
+25 C. In any criminal action or proceeding involving a homicidal death or a
+26 violation of R.S. 15:1199.39, if deemed necessary for the assertion or protection of
+27 the rights and interests of the state, and in accordance with the provisions of Article
+28 IV, Section 8 of the Constitution of Louisiana, the attorney general may, with the
+Page 12 of 16
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-895 ORIGINAL
+HB NO. 790
+1 consent of the district attorney, investigate, prosecute or intervene in the action or
+2 proceeding.
+3 * * *
+4 Section 4. This Section and Section 2 of this Act shall become effective upon
+5 signature by the governor or, if not signed by the governor, upon expiration of the time for
+6 bills to become law without signature by the governor, as provided by Article III, Section
+7 18 of the Constitution of Louisiana. If vetoed by the governor and subsequently approved
+8 by the legislature, this Act shall become effective on the day following such approval.
+9 Section 5. This Section and Sections 1 and 3 of this Act shall become effective on
+10 January 1, 2027.
+DIGEST
+The digest printed below was prepared by House Legislative Services. It constitutes no part
+of the legislative instrument. The keyword, one-liner, abstract, and digest do not constitute
+part of the law or proof or indicia of legislative intent. [R.S. 1:13(B) and 24:177(E)]
+HB 790 Original 2026 Regular Session Jordan
+Abstract: Provides relative to medical emergency preparedness in correctional facilities.
+Proposed law shall be known and may be cited as the "La. Correctional Facility Medical
+Emergency Response and Accountability Act".
+Proposed law defines the terms "automated external defibrillator", "cardiopulmonary
+resuscitation", "chaplain", "correctional facility", "correctional officer", "department",
+"immediate family member", and "medical emergency".
+Proposed law provides that every correctional officer employed and every chaplain who
+provides services within a correctional facility in La. shall obtain and maintain a current
+certification in cardiopulmonary resuscitation (CPR) and automated external defibrillator
+(AED) use from the American Heart Assoc., American Red Cross, or equivalent
+organization approved by the LDH.
+Proposed law provides for timelines for the obtaining of initial certification and
+recertification.
+Proposed law requires the warden of each correctional facility to maintain documentation
+of all staff certifications and establish a tracking system to ensure timely recertification.
+Proposed law provides for the requirements to be included within CPR training.
+Proposed law requires every correctional facility to maintain a sufficient number of
+operational AED's to ensure that at least one AED is available within a three-minute
+response time from any location within the facility where inmates are housed or congregate.
+Page 13 of 16
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-895 ORIGINAL
+HB NO. 790
+Proposed law provides for a list of locations where every correctional facility is required to
+maintain at least one AED and requires the maintenance of one portable AED for emergency
+response teams.
+Proposed law provides for monthly inspections of AED's, maintenance of inspection records,
+and other AED requirements.
+Proposed law requires each correctional facility to establish a voluntary inmate CPR training
+program to train eligible inmates in basic CPR techniques and to develop, in consultation
+with the LDH, a curriculum and eligibility criteria for inmate participants.
+Proposed law provides relative to inmate eligibility to volunteer for CPR training, priority
+for assignment of inmate work details, diminution of sentence considerations, clarification
+on the designation as a first responder, and the duty to render aid.
+Proposed law provides that all correctional officers and staff with direct inmate contact shall
+be subject to unannounced screening for contraband at random intervals, but no less than on
+a quarterly basis.
+Proposed law provides for the conditions included in screening methods.
+Proposed law requires the DPS&C to establish standardized protocols for staff screening that
+respect employee dignity while ensuring facility security, provides for the entities tasked
+with conducting the screening, and requires documentation and maintenance of records.
+Proposed law provides that any correctional officer or staff member who is confirmed to
+have introduced contraband into a correctional facility shall be subject to certain disciplinary
+measures and potential criminal prosecution.
+Proposed law provides that all correctional officers and staff have an affirmative duty to
+render immediate aid and summon emergency medical services upon discovery or
+notification of an inmate experiencing a medical emergency. Further defines what is
+included within the term "render aid".
+Proposed law prohibits a correctional officer or staff member from engaging in certain
+conduct as it relates to medical emergencies or responses to medical emergencies.
+Proposed law requires that any medical emergency involving an inmate be documented in
+an incident report within two hours of the event. Further provides for the information that
+is to be included within the documentation.
+Proposed law provides that an inmate who suffers an injury, or the estate or immediate
+family member of a deceased inmate, may bring a civil action against any correctional
+officer or staff member who does any of the following:
+(1) Fails to render aid during a medical emergency in violation of proposed law.
+(2) Acts with deliberate indifference to the serious medical needs of the inmate.
+(3) Recklessly or intentionally delays medical response.
+Proposed law provides that each correctional facility and its governing authority may be held
+liable for certain acts or omissions.
+Proposed law authorizes the recovery of certain damages and relief for a prevailing plaintiff.
+Proposed law provides that the plaintiff shall have the burden of proving all elements of his
+claim by a preponderance of the evidence and that evidence of a defendant's failure to
+Page 14 of 16
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-895 ORIGINAL
+HB NO. 790
+comply with the requirements of proposed law shall create a rebuttable presumption of
+negligence.
+Proposed law provides that no correctional officer or staff member with knowledge of a
+medical emergency involving an inmate shall intentionally, knowingly, or with gross
+negligence do any of the following:
+(1) Fail to render aid or summon emergency medical services as required under
+proposed law, and such failure results in serious bodily injury or death of the inmate.
+(2) Interfere with, delay, or prevent a response to a medical emergency.
+(3) File a false report concerning a response to a medical emergency or falsify
+documentation required under proposed law.
+Proposed law provides for penalties as follows:
+(1) For the failure to render aid or summon emergency medical services, a fine of not
+less than $5,000 nor more than $25,000, imprisonment with or without hard labor for
+not less than one year nor more than five years, or both. In addition, the offender
+shall be prohibited from employment in any correctional facility or law enforcement
+agency in La.
+(2) For the interference with, delay, or prevention of a response to a medical emergency,
+a fine of not less than $1,000 nor more than $10,000, imprisonment with or without
+hard labor for not more than two years, or both. In addition, the offender shall be
+suspended or terminated from employment at the correctional facility.
+(3) For the filing of a report or falsification of documentation, a fine of not less than
+$1,000 nor more than $5,000, imprisonment with or without hard labor for not more
+than six months, or both.
+Proposed law shall not be construed to prevent prosecution under any other applicable
+provision of law.
+Proposed law requires the warden, facility administrator, or designated official to make all
+reasonable efforts, in the event of the death of an inmate, to notify an immediate family
+member of an inmate within 30 minutes of the time of death as confirmed by medical
+personnel.
+Proposed law provides for notification methods in order of preference.
+Proposed law provides for duties of a correctional facility if an immediate family member
+is unable to be contacted within 30 minutes.
+Proposed law requires the warden, facility administrator, or designated official to make all
+reasonable efforts, in the event an inmate suffers a life-threatening medical emergency that
+requires hospitalization or emergency surgery, to notify an immediate family member within
+30 minutes of the inmate's transport to an external medical facility.
+Proposed law provides for the information to be included in the notification to an immediate
+family member and requires the correctional facility to document and maintain all
+information pertaining to notification.
+Proposed law provides for administrative and civil penalties for the failure to comply with
+the notification requirements of proposed law.
+Page 15 of 16
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-895 ORIGINAL
+HB NO. 790
+Proposed law requires the DPS&C to submit an annual report to the Legislature not later
+than March 1st with certain information.
+Proposed law requires the La. Legislative Auditor to conduct random audits of correctional
+facilities to ensure compliance with proposed law and provides that audit findings shall be
+made public and reported to the legislature.
+Proposed law requires the legislature to appropriate sufficient funds for certain purposes to
+the DPS&C for implementation of proposed law.
+Proposed law authorizes correctional facilities to seek grants from federal and private
+sources to offset implementation costs.
+Proposed law provides that no correctional facility shall charge an inmate or his family any
+fee related to a medical emergency response, CPR training, or family notification required
+under proposed law.
+Proposed law provides for severability.
+Proposed law requires the DPS&C to promulgate rules and regulations necessary to
+implement the provisions of proposed law within 180 days of the effective date of proposed
+law and provides what is to be included in these rules and regulations.
+Present law (C.Cr.P. Art. 62) provides for the authority of attorney general relative to
+supervision of district attorneys in this state.
+Proposed law retains present law.
+Present law permits the attorney general, with the consent of the district attorney, to
+investigate, prosecute or intervene in any criminal action or proceeding involving a
+homicidal death, if deemed necessary for the assertion or protection of the rights and
+interests of the state.
+Proposed law amends present law to permit the attorney general to investigate, prosecute,
+or intervene in any criminal action or proceeding involving a violation of proposed law
+relative to medical emergencies involving inmates.
+Proposed law relative to the rulemaking responsibilities of DPS&C shall become effective
+upon signature of governor or lapse of time for gubernatorial action.
+Proposed law that enacts the "La. Correctional Facility Medical Emergency Response and
+Accountability Act" and provides relative to the authority of attorney general shall become
+effective on Jan. 1, 2027.
+(Amends C.Cr.P. Art. 62(C); Adds R.S. 15:1199.31-1199.44)
+Page 16 of 16
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.

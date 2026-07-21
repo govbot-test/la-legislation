@@ -1,0 +1,725 @@
+Title: 
+Official Title: 
+Source: versions - SB399 Engrossed
+Media Type: application/pdf
+
+================================================================================
+
+SLS 26RS-642 ENGROSSED
+2026 Regular Session
+SENATE BILL NO. 399
+BY SENATORS BASS, HODGES AND MIGUEZ
+COLLEGES/UNIVERSITIES. Creates the Louisiana Higher Education Research Security
+Council. (1/1/27)
+1 AN ACT
+2 To enact Part III-D of Chapter 5 of Title 17 of the Louisiana Revised Statutes of 1950, to be
+3 comprised of R.S. 17:1828 through 1828.11, relative to institutions of higher
+4 education; to create the Louisiana Higher Education Research Security Council; to
+5 provide for definitions; to provide relative to council responsibilities; to provide for
+6 requirements for gifts, contracts, research partnerships, and academic partnerships
+7 from foreign adversaries; to provide for penalties; to provide relative to international
+8 cultural agreements; to provide relative to travel and gift prohibitions; to provide
+9 relative to research partnerships; to provide relative to educational software linked
+10 to foreign adversaries; to provide relative to political parties and members; to
+11 provide relative to the theft of trade secrets; to provide for severability; to provide
+12 for an effective date; and to provide for related matters.
+13 Be it enacted by the Legislature of Louisiana:
+14 Section 1. Part III-D of Chapter 5 of Title 17 of the Louisiana Revised Statutes of
+15 1950, comprised of R.S. 17:1828 through 1828.11, is hereby enacted to read as follows:
+16 PART III-D. RESEARCH AND EDUCATION PROTECTION ACT OF 2026
+17 §1828. Short title; purpose
+Page 1 of 20
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-642 ENGROSSED
+SB NO. 399
+1 A. This Part shall be known and cited as the "Research and Education
+2 Protection Act of 2026".
+3 B. The purpose of this Part is to protect Louisiana's research and
+4 educational systems from malicious influence from foreign adversaries.
+5 §1828.1. Definitions
+6 As used in this Part, the following terms have the following meanings
+7 unless the context clearly indicates otherwise:
+8 (1) "Academic partnership" shall mean a formal collaboration between
+9 two or more educational or research institutions to achieve shared goals in
+10 teaching, research, or innovation.
+11 (2) "Affiliate organization" shall mean any entity under the control of
+12 or established for the benefit of an organization required to report under this
+13 Part, including a direct-support organization.
+14 (3) "Agreement" means a written or spoken statement of mutual interest
+15 in cultural exchange, academic, or research collaboration.
+16 (4) "Contract" shall mean any agreement for the acquisition by
+17 purchase, lease, or barter of property or services, for the direct benefit or use
+18 of either of the parties.
+19 (5) "Council" shall mean the Louisiana Higher Education Research
+20 Security Council established under this Part.
+21 (6) "Direct-support organization" shall mean an organization which is
+22 organized and operated to receive, hold, invest, and administer property and to
+23 make expenditures to or for the benefit of a state college, university, or other
+24 educational institution or for the benefit of a research and development park or
+25 research and development authority affiliated with a state college, university,
+26 or other educational institution.
+27 (7) "Foreign adversary" shall mean those countries listed as foreign
+28 adversaries in 15 CFR 791.4 and those countries and entities designated as
+29 foreign terrorist organizations by the United States Secretary of State in
+Page 2 of 20
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-642 ENGROSSED
+SB NO. 399
+1 accordance with Section 219 of the Immigration and Naturalization Act, as
+2 amended, including any agent of or any other entity under significant control
+3 of such foreign adversary. If a nation is added to 15 CFR 791.4, the Louisiana
+4 Higher Education Research Security Council shall meet at the earliest possible
+5 opportunity to provide guidance to the systems of higher education on existing
+6 agreements.
+7 (8) "Foreign agent" shall mean any officer, employee, proxy, servant,
+8 delegate, or representative of a foreign government.
+9 (9) "Foreign government" shall mean the government of any country,
+10 nation, or group of nations, or any province or other political subdivision of any
+11 country or nation, other than the government of the United States, including
+12 any agent of such foreign government.
+13 (10) "Foreign instrumentality" shall mean any agency, bureau, ministry,
+14 component, institution, association, or any legal, commercial, or business
+15 organization, corporation, firm, or entity that is substantially owned, controlled,
+16 sponsored, commanded, managed, or dominated by a foreign government.
+17 (11) "Foreign source" shall mean any of the following:
+18 (a) A foreign government or an agency of a foreign government.
+19 (b) A legal entity, governmental or otherwise, created solely under the
+20 laws of a foreign state or states.
+21 (c) An individual who is not a citizen or a national of the United States
+22 or a territory or protectorate of the United States.
+23 (d) A partnership, association, corporation, organization, or any other
+24 combination of persons organized under the law or having its principal place
+25 of business in a foreign country, or a subsidiary of such entity.
+26 (e) An agent, including a subsidiary or an affiliate of a foreign legal
+27 entity, acting on behalf of a foreign source.
+28 (f) A political party or member of a political party.
+29 (12) "Gift" shall mean any gift, grant, endowment, award, or donation
+Page 3 of 20
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-642 ENGROSSED
+SB NO. 399
+1 of money or thing of economic value, or any combination thereof, including a
+2 conditional or unconditional pledge of such gift, endowment, award, or
+3 donation.
+4 (13) "Grant" shall mean a transfer of money for a specified purpose,
+5 including a conditional gift.
+6 (14) "Institution of higher education" shall mean a state college or
+7 university or an independent nonprofit college or university that is located in
+8 and charted by the state and grants baccalaureate or higher degrees, or any
+9 other institution that has a physical presence in the state and is required to
+10 report foreign gifts or contracts pursuant to 20 U.S.C. §1011f, or an affiliate
+11 organization to a covered institution.
+12 (15) "Interest" in an entity shall mean any direct or indirect investment
+13 in or loan to the entity valued at five percent or more of the entity's net worth,
+14 or any form of direct or indirect control exerting similar or greater influence
+15 on the governance of the entity.
+16 (16) "Obtain or use" shall mean any manner of:
+17 (a) Taking or exercising control over property.
+18 (b) Making any unauthorized use, disposition, or transfer of property.
+19 (c) Obtaining property by fraud, willful misrepresentation of a future
+20 act, or false promise.
+21 (d) Conduct previously known as stealing, larceny, purloining,
+22 abstracting, embezzlement, misapplication, misappropriation, conversion, or
+23 obtaining money or property by false pretenses, fraud, or deception; or other
+24 conduct similar in nature.
+25 (17) "Partnership" shall mean a faculty or student exchange program,
+26 a study abroad program, a matriculation program, a recruiting program, or a
+27 dual degree program.
+28 (18) "Person" shall mean any natural person, corporation, business
+29 trust, estate, trust, partnership, association, joint venture, government,
+Page 4 of 20
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-642 ENGROSSED
+SB NO. 399
+1 governmental subdivision or agency, or any other legal or commercial entity.
+2 (19) "Pledge" shall mean a promise, an agreement, or an expressed
+3 intention to give a gift.
+4 (20) "Political party" shall mean an organization or combination of
+5 individuals whose aim or purpose is, or who is engaged in any activity devoted
+6 in whole or in part to, the establishment, administration, control, or acquisition
+7 of administration or control of a government of a foreign country or a
+8 subdivision thereof.
+9 (21) "Research partnership" shall mean a collaborative agreement
+10 between a Louisiana institution of higher education and another institution of
+11 higher education, research institute, government agency, nonprofit
+12 organization, or private sector company.
+13 (22) "Trade secret" shall mean the whole or any portion or phase of any
+14 formula, pattern, device, combination of devices, or compilation of information
+15 which is for use, or is used, in the operation of a business and which provides
+16 the business an advantage, or an opportunity to obtain an advantage, over those
+17 who do not know or use it. The term shall include any scientific, technical, or
+18 commercial information, including financial information. It also includes any
+19 design, process, procedure, list of suppliers, list of customers, business code, or
+20 improvement thereof, whether tangible or intangible, and regardless of how it
+21 is stored, compiled, or memorialized physically, electronically, graphically,
+22 photographically, or in writing. Irrespective of novelty, invention, patentability,
+23 the state of the prior art, and the level of skill in the business, art, or field to
+24 which the subject matter pertains; a trade secret is considered to be:
+25 (a) Secret.
+26 (b) Of value.
+27 (c) For use or in use by a business, institution of higher education,
+28 research center, nonprofit, or other entity.
+29 (d) Of advantage to the business, institution of higher education,
+Page 5 of 20
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-642 ENGROSSED
+SB NO. 399
+1 research center, nonprofit, or other entity; or providing an opportunity to
+2 obtain an advantage over those who do not know or use it.
+3 (e) When the owner takes measures to prevent it from becoming
+4 available to persons other than those selected by the owner to have access for
+5 limited purposes.
+6 (23) "Traffic" shall mean:
+7 (a) To sell, transfer, distribute, dispense, or otherwise dispose of
+8 property.
+9 (b) To buy, receive, possess, obtain control of, or use property with the
+10 intent to sell, transfer, distribute, dispense, or otherwise dispose of such
+11 property.
+12 §1828.2. Louisiana Higher Education Research Security Council; creation;
+13 powers
+14 A. The Louisiana Higher Education Research Security Council is hereby
+15 established for the purpose of promoting secure academic research at
+16 institutions of higher education while mitigating the risk of foreign espionage
+17 and interference.
+18 B. The council shall be composed of the following members:
+19 (1) The lieutenant governor, or his designee.
+20 (2) The attorney general, or his designee.
+21 (3) A representative from the Board of Regents.
+22 (4) One research security officer appointed by the Board of Supervisors
+23 for the University of Louisiana System.
+24 (5) One research security officer appointed by the Board of Supervisors
+25 of Louisiana State University and Agricultural and Mechanical College.
+26 (6) One research security officer appointed by the Board of Supervisors
+27 of Southern University and Agricultural and Mechanical College.
+28 (7) One research security officer appointed by the Board of Supervisors
+29 of Community and Technical Colleges.
+Page 6 of 20
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-642 ENGROSSED
+SB NO. 399
+1 (8) One research security officer appointed by the Board of Directors of
+2 the Louisiana Association of Independent Colleges and Universities.
+3 (9) One additional research security officer appointed by each governing
+4 board of a university that oversees one or more medical schools.
+5 (10) Three faculty members with research experience, one designated by
+6 the chief academic officer of the Louisiana State University System, one
+7 designated by the chief academic officer of the University of Louisiana System,
+8 and one designated by the chief academic officer of the Southern University
+9 System.
+10 (11) The chairman of the House Select Committee on Homeland
+11 Security, or his designee.
+12 (12) The chairman of the Senate Select Committee on Homeland
+13 Security, or his designee.
+14 (13) The superintendent of the Louisiana State Police, or his designee.
+15 (14) The chief information officer of the office of technology services, or
+16 his designee.
+17 (15) The lead special agent of the Federal Bureau of Investigation, New
+18 Orleans Field Office, or his designee, shall be invited as a nonvoting ex officio
+19 member.
+20 C. The council member appointed by the Board of Regents shall serve
+21 as the chairman of the council. The Board of Regents shall staff the council.
+22 D. The council shall meet at least quarterly, but may meet more often
+23 upon the call of the presiding officer, who shall call a meeting upon the request
+24 of a majority of the members. Members of the council shall serve at the pleasure
+25 of the appointing authority and vacancies shall be filled in the manner of the
+26 original appointment.
+27 E. The council shall:
+28 (1) Develop or adopt a model research security policy for Louisiana
+29 institutions of higher education to improve research security.
+Page 7 of 20
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-642 ENGROSSED
+SB NO. 399
+1 (2) Develop, offer or otherwise provide an annual training program for
+2 institutions of higher education's research security officers that includes
+3 background and academic history checks of researchers, research security and
+4 integrity tools, and software that must be used to prevent the loss of intellectual
+5 capital.
+6 (3) Vet and review any gift, contract, or academic or research
+7 partnership to an institution of higher education from a foreign adversary
+8 source.
+9 (4) Subject to appropriation, engage an intelligence firm that specializes
+10 in identifying national security threats from foreign adversary sources.
+11 (5) Not later than January thirty-first of each even-numbered year, the
+12 council shall prepare and submit to the governor, the attorney general's office,
+13 and the Senate and House committees on education a report on the status of
+14 research security at institutions of higher education and any associated
+15 recommendations.
+16 §1828.3. Approval requirements for gifts, contracts, research partnerships, and
+17 academic partnerships from foreign adversaries
+18 A. Any institution of higher education that is offered directly or
+19 indirectly any gift, contract, or academic or research partnership with any value
+20 from a foreign source of a foreign adversary nation shall reject such proposed
+21 gift, contract, or academic or research partnership unless the following
+22 conditions are met by the institution of higher education:
+23 (1) Within thirty days of receiving a proposal for the gift, contract,
+24 academic or research partnership, the institution shall request an assessment
+25 from federal law enforcement on potential national security risks, and after
+26 receiving the assessment, it shall be submitted to the Louisiana Higher
+27 Education Research Security Council along with the request for approval of the
+28 proposed gift, contract, academic, or research partnership. The council shall
+29 have veto authority over such academic and research partnerships with a simple
+Page 8 of 20
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-642 ENGROSSED
+SB NO. 399
+1 majority vote of all council members.
+2 (2) The Board of Regents shall maintain a public web portal disclosing
+3 proposed gifts, contracts, or academic or research partnerships from foreign
+4 adversary sources described in this Section, along with the final decision on
+5 whether to allow the relevant institution of higher education to accept the gift.
+6 (3) For purposes of this Section, a gift, contract, or academic or research
+7 partnership received from a foreign adversary source through an intermediary
+8 shall be considered an indirect gift, contract, or partnership with the institution
+9 of higher education, and is subject to the approval process described in this
+10 Section.
+11 (4) Upon the request of the governor, the president of the Senate, or the
+12 speaker of the House of Representatives, the legislative auditor, as applicable,
+13 must inspect or audit a gift, contract, or academic or research partnership.
+14 B. An institution of higher education or employee thereof shall not enter
+15 into any contract, academic partnership, or research partnership with a foreign
+16 adversary source for any project that is funded in whole or in part by the
+17 United States Department of War, United States Department of Energy, or
+18 United States Department of Health and Human Services.
+19 C. An institution of higher education or employee thereof shall not enter
+20 into any contract, academic partnership, or research partnership with a foreign
+21 adversary source with known links to the foreign adversary's military or
+22 intelligence apparatus.
+23 D. All institutions of higher education shall include in their employment
+24 policies a prohibition on their faculty or employees taking part in any foreign
+25 recruitment program by a foreign adversary nation.
+26 §1828.4. Enforcement; penalties; rewards
+27 A. Upon receiving a referral from an officer of an institution of higher
+28 education or any sworn complaint based upon substantive information and
+29 reasonable belief, the attorney general must investigate an allegation of
+Page 9 of 20
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-642 ENGROSSED
+SB NO. 399
+1 violation of this Part.
+2 B. Any agent or compliance officer authorized by an institution of higher
+3 education may request records relevant to any reasonable suspicion of a
+4 violation of this Part. An institution of higher education must provide the
+5 required records within ten days after such request or later agreed to by the
+6 entity investigating the institution of higher education.
+7 C. Failure to make a disclosure required under this Part or failure to
+8 provide records requested under Subsection B of this Section constitutes a civil
+9 violation punishable upon a final administrative finding.
+10 D. A final order determining a violation by an institution of higher
+11 education must include a determination of the identity of the officer responsible
+12 for acceptance of the undisclosed gifts or contracts, or entrance into the
+13 undisclosed academic or research partnership. Such order must also include a
+14 referral to the system president or other officer authorized to suspend or
+15 remove from public office the officer responsible for acceptance of the
+16 undisclosed gifts or contracts or entrance into the undisclosed academic or
+17 research partnership. A copy of such referral must be provided to the president
+18 of the Senate, the speaker of the House of Representatives, the governor, and
+19 the Louisiana Higher Education Research Security Council for oversight of
+20 such suspension and removal authority.
+21 E. A whistleblower who reports an undisclosed foreign gift or contract
+22 may also report such undisclosed gift or contract to the attorney general's office
+23 and retain whistleblower protection under R.S. 23:967. Such whistleblower shall
+24 be entitled to receive a reward in the amount of twenty-five percent of any
+25 penalty recovered. The attorney general is authorized to incur expenditures to
+26 provide such reward from the penalty recovery. The reward may be paid
+27 through an intermediate attorney or trustee designated by the whistleblower.
+28 F. The council may adopt policies, as applicable, to implement this
+29 Section. Institutions of higher education shall be in compliance with such
+Page 10 of 20
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-642 ENGROSSED
+SB NO. 399
+1 policies.
+2 §1828.5. International cultural exchange agreements and student associations
+3 A. An institution of higher education may not participate in any cultural
+4 exchange agreement with a foreign source from a foreign adversary, or any
+5 entity controlled by foreign adversaries unless it addresses an overwhelmingly
+6 under-addressed state or national need and it avoids:
+7 (1) Constraining the freedom of contract of such public entity.
+8 (2) Allowing the curricula or values of a program in the state to be
+9 directed, controlled, or influenced by the foreign adversaries.
+10 (3) Promoting an agenda detrimental to the safety or security of
+11 Louisiana, its residents, or the United States.
+12 B. Prior to the execution of any cultural exchange agreement with a
+13 foreign source from a foreign adversary, the substance of the agreement shall
+14 be shared with a federal law enforcement agency. If the federal agency provides
+15 information suggesting that such an agreement promotes an agenda detrimental
+16 to the safety or security of Louisiana, the United States, or its residents, the
+17 institution of higher education may not enter into the agreement.
+18 C. Prior to the execution of any cultural exchange agreement with a
+19 foreign source from a foreign adversary, the substance of the agreement shall
+20 be shared with the Louisiana Higher Education Research Security Council. If
+21 the council provides information suggesting that such an agreement promotes
+22 an agenda detrimental to the safety or security of Louisiana, the United States,
+23 or its residents, the institution of higher education may not enter into the
+24 agreement.
+25 D. Each institution of higher education shall submit the information
+26 required in this Section to the Board of Regents by July first of each year.
+27 E. By January thirty-first of each year, the Board of Regents shall
+28 submit a report to the governor, the president of the Senate, and the speaker of
+29 the House of Representatives relating to partnerships and agreements of
+Page 11 of 20
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-642 ENGROSSED
+SB NO. 399
+1 institutions of higher education made with educational institutions or other
+2 institutions based in foreign adversaries. At a minimum, the report must
+3 include the following information for the previous fiscal year:
+4 (1) Data reflecting any grant program, agreement, partnership, or
+5 contract between an institution of higher education and any college, university,
+6 or entity that is based in or controlled by a foreign adversary.
+7 (2) Data reflecting any office, campus, or physical location used or
+8 maintained by an institution of higher education in a foreign adversary.
+9 (3) The date on which any such grant program, agreement, partnership,
+10 or contract reported pursuant to this Section is expected to terminate.
+11 F. No student or scholar association affiliated with any institution of
+12 higher education may accept any gift or grant from a foreign source of a foreign
+13 adversary or enter into any contract or agreement with a foreign source of a
+14 foreign adversary, or be directed or controlled by the government of a foreign
+15 adversary or any agent thereof.
+16 (1) Any violation of this Section shall result in the institution of higher
+17 education ending any affiliation with the student or scholar association.
+18 (2) For purposes of this Subsection, member dues or fees shall not be
+19 considered a gift or grant from a foreign source of a foreign adversary.
+20 G. The Board of Regents governing board of each institution of higher
+21 education shall adopt rules and regulations, respectively, to administer this
+22 Section in consultation with the Council and a third-party advisor, including
+23 but not limited to an intelligence firm.
+24 §1828.6. Foreign travel and gifts; prohibition
+25 A. Unless requested by a federal agency, the governor, the president of
+26 the Senate, or the speaker of the House of Representatives, an employee,
+27 researcher, or volunteer of an institution of higher education of this state may
+28 not:
+29 (1) Accept transportation or lodging in a country that is a foreign
+Page 12 of 20
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-642 ENGROSSED
+SB NO. 399
+1 adversary and that is paid for by the foreign adversary or a foreign adversary
+2 source because of the employee's or volunteer's position with the state or
+3 political subdivision.
+4 (2) Accept a gift or item of value from a person representing a foreign
+5 adversary for any purpose, including to pay for travel expenses or as
+6 reimbursement for the costs of attending a conference or other event in a
+7 country that is a foreign adversary or that is hosted on behalf of a foreign
+8 adversary or a principal of a foreign adversary.
+9 B. An employee or volunteer of an institution of higher education of this
+10 state shall report to the Louisiana Higher Education Security Council, in the
+11 form and manner the council requires, each interaction, communication, or
+12 meeting the employee, researcher, or volunteer has with a person acting on
+13 behalf of a foreign adversary not later than thirty days after the date of the
+14 interaction, communication, or meeting. The Louisiana Legislative Auditor
+15 shall make available a report under this Subsection to the attorney general and
+16 the Louisiana Department of Public Safety on request.
+17 §1828.7. Research partnerships
+18 A. An institution of higher education shall only enter into a new or renew
+19 an existing research partnership with an academic or research institution,
+20 business, or nonprofit located in a foreign adversary if the institution of higher
+21 education maintains sufficient structural safeguards to protect the state
+22 institution's intellectual property, the security of the state of Louisiana, and the
+23 national security interests of the United States. The Louisiana Higher Education
+24 Research Security Council shall only approve an institution of higher
+25 education's partnership if the council determines the partnership meets the
+26 safeguard requirements prescribed under this Section. The safeguard
+27 requirements shall include but not limited to the following:
+28 (1) Compliance with all federal requirements, including the
+29 requirements of federal research sponsors and federal export control agencies,
+Page 13 of 20
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-642 ENGROSSED
+SB NO. 399
+1 including regulations regarding international traffic in arms and export
+2 administration regulations, and economic and trade sanctions administered by
+3 the federal office of foreign assets control.
+4 (2) Annual formal institution level programs for faculty on conflicts of
+5 interest and conflicts of commitment.
+6 (3) An overwhelming state interest to enter into the research or academic
+7 partnership.
+8 (4) There are no alternative institutions to engage with for a similar
+9 research or academic partnership.
+10 (5) A formalized foreign visitor process and uniform visiting scholar
+11 agreement.
+12 B. The Louisiana Higher Education Research Security Council shall
+13 have full discretion to reject or terminate any research partnership between an
+14 institution of higher education and an academic or research institution located
+15 in a foreign adversary at any time and for any purpose.
+16 C. The Board of Regents, in consultation with the office of the governor,
+17 shall create a research and cultural exchange policy which shall prioritize
+18 research partnerships and academic exchange agreements with America's
+19 military treaty allies, Israel and the Republic of China (Taiwan).
+20 §1828.8. Foreign educational software
+21 A. The Board of Regents, in conjunction with the office of technology
+22 services, shall conduct a thorough review of all educational software used by
+23 institutions of higher education that may be linked to foreign adversaries. The
+24 Board of Regents, in conjunction with the office of technology services, shall
+25 develop a plan to eliminate the usage of educational software from foreign
+26 adversary countries, as defined in 15 CFR 791.4, in each of the respective
+27 systems.
+28 B. The Board of Regents, in conjunction with the office of technology
+29 services, shall promulgate rules and regulations prohibiting the future
+Page 14 of 20
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-642 ENGROSSED
+SB NO. 399
+1 contracting with educational technology and software-providing entities
+2 domiciled in, or owned by companies or other entities domiciled in, foreign
+3 adversary countries as defined in 15 CFR 791.4, in each of the respective
+4 systems.
+5 §1828.9. Political parties and members
+6 A. The managing board of each institution of higher education in this
+7 state shall adopt the following policies:
+8 (1) No branch, cell, subsidiary, or affiliate organization of the Chinese
+9 Communist Party shall be allowed to operate on or use any property of any
+10 institution of higher education in this state.
+11 (2) No members of the Chinese Communist Party, People's Liberation
+12 Army, any Chinese intelligence agency, or any affiliate or subsidiary thereof,
+13 shall enroll in any Louisiana institution of higher education nor receive
+14 employment or research opportunities in any Louisiana institution of higher
+15 education.
+16 B. A student, academic, or researcher, who matriculates from the
+17 People's Republic of China, shall sign an affidavit to certify that the student is
+18 not a member of the Chinese Communist Party, People's Liberation Army, any
+19 Chinese intelligence agency, or any affiliate or subsidiary thereof.
+20 §1828.10. Theft of trade secrets
+21 Any theft of trade secrets or trafficking thereof from a Louisiana
+22 institution of higher education on behalf of a foreign source of a foreign
+23 adversary nation shall be charged as a crime under R.S. 14:67 with a penalty
+24 one classification level higher than theft of equal value covered under R.S.
+25 14:67. For theft of trade secrets of twenty-five thousand dollars or more, the
+26 penalty shall be imprisonment at hard labor for not less than five years and not
+27 more than twenty-five years.
+28 §1828.11. Severability
+29 If any provision of this Part, or the application of any provision to any
+Page 15 of 20
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-642 ENGROSSED
+SB NO. 399
+1 person or circumstance, is held to be invalid, the remainder of this Part and the
+2 application of its provisions to any other person or circumstance shall not be
+3 affected thereby.
+4 Section 2. This Act shall become effective on January 1, 2027. If vetoed by the
+5 governor and subsequently approved by the legislature, this Act shall become effective on
+6 the day following such approval by the legislature or January 1, 2027, which ever is later.
+The original instrument and the following digest, which constitutes no part
+of the legislative instrument, were prepared by Senate Legislative Services.
+The keyword, summary, and digest do not constitute part of the law or proof
+or indicia of legislative intent. [R.S. 1:13(B) and 24:177(E)]
+DIGEST
+SB 399 Engrossed 2026 Regular Session Bass
+Proposed law (R.S. 17:1828) will be referred to and may be cited as the "Research and
+Education Protection Act of 2026".
+Proposed law (R.S. 17:1828.1) provides for the following definitions: "Academic
+partnership"; "Affiliate organization"; "Agreement"; "Contract"; "Council"; "Director-
+support organization"; "Foreign adversary"; "Foreign agent"; "Foreign government";
+"Foreign instrumentality"; "Foreign source"; "Gift"; "Grant"; "Institution of higher
+education"; "Interest"; "Obtain or use"; "Partnership"; "Person"; "Pledge"; "Political party";
+"Research partnership"; "Trade secret"; and "Traffic".
+Proposed law (R.S. 17:1828.2) creates the La. Higher Education Research Security Council
+to promote secure academic research at institutions of higher education while mitigating the
+risk of foreign espionage and interference; and be composed of the following members:
+(1) The lieutenant governor, or his designee.
+(2) The attorney general, or his designee.
+(3) A representative from the Board of Regents.
+(4) One research security officer appointed by the Board of Supervisors for the
+University of La. System.
+(5) One research security officer appointed by the Board of Supervisors of L.S.U.
+(6) One research security officer appointed by the Board of Supervisors of Southern
+University.
+(7) One research security officer appointed by the Board of Supervisors of Community
+and Technical Colleges.
+(8) One research security officer appointed by the Board of Directors of the La.
+Association of Independent Colleges and Universities.
+(9) One additional research security officer appointed by each governing board of a
+university that oversees one or more medical schools.
+Page 16 of 20
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-642 ENGROSSED
+SB NO. 399
+(10) Three faculty members with research experience, one designated by the chief
+academic officer of the L.S.U. System, one designated by the chief academic officer
+of the University of La. System and one designated by the chief academic officer of
+the Southern University System.
+(11) The chairman of the House Select Committee on Homeland Security, or his
+designee.
+(12) The chairman of the Senate Select Committee on Homeland Security, or his
+designee.
+(13) The superintendent of the Louisiana State Police, or his designee.
+(14) The chief information officer of the office of technology services, or his designee.
+(15) The lead special agent of the Federal Bureau of Investigation, New Orleans Field
+Office, or his designee, shall be invited as a nonvoting ex officio member.
+Proposed law provides that the council shall do the following:
+(1) Develop or adopt a model research security policy for La. institutions of higher
+education to improve research security.
+(2) Develop, offer or otherwise provide an annual training program for institution of
+higher education's research security officers that includes background and academic
+history checks of researchers, research security and integrity tools, and software that
+must be used to prevent the loss of intellectual capital.
+(3) Vet and review any gift, contract or academic or research partnership to an institution
+of higher education from a foreign adversary source.
+(4) Subject to appropriation, engage an intelligence firm that specializes in identifying
+national security threats from foreign adversary sources.
+(5) Not later than Jan. 31st of each even-numbered year, the council shall prepare and
+submit to the governor, the attorney general's office, and the Senate and House
+committees on education a report on the status of research security at institutions of
+higher education and any associated recommendations.
+Proposed law (R.S. 17:1828.3) provides that any institution of higher education that is
+offered any gift, contract, or academic or research partnership from a foreign adversary
+source or foreign adversary nation must reject the proposed gift, contract, or partnership
+unless certain conditions are met.
+Proposed law provides that, within 30 days of receiving a proposal for the gift, contract,
+academic or research partnership, the college or university shall request an assessment from
+federal law enforcement on potential national security risks, and after receiving the
+assessment, it shall be submitted to the La. Higher Education Research Security Council
+along with the request for approval of the proposed gift, contract, academic, or research
+partnership. The council shall have veto authority over such academic and research
+partnerships with a simple majority vote of all council members.
+Proposed law requires the Board of Regents to maintain a public web portal that discloses
+proposed gifts, contracts, or partnerships from foreign adversary sources, along with the final
+decision on whether to allow the institution to accept the gift.
+Proposed law (R.S. 17:1828.4) provides that upon receiving a referral from an officer of an
+institution or sworn complaint, the attorney general must investigate an allegation of
+Page 17 of 20
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-642 ENGROSSED
+SB NO. 399
+violation; and any agent or compliance officer may request records relevant to the suspicion
+of a violation; an entity must provide the records within 10 days of request or later if agreed
+to.
+Proposed law (R.S. 17:1828.5) provides that an institution may not participate in any cultural
+exchange agreement with a foreign source, or any entity controlled by foreign adversaries
+unless it addresses an overwhelmingly under-addressed state or national need and avoids the
+following:
+(1) Constraining the freedom of contract of such public entity.
+(2) Allowing the curricula or values of a program in the state to be directed, controlled,
+or influenced by the foreign adversaries.
+(3) Promoting an agenda detrimental to the safety or security of La., its residents, or the
+United States.
+Proposed law provides that prior to any execution of a cultural exchange agreement with a
+foreign source, the agreement must be shared with a federal law enforcement agency and the
+La. Higher Education Research Security Council. If the federal agency or the council
+provides information that suggests the agreement is detrimental to the safety or security of
+La., the United States, or its residents, the institution cannot enter into the agreement.
+Proposed law provides that each institution must submit information to the Board of Regents
+by Jan. 31st of each year and the Board of Regents must submit a report to the governor,
+president of the Senate, and the speaker of the House of Representatives relating to
+partnerships and agreements with foreign adversaries by December first of each year.
+Proposed law includes required information that must be included in the report from the
+Board of Regents.
+Proposed law (R.S. 17:1828.6) provides that, unless requested by a federal agency, the
+governor, the president of the Senate, or the speaker of the House of Representatives, an
+employee, researcher, or volunteer of an institution of higher education of the state may not
+accept transportation or lodging in a country that is a foreign adversary or accept a gift or
+item of value from a person representing a foreign adversary for any purpose, including to
+pay for travel expenses or as reimbursement for the costs of attending a conference in a
+country that is a foreign adversary.
+Proposed law provides that an employee or volunteer of an institution of higher education
+of this state must report to the La. Higher Education Security Council any interaction,
+communication, or meeting the employee, researcher, or volunteer has with a person acting
+on behalf of a foreign adversary, not later than 30 days after the date of interaction.
+Proposed law (R.S. 17:1828.7) provides that an institution must only enter into a new or
+renew an existing research partnership with an institution, business, or nonprofit located in
+a foreign adversary if the institution maintains sufficient structural safeguards to protect the
+institution's intellectual property, the security of La., and the national security interests. The
+La. Higher Education Research Security Council must only approve an institution's
+partnership if the council determines it to meet the safeguard requirements that follow:
+(1) Compliance with all federal requirements, including the requirements of federal
+research sponsors and federal export control agencies, including regulations
+regarding international traffic in arms and export administration regulations, and
+economic and trade sanctions administered by the federal office of foreign assets
+control.
+(2) Annual formal institution level programs for faculty on conflicts of interest and
+conflicts of commitment.
+Page 18 of 20
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-642 ENGROSSED
+SB NO. 399
+(3) An overwhelming state interest to enter into the research or academic partnership.
+(4) There are no alternative institutions to engage with for a similar research or academic
+partnership.
+(5) A formalized foreign visitor process and uniform visiting scholar agreement.
+Proposed law (R.S. 17:1828.8) requires the Board of Regents in cooperation with the La.
+office of technology services to do all of the following:
+(1) Review of educational software used by institutions of higher education that may be
+linked to foreign adversaries.
+(2) Develop a plan to eliminate the usage of educational software from foreign adversary
+countries in each of the respective systems.
+(3) Promulgate rules that prohibit future contracting with educational software-providing
+entities domiciled in, or owned by companies or other entities domiciled in, foreign
+adversary countries.
+Proposed law (R.S. 17:1828.9) provides that the managing board of each institution of higher
+education must adopt the following policies:
+(1) No branch, cell, subsidiary, or affiliate organization of the Chinese Communist Party
+shall be allowed to operate on or use any property of any institution of higher
+education in this state.
+(2) No members of the Chinese Communist Party, People's Liberation Army, any
+Chinese intelligence agency, or any affiliate or subsidiary thereof, shall enroll in any
+La. institution of higher education nor receive employment or research opportunities
+in any La. institution of higher education.
+Proposed law provides that a student, academic or researcher, who matriculates from the
+People's Republic of China must sign an affidavit to certify that the student is not a member
+of the Chinese Communist Part, People's Liberation Army, and Chinese intelligence agency,
+or any affiliate or subsidiary thereof.
+Proposed law (R.S. 17:1828.10) provides that any theft of a trade secret or trafficking there
+of from an institution on behalf of a foreign source will be charged as a crime under the
+criminal code (R.S. 14:67) with a penalty one classification level higher than theft of equal
+value covered under the criminal code (R.S. 14:67). For theft of trade secrets of $25,000 or
+more, the penalty will be imprisonment at hard labor for not less than 5 years and not more
+than 25 years.
+Proposed law (R.S. 17:1828.11) provides that if any provision or application of any
+provision is held to be invalid, the remainder of proposed law and the application of its
+provisions will not be affected.
+Effective on January 1, 2027.
+(Adds R.S. 17:1828-1828.11)
+Summary of Amendments Adopted by Senate
+Committee Amendments Proposed by Senate Committee on Education to the
+original bill
+1. Adds additional members to the La. Higher Education Research Security
+Page 19 of 20
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-642 ENGROSSED
+SB NO. 399
+Council.
+2. Changes reporting deadlines.
+3. Requires the office of technology services to assist the Bd. of Regents.
+4. Removes administrative fines and civil penalties.
+Page 20 of 20
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.

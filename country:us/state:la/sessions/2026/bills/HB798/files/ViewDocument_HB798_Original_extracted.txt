@@ -1,0 +1,218 @@
+Title: 
+Official Title: 
+Source: versions - HB798 Original
+Media Type: application/pdf
+
+================================================================================
+
+HLS 26RS-197 ORIGINAL
+2026 Regular Session
+HOUSE BILL NO. 798
+BY REPRESENTATIVE MIKE JOHNSON
+UTILITIES: Creates the Broadband and Cable Price Notice Act
+1 AN ACT
+2 To enact Chapter 12-B of Title 51 of the Louisiana Revised Statutes of 1950, to be
+3 comprised of R.S. 51:1381 through 1389, relative to the Broadband and Cable Price
+4 Notice Act; to provide for definitions; to provide for written notice; to provide for
+5 method of delivery; to provide for the rights of customers; to provide for
+6 enforcement; to provide for authority; to provide for rulemaking; to provide for
+7 applicability; to provide for an effective date; and to provide for related matters.
+8 Be it enacted by the Legislature of Louisiana:
+9 Section 1. Chapter 12-B of Title 51 of the Louisiana Revised Statutes of 1950,
+10 comprised of R.S. 51:1381 through 1389, is hereby enacted to read as follows:
+11 CHAPTER 12-B. THE BROADBAND AND CABLE PRICE NOTICE ACT
+12 §1381. Short title
+13 This Chapter shall be known and may be cited as the "Broadband and Cable
+14 Price Notice Act."
+15 §1382. Definitions
+16 (1) "Broadband internet access service" means a mass-market retail service
+17 that provides the capability to transmit data to and receive data from substantially all
+18 internet endpoints, including any functional equivalents.
+Page 1 of 6
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-197 ORIGINAL
+HB NO. 798
+1 (2) "Cable or video service" means the one-way transmission to subscribers
+2 of video programming or other programming service by a cable operator or video
+3 service provider, including services provided pursuant to a state or local franchise.
+4 (3) "Customer" means a natural person who receives cable or video service
+5 or broadband internet access service at a residential address in this state.
+6 (4) "Price increase" means any increase to a customer's monthly recurring
+7 charge or mandatory fee for service, including but not limited to base service
+8 charges, equipment rental fees, modem or router fees, "broadcast TV" or "regional
+9 sports" network access, or similar surcharges. "Price increase" does not include
+10 taxes or fees imposed by federal, state, or local government.
+11 (5) "Provider" means any person or entity that offers cable or video service
+12 or broadband internet access service to residential customers in this state, whether
+13 pursuant to a local franchise, a state-issued certificate, or otherwise.
+14 (6) "Written notice" includes delivery by United States mail, email, or text
+15 message, if the customer has elected to receive billing or account communications
+16 through that channel.
+17 §1383. Advance notice required; timing
+18 A. A provider shall furnish clear and conspicuous written notice to each
+19 affected customer at least thirty calendar days before the effective date of any price
+20 increase.
+21 B. When a price increase results from circumstances outside the provider's
+22 reasonable control including but not limited to programmer pass-through charges
+23 imposed with less than thirty days' notice to the provider, the provider shall give
+24 written notice as soon as practicable, but in no event later than the customer's next
+25 regular billing cycle after the provider learns of the change.
+26 C. A customer may cancel or downgrade the affected service without early
+27 termination fees or other penalties triggered solely by the price increase, if the
+28 customer gives notice of cancellation on or before the effective date or within thirty
+29 days after receiving a written notice pursuant to this Section.
+Page 2 of 6
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-197 ORIGINAL
+HB NO. 798
+1 D. Nothing in this Section shall be construed to shorten or limit any federal
+2 notice requirement that provides greater advance notice for cable service.
+3 §1384. Content of notice
+4 A. The written notice described in this Chapter shall include all of the
+5 following:
+6 (1) The customer's current monthly recurring charges and each new charge
+7 and fee, itemized by line item.
+8 (2) The effective date of the increase.
+9 (3) A brief statement of the reason for the increase.
+10 (4) A statement of the customer's right to cancel or downgrade the affected
+11 service without early termination fees or other penalties triggered solely by the price
+12 increase, provided the customer gives notice of cancellation on or before the
+13 effective date or within thirty days after receiving a written notice in accordance with
+14 R.S. 51:1383.
+15 (5) A toll-free telephone number and web address where a customer may
+16 obtain additional information or exercise cancellation and downgrade rights.
+17 B. The written notice outlined in this Chapter shall be sent to a customer
+18 separately from any bill from the provider.
+19 §1385. Method of delivery; recordkeeping
+20 A. Written notice may be provided by any channel the customer has selected
+21 for billing or account communications; if no election exists, notice shall be sent by
+22 United States mail to the service address or billing address on file.
+23 B. A provider shall retain records sufficient to demonstrate compliance with
+24 this Chapter, including samples of notices and logs of the dates and channels used,
+25 for two years from the effective date of each price increase.
+26 §1386. Customer rights preserved
+27 A. A provider shall not treat a customer's exercise of rights pursuant to R.S.
+28 51:1384 as a breach of contract or impose any fee or penalty triggered solely by the
+29 customer's cancellation or downgrade in response to a price increase.
+Page 3 of 6
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-197 ORIGINAL
+HB NO. 798
+1 B. Nothing in this Chapter prohibits a provider from recovering unreturned
+2 equipment charges or other amounts lawfully owed that are not early termination
+3 fees.
+4 §1387. Enforcement; unfair trade practice; remedies
+5 A. A violation of this Chapter is an unfair or deceptive trade practice in
+6 accordance with the Louisiana Unfair Trade Practices and Consumer Protection Law,
+7 R.S. 51:1401 et seq.
+8 B. The attorney general may investigate and bring actions to enforce this
+9 Chapter including civil penalties, injunctive relief, restitution, and attorneys' fees as
+10 authorized by Louisiana Unfair Trade Practices and Consumer Protection Law, R.S.
+11 51:1401 et seq.
+12 C. The remedies provided by this Chapter are in addition to any other
+13 remedies available at law or in equity, including private actions authorized by
+14 Louisiana Unfair Trade Practices and Consumer Protection Law, R.S. 51:1401 et
+15 seq.
+16 §1388. Construction; federal and local law
+17 A. This Chapter is a disclosure and customer-notice requirement only and
+18 shall not be construed as rate regulation or to require any specific price, term, or
+19 offering.
+20 B. For cable or video services, this Chapter shall be construed in harmony
+21 with federal law, including 47 U.S.C. 521 et seq. and 47 CFR 76.1603, and shall not
+22 diminish any federal or franchise-authority notice obligations that are equal to or
+23 greater than.
+24 C. Nothing in this Chapter shall limit the authority of a local franchise
+25 authority to adopt or enforce customer-service standards or notice provisions, if a
+26 provider that complies with the more stringent applicable requirement is deemed in
+27 compliance with this Chapter.
+Page 4 of 6
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-197 ORIGINAL
+HB NO. 798
+1 §1389. Rulemaking
+2 The attorney general may promulgate rules under the Administrative
+3 Procedure Act to implement the provisions of this Chapter, including rules
+4 specifying reasonable notice formats and record keeping standards.
+5 Section 2. This Act applies to price increases first noticed to customers on or after
+6 the effective date of this Act. It does not require re-noticing of increases that took effect
+7 before the effective date of this Act.
+8 Section 3. This Act shall become effective on January 1, 2027.
+DIGEST
+The digest printed below was prepared by House Legislative Services. It constitutes no part
+of the legislative instrument. The keyword, one-liner, abstract, and digest do not constitute
+part of the law or proof or indicia of legislative intent. [R.S. 1:13(B) and 24:177(E)]
+HB 798 Original 2026 Regular Session Mike Johnson
+Abstract: Creates the Broadband and Cable Price Notice Act.
+Proposed law creates the Broadband and Cable Price Notice Act.
+Proposed law defines "broadband internet access service", "cable or video service",
+"customer", "price increase", "provider", and "written notice.
+Proposed law provides that a provider shall furnish clear and conspicuous written notice to
+each affected customer at least 30 calendar days before the effective date of any price
+increase.
+Proposed law provides that when a price increase results from circumstances outside the
+provider's reasonable control, including but not limited to, programmer pass-through charges
+imposed with less than 30 days' notice to the provider, the provider shall give written notice
+as soon as practicable, but in no event later than the customer's next regular billing cycle
+after the provider learns of the change.
+Proposed law provides that a customer may cancel or downgrade the affected service
+without early termination fees or other penalties triggered solely by the price increase, if the
+customer gives notice of cancellation on or before the effective date or within 30 days after
+receiving a written notice pursuant to proposed law.
+Proposed law provides that nothing in proposed law shall be construed to shorten or limit
+any federal notice requirement that provides greater advance notice for cable service.
+Proposed law provides for what shall be included in the written notice.
+Proposed law provides that the written notice outlined in proposed law shall be sent to a
+customer separately from any bill from the provider.
+Proposed law provides that written notice may be provided by any channel the customer has
+selected for billing or account communications; if no election exists, notice shall be sent by
+U.S. mail to the service address or billing address on file.
+Page 5 of 6
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-197 ORIGINAL
+HB NO. 798
+Proposed law requires that a provider retain certain records.
+Proposed law provides that a provider shall not treat a customer's exercise of rights pursuant
+to proposed law as a breach of contract or impose any fee or penalty triggered solely by the
+customer's cancellation or downgrade in response to a price increase.
+Proposed law provides that nothing in proposed law prohibits a provider from recovering
+unreturned equipment charges or other amounts lawfully owed that are not early termination
+fees.
+Proposed law provides that a violation of proposed law is an unfair or deceptive trade
+practice in accordance with the La. Unfair Trade Practices and Consumer Protection Law
+and that the attorney general may investigate and bring actions to enforce proposed law
+including civil penalties, injunctive relief, restitution, and attorneys' fees as authorized by
+La. Unfair Trade Practices and Consumer Protection Law.
+Proposed law provides that the remedies provided by this proposed law are in addition to any
+other remedies available at law or in equity, including private actions authorized by La.
+Unfair Trade Practices and Consumer Protection Law.
+Proposed law provides that proposed law is a disclosure and customer-notice requirement
+only and shall not be construed as rate regulation or to require any specific price, term, or
+offering.
+Proposed law provides that for cable or video services, proposed law shall be construed in
+harmony with federal law and shall not diminish any federal or franchise-authority notice
+obligations that are equal to or greater than.
+Proposed law provides that nothing in proposed law shall limit the authority of a local
+franchise authority to adopt or enforce customer-service standards or notice provisions, if
+a provider that complies with the more stringent applicable requirement is deemed in
+compliance with proposed law.
+Proposed law provides that the attorney general may promulgate rules under the APA to
+implement the provisions of proposed law, including rules specifying reasonable notice
+formats and record keeping standards.
+Proposed law provides that proposed law applies to price increases first noticed to customers
+on or after the effective date of this proposed law. It does not require re-noticing of
+increases that took effect before the effective date of this proposed law.
+Effective Jan. 1, 2027.
+(Adds R.S. 51:1381-1389)
+Page 6 of 6
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
