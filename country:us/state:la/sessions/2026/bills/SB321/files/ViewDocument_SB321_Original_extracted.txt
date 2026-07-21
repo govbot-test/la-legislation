@@ -1,0 +1,61 @@
+Title: 
+Official Title: 
+Source: versions - SB321 Original
+Media Type: application/pdf
+
+================================================================================
+
+SLS 26RS-606 ORIGINAL
+2026 Regular Session
+SENATE BILL NO. 321
+BY SENATOR KLEINPETER
+CRIMINAL PROCEDURE. Provides relative to electronic bonds. (8/1/26)
+1 AN ACT
+2 To amend and reenact Code of Criminal Procedure Art. 328(C), relative to electronic bonds;
+3 to provide for certain conditions on the use of electronic bonds; and to provide for
+4 related matters.
+5 Be it enacted by the Legislature of Louisiana:
+6 Section 1. Code of Criminal Procedure Art. 328(C) is hereby amended and reenacted
+7 to read as follows:
+8 Art. 328. Bail undertaking
+9 * * *
+10 C.(1) An electronic bond may shall only be executed in a parish where the
+11 sheriff has electronic bond software in place. Agents Only agents may be approved
+12 by the sheriff to shall execute an electronic bond. A licensed bail bond producer
+13 applying for electronic bond authority may shall make an application to the sheriff
+14 and shall be domiciled and maintain a principal place of business in this state and
+15 possess a Louisiana bail bond producer license for at least three years preceding the
+16 date of application.
+17 (2) The approving sheriff authority may require any documents deemed
+Page 1 of 2
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-606 ORIGINAL
+SB NO. 321
+1 necessary to verify the information contained in the application.
+2 (3) Any parish that elects to implement electronic bonds shall allow both
+3 in-person and electronic methods of posting bail bonds.
+4 (4) When an electronic bond is used, all of the following procedures shall
+5 be followed:
+6 (a) The electronic bond provider shall incorporate a geo fence, which
+7 shall not exceed ten miles from the jail facility in any direction.
+8 (b) The electronic bail provider shall implement FACE Recognition
+9 Liveness.
+The original instrument and the following digest, which constitutes no part
+of the legislative instrument, were prepared by Senate Legislative Services.
+The keyword, summary, and digest do not constitute part of the law or proof
+or indicia of legislative intent. [R.S. 1:13(B) and 24:177(E)]
+DIGEST
+SB 321 Original 2026 Regular Session Kleinpeter
+Present law allows for the posting of electronic bonds. Proposed law retains present law.
+Proposed law requires any parish implementing the use of electronic bonds to also allow the
+use of in-person bonds.
+Proposed law requires the provider of an electronic bond to incorporate a geo fence not to
+exceed 10 miles from the jail facility. Further requires the implementation of FACE
+Recognition Liveness.
+Effective August 1, 2026.
+(Amends C.Cr.P. Art. 328(C))
+Page 2 of 2
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.

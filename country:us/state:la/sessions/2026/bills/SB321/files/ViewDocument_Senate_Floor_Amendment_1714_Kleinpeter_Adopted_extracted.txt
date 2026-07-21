@@ -1,0 +1,98 @@
+Title: 
+Official Title: 
+Source: versions - Senate Floor Amendment, #1714, Kleinpeter, Adopted
+Media Type: application/pdf
+
+================================================================================
+
+SFASB321 3275 1714
+SENATE FLOOR AMENDMENTS
+2026 Regular Session
+Amendments proposed by Senator Kleinpeter to Engrossed Senate Bill No. 321 by Senator
+Kleinpeter
+1 AMENDMENT NO. 1
+2 On page 1, line 2, after "328(C)" and before the comma "," insert "and R.S. 22:822(A)"
+3 AMENDMENT NO. 2
+4 On page 1, line 3, after "bonds;" and before "and" insert the following:
+5 "to provide for requirements on electronic bonds; to provide for a parish registry of
+6 electronic bond agents; to provide for procedures for the issuance of electronic
+7 bonds; to provide for types of payment;"
+8 AMENDMENT NO. 3
+9 On page 2, at the end of line 1, before the period "." insert the following:
+10 "and may establish additional requirements for approval of electronic bond
+11 authority within the parish, including but not limited to geographic limitations,
+12 proof of local domicile or principal place of business within the parish,
+13 geofencing parameters, or other requirements that the sheriff deems
+14 appropriate for the administration of electronic bonds within the parish"
+15 AMENDMENT NO. 4
+16 On page 2, delete lines 4 through line 9 and insert the following:
+17 "(4)(a) The electronic bond provider shall maintain a registry of agents
+18 approved by each participating parish sheriff to execute electronic bonds within
+19 that parish.
+20 (b) Prior to permitting the execution of any electronic bond, the provider
+21 shall verify that the agent seeking to post the bond is listed in the approved
+22 agent registry for the parish in which the bond is to be posted. The provider
+23 shall deny electronic bond access to any agent who does not appear in the
+24 applicable registry.
+25 (c) The sheriff shall provide the electronic bond provider with timely
+26 notice of any additions to or removals from the approved registry.
+27 (5) When an electronic bond is used, all of the following procedures shall
+28 be followed:
+29 (a) The electronic bond provider shall implement multi-factor
+30 authentication for each individual bond posting transaction, which shall include
+31 at a minimum both of the following:
+32 (i) Facial recognition liveness verification linked to the identity of the
+33 approved licensed agent executing the bond.
+34 (ii) A secondary authentication factor independent of the agent's account
+35 login credentials.
+36 (b) The electronic bond provider shall ensure that the authentication
+37 required by Subparagraph (a) of this Paragraph is performed personally by the
+38 approved agent of record at the time of each individual bond posting. The
+39 provider shall not permit the use of shared login credentials, shared
+40 authentication devices or factors, or proxy authentication by any person other
+41 than the approved agent of record.
+42 (c) The approving sheriff may, as a condition of authorizing electronic
+43 bond posting within the parish, require the electronic bond provider to
+44 incorporate a geographic restriction, including a geofence, limiting electronic
+45 bond posting to a defined geographic area within or proximate to the parish.
+Page 1 of 2
+
+SFASB321 3275 1714
+1 (d) The electronic bond provider shall offer automated clearing house
+2 (ACH) electronic funds transfer as a method of payment for fees associated with
+3 the posting of an electronic bond.
+4 Section 2. R.S. 22:822(A) is hereby amended and reenacted to read as follows:
+5 §822. Criminal bail bond annual license fee
+6 A.(1) On premiums for all commercial surety underwriters who write
+7 criminal bail bonds in the state of Louisiana, there shall be a fee equal to two dollars
+8 for each one hundred dollars worth of liability underwritten by the commercial
+9 surety. Except as authorized under the provisions of R.S. 13:718(I)(2), this shall be
+10 the exclusive fee or tax on any criminal bail bond premium, including thereto
+11 premium taxes owed. In furtherance of the payment of this premium fee all
+12 commercial surety underwriters underwriting criminal bail bonds in the state of
+13 Louisiana shall, upon submitting the appearance bond and their power of attorney,
+14 simultaneously pay to the sheriff of the parish, a fee of two dollars for each one
+15 hundred dollars worth of liability on the bail bond being presented for the release of
+16 a person on bail. Failure to pay the fee shall prevent the sheriff from accepting the
+17 appearance bond and power of attorney. The sheriff may receive the fee by check,
+18 or cash, or automated clearing house (ACH) and shall only accept it only from the
+19 surety or the agent of the surety.
+20 (2)(a) When an electronic bond is posted pursuant to Code of Criminal
+21 Procedure Article 328, the sheriff shall accept payment of the fee by ACH
+22 electronic funds transfer, and a licensed bail bond producer may collect from
+23 the defendant, principal, or indemnitor any fees associated with the posting of
+24 an electronic bond that are authorized by law, including but not limited to
+25 platform access fees, transaction fees, and ACH processing fees.
+26 (b) The fees shall not exceed the actual cost charged to the producer by
+27 the electronic bond provider.
+28 (c) In the event a surety or agent of the surety presents payment of the fee by
+29 an instrument which is returned for insufficient funds, the agent or the agent of the
+30 surety shall be prevented from presenting the appearance bonds with their power of
+31 attorney attached until the outstanding fees are paid to the sheriff.
+32 * * *
+33 Section 3. This Act shall become effective upon signature by the governor or, if not
+34 signed by the governor, upon expiration of the time for bills to become law without signature
+35 by the governor, as provided by Article III, Section 18 of the Constitution of Louisiana. If
+36 vetoed by the governor and subsequently approved by the legislature, this Act shall become
+37 effective on the day following such approval."
+Page 2 of 2
