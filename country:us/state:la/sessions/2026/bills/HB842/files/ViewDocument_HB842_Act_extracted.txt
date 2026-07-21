@@ -1,0 +1,1353 @@
+Title: 
+Official Title: 
+Source: versions - HB842 Act
+Media Type: application/pdf
+
+================================================================================
+
+ENROLLED
+ACT No. 7
+2026 Regular Session
+HOUSE BILL NO. 842
+BY REPRESENTATIVE BEAULLIEU
+1 AN ACT
+2 To amend and reenact R.S. 18:2(9), 53(B)(2)(b), 55(D), 59(F), 62, 108(A), 110(B)(3),
+3 154(C)(1)(h) and (D)(1) and (3) and (F)(8), 192(B)(1)(a), 193(A), 196(B) and
+4 (C)(2)(a), 197, 401.1(H), 402(A)(1), 433(B)(1), 465(B) and (D), 469(A), 491(B),
+5 493, 495(B), 501(C), 532(F), 532.1(C)(1) and (4), 551(B)(2)(introductory
+6 paragraph), 562(B)(2), 564(B)(5)(b), 565(B) and (C), 571(A)(8), 573(E), 574(A)(2)
+7 and (3), 602(E)(2)(d), 604(B)(2)(c), 621(B), 1254(C), 1259(B)(2)(introductory
+8 paragraph), 1300.2(C)(1), 1300.3(A)(1)(b), 1303(K) and (L), 1309(D)(2), (K), and
+9 (N)(5), 1309.3(B)(4)(b), 1313(C)(1) and (H)(3) and (5), 1313.1(C)(2) and (I)(2),
+10 1314(B)(2) and (C)(2)(a) and (3), 1315(A)(1) and (2)(introductory paragraph), (B),
+11 and (D)(2), 1317, 1333(B) and (G)(1) and (7), 1367.2(F), 1367.11(A), 1371(A)(1)
+12 and (2)(introductory paragraph), 1401(G), 1402(B)(1)(a), 1405, 1413, and
+13 1922.2(B)(2) and to enact R.S. 18:106.2, 107(H), 110(B)(1)(c), 192(C), 465(E)(3),
+14 1310(A)(3), 1316(D), 1401(H), and 1922.2(B)(3), relative to the Louisiana Election
+15 Code; to make revisions to the Louisiana Election Code; to provide for duties of the
+16 secretary of state and registrars of voters; to provide for the raising of allegations
+17 against a registrar of voters; to provide for the payment of the parish portion of the
+18 salary of a registrar of voters, chief deputy registrar, and confidential assistant; to
+19 provide for political activities of unclassified registrars, deputy registrars, and other
+20 employees; to provide for the cancellation of prior voter registration; to provide for
+21 change of registration address; to provide for the cancellation of registration; to
+22 provide for the registration of unaffiliated registrants; to provide for the registration
+Page 1 of 40
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HB NO. 842 ENROLLED
+1 information of a person who is seventeen years of age; to provide for voters
+2 incapable of making a mark; to provide for the confidentiality of registration
+3 information of law enforcement officers; to provide for the annual canvass in certain
+4 years; to provide for use of an address confirmation form; to provide for the
+5 calculation of dates and computation of time; to provide for meetings of a parish
+6 board of election supervisors; to provide for the information required on a
+7 nominating petition; to provide for the certification of signatures on a nominating
+8 petition; to provide for procedures related to changing precincts and boundaries; to
+9 provide for the completion of voter assistance forms; to provide for the statement of
+10 election returns; to provide for notification of a special election to fill a vacancy; to
+11 provide for vacancies in certain party primary offices; to provide for the contents of
+12 a nominating petition for presidential elector; to provide for the arrangement of the
+13 ballot; to provide for certifying employment for purposes of early voting; to provide
+14 for early voting commissioner qualifications; to provide for filing the list of early
+15 voting watchers; to provide for casting a vote on an absentee by mail ballot; to
+16 provide for the timing to challenge a person applying to vote during early voting; to
+17 provide for grounds to challenge an absentee by mail ballot; to authorize the
+18 secretary of state to promulgate rules related to distinguishing marks; to provide for
+19 the duration of the nursing home early voting program; to provide for procurement
+20 methods for the delivery of voting machines and equipment; to provide relative to
+21 legal remedies related to the procurement of voting machines; to provide for election
+22 contests; to provide for objections to candidacy; to provide for a cause of action, the
+23 proper parties, and the peremptive period for objecting to the placement of a
+24 constitutional amendment on a ballot; to provide for the time for the commencement
+25 of objections to candidacy and election contests; to provide for the designation of
+26 statewide elections for the purpose of the consideration of constitutional
+27 amendments; to provide relative to the secretary of state's duties related to recall
+28 petitions; to provide for the designation of party primary offices; to provide for the
+29 election of candidates for representative in the United States Congress in 2026; to
+30 provide that votes cast for candidates for representative in the United States Congress
+Page 2 of 40
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HB NO. 842 ENROLLED
+1 in the May 16, 2026, and June 27, 2026, party primary election be void and not
+2 counted; to provide that cancelled votes are not subject to the Public Records Law;
+3 to provide for the conduct of the 2026 fall elections; to provide for qualifying for the
+4 2026 fall open primary elections; to provide for nominating petitions for candidates
+5 for representative in the United States Congress for the 2026 fall open primary
+6 elections; to correct terminology; to provide for effectiveness; and to provide for
+7 related matters.
+8 Be it enacted by the Legislature of Louisiana:
+9 Section 1. R.S. 18:53(B)(2)(b), 55(D), 59(F), 62, 108(A), 110(B)(3), 154(D)(1) and
+10 (3), 192(B)(1)(a), 193(A), 196(B) and (C)(2)(a), 197, 401.1(H), 402(A)(1), 433(B)(1),
+11 465(B) and (D), 469(A), 491(B), 493, 495(B), 501(C), 532(F), 532.1(C)(1) and (4),
+12 551(B)(2)(introductory paragraph), 562(B)(2), 564(B)(5)(b), 565(B) and (C), 571(A)(8),
+13 573(E), 574(A)(2) and (3), 602(E)(2)(d), 604(B)(2)(c), 621(B), 1254(C),
+14 1259(B)(2)(introductory paragraph), 1300.2(C)(1), 1300.3(A)(1)(b), 1303(K) and (L),
+15 1309(D)(2), (K), and (N)(5), 1309.3(B)(4)(b), 1313(C)(1) and (H)(3) and (5), 1313.1(C)(2)
+16 and (I)(2), 1314(B)(2) and (C)(2)(a) and (3), 1315(A)(1) and (2)(introductory paragraph),
+17 (B), and (D)(2), 1317, 1333(B) and (G)(1) and (7), 1367.2(F), 1367.11(A), 1371(A)(1) and
+18 (2)(introductory paragraph), 1401(G), 1402(B)(1)(a), 1405, 1413, and 1922.2(B)(2) are
+19 hereby amended and reenacted and R.S. 18:106.2, 110(B)(1)(c), 192(C), 465(E)(3),
+20 1310(A)(3), 1316(D), 1401(H), and 1922.2(B)(3) are hereby enacted to read as follows:
+21 §53. Removal from office; may not be own immediate successor
+22 * * *
+23 B.
+24 * * *
+25 (2)
+26 * * *
+27 (b) If the commissioner of elections raises allegations that the parish registrar
+28 has engaged in any conduct set forth in Paragraphs (A)(1) through (7) of this Section,
+29 the board shall schedule a hearing on the allegations brought by the commissioner
+30 of elections within thirty days of the receipt of the accusations allegations. If the
+Page 3 of 40
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HB NO. 842 ENROLLED
+1 commissioner of elections serves as a regular member of the board, he shall not serve
+2 for the purposes of such hearings, and the secretary of state shall designate a member
+3 of the Registrars of Voters Association to serve in the commissioner's place and shall
+4 notify the board in writing of any such designation as provided in R.S. 18:23.
+5 * * *
+6 §55. Compensation of registrar of voters; amount and manner of payment; reduction
+7 during tenure prohibited; prohibited increase
+8 * * *
+9 D. The state portion of each salary shall be paid biweekly by the state
+10 through the secretary of state, and the parish portion of each salary shall be paid
+11 biweekly, semimonthly, or monthly by the parish governing authority on the warrant
+12 of the respective registrars. The funds for the parish portion of the salary shall be
+13 annually appropriated by the parish governing authority and the funds for the state
+14 portion of the salary shall be annually appropriated to the secretary of state.
+15 * * *
+16 §59. Deputies, confidential assistants, and other permanent office employees;
+17 temporary employees; appointment and compensation; prohibited increase
+18 in compensation
+19 * * *
+20 F. The state portion of the salary of each chief deputy registrar of voters and
+21 confidential assistant shall be paid biweekly by the state through the secretary of
+22 state, and the parish portion of the salary shall be paid biweekly, semimonthly, or
+23 monthly by the parish governing authority on the warrant of each chief deputy and
+24 confidential assistant. The funds for the parish portion of the salary shall be annually
+25 appropriated by the parish governing authority and the funds for the state portion of
+26 the salary shall be annually appropriated by the legislature to the secretary of state.
+27 * * *
+28 §62. Political activities prohibited
+29 A. No registrar of voters, and or deputy registrar, or other employee of a
+30 registrar who is in the unclassified state civil service shall participate or engage in:
+Page 4 of 40
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HB NO. 842 ENROLLED
+1 political activity, including his own or any other candidacy for election to public
+2 office; membership on any national, state, or local committee of a political party or
+3 faction; making or soliciting contributions for any political party, faction, or
+4 candidate; or taking active part in the management of the affairs of a political party,
+5 faction, candidate, or any political campaign, except to exercise his right as a citizen
+6 to express his opinion privately and to cast his vote as he desires. As used in this
+7 Section, the term "political activity" shall have the meaning ascribed to it in Article
+8 X, Section 9(C) of the Constitution of Louisiana.
+9 B. All deputy registrars and other employees of a registrar who are in the
+10 classified state civil service shall be subject to the constitution and laws, and the
+11 regulations adopted pursuant thereto, affecting political activities by persons in the
+12 classified state civil service.
+13 * * *
+14 §106.2. Voter incapable of signing his name or making a mark
+15 A. If a registered voter, subsequent to his registration, is no longer capable
+16 of signing his name or making a mark due to a physical disability, he shall file with
+17 the registrar of voters an alternative signature attestation to authorize another person
+18 to sign documents required by this Title on his behalf, along with a letter signed by
+19 a physician stating that the voter is unable to provide his signature or mark due to a
+20 physical disability and that the voter is capable of providing consent for another
+21 person to sign on his behalf.
+22 B. The individual assisting a voter who filed the attestation provided for in
+23 Subsection A of this Section shall complete and sign a form, at the voter’s direction
+24 and in the presence of the voter and at least one witness, indicating that the voter is
+25 unable to sign his name or make a mark due to a physical disability, that the voter
+26 has verbally or otherwise attested that the individual was given the authority to sign
+27 on the voter’s behalf, and that all information supplied on the form is true and correct
+28 under penalty of perjury. The form shall also contain the individual’s printed name,
+29 signature, and residential address, as well as the printed name and signature of the
+30 witness.
+Page 5 of 40
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HB NO. 842 ENROLLED
+1 C. The individual authorized to assist the voter shall be an elector of the state
+2 and shall not be a candidate, the voter’s employer or employer’s agent, or the voter’s
+3 union agent.
+4 D. When signing a document required by this Title on the voter’s behalf, the
+5 individual authorized to assist the voter shall also sign and print his own name and
+6 residential address on the document.
+7 E. If a registered voter who is no longer capable of signing his name or
+8 making a mark due to a physical disability appears in person to vote on election day
+9 or during early voting, he shall verbally or otherwise convey his consent for the
+10 commissioner or deputy registrar to sign the precinct register, early voting register,
+11 and any other forms required by this Title, and the commissioner or deputy registrar
+12 shall sign on behalf of the voter in the presence of at least one witness.
+13 * * *
+14 §108. Prior registration; surrender of notice of registration before new registration;
+15 change of place of registration
+16 A. If the registrant's application indicates that the applicant previously
+17 registered as a voter in any other parish, and if the previous notice of registration is
+18 available, then before making a new registration the registrar shall require the
+19 applicant to surrender his previous notice for cancellation. The the registrar shall
+20 promptly notify the registrar of the parish in which the applicant has registered
+21 previously, through the statewide voter registration system, of the present
+22 registration. The other registrar shall verify the cancellation of cancel the voter's
+23 previous registration in the other parish; however, the cancellation shall not be made
+24 as long as the registrant has the right to vote in the parish of his former residence as
+25 provided in R.S. 18:110(C).
+26 * * *
+27 §110. Removal from precinct; removal from parish
+28 * * *
+29 B.(1) A change of registration based upon a change of residence within a
+30 parish received after the closing of registration for a primary election shall become
+Page 6 of 40
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HB NO. 842 ENROLLED
+1 effective the day after the general election or special general election when a special
+2 primary election is held in conjunction with a general election except as follows:
+3 * * *
+4 (c) A change of registration based upon a change of residence within a parish
+5 received after the closing of registration for a closed party primary election shall
+6 become effective the day after the second party primary election.
+7 * * *
+8 (3) However, in a regularly scheduled general election where the only
+9 candidate's election appearing on any ballot in the parish is a special primary
+10 election, then in such instance, the a change made prior to the close of registration
+11 for the general election shall become effective prior to the special primary election.
+12 In a regularly scheduled or special general election, where the change of registration
+13 was made prior to the close of registration for the general election and does not
+14 change any issues or candidate offices upon which the voter was entitled to vote
+15 prior to the change, the change shall become effective prior to the regularly
+16 scheduled or special general election.
+17 * * *
+18 §154. Records open to inspection; copying; exceptions
+19 * * *
+20 D.(1) Notwithstanding the provisions of this Section, the registrar, the clerk
+21 of court, and the Department of State shall not disclose the name and address of a
+22 law enforcement officer if the registrar has received certification from the law
+23 enforcement agency employing the officer that the officer is engaging in hazardous
+24 activities to the extent that it is making it necessary for his name and address to be
+25 kept confidential. The registrar shall indicate such certification in the state voter
+26 registration computer system upon receipt of the certification.
+27 * * *
+28 (3)(a) Any agency employing a law enforcement officer availing himself of
+29 Paragraph (1) of this Subsection shall also issue a decertification notice to the
+30 registrar of voters when the officer is no longer engaging in hazardous activities to
+Page 7 of 40
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HB NO. 842 ENROLLED
+1 the extent that it is making it necessary for his name and address to be kept
+2 confidential.
+3 (b) Any time after certification by the employing agency, the law
+4 enforcement officer may submit written notice to the registrar of voters that it is no
+5 longer necessary for his name and address to be kept confidential.
+6 (c) Upon receipt of a notice provided for in this Paragraph, the registrar shall
+7 remove the indication of certification for the affected law enforcement officer from
+8 the state voter registration computer system.
+9 * * *
+10 §192. Annual canvass; costs
+11 * * *
+12 B.(1) No later than June thirtieth, the Department of State shall conduct an
+13 annual canvass as provided in this Subsection. Using information available in the
+14 state voter registration computer system, the secretary of state shall identify
+15 registrants who meet all of the following criteria:
+16 (a) The registrant's name did not appear with a corrected address provided
+17 by the United States Postal Service or its licensee pursuant to Subsection A of this
+18 Section.
+19 * * *
+20 C. The Department of State is not required to conduct a canvass as provided
+21 for in Subsection A or B of this Section in a calendar year when there is less than
+22 sixty days between a regularly scheduled or special election date and the opening of
+23 qualifying for a regularly scheduled or special primary election.
+24 §193. Challenge and cancellation of registration; notice; procedures
+25 A. When the registrar has reason to believe that a registrant no longer is
+26 qualified to be registered, or that a registrant has changed his residence, the registrar
+27 shall immediately notify the person by sending the address confirmation notice to the
+28 registrant and place the voter on the inactive list of voters. However, a person shall
+29 not be placed on the inactive list of voters if there is address information available
+Page 8 of 40
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HB NO. 842 ENROLLED
+1 to the registrar from the United States Postal Service or its licensee which indicates
+2 the voter has moved to another address within the parish.
+3 * * *
+4 §196. Inactive list of voters; procedure for voting
+5 * * *
+6 B. A registrant whose name is on the inactive list of voters may vote:
+7 (1) If the registrant has not changed residence, at the polling place of the
+8 registrant's last address upon affirming in writing by completing an address
+9 confirmation notice form affirming that the registrant still resides at the address on
+10 file at the office of the registrar of voters.
+11 (2) If the registrant has moved to an address within the parish in the same
+12 precinct, at the polling place of the registrant's last address on file at the office of the
+13 registrar of voters upon affirming in writing that the registrant resides in the precinct
+14 by completing an address confirmation notice form affirming the new address within
+15 the precinct.
+16 (3) If the registrant has moved to an address within the parish in a different
+17 precinct, at the polling place of the registrant's last address on file at the office of the
+18 registrar of voters for that election only upon affirming in writing that the registrant
+19 still resides in the parish by completing an address confirmation notice form
+20 affirming the new address within the parish.
+21 (4) If the registrant has moved to an address outside of the parish, at the
+22 polling place of the registrant's last address on file at the office of the registrar of
+23 voters for that election only upon affirming in writing that the registrant has moved
+24 within the last three months and no longer resides in the parish by completing an
+25 address confirmation notice form affirming the new address outside of the parish and
+26 that the length of time since the move has not exceeded three months. If the
+27 registrant does not affirm that he has moved within the last three months, the
+28 registrant shall not be permitted to vote.
+29 C.
+30 * * *
+Page 9 of 40
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HB NO. 842 ENROLLED
+1 (2)(a) If a registrant whose name is on the inactive list of voters applies to
+2 vote absentee by mail or votes absentee by mail or during early voting, the registrar
+3 shall transfer the registrant's name to the official list of voters and make any
+4 necessary corrections in the registrant's registration records if the information on the
+5 address confirmation notice form, as required by R.S. 18:1309, or the residence
+6 address provided in an application to vote by mail so indicates. The registrar shall
+7 change the registrant's registration address to the residence address provided on the
+8 address confirmation form or application to vote by mail.
+9 * * *
+10 §197. Registration; cancellation
+11 No registrar of voters shall cancel the registration of any voter in his parish
+12 between any open primary election and the subsequent general election occurring in
+13 that parish as a result of any of the processes authorized by this Part, except in the
+14 case of a person whose registration is cancelled pursuant to R.S. 18:193(G) or who
+15 has been fraudulently placed upon the registration records or in the case of a person
+16 whose registration is canceled pursuant to the annual canvass conducted by the
+17 registrar.
+18 * * *
+19 §401.1. Election emergency; purpose; elections emergency contingency plan
+20 * * *
+21 H. For purposes of this Section, a vacancy in a party primary office that may
+22 not be filled by appointment, designation, or in accordance with the timeframes
+23 required by law shall constitute an emergency. If the vacancy may not be filled in
+24 a timely manner in accordance with the election dates provided for in R.S. 18:402,
+25 the governor may proclaim a state of emergency for purposes of calling a special
+26 election to fill the vacancy. Notwithstanding the provisions of R.S. 18:401.3,
+27 following the issuance of the emergency proclamation, the authority required by law
+28 to call a special election to fill the vacancy in office shall, in consultation with and
+29 with the certification of the secretary of state, issue a proclamation ordering a special
+30 election. The proclamation ordering the special election shall include the dates for
+Page 10 of 40
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HB NO. 842 ENROLLED
+1 qualifying, early voting, the at least one party primary election, and the general
+2 election, and at least one party primary election and make all provisions necessary
+3 to conduct an election in a timely manner notwithstanding the dates, timing, and
+4 delays otherwise provided by this Code.
+5 * * *
+6 §402. Dates of primary and general elections; prohibited election days
+7 A. Prohibited election days. (1) No election of any kind shall be held in this
+8 state on any of the days of Rosh Hashanah, Yom Kippur, Sukkot, Shemini Atzeret,
+9 Simchat Torah, the first two days and the last two days of Passover, Shavuot, Tish'a
+10 B'Av, the two days preceding Labor Day, the three days preceding Easter, or the
+11 three days following Thanksgiving Day. If the date of any fall election falls on any
+12 of the above-named days, the election shall be held on the same weekday day of the
+13 preceding week. If the date of any spring election falls on any of the above-named
+14 days, the election shall be held on the same day of the following week.
+15 * * *
+16 §433. Commissioners-in-charge; course of instruction; selection; commission;
+17 disqualification; replacement
+18 * * *
+19 B. Selection. (1)(a) The parish board of election supervisors shall meet at
+20 10:00 a.m. by on or before the second Friday in January of each year to select a
+21 commissioner-in-charge to serve at each precinct in the parish. The meeting shall
+22 be open to the public. The board shall have previously posted a notice on the front
+23 door of the courthouse stating the location within the courthouse where the meeting
+24 is to be held. The selection of commissioners-in-charge shall be made from the
+25 certified list furnished by the clerk as required by Paragraph (A)(5) of this Section
+26 and in the manner provided for in this Subsection.
+Page 11 of 40
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HB NO. 842 ENROLLED
+1 (b) If the course of instruction for commissioners-in-charge is delayed due
+2 to a gubernatorially declared state of emergency as provided by Paragraph (A)(1) of
+3 this Section, the parish board of election supervisors shall meet at 10:00 a.m. on or
+4 before the fifth day after completion of the course of instruction.
+5 * * *
+6 §465. Nominating petitions
+7 * * *
+8 B. Method of nominating candidates. A person may only be nominated as
+9 a candidate in a primary election only by persons who are registered to vote on the
+10 office he seeks who sign a nominating petition for him no more than one hundred
+11 twenty days before the qualifying period opens for candidates in the primary
+12 election. In addition to his signature, each voter who signs a nominating petition
+13 shall provide the information required by R.S. 18:3 date his signature and shall
+14 provide the ward and precinct in which he is registered to vote, his residence address,
+15 including the municipal number, the apartment number, if any, the rural route and
+16 box number, or any other physical description that will identify his actual place of
+17 residence. Once a voter has signed a nominating petition, he may not withdraw the
+18 nomination. The secretary of state shall prepare forms which may be used by any
+19 person who seeks nomination as a candidate by nominating petition. The secretary
+20 of state shall furnish copies of the forms to each clerk of court, and the forms shall
+21 be available, upon request, at the office of the secretary of state or at the office of the
+22 clerk of court. Nothing in this Subsection shall be construed to require nominating
+23 petitions to be filed only on forms prepared by the secretary of state.
+24 * * *
+25 D. Form. In addition to the requirements of R.S. 18:3, each Each sheet of
+26 the nominating petition shall set forth the candidate's name, the address of his
+27 domicile, the office for which the signers nominate him, the political party with
+28 which he is affiliated, if any, and the date of the primary election for which he seeks
+29 to qualify. The name of each voter who signed the nominating petition shall be
+30 typed or legibly written on the petition, and each signature on the nominating petition
+Page 12 of 40
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HB NO. 842 ENROLLED
+1 shall be dated and witnessed by the candidate or the person who obtained the
+2 signature on his behalf. The candidate and all persons who obtained signatures on
+3 his behalf shall certify on the nominating petition that to the best of their knowledge,
+4 information, and belief all of the signatures on the nominating petition are genuine
+5 and all of the statements contained in the nominating petition are true and correct.
+6 E. Certification.
+7 * * *
+8 (3) The registrar of voters for each parish may request and accept the
+9 assistance of employees of the Department of State and registrars and deputy
+10 registrars of voters from other parishes to complete the certification of the
+11 nominating petition.
+12 * * *
+13 §469. Reopening of qualifying period; effect
+14 A. When a person who qualified as a candidate and has opposition in a
+15 primary election for a public office dies after the close of the qualifying period and
+16 before the time for closing the polls on the day of the primary election, the qualifying
+17 period for candidates in the primary election for that office shall reopen for
+18 candidates on the day after the secretary of state receives actual notice of the death
+19 and shall close at 4:30 p.m. on the third day after notice of the death or, if that day
+20 is a legal holiday, at 4:30 p.m. on the next day which is not a legal holiday. The
+21 name of the deceased candidate shall not be printed on the primary election ballot.
+22 If the primary election ballot was printed with the deceased candidate's name on it,
+23 any votes received by the deceased candidate shall be void and shall not be counted
+24 for any purpose whatsoever.
+25 * * *
+26 §491. Standing to object to candidacy
+27 * * *
+28 B. A registered voter may present evidence that a candidate has illegally
+29 qualified for elective office. The evidence may be presented to the respective parish
+30 district attorney, who may determine whether or not the evidence presented
+Page 13 of 40
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HB NO. 842 ENROLLED
+1 establishes grounds for objecting to such candidacy and if the district attorney makes
+2 such a determination he may file an action objecting to candidacy within the time
+3 limitation provided in R.S. 18:493 18:1405(A).
+4 * * *
+5 §493. Time for objecting to candidacy Subpoena and testimony; Department of
+6 Revenue
+7 A. An action objecting to candidacy shall be commenced in a court of
+8 competent jurisdiction within seven days after the close of qualifications for
+9 candidates in the primary election. However, if the time interval ends on a Saturday,
+10 Sunday, or other legal holiday, then noon of the next day which is not a Saturday,
+11 Sunday, or legal holiday shall be deemed to be the end of the time interval. After the
+12 expiration of the time period set forth in this Section, no action shall be commenced
+13 objecting to candidacy based on the grounds for objections to candidacy contained
+14 in R.S. 18:492.
+15 B.(1) Neither the secretary of the Department of Revenue nor any employee
+16 engaged in the administration or charged with the custody of any records or files of
+17 the Department of Revenue shall be subject to subpoena or otherwise required to
+18 appear in court for any matter filed pursuant to this Section.
+19 (2) B. In lieu of live testimony, a properly executed affidavit issued by the
+20 secretary of the Department of Revenue or his designee shall serve as sufficient
+21 confirmation as to the accuracy of the records and files of the secretary of the
+22 Department of Revenue for such purposes.
+23 * * *
+24 §495. Initiation of action by district attorney; attorney general; court costs and
+25 attorney fees
+26 * * *
+27 B. The district attorney shall have standing to bring such an action pursuant
+28 to this Subpart. In addition, if requested in accordance with Subsection A of this
+29 Section, the attorney general shall have standing to bring such an action pursuant to
+30 this Subpart. The time limitation to commence an action objecting to candidacy
+Page 14 of 40
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HB NO. 842 ENROLLED
+1 prescribed by R.S. 18:493 18:1405(A) shall apply to such actions brought by the
+2 district attorney or the attorney general.
+3 * * *
+4 §501. Procedure for withdrawal
+5 * * *
+6 C. Notwithstanding the provisions of Subsections A and B of this Section,
+7 if the number of candidates remaining in a primary election, second party primary
+8 election, or general election for a public office is one more than the number of
+9 persons to be elected to the office, the secretary of state shall accept a notice of
+10 withdrawal that is filed prior to 4:30 p.m. on the second business day prior to the first
+11 day of early voting. The candidate or candidates remaining after the withdrawal
+12 shall be declared elected by the people.
+13 * * *
+14 §532. Establishment of precincts
+15 * * *
+16 F. Prior to the adoption of an ordinance to establish the boundaries of
+17 precincts pursuant to this Section, the parish governing authority shall submit the
+18 proposed precincts and boundaries to the clerk of court and registrar of voters for
+19 their review to confirm in writing the ability to conduct an election utilizing the
+20 proposed boundaries. The parish governing authority shall submit to the secretary
+21 of state in accordance with timetables in this Section, the written confirmation
+22 received by the parish governing authority.
+23 §532.1. Changing boundaries
+24 * * *
+25 C.(1) The parish governing authority shall comply with the provisions of
+26 R.S. 18:532(A), (B), (C), and (E), and (F) when changing any precinct boundary.
+27 * * *
+28 (4) In addition to the requirements of Paragraph (2) of this Subsection, when
+29 the proposed precinct change involves dividing a precinct, prior to the adoption of
+30 the ordinance, the parish governing authority shall submit proposed changes to the
+Page 15 of 40
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HB NO. 842 ENROLLED
+1 clerk of court and registrar of voters to confirm in writing the ability to conduct an
+2 election utilizing the proposed boundaries. The parish governing authority shall
+3 submit to the secretary of state in accordance with timetables in this Section, the
+4 written confirmation received by the parish governing authority.
+5 * * *
+6 §551. Ballots
+7 * * *
+8 B. Titles of offices.
+9 * * *
+10 (2) Below any party primary offices, the Except as provided in Paragraph (1)
+11 of this Subsection, titles of the offices to be voted on in a primary or general election
+12 shall be listed on the ballot in the following order:
+13 * * *
+14 §562. Prerequisites to voting
+15 * * *
+16 B. Review of precinct register. The commissioners shall then determine:
+17 * * *
+18 (2) If the applicant's name is found in the precinct register on the inactive list
+19 of voters and the applicant has not voted absentee by mail or during early voting, the
+20 applicant may vote after complying with provisions of R.S. 18:196(B). After such
+21 compliance, one of the commissioners shall announce the applicant's name again and
+22 shall preserve the address confirmation notice form received from the voter by
+23 placing the address confirmation notice form in the envelope marked "Registrar of
+24 Voters" and attaching the envelope to the precinct register.
+25 * * *
+26 §564. Assistance in voting on election day
+27 * * *
+Page 16 of 40
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HB NO. 842 ENROLLED
+1 B. Persons prohibited from assisting voters.
+2 * * *
+3 (5)
+4 * * *
+5 (b) The voter, along with the person assisting the voter, shall complete a
+6 voter assistance form and provide the name, address, and relationship to the voter of
+7 the person, including a commissioner, assisting the voter and attest whether the
+8 person, other than a commissioner, assisting the voter was paid to provide assistance.
+9 If the voter is not marked for assistance in voting in the precinct register, the voter
+10 shall attest on the voter assistance form that the voter has a physical disability or is
+11 unable to read and requires assistance in voting.
+12 * * *
+13 §565. Challenge of voters
+14 * * *
+15 B. Disposition of record of challenge and address confirmation notice form.
+16 The original record of the challenge, signed by the challenger, and the address
+17 confirmation notice form shall be placed in the envelope marked "Registrar of
+18 Voters". A duplicate record of the challenge shall be placed in the clear plastic
+19 zipper bag and returned to the clerk of court on election night. A duplicate record of
+20 the challenge shall be given to the voter being challenged.
+21 C. Disposition of the challenge. The commissioners present shall determine
+22 the validity of the challenge. If they determine by majority vote that the challenge
+23 is valid, the applicant shall not be permitted to vote. However, if the valid challenge
+24 has determined that the applicant has moved within the parish or has moved outside
+25 of the parish within the last three months, the voter shall be allowed to vote upon
+26 completing an address confirmation notice form. If a majority of the commissioners
+27 determine that the challenge is invalid, the applicant shall be permitted to vote.
+28 * * *
+Page 17 of 40
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HB NO. 842 ENROLLED
+1 §571. Procedures for commissioners after termination of voting
+2 A. At the termination of voting in a primary or general election, the
+3 commissioners shall announce that voting is terminated. The commissioners in the
+4 presence of the watchers shall immediately:
+5 * * *
+6 (8) Place one copy of the official election results reports, one copy of the
+7 machine certificates, one of the duplicate poll lists, all original executed challenges
+8 of voters, all precinct register corrections, all voter identification affidavits, all voter
+9 assistance forms, any physicians' certificates, any copies of disability documentation,
+10 a copy of each completed notation of irregularities form, and any address
+11 confirmation notices forms in the envelope marked "Registrar of Voters", seal it and
+12 attach it to the precinct register after the termination of voting, and place a new
+13 protective seal on the precinct register.
+14 * * *
+15 §573. Evidence of election results
+16 * * *
+17 E. Transmission and disposition of original challenges, duplicate voters'
+18 affidavits, and address confirmation notices forms. (1) At the opening of the voting
+19 machines, the sealed precinct registers shall be immediately returned to the registrar
+20 of voters. Upon receipt of the sealed precinct registers, the registrar shall remove
+21 any attached original record of challenges of voters made during the election, any
+22 precinct register correction affidavits, any voter identification affidavits made
+23 pursuant to R.S. 18:562, any address confirmation notices forms, any voter
+24 assistance forms, any certificates, any copies of disability documentation, and any
+25 completed voter registration applications.
+26 (2) The registrar shall utilize the procedures set forth in Part V of Chapter
+27 4 of this Code to determine the validity of the registration of each challenged voter
+28 who did not submit an address confirmation notice form. In any instance where an
+29 address confirmation notice form was received that stated an address different from
+30 the address on file in the registrar's office for a registrant, the registrar shall change
+Page 18 of 40
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HB NO. 842 ENROLLED
+1 the registrant’s address to the address on the address confirmation notice form if the
+2 change of address is in the parish; transfer the registrant’s registration to another
+3 parish if the address on the address confirmation notice form is in another parish; or
+4 cancel the registration if the address on the address confirmation notice form is in
+5 another state. If an address confirmation notice form was received that affirmed the
+6 address on file in the registrar's office, the registrar shall reinstate the registrant to
+7 the official list of voters if the registrant appears on the inactive list of voters. If the
+8 address confirmation notice form was a result of a valid challenge, the registrar shall
+9 so inform the district attorney and shall transmit to him the address confirmation
+10 notice form of that person.
+11 (3) The registrar also shall proceed to determine if each voter submitting a
+12 voter identification affidavit made pursuant to R.S. 18:562 attesting that he is a
+13 qualified registered voter is in fact a registered voter qualified to vote in the election
+14 by comparing the information provided by the voter with the information on file in
+15 the registrar's office and by reasonably comparing the signature on the affidavit with
+16 any signature on file for the voter in the registrar's office. If the registrar determines
+17 that any person who has voted in the election by virtue of his submission of such an
+18 affidavit was not a registered voter qualified to vote in the election, the registrar shall
+19 so inform the elections compliance unit and shall transmit to it the affidavit of that
+20 person.
+21 (4) The registrar shall scan the address confirmation notice form, voter
+22 identification affidavit, voter assistance form, or voter registration application and
+23 add it to the voter's record in the state voter registration computer system after
+24 processing.
+25 §574. Compilation and promulgation of returns
+26 A.
+27 * * *
+28 (2) Immediately after the completion of the verification by the clerk of court
+29 and the counting and tabulation of provisional ballots for federal office, if applicable,
+30 the board shall publicly prepare two a compiled statements statement of the election
+Page 19 of 40
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HB NO. 842 ENROLLED
+1 returns as shown by the record of the votes made by the clerk of court. The compiled
+2 statements statement shall separately show the machine votes for each candidate and
+3 for and against each proposition in each precinct, the total absentee by mail and early
+4 voting votes for each candidate and for and against each proposition in the parish,
+5 the total provisional votes for each candidate for federal office, and the total of all
+6 votes for each candidate and for and against each proposition in the parish.
+7 (3) The board shall complete the compilation of the election returns and file
+8 one copy of the compiled statement with the clerk of court no later than 4:00 p.m. on
+9 the fifth day after the election. One copy of the compiled statement shall be
+10 postmarked The clerk of court shall transmit an electronic copy of the compiled
+11 statement to the secretary of state no later than noon on the sixth day after the
+12 election and mailed to the secretary of state. The clerk of court shall transmit the
+13 election returns as shown by the compiled statement from the parish board of
+14 election supervisors to the secretary of state no later than noon on the sixth day after
+15 the election. In a parish containing a municipality with a population of three hundred
+16 thousand or more, the parish board of election supervisors shall transmit the election
+17 returns as shown by their compiled statement to the secretary of state no later than
+18 noon on the sixth day after the election. Failure to comply with these time limits
+19 shall not void the election.
+20 * * *
+21 §602. Vacancies in certain local and municipal offices; exceptions
+22 * * *
+23 E.
+24 * * *
+25 (2)
+26 * * *
+Page 20 of 40
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HB NO. 842 ENROLLED
+1 (d) Within twenty-four hours Immediately after he receives the copy, the
+2 secretary of state shall notify all election officials having any duty to perform in
+3 connection with a special election to fill such vacancy, including the parish boards
+4 of election supervisors for the parish or parishes in which the vacancy occurred.
+5 * * *
+6 §604. Marshal of city or municipal court; temporary absence; vacancy
+7 * * *
+8 B.
+9 * * *
+10 (2)
+11 * * *
+12 (c) A copy of the proclamation shall also be mailed to the secretary of state
+13 who shall within twenty-four hours immediately after receipt of the information
+14 notify all election officials having any duty to perform in connection with a special
+15 election to fill such vacancy, including the parish board of election supervisors.
+16 When a special election is required, the appointee shall serve only until the successor
+17 is elected and takes office.
+18 §621. Vacancy in office of judge
+19 * * *
+20 B. Immediately after issuance of the proclamation, the secretary of state shall
+21 publish the proclamation in the official journal of each parish in which the election
+22 is to be held. Within twenty-four hours after its issuance, the governor shall send a
+23 copy of the proclamation to the secretary of state. Within twenty-four hours
+24 Immediately after he receives the copy, the secretary of state shall notify all election
+25 officials having any duty to perform in connection with a special election to fill such
+26 vacancy, including the parish boards of election supervisors for the parish or parishes
+27 in which the vacancy occurred.
+28 * * *
+Page 21 of 40
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HB NO. 842 ENROLLED
+1 §1254. Slates of candidates not affiliated with a recognized political party;
+2 nominating petitions and qualifying by payment of qualifying fees
+3 * * *
+4 C. Nominating petitions for the office of presidential elector shall be in the
+5 form prescribed by R.S. 18:465(D), except that in lieu of including the recognized
+6 political party with which the candidates are affiliated, the petition shall contain, in
+7 not more than three words, the political principle which the candidates represent.
+8 Also, in lieu of the date of the primary election for which the candidates seek to
+9 qualify, the petition shall include the date of the general election. The Each sheet of
+10 the petition also shall include the names of the candidate for president and the
+11 candidate for vice president whom the candidates for elector support in lieu of the
+12 candidate's name and domicile address; however, neither the candidate for president
+13 nor the candidate for vice president supported by the slate of candidates for electors
+14 shall be a candidate for that office supported by a recognized political party or by a
+15 slate of candidates for elector who have previously filed a nominating petition or
+16 qualified by the payment of a qualifying fee for that election. Each petition shall
+17 contain a full slate of candidates for elector, one from each congressional district and
+18 two from the state at large. In designating the office for which the candidate is
+19 nominated, the petition shall designate the particular office of presidential elector,
+20 that is, the district in which the candidate is a qualified elector if he is nominated for
+21 the office for that district, or the designation "At large" in the case of the two offices
+22 to be filled at large. Each nominating petition shall be accompanied by the notice
+23 of candidacy and notarized affidavit of each candidate for elector signifying that the
+24 certificate constitutes his acceptance of the nomination.
+25 * * *
+26 §1259. Arrangement of ballot; designation of party candidates
+27 * * *
+28 B.
+29 * * *
+Page 22 of 40
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HB NO. 842 ENROLLED
+1 (2) Directly to the left of In addition to the names of the presidential and vice
+2 presidential candidates, the following shall appear:
+3 * * *
+4 §1300.2. Petition for recall election; campaign finance disclosure
+5 * * *
+6 C.(1) Prior to the entering of any signatures on a petition, the chairman
+7 designated to represent the petitioners shall file with the secretary of state a copy of
+8 the recall petition which will be used and copies of a picture identification that
+9 contain the name and signature of the chairman and vice chairman, respectively, or
+10 copies of current utility bills, bank statements, government checks, paychecks, or
+11 other government documents that show the name and address of the chairman and
+12 vice chairman, respectively. Upon receipt of the recall petition, the secretary of state
+13 shall provide to the chairman and vice chairman, respectively, a document prepared
+14 by the secretary of state in conjunction with the Louisiana Registrars of Voters
+15 Association, subject to approval as to content by the attorney general, providing
+16 general information on petition requirements and deadlines. Upon receipt of the
+17 recall petition, the secretary of state shall endorse certify thereon the fact and the date
+18 of filing, and this unsigned copy of the recall petition shall be a public record. A
+19 copy shall be transmitted by the secretary of state to the registrar of voters for each
+20 parish in which the recall election is to be held. The chairman shall list on the
+21 petition every parish that is wholly or partially within the voting area where the
+22 recall election is to be held. The petition shall be considered filed when it is received
+23 in the office of the secretary of state. Upon receipt of the recall petition, the
+24 secretary of state shall produce a report of the number of qualified electors in the
+25 voting area wherein the recall election is sought effective on the date of receipt of the
+26 recall petition and shall notify the registrar of voters in each parish in the voting area
+27 of the number of qualified electors of the voting area in the parish for issuance of the
+28 certification.
+29 * * *
+Page 23 of 40
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HB NO. 842 ENROLLED
+1 §1300.3. Certification of registrar of voters; addition or withdrawal of signatures;
+2 designation as a public record; form of names
+3 A.(1)
+4 * * *
+5 (b) The registrar of voters for each parish in the voting area may request and
+6 accept the assistance of employees of the Department of State and registrars and
+7 deputy registrars of voters from other parishes to complete the certification of the
+8 recall petition. Each person offering such assistance shall be considered a deputy
+9 registrar of the requesting parish registrar for that purpose only.
+10 * * *
+11 §1303. Persons entitled to vote in compliance with this Chapter
+12 * * *
+13 K. Secretary of state and employees. The secretary of state or an employee
+14 of the secretary of state Department of State who is a qualified voter and who
+15 submits to the registrar of voters of the parish where he is registered to vote a letter
+16 from his supervisor on Department of State letterhead confirming his employment,
+17 a paystub, or a copy of a state employee identification card may vote absentee by
+18 mail upon meeting the requirements of this Chapter.
+19 L. Employees of the registrar. An employee of the registrar of voters who
+20 is a qualified voter registered to vote in a parish other than his parish of employment
+21 and who submits to the registrar of voters of the parish where he is registered to vote
+22 a letter from his employing registrar of voters confirming his employment, a paystub,
+23 or a copy of an identification card showing employment with the registrar of voters
+24 may vote absentee by mail upon meeting the requirements of this Chapter.
+25 * * *
+26 §1309. Early voting; verification
+27 * * *
+28 D.
+29 * * *
+Page 24 of 40
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HB NO. 842 ENROLLED
+1 (2) If the voter's name is found in the state voter registration computer
+2 system on the inactive list of voters, the voter shall be required to complete an
+3 address confirmation card form to determine his eligibility to vote.
+4 * * *
+5 K.(1) A person qualified voter who is able to perform the essential duties of
+6 a commissioner may serve as an early voting commissioner only if he has received
+7 a certificate of instruction as provided in R.S. 18:431(A) and has attended a course
+8 of instruction for early voting commissioners and received a certificate of instruction
+9 from the registrar of voters.
+10 (2) An early voting commissioner shall meet the same qualifications of a
+11 commissioner as provided in R.S. 18:425(B). A person to whom one or more of the
+12 following applies shall not serve as an early voting commissioner:
+13 (a) The person is a candidate in the election.
+14 (b) An immediate family member of the person is a candidate for election
+15 to public office in the election.
+16 (c) The person is marked for assistance in voting in the precinct register or
+17 requires the use of the audio ballot in voting.
+18 (d) The person has been convicted of an election offense enumerated in
+19 Chapter 10 of this Title.
+20 (e) The person is required to register as a sex offender or child predator
+21 pursuant to R.S. 15:542.
+22 * * *
+23 N.
+24 * * *
+25 (5) A list of early voting watchers shall be filed with the registrar of voters
+26 by hand delivery, facsimile, mail, or commercial courier before 4:30 p.m. on the
+27 fourteenth tenth business day before the first day of early voting for the party
+28 primary, primary, or general election; however, if the fourteenth tenth business day
+29 before the first day of early voting for the party primary, primary, or general election
+30 falls on a Saturday, Sunday, or other legal holiday, the list shall be filed on the next
+Page 25 of 40
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HB NO. 842 ENROLLED
+1 day which is not a Saturday, Sunday, or other legal holiday. For purposes of this
+2 Paragraph, "commercial courier" shall have the same meaning as provided in R.S.
+3 13:3204(D).
+4 * * *
+5 §1309.3. Assistance in voting during early voting
+6 * * *
+7 B. Persons prohibited from assisting voters during early voting.
+8 * * *
+9 (4)
+10 * * *
+11 (b) The voter, along with the person assisting the voter, shall complete a
+12 voter assistance form and provide the name of the person assisting the voter and
+13 attest whether the person, other than a commissioner, providing assistance was paid
+14 to assist the voter. If the voter is not marked for assistance in voting in the statewide
+15 voter registration database, the voter shall attest on the voter assistance form that the
+16 voter has a physical disability or is unable to read and requires assistance in voting.
+17 * * *
+18 §1310. Execution of certificate; marking of ballot; casting vote; assistance
+19 A.
+20 * * *
+21 (3) In order to cast a vote on an absentee by mail ballot, a voter shall make
+22 a selection for a candidate or for or against a proposition by completely filling in the
+23 oval to the right of a selection and returning the ballot to the registrar of voters as
+24 provided in this Section within the applicable deadline set forth by law. If a voter
+25 makes selections for more than the number of candidates to be elected for an office
+26 or makes selections for and against the same proposition, the selections for that
+27 office or proposition shall be void.
+28 * * *
+Page 26 of 40
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HB NO. 842 ENROLLED
+1 §1313. Tabulation and counting of absentee by mail and early voting ballots
+2 * * *
+3 C.(1) Absentee by mail and early voting ballots shall be counted at a public
+4 facility within the parish designated by the registrar of voters at a time fixed by the
+5 parish board of election supervisors, which time shall be on election day no later than
+6 8:00 p.m. If the time selected by the parish board of election supervisors to count
+7 absentee by mail and early voting ballots is after 4:00 p.m. on election day, the
+8 starttime shall be submitted to the commissioner of elections for approval no later
+9 than the fourth day prior to election day.
+10 * * *
+11 H. The procedure for counting early voting machine ballots and paper ballots
+12 voted during early voting shall be as follows:
+13 * * *
+14 (3) The board shall post the results from each early voting machine results
+15 report for the early voting ballots, unless an early voting machine ballot has been
+16 challenged pursuant to R.S. 18:1309(E)(6) or 1315.
+17 * * *
+18 (5) The board shall determine the validity of challenges to early voters who
+19 cast a paper ballot made in accordance with R.S. 18:1315.
+20 * * *
+21 §1313.1. Preparation, verification, tabulation, and counting of absentee by mail and
+22 early voting ballots
+23 * * *
+24 C.
+25 * * *
+26 (2) Absentee by mail and early voting ballots shall be counted at a public
+27 facility within the parish designated by the registrar of voters at a time fixed by the
+28 parish board of election supervisors, which time shall be on election day no later than
+29 8:00 p.m. If the time selected by the parish board of election supervisors to count
+30 absentee by mail and early voting ballots is after 4:00 p.m. on election day, the start
+Page 27 of 40
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HB NO. 842 ENROLLED
+1 time shall be submitted to the commissioner of elections for approval no later than
+2 the fourth day prior to election day.
+3 * * *
+4 I. The procedure for counting early voting machine ballots on election day
+5 shall be as follows:
+6 * * *
+7 (2) The board shall post the results from each early voting machine results
+8 report for the early voting ballots, unless an early voting ballot has been challenged
+9 pursuant to R.S. 18:1309(E)(6) or 1315.
+10 * * *
+11 §1314. Parish board commissioners
+12 * * *
+13 B. Selection for primary election.
+14 * * *
+15 (2) The parish board of election supervisors shall meet at 10:00 a.m. on the
+16 fifth day before a primary election and shall select the parish board commissioners
+17 and alternate parish board commissioners for the parish in the manner provided by
+18 law for the selection of commissioners and alternate commissioners. If there are not
+19 enough certified commissioners to select the appropriate number of parish board
+20 commissioners and alternate parish board commissioners, the board of election
+21 supervisors may select a qualified elector of the parish to serve; however, no such
+22 elector shall serve as a parish board commissioner if a certified commissioner has
+23 been selected as an alternate parish board commissioner.
+24 * * *
+25 C. Selection for general election.
+26 * * *
+27 (2)(a) If the parish board determines that the number of parish board
+28 commissioners can be reduced, it shall notify each person who served as a parish
+29 board commissioner or alternate parish board commissioner in the primary election
+30 of its decision to reduce the number of parish board commissioners and of the date
+Page 28 of 40
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HB NO. 842 ENROLLED
+1 and time of the meeting to select the parish board commissioners for the general
+2 election. The parish board shall meet at 10:00 a.m. on the fifth day before a general
+3 election and shall select the parish board commissioners and alternate parish board
+4 commissioners to serve in the general election for the parish.
+5 * * *
+6 (3) If the parish board and the secretary of state or his designee determine
+7 that the number of parish board commissioners should be increased, the parish board
+8 shall meet at 10:00 a.m. on the fifth day before a general election and shall select the
+9 additional parish board commissioners and alternate parish board commissioners to
+10 serve in the general election for that parish from the list of certified commissioners
+11 who have not been chosen to serve in the general election as a
+12 commissioner-in-charge, commissioner, or, if applicable, parish board commissioner
+13 in the manner provided by law for the selection of commissioners and alternate
+14 commissioners. If there are not enough certified commissioners to select the
+15 appropriate number of parish board commissioners and alternate parish board
+16 commissioners, the board of election supervisors may select a qualified elector of the
+17 parish to serve; however, no such elector shall serve as a parish board commissioner
+18 if a certified commissioner has been selected as an alternate parish board
+19 commissioner.
+20 * * *
+21 §1315. Challenge of absentee by mail or early voting ballot
+22 A.(1)(a) A candidate or his representative, a member of the board, or a
+23 qualified elector may challenge an absentee by mail or early voting ballot for the
+24 grounds specified in R.S. 18:565(A), by personally filing his written challenge with
+25 the registrar no later than the fourth day before the election for which the ballot is
+26 challenged. Such challenge shall be on a form provided by the secretary of state.
+27 (b) A candidate or his representative, a member of the board, an early voting
+28 watcher, or a qualified elector may challenge a person applying to early vote on the
+29 grounds specified in R.S. 18:565(A), prior to the person casting an early voting
+30 ballot. The challenged early voter shall not cast his ballot on an early voting
+Page 29 of 40
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HB NO. 842 ENROLLED
+1 machine, but shall be provided a paper ballot in accordance with R.S.
+2 18:1309(E)(5)(b).
+3 (2) A challenge made pursuant to this Subsection shall be on a form provided
+4 by the secretary of state which The form shall include:
+5 * * *
+6 B. During the preparation and verification process for the counting of
+7 absentee by mail and early voting ballots before the election, as applicable, or the
+8 counting of absentee by mail and early voting ballots on election day, any candidate
+9 or his representative, member of the board, or qualified elector may challenge an
+10 absentee by mail or early voting paper ballot for cause, other than those grounds
+11 specified in R.S. 18:565(A). Failure to include a witness's printed name or mailing
+12 address on an absentee ballot certificate shall not be grounds to challenge an
+13 absentee by mail ballot.
+14 * * *
+15 D.
+16 * * *
+17 (2) If a challenge in accordance with the provisions of Subsection A of this
+18 Section is sustained, the vote shall not be counted; the ballot or early voting
+19 confirmation sheet shall be placed in the special, secure absentee by mail and early
+20 voting ballot container; and the board shall notify the voter in writing of the
+21 challenge and the cause therefor. This notification shall be on a form provided by
+22 the secretary of state and shall be signed by at least a majority of the members of the
+23 board. The notice of the challenge and the cause therefor shall be given within four
+24 business days by mail, addressed to the voter at his place of residence. The board
+25 shall retain a copy of the notification. However, if the challenge is based upon a
+26 change of residence within the parish or is based upon a change of residence outside
+27 of the parish that has occurred within the last three months, the ballot shall be
+28 counted, provided that the voter confirmed his current address as shown by the
+29 affidavit of the absentee by mail ballot certificate or early voting confirmation sheet
+Page 30 of 40
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HB NO. 842 ENROLLED
+1 or, if the voter is on the inactive list of voters, as shown by the information provided
+2 on an address confirmation notice form.
+3 * * *
+4 §1316. Rejection of ballot having distinguishing marks
+5 * * *
+6 D. The secretary of state may promulgate rules in accordance with the
+7 Administrative Procedure Act necessary to effectuate the provisions and purposes
+8 of this Section.
+9 §1317. Curing absentee by mail ballot deficiencies; rejection of deficient ballots
+10 A.(1) The secretary of state shall promulgate and adopt rules in accordance
+11 with the Administrative Procedure Act as necessary to effectuate uniform and
+12 standardized processes for the review and curing or rejection of deficient absentee
+13 by mail ballots by the parish board of election supervisors,.
+14 (2) The failure of a witness to provide his printed name or address on the
+15 absentee by mail certificate shall not be deemed a deficiency requiring cure.
+16 B. The secretary of state shall maintain records of all ballots rejected
+17 pursuant to the provisions of R.S. 18:1315(D)(3)(a), and shall include information
+18 detailing the total number of ballots rejected per parish and the reasons for their
+19 rejection in the post-election statistical data published to the website of the secretary
+20 of state.
+21 * * *
+22 §1333. Nursing home early voting program; voting by persons residing in a nursing
+23 home
+24 * * *
+25 B. A qualified voter who resides in a nursing home within the parish in
+26 which the voter is entitled to vote may vote early as provided in this Section during
+27 the period extending at least two weeks prior to the beginning day for early voting
+Page 31 of 40
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HB NO. 842 ENROLLED
+1 through four days before election day the last day for early voting established by R.S.
+2 18:1309.
+3 * * *
+4 G. The voting by each voter shall be accomplished in the following manner:
+5 (1) The voter shall present to the registrar the letter the voter received from
+6 the registrar that bears the reply number assigned as provided in Subsection E of this
+7 Section. The registrar shall compare the number on the letter with the number on the
+8 absentee by mail ballot envelope in his possession and, if they are identical, the
+9 registrar shall hand the envelope containing the absentee by mail ballot to the voter.
+10 However, if the voter is on the inactive list of voters, the voter shall complete an
+11 address confirmation notice form prior to receiving the envelope containing the
+12 absentee by mail ballot.
+13 * * *
+14 (7) Upon receipt of an address confirmation notice form, the registrar shall
+15 reinstate the voter to the official list of voters.
+16 * * *
+17 §1367.2. Authority to resolve protested solicitations and awards
+18 * * *
+19 F. Stay of procurements during protests. In the event of a timely protest
+20 under Subsection A of this Section, the state shall not proceed further with the
+21 solicitation or with the awarding of the contract unless the chief procurement officer
+22 makes a written determination that the awarding of the contract is necessary without
+23 delay to protect the substantial interests of the state. Upon such determination by the
+24 chief procurement officer, no court shall enjoin progress under the award except
+25 after notice and hearing. Protest bond to stay procurement during protest. (1) A
+26 protestant who timely protests a solicitation or an award may apply for a stay only
+27 during the time period provided in Subsection A of this Section to protest a
+28 solicitation or an award.
+Page 32 of 40
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HB NO. 842 ENROLLED
+1 (2) The protest bond and stay application shall be conducted in the manner
+2 provided in R.S. 39:1671(F)(2) and (3).
+3 * * *
+4 §1367.11. Trial; Hearing; decision; appeal
+5 A. Actions objecting to the solicitation or award of a contract pursuant to this
+6 Subpart shall be tried heard summarily on the administrative record, without a jury,
+7 and in open court. The trial hearing, which shall be confined to the administrative
+8 record, shall begin no later than fourteen days after suit is filed.
+9 * * *
+10 §1371. Delivery and return of machines and supplies; contract; time of delivery
+11 A.(1)(a) The secretary of state shall contract for the delivery to the voting
+12 precincts of the election day machines and other election equipment and supplies for
+13 which he is responsible and for their return to the storage warehouses. The
+14 specifications for the contract shall be prepared by the secretary of state after
+15 consultation with and approval by the parish custodian of the parish in which the
+16 contract is to be performed. The contract shall be advertised and let procured in
+17 accordance with the Louisiana Procurement Code. The governing authority of the
+18 parish or municipality in which the voting machines are to be used may submit bids
+19 and be awarded contracts for the drayage of the voting machines.
+20 (b) The secretary of state may contract for delivery the week prior to the
+21 beginning of early voting until no later than 11:59 p.m. on the day before early
+22 voting begins for an election, in the parishes that have three or more early voting
+23 locations, of the voting machines and other election equipment and supplies for
+24 which he is responsible and for their return to the offices of the registrars of voters
+25 or the location designated by the registrar of voters within twenty-four hours of the
+26 end of early voting. The specifications for the contract shall be prepared by the
+27 secretary of state after consultation with and approval by the registrar of voters of the
+28 parish in which the contract is to be performed. The contract shall be advertised and
+29 let procured in accordance with the Louisiana Procurement Code. The governing
+30 authority of the parish or municipality in which the voting machines are to be used
+Page 33 of 40
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HB NO. 842 ENROLLED
+1 may submit bids and be awarded contracts for the drayage of the early voting
+2 machines.
+3 (2) If the secretary of state seeks to award a contract by competitive sealed
+4 bidding, in In addition to all other notices and advertisements for bids required, the
+5 secretary of state shall furnish notice of the invitation for bids at least thirty days
+6 prior to the opening of bids for each contract for the delivery of machines to the early
+7 voting locations or voting precincts for a parish in the following manner:
+8 * * *
+9 §1401. Objections to candidacy; contests of elections; contests of certification of
+10 recall petition; parties authorized to institute actions; penalties
+11 * * *
+12 G. A qualified elector may bring an action objecting to the placement of a
+13 constitutional amendment on a ballot.
+14 H. Upon a determination that a candidate knowingly attested to false
+15 information in a notice of candidacy, the court shall assess court costs and attorney
+16 fees, and the court may impose any other sanctions the court deems appropriate
+17 against the candidate.
+18 §1402. Proper parties
+19 * * *
+20 B.(1) The following persons are the proper parties against whom election
+21 contests shall be instituted:
+22 (a) The secretary of state, in his official capacity, when contesting an
+23 election on any proposed amendment to the constitution or when contesting the
+24 placement of a constitutional amendment on a ballot.
+25 * * *
+26 §1405. Time for commencement of action
+27 A. An action objecting to candidacy shall be instituted no earlier than the day
+28 the candidate submits his notice of candidacy to the qualifying official and no not
+29 later than 4:30 p.m. of the seventh day after the close of qualifications for candidates
+30 in the primary election. After the expiration of the time period set forth in this
+Page 34 of 40
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HB NO. 842 ENROLLED
+1 Section, no further action shall be commenced objecting to candidacy based on the
+2 grounds for objections to candidacy contained in R.S. 18:492.
+3 B. An action contesting any election involving election to office shall be
+4 instituted no earlier than the day after the date of the election and no not later than
+5 4:30 p.m. of the ninth day after the date of the election, and no such contest shall be
+6 declared moot because of the performance or nonperformance of a ministerial
+7 function including but not limited to matters relating to the printing of ballots for the
+8 general election.
+9 C.(1) An action contesting an election on a proposed constitutional
+10 amendment shall be instituted no earlier than the day after the election and not no
+11 later than 4:30 p.m. of the tenth day after promulgation of the results of the election
+12 by the secretary of state.
+13 (2) An action objecting to the placement of a constitutional amendment on
+14 a ballot shall be instituted no earlier than the date of the final passage of the joint
+15 resolution calling the election and no later than 4:30 p.m. of the thirtieth day after
+16 final passage of the legislative instrument calling the election.
+17 D. An action contesting an election submitting a proposition to the voters,
+18 except a constitutional amendment or a proposition covered by Subsection Paragraph
+19 (C)(2) or Subsection E of this Section, shall be instituted no earlier than the day after
+20 the date of the election and no not later than 4:30 p.m. of the thirtieth day after the
+21 official promulgation of the results of the election.
+22 E. An action contesting an election on a proposition submitted to the voters
+23 relating to the issuance of bonds, refunding bonds, assuming an indebtedness, or
+24 levying a tax shall be instituted no earlier than the day after the date of the election
+25 and no not later than 4:30 p.m. of the sixtieth day after official promulgation of the
+26 results. If the legality of the election, the bond issue provided for, the tax authorized,
+27 or the assumption of indebtedness is not contested within the sixty days herein
+28 prescribed, the authority to incur the debt, levy the tax, or issue the bonds, the
+29 legality thereof, and the taxes and other revenues necessary to pay the same shall be
+30 conclusively presumed to be valid and no court thereafter shall have authority to
+31 inquire into such matters.
+Page 35 of 40
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HB NO. 842 ENROLLED
+1 F. An action contesting the certification of a recall petition shall be instituted
+2 after the certification of the recall petition as provided in R.S. 18:1300.3 and not later
+3 than 4:30 p.m. of the fifteenth day after the governor has issued the proclamation
+4 ordering the recall election or not later than 4:30 p.m. of the fifteenth day after the
+5 last day for the governor to call the election if no recall election is called.
+6 G. Except as provided in Paragraph (C)(1) of this Section, an An action
+7 objecting to the calling of a special election shall be instituted no earlier than the day
+8 after the date the election is called and no not later than 4:30 p.m. of the fourteenth
+9 day after the calling of the election date the election is called.
+10 H. An action contesting any election involving the recall of a public officer
+11 shall be instituted no earlier than the day after the date of the election and no not later
+12 than 4:30 p.m. of the ninth day after the date of the election.
+13 * * *
+14 §1413. Computation of time
+15 Computation of all time intervals in this Chapter shall include Sundays and
+16 other legal holidays. However, if the time interval ends on a Sunday or other legal
+17 holiday, then noon 4:30 p.m. of the next legal day shall be deemed to be the end of
+18 the time interval.
+19 * * *
+20 §1922.2. Approval of reapportionment plan by local election officials
+21 * * *
+22 B.
+23 * * *
+24 (2) The registrar of voters and clerk of court shall review and confirm in
+25 writing the ability to conduct an election utilizing the proposed plan.
+26 (3) The local governing body shall submit to the secretary of state in
+27 accordance with timetables in this Section, the written report received by the local
+28 governing body.
+Page 36 of 40
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HB NO. 842 ENROLLED
+1 Section 2. R.S. 18:107(H) is hereby enacted to read as follows:
+2 §107. Party affiliation for registration; change in party affiliation
+3 * * *
+4 H. A person who is registered as or who applies for registration as
+5 "unaffiliated" shall have his party affiliation changed to "no party".
+6 Section 3. R.S. 18:154(C)(1)(h) is hereby amended and reenacted to read as follows:
+7 §154. Records open to inspection; copying; exceptions
+8 * * *
+9 C.(1) Notwithstanding any provision of this Section to the contrary, the
+10 registrar, the clerk of court, the Department of State, the office of motor vehicles of
+11 the Department of Public Safety and Corrections and any entity that contracts with
+12 the office, each voter registration agency and any entity that contracts with a voter
+13 registration agency, and any person who handles the voter registration application
+14 form of another person shall be prohibited from circulating on a commercial list or
+15 otherwise disclosing the following:
+16 * * *
+17 (h) The voter registration application and any information contained on the
+18 voter registration application of any person who is sixteen or seventeen years of age,
+19 except that the voter registration information of a person who is seventeen years of
+20 age may appear in a precinct register when that person will be eighteen years of age
+21 within seven days before an election day.
+22 * * *
+23 Section 4. R.S. 18:402(G)(1) as amended and reenacted by Act No. 640 of the 2024
+24 Regular Session of the Legislature shall supercede R.S. 18:402(G)(1) as amended and
+25 reenacted by Act No. 386 of the 2025 Regular Session of the Legislature.
+26 Section 5. R.S. 18:2(9) and 154(F)(8) are hereby amended and reenacted to read as
+27 follows:
+28 §2. Definitions
+29 As used in this Code, the following words and terms shall have the meanings
+30 hereinafter ascribed to each, unless the context clearly indicates another meaning:
+31 * * *
+Page 37 of 40
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HB NO. 842 ENROLLED
+1 (9) "Party primary office" means an office of senator or representative in the
+2 United States Congress, justice of the supreme court, the State Board of Elementary
+3 and Secondary Education, and the Public Service Commission.
+4 * * *
+5 §154. Records open to inspection; copying; exceptions
+6 * * *
+7 F. Notwithstanding any provision of this Section to the contrary, the
+8 registrar, the clerk of court, and the Department of State shall be prohibited from
+9 disclosing the following:
+10 * * *
+11 (8) Votes that are void because of the death of a candidate pursuant to R.S.
+12 18:469, withdrawal of a candidate pursuant to R.S. 18:502, resignation of a public
+13 officer subject to a recall election pursuant to R.S. 18:1300.7, or disqualification of
+14 a candidate pursuant to R.S. 18:1410, or cancellation of an election for an office or
+15 proposition.
+16 * * *
+17 Section 6. R.S. 18:2(9) is hereby amended and reenacted to read as follows:
+18 §2. Definitions
+19 As used in this Code, the following words and terms shall have the meanings
+20 hereinafter ascribed to each, unless the context clearly indicates another meaning:
+21 * * *
+22 (9) "Party primary office" means an office of senator or representative in the
+23 United States Congress, justice of the supreme court, the State Board of Elementary
+24 and Secondary Education, and the Public Service Commission.
+25 * * *
+26 Section 7.(A)(1) The May 16, 2026, and June 27, 2026, party primary elections for
+27 representative in the United States Congress are hereby cancelled. Notwithstanding any
+28 provision of the Louisiana Election Code to the contrary, votes cast in the May 16, 2026, or
+29 June 27, 2026, party primary election for representative in the United States Congress shall
+30 be void and not counted. No election official, as defined in R.S. 18:1466, shall disclose votes
+Page 38 of 40
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HB NO. 842 ENROLLED
+1 cast in the May 16, 2026, or June 27, 2026, party primary election for representative in the
+2 United States Congress.
+3 (2) The secretary of state shall remit to each candidate the state portion of the
+4 qualifying fee, as provided for in R.S. 18:464(B)(1), and the additional qualifying fee, as
+5 provided for in R.S. 18:464(B)(5), that the candidate paid to qualify for the May 16, 2026,
+6 and June 27, 2026, party primary elections for representative in the United States Congress.
+7 The secretary of state shall cancel any nominating petition received for the May 16, 2026,
+8 and June 27, 2026, party primary elections for representative in the United States Congress.
+9 (B) Candidates for representative in the United States Congress shall be elected at
+10 the open primary election to be held on November 3, 2026, and the open general election to
+11 be held on December 12, 2026.
+12 (C)(1) Notwithstanding the provisions of R.S. 18:467, the qualifying period for all
+13 candidates in the 2026 fall primary election, including candidates for representative in the
+14 United States Congress, shall begin on August 5, 2026. The qualifying period for such
+15 candidates shall close at 4:30 p.m. on August 7, 2026.
+16 (2) Notwithstanding the provisions of R.S. 18:465(C)(3)(b), the number of qualified
+17 voters who must timely sign a nominating petition for a candidate for representative in the
+18 United States Congress for the 2026 congressional election shall be two hundred fifty.
+19 Notwithstanding the provisions of R.S. 18:465(D), the nominating petition shall not be
+20 required to set forth the congressional district for which a candidate for representative in the
+21 United States Congress seeks to qualify until the petition is submitted to the registrar of
+22 voters. A qualified voter may sign the nominating petition beginning on the effective date
+23 of this Section. The nominating petition shall be submitted to the registrar of voters no later
+24 than July 9, 2026.
+25 Section 8.(A) Section 1 of this Act shall become effective August 1, 2026.
+26 (B) Section 2 of this Act shall become effective September 1, 2026.
+27 (C) Section 3 of this Act shall become effective February 1, 2027.
+28 (D) Section 6 of this Act shall become effective January 1, 2027.
+Page 39 of 40
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HB NO. 842 ENROLLED
+1 (E) Sections 4, 5, and 7 and this Section of this Act shall become effective upon
+2 signature by the governor or, if not signed by the governor, upon expiration of the time for
+3 bills to become law without signature by the governor, as provided by Article III, Section
+4 18 of the Constitution of Louisiana. If vetoed by the governor and subsequently approved
+5 by the legislature, Sections 4, 5, and 7 and this Section of this Act shall become effective on
+6 the day following such approval.
+SPEAKER OF THE HOUSE OF REPRESENTATIVES
+PRESIDENT OF THE SENATE
+GOVERNOR OF THE STATE OF LOUISIANA
+APPROVED:
+Page 40 of 40
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
