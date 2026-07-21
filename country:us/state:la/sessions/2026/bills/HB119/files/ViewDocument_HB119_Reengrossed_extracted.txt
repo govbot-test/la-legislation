@@ -1,0 +1,245 @@
+Title: 
+Official Title: 
+Source: versions - HB119 Reengrossed
+Media Type: application/pdf
+
+================================================================================
+
+HLS 26RS-203 REENGROSSED
+2026 Regular Session
+HOUSE BILL NO. 119
+BY REPRESENTATIVE FONTENOT
+CRIME: Provides relative to unlawful conduct involving images of another person created
+by artificial intelligence
+1 AN ACT
+2 To amend and reenact R.S. 14:73.14(D) and 81.1.1(D)(1) and to enact R.S. 14:73.14.1 and
+3 81.1.1(A)(3) and R.S. 17:416.20.1 and 3996(B)(92), relative to computer-related
+4 crime; to provide relative to the crime of unlawful dissemination or sale of images
+5 of another created by artificial intelligence; to provide for penalties; to create the
+6 crime of unlawful possession of images of another created by artificial intelligence
+7 and provide for elements, definitions, penalties, and exceptions; to provide relative
+8 to the crime of sexting; to provide for conduct that constitutes the crime of sexting;
+9 to provide for penalties; to require school dissemination of certain information; and
+10 to provide for related matters.
+11 Be it enacted by the Legislature of Louisiana:
+12 Section 1. R.S. 14:73.14(D) and 81.1.1(D)(1) are hereby amended and reenacted and
+13 R.S. 14:73.14.1 and 81.1.1(A)(3) are hereby enacted to read as follows:
+14 §73.14. Unlawful dissemination or sale of images of another created by artificial
+15 intelligence
+16 * * *
+17 D.(1) Whoever Except as provided in Paragraph (2) of this Subsection,
+18 whoever violates the provisions of this Section shall be imprisoned with or without
+19 hard labor for not more than six months one year, fined not more than seven hundred
+20 fifty one thousand dollars, or both.
+Page 1 of 7
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-203 REENGROSSED
+HB NO. 119
+1 (2) Whoever violates the provisions of this Section when the depicted person
+2 is under the age of seventeen years shall be imprisoned with or without hard labor
+3 for not more than five years. At least one year of the sentence of imprisonment shall
+4 be imposed without benefit of parole, probation, or suspension of sentence.
+5 (3) If the offender is under the age of fourteen years, the disposition shall be
+6 governed exclusively by the provisions of Title VIII of the Louisiana Children's
+7 Code.
+8 * * *
+9 §73.14.1. Unlawful possession of images of another created by artificial intelligence
+10 A. It is unlawful for any person to possess any video or still image created
+11 by artificial intelligence that depicts another person who is under the age of
+12 seventeen years and is totally nude or in a state of undress so as to expose the
+13 genitals, pubic area, buttocks, or female breasts, when the person possessing the
+14 video or still image knows or has reason to know that the person is not licensed or
+15 authorized to possess such video or still image.
+16 B. For purposes of this Section, the following terms have the following
+17 meanings:
+18 (1) "Another person" includes a person whose image was used in creating,
+19 adapting, or modifying a video or still image with the intent to depict an actual
+20 person and who is recognizable as an actual person by the person's face, likeness, or
+21 other distinguishing characteristic.
+22 (2) "Artificial intelligence" means an artificial system developed in computer
+23 software, physical hardware, or other context that solves tasks requiring human-like
+24 perception, cognition, planning, learning, communication, or physical action.
+25 (3) "Electronic mail service provider" means any person or entity, including
+26 an internet service provider, that is an intermediary in sending or receiving electronic
+27 mail or that provides to end users of the electronic mail service the ability to send or
+28 receive electronic mail.
+29 (4) "Interactive computer service" means any information service, system,
+30 or access software provider that provides or enables computer access by multiple
+Page 2 of 7
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-203 REENGROSSED
+HB NO. 119
+1 users to a computer server, including specifically a service or system that provides
+2 access to the internet and such systems operated or services offered by libraries or
+3 educational institutions.
+4 C.(1) Whoever violates the provisions of this Section shall be imprisoned
+5 with or without hard labor for not more than five years. At least one year of the
+6 sentence of imprisonment shall be imposed without benefit of parole, probation, or
+7 suspension of sentence.
+8 (2) If the offender is under the age of fourteen years, the disposition shall be
+9 governed exclusively by the provisions of Title VIII of the Louisiana Children's
+10 Code.
+11 D. This Section does not apply to an interactive computer service, electronic
+12 mail service provider, or a provider of a telecommunications service or any
+13 information service as defined in 47 U.S.C. 153, or a system or access software
+14 provider that provides or enables computer access by multiple users to a computer
+15 server that was used by a person to violate this Section.
+16 E. This Section does not apply to a person who did not have the specific
+17 intent to receive any video or still image created by artificial intelligence and who
+18 has not consented to receipt of such video or still image.
+19 * * *
+20 §81.1.1. "Sexting"; prohibited acts; penalties
+21 A.(1)
+22 * * *
+23 (3) No person under the age of seventeen years shall knowingly possess, sell,
+24 or maliciously disseminate any video or still image created by artificial intelligence
+25 that depicts another person who is totally nude or in a state of undress so as to expose
+26 the genitals, pubic area, buttocks, or female breasts with the intent to coerce, harass,
+27 or intimidate another person when the person disseminating, possessing, or selling
+Page 3 of 7
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-203 REENGROSSED
+HB NO. 119
+1 the video or still image knows or has reason to know that the person is not licensed
+2 or authorized to disseminate, possess, or sell such video or still image.
+3 * * *
+4 D.(1) For a violation of the provisions of Paragraph (A)(1) or (3) of this
+5 Section, the offender's disposition shall be governed exclusively by the provisions
+6 of Title VII of the Louisiana Children's Code.
+7 * * *
+8 Section 2. R.S. 17:416.20.1 and 3996(B)(92) are hereby enacted to read as follows:
+9 §416.20.1. Information; dissemination, sale, or possession of images of another
+10 created by artificial intelligence; Louisiana Department of Education; public
+11 school distribution
+12 A. The principal of each public school shall disseminate information during
+13 the first five days of each school year to each student grades six and above regarding
+14 the crime and consequences of unlawful dissemination or sale of images of another
+15 created by artificial intelligence as provided in R.S. 14:73.14 and unlawful
+16 possession of images of another created by artificial intelligence as provided in R.S.
+17 14:73.14.1. This information may be incorporated into an existing orientation
+18 program. In addition to each student, the information shall be provided to each
+19 student's parent or legal guardian on a written form containing a signature line for
+20 each student's parent or legal guardian to sign to acknowledge receipt and
+21 understanding of the information, which the parent or legal guardian shall return to
+22 the school. The information required by this Section shall be age and grade
+23 appropriate and shall give full consideration as to whether the student is in a regular
+24 or special program of education.
+25 B. The Louisiana Department of Education shall develop the information
+26 prescribed by this Section and provide it to each public school governing authority,
+27 which shall disseminate it to each principal for this purpose.
+28 * * *
+Page 4 of 7
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-203 REENGROSSED
+HB NO. 119
+1 §3996. Charter schools; exemptions; requirements
+2 * * *
+3 B. Notwithstanding any state law, rule, or regulation to the contrary and
+4 except as may be otherwise specifically provided for in an approved charter, a
+5 charter school established and operated in accordance with the provisions of this
+6 Chapter and its approved charter and the school's officers and employees shall be
+7 exempt from all statutory mandates or other statutory requirements that are
+8 applicable to public schools and to public school officers and employees except for
+9 the following laws otherwise applicable to public schools with the same grades:
+10 * * *
+11 (92) Information relative to unlawful dissemination or sale of images of
+12 another created by artificial intelligence as provided in R.S. 14:73.14 and unlawful
+13 possession of images of another created by artificial intelligence as provided in R.S.
+14 14:73.14.1.
+15 * * *
+16 Section 3. This Act shall be cited and referred to as "The Ivy Daniels Act".
+DIGEST
+The digest printed below was prepared by House Legislative Services. It constitutes no part
+of the legislative instrument. The keyword, one-liner, abstract, and digest do not constitute
+part of the law or proof or indicia of legislative intent. [R.S. 1:13(B) and 24:177(E)]
+HB 119 Reengrossed 2026 Regular Session Fontenot
+Abstract: Provides relative to unlawful conduct involving images of another person created
+by artificial intelligence.
+Present law (R.S. 14:73.14) provides for the crime of unlawful dissemination or sale of
+images of another created by artificial intelligence.
+Present law provides for a penalty of imprisonment for not more than six months, a fine of
+not more $750, or both.
+Proposed law changes the penalties as follows:
+(1) From imprisonment of not more than six months or a fine of not more than $750, or
+both, to imprisonment with or without hard labor for not more than one year or a fine
+of not more than $1,000, or both.
+Page 5 of 7
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-203 REENGROSSED
+HB NO. 119
+(2) When the depicted person is a minor, imprisonment with or without hard labor for
+not more than five years with at least one year of the sentence being without benefit
+of probation, suspension of sentence, or parole.
+(3) If the offender is under the age of 14 years, the disposition shall be governed
+exclusively by the provisions of present law (Title VIII of the La. Children's Code).
+Proposed law (R.S. 14:73.14.1) creates the crime of unlawful possession of images of
+another created by artificial intelligence and provides for elements, definitions, and
+exceptions.
+Proposed law further provides for a penalty of imprisonment with or without hard labor for
+not more than five years with at least one year of the sentence imposed to be served without
+benefit of parole, probation, or suspension of sentence.
+Proposed law provides that if the offender is under the age of 14 years, the disposition shall
+be governed exclusively by the provisions of present law (Title VIII of the La. Children's
+Code).
+Present law (R.S. 14:81.1.1) provides for the crime of sexting.
+Proposed law retains present law and further prohibits a person under the age of 17 from
+unlawfully disseminating, possessing, or selling images of another created by artificial
+intelligence.
+Present law provides that an offender who violates certain provisions of present law (R.S.
+14:81.1(A)(1)) is subject to disposition in accordance with present law (Title VII of the La.
+Children's Code).
+Proposed law retains present law and provides that disposition in accordance with present
+law (Title VII of the La. Children's Code) shall govern a violation of proposed law.
+Proposed law requires the La. Dept. of Education to develop and provide information to
+schools to inform students and their parents of the expected consequences for dissemination,
+sale, or possession of images of another created by artificial intelligence.
+Present law (R.S. 17:3996) provides a list of laws from which charter schools are not
+exempt.
+Proposed law retains present law and adds the requirement for charter schools to inform
+students and parents of the consequences for dissemination, sale, or possession of images
+of another created by artificial intelligence.
+Proposed law shall be cited and referred to as "The Ivy Daniels Act".
+(Amends R.S. 14:73.14(D) and 81.1.1(D)(1); Adds R.S. 14:73.14.1 and 81.1.1(A)(3) and
+R.S. 17:416.20.1 and 3996(B)(92))
+Summary of Amendments Adopted by House
+The Committee Amendments Proposed by House Committee on Administration of
+Criminal Justice to the original bill:
+1. Make technical changes.
+2. Remove possession as unlawful conduct relative to the dissemination or sale of
+AI images as provided in present law (R.S. 14:73.14).
+Page 6 of 7
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-203 REENGROSSED
+HB NO. 119
+3. Change the term "victim" to "depicted person" within the penalty provision for
+a violation of present law (R.S. 14:73.14) that involves a person under the age
+of 17.
+4. Create the new crime of unlawful possession of images of another created by AI
+and provide for elements, definitions, exceptions, and penalties.
+5. Designate proposed law as "The Ivy Daniels Act".
+The House Floor Amendments to the engrossed bill:
+1. Make technical changes.
+2. Provide that the disposition of an offender who us under the age of 14 who
+disseminates, sells, or possesses images of another created by artificial
+intelligence is governed exclusively by the delinquency provisions of present law
+(Title VIII of the La. Children's Code).
+3. Add an exception to the proposed law crime of unlawful possession of images
+of another created by artificial intelligence.
+4. Require the La. Dept. of Education and charter schools to inform students and
+parents of the consequences for dissemination, sale, or possession of images of
+another created by artificial intelligence.
+Page 7 of 7
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
