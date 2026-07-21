@@ -1,0 +1,233 @@
+Title: 
+Official Title: 
+Source: versions - SB93 Enrolled
+Media Type: application/pdf
+
+================================================================================
+
+2026 Regular Session ENROLLED
+SENATE BILL NO. 93
+BY SENATORS MIZELL, ABRAHAM, BARROW, HODGES AND MORRIS
+1 AN ACT
+2 To amend and reenact Code of Criminal Procedure Arts. 312(A), (B), the introductory
+3 paragraph of (D), and (1) and (2), and (G)(2)(a), 316(1), (9), and (10), 318, 319(A),
+4 and 320(J)(1) and to enact Code of Criminal Procedure Arts. 312(G)(2)(c) and (d),
+5 312.1, 315(D), and 316(11) through (13), relative to bail; to provide relative to bail
+6 before and after conviction; to provide relative to revocation of bail in certain
+7 circumstances; to provide for definitions; to provide relative to schedules of bail; to
+8 provide for minimum amounts of bail for certain offenses; to provide for factors in
+9 fixing bail; to provide relative to juvenile records in fixing bail; to provide for bail
+10 conditions for crimes of violence; and to provide for related matters.
+11 Be it enacted by the Legislature of Louisiana:
+12 Section 1. Code of Criminal Procedure Arts. 312(A), (B), the introductory paragraph
+13 of (D), and (1) and (2), and (G)(2)(a), 316(1), (9), and (10), 318, 319(A), and 320(J)(1) are
+14 hereby amended and reenacted and Code of Criminal Procedure Arts. 312(G)(2)(c) and (d),
+15 312.1, 315(D), and 316(11) through (13) are hereby enacted to read as follows:
+16 Art. 312. Right to bail before and after conviction
+17 A. Except as provided in this Article and, Article 312.1, Article 313, or
+18 Article 313.1, a person in custody who is charged with the commission of an offense
+19 is entitled to bail before conviction.
+20 B.(1) A person released on a previously posted bail undertaking for any of
+21 the following shall not be readmitted to bail when the person previously failed
+22 to appear and a warrant for arrest was issued and not recalled or the previous
+23 bail undertaking has been revoked or forfeited:
+24 (1) a (a) A crime of violence as defined by R.S. 14:2(B) which carries a
+25 minimum mandatory sentence of imprisonment upon conviction or.
+26 (2) the (b) The production, manufacture, distribution, or dispensing or
+27 possession with intent to produce, manufacture, distribute, or dispense a controlled
+28 dangerous substance as defined by the Louisiana Uniform Controlled Dangerous
+Page 1 of 7
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SB NO. 93 ENROLLED
+1 Substances Law, shall not be readmitted to bail when the person previously failed to
+2 appear and a warrant for arrest was issued and not recalled or the previous bail
+3 undertaking has been revoked or forfeited.
+4 (c) Any offense involving the possession or use of a firearm.
+5 (d) Any sex offense as defined by R.S. 15:541.
+6 (2) If a person voluntarily appears without confinement by a law enforcement
+7 officer or bail recovery agent following a motion to revoke bail or issuance of an
+8 arrest warrant for failure to appear but prior to revocation or forfeiture, then he may
+9 be released only under one of the following circumstances:
+10 (1)(a) After a contradictory hearing, a person may be released on the
+11 previously posted bail undertaking if the motion to revoke bail is rescinded or the
+12 arrest warrant is recalled and the surety is present or represented at the hearing and
+13 gives written consent. Previous instances of revocation and forfeiture in unrelated
+14 cases are admissible at the hearing. This relief is available only once.
+15 (2)(b) A person may be released on a new bail undertaking without a
+16 contradictory hearing only on bail with a commercial surety and in an amount higher
+17 than the original bail.
+18 * * *
+19 D. A convicted person shall be remanded to jail to await sentence, and shall
+20 be remanded to custody after sentencing, unless any of the following occur:
+21 (1) He is allowed to remain free on a bail undertaking posted prior to
+22 conviction by operation of Article 331(A), and the bail previously fixed is in
+23 accordance with all of the applicable provisions of this Article and other applicable
+24 law.
+25 (2) He is released by virtue of a bail undertaking posted after conviction, and
+26 the bail was fixed in accordance with this Article and other applicable law.
+27 However, post conviction bail is not authorized pursuant to this Article when
+28 there is proof of a substantial risk that the person may flee or poses an
+29 imminent danger to any other person or the community, including when the
+30 court finds the convicted person is likely to commit other crimes while on bail
+Page 2 of 7
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SB NO. 93 ENROLLED
+1 and is therefore a danger to the community.
+2 * * *
+3 G.(1) * * *
+4 (2)(a) After conviction of any crime punishable by imprisonment for twenty-
+5 five years or more that is both either a sex offense and or a crime of violence, there
+6 shall be a rebuttable presumption that the release of the person convicted will pose
+7 a danger to another person or the community and that there is a substantial risk that
+8 the person convicted might flee.
+9 * * *
+10 (c) This Paragraph applies based on the cumulative maximum sentences
+11 for all crimes for which a person was convicted, provided that any crime for
+12 which the person has been convicted is a sex offense or crime of violence as
+13 defined in this Paragraph.
+14 (d) This Paragraph also applies to any person who has been charged as
+15 a habitual offender pursuant to R.S. 15:529.1.
+16 * * *
+17 Art. 312.1. Revocation of bail upon subsequent felony arrest
+18 A. If a defendant is admitted to bail for any crime of violence, any sex
+19 offense, or any crime involving the possession or use of a firearm, the bail for
+20 such offense shall be revoked upon any subsequent arrest for a felony offense
+21 that is not a part of the same transaction, occurrence, or criminal episode which
+22 resulted in the arrest that is the basis for the defendant's current admittance to
+23 bail.
+24 B.(1) Prior to booking the defendant, the arresting agency shall conduct
+25 a prompt and diligent search to determine if the defendant is currently on bail
+26 for any crime of violence, any sex offense, or any crime involving the possession
+27 or use of a firearm.
+28 (2) The arresting agency shall provide the court with the information
+29 described in Subparagraph (1) of this Paragraph, along with an updated
+30 criminal history with all other booking information, for the court to consider
+Page 3 of 7
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SB NO. 93 ENROLLED
+1 when determining the defendant's entitlement to bail, the amount of bail, and
+2 conditions of bail.
+3 C. If the court determines that the defendant is currently on bail for any
+4 crime of violence, any sex offense, or any crime involving the possession or use
+5 of a firearm, the bail for such offense shall be revoked upon any subsequent
+6 arrest for a felony offense that is not a part of the same transaction, occurrence,
+7 or criminal episode which resulted in the arrest that is the basis for the
+8 defendant's current admittance to bail. The court shall enter an order revoking
+9 such prior bail, pending a bail hearing which may be invoked by the state or the
+10 defendant. Either party may seek supervisory review of the granting or denial
+11 of any order that revokes the defendant's prior admittance to bail.
+12 D. For the purposes of this Article, the following terms have the
+13 following meanings:
+14 (1) "Crime of violence" means any offense defined or enumerated as a
+15 crime of violence in R.S. 14:2(B).
+16 (2) "Sex offense" means any offense that requires registration and
+17 notification pursuant to R.S. 15:540 et seq.
+18 * * *
+19 Art. 315. Schedules of bail
+20 * * *
+21 D. A bail schedule implemented by a district court shall fix the minimum
+22 bail amount for the following offenses, and any court that does not utilize a bail
+23 schedule shall not approve a bail undertaking that is less than the minimum
+24 amount specified for the following offenses:
+25 (1) For possession of child sexual abuse materials, R.S. 14:81.1, fifty
+26 thousand dollars.
+27 (2) For production of child sexual abuse materials, R.S. 14:81.1, one
+28 hundred thousand dollars.
+29 Art. 316. Factors in fixing amount of bail
+30 The amount of bail shall be fixed in an amount that will ensure the presence
+Page 4 of 7
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SB NO. 93 ENROLLED
+1 of the defendant, as required, and the safety of any other person and the community,
+2 having regard to:
+3 (1) The seriousness of the offense charged, including but not limited to
+4 whether the offense is a crime of violence, sex offense, or involves a controlled
+5 dangerous substance.
+6 * * *
+7 (9) Whether a firearm or other dangerous weapon was possessed or used
+8 during the commission of the offense.
+9 (10) Whether available resources exist within the jurisdiction to impose
+10 enforceable conditions that would help ensure the defendant's appearance and
+11 protect the community.
+12 (11) The likelihood that the defendant, if released on bail, will continue
+13 to commit crimes resulting in harm to any person or the property of another.
+14 (9)(12) Any other circumstances affecting the probability of defendant's
+15 appearance.
+16 (10)(13) The type or form of bail.
+17 * * *
+18 Art. 318. Juvenile records in fixing bail
+19 A. For the purpose of fixing bail, a court may make a written request of any
+20 juvenile court for an abstract containing only the pending or adjudicated delinquent
+21 acts of a defendant currently before the requesting court. The request shall be
+22 promptly complied with; however, juvenile court shall promptly comply with the
+23 request; however, not more than forty-eight hours, exclusive of Saturdays, Sundays,
+24 and legal holidays, shall lapse before the requested information is deposited in the
+25 mail, by means of an email address provided in the written request addressed to
+26 the requesting court.
+27 B. The requesting court shall not copy, duplicate, or otherwise reproduce
+28 such juvenile records, and these shall be deposited in the mail and addressed to the
+29 issuing juvenile court within seventy-two hours, exclusive of Saturdays, Sundays,
+30 and legal holidays, after bail is determined issue a protective order concerning the
+Page 5 of 7
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SB NO. 93 ENROLLED
+1 use of the juvenile abstract for the purposes of protecting the confidentiality of
+2 the abstract from any individual who is not involved in the relevant proceedings
+3 that concern the defendant who is currently before the requesting court.
+4 Art. 319. Modifications of bail
+5 A. The court having trial jurisdiction over the offense charged, on its own
+6 motion or on motion of the prosecuting attorney or defendant, for good cause, may
+7 either increase or reduce, subject to any minimum amount provided by law, the
+8 amount of bail, or require new or additional security. For purposes of this Article,
+9 good cause for increase of bail specifically includes but is not limited to the rearrest
+10 of the defendant on offenses alleged to have been committed while out on a bail
+11 undertaking. The modification of any bail order wherein a bail undertaking has been
+12 posted by a criminal defendant and his sureties shall upon the modification terminate
+13 the liability of the defendant and his sureties under the previously existing bail
+14 undertaking. A new bail undertaking must be posted in the amount of the new bail
+15 order.
+16 * * *
+17 Art. 320. Conditions of bail undertaking
+18 * * *
+19 J.(1) Crimes of violence. Notwithstanding the provisions of Paragraph G of
+20 this Article and notwithstanding any other provision of law to the contrary, if the
+21 defendant is alleged to have committed a crime of violence as defined in R.S.
+22 14:2(B), the court shall require as a condition the following conditions of bail:
+23 (a)(i) that That the defendant refrain from going to the residence or
+24 household of the victim, the victim's school, and the victim's place of employment
+25 or otherwise contacting the victim in any manner whatsoever, and shall refrain from
+26 having any further contact with the victim. The court shall also require as a condition
+27 of bail that the defendant be prohibited from communicating, by electronic
+28 communication, in writing, or orally, with a victim of the offense, or with any of the
+29 victim's immediate family members.
+30 (ii) This condition does not apply if the victim consents by way of a request
+Page 6 of 7
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SB NO. 93 ENROLLED
+1 to the court and the court issues an order permitting the communication. If an
+2 immediate family member of the victim consents by way of a request to the court
+3 and the court issues an order permitting the communication, then the defendant may
+4 contact that person.
+5 (b) That the defendant, if equipped with a global positioning monitoring
+6 system, comply with the appropriate geographic restrictions, monitoring
+7 conditions, and enforcement provisions of R.S. 15:571.36, 571. 37, and 571.38.
+8 * * *
+PRESIDENT OF THE SENATE
+SPEAKER OF THE HOUSE OF REPRESENTATIVES
+GOVERNOR OF THE STATE OF LOUISIANA
+APPROVED:
+Page 7 of 7
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
