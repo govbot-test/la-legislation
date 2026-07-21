@@ -1,0 +1,1802 @@
+Title: 
+Official Title: 
+Source: versions - SB398 Reengrossed
+Media Type: application/pdf
+
+================================================================================
+
+SLS 26RS-445 REENGROSSED
+2026 Regular Session
+SENATE BILL NO. 398
+BY SENATOR FOIL
+HOUSING. Provides relative to the regulation of manufactured housing. (1/1/27)
+1 AN ACT
+2 To amend and reenact R.S. 37:2150.1 and 2155(A) and R.S. 40:1730.23(B) and to enact Part
+3 II of Chapter 24 of Title 37 of the Louisiana Revised Statutes of 1950, to be
+4 comprised of R.S. 37:2176 through 2176.18, Part II-A of Chapter 24 of Title 37 of
+5 the Louisiana Revised Statutes of 1950, to be comprised of R.S. 37:2177.1 through
+6 2177.10, Part III of Chapter 24 of Title 37 of the Louisiana Revised Statutes of 1950,
+7 to be comprised of R.S. 37:2177.21 through 2177.30, and Part IV of Chapter 24 of
+8 Title 37 of the Louisiana Revised Statutes of 1950, to be comprised of R.S.
+9 37:2177.51 through 2177.53, and to repeal R.S. 51:911.21 through 911.47 and 912.1
+10 through 912.53, relative to the Uniform Standards Code for Manufactured and
+11 Modular Housing; to provide for the Residential Contractors Subcommittee; to
+12 provide relative to factory-built housing; to provide for factory-built housing
+13 residential contractors and factory-built housing developers; to provide for
+14 warranties; to provide for fees and penalties; to provide for exemptions; to provide
+15 for suspension or violations of license; to provide relative to severability; to provide
+16 for notices; to provide relative to minimum standards for installation of
+17 manufactured and modular homes; to provide for licensure; to provide for
+Page 1 of 51
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-445 REENGROSSED
+SB NO. 398
+1 enforcement of building codes by municipalities, parishes, and the fire marshal; to
+2 provide for definitions; and to provide for related matters.
+3 Be it enacted by the Legislature of Louisiana:
+4 Section 1. R.S. 37:2150.1 and 2155(A) are hereby amended and reenacted and Part
+5 II of Chapter 24 of Title 37 of the Louisiana Revised Statutes of 1950, comprised of R.S.
+6 37:2176 through 2176.18, Part II-A of Chapter 24 of Title 37 of the Louisiana Revised
+7 Statutes of 1950, comprised of R.S. 37:2177.1 through 2177.10, Part III of Chapter 24 of
+8 Title 37 of the Louisiana Revised Statutes of 1950, comprised of R.S. 37:2177.21 through
+9 2177.30, and Part IV of Chapter 24 of Title 37 of the Louisiana Revised Statutes of 1950,
+10 comprised of R.S. 37:2177.51 through 2177.53, are hereby enacted to read as follows:
+11 §2150.1. Definitions
+12 As used in this Chapter, the following terms have the following meanings:
+13 (1) "Board" means the State Licensing Board for Contractors.
+14 (2) "Commercial" means any construction project except residential
+15 structures intended to be primarily occupied as a residence with no more than two
+16 separate dwelling units incorporated into one structure.
+17 (3) "Contract" means an agreement to perform a scope of work that is
+18 regulated by this Chapter. The project value includes the entire cost of the labor,
+19 materials, rentals, and all direct and indirect project expenses. The cost of materials,
+20 rentals, and direct and indirect expenses shall be included regardless of who pays the
+21 costs or if they are donated. The "principal contract" is the agreement to perform the
+22 entire scope of work for a construction project.
+23 (4)(a) "Contractor" means any person who undertakes to, attempts to, or
+24 submits a price or bid or offers to construct, supervise, superintend, oversee, direct,
+25 perform, or in any manner assume charge of the construction, alteration, repair,
+26 improvement, movement, demolition, putting up, tearing down, furnishing labor, or
+27 furnishing labor together with material or equipment, or installing material or
+28 equipment for any of the following:
+29 (i) Any building, highway, road, railroad, sewer, grading, excavation,
+Page 2 of 51
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-445 REENGROSSED
+SB NO. 398
+1 pipeline, public utility structure, project development, housing, or housing
+2 development, improvement, or any other construction undertaking for which the
+3 project value is fifty thousand dollars or more when the property is to be used for
+4 commercial purposes.
+5 (ii) Any new residential structure for which the project value is fifty thousand
+6 dollars or more when the property is used for residential purposes.
+7 (iii) Any improvements or repairs to an existing residential structure for
+8 which the project value is seven thousand five hundred dollars or more.
+9 (iv) Any mold remediation for which the project value is seven thousand five
+10 hundred dollars or more.
+11 (b) The term "contractor" includes persons who receive an additional fee for
+12 the employment or direction of labor, or any other work beyond the normal
+13 architectural or engineering services.
+14 (c) A contractor holding a license in the major classification of hazardous
+15 materials, or any subclassifications thereunder, is defined in terms of work
+16 performed for which the project value is one dollar or more.
+17 (d) "Contractor" does not mean any person, supplier, manufacturer, or
+18 employee of such person who assembles, repairs, maintains, moves, puts up, tears
+19 down, or disassembles any patented or proprietary equipment supplied by such
+20 person to a contractor to be used solely by the contractor for a construction
+21 undertaking. "Proprietary" means specific and specialized equipment installation,
+22 manufacturing processes, used, or components that are protected from disclosure to
+23 third parties by the owner or manufacturer of the equipment.
+24 (5) "Controlled access" means the complete building or facility area under
+25 direct physical control within which an unauthorized person is denied access.
+26 (6) "Electrical contractor" means any person who undertakes to, attempts to,
+27 or submits a price or bid or offers to construct, supervise, superintend, oversee,
+28 direct, perform, or in any manner assume charge of the construction, alteration,
+29 repair, improvement, movement, demolition, putting up, tearing down, or furnishing
+Page 3 of 51
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-445 REENGROSSED
+SB NO. 398
+1 labor together with material and equipment, or installing the same for the wiring,
+2 fixtures, or appliances for the supply of electricity to any residential, commercial, or
+3 other project, for which the project value is ten thousand dollars or more. This
+4 Paragraph is not deemed or construed to limit the authority of a contractor, general
+5 contractor, or residential contractor, as those terms are defined in this Section, nor
+6 to require such individuals to become an electrical contractor.
+7 (7) "Employee" means a worker whose employer deducts taxes from his
+8 wages and reports his annual earnings to the Internal Revenue Service using a W-2
+9 form.
+10 (8) "Executive director" means the person appointed by the board to serve as
+11 the chief operating officer in connection with the day-to-day operation of the board's
+12 business. The executive director is the appointing authority for all employees of the
+13 board.
+14 (9) "Extraordinary circumstances" means a federally declared disaster,
+15 a gubernatorially declared disaster or emergency, a pandemic, or an illness or
+16 emergency medical condition.
+17 (10)(a) "Factory-built housing developer" means any person, group of
+18 persons, firm, partnership, corporation, association, company, or legal entity
+19 that sells, leases, or offers for sale or lease to the public, a lot together with the
+20 sale of a manufactured home permanently installed and fixed on a foundation
+21 on the lot and designed as a single-family residence. For purposes of this Part,
+22 "factory-built housing developer" includes "contractors" and "residential
+23 contractors" as defined in this Section.
+24 (b) "Factory-built housing developer" does not include any of the
+25 following:
+26 (i) An individual selling his personal residence.
+27 (ii) A real estate broker or real estate salesman retained by a person to
+28 sell a manufactured home together with a lot on which the manufactured home
+29 has been installed and fixed on a foundation.
+Page 4 of 51
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-445 REENGROSSED
+SB NO. 398
+1 (iii) A federally insured financial institution, its subsidiaries, or affiliates.
+2 (11) "Factory-built housing dealer" means any person who is engaged,
+3 wholly or in part, in the business of buying, selling, distributing, brokering, or
+4 exchanging an interest in a manufactured or modular home with the intent to
+5 make a profit, monetary gain, or any thing of economic value. Any person who
+6 buys, sells, distributes, brokers, or exchanges an interest in more than one such
+7 manufactured or modular home in any twelve-month period shall be presumed
+8 to be a factory-built housing dealer. "Factory-built housing dealer" does not
+9 include any of the following:
+10 (a) A public officer while performing his official duties.
+11 (b) A receiver, trustee, administrator, executor, guardian, or any other
+12 person appointed by or acting pursuant to a judgment or order of any court.
+13 (c) A federally insured financial institution, its subsidiaries, or affiliates;
+14 a finance company; or any other loan agency, whose principal place of business
+15 is located in Louisiana that acquires manufactured housing as an incident to its
+16 regular business.
+17 (d) A developer, a contractor licensed as a factory-built housing
+18 developer as provided in this Section, or a real estate broker or real estate
+19 salesman retained by a person to sell a manufactured home together with
+20 immovable property on which the manufactured home is located.
+21 (e) A manufactured housing community or park owner that sells less
+22 than three manufactured homes in a twelve-month period, provided the
+23 community or park owner has owned and leased the manufactured home being
+24 sold for more than one year.
+25 (9)(12)(a) "General contractor" means a person who contracts directly with
+26 the owner. The term "general contractor" includes the term "primary contractor" and
+27 wherever used in this Chapter or in regulations promulgated thereunder "primary
+28 contractor" means "general contractor".
+29 (b) "General contractor" does not mean any person, supplier, manufacturer,
+Page 5 of 51
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-445 REENGROSSED
+SB NO. 398
+1 or employee of such person who assembles, repairs, maintains, moves, puts up, tears
+2 down, or disassembles any patented or proprietary equipment supplied by such
+3 person to a contractor to be used solely by the contractor for a construction
+4 undertaking.
+5 (10)(13) "Home improvement" means the reconstruction, alteration,
+6 renovation, repair, modernization, conversion, improvement, removal, or demolition,
+7 or the construction of an addition to any preexisting residential structure which
+8 building is used or designed to be used as a residence or dwelling unit, or to
+9 structures which are adjacent to such residence or building for which the project
+10 value is seven thousand five hundred dollars or more. "Home improvement" does not
+11 include services rendered gratuitously.
+12 (11)(14) "Home improvement contractor" means any person who undertakes
+13 or attempts to undertake or submits a price or bid or offers to construct, supervise,
+14 superintend, oversee, direct, perform, or in any manner assume charge of a home
+15 improvement project for which the project value is at least seven thousand five
+16 hundred dollars but less than fifty thousand dollars. A home improvement contractor
+17 shall not perform any structural work that is integral to the structural integrity of any
+18 new or existing structure, including but not limited to footings, foundations, outside
+19 walls, skeleton, bearing columns and interior load bearing walls, floor slabs, or
+20 roofing systems to any type.
+21 (12)(15) "License" means any form of license or registration the board is
+22 authorized to issue in accordance with this Chapter.
+23 (16) "Manufactured home" and "manufactured housing" means a
+24 factory-built, residential dwelling unit constructed to standards and codes, as
+25 promulgated by the United States Department of Housing and Urban
+26 Development (HUD), under the National Manufactured Housing Construction
+27 and Safety Standards Act of 1974, 42 U.S.C. 5401 et seq., as amended. The
+28 terms "manufactured home" and "manufactured housing" may be used
+29 interchangeably and apply to structures bearing the permanently affixed seal
+Page 6 of 51
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-445 REENGROSSED
+SB NO. 398
+1 of the United States Department of Housing and Urban Development.
+2 (17)"Manufactured housing code" means the National Manufactured
+3 Home Construction and Safety Standards Act of 1974, 42 U.S.C. 5401 et seq.,
+4 as amended, and federal regulations promulgated pursuant thereto, along with
+5 any construction or installation-related standards adopted by the residential
+6 subcommittee of the State Licensing Board for Contractors.
+7 (18) "Manufacturer" means any person who manufactures
+8 manufactured or modular housing.
+9 (13)(19) "Mechanical contractor" means any person who undertakes to,
+10 attempts to, or submits a price or bid or offers to construct, supervise, superintend,
+11 oversee, direct, perform, or in any manner assume charge of the construction,
+12 alteration, repair, improvement, movement, demolition, putting up, tearing down, or
+13 furnishing labor, or furnishing labor together with material and equipment, or
+14 installing the same for the construction, installation, maintenance, testing, and repair
+15 of air conditioning, refrigeration, heating systems, and plumbing for all residential,
+16 commercial, and industrial applications as well as ventilation systems, mechanical
+17 work controls, boilers and other pressure vessels, steam and hot water systems and
+18 piping, gas piping and fuel storage, and chilled water and condensing water systems
+19 and piping, including but not limited to any type of industrial process piping and
+20 related valves, fittings, and components, for which the project value is ten thousand
+21 dollars or more. This Paragraph is not deemed or construed to limit the authority of
+22 a contractor, general contractor, or residential contractor, as those terms are defined
+23 in this Section, nor to require such individuals to become a mechanical contractor.
+24 (20) "Mobile home" means a factory-built, residential dwelling unit built
+25 to voluntary standards prior to the passage of the National Manufactured
+26 Housing Construction and Safety Standards Act of 1974, 42 U.S.C. 5401 et seq.
+27 "Mobile home" includes and is interchangeable with the term "house trailer",
+28 but does not include the term "manufactured home".
+29 (21) "Modular home" and "modular housing" mean a factory-built,
+Page 7 of 51
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-445 REENGROSSED
+SB NO. 398
+1 residential dwelling unit built to the International Residential Code as adopted
+2 by the Louisiana State Uniform Construction Code Council.
+3 (22) "Modular housing code" means the International Residential Code
+4 as adopted by the Louisiana State Uniform Construction Code Council.
+5 (14)(23) "Mold remediation contractor" means any person who engages in
+6 removal, cleaning, sanitizing, demolition, or other treatment, including preventative
+7 activities, of mold or mold-contaminated matter that was not purposely grown at that
+8 location for which the project value is seven thousand five hundred dollars or more.
+9 Mold remediation applies only to the regulation of mold-related activities that affect
+10 indoor air quality and does not apply to routine cleaning when not conducted for the
+11 purpose of mold-related activities intended to affect indoor air quality.
+12 (15)(24) "Person" means any individual, firm, partnership, association,
+13 cooperative, corporation, limited liability company, limited liability partnership, or
+14 any other entity recognized by Louisiana law; and whether or not acting as a
+15 principal, trustee, fiduciary, receiver, or as any other kind of legal or personal
+16 representative, or as a successor in interest, assignee, agent, factor, servant,
+17 employee, director, officer, or any other representative of such person; or any state
+18 or local governing authority or political subdivision.
+19 (16)(25) "Plumbing contractor" means any person who installs, maintains,
+20 and repairs potable and nonpotable tap water or sewer systems within a building
+21 structure or residential structure for which the project value is ten thousand dollars
+22 or more.
+23 (17)(26) "Principal" means an owner, shareholder, or an officer or director
+24 of a corporation; a member or manager of a limited liability company; a general
+25 partner of a partnership; a sole proprietor; a trustee; or a full-time employee with
+26 similar operational control or significant influence with respect to any person as
+27 determined by the board.
+28 (18)(27) "Qualifying party" means a natural person designated by the
+29 contractor to represent the contractor for the purpose of complying with the
+Page 8 of 51
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-445 REENGROSSED
+SB NO. 398
+1 provisions of this Chapter including but not limited to meeting the requirements for
+2 the initial license and any continuation thereof.
+3 (19)(28)(a) "Residential contractor" means any person who constructs a fixed
+4 building or structure for sale or use by another as a residence or who, for a price,
+5 commission, fee, wage, or other compensation, undertakes or offers to undertake the
+6 construction or superintending of the construction of any residential structure which
+7 is not more than three floors in height, to be used by another as a residence, for
+8 which the project value is fifty thousand dollars or more. The term "residential
+9 contractor" includes all persons who receive an additional fee for the employment
+10 or direction of labor, or any other work beyond the normal architectural or
+11 engineering services.
+12 (b) "Residential contractor" includes both of the following:
+13 (i) Any person bidding or performing home improvement for which the
+14 project value is seven thousand five hundred dollars or more.
+15 (ii) Any person performing the installation of a modular home with a value
+16 equal to or greater than fifty thousand dollars for which the total project value shall
+17 not include the cost of the component parts of the modular home in the condition
+18 each part leaves the factory pursuant to R.S. 40:1730.71.
+19 (c) "Residential contractor" does not include any person engaged in building
+20 residential structures that are built to the United States Department of Housing and
+21 Urban Development's construction standards for manufactured housing as outlined
+22 at 42 U.S.C. 5401 et seq., or mounted on a metal chassis and wheels.
+23 (20)(29) "Residential roofing" means the construction, alteration, repair,
+24 improvement, demolition, putting up, tearing down, furnishing labor, or furnishing
+25 labor together with materials or equipment, or the installation of materials or
+26 equipment for any phase of roofing specific to a residential structure for which the
+27 project value is seven thousand five hundred dollars or more.
+28 (21)(30) "Residential roofing contractor" means any person who undertakes
+29 to, attempts to, or submits a price or bid, or offers to construct, supervise,
+Page 9 of 51
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-445 REENGROSSED
+SB NO. 398
+1 superintend, oversee, direct, perform, or in any manner assume charge of a
+2 residential roofing project for which the project value is seven thousand five hundred
+3 dollars or more.
+4 (22)(31) "Residential structure" means a building or structure that is used
+5 primarily for occupancy by a person as a residence. Such structures or buildings
+6 include but are not limited to single family dwellings and duplexes which are not
+7 more than three floors in height and structures that are part of or adjacent to the
+8 building or structures to be used as a residence. A residential structure more than
+9 three floors in height may be built by a person holding a building construction and
+10 residential construction license.
+11 (32) "Residential subcommittee" means the Residential Contractors
+12 Subcommittee of the State Licensing Board for Contractors.
+13 (33) "Salesman" means any person employed by a factory-built housing
+14 dealer or factory-built housing developer for purposes of selling manufactured
+15 or modular housing to the public.
+16 (34) "Seal" or "label" means the permanently affixed device or insignia
+17 issued by the United States Department of Housing and Urban Development
+18 (HUD) or other authority having jurisdiction that is displayed on the exterior
+19 of a factory-built manufactured or modular home, certifying that the home is
+20 in compliance with the manufactured housing code or the modular housing
+21 code.
+22 (23)(35) "Subcontract" means an agreement to perform a portion of the scope
+23 of work contained in the principal contract including the entire cost of labor and
+24 materials of that part of the principal contract which is performed by the
+25 subcontractor.
+26 (24)(36)(a) "Subcontractor" means a person who contracts to perform a scope
+27 of work that is a part of the scope of work contained in the principal contract.
+28 (b) "Subcontractor" does not include any person, supplier, or manufacturer
+29 who assembles, repairs, maintains, moves, puts up, tears down, or disassembles any
+Page 10 of 51
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-445 REENGROSSED
+SB NO. 398
+1 patented or proprietary equipment supplied by such person to a contractor to be used
+2 solely by the contractor for a construction undertaking.
+3 (37) "Transporter" means an individual who transports a manufactured
+4 or modular home to a site of installation but does not perform any blocking or
+5 anchoring of the home, except a transporter is allowed to put blocks under the
+6 hitch on the tongue of the frame.
+7 * * *
+8 §2155. Residential Contractors Subcommittee; membership; terms; powers; duties
+9 A. There is hereby established within the board the Residential Contractors
+10 Subcommittee, hereinafter referred to as "residential subcommittee", consisting of
+11 five nine members who shall be residents of this state and who have been actively
+12 engaged in residential contracting for at least five years prior to appointment by the
+13 governor. Three members of the residential subcommittee shall be appointed by the
+14 governor from a list of not less than ten names submitted by the Louisiana
+15 Homebuilders Association as certified by its president and secretary. One member
+16 of the residential subcommittee shall be from and appointed to represent the first
+17 congressional district, one member shall be from and appointed to represent the
+18 second congressional district, one member shall be from and appointed to represent
+19 the third congressional district, one member shall be from and appointed to represent
+20 the fourth and fifth congressional districts, and one member shall be from and
+21 appointed to represent the sixth congressional district. Three members of the
+22 residential subcommittee shall be appointed by the governor from a list of not
+23 less than ten names submitted by the Louisiana Manufactured Housing
+24 Association as certified by its president and secretary. One member of the
+25 residential subcommittee shall be appointed by the governor to represent each
+26 congressional district. Two members shall be appointed by the governor as at-
+27 large members.
+28 * * *
+29 PART II. FACTORY-BUILT HOUSING
+Page 11 of 51
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-445 REENGROSSED
+SB NO. 398
+1 §2176. Short title
+2 This Part shall be known and may be cited as "Uniform Standards Code
+3 for Manufactured and Factory-Built Housing".
+4 §2176.1. Establishment of uniform standards codes
+5 All new manufactured or modular homes, as defined in R.S. 37:2150.1,
+6 which are sold or offered for sale in this state shall be in compliance with the
+7 manufactured housing code or the modular housing code and the requirements
+8 of this Part.
+9 §2176.2. License required; qualifications; application; issuance; transfer;
+10 criminal history record information; bond
+11 A.(1) No manufacturer, factory-built housing dealer, or salesman within
+12 or without this state shall sell or offer for sale in Louisiana any mobile home,
+13 modular home, or manufactured housing unless he has obtained a valid
+14 manufacturer's, factory-built housing dealer's, or salesman's license, whichever
+15 is applicable, from the residential subcommittee as provided in this Part.
+16 (2) No factory-built housing developer shall sell or offer for sale to the
+17 public any manufactured or modular home unless he has obtained a license
+18 from the residential subcommittee, as provided in this Part. No employee of a
+19 factory-built housing developer shall offer manufactured or modular housing
+20 for sale to the general public without first obtaining a salesman license or being
+21 a licensed real estate agent.
+22 (3) No manufacturer, within or without this state, shall sell, or offer for
+23 sale to a person, any manufactured or modular housing for resale to the public
+24 unless the person has obtained a valid factory-built housing dealer's or factory-
+25 built housing developer's license from the residential subcommittee as provided
+26 in this Part.
+27 (4) A license shall be issued when the requirements of this Part are met
+28 as herein provided.
+29 (5) The residential subcommittee may, by rule and regulation
+Page 12 of 51
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-445 REENGROSSED
+SB NO. 398
+1 promulgated in accordance with the Administrative Procedure Act, provide for
+2 staggered renewal and collection of the annual license fees imposed under R.S.
+3 37:2176.5.
+4 (6) No factory-built housing dealer or factory-built housing developer
+5 shall offer for sale to the public any new manufactured or modular home unless
+6 the manufacturer of the home has obtained a valid manufacturer's license.
+7 B. Application for a manufacturer's license shall be made upon the form
+8 prescribed by the residential subcommittee and shall contain all of the
+9 following:
+10 (1) The name and address of the applicant.
+11 (2) The name and address of each partner if the applicant is a
+12 partnership.
+13 (3) The names of the principal officers and the state in which
+14 incorporated, if the applicant is a corporation.
+15 (4) The place or places where the applicant's business is to be conducted.
+16 (5) Any other reasonable information as may be required by the
+17 residential subcommittee.
+18 C.(1) No factory-built housing dealer's, factory-built housing developer's,
+19 or salesman's license shall be issued to any person who has not attained the age
+20 of eighteen years.
+21 (2) Each applicant for an original factory-built housing dealer's license
+22 or an original factory-built housing developer's license shall have first served
+23 actively for one year as a salesman or shall have purchased an existing factory-
+24 built housing dealer's business.
+25 (3) Each retailer and developer shall be required to have at least one
+26 licensed salesman.
+27 D. Every application for license shall be verified by the oath or
+28 affirmation of the applicant if an individual or if the applicant is a partnership
+29 or corporation, by a partner or officer of the partnership or corporation. The
+Page 13 of 51
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-445 REENGROSSED
+SB NO. 398
+1 applications for licenses shall be in the form and detail as prescribed by the
+2 residential subcommittee.
+3 E.(1) The applicant, each principal, and each designated qualifying party
+4 shall complete an application and pass a background investigation. An applicant
+5 shall provide all information or documentation requested by the board,
+6 including but not limited to documentation relative to identification, criminal
+7 history, and financial history. The board may deny approval of the applicant,
+8 any of its principals, or any qualifying party for cause. The background
+9 investigation shall be conducted in relation to all of the following:
+10 (a) Fiduciary or monetary matters including but not limited to any
+11 bankruptcy, judgment, insolvency, or lien.
+12 (b) Any criminal offense resulting in a conviction, guilty plea, or plea of
+13 nolo contendere.
+14 (2) The residential subcommittee may deny approval of an applicant, a
+15 principal, or a designated qualifying party for any of the following reasons:
+16 (a) For cause.
+17 (b) The applicant, principal, or designated qualifying party does not have
+18 an established place of business that is used or will be used for the purpose of
+19 selling, displaying, and offering for sale or dealing in manufactured housing.
+20 (c) For a violation of any provision of this Part.
+21 F.(1) Any manufacturer or factory-built housing dealer before removing
+22 any one or more of his places of business or opening any additional place of
+23 business shall apply to the residential subcommittee and obtain a separate
+24 license for each place of business to which he intends to move and for each
+25 additional place of business and pay the applicable fee, as provided in this Part,
+26 for each place of business to which he moves and for each additional place of
+27 business.
+28 (2) A licensed salesman transferring employment from one factory-built
+29 housing residential contractor to another factory-built housing dealer shall
+Page 14 of 51
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-445 REENGROSSED
+SB NO. 398
+1 apply to the residential subcommittee for a transfer of his salesman's license
+2 within fifteen days after the date of his transfer of employment and shall pay the
+3 applicable fee as provided in this Part. The application for transfer shall be in
+4 a form prescribed by the residential subcommittee.
+5 G.(1) Except as provided for in Paragraph (2) of this Subsection,
+6 beginning January 1, 1983, every license issued under this Part shall be issued
+7 annually and shall expire on December thirty-first following the date upon
+8 which it was issued. Each license issued shall be renewed annually, and failure
+9 to apply for a renewal license by January first of the ensuing license period shall
+10 automatically suspend the license until a renewal license is applied for. During
+11 the period of suspension, any practice by the licensee under the color of such
+12 license shall be deemed a violation of this Part. Applications made during the
+13 period of suspension shall require the payment of a fee equal to twice the
+14 amount of the license renewal fee as set forth in R.S. 37:2176.5. If a license is not
+15 renewed within a period of one year from the date of its expiration, it is no
+16 longer eligible for renewal. An application for a new license may be submitted
+17 and upon approval, a new license shall be issued. Renewal of a factory-built
+18 housing dealer license shall require each factory-built housing dealer to certify
+19 that he has maintained a record of providing satisfactory service to consumers.
+20 (2) Beginning January 1, 1992, the residential subcommittee may, by rule
+21 and regulation promulgated in accordance with the Administrative Procedure
+22 Act, provide for staggered renewal and collection of the annual license fees
+23 imposed under R.S. 37:2176.5. Any rule and regulation promulgated under the
+24 provisions of this Paragraph providing for the staggered issuance and renewal
+25 of a license shall require that the license be renewed twelve months after
+26 issuance annually, and failure to apply for the renewal license shall
+27 automatically suspend the license until a renewal license is applied for. During
+28 the period of suspension any practice by the licensee under the color of such
+29 license shall be deemed a violation of this Part. Applications made during the
+Page 15 of 51
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-445 REENGROSSED
+SB NO. 398
+1 period of suspension shall require the payment of a fee equal to twice the
+2 amount of the license renewal fee as set forth in R.S. 37:2176.5. If a license is not
+3 renewed within a period of one year from the date of its expiration, it is no
+4 longer eligible for renewal. An application for a new license may be submitted
+5 and upon approval, a new license shall be issued. Renewal of a factory-built
+6 housing dealer's license shall require the factory-built housing dealer to certify
+7 that he has maintained a record of providing satisfactory service to consumers.
+8 H.(1) The residential subcommittee shall have the authority to request
+9 and obtain from the Department of Public Safety and Corrections, Bureau of
+10 Criminal Identification and Information, hereinafter referred to as the
+11 "bureau", criminal history record information as defined in R.S. 37:763.1 on
+12 any person applying for any license which the residential subcommittee is
+13 authorized by law to issue and shall pay a fee as specified in R.S. 15:587.
+14 (2) The applicant shall submit fingerprints and other identifying
+15 information to the residential subcommittee, which shall then submit such
+16 information to the bureau, and the bureau shall, upon request of the residential
+17 subcommittee and after receipt of the fingerprint card and other identifying
+18 information from the residential subcommittee, make available to the
+19 residential subcommittee all arrest and conviction information contained in the
+20 bureau's criminal history record and identification files which pertain to the
+21 applicant.
+22 (3) The residential subcommittee shall have the authority to charge and
+23 collect from an applicant for any license which the board is authorized to issue,
+24 in addition to all other applicable fees and costs, the amount as may be incurred
+25 by the residential subcommittee in requesting and obtaining criminal history
+26 record information on the applicant.
+27 I.(1) All factory-built housing dealers and factory-built housing
+28 developers shall annually take a residential subcommittee-approved continuing
+29 education course. The individual required to take the continuing education
+Page 16 of 51
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-445 REENGROSSED
+SB NO. 398
+1 course is the individual license holder; for corporations, an officer or manager;
+2 for partnerships, a partner or manager. The residential subcommittee shall set
+3 the educational requirements pursuant to R.S. 37:2155(G)(3).
+4 (2) All factory-built housing dealers and factory-built housing developers
+5 shall provide annually along with the license application a surety bond in the
+6 amount of two hundred fifty thousand dollars or post a fifty thousand dollar
+7 irrevocable letter of credit with the residential subcommittee for consumer
+8 protection and proof of net worth.
+9 (3) Any person applying for an original factory-built housing dealer's
+10 license or an original factory-built housing developer's license after January 1,
+11 2004, shall take a class and pass an accompanying test prior to receiving his
+12 original license. The residential subcommittee shall develop the class and test.
+13 The fee for the factory-built housing dealer and factory-built housing developer
+14 class and test shall be set by rule and shall not exceed one hundred dollars.
+15 J. The residential subcommittee shall require that factory-built housing
+16 dealers, residential contractors, factory-built housing developers, transporters,
+17 and installers show proof of continued and ongoing general liability insurance
+18 coverage of at least five hundred thousand dollars. Manufacturers shall be
+19 required to show proof of continued and ongoing liability insurance coverage
+20 of at least one million dollars.
+21 §2176.3. Manufactured home factory-built housing dealers manufacturer
+22 relationship; warranty work; requirements upon termination;
+23 penalty; indemnity
+24 A.(1) In the event that a factory-built housing dealer ceases to do
+25 business with a manufacturer due to any of the following: the manufacturer
+26 refuses to honor an agreed upon sales territory; the manufacturer refuses to pay
+27 warranty claims within sixty days or perform major warranty work beyond the
+28 scope expected of a factory-built housing dealer within sixty days; or the
+29 manufacturer can no longer deliver the product requested by the factory-built
+Page 17 of 51
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-445 REENGROSSED
+SB NO. 398
+1 housing dealer in a reasonable and timely manner, then after notice thereof to
+2 the manufacturer by registered or certified mail return receipt requested within
+3 thirty days thereafter, the manufacturer, at a minimum, shall repurchase all
+4 new and unused manufactured homes of the current or immediately prior
+5 model year and parts on hand that have not been damaged or substantially
+6 altered to the prejudice of the manufacturer while in the possession of the
+7 factory-built housing dealer and all required demonstrators.
+8 (2) The manufacturer shall make the required repurchase after the
+9 factory-built housing dealer terminates his franchise, sales, or any other
+10 contractual agreement, and within sixty days of the submission by the factory-
+11 built housing dealer to the manufacturer, by registered or certified mail return
+12 receipt requested, of a final inventory of manufactured homes and parts on
+13 hand.
+14 (3) Failure to make the repurchase without just cause shall subject the
+15 manufacturer to a penalty of one and one-half percent per month or fraction
+16 thereof, of the inventory value of returnable manufactured homes and parts,
+17 payable to the factory-built housing dealer, as long as repurchase is not made.
+18 B. Any warranty work performed by a manufactured home factory-built
+19 housing dealer pursuant to a manufacturer's warranty shall be reimbursed by
+20 the manufacturer within sixty days of invoicing for those services at a labor rate
+21 equal to but not in excess of the labor rate in effect at that retail dealership at
+22 the time that the warranty work is performed. The reimbursement amount shall
+23 also include reasonable costs for parts and mileage related to the performance
+24 of the warranty work.
+25 C. Notwithstanding the terms of any franchise, sales, or other
+26 contractual agreement, each manufacturer shall indemnify and hold harmless
+27 its factory-built housing dealer against any judgment for damages, including
+28 but not limited to court costs and reasonable attorney fees of the factory-built
+29 housing dealer, arising out of complaints, claims, or lawsuits including but not
+Page 18 of 51
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-445 REENGROSSED
+SB NO. 398
+1 limited to strict liability, negligence, misrepresentation, express or implied
+2 warranty, or rescission of sale to the extent that the judgment arises out of
+3 alleged defective or negligent manufacture, assembly, or design of
+4 manufactured homes, parts, or accessories or other functions of the
+5 manufacturer, which are beyond the control of the factory-built housing dealer.
+6 D. Prior to making a change in the area of responsibility described in the
+7 franchise, sales, or any other contractual agreement or sales and service
+8 agreement, of a factory-built housing dealer, the franchisor or manufacturer
+9 shall give the factory-built housing dealer no less than sixty days prior written
+10 notice, by certified or registered mail.
+11 §2176.4. Residential subcommittee
+12 A. The powers and duties of the residential subcommittee shall include
+13 but are not limited to the following:
+14 (1) Licensing of manufacturers, factory-built housing dealers, factory-
+15 built housing developers, salesmen, transporters, and installers as provided in
+16 this Part and Part II-A of this Chapter.
+17 (2) Working with consumers, manufacturers, factory-built housing
+18 dealers, factory-built housing developers, salesmen, transporters, and installers
+19 to hear complaints and make determinations relating to construction defects,
+20 warranty issues, service complaints, and other matters which are not set forth
+21 pursuant to 24 CFR Parts 3280 and 3282. The residential subcommittee may,
+22 prior to convening a formal hearing, establish a date for arbitration or
+23 mediation and in its discretion, the residential subcommittee may defer its
+24 authority to conduct a hearing and render a determination to an independent
+25 third-party arbitrator or mediator to hear and resolve complaints brought
+26 before the residential subcommittee. If the complaint is not resolved through
+27 arbitration or mediation, the residential subcommittee may appoint a
+28 three-member panel to conduct an initial review of the complaint. All costs
+29 associated with such arbitration or mediation shall be borne by the board.
+Page 19 of 51
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-445 REENGROSSED
+SB NO. 398
+1 (3) Establishing an alternative dispute resolution process for
+2 manufactured and modular home consumers in Louisiana. The residential
+3 subcommittee may charge a reasonable fee to defray the cost of establishing the
+4 alternative dispute resolution process.
+5 (4) Requiring all licensees to maintain their records for a period of three
+6 years and to keep their records open to inspection by any authorized employee
+7 of the residential subcommittee during reasonable hours.
+8 (5) The ability to issue cease and desist orders, and to subpoena
+9 individuals and records as it deems necessary.
+10 (6) The ability to take action against any licensee that hires an individual
+11 that has been found to be in violation of the law and has a license that is either
+12 suspended or revoked.
+13 (7) Review and approve continuing education course work, required
+14 under this Part or Part II-A of this Chapter, offered in other states, if the other
+15 state allows for reciprocity of Louisiana continuing education course work.
+16 (8) The authority to establish a mandatory uniform written
+17 transportation and installation contract that is required to be used by all
+18 transporters and installers when moving or installing a manufactured or
+19 modular home in this state. Transporters and installers shall be required to give
+20 their customers a copy of the contract, itemizing all services being provided and
+21 the cost associated with those services, prior to beginning work or moving a
+22 home. These records shall be maintained for at least three years and shall be
+23 made available to the residential subcommittee for inspection. Transporters
+24 who are only passing through the state, or are delivering a home from a
+25 manufacturer to a licensee of the residential subcommittee, are not required to
+26 comply with the provisions of this Paragraph. The residential subcommittee
+27 may adopt rules in accordance with the Administrative Procedure Act as are
+28 necessary to implement the provisions of this Paragraph.
+29 (9) The authority to adopt rules governing the repairs or renovations of
+Page 20 of 51
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-445 REENGROSSED
+SB NO. 398
+1 manufactured homes.
+2 (10) Conducting meetings by remote access.
+3 B. All expenses incurred by the residential subcommittee in carrying out
+4 the provisions of this Part shall be proper charges against the fund.
+5 §2176.5. Fees; disposition
+6 A. The residential subcommittee shall impose and collect the following
+7 schedule of fees:
+8 (1) Original manufacturer's license $250.00
+9 (2) Manufacturer's renewal license $250.00
+10 (3) Original retailer's license $150.00
+11 (4) Factory-built housing dealer's renewal license $150.00
+12 (5) Original salesman's license $50.00
+13 (6) Salesman's renewal license $50.00
+14 (7) Transfer of salesman's license $5.00
+15 (8) Factory-built housing dealer's branch office license $75.00
+16 (9) Factory-built housing developer's original or renewal license $150.00
+17 B. All fees or fines collected under the provisions of this Part or Part II-A
+18 of this Chapter shall be collected and received by the executive director of the
+19 residential subcommittee and, upon receipt, shall be deposited by him into the
+20 state treasury and, after compliance with the provisions of Article VII, Section
+21 9(B) of the Constitution of Louisiana, relative to the Bond Security and
+22 Redemption Fund, shall be credited to the Residential Subcommittee
+23 Manufactured Housing Fund which is hereby created as a special fund in the
+24 state treasury. Monies in the Residential Subcommittee Manufactured Housing
+25 Fund shall be appropriated by the legislature for use solely for the purposes of
+26 the activities of the residential subcommittee in implementing and enforcing the
+27 manufactured housing provisions of this Part and Part II-A of this Chapter.
+28 §2176.6. Motor vehicle inspection; exception
+29 The provisions of Chapter 7 of Title 32 of the Louisiana Revised Statutes
+Page 21 of 51
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-445 REENGROSSED
+SB NO. 398
+1 of 1950, relative to inspections shall not apply to manufactured or modular
+2 housing.
+3 §2176.7. Serial numbers on manufactured and modular homes
+4 A serial number shall be stamped by the manufacturer on the header
+5 plate or front cross member of the frame so that it can be easily read. It may not
+6 contain more than fifteen digits. Any multiple units shall contain the same serial
+7 number with letters of the alphabet designating that each is a different, separate
+8 unit. Starting with the letter "A", each unit addition shall be in alphabetical
+9 order. The letter shall be stamped at the end of the serial number.
+10 §2176.8. Administration and enforcement; powers of residential subcommittee;
+11 cease and desist orders; applicability of Administrative
+12 Procedure Act
+13 A.(1) The residential subcommittee is charged with the adoption,
+14 administration, and enforcement of manufactured housing construction and
+15 safety standards and any other rules and regulations necessary for the
+16 administration and enforcement of this Part which are not set forth pursuant
+17 to 24 CFR Part 3280 and CFR Part 3282, Subpart I.
+18 (2) The residential subcommittee may adopt, pursuant to the
+19 Administrative Procedure Act, such rules and regulations as are necessary to
+20 enforce the standards promulgated under this Section and any other rules and
+21 regulations necessary for the administration and enforcement of this Part.
+22 (3) For the performance of duties required under the provisions of this
+23 Part, including but not limited to the inspections necessary to administer and
+24 enforce the standards, rules, or regulations adopted under this Subsection, the
+25 residential subcommittee may adopt fees of not more than fifty dollars per
+26 inspection and not more than twenty-five dollars per hour for services
+27 performed in conducting the inspections.
+28 B. The board may contract for professional services and may hire
+29 employees as it deems necessary for the performance of its functions required
+Page 22 of 51
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-445 REENGROSSED
+SB NO. 398
+1 or authorized by the provisions of this Part, to the extent that funds are
+2 available therefor.
+3 C. Except as otherwise provided in this Part, the provisions of Chapter
+4 13 of Title 49 of the Louisiana Revised Statutes of 1950 shall apply to the
+5 administration and enforcement of this Part.
+6 D. The residential subcommittee or its authorized representatives may
+7 enter any place, establishment, or location where manufactured or modular
+8 homes are manufactured, sold, offered for sale, transported, or installed for the
+9 purpose of ascertaining whether the requirements of the manufactured housing
+10 code or the modular housing code and of this Part and Part II-A of this
+11 Chapter, and the rules and regulations of the residential subcommittee, have
+12 been or are being complied with.
+13 §2176.9. Agent for service of process
+14 Any person licensed by the residential subcommittee who is domiciled
+15 outside of this state and does not maintain a place of business in this state shall
+16 appoint a registered agent with the Louisiana secretary of state to serve as his
+17 agent for service of process in any action or proceeding arising from the
+18 licensee’s business activities.
+19 §2176.10. Suit by residential subcommittee for violations; venue; relief
+20 obtainable
+21 A. Whenever it appears that a person is violating or is threatening to
+22 violate the manufactured housing code, the modular housing code, or a
+23 provision of this Part, Part II-A of this Chapter, or any rule or regulation
+24 adopted and promulgated by the residential subcommittee in accordance with
+25 the Administrative Procedure Act, the residential subcommittee shall bring suit
+26 to restrain that person from continuing the violation or from carrying out the
+27 threat.
+28 B. Venue for a suit pursuant to this Section lies in the Nineteenth Judicial
+29 District Court.
+Page 23 of 51
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-445 REENGROSSED
+SB NO. 398
+1 C. In the suit, the residential subcommittee may obtain injunctions,
+2 prohibitory and mandatory, including temporary restraining orders and
+3 preliminary injunctions, as the facts warrant, including, when appropriate,
+4 injunctions restraining a person from moving or disposing of a manufactured
+5 home that is subject to the requirements of this Part, Part II-A of this Chapter,
+6 or any rule or regulation adopted and promulgated by the residential
+7 subcommittee in accordance with the Administrative Procedure Act, or to
+8 restrain a person from engaging in any business for which a license has been or
+9 should be issued under this Part or Part II-A of this Chapter. Any such
+10 manufactured home may, in the court's discretion, be ordered impounded or
+11 placed under the control of an agent appointed by the court.
+12 D. All costs incurred by the residential subcommittee, including
+13 reasonable attorney fees, may be borne by the person or licensee who has been
+14 enjoined, or found in violation of the provisions of the manufactured housing
+15 code, the modular housing code, or any provision of this Part, or Part II-A of
+16 this Chapter, or any rule or regulation adopted and promulgated by the
+17 residential subcommittee in accordance with the Administrative Procedure Act.
+18 §2176.11. Hearings to investigate and determine violations; orders prohibiting
+19 violations and requiring compliance
+20 A. Whenever in the opinion of the residential subcommittee the
+21 manufactured housing code, the modular housing code, or the requirements of
+22 this Part or Part II-A of this Chapter is being violated, it may conduct hearings
+23 to investigate and determine whether the violation has occurred or is occurring
+24 and may issue orders prohibiting such violation and requiring compliance with
+25 the manufactured housing code or the modular housing code and the provisions
+26 of this Part or Part II-A of this Chapter.
+27 B. All costs incurred by the residential subcommittee, including
+28 reasonable attorney fees, may be borne by the person or licensee who has been
+29 found in violation of the provisions of the manufactured housing code, the
+Page 24 of 51
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-445 REENGROSSED
+SB NO. 398
+1 modular housing code, any provision of this Part, Part II-A of this Chapter, or
+2 any rule or regulation adopted and promulgated by the residential
+3 subcommittee in accordance with the Administrative Procedure Act.
+4 §2176.12. Suspension or revocation of licenses for violation
+5 After prior notice and hearing, the residential subcommittee may
+6 suspend or revoke the license of any manufactured or modular home licensee
+7 licensed pursuant to the provisions of this Part or Part II-A of this Chapter for
+8 violations of the manufactured housing code, the modular housing code, or any
+9 provision of this Part or Part II-A of this Chapter. The notice, hearing, and
+10 actions as prescribed in this Section shall be governed by the provisions of
+11 Chapter 13 of Title 49 of the Louisiana Revised Statutes of 1950, and
+12 particularly R.S. 49:977.3(C) relative to emergency action.
+13 §2176.13. Penalties for violations
+14 A. Whoever is found guilty of violating the manufactured housing code,
+15 the modular housing code, any provision of this Part, Part II-A of this Chapter,
+16 any rule or regulation, or final order issued thereunder shall be liable to the
+17 state through the residential subcommittee for a civil penalty not in excess of
+18 two thousand five hundred dollars for each violation. If the residential
+19 subcommittee determines a violation was intentional or the violator is a habitual
+20 offender, the residential subcommittee may double the civil penalty up to five
+21 thousand dollars for each violation. Each violation constitutes a separate
+22 violation with respect to each manufactured or modular home, or with respect
+23 to each failure or refusal to allow or perform an act required thereby, except
+24 that the maximum civil penalty shall not exceed one million dollars for any
+25 related series of violations occurring within one year from the date of the first
+26 violation.
+27 B. Any individual or director, officer, or agent of a corporation who
+28 knowingly and willingly violates any provision of the manufactured housing
+29 code, the modular housing code, any provision of this Part, Part II-A of this
+Page 25 of 51
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-445 REENGROSSED
+SB NO. 398
+1 Chapter, or any applicable rule or regulation issued thereunder in a manner
+2 which threatens the health and safety of any purchaser shall be fined not more
+3 than one thousand dollars or imprisoned not more than one year, or both.
+4 §2176.14. Severability
+5 If any provision of this Part or the application thereof is held invalid,
+6 such invalidity shall not affect other provisions, items, or applications of this
+7 Part that can be given effect without the invalid provision, item, or application
+8 and to this end the provisions of this Part are hereby declared severable.
+9 §2176.15. Supremacy of the Part
+10 Notwithstanding any provision of law to the contrary, the codes and
+11 standards referenced in R.S. 37:2177.1 et seq., and those adopted by the
+12 residential subcommittee, shall be the only construction and installation
+13 standards used for manufactured or modular housing in Louisiana, and these
+14 standards shall preempt all local standards as they relate to the construction
+15 and installation of manufactured or modular homes in Louisiana.
+16 §2176.16. Maintenance of records; reports required
+17 Each licensee shall establish and maintain such records, make such
+18 reports, and provide such information as the residential subcommittee may
+19 reasonably require in order to be able to determine whether such licensee has
+20 acted or is acting in compliance with the manufactured housing code or the
+21 modular housing code and any provision of this Part, Part II-A of this Chapter,
+22 or any rule or regulation adopted by the residential subcommittee. Upon
+23 request of the residential subcommittee, each licensee shall permit the
+24 residential subcommittee or its representative to inspect appropriate books,
+25 papers, records, and documents relevant to determining whether the licensee
+26 has acted or is acting in compliance with the provisions of this Part, Part II-A
+27 of this Chapter, or any rule, as well as any regulation or order issued
+28 thereunder.
+29 §2176.17. Down payments; sale of manufactured housing
+Page 26 of 51
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-445 REENGROSSED
+SB NO. 398
+1 It is unlawful for a factory-built housing dealer or factory-built housing
+2 developer to set forth in any retail installment sales contract, chattel mortgage,
+3 or security agreement any down payment unless all of the down payment has
+4 actually been received by the factory-built housing dealer or factory-built
+5 housing developer at the time of execution of such document. If any part of the
+6 down payment is represented by a loan, trade-in, or any consideration other
+7 than cash, this fact shall be expressly set forth on the retail installment sales
+8 contract, chattel mortgage, or security agreement. No amount of the cash down
+9 payment shall be from any rebate or other consideration received by or to be
+10 given to the consumer from the factory-built housing dealer or factory-built
+11 housing developer, or his respective agent.
+12 §2176.18. Use of model manufactured and modular homes
+13 A. Notwithstanding the provisions of R.S. 40:1730.21 et seq. and 1730.51
+14 et seq. to the contrary, a licensed factory-built housing dealer or factory built
+15 housing developer shall be allowed to use a manufactured and modular home
+16 model to conduct only manufactured and modular home sales-related activity
+17 at the location of sales of manufactured and modular homes. Manufactured and
+18 modular home sales-related activity includes but is not limited to executing
+19 contracts, making copies or phone calls, showing manufactured and modular
+20 home models, or engaging in any other sales-related activity.
+21 B. The licensed factory-built housing dealer or factory-built housing
+22 developer shall also adhere to the following requirements:
+23 (1) There shall be no overnight sleeping in the manufactured or modular
+24 home.
+25 (2) The manufactured or modular home shall be properly installed in
+26 accordance with applicable federal and state statutes, rules, regulations, and
+27 codes.
+28 PART II-A NEW MANUFACTURED AND MODULAR
+29 HOME WARRANTIES
+Page 27 of 51
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-445 REENGROSSED
+SB NO. 398
+1 §2177.1. Purpose
+2 The legislature finds a need to promote commerce in Louisiana by
+3 providing clear, concise, and mandatory warranties for the purchasers and
+4 occupants of new manufactured and modular homes in Louisiana and by
+5 providing for the use of homeowners' insurance as additional protection for the
+6 public against defects in the construction of new manufactured and modular
+7 homes. This need can be met by providing a warranty for a new manufactured
+8 or modular home purchaser defining the responsibility of the builders to that
+9 purchaser and subsequent purchasers during the warranty periods provided
+10 herein. The warranty, which is mandatory in most cases, shall promote
+11 uniformity of defined building standards. Additionally, all provisions of this
+12 Part shall apply to any defect, although there is no building standard directly
+13 regulating the defective workmanship or materials.
+14 §2177.2. Short title
+15 This Part shall be known and may be cited as the "New Manufactured
+16 and Modular Home Warranty Act".
+17 §2177.3. Definitions
+18 For purposes of this Part, the following words, phrases, and terms are
+19 defined and construed as follows:
+20 (1) "Builder" means the factory-built housing dealer who sold the home,
+21 the manufacturer who constructed the home or any section of the home if it is
+22 a multi-section home, the installer who installed the home, any person or entity
+23 that designed, manufactured, or constructed the home, whether or not the
+24 consumer purchased the underlying real estate with the home or the builder
+25 initially occupied the home as his residence, or any person or entity licensed by
+26 the residential subcommittee.
+27 (2)(a) "Building standards" for manufactured housing means the
+28 National Manufactured Home Construction and Safety Standards Act of 1974,
+29 42 U.S.C. 5401 et seq., as amended, and federal regulations promulgated
+Page 28 of 51
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-445 REENGROSSED
+SB NO. 398
+1 pursuant thereto, along with any construction or installation-related standards
+2 adopted by the Louisiana Manufactured Housing Commission or it's successor
+3 the residential subcommittee, together with any additional performance
+4 standards, if any, which the builder may undertake to be in compliance.
+5 (b) "Building standards" for modular housing means the International
+6 Residential Code as adopted by the Louisiana State Uniform Construction Code
+7 Council.
+8 (3) "Home" means a manufactured home or modular home as defined
+9 in R.S. 37:2150.1.
+10 (4) "Initial purchaser" means any person for whom a home is built or
+11 the first person to whom a home is sold upon completion of construction.
+12 (5) "Major structural defect" means any actual physical damage to the
+13 following designated, load-bearing portions of a home caused by failure of the
+14 load-bearing portions which affects their load-bearing functions to the extent
+15 the home becomes unsafe, unsanitary, or is otherwise unlivable:
+16 (a) Foundation systems and footings.
+17 (b) Beams.
+18 (c) Girders.
+19 (d) Lintels.
+20 (e) Columns.
+21 (f) Walls and partitions.
+22 (g) Floor systems.
+23 (h) Roof framing systems.
+24 (6) "Owner" means the initial purchaser of a home and any of his
+25 successors in title, heirs, invitees, or assigns to a home during the time the
+26 warranties provided under this Part are in effect.
+27 (7) "Warranty commencement date" means the date that legal title to a
+28 home is conveyed to its initial purchaser or the date the home is first occupied,
+29 whichever occurs first.
+Page 29 of 51
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-445 REENGROSSED
+SB NO. 398
+1 §2177.4. Warranties; exclusions
+2 A. Subject to the exclusions provided in Subsection B of this Section,
+3 every builder warrants the following to the owner:
+4 (1) One year following the warranty commencement date, the home will
+5 be free from any defect due to noncompliance with the building standards or
+6 due to other defects in materials or workmanship not regulated by building
+7 standards.
+8 (2) Two years following the warranty commencement date, the
+9 plumbing, electrical, heating, cooling, and ventilating systems exclusive of any
+10 appliance, fixture, and equipment will be free from any defect due to
+11 noncompliance with the building standards or due to other defects in materials
+12 or workmanship not regulated by building standards.
+13 (3) Five years following the warranty commencement date, the home will
+14 be free from major structural defects due to noncompliance with the building
+15 standards or due to other defects in materials or workmanship not regulated by
+16 building standards.
+17 B. Unless the parties otherwise agree in writing, the builder's warranty
+18 shall exclude the following items:
+19 (1) Fences, landscaping, including but not limited to sodding, seeding,
+20 shrubs, existing and new trees, and plantings, as well as off-site improvements,
+21 all driveways and walkways, or any other improvement not a part of the home
+22 itself.
+23 (2) After the first year, the concrete floor of a basement and the concrete
+24 floor of an attached or unattached garage that is built separate from a
+25 foundation wall or other structural element of the home.
+26 (3) Damage to real property which is not part of the home covered by the
+27 warranty and which is not included in the purchase price of the home.
+28 (4) Any damage to the extent it is caused or made worse by any of the
+29 following:
+Page 30 of 51
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-445 REENGROSSED
+SB NO. 398
+1 (a) Negligence, improper maintenance, neglect, or improper operation
+2 by anyone other than the builder or any employee, agent, or subcontractor of
+3 the builder.
+4 (b) Failure by anyone other than the builder or any employee, agent, or
+5 subcontractor of the builder to comply with the warranty requirements of
+6 manufacturers of appliances, equipment, or fixtures.
+7 (c) Failure by the owner to give written notice by registered or certified
+8 mail to the residential subcommittee of any defect within the time set forth in
+9 this Section; however, the provisions of this Subparagraph shall not be
+10 construed to change either the warranty periods enumerated in Subsection A
+11 of this Section or the notice requirements provided by this Section.
+12 (d) Any change of the grading of the ground by anyone other than the
+13 builder, or any employee, agent, or subcontractor of the builder.
+14 (e) Any change, alteration, or addition made to the home by anyone after
+15 the initial occupancy by the owner, except any change, alteration, or addition
+16 performed by the builder or any employee, agent, or subcontractor of the
+17 builder.
+18 (f) Dampness, condensation, or other damage due to the failure of the
+19 owner to maintain adequate ventilation or drainage.
+20 (5) Any loss or damage which the owner has not taken timely action to
+21 minimize.
+22 (6) Any defect in, or any defect caused by, materials or work supplied by
+23 anyone other than the builder or any employee, agent, or subcontractor of the
+24 builder.
+25 (7) Normal wear and tear or normal deterioration.
+26 (8) Loss or damage which does not constitute a defect in the construction
+27 of the home by the builder or any employee, agent, or subcontractor of the
+28 builder.
+29 (9) Loss or damage resulting from war, accident, riot and civil
+Page 31 of 51
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-445 REENGROSSED
+SB NO. 398
+1 commotion, water escape, falling objects, aircraft, vehicles, acts of God,
+2 lightning, windstorm, hail, flood, mudslide, earthquake, volcanic eruption,
+3 wind-driven water, and changes in the level of the underground water table
+4 which are not reasonably foreseeable.
+5 (10) Any damage caused by soil movement which is covered by other
+6 insurance.
+7 (11) Insect damage.
+8 (12) Any loss or damage which arises while the home is being used
+9 primarily for a nonresidential purpose.
+10 (13) Any condition which does not result in actual physical damage to the
+11 home.
+12 (14) Bodily injury or damage to personal property.
+13 (15) Any cost of shelter, transportation, food, moving, storage, or other
+14 incidental expense related to relocation during repair.
+15 (16) Any defect not reported in writing by registered or certified mail to
+16 the residential subcommittee or insurance company, as appropriate, prior to the
+17 expiration of the period specified in Subsection A of this Section for such defect
+18 plus thirty days.
+19 (17) Consequential damages.
+20 (18) Any loss or damage to a home caused by soil conditions or soil
+21 movement if the home is constructed on land owned by the initial purchaser and
+22 the builder obtains a written waiver from the initial purchaser for any loss or
+23 damage caused by soil conditions or soil movement.
+24 (19) Mold and mold damage.
+25 C. The provisions of Subsection A of this Section establish minimum
+26 required warranties and shall not be waived by the owner or reduced by the
+27 builder provided the home is a single- or multiple-family dwelling to be
+28 occupied by an owner as his home.
+29 §2177.5. Required notice
+Page 32 of 51
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-445 REENGROSSED
+SB NO. 398
+1 A. Before undertaking any repair himself or instituting any action for
+2 breach of warranty, the owner shall give the residential subcommittee written
+3 notice on each individual home that is defective by filling out the consumer
+4 complaint form provided by the residential subcommittee and submitting it by
+5 registered or certified mail within one year after knowledge of the defect,
+6 advising the residential subcommittee of all defects in the individual home. The
+7 residential subcommittee shall then have the individual home inspected and a
+8 determination made on all defects listed by the owner. Thereafter, the
+9 residential subcommittee shall give the appropriate builder a reasonable
+10 opportunity to comply with the provisions of this Part. Once the repairs are
+11 made, the residential subcommittee shall have the home reinspected to
+12 determine if the repairs have been made in compliance with the building
+13 standards.
+14 B. The factory-built housing residential contractor or developer licensee
+15 shall give the owner written notice of the requirements of this Part at the time
+16 of the closing between the factory-built housing dealer or developer and the
+17 owner, or if there is no such closing, at the time of the execution of the purchase
+18 agreement between the factory-built housing dealer or developer and the owner.
+19 The residential subcommittee shall adopt and promulgate rules and regulations
+20 in accordance with the Administrative Procedure Act to implement the
+21 provisions of this Subsection.
+22 §2177.6. Peremption
+23 Any action to enforce any warranty provided in this Part shall be subject
+24 to a peremptive period of thirty days after the expiration of the appropriate
+25 time period provided in R.S. 37:2177.4.
+26 §2177.7. Insurance
+27 All or part of the builder's obligation under any warranty required in
+28 this Part may be insured by the builder for the benefit of the purchaser through
+29 an insurance company authorized to transact business in this state.
+Page 33 of 51
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-445 REENGROSSED
+SB NO. 398
+1 §2177.8. Transfer of warranty and insurance
+2 Any warranty imposed pursuant to this Part and any insurance benefit
+3 shall automatically transfer without charge to a subsequent owner who acquires
+4 title to the home. Any transfer of the home shall not extend the duration of any
+5 warranty or insurance coverage.
+6 §2177.9. Violations; limitations
+7 A. If a builder violates this Part by failing to perform as required by the
+8 warranties provided in this Part, any affected owner shall have a cause of action
+9 against the builder for actual damages, including attorney fees and court costs,
+10 arising out of the violation. The damages with respect to a single defect shall not
+11 exceed the reasonable cost of repair or replacement necessary to cure the defect,
+12 and damages with respect to all defects in the home shall not exceed the original
+13 purchase price of the home.
+14 B. The parties may provide for the arbitration of any claim in dispute.
+15 Any arbitration shall comply with and may be binding only to the extent
+16 provided for in R.S. 9:4201 et seq.
+17 §2177.10. Exclusiveness
+18 This Part provides the exclusive remedies, warranties, and peremptive
+19 periods as between the builders and owner relative to the construction of homes
+20 as defined in this Part, and no other provisions of law relative to warranties and
+21 redhibitory vices and defects shall apply. Nothing herein shall be construed as
+22 affecting or limiting any warranty of title to land or improvements.
+23 PART III. MINIMUM STANDARDS FOR INSTALLATION
+24 OF MANUFACTURED AND MODULAR HOMES AND
+25 TRANSPORTATION REQUIREMENTS
+26 §2177.21. Definitions
+27 For the purposes of this Part, the following words have the following
+28 meanings:
+29 (1) "Frame tie" or "tie down" means any device approved and used for
+Page 34 of 51
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-445 REENGROSSED
+SB NO. 398
+1 the purpose of securing manufactured or modular homes to ground anchors in
+2 order to resist wind forces.
+3 (2) "Ground anchor" means any device approved and used for the
+4 purpose of securing manufactured or modular homes to the ground in order to
+5 resist wind forces.
+6 (3) "Ground level" means an anchor has been fully installed so the head
+7 is at the surface of the soil.
+8 (4) "Installation permit" means a permit issued by the residential
+9 subcommittee to a licensed installer or the homeowner who shall certify that the
+10 home is in compliance with this Part.
+11 (5) "Installation permit sticker" means a sticker issued by the residential
+12 subcommittee, along with an installation permit, which is to be affixed to the
+13 home to signify that the home is in compliance with this Part.
+14 (6) "Installer" means a person licensed by the board to install a
+15 manufactured or modular home.
+16 (7) "Over-roof tie" means a certain device approved by the
+17 manufactured homes manufacturer and used for the purpose of securing the
+18 manufactured homes systems to ground anchors in order to resist wind forces.
+19 Ties may be installed only under roof material.
+20 (8) "Setup" or "installation" means the operations performed at the
+21 occupancy site which render manufactured and modular homes fit for
+22 habitation. Such operations include but are not limited to positioning, blocking,
+23 leveling, supporting, tying down, making minor adjustments and trim out, and
+24 assembling multiple or expandable units in the final construction process.
+25 (9) "Stabilizer device" means an approved device or method that is used
+26 to resist lateral movement of manufactured homes and anchors.
+27 (10) "Transporter" means an individual who transports a manufactured
+28 or modular home to the site of installation but does not perform any blocking
+29 or anchoring of the home, except a transporter is allowed to put blocks under
+Page 35 of 51
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-445 REENGROSSED
+SB NO. 398
+1 the hitch on the tongue of the frame.
+2 §2177.22. Installation standards for manufactured and modular homes
+3 All manufactured and modular homes shall be installed to meet the
+4 following standards, unless otherwise specified in this Part:
+5 (1) Installation standards for the setup of new manufactured homes shall
+6 be in compliance with the manufacturer's installation instructions. Installation
+7 for the setup of new or used modular homes shall be in compliance with the
+8 International Residential Code enforced by the local authority having
+9 jurisdiction.
+10 (2) Installation standards for the setup of used manufactured homes shall
+11 be in compliance with the manufacturer's installation instructions, if available.
+12 In the absence of the manufacturer's installation instructions, used
+13 manufactured homes shall comply with the provisions of this Part.
+14 (3) All anchors, piers, and tie-down components used in the installation
+15 of manufactured homes shall be tested and meet the minimum industry
+16 standards. Installation of such anchors and components shall be in accordance
+17 with the manufacturer's instructions.
+18 (4) As to site preparation, the under-home grade, or ground, shall be
+19 cleaned of all vegetation and organic material, such as stumps, roots, etc., except
+20 grass not exceeding three inches in height. The area beneath and around the
+21 home shall be crowned, sloped or properly drained so that water will not flow
+22 or accumulate under the home. All grass and organic material shall be removed
+23 and the pier foundation placed on stable soil or compacted fill. When the soil
+24 compaction or soil-bearing capacity is not known, the local building authority
+25 in the locale may be consulted or a reading by the use of a pocket penetrometer
+26 may be obtained. The bottom of the footer or footers shall be placed on stable
+27 soil. The pier foundation shall be a minimum of three and one-half inches by
+28 sixteen inches by sixteen inches solid concrete pad or equivalent, precast or
+29 poured in place, or approved material by the regulatory agency. The regulatory
+Page 36 of 51
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-445 REENGROSSED
+SB NO. 398
+1 agency, or its duly authorized representatives, shall cause products to be
+2 analyzed or tested to require that the pier foundation products have a deflection
+3 of not more than three-eighths inch under design load. Such testing may be
+4 conducted by an independent third party qualified and approved by the agency.
+5 Previous testing data submitted in other jurisdictions may be considered by the
+6 agency. Where the manufacturer's specifications have additional requirements
+7 other than the above, the more stringent shall apply. The landowner shall be
+8 responsible for proper site preparation in accordance with this Paragraph.
+9 (5) All manufactured homes shall be anchored with an approved anchor
+10 system. All auger systems shall be installed to a minimum depth of thirty inches,
+11 or two and one-half feet, in undisturbed or compacted soil. Piers are to be
+12 installed off center of the anchors so as not to interfere with the proper
+13 alignment of the strapping. Anchors may be installed in predrilled holes,
+14 provided the anchor penetrates a minimum of two feet into undisturbed soil
+15 beyond the predrilled hole. When the anchor manufacturer's installation
+16 instructions permit, the hole is then backfilled with soil compacted in layers not
+17 exceeding six inches. For manufactured homes produced after July 13, 1994, the
+18 installer shall refer to the manufacturer's setup manual for the ultimate load
+19 requirements for anchors at the different tie points on the manufactured home.
+20 For used manufactured homes when the manufacturer's setup manual is not
+21 available, all anchor points at side walls, shear walls, end walls, centerline, and
+22 other points as identified by the manufacturer, shall be certified for an ultimate
+23 load of four thousand seven hundred twenty-five pounds. Anchors are required
+24 one at each end of shear walls; one on each end of each I-beam; one frame tie
+25 at each vertical tie point; one in each end of each marriage wall, centerline; and
+26 on each ridge beam support post.
+27 (6) Frame tie ground anchors shall have approved stabilizing devices
+28 installed on the inside, in the direction of pull, with the top of the stabilizing
+29 plate driven flush with the soil unless otherwise specified by the manufacturer's
+Page 37 of 51
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-445 REENGROSSED
+SB NO. 398
+1 guidelines.
+2 (7) Piers or load-bearing supports or devices shall be installed and
+3 constructed to evenly distribute the loads. Steel piers with mechanical
+4 adjustments shall be securely attached to the frame of all manufactured homes.
+5 Manufactured load-bearing supports or devices shall be listed and approved for
+6 the use intended, or piers shall be constructed as outlined in this Part. Concrete
+7 products shall comply with the minimum dimensional and structural
+8 requirements for load-bearing. Solid and cell concrete blocks shall be to the
+9 standard specification for load-bearing concrete masonry units, ASTM C-90,
+10 1993 Edition. Poured concrete shall be a minimum of FCL = 2500 PSI. All
+11 plastic products shall be conditioned at ASTM D 618-61, reapproved 1990,
+12 standard practice for conditioning plastics and electrical insulating materials
+13 for testing. Plastics shall be tested to the ASTM D 790-92 standard test methods
+14 for flexural properties or unreinforced and reinforced plastics and electrical
+15 insulating materials, ASTM D 732-85 standard test method for shear strength
+16 or plastics by punch tool, and ASTM G 53-88 standard practice for operating
+17 light and water exposure apparatus for exposure of nonmetallic materials.
+18 (8)(a) In flood-prone areas, the foundation shall comply with the
+19 requirements set forth in the manual, Manufactured Home Installation In Flood
+20 Hazard Areas, published by the Federal Emergency Management Agency
+21 (FEMA). Nothing in this Paragraph shall be construed to prohibit state or local
+22 jurisdictions from adopting more stringent elevation or freeboard requirements
+23 than those contained in the FEMA manual, consistent with Subparagraph (b)
+24 of this Paragraph.
+25 (b) For all manufactured and modular home installations in this state,
+26 the state and political subdivisions may adopt laws, rules, ordinances, building
+27 codes, or other measures to regulate installations that include additional
+28 freeboard requirements beyond the minimum standards adopted by the
+29 National Flood Insurance Program, 42 U.S.C. 4011 et seq., in order to
+Page 38 of 51
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-445 REENGROSSED
+SB NO. 398
+1 incentivize going above the minimum floodplain management standards.
+2 Freeboard requirements shall be uniformly applied based on the Base Flood
+3 Elevation established in the currently adopted Flood Insurance Rate Map for
+4 the jurisdiction and shall not vary based on alternative or superseded mapping
+5 sources.
+6 (c) All applications submitted to and permits issued by a jurisdiction's
+7 permit office shall include the Base Flood Elevation at the permitted site and the
+8 required finished floor elevation, including any applicable freeboard.
+9 (9) The marriage line on all multisectional homes shall be sealed with
+10 industry-approved materials at the ceiling line, the floor line, and the end walls
+11 to restrict any air infiltration into the home.
+12 §2177.23. Foundations and piers
+13 The following guidelines shall be used when the installation of
+14 foundations and piers is not specified in the manufacturer's instructions or
+15 when the manufacturer's installation instructions are not available:
+16 (1) Piers:
+17 (a) Piers shall be centered under the I-beam and installed as provided by
+18 rules promulgated by the residential subcommittee. The first pier shall be
+19 within two feet of either end of the home. The pier foundation shall be a
+20 minimum of three and one-half inches by sixteen inches by sixteen inches solid
+21 concrete pad precast or poured in place, or other pad meeting the 2,500 PSI
+22 rating, or other approved material.
+23 (b) Piers may be constructed of regular eight inches by eight inches by
+24 sixteen inches concrete blocks, open cells, solid (minimum eight inches by ten
+25 inches top), centered on the footing or foundation. A one inch or two inch by
+26 eight inch by sixteen inch treated or hardwood plate, or other approved
+27 material shall completely cover the top of the pier with shims, one-fourth inch
+28 minimum and one and one-half inch maximum, centered and driven tight from
+29 both sides of the I-beam between the wood plate or cap and the main frame.
+Page 39 of 51
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-445 REENGROSSED
+SB NO. 398
+1 Single-tiered block piers shall be installed perpendicular to the main I-beam.
+2 However, when a pier has been capped with at least a four inch (three and one-
+3 half inch) solid concrete block or other approved material, one- fourth inch of
+4 wood stock or wood shims shall be installed between the pier and steel I-beam.
+5 (c) Center line piers shall be located at each end of center line and shall
+6 be located on each end of the opening within six inches of jamb studs or ridge
+7 beam posts where openings four feet wide or greater occur. Any openings four
+8 feet or larger in the exterior sidewall or marriage wall shall require blocking at
+9 each end of the opening with four inch by sixteen inch by sixteen inch pads.
+10 Piers shall also be installed on each side of any perimeter door or fireplace. Bay
+11 windows or any opening forty-eight inches or more shall require blocking at
+12 each end. Fourteen feet or wider units with an I-beam spread of less than
+13 eighty-two inches and twelve feet wide units with an I-beam spread of less than
+14 seventy-five and one-half inches shall have perimeter blocking installed at a
+15 minimum of eight foot on center. Piers shall not be required under the clear,
+16 open, spans between ridge beam posts.
+17 (d) All piers over thirty-six inches and corners over twenty-four inches
+18 in height shall be double tiered with blocks interlocked and capped with two
+19 four inch by eight inch by sixteen inch solid concrete blocks side by side and
+20 perpendicular to the I-beam, or other approved material and cushioned with
+21 wood shims or treated plate. Pier height is measured from the top of the footer
+22 or foundation to the top of the cement block stack, including four inch cap
+23 blocks.
+24 (e) All piers over fifty-two inches shall be designed by an architect or
+25 engineer.
+26 (f) Metal or precast support piers shall be installed on a base or footer
+27 of a minimum size of four inch by eight inch by sixteen inch solid concrete or
+28 other approved material.
+29 (g) Metal or precast support piers shall be restricted to a maximum two
+Page 40 of 51
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-445 REENGROSSED
+SB NO. 398
+1 inch locking mechanical height adjustment and shall be restricted to a
+2 maximum height of not more than twenty-four inches measured from the
+3 ground base or footer. This twenty-four inch maximum shall not include the two
+4 inch mechanical extension or adjustment. However, center line or perimeter
+5 supports are permitted to exceed the twenty-four inch maximum.
+6 (h) The minimum distance between the finished grade under the
+7 manufactured home and the bottom of the I-beam shall be twelve inches.
+8 (2) Foundations:
+9 (a) Concrete, precast, sand and gravel pads or foundations shall be a
+10 minimum of two thousand five hundred pounds per square inch (PSI).
+11 (b) Plastic pads or foundations shall be tested in the lower fifty percent
+12 of each soil class (1,000-1,500 PSF soil type).
+13 §2177.24. Installation standards for anchors and tie-downs
+14 The following specifications are standards set for used manufactured
+15 homes when manufacturer's installation instructions and specifications are not
+16 available:
+17 (1) Anchors:
+18 (a) All auger anchors shall be a minimum of thirty inches in height.
+19 (b) All anchors shall be tested to an ultimate load of four thousand seven
+20 hundred twenty-five pounds.
+21 (2) Frame ties:
+22 (a) Used units where the manufacturer's specifications are not available
+23 shall be anchored every ten feet in Zone I, eight feet in Zone II, and six feet in
+24 Zone III, with anchors placed within two feet of each end.
+25 (b) Frame ties shall make at least one complete wrap around the chassis
+26 or frame and shall be looped from the top of the I-beam to the anchor. However,
+27 some frame tie straps may have to extend from the bottom of the I-beam or the
+28 I-beam on the opposite side to assure the proper angle due to the height of the
+29 home.
+Page 41 of 51
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-445 REENGROSSED
+SB NO. 398
+1 (c) Each frame tie shall be installed to the component manufacturer's
+2 instructions.
+3 (d) All frame ties shall be secured to one of the main steel I-beams that
+4 run the length of the home.
+5 (3) Marriage wall or centerline ridge beam column ties, shear wall ties,
+6 and frames ties:
+7 (a) Multiple section homes are to be secured at the centerline with straps
+8 or cables to the specifications in the manufacturer's manual or at the locations
+9 designated on the home.
+10 (b) Used multiple section homes shall have anchors installed at all
+11 factory-installed anchor strap connections, including ridge beam column straps,
+12 shear wall straps or attachments, or other locations designated by the
+13 manufacturer.
+14 (4) Multiple section homes shall be mechanically fastened every twenty-
+15 four inches at the bottom, end walls, and roof. A minimum thirty-gauge, eight-
+16 inch-wide, galvanized strip shall be centered over the peak and fastened with
+17 galvanized roofing nails at two inches on center at both sides of center line.
+18 §2177.25. Installation standards for used manufactured homes in hurricane
+19 zones
+20 When the manufacturer's printed setup requirements are not available
+21 for the applicable wind zone, the following guidelines are to be used:
+22 (1) All anchors shall be listed for four thousand seven hundred twenty-
+23 five pounds ultimate load.
+24 (2) Longitudinal ties only are required at each end of each unit. The
+25 minimum number of ties at a minimum angle of forty-five degrees from vertical
+26 is three each for Zone II and four each for Zone III.
+27 (3) All designated tie points on the perimeter side walls shall be equipped
+28 with vertical and diagonal ties with stabilizer devices. When tie points are not
+29 designated on the side walls, diagonal ties with stabilizer devices shall be spaced
+Page 42 of 51
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-445 REENGROSSED
+SB NO. 398
+1 a maximum of ten feet for Zone I, eight feet for Zone II, and six feet six inches
+2 for Zone III.
+3 (4) Anchors and support piers shall be installed at the center line of each
+4 opening over five feet. Support piers shall be installed on each end of the
+5 marriage wall and at other locations that may be identified on the marriage
+6 wall.
+7 (5) Shear wall interior partition wall which attaches to the side wall and
+8 is thirty-six inches or longer shall have vertical ties and support piers installed
+9 at each end.
+10 (6) All foundations and piers shall comply with the requirements of this
+11 Part.
+12 (7) Multiple section homes shall be mechanically fastened every twenty-
+13 four inches at the bottom, end walls, and roof.
+14 (8) A minimum thirty gauge, eight inch wide, galvanized strip shall be
+15 centered over the peak and fastened with galvanized roofing nails at two inches
+16 on center at both sides of center line.
+17 §2177.26. Local installation standards preempted
+18 The manufactured and modular home installation standards provided
+19 for in this Part shall preempt all local installation standards.
+20 §2177.27. Licensure of installers and transporters; adoption of rules;
+21 compliance with installation instructions; disposition of fees;
+22 continuing education; bond
+23 A.(1) The residential subcommittee shall, by rule adopted in accordance
+24 with the Administrative Procedure Act, provide for the licensure of installers
+25 and transporters of manufactured and modular homes and the implementation
+26 and collection of an annual license fee and an installation permit sticker fee. The
+27 installer's and transporter's license fee shall be one hundred twenty-five dollars
+28 per license, and the installation permit sticker fee shall be twenty dollars.
+29 Further, a licensed installer shall be allowed to perform the functions of a
+Page 43 of 51
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-445 REENGROSSED
+SB NO. 398
+1 transporter without having to obtain that license.
+2 (2) After January 1, 2004, prior to receiving an original license, installers
+3 shall attend a certification course offered by the residential subcommittee or a
+4 residential subcommittee-approved provider and pass an accompanying test.
+5 The fee for any course offered by the residential subcommittee shall be set by
+6 rule and shall not exceed one hundred dollars.
+7 (3) Installers shall be required to take one continuing education course
+8 per year. The individual required to take the continuing education course is the
+9 individual license holder. For corporations, an officer or manager of the
+10 corporation shall take the course. For partnerships, a partner shall take the
+11 course. The residential subcommittee shall set the educational requirements and
+12 approve educational course providers and the course materials for all
+13 continuing education classes. The residential subcommittee shall have the
+14 authority to suspend these continuing education requirements, for one or more
+15 licenses, if the residential subcommittee, in its discretion, determines such action
+16 is warranted due to extraordinary circumstances.
+17 (4) All installers and transporters shall provide annually along with the
+18 license application a surety bond in the amount of twenty-five thousand dollars
+19 or post a twenty-five thousand dollar irrevocable letter of credit with the
+20 residential subcommittee.
+21 B. It shall be unlawful for any person, other than the homeowner or a
+22 licensed installer, to perform an installation of a manufactured or modular
+23 home, whether or not such person receives compensation for such action. For
+24 the purposes of this Subsection, community owners or park operators of
+25 manufactured or modular homes shall not be considered homeowners if the
+26 home in question is or will be leased at any time.
+27 C. Any installer or homeowner installing a manufactured or modular
+28 home in this state shall first obtain an installation permit sticker from the
+29 residential subcommittee which shall be affixed to the side of the home at the
+Page 44 of 51
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-445 REENGROSSED
+SB NO. 398
+1 point where electrical power is connected to the home. All installation permit
+2 stickers shall be affixed within ten days of delivery of the manufactured or
+3 modular home, unless extenuating circumstances are shown.
+4 D. Any installation of a manufactured or modular home in this state shall
+5 be performed in strict compliance with this Part.
+6 E. All fees collected pursuant to Subsection A of this Section or fines
+7 collected pursuant to this Part shall be used exclusively for the maintenance and
+8 operation of manufactured housing issues by the residential subcommittee.
+9 §2177.28. Violations; penalties
+10 A. Any installer, transporter, or other person who performs any work
+11 covered as described in this Part without the appropriate license or who installs
+12 a manufactured or modular home in a manner contrary to the requirements of
+13 this Part shall be in violation of the provisions of this Part. All such violators
+14 shall be subject to the penalty of revocation or suspension of their license or a
+15 civil fine of up to two thousand five hundred dollars, or both, for each violation.
+16 If the residential subcommittee determines a violation was intentional or the
+17 violator is a habitual offender, then the residential subcommittee may double
+18 the civil penalty up to five thousand dollars for each violation. Violators shall
+19 also be subject to any measures prescribed by any other applicable rule,
+20 regulation, or law.
+21 B. Multiple installation violations of this Part occurring in a single
+22 installation shall constitute one violation. Each installation performed in
+23 violation of this Part shall constitute a separate violation.
+24 §2177.29. Administration and enforcement; powers of residential subcommittee
+25 The residential subcommittee may adopt, pursuant to the Administrative
+26 Procedure Act, such rules and regulations as are necessary for the
+27 administration and enforcement of this Part.
+28 §2177.30. Mobile homes not covered
+29 The provisions of this Part do not apply to the installation and setup of
+Page 45 of 51
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-445 REENGROSSED
+SB NO. 398
+1 mobile homes in Louisiana.
+2 PART IV. MANUFACTURED HOUSING STATE
+3 ADMINISTRATIVE AGENCY
+4 §2177.51. Definitions
+5 As used in this Part, the following definitions shall apply:
+6 (1) "Louisiana state plan" means the document which outlines the
+7 process by which the state administrative agent shall ensure the effective
+8 handling of consumer complaints and other information that relates to
+9 noncompliance, defects, or imminent safety hazards, involving manufactured
+10 housing, together with any responsibility delegated to the state administrative
+11 agent.
+12 (2) "State administrative agency" means the board.
+13 (3) "State administrative agent" or "agent" means the executive director
+14 of the board.
+15 §2177.52. Louisiana state administrative agent
+16 A. The agent is hereby vested with the powers and authority necessary
+17 and proper to enable the agent to fully and effectively carry out and enforce the
+18 provisions and objectives of the Louisiana state plan administered on behalf of
+19 the United States Department of Housing and Urban Development, hereafter
+20 referred to as "HUD". The agent is hereby authorized and empowered to adopt
+21 and promulgate all reasonable rules and regulations to accomplish the
+22 objectives of the Louisiana state plan. The enumeration of any power or
+23 authority herein shall not be construed to deny, impair, disparage, or limit any
+24 others necessary to the attainment thereof. All rules and regulations shall be
+25 adopted in accordance with the provisions of the Administrative Procedure Act.
+26 Oversight review shall be conducted by the House Committee on Commerce
+27 and the Senate Committee on Commerce, Consumer Protection and
+28 International Affairs.
+29 B. The power and authority of the agent shall include but not be limited
+Page 46 of 51
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-445 REENGROSSED
+SB NO. 398
+1 to the following:
+2 (1) Working with manufactured home consumers, manufacturers,
+3 factory-built housing dealers, factory-built housing developers, salesmen, and
+4 installers to hear consumer complaints and other information that relates to
+5 noncompliance, defects, or imminent safety hazards as set forth in 24 CFR Part
+6 3282, Subpart I. The agent or residential subcommittee may make final
+7 determinations regarding consumer complaints.
+8 (2) The right to enter at a reasonable time and inspect all factories,
+9 warehouses, or establishments in the state in which manufactured homes are
+10 manufactured.
+11 (3) Establishing necessary notification and corrective procedures under
+12 24 CFR Part 3282, Subpart I.
+13 (4) Providing oversight as prescribed by law of remedial actions carried
+14 out by manufacturers and a manufacturer's handling of consumer complaints.
+15 (5) Establishing a monitoring inspection fee in accordance with the
+16 guidelines established by the secretary of HUD and providing for participation
+17 in the federal fee distribution system.
+18 §2177.53. Administrative and enforcement of the state plan; powers;
+19 applicability
+20 A. The agent shall be charged with the adoption, administration, and
+21 enforcement of the state plan, pursuant to the federal standards enforcement
+22 program and any other rules and regulations necessary for the administration
+23 and enforcement of the state plan. The standards adopted shall be in conformity
+24 with the standards promulgated pursuant to 24 CFR Part 3280 and 24 CFR
+25 Part 3282. The agent shall discharge this duty consistent with the rules and
+26 regulations promulgated by HUD.
+27 B. The agent may adopt, pursuant to the Administrative Procedure Act,
+28 such rules and regulations as are necessary to enforce the standards
+29 promulgated under the state plan and any other rules and regulations necessary
+Page 47 of 51
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-445 REENGROSSED
+SB NO. 398
+1 for the administration and enforcement of the state plan not inconsistent with
+2 the provisions of the federal standards enforcement program.
+3 C. Except as otherwise provided for in this Part, the provisions of
+4 Chapter 13 of Title 49 of the Louisiana Revised Statutes of 1950 shall apply to
+5 the administration and enforcement of this Part.
+6 * * *
+7 Section 2. R.S. 40:1730.23(B) is hereby amended and reenacted to read as follows:
+8 §1730.23. Enforcement of building codes by municipalities and parishes
+9 * * *
+10 B.(1) Nothing in this Part shall conflict with the Federal Department of
+11 Housing and Urban Development's regulations regarding manufactured housing
+12 construction or the provisions of R.S. 51:912.21 et seq. R.S. 37:2177.21 et seq., as
+13 it relates to manufactured housing installation. Further, it is the intent of the
+14 legislature that any service, renovation, repair, or warranty work performed on a
+15 manufactured home shall be handled under the appropriate federal standards
+16 governing manufactured housing construction or state standards governing
+17 installation, and all such work be under the jurisdiction of the Louisiana
+18 Manufactured Housing Residential subcommittee. Additionally, the exemption for
+19 manufactured housing provided for in this Subsection shall extend to and include
+20 driveways, steps, decks, or other similar accessory structures or work, but shall not
+21 include any additional living area or other type of heated and cooled space outside
+22 of the original footprint of the manufactured home.
+23 (2) All municipalities and parishes shall inspect the installation and setup
+24 of manufactured and modular homes under their jurisdiction.
+25 (3) All municipalities, parishes, or factory-built housing licensee, shall
+26 use a building code enforcement officer, third-party provider, or third-party
+27 provider contracted by a jurisdiction, that is certified to conduct inspections
+28 using the Federal Department of Housing and Urban Development's
+29 construction standards for manufactured homes.
+Page 48 of 51
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-445 REENGROSSED
+SB NO. 398
+1 (4) If there is a dispute as to the interpretation of the federal or state
+2 construction standards, by any code enforcement officer or third-party provider
+3 or licensee, the residential subcommittee shall issue a ruling as to the proper
+4 interpretation of the consultation with HUD construction standards expert. The
+5 residential subcommittee's decision shall be final and binding on all parties.
+6 (5) The residential subcommittee shall offer educational classes on the
+7 federal HUD code construction and installation standards, to help building code
+8 enforcement officers and any other interested parties, achieve certification, as
+9 determined by the residential subcommittee.
+10 (6) Local governments are allowed to charge a reasonable fee to inspect
+11 the installation of the home.
+12 (7) All residential subcommittee licenses shall have the right to hire a
+13 certified third party provider, to conduct their installation inspections.
+14 * * *
+15 Section 3. R.S. 51:911.21 through 911.47 and 912.1 through 912.53 are hereby
+16 repealed.
+17 Section 4. This Act shall become effective on January 1, 2027.
+The original instrument and the following digest, which constitutes no part
+of the legislative instrument, were prepared by Senate Legislative Services.
+The keyword, summary, and digest do not constitute part of the law or proof
+or indicia of legislative intent. [R.S. 1:13(B) and 24:177(E)]
+DIGEST
+SB 398 Reengrossed 2026 Regular Session Foil
+Present law establishes the Residential Contractors Subcommittee (residential
+subcommittee), within the State Licensing Board for Contractors (board), consisting of five
+members. Three members appointed by the governor from a list of names submitted by the
+La. Homebuilders Association, one member from the 1st congressional district, one member
+from the 2nd congressional district, one member from the 3rd congressional district, one
+member representing the 4th and 5th congressional district, and one member representing
+the 6th congressional district.
+Proposed law increases the membership of the residential subcommittee from five members
+to nine members and provides that the membership shall consist of three members appointed
+by the governor from a list of names submitted by the La. Homebuilders Association, three
+members appointed by the governor from a list of names submitted by the La. Manufactured
+Housing Association, one member appointed by the governor to represent each
+congressional district and two at-large members appointed by the governor.
+Page 49 of 51
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-445 REENGROSSED
+SB NO. 398
+Present law provides relative to manufactured, modular housing, new manufactured, and
+modular home warranties.
+Proposed law redesignates present law provisions from Title 51 of the La. Revised Statutes
+of 1950 relative to manufactured and modular homes and new manufactured and modular
+home warranties, to Title 37 of the La Revised Statutes of 1950, relative to the State
+Licensing Board for Contractors.
+Present law provides for terms and definitions.
+Proposed law retains present law terms and definitions except changes the term "developer"
+to "factory-built housing developer", "retailer" to "factory-built housing developer" and
+"factory-built housing residential contractor" to "factory built housing dealer".
+Present law provides relative to the La. Manufactured Housing Commission (commission).
+Proposed law removes present law provisions relative to the commission and transfers the
+commission's powers and duties to the Residential Contractors Subcommittee (residential
+subcommittee) of the State Licensing Board for Contractors (board).
+Present law provides that the provisions of the State Uniform Construction Code shall not
+conflict with federal HUD standards governing manufactured housing construction or with
+state law governing manufactured housing installation and that services, renovation, repair,
+or warranty work performed on manufactured housing are also governed by federal HUD
+standards under the jurisdiction of commission.
+Present law extends the exemption for manufactured housing to related accessory structures,
+including driveways, steps, decks, and similar work, but excludes additional living areas or
+other type of heated and cooled spaces outside the original footprint of the manufactured
+home.
+Proposed law retains present law except deletes the reference to services, renovation, repair,
+or warranty work performed on manufactured housing being under the jurisdiction of the
+commission and removes the exemption for manufactured housing as it relates to accessory
+structures.
+Proposed law requires municipalities and parishes to inspect the installation and setup of
+manufactured and modular homes within their jurisdiction.
+Proposed law requires inspections to be conducted by a certified building code enforcement
+officer or certified third-party provider using federal HUD construction standards.
+Proposed law requires all disputes regarding interpretation of federal or state construction
+standards be resolved by the residential subcommittee, whose decision is final and binding.
+Proposed law requires the residential subcommittee to offer educational courses on federal
+HUD construction and installation standards for certification purposes.
+Proposed law allows local governments to charge a reasonable inspection fee and permits
+licensees to hire a certified third-party provider to conduct installation inspections.
+Effective January 1, 2027.
+(Amends R.S. 37:2150.1 and 2155(A), and R.S. 40:1730.23(B); adds R.S. 37:2176-2176.18,
+2177.1-2177.10, 2177.21-2177.30; repeals R.S. 51:911.21-911.47 and 912.1-912.53)
+Summary of Amendments Adopted by Senate
+Page 50 of 51
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-445 REENGROSSED
+SB NO. 398
+Committee Amendments Proposed by Senate Committee on Commerce, Consumer
+Protection, and International Affairs to the original bill
+1. Establishes mandatory background checks and expands the board's authority
+to deny a license for cause, lack of business location, or violations of law.
+2. Establishes a one-year expiration deadline after which a license is no longer
+eligible for renewal and requires the applicant to reapply for a new license
+after the one year expiration deadline.
+3. Removes the provision that allows an unlicensed salesman to operate under
+supervision of a licensed person while the salesmen license application is
+pending.
+4. Increases the required bond from $50,000 to $250,000 and adds that the bond
+requirement is for consumer protection.
+5. Increases the required general liability insurance coverage for dealers,
+developers, transporters, and installers from $100,000 to $500,000.
+6. Removes the authority of the residential subcommittee to inspect installations
+of manufactured and modular homes for compliance with state and federal
+standards.
+7. Authorizes the use of an arbitration or mediation process prior to formal
+hearings and allows the residential subcommittee to defer its authority to
+third party arbitrators or mediators.
+8. Requires out-of-state licensees to appoint a registered agent for service of
+process.
+9. Removes provision authorizing a private right of action and limits venue for
+all proceedings to the 19th Judicial District Court.
+10. Changes references to the terms "residential subcommittee" and "state fire
+marshal" with the terms "board" and "executive director of the board".
+11. Provides for an effective date of January 1, 2027.
+12. Makes technical changes.
+Senate Floor Amendments to engrossed bill
+1. Make technical changes.
+Page 51 of 51
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.

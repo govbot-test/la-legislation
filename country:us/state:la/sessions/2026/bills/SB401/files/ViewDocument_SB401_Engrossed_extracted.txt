@@ -1,0 +1,499 @@
+Title: 
+Official Title: 
+Source: versions - SB401 Engrossed
+Media Type: application/pdf
+
+================================================================================
+
+SLS 26RS-247 ENGROSSED
+2026 Regular Session
+SENATE BILL NO. 401
+BY SENATOR TALBOT
+PHARMACEUTICALS. Provides for a Prescription Drug Affordability Board. (8/1/26)
+1 AN ACT
+2 To amend and reenact R.S. 44:4.1(B)(11), to enact Subpart C-2 of Part II of Chapter 6 of
+3 Title 22 of the Louisiana Revised Statutes of 1950, to be comprised of R.S.
+4 22:1870.10 through 1870.20, and to repeal R.S. 22:1870(B)(5), relative to a
+5 Prescription Drug Affordability Board; to provide legislative findings and purpose;
+6 to provide for definitions; to establish the Prescription Drug Affordability Board; to
+7 provide for membership, powers, and duties of the board; to require drug
+8 manufacturers to provide drug pricing information to the board; to require
+9 educational or marketing materials for prescription drugs directed to healthcare
+10 providers to include price information; to establish the minimum price information
+11 content; to authorize enforcement pursuant to the Unfair Trade Practices and
+12 Consumer Protection Law; to require reporting when a prescription drug's price
+13 increases over a certain amount; to provide for information requests by the board; to
+14 provide for public access to certain drug pricing information; to provide for penalties
+15 for violations; to provide for audits of reporting entities; to provide for an annual
+16 report; to provide for the authority of the attorney general; to provide for a public
+17 records exception; and to provide for related matters.
+Page 1 of 14
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-247 ENGROSSED
+SB NO. 401
+1 Be it enacted by the Legislature of Louisiana:
+2 Section 1. Subpart C-2 of Part II of Chapter 6 of Title 22 of the Louisiana Revised
+3 Statutes of 1950, comprised of R.S. 22:1870.10 through 1870.20, is hereby enacted to read
+4 as follows:
+5 SUBPART C-2. Prescription Drug Affordability Board
+6 §1870.10. Legislative findings; purpose
+7 A.(1) The Legislature of Louisiana hereby finds that the costs of
+8 prescription drugs have been increasing dramatically without any attributed
+9 reason.
+10 (2) The legislature further finds that containing healthcare costs requires
+11 containing prescription drug costs.
+12 B. Therefore, the legislature hereby declares, in order to contain
+13 prescription drug costs, it is essential to understand the drivers of those costs,
+14 as transparency is typically the first step toward cost containment.
+15 §1870.11. Definitions
+16 As used in this Part, the following words have the following meanings
+17 unless the context indicates otherwise:
+18 (1) "Average wholesale price" means the wholesale price charged on a
+19 specific prescription drug that is assigned by the drug manufacturer and listed
+20 in a nationally recognized drug pricing file.
+21 (2) "Board" means the Prescription Drug Affordability Board
+22 established pursuant to this Subpart.
+23 (3) "Department" means the Department of Insurance.
+24 (4) "Manufacturer" means any entity which is engaged in the
+25 production, preparation, propagation, compounding, conversion, or processing
+26 of prescription drugs for human use, whether directly or indirectly, by
+27 extraction from substances of natural origin, independently by means of
+28 chemical synthesis, or by a combination of extraction and chemical synthesis,
+29 or any entity engaged in the packaging, repackaging, labeling, relabeling, or
+Page 2 of 14
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-247 ENGROSSED
+SB NO. 401
+1 distribution of prescription drugs. The term shall not include a wholesale
+2 distributor of prescription drugs licensed pursuant to the Louisiana Drug and
+3 Device Distributors Act, R.S. 37:3461 et seq., a retailer, or a pharmacist licensed
+4 pursuant to the Louisiana Pharmacy Practice Act, R.S. 37:1161 et seq.
+5 (5) "Prescription drug" means a drug as defined in 21 U.S.C. 321.
+6 (6) "Prescription drug marketing" means to provide educational or
+7 marketing information or materials regarding a prescription drug in any form
+8 including but not limited to all of the following:
+9 (a) Face-to-face meetings.
+10 (b) Physical mailings.
+11 (c) Telephone conversations.
+12 (d) Electronic mail or facsimile.
+13 §1870.12. Prescription Drug Affordability Board
+14 A. The Prescription Drug Affordability Board is hereby established
+15 within the Department of Insurance.
+16 B. The board shall consist of the following members:
+17 (1) The commissioner of insurance, or his designee.
+18 (2) The secretary of the Louisiana Department of Health, or his designee.
+19 (3) The president of the Louisiana Board of Pharmacy, or his designee.
+20 (4) Two public members appointed by the governor.
+21 (5) Two public members appointed by the president of the Senate.
+22 (6) Two public members appointed by the speaker of the House of
+23 Representatives.
+24 C. The public members shall have a significant healthcare or pharmacy
+25 background.
+26 D.(1) Each public member shall serve for a term of five years.
+27 (2) Each public member shall hold office for the term of appointment
+28 and until their successor is appointed and qualified.
+29 E. Any vacancy in the membership of the board shall be filled for the
+Page 3 of 14
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-247 ENGROSSED
+SB NO. 401
+1 unexpired term in the manner provided for the original appointment. Members
+2 shall be eligible for reappointment to the board.
+3 F.(1) The board shall organize as soon as possible after the appointment
+4 of its members and shall annually elect a chairperson and vice chairperson from
+5 among its members, and a secretary who need not be a member of the board.
+6 (2) The board shall meet at least four times a year and may hold
+7 additional meetings as necessary to discharge its duties. The board shall also
+8 meet at the call of the chairperson or the commissioner.
+9 G. A majority of the membership of the board shall constitute a quorum
+10 for the transaction of board business.
+11 H. Members of the board shall serve without compensation.
+12 I. The department shall provide the board with staff support from
+13 existing personnel within the department and meeting facilities as is necessary
+14 for the board to carry out its duties.
+15 §1870.13. Critical prescription drug list
+16 A. The board shall develop a list of critical prescription drugs made
+17 available in Louisiana for which there is a substantial public interest in
+18 understanding the development of pricing for the drugs.
+19 B. In developing the list required by Subsection A of this Section, the
+20 board shall consider, at a minimum, all of the following factors:
+21 (1) The cost of the drug to public healthcare programs including but not
+22 limited to Medicaid.
+23 (2) The current cost of the drug in the state.
+24 (3) The extent of use of the drug within the state.
+25 (4) The availability and cost of comparable or therapeutically equivalent
+26 courses of treatment.
+27 (5) The rate at which the drug is deemed to produce successful outcomes
+28 when used to treat the conditions for which it is most commonly prescribed.
+29 (6) Any other objectively quantifiable factors as the board determines to
+Page 4 of 14
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-247 ENGROSSED
+SB NO. 401
+1 be relevant to evaluating the significance of the availability of the drug in
+2 Louisiana.
+3 C. The board may also consider recommendations for drugs to be
+4 included in the list submitted by government agencies, members of the public,
+5 and professional organizations representing the pharmaceutical industry,
+6 healthcare practitioners, pharmaceutical manufacturers, managed care plans,
+7 prescription drug benefit managers, and other insurers.
+8 D. The list developed pursuant to this Section shall be reviewed and
+9 updated by the board at least once every three years.
+10 §1870.14. Manufacturer reporting
+11 A. For each prescription drug that the board places on the critical
+12 prescription drug list pursuant to R.S. 22:1870.13, the board shall require the
+13 manufacturer of the drug to report the following information to the board:
+14 (1) Total cost of production and approximate cost of production per
+15 dose.
+16 (2) Research and development costs of the drug including but not limited
+17 to all of the following:
+18 (a) Research and development costs that are paid with public funds.
+19 (b) After-tax research and development costs paid by the manufacturer.
+20 (c) Research and development costs paid by third parties.
+21 (3) Marketing and advertising costs for the drug, apportioned by
+22 marketing activities that are directed to consumers, marketing activities that
+23 are directed to prescribers, and the total cost of all marketing and advertising
+24 that is directed primarily to Louisiana consumers and prescribers.
+25 (4) The prices for the drug that are charged to purchasers outside the
+26 United States, by country, for a representative set of countries determined by
+27 the board.
+28 (5)(a) Prices charged to typical Louisiana purchasers including but not
+29 limited to all of the following:
+Page 5 of 14
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-247 ENGROSSED
+SB NO. 401
+1 (i) Local pharmacies, as defined in R.S. 22:1863.
+2 (ii) Pharmacy chains.
+3 (iii) Pharmacy wholesalers.
+4 (iv) Other direct purchasers.
+5 (b) True net-typical prices charged to prescription drug benefit
+6 managers for distribution in Louisiana, net of any rebates or other payments
+7 from the manufacturer to the pharmacy benefit manager and the pharmacy
+8 benefit manager to the manufacturer.
+9 §1870.15. Rulemaking; enforcement
+10 A. The commissioner, on behalf of the board, shall adopt, pursuant to the
+11 Administrative Procedure Act, R.S. 49:950 et seq., any rules and regulations
+12 necessary to implement the provisions of this Subpart.
+13 B. The failure of a manufacturer to provide the information required by
+14 this Subpart shall constitute a prohibited practice under the Unfair Trade
+15 Practices and Consumer Protection Law, R.S. 51:1401 et seq., and shall be
+16 subject to the enforcement provisions of that Chapter.
+17 §1870.16. Confidentiality
+18 A. Information reported to the board pursuant to R.S. 22:1870.14 shall
+19 not be deemed to be a public or government record. The information shall be
+20 kept confidential and shall be exempt from disclosure.
+21 B. Any public reporting of information submitted pursuant to R.S.
+22 22:1870.14 shall be aggregated to protect the financial, competitive, or
+23 proprietary nature of the information.
+24 §1870.17. Report to the legislature
+25 A.(1) The board shall prepare an annual report on prescription drug
+26 prices and their role in overall healthcare spending in the state based on the
+27 data submitted to the board pursuant to R.S. 22:1870.14 and in accordance with
+28 R.S. 22:1870.16.
+29 (2) The board shall identify and include in the report a list of those
+Page 6 of 14
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-247 ENGROSSED
+SB NO. 401
+1 prescription drugs that have a cost in Louisiana that is excessively high when
+2 compared with the cost of the drug in other states and countries and when
+3 compared with the overall cost of researching, developing, and producing the
+4 drug in light of the number of years the drug has been made available for
+5 distribution.
+6 (3) The board may include in the report recommendations for actions to
+7 lower prescription drug costs and spending across the state while maintaining
+8 access to and the quality of health care.
+9 B. The board shall submit the report to the House and Senate committees
+10 on insurance no later than sixty days prior to the start of the regular legislative
+11 session. The board shall also make the report publicly available on the website
+12 of the Department of Insurance and the Louisiana Department of Health.
+13 §1870.18. Disclosure of prescription drug price information; educational or
+14 marketing materials; minimum content; violations
+15 A. Any person engaging in any form of prescription drug marketing
+16 directly to a healthcare provider with the intent that the provider may prescribe
+17 the drug for use by his patients shall include price information in the materials.
+18 B. The price information required by Subsection A of this Section shall
+19 include, at a minimum, all of the following:
+20 (1) The date that the educational or marketing materials were prepared.
+21 (2) The name of the drug and of the current manufacturer.
+22 (3)(a) The average wholesale price of a thirty-day supply of the drug
+23 described in the materials as of the date the educational or marketing materials
+24 were prepared.
+25 (b) If the described drug is designed to be administered for a duration
+26 of therapy of less than thirty days, the proposed duration and average wholesale
+27 price for that period of time as of the date the educational or marketing
+28 materials were prepared.
+29 (c) The disclosure of the average wholesale price shall account for each
+Page 7 of 14
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-247 ENGROSSED
+SB NO. 401
+1 labeled indication and reflect any differences as a result of different strengths
+2 and dosage forms approved for sale.
+3 (4) The date that the drug was first marketed in the United States and
+4 the average wholesale price as of that date.
+5 (5) The average wholesale price on each date that the price of the drug
+6 has changed since the drug was first marketed in the United States.
+7 C.(1) The disclosures required by this Section shall be made on a form
+8 and in a manner prescribed by the commissioner.
+9 (2) The completed form shall be provided to the healthcare provider at
+10 the same time and in the same manner as any other marketing materials
+11 provided to the provider. If the marketing activities are performed
+12 telephonically, then the form shall be sent to the healthcare provider by mail or
+13 electronically within one business day of the marketing activity.
+14 D. A violation of any provision of this Section shall constitute a
+15 prohibited practice under the Unfair Trade Practices and Consumer Protection
+16 Law, R.S. 51:1401 et seq., and shall be subject to the enforcement provisions of
+17 that Chapter.
+18 E. The commissioner shall adopt, pursuant to the Administrative
+19 Procedure Act, R.S. 49:950 et seq., any rules and regulations necessary to
+20 implement and enforce the provisions of this Section.
+21 §1870.19. Prescription drug pricing transparency
+22 A.(1) A pharmaceutical drug manufacturer shall notify the board no
+23 later than thirty days after any of the following occur:
+24 (a) The wholesale acquisition drug cost of a brand name drug increases
+25 by more than the percentage change from the preceding year in the prescription
+26 drug component of the Consumer Price Index of the United States Department
+27 of Labor, Bureau of Labor Statistics per pricing unit during any twelve-month
+28 period.
+29 (b) The wholesale acquisition drug cost of a generic or biosimilar drug
+Page 8 of 14
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-247 ENGROSSED
+SB NO. 401
+1 increases by more than one hundred dollars from the preceding year or two
+2 hundred dollars total per pricing unit during any twelve-month period.
+3 (c) A new drug is introduced for distribution in the state that has a
+4 wholesale acquisition cost greater than the amount that causes the drug to be
+5 considered a specialty drug under the Medicare Part D program.
+6 (2) For any prescription drug reported pursuant to Paragraph (1) of this
+7 Subsection, the manufacturer shall report to the board the following
+8 information about the drug:
+9 (a) An explanation of the increase, including whether it was in response
+10 to any rebate, other incentive or inducement, including discounts, or formulary
+11 requirement.
+12 (b) The total cost of production and approximate cost of production per
+13 pricing unit.
+14 (c) Research and development costs of the drug including but not limited
+15 to all of the following:
+16 (i) Research and development costs that are paid with public funds.
+17 (ii) After-tax research and development costs paid by the manufacturer.
+18 (iii) Research and development costs paid by third parties.
+19 (iv) Marketing and advertising costs for the drug, apportioned by
+20 marketing activities that are directed to consumers, marketing activities that
+21 are directed to prescribers, and the total cost of all marketing and advertising
+22 that is directed primarily to Louisiana consumers and prescribers.
+23 B. No later than thirty days after receipt of a notice provided for in
+24 Subsection A of this Section, the board shall request pricing component data per
+25 pricing unit for the prescription drug from each reporting entity.
+26 C. No later than sixty days from the date of receiving a request from the
+27 board, a reporting entity shall notify the board of pricing component data per
+28 pricing unit of the prescription drug.
+29 D. Each reporting entity that submits a notification or report pursuant
+Page 9 of 14
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-247 ENGROSSED
+SB NO. 401
+1 to this Section shall submit with the notification or report a signed written
+2 certification of the notification's or report's accuracy.
+3 E. The information provided for in Subsections A and C of this Section
+4 shall be made publicly accessible on the website of both the Department of
+5 Insurance and the Louisiana Department of Health.
+6 F. The failure of any reporting entity to provide information required by
+7 this Section shall be considered an unfair method of competition and unfair
+8 practice or act in accordance with the Unfair Trade Practices and Consumer
+9 Protection Law, R.S. 51:1401 et seq. In addition to any enforcement actions
+10 taken by the commissioner as authorized pursuant to this Title, the
+11 commissioner on behalf of the board shall refer any reporting entity that fails
+12 to provide a notification or report required by this Section to the attorney
+13 general.
+14 G. The Department of Insurance and the Louisiana Department of
+15 Health may audit the data submitted by a reporting entity pursuant to this
+16 Subpart. The reporting entity shall pay for the costs of the audit.
+17 H. By January first of each year, the board shall produce an annual
+18 report and submit the report to the governor, the president of the Senate, and
+19 the speaker of the House of Representatives. The report shall include all of the
+20 following:
+21 (1) Information developed from the disclosures received pursuant to this
+22 Subpart on trends in the cost of prescription drugs, analysis of manufacturer
+23 prices and price increases, the major components of prescription drug pricing
+24 along the supply chain and the impacts on insurance premiums and cost
+25 sharing, and any other information the board determines is relevant to
+26 providing greater consumer awareness of the factors contributing to the cost of
+27 prescription drugs in the state.
+28 (2) Information identifying the twenty-five costliest drugs in the state, the
+29 twenty-five most frequently prescribed drugs in the state, and the twenty-five
+Page 10 of 14
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-247 ENGROSSED
+SB NO. 401
+1 drugs with the highest year-over-year cost increases.
+2 I. For purposes of this Section, the following definitions shall apply:
+3 (1) "Affiliated manufacturer" means a drug or biological product
+4 manufacturer that, either directly or indirectly through one or more
+5 intermediaries:
+6 (a) Has an investment or ownership interest in a pharmacy benefit
+7 manager licensed by the commissioner.
+8 (b) Shares common ownership with a pharmacy benefit manager
+9 licensed by the commissioner.
+10 (c) Has an investor or a holder of an ownership interest in a pharmacy
+11 benefit manager licensed by the commissioner.
+12 (2) "Prescription drug" or "drug" means a drug that is required by any
+13 applicable federal or state law or regulation to be dispensed or delivered
+14 pursuant only to a prescription drug order, or is restricted to use by
+15 practitioners only and includes biological products. The term is limited to
+16 prescription drugs and biological products intended for human use.
+17 (3) "Reporting entity" means a manufacturer, affiliated manufacturer,
+18 group purchasing organization, rebate aggregator, wholesale drug distributor,
+19 pharmacy benefits manager, and any other entity in the supply chain between
+20 the manufacturer and pharmacy.
+21 §1870.20. Termination
+22 The provisions of this Subpart shall terminate on June 30, 2028.
+23 Section 2. R.S. 44:4.1(B)(11) is hereby amended and reenacted to read as follows:
+24 §4.1. Exceptions
+25 * * *
+26 B. The legislature further recognizes that there exist exceptions, exemptions,
+27 and limitations to the laws pertaining to public records throughout the revised
+28 statutes and codes of this state. Therefore, the following exceptions, exemptions, and
+29 limitations are hereby continued in effect by incorporation into this Chapter by
+Page 11 of 14
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-247 ENGROSSED
+SB NO. 401
+1 citation:
+2 * * *
+3 (11) R.S. 22:2, 14, 31, 42.1, 88, 244, 263, 265, 461, 550.7, 550.22, 550.29,
+4 550.30, 571, 572, 572.1, 572.2, 574, 601.3, 618, 639, 691.4, 691.5, 691.6, 691.7,
+5 691.8, 691.9, 691.9.1, 691.10, 691.38, 691.56, 732, 752, 753, 771, 834, 972(D), 976,
+6 1008, 1019.2, 1203, 1460, 1464, 1466, 1483.1. 1488, 1546, 1559, 1566(D), 1644,
+7 1656, 1657.1, 1660.7, 1723, 1796, 1801, 1808.3, 1869, 1870.16, 1927, 1929, 1983,
+8 1984, 2036, 2045, 2056, 2085, 2091, 2293, 2303, 2508
+9 * * *
+10 Section 3. R.S. 22:1870(B)(5) is hereby repealed.
+11 Section 4. This Act shall take effect and become operative if and when the Act which
+12 originated as Senate Bill No. 387 of this 2026 Regular Session of the Legislature is enacted
+13 and becomes effective. If vetoed by the governor and subsequently approved by the
+14 legislature, this Act shall become effective on the date that Senate Bill No. 387 becomes
+15 effective.
+The original instrument and the following digest, which constitutes no part
+of the legislative instrument, were prepared by Senate Legislative Services.
+The keyword, summary, and digest do not constitute part of the law or proof
+or indicia of legislative intent. [R.S. 1:13(B) and 24:177(E)]
+DIGEST
+SB 401 Engrossed 2026 Regular Session Talbot
+Proposed law defines "average wholesale price", "board", "department", "manufacturer",
+"prescription drug", and "prescription drug marketing".
+Proposed law establishes the Prescription Drug Affordability Board within the Dept. of
+Insurance, consisting of the following members:
+(1) The commissioner of insurance or his designee.
+(2) The secretary of the La. Dept. of Health or his designee.
+(3) The president of the La. Board of Pharmacy or his designee.
+(4) Two public members appointed by the governor.
+(5) Two public members appointed by the president of the Senate.
+(6) Two public members appointed by the speaker of the House of Representatives.
+Proposed law requires the public members to have a significant health care or pharmacy
+Page 12 of 14
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-247 ENGROSSED
+SB NO. 401
+background and provides that each shall serve for a term of five years.
+Proposed law requires the board to develop a list of critical prescription drugs made
+available in La., for which there is a substantial public interest in understanding the
+development of pricing for the drugs.
+Proposed law requires the manufacturer of each prescription drug that the board places on
+the critical prescription drug list to report the following information to the board:
+(1) Total cost of production and approximate cost of production per dose.
+(2) Research and development costs of the drug.
+(3) Marketing and advertising costs for the drug, apportioned by marketing activities
+that are directed to consumers, marketing activities that are directed to prescribers,
+and the total cost of all marketing and advertising that is directed primarily to La.
+consumers and prescribers.
+(4) The prices for the drug that are charged to purchasers outside the U.S., by country,
+for a representative set of countries determined by the committee.
+(5) Prices charged to typical La. purchasers.
+Proposed law provides that failure of a manufacturer to provide the required information is
+a prohibited practice under the Unfair Trade Practices and Consumer Protection Law.
+Proposed law requires information reported to the board to be kept confidential and prohibits
+the disclosure of the information as a public record. Further requires any public reporting of
+information to be aggregated to protect the financial, competitive, or proprietary nature of
+the information.
+Proposed law requires the board to prepare an annual report on prescription drug prices and
+their role in overall healthcare spending in the state based on the data submitted to the board.
+Further requires the board to include in the report a list of those prescription drugs that have
+a cost in La. that is excessively high when compared with the cost of the drug in other states
+and countries and when compared with the overall cost of researching, developing, and
+producing the drug in light of the number of years the drug has been made available for
+distribution.
+Proposed law requires any person engaging in any form of prescription drug marketing
+directly to a healthcare provider with the intent that the provider may prescribe the drug for
+use by his patients to include, at a minimum, the following price information in the
+materials:
+(1) The date that the educational or marketing materials were prepared.
+(2) The name of the drug and of the current manufacturer.
+(3) The average wholesale price of a 30-day supply of the drug described in the
+materials, or if the described drug is designed to be administered for a duration of
+therapy of less than 30 days, the proposed duration and average wholesale price for
+that period of time.
+(4) The date that the drug was first marketed in the U.S. and the average wholesale price
+as of that date.
+(5) The average wholesale price on each date that the price of the drug has changed
+since the drug was first marketed in the U.S.
+Page 13 of 14
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-247 ENGROSSED
+SB NO. 401
+Proposed law requires the completed form to be provided to the healthcare provider at the
+same time and in the same manner as any other marketing materials provided to the provider.
+Further provides, if the marketing activities are performed telephonically, the form to be sent
+to the healthcare provider by mail or electronically within one business day of the marketing
+activity.
+A violation of proposed law constitutes a prohibited practice under the Unfair Trade
+Practices and Consumer Protection Law.
+Effective August 1, 2026.
+(Amends R.S. 44:4.1(B)(11); adds R.S. 22:1870.10-1870.20; repeals R.S. 22:1870(B)(5))
+Summary of Amendments Adopted by Senate
+Committee Amendments Proposed by Senate Committee on Insurance to the original
+bill
+1. Require notification when the wholesale acquisition cost of a name brand
+drug increases by more than the CPI during any 12-month period.
+2. Require notification when the wholesale acquisition cost of a generic drug
+increases by more than $100, or by $200 total, in any 12-month period.
+3. Require an explanation for the increase in price, including specified
+information about factors that make up the price.
+4. Require the reported information be made publicly available.
+5. Require an annual report.
+6. Sunset the board on June 30, 2028.
+7. Repeal present law requiring notice of a more than 15% increase in the cost
+of a brand name drug.
+8. Make proposed law effective when SB 387 is enacted.
+9. Make technical changes.
+Page 14 of 14
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
