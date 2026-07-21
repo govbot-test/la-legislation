@@ -49,16 +49,6 @@
     },
     {
       "description": "Signed by the President of the Senate.",
-      "date": "2026-05-31",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-14T18:58:44Z"
-      }
-    },
-    {
-      "description": "Signed by the President of the Senate.",
       "date": "2026-05-29",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
@@ -401,7 +391,7 @@
     "division_id": "ocd-division/country:us/state:la"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-14T18:58:44Z",
+    "logs_latest_update": "2026-07-21T07:42:09Z",
     "text_extraction_latest_update": "2026-07-14T21:06:22.379471Z"
   }
 }
