@@ -1,0 +1,328 @@
+Title: 
+Official Title: 
+Source: versions - HB49 Original
+Media Type: application/pdf
+
+================================================================================
+
+HLS 26RS-318 ORIGINAL
+2026 Regular Session
+HOUSE BILL NO. 49
+BY REPRESENTATIVE BACALA
+RETIREMENT/STATEWIDE SYS: Provides relative to the Municipal Police Employees'
+Retirement System and the Firefighters' Retirement System
+1 AN ACT
+2 To amend and reenact R.S. 11:2225.4(A)(2)(b) and (c) and (B) and 2262.1(A)(2)(b) and (B)
+3 and to enact R.S. 11:157(E), 2225.4(A)(2)(d), (D)(3), and (E) and 2262.1(A)(2)(c),
+4 (D)(3), and (E), relative the Municipal Police Employees' Retirement System and the
+5 Firefighters' Retirement System; to provide relative to partial dissolution of a police
+6 department or a fire department; to provide relative to the payment of unfunded
+7 accrued liability by employers; to provide for certain determinations; to provide for
+8 timing of payments; to provide for definitions; to provide relative to employer
+9 contributions; and to provide for related matters.
+10 Notice of intention to introduce this Act has been published
+11 as provided by Article X, Section 29(C) of the Constitution
+12 of Louisiana.
+13 Be it enacted by the Legislature of Louisiana:
+14 Section 1. R.S. 11:2225.4(A)(2)(b) and (c) and (B) and 2262.1(A)(2)(b) and (B) are
+15 hereby amended and reenacted and R.S. 11:157(E), 2225.4(A)(2)(d), (D)(3), and (E), and
+16 2262.1(A)(2)(c), (D)(3), and (E) are hereby enacted to read as follows:
+17 §157. Firefighters' Retirement System; Municipal Police Employees' Retirement
+18 System; optional membership; refund of employee contributions; irrevocable
+19 election; reenrollment; membership verification information
+20 * * *
+Page 1 of 9
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-318 ORIGINAL
+HB NO. 49
+1 E. The provisions of this Section shall not apply to an employee whose date
+2 of employment with an employer occurs on or after January 1, 2027, regardless of
+3 the date the employee first became eligible for system membership.
+4 * * *
+5 §2225.4. Unfunded accrued liability; payment by employer
+6 A.
+7 * * *
+8 (2)
+9 * * *
+10 (b) A participating employer shall be deemed to have partially dissolved its
+11 police department if either of the following occurs:
+12 (i) The number of participating employees of the employer as of June
+13 thirtieth is less than seventy percent of the number of participating employees of the
+14 employer as of June thirtieth of the prior year target employee count and either the
+15 number of participating employees decreases by at least two or the number of
+16 participating employees is zero. zero or the number of participating employees is less
+17 than the target employee count by at least:
+18 (aa) Two, for a valuation dated June 30, 2023, or earlier.
+19 (bb) Three for a valuation dated June 30, 2024, or later.
+20 (ii) The number of participating employees of the employer as of June
+21 thirtieth is at least fifty fewer than the number of participating employees of the
+22 employer as of June thirtieth of the prior year target employee count.
+23 (c) If the calculation of the percentage pursuant to Item (b)(i) of this
+24 Paragraph does not result in a whole number, the actuary shall round to the nearest
+25 lower whole number.
+26 (d) If, on the June thirtieth immediately following the transfer of employees
+27 from the city to the Baton Rouge Regional Airport Authority, the city is deemed to
+28 have partially dissolved its police department, the system shall determine whether
+29 the partial dissolution would have occurred without the transfer of employees. If no
+Page 2 of 9
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-318 ORIGINAL
+HB NO. 49
+1 dissolution would have occurred without the transfer and the employees transferred
+2 to the authority remain members of the system, the city shall not be required to make
+3 the payments otherwise required by this Section. If the system determines that a
+4 partial dissolution would have occurred regardless of the transfer, and the transferred
+5 employees remain members of the system, then the amount due under the provisions
+6 of this Subparagraph shall be calculated without regard to those transferred
+7 employees.
+8 B.(1) Any amount due pursuant to Subsection A of this Section shall be
+9 determined by the actuary employed by the system and shall be amortized over
+10 fifteen years in equal monthly payments with interest at the system's valuation
+11 interest rate. Such Any such payments required based on a valuation dated June 30,
+12 2023, or earlier shall be payable to the system electronically beginning July first of
+13 the second fiscal year following the determination by the actuary and in the same
+14 manner as regular payroll payments to the system. Any such payments required
+15 based on a valuation dated June 30, 2024, or later shall be payable to the system
+16 electronically beginning July first of the third fiscal year following the determination
+17 by the actuary and in the same manner as regular payroll payments to the system.
+18 Beginning July first of the fiscal year following the withdrawal, interest shall accrue
+19 at the system's actuarial valuation rate, compounded annually.
+20 (2)(a) If the number of participating employees of an employer subject to
+21 Paragraph (A)(2) of this Section returns to at least the number of participating
+22 employees as of the June thirtieth immediately preceding the withdrawal target
+23 employee count used to determine that a particular withdrawal occurred, the
+24 payments required by this Section shall cease on the July first following the
+25 determination by the actuary that a sufficient increase in participating employees has
+26 occurred, and no further payments shall be due with respect to the withdrawal.
+27 (b) If the number of participating employees of an employer subject to
+28 Paragraph (A)(2) of this Section increases but does not return to at least the target
+29 employee count used to determine that the particular withdrawal occurred, the
+Page 3 of 9
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-318 ORIGINAL
+HB NO. 49
+1 payments required by this Section shall be proportionately reduced on the July first
+2 following the determination by the actuary that an increase in participating
+3 employees has occurred.
+4 (c) Any payments made pursuant to this Section shall be credited as an offset
+5 of any amounts due by the employer attributable to any subsequent withdrawal that
+6 occurs within fifteen years of the payments.
+7 * * *
+8 D. For the purposes of this Section, the following terms shall have the
+9 following meanings:
+10 * * *
+11 (3) "Target employee count" shall mean:
+12 (a) For a valuation dated June 30, 2025, or earlier, the number of
+13 participating employees of the employer as of June thirtieth of the prior year.
+14 (b) For the valuation dated June 30, 2026, the average of the numbers of
+15 participating employees of the employer as of June thirtieth of each of the prior two
+16 years.
+17 (c) For a valuation dated June 30, 2027, or later, the average of the numbers
+18 of participating employees of the employer as of June thirtieth of each of the prior
+19 three years.
+20 E. If an employer is delinquent on withdrawal payments on the thirtieth of
+21 June in any year, the provisions of Subparagraph (B)(2)(b) of this Section shall not
+22 apply to the withdrawal on which the payments are delinquent and for purposes of
+23 any additional withdrawal determined by the actuary based on the June thirtieth
+24 valuation of that year, the beginning payment date pursuant to Paragraph (B)(1) of
+25 this Section shall be the July first of the second fiscal year following the
+26 determination by the actuary, the target employee count shall be as provided in
+27 Subparagraph (D)(3)(a) of this Section, and the provisions of Subparagraph (B)(2)(b)
+28 shall not apply.
+29 * * *
+Page 4 of 9
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-318 ORIGINAL
+HB NO. 49
+1 §2262.1. Dissolution of fire department; unfunded accrued liability; payment by
+2 employer
+3 A.
+4 * * *
+5 (2)
+6 * * *
+7 (b) An employer shall be deemed to have partially dissolved its fire
+8 department if either of the following occurs:
+9 (i) The number of participating employees of the employer as of the thirtieth
+10 of June is less than seventy percent of the number of participating employees of the
+11 employer on the thirtieth of June of the prior year target employee count and either
+12 the number of participating employees decreases by at least three or the number of
+13 participating employees is zero.
+14 (ii) The number of participating employees of the employer as of the thirtieth
+15 of June is at least fifty fewer than the number of participating employees of the
+16 employer as of the thirtieth of June of the prior year target employee count.
+17 (c) If the calculation of the percent pursuant to Item (b)(i) of this Paragraph
+18 does not result in a whole number, the actuary shall round to the nearest lower whole
+19 number.
+20 B.(1) Any amount due pursuant to Subsection A of this Section shall be
+21 determined by the actuary employed by the system and shall be amortized over
+22 fifteen years in equal payments with interest at the system's valuation rate. Payments
+23 for withdrawals that occur on or after July 1, 2021, that are based on a valuation
+24 dated June 30, 2023, or earlier shall be payable beginning the first of July of the
+25 second fiscal year following the determination by the actuary and in the same
+26 manner as regular payroll payments to the system. Payments for withdrawals that
+27 are based on a valuation dated June 30, 2024, or later shall be payable beginning the
+28 first of July of the third fiscal year following the determination by the actuary and
+29 in the same manner as regular payroll payments to the system. Beginning on the first
+Page 5 of 9
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-318 ORIGINAL
+HB NO. 49
+1 of July of the fiscal year following withdrawal, interest shall accrue at the system's
+2 actuarial valuation rate, compounded annually.
+3 (2)(a) If the number of participating employees of an employer subject to
+4 Paragraph (A)(2) of this Section returns to at least the number of participating
+5 employees as of the thirtieth of June immediately preceding the withdrawal target
+6 employee count used to determine that the particular withdrawal occurred, the
+7 payments required by this Section shall cease on the first of July following the
+8 determination by the actuary that a sufficient increase in participating employees has
+9 occurred, and no further payments shall be due with respect to the withdrawal.
+10 (b) If the number of participating employees of an employer subject to
+11 Paragraph (A)(2) of this Section increases but does not return to at least the target
+12 employee count used to determine that the particular withdrawal occurred, the
+13 payments required by this Section shall be proportionately reduced on the first of
+14 July following the determination by the actuary that an increase in participating
+15 employees has occurred.
+16 (c) Any payments made pursuant to this Section shall be credited as an offset
+17 of any amounts due by the employer attributable to any subsequent withdrawal that
+18 occurs within fifteen years of the payments.
+19 * * *
+20 D. For the purposes of this Section, the following terms shall mean:
+21 * * *
+22 (3) "Target employee count" shall mean:
+23 (a) For a valuation dated June 30, 2025, or earlier, the number of
+24 participating employees of the employer as of June thirtieth of the prior year.
+25 (b) For the valuation dated June 30, 2026, the average of the numbers of
+26 participating employees of the employer as of June thirtieth of each of the prior two
+27 years.
+Page 6 of 9
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-318 ORIGINAL
+HB NO. 49
+1 (c) For a valuation dated June 30, 2027, or later, the average of the numbers
+2 of participating employees of the employer as of June thirtieth of each of the prior
+3 three years.
+4 E. If an employer is delinquent on withdrawal payments on the thirtieth of
+5 June in any year, the provisions of Subparagraph (B)(2)(b) of this Section shall not
+6 apply to the withdrawal on which the payments are delinquent and for purposes of
+7 any additional withdrawal determined by the actuary based on the June thirtieth
+8 valuation of that year, the beginning payment date pursuant to Paragraph (B)(1) of
+9 this Section shall be the first of July of the second fiscal year following the
+10 determination by the actuary, the target employee count shall be as provided in
+11 Subparagraph (D)(3)(a) of this Section, and the provisions of Subparagraph (B)(2)(b)
+12 of this Section shall not apply.
+13 Section 2. The actuary for the Municipal Police Employees' Retirement System and
+14 the Firefighters' Retirement System shall redetermine the withdrawal of participating
+15 employers based on the June 30, 2024, and June 30, 2025, actuarial valuations pursuant to
+16 the provisions of this Act. However, any employer who was not identified prior to the
+17 effective date of this Act as having partially dissolved its police department or fire
+18 department shall not be deemed to have partially dissolved its police department or fire
+19 department based on the redetermination of withdrawal for the June 30, 2024, and June 30,
+20 2025, actuarial valuations.
+21 Section 3. This Act shall become effective upon signature by the governor or, if not
+22 signed by the governor, upon expiration of the time for bills to become law without signature
+23 by the governor, as provided by Article III, Section 18 of the Constitution of Louisiana. If
+24 vetoed by the governor and subsequently approved by the legislature, this Act shall become
+25 effective on the day following such approval.
+Page 7 of 9
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-318 ORIGINAL
+HB NO. 49
+DIGEST
+The digest printed below was prepared by House Legislative Services. It constitutes no part
+of the legislative instrument. The keyword, one-liner, abstract, and digest do not constitute
+part of the law or proof or indicia of legislative intent. [R.S. 1:13(B) and 24:177(E)]
+HB 49 Original 2026 Regular Session Bacala
+Abstract: Provides relative to partial dissolution of a police or fire department by an
+employer in the Municipal Police Employees' Retirement System or Firefighters'
+Retirement System.
+Present law, applicable to the Municipal Police Employees' Retirement System (MPERS)
+and the Firefighters' Retirement System (FRS), generally requires anyone meeting the
+definition of "employee" contained in present law to become a system member as a
+condition of employment.
+Proposed law retains present law.
+Present law, applicable MPERS and FRS, allows an employee whose employer covers its
+police officers or firefighters under Social Security to elect not to be a member of the
+system. Provides requirements and procedures for making the election.
+Proposed law retains present law for any employee hired before Jan. 1, 2027. Provides that
+for any employee hired Jan. 1, 2027, or later, proposed law does not allow for this election.
+Present law for both MPERS and FRS provides generally for an employer with a sufficient
+reduction in employees to be deemed to have partially dissolved and requires payments to
+the system. Provides for definitions and determinations related to the reduction and
+payments with determinations made as part of the actuarial valuation process.
+Proposed law retains present law.
+Present law provides that a participating employer shall be deemed to have partially
+dissolved its police department if either of the following occurs:
+(1) The number of participating employees of the employer on the valuation date is less
+than 70% of the number of participating employees of the employer as of June 30th
+of the prior fiscal year and either the number of participating employees decreases
+by at least a minimum number or the number of participating employees is zero.
+(2) The number of participating employees of the employer as of June 30th is at least 50
+fewer than the number of participating employees of the employer as of June 30th of
+the prior year.
+Present law, applicable to FRS, provides for a minimum decrease of at least three
+employees. For MPERS, present law provides for a minimum decrease of at least two
+employees.
+Proposed law increases the MPERS minimum employee reduction for purposes of partial
+dissolution from two to three beginning with the June 30, 2024, valuation. Retains the
+minimum of three for FRS.
+Proposed law provides that the 70% requirement is calculated based on a comparison with
+the target employee count to determine whether a decrease in employees is sufficient to be
+deemed a partial dissolution. Defines "target employee count" to mean:
+Page 8 of 9
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-318 ORIGINAL
+HB NO. 49
+(1) For a valuation dated June 30, 2025, or earlier, the number of participating
+employees of the employer as of June 30th of the prior year.
+(2) For the valuation dated June 30, 2026, the average of the numbers of participating
+employees of the employer as of June 30th of each of the prior two years.
+(3) For a valuation dated June 30, 2027, or later, the average of the numbers of
+participating employees of the employer as of June 30th of each of the prior three
+years.
+Proposed law provides that a participating employer shall be deemed to have partially
+dissolved its police or fire department if either of the following occurs:
+(1) The number of participating employees of the employer as of June 30th is less than
+70% of the target employee count and either the number of participating employees
+is zero or the number of participating employees decreases by at least the minimum.
+(2) The number of participating employees of the employer as of June 30th is at least 50
+fewer than the target employee count.
+Proposed law further provides that if the calculation of the percentage does not result in a
+whole number, the actuary shall round to the nearest lower whole number.
+Present law for both systems requires payments to begin on the first of July of the second
+fiscal year following the determination a partial dissolution has occurred.
+Proposed law requires payments to begin on the first of July of the third fiscal year following
+the determination for withdrawals based on a valuation dated June 30, 2024, or later.
+Proposed law provides if an employer is delinquent on June 30th in any year, certain
+provisions of proposed law do not apply to the withdrawal on which the payments are
+delinquent and any additional withdrawal based on the June 30th actuarial valuation of that
+year.
+Proposed law provides that the actuary for the Municipal Police Employees' Retirement
+System and the Firefighters' Retirement System shall redetermine the withdrawal of
+participating employers based on the June 30, 2024, and June 30, 2025, actuarial valuations
+pursuant to the provisions of this Act. However, any employer who was not identified prior
+to the effective date of this Act as having partially dissolved its police department or fire
+department shall not be deemed to have partially dissolved its police department or fire
+department based on the redetermination of withdrawal for the June 30, 2024, and
+June 30, 2025, actuarial valuations.
+Effective upon signature of governor or lapse of time for gubernatorial action.
+(Amends R.S. 11:2225.4(A)(2)(b) and (c) and (B) and 2262.1(A)(2)(b) and (B); Adds R.S.
+11:157(E), 2225.4(A)(2)(d), (D)(3), and (E), and 2262.1(A)(2)(c), (D)(3), and (E))
+Page 9 of 9
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
