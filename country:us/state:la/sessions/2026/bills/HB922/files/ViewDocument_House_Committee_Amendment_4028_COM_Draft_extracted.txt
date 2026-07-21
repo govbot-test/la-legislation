@@ -1,0 +1,51 @@
+Title: 
+Official Title: 
+Source: versions - House Committee Amendment, #4028, COM, Draft
+Media Type: application/pdf
+
+================================================================================
+
+HCAHB922 4463 4028
+HOUSE COMMITTEE AMENDMENTS
+2026 Regular Session
+Amendments proposed by House Committee on Commerce to Original House Bill No. 922
+by Representative Schamerhorn
+1 AMENDMENT NO. 1
+2 On page 1, line 3, change "1350.3," to "1350.4,"
+3 AMENDMENT NO. 2
+4 On page 1, line 5, after "commission;" and before "to" insert "to provide for annual reporting
+5 requirements;"
+6 AMENDMENT NO. 3
+7 On page 1, line 9, change "1350.3," to "1350.4,"
+8 AMENDMENT NO. 4
+9 On page 1, line 19, change "fifty" to "twenty"
+10 AMENDMENT NO. 5
+11 On page 3, delete lines 1 through 3 in their entirety
+12 AMENDMENT NO. 6
+13 On page 3, line 4, change "(4)" to "(3)"
+14 AMENDMENT NO. 7
+15 On page 3, between lines 9 and 10, insert the following:
+16 "1350.4. Annual reporting
+17 A. The commission shall submit an annual report to the House Committee
+18 on Commerce, the Senate Committee on Commerce, Consumer Protection and
+19 International Affairs, and the governor no later than February fifteenth of each year.
+20 The report shall cover the prior calendar year and shall include but not be limited to
+21 all of the following:
+22 (1) A list of all data centers that have requested or received new electric
+23 service, interconnection, or infrastructure upgrades.
+24 (2) The total new or expanded electric demand, in megawatts, associated
+25 with data centers.
+26 (3) A summary of all costs, including generation, transmission, and
+27 distribution, allocated to data centers versus household customers, including any
+28 special contracts or tariffs approved.
+29 (4) Confirmation of compliance with the prohibition on cost recovery from
+30 household customers, include results of any prudence reviews.
+31 (5) Any instances of proposed rate adjustments or certificates denied or
+32 modified pursuant to this Part.
+33 (6) Recommendations for any legislative or regulatory improvements.
+34 B. The commission may require utilities to submit data necessary to prepare
+35 the report outlined in this Section."
+36
+Page 1 of 1
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
