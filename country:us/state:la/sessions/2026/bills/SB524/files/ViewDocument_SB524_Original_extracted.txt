@@ -1,0 +1,2912 @@
+Title: 
+Official Title: 
+Source: versions - SB524 Original
+Media Type: application/pdf
+
+================================================================================
+
+SLS 26RS-2719 ORIGINAL
+2026 Regular Session
+SENATE BILL NO. 524 (Substitute of Senate Bill No. 520 by Senator Reese)
+BY SENATOR REESE
+CURRICULA. Creates the Louisiana Jump Start Modernization Act. (8/1/26)
+1 AN ACT
+2 To enact Subpart A-4 of Part III of Chapter 1 of Title 17 of the Louisiana Revised Statutes
+3 of 1950, to be comprised of R.S. 17:189.1 through 189.20, and to repeal R.S.
+4 17:183.1 through 183.5, relative to high school career option; to provide for a high-
+5 quality K-12 career and technical education pathway system; to provide for
+6 definitions; to provide for governance and authority of a membership collaborative;
+7 to provide for a statewide priority list identifying the industry sectors in the state; to
+8 provide for a four-stage developmental framework for K-12 career and technical
+9 education; to provide for each student to have an individual career and academic plan
+10 beginning in the seventh grade; to provide for career counseling and career coaching
+11 standards; to provide for a career major program in each authorized K-12 Jump Start
+12 pathway that constitutes the core academic and technical coursework sequence
+13 through which a student pursues a Career Diploma and the nine-credit Jump Start
+14 career and technical education course sequence; to provide for work-based learning
+15 quality continuum; to provide access to rural education agencies; to provide for an
+16 effective date; and to provide for related matters.
+17 Be it enacted by the Legislature of Louisiana:
+Page 1 of 83
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-2719 ORIGINAL
+SB NO. 524
+1 Section 1. Subpart A-4 of Part III of Chapter 1 of Title 17 of the Louisiana Revised
+2 Statutes of 1950, comprised of R.S. 17:189.1 through 189.20, is hereby enacted to read as
+3 follows:
+4 SUBPART A-4. LOUISIANA JUMP START MODERNIZATION ACT
+5 189.1. Legislative findings; purpose
+6 A. Legislative findings.
+7 The legislature hereby finds and declares all of the following:
+8 (1) Career and technical education is foundational to Louisiana's
+9 workforce development, economic competitiveness, and educational goals, and
+10 a coherent, high-quality career and technical education system is essential to
+11 connecting Louisiana students to priority careers and to meeting regional and
+12 statewide employer demand.
+13 (2) Louisiana's long-term economic competitiveness depends on a system
+14 that is responsive to labor market demand, supported by cross-agency
+15 coordination, and grounded in transparent outcome data.
+16 (3) Louisiana's students, families, and employers are best served by a
+17 Jump Start program grounded in strong governance accountability, rigorous
+18 program quality standards, public data reporting, and durable industry
+19 alignment mechanisms, and this Act establishes the statutory framework
+20 necessary to ensure the program delivers lasting, measurable value across
+21 administrations and budget cycles.
+22 B. Statement of purpose.
+23 The purposes of this Subpart are to accomplish all of the following:
+24 (1) To establish a coherent, high-quality K-12 Jump Start pathway
+25 system organized around a clearly defined framework.
+26 (2) To strengthen the governance, quality, and accountability of the
+27 Jump Start program by creating a collaborative overseen and facilitated by the
+28 Louisiana Workforce Investment Council with defined composition and
+29 authority; establishing cross-agency coordination among the state Department
+Page 2 of 83
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-2719 ORIGINAL
+SB NO. 524
+1 of Education, Louisiana Works, the Board of Regents, and the Louisiana
+2 Community and Technical Colleges; ensuring that authorized Jump Start
+3 pathways lead to viable, high-wage, high-demand occupations; and establishing
+4 statute criteria on transparent public data reporting.
+5 (3) To ensure that every Louisiana student has access to, and can
+6 complete, rigorous Jump Start pathways by establishing differentiated
+7 provisions, guaranteeing postsecondary articulation credit opportunities for
+8 Career Diploma completers, and providing that no student's geographic
+9 location shall determine the quality or availability of Jump Start pathways
+10 available to that student.
+11 C. Program designation; short title.
+12 (1) The career and technical education program established by this
+13 Subpart shall be known and may be cited as the "Louisiana Jump Start Career
+14 Diploma Program".
+15 (2) This Subpart may be cited as the "Louisiana Jump Start
+16 Modernization Act".
+17 (3) Nothing in this Subpart shall be construed to alter the program
+18 designation established in Paragraph (1) of this Subsection, or to limit the
+19 authority of the State Board of Elementary and Secondary Education to develop
+20 program materials, adopt administrative rules, and communicate with the
+21 public regarding this Subpart using the program name established by this
+22 Subsection. Any rules, bulletins, or guidance documents adopted by the State
+23 Board of Elementary and Secondary Education pursuant to this Subpart shall
+24 reference the program by its statutory designation.
+25 §189.2. Definitions
+26 The definitions set forth in this Section shall govern the interpretation
+27 of every Section of this Subpart. As used in this Subpart, the following terms
+28 shall have the following meanings:
+29 (1) "Career and technical education" or "CTE". This term shall be
+Page 3 of 83
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-2719 ORIGINAL
+SB NO. 524
+1 interpreted consistent with, and shall not be construed more narrowly than, the
+2 definition established in the Carl D. Perkins Career and Technical Education
+3 Act of 2006, as amended, 20 U.S.C. 2302(5).
+4 (2) "Career Diploma". A secondary school diploma issued by the State
+5 Board of Elementary and Secondary Education to a student who has
+6 successfully completed all requirements of an approved Louisiana Jump Start
+7 career pathway under this Subpart. A Career Diploma shall be recognized by
+8 all Louisiana public postsecondary education institutions.
+9 (3) "Career coach" or "qualified career coach". A person who is not a
+10 licensed school counselor but who is authorized by a public school governing
+11 authority to provide individualized student career planning and advising
+12 services pursuant to R.S. 17:2926, the requirements of this Subpart, and who
+13 meets the qualifications pursuant to R.S. 17:189.8. Nothing in this definition
+14 shall be construed to authorize a career coach to perform duties reserved by law
+15 to a licensed school counselor, except as specifically provided by this Subpart.
+16 (4) "CTE concentrator". A secondary student who has completed at least
+17 two credits in a single approved Jump Start pathway.
+18 (5) "CTE completer". A secondary student who has satisfied all
+19 requirements of an approved Jump Start pathway under this Subpart,
+20 including the nine-credit Jump Start course sequence established in R.S.
+21 17:189.10, and who has earned at least one credential as required for Career
+22 Diploma completion. The term includes both students who earn a Career
+23 Diploma and students who complete all pathway requirements but do not elect
+24 to receive a Career Diploma.
+25 (6) "Career major program". A structured sequence of academic core
+26 and career and technical education courses constituting the curriculum of an
+27 authorized Jump Start pathway through which a student satisfies the
+28 requirements for a Louisiana Career Diploma.
+29 (7) "Enhanced wage record" or "EWR". A quarterly wage record
+Page 4 of 83
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-2719 ORIGINAL
+SB NO. 524
+1 submitted by an employer to Louisiana Works that may include, in addition to
+2 the elements required for standard unemployment insurance wage reporting
+3 under Title 23 of the Louisiana Revised Statutes of 1950, the following job-level
+4 data elements for each employee during the reporting period:
+5 (a) Occupation code consistent with the Standard Occupational
+6 Classification (SOC) system.
+7 (b) Total hours worked.
+8 (c) Primary work location.
+9 (d) Hourly wage equivalent.
+10 (e) Job start and end dates.
+11 Enhanced wage record data shall serve as the primary wage and
+12 employment outcome tracking mechanism for career and technical education
+13 pathway completers pursuant to R.S. 17:189.18.
+14 (8) "Individual Career and Academic Plan" or "ICAP". Longitudinal
+15 career development and academic planning document required for each student
+16 under R.S 17:189.7 that identifies the student's career interests, academic
+17 strengths, and preliminary career pathway goals. An ICAP shall be initiated no
+18 later than the beginning of grade seven, reviewed, and updated annually
+19 through grade twelve. The ICAP shall serve as the primary planning instrument
+20 connecting the K-12 career awareness and exploration framework to approved
+21 Jump Start pathway selection and enrollment, as established in R.S. 17:189.7.
+22 (9) "Individual Graduation Plan" or "IGP". The individualized
+23 graduation plan required for each student pursuant to R.S. 17:2925 that sets
+24 forth the student's selected course of study, chosen diploma pathway, and
+25 postsecondary goals. The IGP shall be aligned with the student's Individual
+26 Career and Academic Plan as provided in R.S. 17:189.7, shall be developed,
+27 reviewed annually, and revised with the assistance of a school counselor or
+28 career coach as provided in R.S. 17:2925, and shall, for a student pursuing a
+29 Career Diploma under this Subpart, identify the approved Jump Start pathway
+Page 5 of 83
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-2719 ORIGINAL
+SB NO. 524
+1 selected by the student.
+2 (10) "Individualized Education Program" or "IEP". Written educational
+3 plan required for each eligible student with a disability under the Individuals
+4 with Disabilities Education Act (IDEA), 20 U.S.C. 1400 et seq., and as the term
+5 applies to students with exceptionalities as defined in R.S. 17:1942. For purposes
+6 of this Subpart, an IEP shall be coordinated with the student's Individual
+7 Career and Academic Plan and Individual Graduation Plan to ensure
+8 meaningful access to appropriate career and technical education pathways
+9 consistent with the student's educational goals and all applicable requirements
+10 under IDEA, the Family Educational Rights and Privacy Act, 20 U.S.C. 1232g,
+11 and R.S. 44:1 et seq.
+12 (11) "Industry credential". An independent, third-party credential that:
+13 (a) Reflects a specific set of competencies related to a particular industry
+14 sector or occupation.
+15 (b) Is recognized and accepted by employers in the relevant labor market
+16 as evidence of workplace readiness.
+17 (c) Is portable across employers and geographic areas.
+18 (d) Provides a valid and reliable measure of an individual's technical
+19 knowledge and skills.
+20 (e) Takes the form of a diploma, certification, certificate, or occupational
+21 license. For purposes of this Subpart, a credential must be approved by the
+22 Louisiana Workforce Investment Council pursuant to R.S. 23:206.
+23 (12) "K-12 Jump Start pathway" or "Jump Start pathway". An
+24 approved, structured sequence of career and technical education courses, work-
+25 based learning experiences, and credentials organized around a defined career
+26 field within a recognized career cluster and authorized by the State Board of
+27 Elementary and Secondary Education following a recommendation by the
+28 collaborative. The term includes both statewide pathways and regional
+29 pathways as defined in this Section, and shall not be construed to include any
+Page 6 of 83
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-2719 ORIGINAL
+SB NO. 524
+1 sequence of courses that does not satisfy the minimum standards pursuant to
+2 R.S. 17:189.10.
+3 (13) "Louisiana Community and Technical Colleges" or "LCTC". The
+4 public postsecondary education system charged with the administration,
+5 management, and supervision of the community colleges, technical colleges, and
+6 affiliated institutions within the state.
+7 (14) "Louisiana Workforce Investment Council" or "WIC". The state
+8 workforce development board created within Louisiana Works pursuant to R.S.
+9 23:2042 et seq., and placed within the executive office of the secretary of
+10 Louisiana Works. The council serves as the state's workforce development
+11 board for the purposes of meeting the requirements of the federal Workforce
+12 Innovation and Opportunity Act of 2014, 29 U.S.C. 3101 et seq., and is
+13 responsible for directing the Occupational Forecasting Conference in
+14 determining official information necessary for workforce development planning
+15 and budgeting.
+16 (15) "Louisiana Works" or "LA Works". State agency established
+17 pursuant to R.S. 23:2061 et seq., that administers Louisiana's workforce
+18 development programs, unemployment insurance system, and labor market
+19 information services. Louisiana Works shall serve as a data and coordination
+20 partner for career and technical education outcome tracking and industry
+21 alignment review pursuant to R.S. 17:189.18.
+22 (16) "Local education agency". A public board of education or other
+23 public authority legally constituted within Louisiana for the administrative
+24 control and direction of, or to perform a service function for, public elementary
+25 or secondary schools in a city, parish, or other local public school district,
+26 consistent with the definition established in R.S. 17:1942. The term includes
+27 each city, parish, and other local public school board responsible for
+28 implementing a career and technical education program under this Subpart,
+29 and each local school system participating in a regional team pursuant to R.S.
+Page 7 of 83
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-2719 ORIGINAL
+SB NO. 524
+1 17:189.9.
+2 (17) "Priority occupation". An occupation that has been formally
+3 designated by the Workforce Investment Council based on current and
+4 projected regional or statewide labor market demand data from Louisiana
+5 Works, the Bureau of Labor Statistics, as a priority occupation for career and
+6 technical education pathway development and public investment. A priority
+7 occupation designation is distinct from the viable occupation standard in
+8 Paragraph (22) of this Section in that it reflects an affirmative policy
+9 designation for pathway development, not the minimum threshold for pathway
+10 authorization.
+11 (18) "Regional pathway". A Jump Start pathway developed by a
+12 regional team and authorized by the State Board of Elementary and Secondary
+13 Education for delivery within a defined geographic region of the state, which
+14 may be tailored to address regionally specific labor market demands, local
+15 industry partner capacity, and regional workforce priorities within that region.
+16 A regional pathway shall satisfy all minimum pathway authorization
+17 requirements pursuant to R.S. 17:189.13 and shall adhere to the same academic
+18 requirements as statewide pathways to enable students to continue
+19 postsecondary education following high school graduation.
+20 (19) "Regional team". A multi-agency, multi-sector body under the
+21 leadership of LCTC, aligning state and regional workforce priorities with
+22 Louisiana Works' strategic goals and federal requirements of the Carl D.
+23 Perkins Career and Technical Education Act of 2006. Regional teams will
+24 include representatives of public community and technical colleges, local
+25 education agencies, and business and industry.
+26 (20) "Rural local education agency" or "rural LEA". A local education
+27 agency that meets the population density, school enrollment, and geographic
+28 criteria established in R.S. 17:189.14 and that is therefore eligible for:
+29 (a) Differentiated pathway authorization thresholds that account for
+Page 8 of 83
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-2719 ORIGINAL
+SB NO. 524
+1 limited local industry partner pools and small student enrollment sizes.
+2 (b) Inter-district consortium pathway authorization allowing multiple
+3 rural LEAs to jointly develop and deliver a single pathway.
+4 (c) Rural-specific program delivery provisions pursuant to R.S.
+5 17:189.14.
+6 (21) "Statewide pathway". A Jump Start pathway authorized by the
+7 State Board of Elementary and Secondary Education for delivery statewide,
+8 anchored to one or more credentials approved by the Louisiana Workforce
+9 Investment Council pursuant to R.S. 23:2065, and meeting all pathway
+10 authorization requirements pursuant to R.S. 17:189.13.
+11 (22) "Viable occupation". An occupation that meets the minimum wage
+12 and demand standards established by Louisiana Works. The viable occupation
+13 standard constitutes the minimum authorization floor for pathway approval
+14 and is distinct from a priority occupation designation under Paragraph (17) of
+15 this Section.
+16 (23) "Work-based learning". A structured, supervised learning activity
+17 that integrates classroom instruction with employer-directed workplace
+18 experience through progressively intensive levels of engagement, organized as
+19 a tiered quality continuum as established in R.S. 17:189.11. The term includes
+20 both school-supervised and employer-supervised placements as categorized in
+21 R.S. 17:189.11.
+22 §189.3. Collaborative board; governance; duties
+23 A. Governance; authority.
+24 (1) There is hereby created a multi-agency collaborative, sometimes
+25 hereinafter referred to as the "collaborative". The Louisiana Workforce
+26 Investment Council within Louisiana Works shall oversee and facilitate the
+27 multi-agency collaborative. The collaborative shall include the following
+28 members:
+29 (a) The secretary of Louisiana Works, or his designee.
+Page 9 of 83
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-2719 ORIGINAL
+SB NO. 524
+1 (b) The state Superintendent of Education, or his designee.
+2 (c) The commissioner of Higher Education, or his designee.
+3 (d) The president of the Louisiana Community and Technical Colleges,
+4 or his designee.
+5 (e) The chairman of the Workforce Investment Council, or his designee.
+6 (2) Representatives of industry sectors designated as priority industries
+7 by the Louisiana Workforce Investment Council and presidents or senior staff
+8 representing statewide business or industry associations headquartered in
+9 Louisiana shall also serve as members of the established collaborative.
+10 (a) No more than seven industry members shall serve at any one time,
+11 and no more than two of the seven industry members shall represent the same
+12 priority industry sector. Each such member shall be a current owner, officer,
+13 or senior employee of a Louisiana domiciled business.
+14 (b) No more than three presidents or senior staff representing statewide
+15 business or industry associations headquartered in Louisiana shall serve at any
+16 one time.
+17 (c) The industry representative members described in this Paragraph
+18 shall be appointed by the chairman of the Louisiana Workforce Investment
+19 Council.
+20 (3) The chairman of the Louisiana Workforce Investment Council shall
+21 determine the operational placement of the collaborative within Louisiana
+22 Works in consultation with the secretary of Louisiana Works.
+23 (4) Members of the collaborative shall serve as voting members and shall
+24 adhere to all meeting and quorum requirements as established by the Louisiana
+25 Workforce Investment Council.
+26 (5) The collaborative shall be subject to the Open Meetings Law,
+27 pursuant to R.S. 42:11 et seq., the Public Records Law, pursuant to R.S. 44:1
+28 et seq., and the Code of Governmental Ethics, pursuant to R.S. 42:1101 et seq.,
+29 as applicable to its operations.
+Page 10 of 83
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-2719 ORIGINAL
+SB NO. 524
+1 (6) The collaborative shall elect a chairman by majority vote of its
+2 members. The chairman shall be selected from the industry representative
+3 members serving pursuant to Paragraph (2) of this Subsection.
+4 B. Meeting requirements; frequency; public access; record-keeping.
+5 (1) The collaborative shall meet not fewer than four times per calendar
+6 year.
+7 (2) All meetings of the collaborative shall be open to the public and
+8 conducted in compliance with the Open Meeting Law pursuant to R.S. 42:11 et
+9 seq. Written notice of each regular meeting shall be provided not fewer than
+10 five business days in advance through the publicly accessible website
+11 maintained pursuant to Paragraph (3) of this Subsection. Emergency meetings
+12 shall be convened only in compliance with R.S. 42:19.
+13 (3) All records, including meeting minutes, official correspondence,
+14 written recommendations, and agency responses, shall constitute public records
+15 subject to R.S. 44:1 et seq.
+16 C. Duties and responsibilities.
+17 The collaborative shall have the following duties and responsibilities:
+18 (1) To review each of the following categories of proposed decisions and
+19 to issue written recommendations to the State Board of Elementary and
+20 Secondary Education thereon, prior to and as a condition of board action:
+21 (a) Authorization of any new statewide or regional Jump Start pathway
+22 pursuant to R.S. 17:189.9.
+23 (b) Significant modification of any currently authorized statewide or
+24 regional pathway, defined as any change to a pathway identified credential,
+25 required Jump Start career and technical education course sequence, or the
+26 work-based learning tier requirement.
+27 (c) Sunset, discontinuation, or deauthorization of any currently
+28 authorized statewide or regional pathway pursuant to R.S. 17:189.13.
+29 (d) Reclassification of any credential from one tier to another under the
+Page 11 of 83
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-2719 ORIGINAL
+SB NO. 524
+1 approved credential tier list established pursuant to R.S. 17:189.12, including
+2 elevation to a higher tier, demotion to a lower tier, or removal from the
+3 approved list.
+4 (e) Adoption or significant revision of the statewide standards applicable
+5 to all Jump Start pathway designation proposals under R.S. 17:189.9.
+6 (2) To establish and maintain an inter-agency shared performance
+7 framework for the Louisiana Jump Start Career Diploma Program. The shared
+8 performance framework shall be binding on each member agency for purposes
+9 of annual reporting and shall be reviewed and updated by the collaborative not
+10 less than every two years. The framework shall include at minimum:
+11 (a) Student Jump Start pathway completion rates, disaggregated by race,
+12 income, disability status, and geographic region.
+13 (b) Credential attainment rates by pathway, disaggregated by credential
+14 tier established under R.S. 17:189.12.
+15 (c) Post-graduation employment rates and median wages for Career
+16 Diploma holders, measured at one year and three years after graduation using
+17 enhanced wage record data as defined in R.S. 17:189.2.
+18 (d) Postsecondary continuation rates for Career Diploma holders at
+19 Louisiana public postsecondary institutions.
+20 (e) Advanced work-based learning participation rates, defined as Level
+21 3 or above under R.S. 17:189.11.
+22 (f) Pathway-level return on investment metrics pursuant to R.S.
+23 17:3138.13.
+24 (3) To implement and maintain the shared performance framework
+25 established pursuant to Paragraph (2) of this Subsection in a manner that is
+26 consistent and coordinated with any existing or future legislation addressing K-
+27 12, postsecondary, or workforce data collection, performance metrics,
+28 accountability reporting, or data transparency. In conducting each biennial
+29 review and update of the shared performance framework under Paragraph (2)
+Page 12 of 83
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-2719 ORIGINAL
+SB NO. 524
+1 of this Subsection, the collaborative shall assess the framework's consistency
+2 with any such legislation enacted or amended since the prior review and shall
+3 revise the framework as necessary to avoid duplication, ensure compatibility,
+4 and leverage data resources and reporting obligations established by such
+5 legislation.
+6 (4) To review and issue written recommendations to the State Board of
+7 Elementary and Secondary Education on the designation, reclassification,
+8 elevation, demotion, or removal of credentials from the approved credential tier
+9 list pursuant to R.S. 17:189.12.
+10 (5) To prepare and publish an annual performance report on Jump Start
+11 program outcomes, submitted to the legislature and posted publicly not later
+12 than December first of each year. The annual report shall present data
+13 measured under the shared performance framework established pursuant to
+14 Paragraph (2) of this Subsection.
+15 (6) To establish an inter-agency Memorandum of Understanding (MOU)
+16 specifying each member agency's obligations under the shared performance
+17 framework, annual reporting deadline, and data sharing responsibilities
+18 pursuant to R.S. 17:189.18.
+19 D. Collaborative authority; scope and limits.
+20 (1) The authority of the collaborative is limited to the powers expressly
+21 granted by this Subpart. No provision of this Subpart shall be construed to
+22 expand the collaborative's authority beyond those expressly granted powers,
+23 nor shall this Subpart be construed to limit the rulemaking authority of the
+24 State Board of Elementary and Secondary Education under R.S. 17:7, except
+25 as expressly provided in Subsection F of this Section.
+26 (2) The collaborative's written recommendations issued pursuant to
+27 Subsection F of this Section are advisory in legal character; they create a
+28 procedural prerequisite to The State Board of Elementary and Secondary
+29 Education action on specified decisions and impose transparency obligations
+Page 13 of 83
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-2719 ORIGINAL
+SB NO. 524
+1 when The State Board of Elementary and Secondary Education departs from
+2 such recommendations, but they do not in themselves constitute final agency
+3 action and shall not be subject to judicial review as final orders.
+4 E. State Board of Elementary and Secondary Education-collaborative
+5 jurisdictional boundary; decisionmaking hierarchy
+6 (1) Notwithstanding any other provision of this Subpart or of R.S. 17:7,
+7 the State Board of Elementary and Secondary Education shall not take formal
+8 action on any of the following categories of decisions without first receiving a
+9 written recommendation from the collaborative pursuant to Paragraph (2) of
+10 this Subsection:
+11 (a) Authorization of any new statewide or regional Jump Start pathway
+12 pursuant to R.S. 17:189.9.
+13 (b) Significant modification of any currently authorized statewide or
+14 regional Jump Start pathway, defined for purposes of this Subsection as any
+15 change to one or more of the following elements of an authorized pathway:
+16 (i) Pathway identified credential or credential tier.
+17 (ii) The required career and technical education course sequence.
+18 (iii) Work-based learning tier requirement.
+19 (c) Sunset, discontinuation, or deauthorization of any currently
+20 authorized statewide or regional pathway pursuant to R.S. 17:189.13.
+21 (d) Reclassification of any credential from one tier to another under the
+22 approved credential tier list established pursuant to R.S. 17:189.12, including
+23 elevation to a higher tier, demotion to a lower tier, or removal from the
+24 approved list.
+25 (e) Adoption or significant revision of the statewide standards applicable
+26 to all Jump Start pathway authorization proposals under R.S. 17:189.9.
+27 (2) When The State Board of Elementary and Secondary Education
+28 proposes to take action on a decision enumerated in Paragraph (1) of this
+29 Subsection, the following process shall govern:
+Page 14 of 83
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-2719 ORIGINAL
+SB NO. 524
+1 (a) The state Department of Education shall transmit to the collaborative
+2 a written notice of the proposed decision, a complete description of the proposed
+3 action, and all supporting documentation material to the decision.
+4 (b) The collaborative shall issue its written recommendation. The written
+5 recommendation shall include:
+6 (i) The collaborative's specific recommendation, stated as a
+7 recommendation to approve, approve with conditions, deny, or defer the
+8 proposed action.
+9 (ii) The collaborative's written findings supporting the recommendation.
+10 (c) If the collaborative fails to issue a written recommendation, the State
+11 Board of Elementary and Secondary Education may proceed with the proposed
+12 action without a recommendation. The State Board of Elementary and
+13 Secondary Education action record shall document that the collaborative did
+14 not issue a timely recommendation.
+15 (3) If the State Board of Elementary and Secondary Education takes
+16 action contrary to a written recommendation issued by the collaborative
+17 pursuant to Paragraph (2) of this Subsection, the following requirements shall
+18 apply:
+19 (a) The State Board of Elementary and Secondary Education shall adopt,
+20 at the same meeting at which it takes the action that departs from the
+21 collaborative's recommendation, written findings stating specifically:
+22 (i) The collaborative's recommendation and the basis stated in its written
+23 findings.
+24 (ii) The reasons for departing from the collaborative's recommendation.
+25 (iii) The specific factual and policy basis for the action.
+26 (4) Nothing in this Subsection shall be construed to require the State
+27 Board of Elementary and Secondary Education to follow a recommendation or
+28 to limit the Board's final rulemaking authority under R.S. 17:7. The
+29 collaborative recommendation process required by this Subsection is a
+Page 15 of 83
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-2719 ORIGINAL
+SB NO. 524
+1 procedural prerequisite to final action by the State Board of Elementary and
+2 Secondary Education on the enumerated decision categories, not a limitation on
+3 the State Board of Elementary and Secondary Education's substantive
+4 authority. Compliance with this Subsection does not itself constitute compliance
+5 with any other requirement of law applicable to the State Board of Elementary
+6 and Secondary Education's rulemaking or decisionmaking processes.
+7 F. Funding authorization; administrative support.
+8 (1) There are hereby authorized to be appropriated from the state
+9 general fund such sums as may be necessary for the collaborative to carry out
+10 its duties and responsibilities under this Subpart. The collaborative's funding
+11 authorization shall be a continuing authorization subject to annual legislative
+12 appropriation.
+13 (2) Members of the collaborative shall serve without compensation. Each
+14 industry and association representative shall be entitled to reimbursement for
+15 necessary and reasonable travel expenses and per diem incurred in the
+16 performance of official collaborative duties, at the rates established by law for
+17 state officials and employees.
+18 (3) The Louisiana Workforce Investment Council within Louisiana
+19 Works shall provide administrative and staff support to the collaborative,
+20 including staff resources necessary for maintaining minutes and records,
+21 coordinating meeting logistics, operating the publicly accessible website on
+22 which collaborative documents are posted, and preparing reports as required
+23 under this Subpart.
+24 §189.4. Industry sector prioritization; priority occupation determination
+25 A. Statewide priority industry list; establishment and maintenance;
+26 priority industry alignment process.
+27 (1) The collaborative shall establish, maintain, and update a Statewide
+28 Priority Industry List, sometimes hereinafter referred to as the "Priority List",
+29 identifying the industry sectors in Louisiana designated as priority industries
+Page 16 of 83
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-2719 ORIGINAL
+SB NO. 524
+1 for purposes of K-12 Jump Start pathway development and credential tier
+2 classification pursuant to R.S. 17:189.12 in alignment with the priorities of the
+3 Board of Regents, Louisiana Community and Technical Colleges, and the
+4 Workforce Investment Council's statewide strategic workforce plan. The
+5 collaborative may identify an established Louisiana council, committee, or
+6 agency to support the development and maintenance of the Priority List.
+7 (2) An initial Priority List shall be acknowledged by the collaborative not
+8 later than one hundred eighty calendar days after the effective date of this
+9 Subpart, following the data-driven process specified in Subsection B of this
+10 Section, and shall be published on the publicly accessible website maintained
+11 pursuant to R.S. 17:189.3.
+12 (3) No Jump Start pathway shall be authorized under this Subpart unless
+13 the pathway is aligned to an occupation within an industry sector included on
+14 the Priority List or, for regional pathways, the applicable Regional Priority
+15 Industry List established under Subsection F of this Section. Inclusion of an
+16 industry sector on the Priority List shall not constitute pathway authorization;
+17 all pathways must separately satisfy the requirements of R.S. 17:189.9.
+18 (4) All collaborative determinations under this Section shall be based on
+19 documented analysis of current, publicly available labor market and wage data.
+20 B. Biennial industry-level priority review; distinct from five-year
+21 pathway cycle.
+22 (1) The collaborative shall conduct a comprehensive review of the
+23 Statewide Priority Industry List established under Subsection A of this Section
+24 not less frequently than once every two years. The first Biennial Priority Review
+25 shall be completed not later than twenty-four months after the initial Priority
+26 List is established pursuant to Paragraph (A)(2) of this Section. Subsequent
+27 Biennial Priority Reviews shall be completed not later than twenty-four months
+28 after the completion of the preceding review.
+29 (2) The Biennial Priority Review is a distinct and independent process
+Page 17 of 83
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-2719 ORIGINAL
+SB NO. 524
+1 from the five-year pathway reauthorization cycle established in R.S. 17:189.13.
+2 Neither process satisfies nor substitutes for the other.
+3 (3) Following each Biennial Priority Review, the collaborative shall:
+4 (a) Issue a written Priority Review Report summarizing all findings, data
+5 sources, and determinations.
+6 (b) Post the Priority Review Report on the publicly accessible website
+7 maintained pursuant to R.S. 17:189.3, not later than thirty calendar days
+8 following the meeting at which the review was completed.
+9 (c) Notify each local education agency and each regional team of any
+10 additions to, removals from, or modifications to the Priority List, including the
+11 effective date of such changes and the data basis for each change.
+12 (d) Transmit the Priority Review Report to the chair of the House
+13 Committee on Education and the chair of the Senate Committee on Education,
+14 consistent with the collaborative's annual reporting obligations under R.S.
+15 17:189.3.
+16 (4) Where the collaborative's Biennial Priority Review results in the
+17 removal of an industry sector from the Priority List, Jump Start pathways
+18 aligned to occupations within that sector that were authorized before the
+19 removal shall not be automatically deauthorized. Such pathways shall remain
+20 authorized until their next scheduled reauthorization review under R.S.
+21 17:189.13.
+22 C. Regional priority industry lists.
+23 (1) In addition to the Statewide Priority Industry List established under
+24 Subsection A of this Section, each region and regional team, established
+25 pursuant to R.S. 17:189.9 shall develop a Regional Priority Industry List,
+26 sometimes hereinafter referred to as the "Regional List", identifying the
+27 priority industry sectors of the region served by that regional team. Regional
+28 Lists shall reflect the specific labor market conditions of the relevant region.
+29 (2) Regional Lists shall be developed and approved through the following
+Page 18 of 83
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-2719 ORIGINAL
+SB NO. 524
+1 process:
+2 (a) Each regional team shall develop a proposed Regional List, drawing
+3 on the regional labor market data.
+4 (b) The regional team shall submit its proposed Regional List to the
+5 collaborative, accompanied by:
+6 (i) All supporting regional labor market data.
+7 (ii) Where sectors not on the Statewide Priority Industry List are
+8 proposed for regional inclusion, employer demand documentation.
+9 (c) The collaborative shall review each proposed Regional List and shall
+10 approve, approve with modifications, or return the proposed list to the regional
+11 team with written findings. A Regional List approved under this Subparagraph
+12 shall take effect upon collaborative approval and shall be published on the
+13 publicly accessible website maintained pursuant to R.S. 17:189.3 (H)(3).
+14 (3) A Regional List shall be updated by its regional team within six
+15 months following the collaborative's completion of each Biennial Priority
+16 Review. A regional team may propose an interim update to its Regional List at
+17 any time, prior to the conclusion of a Biennial Priority Review cycle, if
+18 documented changes in regional labor market conditions published by
+19 Louisiana Works or reported by local and regional workforce development
+20 boards warrant a revision.
+21 (4) No Jump Start pathway shall be authorized under this Subpart for
+22 an occupation within an industry sector that is not included on an applicable
+23 Regional Priority Industry List for the workforce development region in which
+24 the pathway would be delivered. Alignment with a Regional List is a necessary
+25 but not sufficient condition for regional pathway authorization; all regional
+26 pathways must separately satisfy the full requirements of R.S. 17:189.9.
+27 §189.5. Louisiana Career Diploma; equal status
+28 A. Career Diploma.
+29 (1) There is hereby established within the Louisiana Jump Start Career
+Page 19 of 83
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-2719 ORIGINAL
+SB NO. 524
+1 Diploma Program a credential to be known as the "Louisiana Career Diploma",
+2 which shall be issued by the State Board of Elementary and Secondary
+3 Education to any student who successfully completes all requirements of an
+4 approved Louisiana Jump Start pathway under this Subpart, as defined in R.S.
+5 17:189.2(12).
+6 (2) All provisions of this Subpart shall be administered to support and
+7 accurately measure Career Diploma attainment.
+8 (3) The state Board of Elementary and Secondary Education shall
+9 establish and maintain, in administrative rules adopted consistent with R.S.
+10 17:7, all requirements for the award of the Louisiana Career Diploma,
+11 consistent with the standards established in this Subpart.
+12 B. Standard diploma.
+13 (1) A Louisiana Career Diploma issued pursuant to this Subpart shall be
+14 a standard diploma for all purposes under Louisiana law.
+15 (2) For purposes of Paragraph (1) of this Subsection, "all purposes under
+16 Louisiana law" includes but is not limited to:
+17 (a) Employment by state agencies, state departments, political
+18 subdivisions, and other state entities that require a high school diploma or
+19 equivalent as a minimum qualification.
+20 (b) Eligibility for admission to Louisiana public postsecondary education
+21 institutions under the circumstances provided in Subsection C of this Section.
+22 (c) Eligibility for state financial aid programs that require a high school
+23 diploma as a qualifying criterion.
+24 C. Postsecondary nonrestriction.
+25 (1) A Career Diploma issued to a student pursuant to this Subpart shall
+26 not limit a graduate's right to pursue postsecondary education for which the
+27 graduate is otherwise eligible.
+28 (2) All Louisiana public postsecondary institutions shall recognize the
+29 Louisiana Career Diploma as equivalent to a standard diploma.
+Page 20 of 83
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-2719 ORIGINAL
+SB NO. 524
+1 (3) Nothing in this Subsection shall be construed to require any
+2 postsecondary institution to admit a graduate who does not otherwise meet the
+3 institution's published admissions standards.
+4 (4) The Board of Regents shall, not later than one year after the effective
+5 date of this Subpart and annually thereafter, certify to the legislature and to the
+6 Louisiana Jump Start Collaborative that no Louisiana public postsecondary
+7 institution under its jurisdiction has adopted or maintained a policy inconsistent
+8 with Paragraph (2) of this Subsection.
+9 §189.6. K-12 Jump Start pathway framework
+10 A. Four-stage framework established.
+11 (1) There is hereby established within the Louisiana Jump Start Career
+12 Diploma Program a four-stage developmental framework for K-12 career and
+13 technical education, to be known as the "Louisiana K-12 Jump Start Pathway
+14 Framework", which shall constitute the organizing structure for all career
+15 awareness, exploration, concentration, and completion activities within the
+16 Jump Start program. The four stages of the framework are designated as Stage
+17 I Career Awareness, grades kindergarten through six; Stage II Career
+18 Exploration, grades seven through eight; Stage III Career Concentration,
+19 grades nine through ten; and Stage IV Career Completion, grades eleven
+20 through twelve, as further described in Subsections B through E of this Section.
+21 (2) The purpose of the four-stage framework is to ensure that student
+22 participation in the Louisiana Jump Start Career Diploma Program is the result
+23 of a longitudinal, developmentally appropriate progression beginning in
+24 elementary school. The State Board of Elementary and Secondary Education
+25 shall incorporate the framework into all administrative rules and bulletins
+26 governing the Jump Start program.
+27 (3) All stage-level activities and requirements under this Section shall be
+28 designed to support Louisiana's compliance with all applicable reporting and
+29 performance obligations under the Carl D. Perkins Career and Technical
+Page 21 of 83
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-2719 ORIGINAL
+SB NO. 524
+1 Education Act of 2006, as amended, 20 U.S.C. 2301 et seq.
+2 (4) The Louisiana Jump Start Collaborative shall, in conducting the
+3 shared performance framework review required under R.S. 17:189.3, include
+4 in its assessment findings on stage-level implementation in the annual joint
+5 performance report required under R.S. 17:189.3.
+6 B. Stage I: Career awareness grades kindergarten through six.
+7 (1) Stage I shall encompass grades kindergarten through six and shall be
+8 designed to build foundational career awareness in students through age-
+9 appropriate, structured activities that introduce students to the concept of
+10 careers, connect academic learning to workplace applications, and provide
+11 exposure to the range of career clusters and industry sectors reflected in the
+12 Statewide Priority Industry List established pursuant to R.S. 17:189.4.
+13 (2) Stage I activities shall be incorporated into the instructional program
+14 for all students in grades kindergarten through six in public schools statewide.
+15 Each local education agency shall ensure that Stage I activities are provided to
+16 all students at each applicable grade level during each school year.
+17 (3) Stage I activities may include but are not limited to the following:
+18 (a) Career awareness lessons integrated into core academic subjects.
+19 (b) Guest presentations or virtual career exploration experiences
+20 featuring individuals working in priority industry sectors.
+21 (c) School-wide career fairs, career field days, or similar structured
+22 career activities.
+23 (d) Age-appropriate exposure to the relationship between educational
+24 choices and career pathways.
+25 (e) Introduction to career interest and aptitude inventory tools adapted
+26 for elementary grade levels.
+27 (4) The state Department of Education, in consultation with the
+28 Louisiana Community and Technical Colleges, shall make available to each
+29 local education agency resources identifying age-appropriate activities aligned
+Page 22 of 83
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-2719 ORIGINAL
+SB NO. 524
+1 with the priority industry sectors designated pursuant to R.S. 17:189.4.
+2 C. Stage II: Career exploration grades seven through eight.
+3 (1) Stage II shall encompass grades seven and eight and shall be designed
+4 to deepen student career exploration through structured activities that connect
+5 student career interests to specific industries, identified pathways, and
+6 associated educational options. Stage II shall provide each student with the
+7 foundational experience and information necessary to make an informed
+8 pathway selection decision and to develop an Individual Career and Academic
+9 Plan (ICAP) consistent with R.S. 17:189.7.
+10 (2) Stage II activities shall be incorporated into the instructional and
+11 advisory program for all students in grades seven and eight in public schools
+12 statewide. Each local education agency shall ensure that Stage II activities are
+13 provided to all students at each applicable grade level during each school year.
+14 (3) Stage II activities shall include but not be limited to the following:
+15 (a) Formal career interest and aptitude assessment activities conducted
+16 with each student not later than the end of grade seven and reviewed with each
+17 student not later than the end of grade eight.
+18 (b) Information provided to each student and the student's parent or
+19 legal guardian regarding available Jump Start pathways along with
+20 corresponding occupational outcomes and credential requirements associated
+21 with each pathway.
+22 (c) Initiation of each student's ICAP consistent with the requirements of
+23 R.S. 17:189.7.
+24 (d)(i) At least one work-based learning activity at Level 1 under the
+25 tiered work-based learning quality continuum established in R.S. 17:189.11 per
+26 school year in each of grades seven and eight that provides students with first-
+27 hand exposure to occupations within one or more priority industry sectors.
+28 (ii) Activities shall be provided with the involvement of school-based
+29 administrators, support staff, and local education agency administration.
+Page 23 of 83
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-2719 ORIGINAL
+SB NO. 524
+1 D. Stage III: Career concentration grades nine through ten.
+2 (1) Stage III shall encompass grades nine and ten and shall be designed
+3 to transition students from career exploration to focused career concentration
+4 for students who are seeking a Career Diploma.
+5 (2) During Stage III, each student who has elected to pursue a Career
+6 Diploma shall:
+7 (a) With the assistance of a school counselor or career coach, finalize the
+8 student's Individual Graduation Plan pursuant to R.S. 17:2925 designating the
+9 Jump Start pathway as the student's chosen program of study.
+10 (b)(i) Participate in at least one work-based learning activity at Level 2
+11 or above under the tiered work-based learning quality continuum established
+12 in R.S. 17:189.11.
+13 (ii) Activities shall be provided with the involvement of school-based
+14 administrators, support staff, and local education agency administration.
+15 (3) Nothing in this Subsection shall limit the ability of a student, who has
+16 not selected a Jump Start pathway in grades nine and ten, or relocated to a new
+17 school or local education agency that does not offer an already selected Jump
+18 Start pathway, to elect a Jump Start pathway in grade eleven or twelve,
+19 consistent with the student's ability to complete all pathway requirements
+20 before graduation.
+21 E. Stage IV: Career completion grades eleven through twelve.
+22 (1) Stage IV shall encompass grades eleven and twelve and shall be
+23 designed to support each Jump Start pathway student in completing the
+24 requirements for a Career Diploma, including the nine-credit Jump Start
+25 course sequence, the required work-based learning activities, and the
+26 attainment of an industry-based credential.
+27 (2) During Stage IV, each student pursuing a Career Diploma shall:
+28 (a) Complete the remaining credits of the nine credit Jump Start course
+29 sequence required for Career Diploma completion under R.S. 17:189.10.
+Page 24 of 83
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-2719 ORIGINAL
+SB NO. 524
+1 (b)(i) Participate in at least one work-based learning activity at Level 3
+2 or above under the tiered work-based learning quality continuum established
+3 in R.S. 17:189.11 for the student's designated pathway.
+4 (ii) Activities shall be provided with the involvement of school-based
+5 administrators, support staff, and local education agency administration.
+6 (c) Prepare for and attempt to attain one or more credentials where
+7 identified within an approved Jump Start pathway as established pursuant to
+8 R.S. 17:189.12.
+9 (3) Nothing in this Subsection shall limit the ability of a student, who has
+10 relocated to a new school or local education agency that does not offer an
+11 already selected Jump Start pathway, to elect a Jump Start pathway in grade
+12 eleven or twelve, consistent with the student's ability to complete all pathway
+13 requirements before graduation.
+14 §189.7. Individual career and academic plans; graduation plans
+15 A. Individual career and academic plan requirement, grade seven
+16 initiation.
+17 (1) Each student enrolled in a Louisiana public school shall have an
+18 Individual Career and Academic Plan (ICAP), as defined in R.S. 17:189.2(8) ,
+19 initiated not later than the beginning of grade seven. The ICAP shall serve as
+20 the primary longitudinal career planning instrument connecting a student's
+21 activities under Stage II of the Louisiana K-12 Jump Start Pathway Framework
+22 established in R.S. 17:189.6 to the student's selection of an approved K-12 Jump
+23 Start pathway.
+24 (2) An ICAP shall be initiated with the active involvement of the student,
+25 the student's parent or legal guardian, and a school counselor or career coach
+26 as provided in R.S. 17:189.8 and consistent with Subsection D of this Section.
+27 B. Annual review and update.
+28 (1) Each student's Individual Career and Academic Plan shall be
+29 reviewed and updated annually throughout grades seven through twelve. The
+Page 25 of 83
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-2719 ORIGINAL
+SB NO. 524
+1 annual review shall occur in connection with the scheduling of courses for the
+2 following academic year and shall be completed not later than sixty calendar
+3 days before the end of the applicable academic year.
+4 (2) The annual review shall be conducted with the involvement of the
+5 student, the student's parent or legal guardian, and a school counselor or career
+6 coach as provided in Subsection D of this Section. The annual review shall
+7 address the following:
+8 (a) Whether the student's identified career interests and pathway goals
+9 remain current or require updating.
+10 (b) Whether the student's course selections for the upcoming academic
+11 year align with the student's pathway goals and graduation requirements.
+12 (c) Students and parents shall have the opportunity to select Course
+13 Choice offerings to meet course scheduling requirements.
+14 (d) Whether the student's ICAP needs revision to reflect changes.
+15 (3) The school counselor or career coach shall document each annual
+16 review including the date on which the review occurred consistent with the
+17 documentation requirements of Subsection D of this Section and the reporting
+18 requirements of R.S. 17:189.8.
+19 C. Connection to Authorized Jump Start Pathways.
+20 (1) Each student's Individual Career and Academic Plan shall identify,
+21 beginning not later than the end of grade eight, one or more Jump Start
+22 pathways that align with the student's stated career interests and/or aptitude
+23 assessment results. The identification of pathways in the ICAP shall not
+24 constitute a student's enrollment in a pathway or a binding commitment to a
+25 specific pathway but shall serve as the basis for future pathway selection.
+26 (2) The state Department of Education shall make publicly available to
+27 each local education agency a current list of approved Jump Start pathways,
+28 including the required course sequence in a format suitable for use and
+29 discussion during ICAP development and review activities with students and
+Page 26 of 83
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-2719 ORIGINAL
+SB NO. 524
+1 their parents or legal guardians pursuant to R.S. 17:189.6.
+2 (3) In all ICAP development and review activities, school counselors or
+3 career coaches shall present to students and their parents or legal guardians
+4 with available Jump Start pathways along with corresponding occupational
+5 outcomes and credential requirements associated with each pathway.
+6 D. Counselor involvement; documentation requirement.
+7 (1) Each Individual Career and Academic Plan shall be developed,
+8 annually reviewed, and revised with the active involvement of a school
+9 counselor or career coach.
+10 (2) A school counselor or career coach shall meet individually with each
+11 student and their parents or legal guardians. Such individual meetings may
+12 occur in person or virtually and shall include discussion of the student's career
+13 interests, academic progress, Jump Start pathway options, and any
+14 recommended revisions to the student's ICAP.
+15 (3) The school counselor or career coach shall document the meeting to
+16 include the following:
+17 (a) Date of meeting.
+18 (b) School counselor's or career coach's name.
+19 (c) Name of student served.
+20 (d) Names of parents or legal guardians in attendance.
+21 (e) Any revisions made to the student's ICAP.
+22 Such documentation shall be maintained as part of each student's
+23 educational record consistent with the Family Educational Rights and Privacy
+24 Act (FERPA), 20 U.S.C. 1232g, and R.S. 44:1 et seq.
+25 E. Parent or legal guardian notification and approval.
+26 (1) A student's parent or legal guardian shall be notified of and provided
+27 an opportunity to participate in the initiation of the student's Individual Career
+28 and Academic Plan and in each required annual review throughout grades
+29 seven through twelve.
+Page 27 of 83
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-2719 ORIGINAL
+SB NO. 524
+1 (2) Prior to formally revising a student's ICAP, the assigned school
+2 counselor or career coach shall communicate with the student's parents or legal
+3 guardians, in person or virtually, the rationale for any proposed revisions and
+4 any potential impact on the student's graduation requirements and
+5 postsecondary education goals. Any revision that changes the student's
+6 identified pathway or postsecondary goals shall be approved by signature or in
+7 writing by the student's parents or legal guardians.
+8 (3) Nothing in this Subsection shall be construed to require parental
+9 approval for an annual review that makes no substantive change to the
+10 student's identified pathway or postsecondary goals, provided the parent or
+11 legal guardian received notice of the review and an opportunity to participate.
+12 (4) Each local education agency shall establish a formal communications
+13 procedure for parental or guardian notification and for ICAP approval under
+14 this Subsection.
+15 F. Coordination with individual graduation plans.
+16 (1) The state Department of Education shall assess the overlap of the
+17 state requirement of the Individual Graduation Plan under R.S. 17:2925 for
+18 students pursuing a Career Diploma and already engaged in an Individual
+19 Career and Academic Plan. The assessment and recommendations shall be
+20 submitted to the State Board of Elementary and Secondary Education and to
+21 the chair of the House Committee on Education and the chair of the Senate
+22 Committee on Education for consideration to administrative rules and statute
+23 changes.
+24 G. Student change of Jump Start Pathway; flexibility; parental approval.
+25 (1) A student's Individual Career and Academic Plan shall be flexible
+26 enough to permit a student to change their identified Jump Start pathway or
+27 career goal during grades seven through twelve, consistent with Subsection E
+28 of this Section.
+29 (2) A school counselor or career coach shall not deny a student the
+Page 28 of 83
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-2719 ORIGINAL
+SB NO. 524
+1 opportunity to change their Jump Start pathway designation in the student's
+2 ICAP solely on the basis that the student has already enrolled in or begun a
+3 course sequence associated with a different Jump Start pathway, but shall
+4 advise the student and the student's parents or legal guardians of any course
+5 and credit implications and graduation requirement implications of the
+6 proposed change prior to formally approving the revision.
+7 (3) A student who changes their Jump Start pathway designation after
+8 beginning the nine credit Jump Start course sequence shall not be penalized in
+9 the student's ICAP for credits already earned in the prior pathway, except as
+10 necessary to ensure that the student meets the graduation requirements.
+11 §189.8. Career counseling and career coaching standards
+12 A. Minimum counselor-to-student ratio for Jump Start Pathway and
+13 ICAP advising.
+14 (1) Each local education agency shall ensure that school counselors
+15 providing Jump Start pathway advising under this Subpart maintain an
+16 advising caseload that allows them to fulfill the Individual Career and
+17 Academic Plan requirements of R.S. 17:189.7 for every enrolled student in
+18 grades seven through twelve.
+19 (2) The State Board of Elementary and Secondary Education shall, not
+20 later than one year after the effective date of this Subpart, adopt administrative
+21 rules establishing:
+22 (a) A maximum caseload ratio for school counselors providing ICAP
+23 advising to students in grades seven through twelve.
+24 (b) A method by which combined caseloads of school counselors and
+25 career coaches at a school may be aggregated to determine compliance with the
+26 maximum ratio.
+27 (c) A reporting requirement by which each local education agency
+28 annually certifies to the state Department of Education, the school counselor
+29 and career coach staffing levels at each school and whether the advising
+Page 29 of 83
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-2719 ORIGINAL
+SB NO. 524
+1 caseload ratio for each school complies with the maximum ratio established
+2 under this Subsection.
+3 (3) Nothing in this Subsection shall be construed to require any local
+4 education agency to employ a school counselor if the local education agency
+5 meets advising requirements.
+6 B. ICAP and Jump Start pathway-specific counselor training
+7 requirements.
+8 (1) Each school counselor assigned Jump Start pathway advising
+9 responsibilities, including Individual Career and Academic Plan development
+10 and review under R.S.17:189.7, shall complete career and technical education-
+11 specific training as described in this Subsection within eighteen months of the
+12 effective date of this Subpart, or within eighteen months of initial assignment
+13 to ICAP or Jump Start pathway advising responsibilities, whichever is later.
+14 (2) Counselor training shall include, at a minimum, the following:
+15 (a) An overview of the Louisiana Jump Start Career Diploma Program,
+16 including the four-stage developmental framework established in R.S. 17:189.6,
+17 the pathway authorization and approval process under R.S. 17:189.9 and R.S.
+18 17:189.13, the work-based learning quality standards under R.S. 17:189.11 and
+19 the tiered credential system under R.S. 17:189.12.
+20 (b) Applied training in labor market data interpretation, including how
+21 to use Louisiana Workforce Commission occupational forecasting data and the
+22 priority occupation framework established in R.S. 17:189.4, to support student
+23 pathway selection decisionmaking.
+24 (c) Applied training in ICAP development, review, and documentation
+25 under R.S. 17:189.7.
+26 (d) Training on the postsecondary articulation agreements established
+27 pursuant to R.S. 17:189.15 and on how to communicate postsecondary credit
+28 transfer opportunities to students and their parents or legal guardians.
+29 (e) An overview of the Course Choice Program.
+Page 30 of 83
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-2719 ORIGINAL
+SB NO. 524
+1 (3) The Louisiana Community and Technical Colleges, in consultation
+2 with the state Department of Education, shall publish a list of qualified training
+3 curriculum vendors for local education agencies and school counselors. The
+4 training curriculum shall be:
+5 (a) Procured by the local education agency and provided at no cost to
+6 school counselors employed by that local education agency.
+7 (b) Available in online, hybrid, and in-person formats to accommodate
+8 the professional development needs of school counselors.
+9 (4) Each local education agency shall provide assurance annually to the
+10 state Department of Education on the number of school counselors who
+11 completed the training required by this Subsection.
+12 C. Career Coach Authorization; ICAP and Jump Start Pathway-Specific
+13 Training Requirements.
+14 (1) Each local education agency may provide for Individual Career and
+15 Academic Plan services required under R.S. 17:189.7 through the use of school
+16 counselors, career coaches, or a combination of school counselors and career
+17 coaches, subject to the limitations and requirements of this Section.
+18 (2) A career coach authorized pursuant to this Subsection may perform
+19 the following functions under this Subpart:
+20 (a) Develop, review, and revise ICAPs with students and their parents or
+21 legal guardians pursuant to R.S. 17:189.7.
+22 (b) Provide career exploration, career awareness, and Jump Start
+23 pathway advising services to students in grades seven through twelve.
+24 (d) Participate in the Stage II and Stage III activities established in R.S.
+25 17:189.6.
+26 (3) An authorized career coach shall not:
+27 (a) Perform any duty that is by law reserved exclusively to a licensed
+28 school counselor, except as expressly authorized by this Subpart.
+29 (b) Provide mental health counseling, crisis counseling, or any other
+Page 31 of 83
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-2719 ORIGINAL
+SB NO. 524
+1 clinical counseling service.
+2 (c) Satisfy any statutory or administrative requirement that specifically
+3 mandates a licensed school counselor, without explicit authorization or another
+4 applicable law to satisfy the requirement.
+5 (4) To be authorized as a career coach under this Subpart, a person shall
+6 meet the qualification standards established in Paragraph (5) of this Subsection.
+7 A local education agency shall not authorize any person as a career coach for
+8 purposes of this Subpart unless the person has been determined to meet the
+9 qualification standards established under Paragraph (5) of this Subsection or
+10 has received explicit permission from the state Department of Education or its
+11 designee.
+12 (5) Career coach training shall include, at a minimum, the following:
+13 (a) An overview of the Louisiana Jump Start Career Diploma Program,
+14 including the four-stage developmental framework established in R.S. 17:189.6,
+15 the pathway authorization and approval process under R.S. 17:189.9 and R.S.
+16 17:189.13, the work-based learning quality standards under R.S. 17:189.11, and
+17 the tiered credential system under R.S. 17:189.12.
+18 (b) Applied training in labor market data interpretation, including how
+19 to use Louisiana Workforce Commission occupational forecasting data and the
+20 priority occupation framework established in R.S. 17:189.4, to support student
+21 pathway selection decisionmaking.
+22 (c) Applied training in ICAP development, review, and documentation
+23 under R.S. 17:189.7, including training on the coordination of ICAPs with
+24 Individual Graduation Plans under R.S. 17:2925.
+25 (d) Training on the postsecondary articulation agreements established
+26 pursuant to R.S. 17:189.15 and on how to communicate postsecondary credit
+27 transfer opportunities to students and their parents or legal guardians.
+28 (e) An overview of the Course Choice Program.
+29 (f) Such other qualifications as deemed necessary to ensure that career
+Page 32 of 83
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-2719 ORIGINAL
+SB NO. 524
+1 coaches can provide high-quality, accurate career and pathway advising.
+2 (6) The state Department of Education shall publish a list of qualified
+3 training curriculum vendors for local education agencies and career coaches.
+4 The training curriculum shall be:
+5 (a) Procured by the local education agency and provided at no cost to
+6 school counselors employed by that local education agency.
+7 (b) Available in online, hybrid, and in-person formats to accommodate
+8 the professional development needs of career coaches.
+9 D. Regional consortia for school counselor and career coach training.
+10 (1) Two or more local education agencies may form a regional
+11 consortium for the purpose of jointly contracting training curriculum vendors,
+12 sharing career coach personnel, or coordinating the delivery of services across
+13 multiple local education agencies in a region. A regional consortium formed
+14 pursuant to this Subsection may operate through an intergovernmental
+15 agreement consistent with R.S. 33:1324 or such other legal mechanism as
+16 permitted.
+17 (2) A regional consortium formed pursuant to this Subsection shall
+18 ensure that each participating local education agency satisfies the ICAP
+19 development and review requirements of R.S. 17:189.7 for all enrolled students
+20 in grades seven through twelve.
+21 (3) A regional consortium formed pursuant to this Subsection may take
+22 advantage of group purchasing, regional contracting, and other economies of
+23 scale to reduce the cost of services consistent with applicable state procurement
+24 law.
+25 E. Reporting requirements; counseling activity documentation.
+26 (1) Each local education agency shall provide annually to the state
+27 Department of Education documentation on the following information for the
+28 prior academic year:
+29 (a) The number of school counselors and career coaches employed or
+Page 33 of 83
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-2719 ORIGINAL
+SB NO. 524
+1 contracted by the LEA who provided Jump Start pathway and ICAP advising
+2 services, disaggregated by school.
+3 (b) The number of students in grades seven through twelve who received
+4 an ICAP initiation, review, or update meeting with a school counselor or career
+5 coach for the prior academic year, disaggregated by school and grade level.
+6 (c) Any schools that were not able to meet the ICAP maintenance
+7 obligation pursuant to R.S. 17:189.7, including the number of students without
+8 a current ICAP.
+9 (2) The state Department of Education shall make available on its
+10 publicly accessible website, not later than December first of each year, a
+11 summary of Jump Start pathway and ICAP advising services reports submitted
+12 by all local education agencies for the prior academic year.
+13 §189.9. Jump Start pathway structure; designation; components; regional
+14 teams
+15 A. Pathway framework established.
+16 (1) There is hereby established within the Louisiana Jump Start Career
+17 Diploma Program "Louisiana K-12 Jump Start Pathway Authorization
+18 Framework", through which Jump Start pathways shall be proposed, reviewed,
+19 authorized, and reauthorized. All K-12 Jump Start pathways shall operate
+20 within the framework.
+21 (2) All K-12 Jump Start pathways authorized under this Subpart shall
+22 be designated as either statewide pathways or regional pathways, and shall
+23 satisfy the minimum pathway components established in Subsection E of this
+24 Section and the authorization criteria established in R.S. 17:189.13.
+25 (3) No local education agency shall offer or deliver a Jump Start pathway
+26 for purposes of awarding a Career Diploma unless that pathway has been
+27 authorized.
+28 (4) The Louisiana K-12 Jump Start Pathway Authorization Framework
+29 shall be administered by the collaborative consistent with the jurisdictional
+Page 34 of 83
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-2719 ORIGINAL
+SB NO. 524
+1 boundaries established in R.S. 17:189.3.
+2 B. Statewide pathways; requirements.
+3 (1) A statewide pathway shall be available for delivery by any local
+4 education agency in Louisiana that satisfies the conditions of Jump Start
+5 pathway authorization established in R.S. 17:189.13.
+6 (2) To be eligible for designation as a statewide Jump Start pathway, a
+7 proposed pathway shall:
+8 (a) Be aligned to one or more occupations within an industry sector
+9 included on the Statewide Priority Industry List established pursuant to R.S.
+10 17:189.4.
+11 (b) Be anchored to one or more credentials approved by the Louisiana
+12 Workforce Investment Council pursuant to R.S. 23:2065 or R.S. 17:189.12.
+13 (c) Include a structured nine-credit Jump Start course sequence meeting
+14 the requirements of R.S. 17:189.10.
+15 (d) Incorporate a work-based learning component meeting the minimum
+16 tier and quality standards established in R.S. 17:189.11.
+17 (e) Demonstrate alignment with documented statewide employer demand
+18 for the occupations served by the Jump Start pathway, using the data sources
+19 specified in R.S. 17:189.4.
+20 (f) Satisfy all required Jump Start pathway components established in
+21 Subsection E of this Section.
+22 (3) The state Department of Education shall maintain and publish a
+23 current list of all authorized statewide Jump Start pathways, including the
+24 industry sector, credentials, and occupational outcomes associated with each
+25 pathway, updated within thirty calendar days of any pathway authorization,
+26 modification, reauthorization, or deauthorization.
+27 C. Regional pathways; requirements.
+28 (1) A regional pathway, as defined in R.S. 17:189.2(18), shall be
+29 developed by a regional team as described in Subsection F of this Section and
+Page 35 of 83
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-2719 ORIGINAL
+SB NO. 524
+1 shall be available for delivery only within a local or regional workforce
+2 development designated area.
+3 (2) To be eligible for designation as a regional Jump Start pathway, a
+4 proposed pathway shall:
+5 (a) Be aligned to one or more occupations within an industry sector
+6 included on the applicable Regional Priority Industry List established pursuant
+7 to R.S. 17:189.4.
+8 (b) Be anchored to one or more industry-based credentials approved by
+9 the Louisiana Workforce Investment Council pursuant to R.S. 23:2065 or R.S.
+10 17:189.12.
+11 (c) Include a structured nine-credit Jump Start course sequence meeting
+12 the requirements of R.S. 17:189.10.
+13 (d) Incorporate a work-based learning component meeting the minimum
+14 tier and quality standards established in R.S. 17:189.11.
+15 (e) Demonstrate alignment with documented regional employer demand
+16 for the occupations served by the Jump Start pathway.
+17 (f) Satisfy all required Jump Start pathway components established in
+18 Subsection E of this Section.
+19 (3) A regional Jump Start pathway shall adhere to the same academic
+20 credit requirements as statewide pathways, consistent with R.S. 17:189.10.
+21 (4) The collaborative shall not recommend authorization of a regional
+22 pathway for an occupation within an industry sector that is not included on the
+23 applicable Regional Priority Industry List for the local or regional workforce
+24 development region in which the pathway would be delivered, consistent with
+25 R.S. 17:189.4.
+26 (5) The state Department of Education shall maintain and publish a
+27 current list of all authorized regional Jump Start pathways, including the
+28 industry sector, credentials, and occupational outcomes associated with each
+29 pathway, updated within thirty calendar days of any pathway authorization,
+Page 36 of 83
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-2719 ORIGINAL
+SB NO. 524
+1 modification, reauthorization, or deauthorization.
+2 D. Pathway tiers; designation criteria.
+3 (1) The collaborative shall establish and maintain a tiered designation
+4 system for authorized Jump Start pathways, assigning each pathway to tiers
+5 based on industry alignment, credential value, and postsecondary and
+6 occupational outcomes.
+7 (2) The collaborative shall assign each authorized pathway a tier
+8 designation at the time of initial authorization and shall reassess tier designation
+9 at each reauthorization under R.S. 17:189.13 and at any time when changes in
+10 credential tier status under R.S. 17:189.12 occur that affect the pathway's tier
+11 eligibility.
+12 E. Required pathway components minimum elements.
+13 (1) Each K-12 Jump Start pathway authorized under this Subpart,
+14 whether statewide or regional, shall at a minimum include all of the following
+15 components:
+16 (a) A structured, sequential career and technical education course of
+17 study organized around a defined career field within a recognized career
+18 cluster, consisting of not fewer than nine credits as required by R.S. 17:189.10.
+19 (b) A work-based learning component meeting the minimum tier and
+20 quality standards established in R.S. 17:189.11.
+21 (c) One or more credentials pursuant to R.S. 17:189.12 that are aligned
+22 to the occupational outcomes of the pathway.
+23 (d) A documented connection to one or more priority occupations, as
+24 defined in R.S. 17:189.2(17) , in an industry sector on the Statewide Priority
+25 Industry List or a Regional Priority Industry List, consistent with the
+26 requirements of R.S. 17:189.4.
+27 (e) An articulation agreement with at least one Louisiana public
+28 postsecondary institution, with priority given to Louisiana community and
+29 technical colleges, specifying the credit transfer terms applicable to students
+Page 37 of 83
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-2719 ORIGINAL
+SB NO. 524
+1 who complete the pathway, consistent with the requirements of R.S. 17:189.15.
+2 (f) A career counseling and career coaching plan satisfying the
+3 requirements of R.S. 17:189.8, as incorporated into the local education agency's
+4 pupil progression plan pursuant to R.S. 17:189.8(G).
+5 (2) No Jump Start pathway shall be authorized or reauthorized unless
+6 all components in Paragraph (1) of this Subsection are documented in the
+7 pathway authorization proposal under R.S. 17:189.13 and are maintained
+8 throughout the pathway's authorization period.
+9 (3) The State Board of Elementary and Secondary Education shall, by
+10 rule adopted pursuant to the Administrative Procedure Act, R.S. 49:950 et seq.,
+11 establish additional minimum standards for each required pathway component
+12 where necessary to ensure consistent Jump Start pathway quality across the
+13 state. Any such additional pathway standards shall not be less rigorous than the
+14 standards established by this Section and by R.S. 17:189.10 through R.S.
+15 17:189.15.
+16 F. Regional team structure; composition; responsibilities.
+17 (1) The collaborative, in consultation with Louisiana Works, Louisiana
+18 Economic Development, and the Board of Regents, shall establish regional
+19 areas. Each region of Louisiana shall have a regional team responsible for
+20 regional Jump Start pathway development and oversight as provided in this
+21 Subsection.
+22 (2) Each regional team shall be led or facilitated by an institution that
+23 falls under Louisiana Community and Technical Colleges and shall be
+24 composed of, at minimum, all of the following members:
+25 (a) Representatives of not fewer than two local education agencies
+26 operating within the workforce development region.
+27 (b) A representative from not fewer than one Louisiana public
+28 postsecondary institution operating within or adjacent to the workforce
+29 development region.
+Page 38 of 83
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-2719 ORIGINAL
+SB NO. 524
+1 (c) Not fewer than three representatives from business and industry
+2 operating within the workforce development region, of which at least two shall
+3 be representatives of businesses in priority industry sectors designated pursuant
+4 to R.S. 17:189.4 for the region.
+5 (3) Each regional team shall:
+6 (a) Develop and submit to the collaborative a proposed Regional Priority
+7 Industry List and update that list as required by R.S. 17:189.4.
+8 (b) Identify regional workforce development needs and propose regional
+9 Jump Start pathways for authorization under R.S. 17:189.13 that are aligned
+10 to the region's documented labor market demand.
+11 (c) Coordinate with local education agencies within the region to support
+12 the development, delivery, and continuous improvement of authorized regional
+13 Jump Start pathways.
+14 (d) Recruit and establish employer partnerships for work-based learning
+15 placements consistent with R.S. 17:189.11.
+16 (e) Participate in mid-cycle Jump Start pathway reviews as required.
+17 (f) Prepare and submit to the collaborative an annual regional report
+18 documenting regional Jump Start pathway data, consistent with data elements
+19 required by R.S. 17:189.18.
+20 (4) The Louisiana Community and Technical Colleges shall establish
+21 regional team operational procedures for:
+22 (a) The selection and rotation of regional team members.
+23 (b) Regional team decisionmaking, proposal submissions, and reporting
+24 obligations.
+25 G. Partnering authority; cross-district enrollment; program sharing.
+26 (1) A local education agency that does not have sufficient capacity to
+27 independently deliver an authorized Jump Start pathway may fulfill its
+28 obligations through one or more of the following arrangements:
+29 (a) A formal partnership with one or more other local education agencies
+Page 39 of 83
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-2719 ORIGINAL
+SB NO. 524
+1 within a workforce development region to jointly deliver a Jump Start pathway,
+2 as authorized by applicable Louisiana law governing cooperative endeavors and
+3 intergovernmental agreements.
+4 (b) A partnership with a Louisiana community and technical college,
+5 consistent with R.S. 17:189.17.
+6 (2) Any partnering arrangement under this Subsection shall be
+7 memorialized in a written Memorandum of Understanding (MOU) and
+8 submitted to the collaborative as part of any pathway authorization or
+9 reauthorization proposal under R.S. 17:189.13.
+10 (3) No student shall be assessed a fee for participation in a Jump Start
+11 pathway offered through a partnering arrangement under this Subsection. All
+12 pathway-related costs incurred in connection with a partnering arrangement
+13 shall be funded through available local, state, and federal career and technical
+14 education funds, or other lawfully available appropriations.
+15 (4) A local education agency that participates in a partnering
+16 arrangement under this Subsection remains responsible for ensuring that the
+17 enrolled students receive ICAP services required under R.S. 17:189.7 and R.S.
+18 17:189.8, regardless of the site at which instruction is delivered.
+19 §189.10. Career Major Program; general requirements
+20 A. Career Major Program.
+21 (1) Each authorized K-12 Jump Start pathway under this Subpart shall
+22 include a Career Major Program that constitutes the core academic and
+23 technical coursework sequence through which a student pursues a Career
+24 Diploma and the nine-credit Jump Start career and technical education course
+25 sequence established in Subsection C of this Section.
+26 (2) A Career Major Program shall be developed in alignment with the
+27 career cluster and occupational focus of an authorized Jump Start pathway and
+28 shall reflect the credential standards required for pathway completion.
+29 (3) The collaborative, or its designee, shall maintain Career Major
+Page 40 of 83
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-2719 ORIGINAL
+SB NO. 524
+1 Program frameworks for each authorized statewide Jump Start pathway. For
+2 regional Jump Start pathways, a regional team shall submit a Career Major
+3 Program proposal as part of its pathway authorization submission under R.S.
+4 17:189.13.
+5 (4) Each Career Major Program framework shall identify:
+6 (a) Required academic core courses and credit hours.
+7 (b) Required career and technical education course sequence and credit
+8 hours.
+9 (c) Assessment requirements under Subsection D of this Section.
+10 (d) Required credential or credentials.
+11 (e) Work-based learning requirements applicable to the pathway.
+12 (f) Any dual enrollment or early postsecondary access opportunities
+13 available within the pathway under Subsection G of this Section.
+14 B. Academic core credit requirements.
+15 (1) Students pursuing a Career Diploma through an authorized Jump
+16 Start pathway shall satisfy the academic core credit requirements established
+17 by the State Board of Elementary and Secondary Education pursuant to R.S.
+18 17:7 and this Subpart. Academic core credit requirements for Career Diploma
+19 students shall be equivalent in rigor and content coverage to those required for
+20 a standard diploma.
+21 (2) Nothing in this Subsection shall preclude the State Board of
+22 Elementary and Secondary Education from establishing equivalent but
+23 differentiated elective course options for students pursuing a Career Diploma
+24 that replace nonrequired elective courses in the standard diploma track,
+25 provided that the differentiated options are aligned to the student's ICAP and
+26 Career Major Program.
+27 (3) Academic core credits earned through approved dual enrollment
+28 courses pursuant to Subsection G of this Section shall count toward the
+29 academic core credit requirements of this Subsection, consistent with R.S.
+Page 41 of 83
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-2719 ORIGINAL
+SB NO. 524
+1 17:2930 and the provisions of R.S. 17:189.15.
+2 C. Career and technical education course sequence; Jump Start credits.
+3 (1) To earn a Career Diploma, a student shall complete a structured
+4 career and technical education course sequence within an authorized Jump
+5 Start pathway, consisting of not fewer than nine credits, hereinafter "the
+6 nine-credit Jump Start course sequence". The nine-credit Jump Start course
+7 sequence shall be composed of courses that are:
+8 (a) Organized sequentially to build progressively on technical knowledge
+9 and skills from introductory through advanced levels of pathway-specific
+10 competencies.
+11 (b) Aligned to the standards required for a credential or credentials
+12 associated with a pathway.
+13 (c) Delivered by instructors who meet the qualification standards
+14 established under R.S. 17:189.17.
+15 (d) Approved by the collaborative as part of the Career Major Program
+16 framework for the pathway pursuant to Subsection A of this Section.
+17 (2) Of the nine required Jump Start credits, not fewer than two credits
+18 shall be earned through courses that include a work-based learning component
+19 at or above Level 3 of the tiered quality continuum established in R.S.
+20 17:189.11.
+21 (3) Any credit earned through examination or dual enrollment course
+22 aligned to the Jump Start pathway may count toward the nine-credit Jump
+23 Start course sequence as part of the Career Major Program framework and
+24 consistent with the early postsecondary access provisions of Subsection G of this
+25 Section and R.S. 17:2930.
+26 D. Assessment requirements.
+27 (1) Students pursuing a Career Diploma shall, during the course of the
+28 nine-credit Jump Start course sequence, complete all assessments required as
+29 a condition of the credential or credentials associated with a Jump Start
+Page 42 of 83
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-2719 ORIGINAL
+SB NO. 524
+1 pathway.
+2 (2) Credential assessment results shall be reported as part of the
+3 collaborative's annual report, disaggregated by pathway, local education
+4 agency, and other categories specified in R.S. 17:189.18.
+5 (3) Nothing in this Subsection shall limit the authority of the State Board
+6 of Elementary and Secondary Education to require state-administered
+7 assessments for students pursuing a Career Diploma.
+8 E. Career major program access criteria.
+9 (1) Each local education agency operating an authorized Jump Start
+10 pathway shall ensure that the Career Major Program courses associated with
+11 the pathway are accessible to all students who have selected the pathway as part
+12 of their ICAP process.
+13 (2) No admission criteria for a Career Major Program shall be developed
+14 unless the collaborative determines, upon documented evidence, that such
+15 criteria are necessary for a specific pathway due to technical prerequisite
+16 knowledge or by applicable occupational licensing requirements. Any such
+17 performance-based access criteria shall be included in the Jump Start pathway
+18 authorization proposal submitted under R.S. 17:189.13.
+19 (3) Enrollment management procedures may be developed by a local
+20 education agency for a Career Major Program where the number of students
+21 seeking enrollment exceeds program capacity. Procedures shall ensure that
+22 students and their parents or legal guardians receive ICAP counseling and
+23 alternative Jump Start pathway options if they are unable to enroll in their
+24 first-choice Jump Start pathway consistent with R.S. 17:189.8.
+25 (4) Students with disabilities shall have access to Career Major Programs
+26 consistent with their Individualized Education Programs (IEP) and applicable
+27 federal and state special education laws.
+28 F. Local education agency curriculum submission and approval.
+29 (1) A local education agency shall not offer a Career Major Program
+Page 43 of 83
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-2719 ORIGINAL
+SB NO. 524
+1 curriculum that has not been approved by the collaborative. Any material
+2 modification to an approved Career Major Program curriculum shall require
+3 resubmission. A modification is material if it changes:
+4 (a) One or more courses in the nine-credit Jump Start course sequence.
+5 (b) The required credential or credential tier.
+6 (c) The work-based learning component.
+7 (2) Each local education agency shall communicate annually to the
+8 parents or legal guardians of a student enrolled in, or considering enrollment
+9 in, an authorized Jump Start pathway. This communication shall be
+10 incorporated into the notification obligations of R.S. 17:189.7 and shall occur
+11 not later than thirty calendar days before a course selection period for the
+12 upcoming academic year.
+13 G. Dual enrollment; early postsecondary access.
+14 (1) Students enrolled in an authorized Jump Start pathway are
+15 encouraged to pursue early postsecondary credit opportunities through courses
+16 that include accelerated credit such as Advanced Placement (AP) and
+17 International Baccalaureate (IB), credit by examination such as College-Level
+18 Examination Program (CLEP), and Fast Forward dual enrollment
+19 opportunities in postsecondary courses aligned to their pathway, consistent with
+20 R.S. 17:2930 and the postsecondary articulation agreements required under
+21 R.S. 17:189.15.
+22 (2) Each Career Major Program framework developed pursuant to
+23 Subsection A of this Section shall identify, where available, approved early
+24 postsecondary credit opportunities that:
+25 (a) Are aligned to the standards of the Jump Start pathway.
+26 (b) Count toward the nine-credit Jump Start course sequence.
+27 (c) For dual enrollment courses, are offered through a Louisiana public
+28 postsecondary institution that has executed an articulation agreement with the
+29 local education agency or regional team pursuant to R.S. 17:189.15.
+Page 44 of 83
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-2719 ORIGINAL
+SB NO. 524
+1 (3) No student enrolled in a local education agency shall be charged
+2 tuition or fees for dual enrollment course approved as part of a Career Major
+3 Program framework, to the extent permitted by applicable state law governing
+4 funds for career development and dual enrollment programs.
+5 H. Students with exceptionalities; alternative graduation pathway.
+6 Nothing in this Section shall be construed to preclude a student with an
+7 exceptionality, as defined in R.S. 17:1942, from accessing, enrolling in, or
+8 receiving a Career Diploma through an authorized K-12 Jump Start pathway.
+9 Each local education agency shall ensure that the Career Major Program
+10 requirements of this Section are implemented in a manner consistent with each
+11 eligible student's Individualized Education Program (IEP), applicable
+12 provisions of the Individuals with Disabilities Education Act, 20 U.S.C. 1401 et
+13 seq., and Section 504 of the Rehabilitation Act of 1973, 29 U.S.C. 794.
+14 §189.11. Work-based learning; quality standards and tiered requirements
+15 A. Work-based learning quality continuum; four-level tiered framework.
+16 (1) There is hereby established the "Louisiana Jump Start Work-Based
+17 Learning Quality Continuum". The continuum shall consist of four levels
+18 organized from least to most intensive as set forth in Paragraphs (2) through (5)
+19 of this Subsection. All work-based learning activities for Jump Start pathway
+20 purposes shall be classified at one of the four continuum levels.
+21 (2) Level 1: Career awareness activities. Level 1 of the continuum
+22 includes structured career awareness experiences that introduce students to
+23 occupational roles and workplace environments without a direct employer-
+24 supervised placement component.
+25 (a) Level 1 activities include, but are not limited to:
+26 (i) Employer-in-classroom presentations.
+27 (ii) Virtual career tours.
+28 (iii) Career fairs with organized student interaction with industry
+29 representatives.
+Page 45 of 83
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-2719 ORIGINAL
+SB NO. 524
+1 (iv) Informational classroom-based activities connecting academic
+2 content to career contexts within a priority industry sector.
+3 (b) Level 1 activities qualify under Stage I and Stage II of the four-stage
+4 framework established in R.S. 17:189.6 ; but, Level 1 activities do not satisfy the
+5 minimum work-based learning requirement for Jump Start credit under
+6 Subsection B of this Section.
+7 (3) Level 2: Career exploration activities. Level 2 of the continuum
+8 includes structured employer engagement activities that provide students with
+9 direct, supervised observation of workplace operations and occupational roles.
+10 (a) Level 2 activities include but are not limited to:
+11 (i) Job shadowing experiences.
+12 (ii) Employer site visits organized for career exploration purposes.
+13 (iii) Structured career mentoring sessions in which a student works
+14 individually with an industry professional to explore career options and
+15 workplace expectations.
+16 (b) Level 2 activities must not be less than four hours in duration, must
+17 include a structured reflection component, and must be documented by the
+18 supervising school counselor, career coach, or CTE instructor consistent with
+19 Subsection D of this Section.
+20 (4) Level 3: Project-based, school-based enterprises, and cooperative
+21 education experiences. Level 3 of the continuum includes structured learning
+22 experiences in which students apply pathway-specific technical knowledge and
+23 skills in an employer-led context.
+24 (a) Level 3 activities include but are not limited to:
+25 (i) Project-based learning experiences conducted in partnership with an
+26 employer.
+27 (ii) Supervised cooperative education placements with an employer not
+28 in a priority industry sector.
+29 (iii) School-based enterprise programs with documented employer
+Page 46 of 83
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-2719 ORIGINAL
+SB NO. 524
+1 advisory involvement.
+2 (b) Level 3 activities must include a documented employer partnership
+3 consistent with Subsection C of this Section and a student performance
+4 evaluation by the employer or employer representative, and must be supervised
+5 by a qualified CTE instructor or other authorized professional.
+6 (c) Completion of a Level 3 activity must not be fewer than the required
+7 hours set by the state Department of Education for the activity.
+8 (d) To the extent permitted under applicable local, state, and federal laws
+9 and available funds, students shall be compensated during the duration of their
+10 Level 3 activities.
+11 (5) Level 4: Youth apprenticeship and internship programs. Level 4 of
+12 the continuum includes extended structured employer-supervised work
+13 experiences that provide students with direct on-the-job training based on
+14 pathway-specific technical knowledge and skills.
+15 (a) Level 4 activities align to rules and requirements set forth by
+16 Louisiana Works for Youth Apprenticeships and the State Board of Elementary
+17 and Secondary Education for Internships.
+18 B. Employer partnership requirements.
+19 (1) Each local education agency operating an authorized Jump Start
+20 pathway shall maintain documented employer partnerships sufficient to provide
+21 Level 3 or above work-based learning placements for all students enrolled in the
+22 pathway at Stage III or Stage IV of the four-stage framework established in R.S.
+23 17:189.6.
+24 (2) A documented employer partnership for purposes of this Section
+25 shall consist of a written agreement between the local education agency and the
+26 employer that specifies:
+27 (a) The nature of the work-based learning activities to be provided,
+28 including the WBL tier level under Subsection A of this Section.
+29 (b) The number of students the employer will accept for WBL
+Page 47 of 83
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-2719 ORIGINAL
+SB NO. 524
+1 placements during the applicable school year.
+2 (c) The employer's responsibilities for student supervision, performance
+3 evaluation, and documentation.
+4 (d) The local education agency's responsibilities for student supervision,
+5 performance evaluation, and documentation.
+6 (e) The agreed compensation arrangement, if applicable, including
+7 compliance with local, state, and federal laws governing student work
+8 arrangements.
+9 (f) The process for the local education agency to conduct site visits
+10 consistent with Subsection D of this Section.
+11 (3) An employer participating in a WBL partnership under this Section
+12 shall designate a qualified workplace supervisor for each student placed with
+13 the employer. The workplace supervisor shall be responsible for:
+14 (a) Providing day-to-day supervision and technical guidance to the
+15 student.
+16 (b) Completing the student performance evaluation required under
+17 Subsection D of this Section.
+18 (c) Communicating with the local education agency regarding student
+19 progress and placement conditions.
+20 (4) Regional teams shall facilitate employer partnership development for
+21 regional pathways within their workforce development region, consistent with
+22 R.S. 17:189.9, and shall maintain a current directory of employers within the
+23 region who have executed or expressed interest in executing WBL partnership
+24 agreements.
+25 C. Documentation, quality assurance, and site oversight.
+26 (1) Each local education agency shall maintain documentation of all
+27 work-based learning activities conducted for purposes of satisfying Jump Start
+28 pathway requirements. Such documentation shall be maintained as part of the
+29 student's educational record consistent with FERPA, 20 U.S.C. 1232g, and R.S.
+Page 48 of 83
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-2719 ORIGINAL
+SB NO. 524
+1 44:1 et seq., and shall include:
+2 (a) The WBL tier level of the activity.
+3 (b) The employer partner's name and contact information.
+4 (c) The start and end dates of the WBL activity.
+5 (d) The total hours completed by the student for the WBL activity.
+6 (e) The employer's written performance evaluation of the student for
+7 Level 3 and Level 4 WBL activities.
+8 (f) The supervising CTE instructor's or other authorized professional's
+9 assessment of the student's work-based learning engagement and experience.
+10 (2) Each local education agency shall conduct at least one oversight site
+11 visit per academic year to each employer partner providing Level 3 and Level
+12 4 WBL placements. The site visit shall be conducted by a qualified CTE
+13 instructor or other authorized professional, and shall:
+14 (a) Confirm that the employer is fulfilling the obligations specified in the
+15 employer partnership agreement under Subsection B of this Section.
+16 (b) Confirm that student placement conditions comply with applicable
+17 state and federal health, safety, and labor laws.
+18 (c) Document any concerns or deficiencies observed and the corrective
+19 action taken or planned.
+20 (d) Obtain the employer's completed performance evaluation of each
+21 student placed with the employer.
+22 (3) Data reporting obligations for work-based learning activities
+23 including student participation and completion rates by WBL tier level;
+24 employer partnership counts; and oversight site visit records, shall be governed
+25 by R.S. 17:189.18.
+26 §189.12. Credentials; tiered classification system; accountability interation
+27 A. Credential authority and integration.
+28 (1) The review, approval, and tier classification of credentials shall be
+29 governed by the Louisiana Workforce Investment Council in coordination with
+Page 49 of 83
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-2719 ORIGINAL
+SB NO. 524
+1 the Board of Regents, and the Louisiana Community and Technical Colleges,
+2 agencies representing industry-based credentials, postsecondary credentials,
+3 and professional licenses.
+4 (2) The Louisiana Workforce Investment Council shall maintain and
+5 publish a current online registry of all credentials designated for use in
+6 authorized Jump Start pathways under this Subpart, organized by credential
+7 name, issuing body, and tier classification under Subsection B of this Section.
+8 The online registry shall be updated within thirty calendar days of any addition,
+9 modification, or removal of a credential.
+10 B. Tiered credential classification system.
+11 The system shall classify all approved or designated credentials in tiers
+12 reflecting the degree to which the credential is associated with priority
+13 occupations under R.S. 17:189.2(17) and occupational outcomes in Louisiana's
+14 workforce.
+15 C. Credential review.
+16 (1) The collaborative, or its designee, shall conduct a review of each
+17 credential included on the registry maintained under Subsection A of this
+18 Section as part of each Biennial Priority Review under R.S. 17:189.4 and at any
+19 time the collaborative receives information that a credential may no longer
+20 satisfy the classification criteria applicable to its current tier designation or the
+21 credential may be misplaced in a tier.
+22 (2) Upon documented analysis, the collaborative may recommend to the
+23 Louisiana Workforce Investment Council the reclassification of a credential to
+24 a different tier or remove a credential from the registry.
+25 §189.13. Jump Start pathway authorization; review and reauthorization
+26 A. Application process for Jump Start pathway authorization.
+27 (1) A local education agency or regional team seeking to establish an
+28 authorized Jump Start pathway shall submit a proposal to the collaborative.
+29 Following the proposal review, the collaborative shall submit a written
+Page 50 of 83
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-2719 ORIGINAL
+SB NO. 524
+1 recommendation to the State Board of Elementary and Secondary Education
+2 regarding authorization.
+3 (2) A Jump Start pathway authorization proposal shall include, at
+4 minimum, all of the following:
+5 (a) A description of the proposed pathway, including the career cluster,
+6 occupational focus, and workforce development region or regions for which
+7 authorization is sought.
+8 (b) Documentation of alignment between the proposed pathway and the
+9 applicable Statewide Priority Industry List or Regional Priority Industry List
+10 under R.S. 17:189.4, including the data sources on which the alignment
+11 determination is based.
+12 (c) A wage analysis documenting the expected wage premium associated
+13 with the credential.
+14 (d) The Career Major Program framework required under R.S.
+15 17:189.10, including the nine-credit Jump Start course sequence and academic
+16 core credit requirements.
+17 (e) Documentation of the credential or credentials required for pathway
+18 completion, including the tier classification of each credential under R.S.
+19 17:189.12, if applicable.
+20 (f) A work-based learning plan describing the employer partnership
+21 structure, the required tier level, and documentation and oversight procedures
+22 consistent with R.S. 17:189.11.
+23 (g) Evidence of the postsecondary articulation agreement required under
+24 R.S. 17:189.15, or a documented timeline for where an agreement has not yet
+25 been finalized at the time of proposal submission.
+26 (h) Identification of the pathway tier designation sought under R.S.
+27 17:189.9.
+28 (i) A counseling and career coaching plan describing how the LEA will
+29 satisfy the ICAP and advising requirements of R.S. 17:189.7 and R.S. 17:189.8.
+Page 51 of 83
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-2719 ORIGINAL
+SB NO. 524
+1 (j) For regional pathways, a copy of any partnering agreement under
+2 R.S. 17:189.9 and documentation from the regional team supporting the
+3 proposal.
+4 (k) Such additional information as the collaborative may require.
+5 (3) The collaborative shall publish and maintain a pathway authorization
+6 proposal form updated not less than annually.
+7 B. Jump Start pathway authorization criteria.
+8 (1) The collaborative shall recommend authorization of a proposed Jump
+9 Start pathway to the State Board of Elementary and Secondary Education upon
+10 concluding the proposal satisfies all of the following:
+11 (a) The pathway is aligned to an occupation within an industry sector on
+12 the applicable Priority Industry List, consistent with the requirements of R.S.
+13 17:189.4.
+14 (b) The pathway includes all required pathway components established
+15 in R.S. 17:189.9.
+16 (c) The Career Major Program curriculum meets the standards of R.S.
+17 17:189.10.
+18 (d) The work-based learning component meets the standards of R.S.
+19 17:189.11.
+20 (e) The required credential satisfies the threshold of R.S. 17:189.12.
+21 (f) The postsecondary articulation agreement required by R.S. 17:189.15
+22 has been executed or a documented timeline has been approved.
+23 (g) The proposing local education agency or regional team has
+24 demonstrated, through a recently submitted annual counseling activity report
+25 under R.S. 17:189.8, that the counseling and career coaching infrastructure is
+26 appropriate.
+27 (h) The wage premium analysis submitted under Subsection A of this
+28 Section documents a positive expected wage premium associated with the
+29 identified pathway credential.
+Page 52 of 83
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-2719 ORIGINAL
+SB NO. 524
+1 (2) The collaborative shall transmit its written recommendation,
+2 including the appropriate tier for a credential and whether Louisiana Works
+3 deems the credential to be of high value, to the State Board of Elementary and
+4 Secondary Education not later than sixty calendar days after receipt of a
+5 complete pathway authorization proposal.
+6 (3) The State Board of Elementary and Secondary Education shall act
+7 on the collaborative's written recommendation not later than sixty calendar
+8 days after receipt. If the board does not act within sixty calendar days of
+9 receipt, the collaborative's recommendation shall be deemed approved.
+10 C. Jump Start pathway authorization conditions.
+11 (1) Each Jump Start pathway authorization issued under this Section
+12 shall be subject to the following conditions, which must be satisfied at the time
+13 of authorization and maintained throughout the pathway's authorization
+14 period:
+15 (a) The pathway remains aligned to an occupation within an industry
+16 sector on the applicable Priority Industry List, consistent with R.S. 17:189.4.
+17 (b) The pathway's credential remains approved or designated under R.S.
+18 17:189.12.
+19 (c) The Career Major Program curriculum and nine-credit Jump Start
+20 course sequence remain materially consistent with the approved curriculum
+21 submitted under R.S. 17:189.10.
+22 (d) The work-based learning component provides Level 3 or Level 4
+23 placements for enrolled students, consistent with R.S. 17:189.11.
+24 (e) The postsecondary articulation agreement under R.S. 17:189.15
+25 remains in effect.
+26 (f) The local education agency maintains the counseling and career
+27 coaching standards required by R.S. 17:189.8 for students enrolled in the
+28 pathway.
+29 (g) The local education agency annually reports pathway data consistent
+Page 53 of 83
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-2719 ORIGINAL
+SB NO. 524
+1 with the requirements of R.S. 17:189.18.
+2 (2) Any change to an authorized pathway that affects a condition listed
+3 in Paragraph (1) of this Subsection shall be reported by the local education
+4 agency or regional team in writing to the collaborative within thirty calendar
+5 days of the change.
+6 D. Five-year Jump Start pathway authorization cycle.
+7 (1) Each authorized Jump Start pathway shall be subject to a
+8 reauthorization review not less frequently than once every five years from the
+9 date of initial authorization or most recent reauthorization, as applicable. No
+10 pathway shall continue to operate as an authorized Jump Start pathway beyond
+11 the five-year authorization period without reauthorization.
+12 (2) The collaborative shall maintain and publish a schedule of upcoming
+13 pathway reauthorization reviews, updated not less than annually, identifying
+14 each authorized pathway, the date of initial authorization or last
+15 reauthorization, and the next scheduled reauthorization date.
+16 (3) If the collaborative's reauthorization review process for a Jump Start
+17 pathway is not completed before the expiration of the pathway's five-year
+18 authorization period, the pathway's authorization shall be extended on a
+19 holdover basis for not more than one academic year while the reauthorization
+20 review is completed.
+21 (4) The five-year pathway authorization cycle is distinct from and
+22 independent of the biennial priority review under R.S. 17:189.4; neither satisfies
+23 nor substitutes for the other.
+24 E. Jump Start pathway mid-cycle review triggers.
+25 (1) An authorized Jump Start pathway shall be subject to a mid-cycle
+26 review upon the occurrence of any of the following triggering events:
+27 (a) The Louisiana Jump Start Collaborative removes from the Statewide
+28 Priority Industry List or applicable Regional Priority Industry List the industry
+29 sector to which the pathway is aligned.
+Page 54 of 83
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-2719 ORIGINAL
+SB NO. 524
+1 (b) The required credential for the pathway is reclassified or removed
+2 in a manner that affects the pathway's tier compliance.
+3 (c) The collaborative identifies that a pathway's credential attainment
+4 rate has fallen below fifty percent for two consecutive academic years.
+5 (d) The postsecondary articulation agreement required for the pathway
+6 under R.S. 17:189.15 expires or is terminated without replacement.
+7 (e) The collaborative, by a vote of not fewer than two thirds voting
+8 members, determines that material changes in regional or statewide labor
+9 market conditions warrant an earlier review.
+10 (2) Upon the occurrence of a triggering event under Paragraph (1) of this
+11 Subsection, the collaborative shall:
+12 (a) Notify the affected local education agency or regional team of a mid-
+13 cycle review.
+14 (b) Complete the mid-cycle review within ninety calendar days of
+15 notification.
+16 (c) Transmit a written recommendation to the State Board of
+17 Elementary and Secondary Education regarding continuation, modification, or
+18 conclusion of the pathway's authorization.
+19 F. Pathway modification; suspension; sunset provisions.
+20 (1) A local education agency operating an authorized Jump Start
+21 pathway may propose a material modification to the pathway by submitting a
+22 pathway modification proposal to the collaborative. A modification is material
+23 if it affects any of the authorization conditions established in Subsection C of
+24 this Section.
+25 (a) Nonmaterial changes may be implemented by a local education
+26 agency or regional team with notification to the collaborative.
+27 (2) The collaborative may recommend suspension of a Jump Start
+28 pathway's authorization when the local education agency or regional team has
+29 failed to maintain one or more authorization conditions under Subsection C of
+Page 55 of 83
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-2719 ORIGINAL
+SB NO. 524
+1 this Section and has not remediated the deficiency or a mid-cycle review under
+2 Subsection E of this Section and identifies conditions that present an immediate
+3 risk to enrolled students.
+4 (3) Suspension of a Jump Start pathway's authorization may not take
+5 effect until the State Board of Elementary and Secondary Education has acted
+6 on the collaborative's suspension recommendation.
+7 (4) A Jump Start pathway whose authorization has been suspended shall
+8 not enroll new students in the pathway during the suspension period. Students
+9 already enrolled in a suspended pathway shall be permitted to complete the
+10 pathway if the suspension is expected to be resolved before the students'
+11 expected graduation date or offered alternative pathway options by the local
+12 education agency if the suspension cannot be resolved within a timeframe that
+13 allows the student to complete the pathway before graduation.
+14 (5) A Jump Start pathway that has been discontinued, or whose
+15 authorization has not been renewed, shall be formally sunset. The local
+16 education agency or regional team shall give enrolled students not less than one
+17 full academic year's advance notice of a planned sunset and shall identify
+18 alternative pathway options for affected students.
+19 §189.14. Rural LEA access; differentiated provisions and thresholds
+20 A. Rural LEA classification.
+21 (1) For purposes of this Subpart, a local education agency shall be
+22 classified as a "rural local education agency" upon meeting one or more of the
+23 following criteria:
+24 (a) The local education agency is located in a parish where the
+25 population density, as determined from the most recently published federal
+26 decennial census data, is fewer than one hundred persons per square mile.
+27 (b) The local education agency's total public K-12 student enrollment,
+28 as reported in the most recently published annual enrollment data of the state
+29 Department of Education, is fewer than four thousand students.
+Page 56 of 83
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-2719 ORIGINAL
+SB NO. 524
+1 (c) The local education agency's primary service area has been classified
+2 as a rural locale under the National Center for Education Statistics, NCES,
+3 locale classification framework maintained by the United States Department of
+4 Education, specifically as Locale Code 41 Rural Fringe, 42 Rural Distant, or 43
+5 Rural Remote, under the most recently published NCES locale classification
+6 data.
+7 (2) In addition to the criteria established in Paragraph (1) of this
+8 Subsection, the collaborative may, upon written request by a local education
+9 agency, certify it as a rural local education agency for purposes of this Section
+10 upon finding the local education agency faces structural access barriers
+11 established by the collaborative.
+12 (3) The collaborative shall review and reconfirm rural LEA
+13 classifications under this Section not less frequently than once every five years,
+14 coordinated with the five-year pathway reauthorization cycle under R.S.
+15 17:189.13. A local education agency that no longer meets any criterion in
+16 Paragraph (1) of the Subsection or any basis for certification under Paragraph
+17 (2) of this Subsection shall be transitioned to standard pathway authorization
+18 requirements.
+19 B. Differentiated pathway authorization thresholds for rural LEAs.
+20 (1) Notwithstanding R.S. 17:189.9 and R.S. 17:189.13, a rural local
+21 education agency classified under Subsection A of this Section shall be subject
+22 to differentiated thresholds established by the collaborative.
+23 (2) A rural local education agency whose Jump Start pathway has been
+24 authorized under this Section shall submit to the collaborative an annual rural
+25 pathway progress report not later than December first of each year, covering
+26 the immediately preceding academic year and containing:
+27 (a) Current enrollment in the authorized pathway, disaggregated by
+28 grade level.
+29 (b) The current status of all employer partnerships, including new
+Page 57 of 83
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-2719 ORIGINAL
+SB NO. 524
+1 employer partnerships established during the reporting year and any employer
+2 partnerships discontinued.
+3 (c) The tier level of work-based learning placements provided to enrolled
+4 students during the reporting year, and documentation of progress toward the
+5 WBL minimum tier level required by R.S. 17:189.11, where a Work-Based
+6 Learning Development Plan is in effect.
+7 (d) Any material changes to pathway delivery that may affect compliance
+8 with the pathway authorization conditions of R.S. 17:189.13.
+9 (e) Any transportation challenges experienced during the reporting year
+10 and steps the local education agency has taken or plans to take to address them,
+11 consistent with the transportation access plan required under Subsection D of
+12 this Section.
+13 C. Consortium pathway authorization; small districts.
+14 (1) Two or more rural local education agencies classified under
+15 Subsection A of this Section may jointly submit a Jump Start pathway
+16 authorization proposal as a consortium. A consortium established under this
+17 Subsection shall be treated as a single proposing party for purposes of the R.S.
+18 17:189.13 pathway authorization process.
+19 (2) A consortium Jump Start pathway proposal shall include, in addition
+20 to all elements required under R.S. 17:189.13, the following:
+21 (a) The identity of each participating rural local education agency and
+22 the designation of one participating local education agency as lead, which shall
+23 serve as the primary administrative party responsible for all communications
+24 with the collaborative, for enrollment coordination across participating local
+25 education agencies.
+26 (b) A signed consortium agreement executed by the authorized
+27 representative of each participating local education agency, specifying:
+28 (i) The responsibilities of each participating local education agency for
+29 curriculum delivery, instructor staffing, work-based learning coordination,
+Page 58 of 83
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-2719 ORIGINAL
+SB NO. 524
+1 credentialing support, and student advising and ICAP services under R.S.
+2 17:189.7 and R.S. 17:189.8.
+3 (ii) The site or sites at which Jump Start pathway instruction will be
+4 delivered, and the transportation arrangements each participating local
+5 education agency will use to ensure enrolled students have access to each
+6 delivery site, consistent with the requirements of Subsection D of this Section.
+7 (iii) A plan for shared allocation of pathway enrollment capacity among
+8 participating local education agencies, including enrollment targets and
+9 procedures for addressing over- or under-enrollment at any participating local
+10 education agency.
+11 (iv) The process for admitting additional rural LEAs to the consortium,
+12 consistent with Paragraph (5) of this Subsection.
+13 (v) Dispute resolution procedures for inter-LEA disagreements arising
+14 from the consortium's delivery of the authorized pathway.
+15 (c) Documentation of the combined total K-12 student enrollment of all
+16 participating local education agencies, which shall constitute the enrollment
+17 basis for all collaborative assessments of pathway viability for the consortium.
+18 (d) Where applicable, documentation of any existing partnering
+19 arrangements under R.S. 17:189.9 on which the consortium intends to rely for
+20 pathway delivery, together with a description of how those arrangements are
+21 incorporated into the consortium's delivery model.
+22 (3) For purposes of Jump Start pathway authorization, reauthorization,
+23 and all related assessments under R.S. 17:189.13, the combined student
+24 enrollment of all participating local education agencies shall be aggregated and
+25 treated as a single local education agency enrollment figure. The employer-
+26 demand documentation thresholds applicable under Subsection B of this Section
+27 shall apply to the consortium as a whole.
+28 (4) The lead LEA is primarily responsible for compliance with R.S.
+29 17:189.13 authorization conditions.
+Page 59 of 83
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-2719 ORIGINAL
+SB NO. 524
+1 (5) A local education agency that is not classified as a rural local
+2 education agency under Subsection A of this Section but operates in a
+3 geographic area contiguous to the service area of one or more participating
+4 rural local education agencies in a consortium may petition the collaborative for
+5 inclusion in the consortium upon demonstrating that the local education agency
+6 faces documented access barriers comparable to those qualifying rural local
+7 education agencies. The collaborative may approve inclusion upon a written
+8 finding that the applying local education agency's participation would
+9 strengthen the consortium's ability to deliver a pathway consistent with the
+10 standards of this Subpart and that inclusion does not circumvent the rural
+11 access purpose of this Section.
+12 D. Transportation support requirements.
+13 (1) A local education agency delivering a Jump Start pathway at a site
+14 outside enrolled students' school of attendance, whether independently or
+15 through a consortium, shall ensure enrolled students have meaningful access to
+16 transportation to and from the instructional site. Transportation provided
+17 under this Section shall comply with all applicable Louisiana laws governing the
+18 transportation of public school students.
+19 (2) Each rural LEA that delivers, or proposes to deliver, a pathway at a
+20 shared or off-campus site shall include in its pathway authorization proposal,
+21 under R.S. 17:189.13, a Transportation Access Plan specifying:
+22 (a) Each delivery site at which pathway instruction will be conducted and
+23 the estimated distance from the home school of each participating local
+24 education agency's students.
+25 (b) The estimated number of students for whom transportation will be
+26 necessary.
+27 (c) The mechanism or mechanisms through which the local education
+28 agency will provide or facilitate student access to each instruction site, which
+29 may include:
+Page 60 of 83
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-2719 ORIGINAL
+SB NO. 524
+1 (i) Physical arrangements including school bus and third-party shuttle
+2 bus.
+3 (ii) Technology-aided or hybrid instruction arrangements, consistent
+4 with R.S. 17:189.18, to supplement in-person delivery for pathway components
+5 that can be effectively delivered remotely, thereby reducing required student
+6 travel.
+7 (d) The estimated annual cost of the transportation access mechanism
+8 identified under Subparagraph (c) of this Paragraph and the available funding
+9 source or sources from which those costs will be funded.
+10 (e) A written assurance that no enrolled student will be denied access to
+11 the Jump Start pathway solely because of the student's inability to arrange
+12 transportation to the instructional site.
+13 (3) The failure of a rural local education agency to submit and maintain
+14 its Transportation Access Plan required under Paragraph (2) of this Subsection,
+15 or to implement the plan in a manner that ensures enrolled students are not
+16 denied access to the Jump Start pathway, shall constitute a failure to maintain
+17 pathway authorization conditions under R.S. 17:189.13.
+18 E. Rural access monitoring.
+19 (1) The collaborative shall monitor and publicly report on rural local
+20 education agencies access to authorized Jump Start pathways as provided in
+21 this Subsection, in coordination with its annual reporting obligations under R.S.
+22 17:189.3 and the data requirements of R.S. 17:189.18.
+23 (2) Nothing in this Section shall require a rural local education agency
+24 to offer any specific Jump Start pathway or limit its authority to determine,
+25 consistent with local governance responsibilities and the pathway authorization
+26 requirements of this Subpart, which pathways, if any, to propose for
+27 authorization.
+28 §189.15. Postsecondary articulation and transfer credit agreements
+29 A. Articulation agreement; condition of Jump Start pathway
+Page 61 of 83
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-2719 ORIGINAL
+SB NO. 524
+1 authorization.
+2 (1) As a condition of Jump Start pathway authorization under R.S.
+3 17:189.13, each local education agency shall maintain at least one postsecondary
+4 articulation agreement with at least one Louisiana public postsecondary
+5 institution, with priority given to community and technical colleges. The
+6 agreement shall be submitted as evidence of compliance in the Jump Start
+7 pathway authorization proposal under R.S. 17:189.13. If an executed agreement
+8 is not in place at the time of proposal submission, the local education agency
+9 shall submit a compliance timeline under Subsection D of this Section.
+10 (2) A postsecondary articulation agreement required under this
+11 Subsection shall:
+12 (a) Be signed by authorized representatives of all parties.
+13 (b) Specify the Jump Start pathway or pathways to which the agreement
+14 applies and the academic year from which the credit transfer terms are
+15 effective.
+16 (c) Set forth minimum credit transfer terms for qualifying Jump Start
+17 pathway completers accepted at the institution, consistent with Subsection B of
+18 this Section.
+19 (d) Specify an effective period of not fewer than five years or the
+20 pathway's authorization period under R.S. 17:189.13, whichever is longer,
+21 subject to annual review under Subsection F of this Section.
+22 (e) Include a process for resolving disputes between a qualifying student,
+23 the local education agency, and the contracting institution regarding a student's
+24 eligibility for credit transfer.
+25 (3) A local education agency's failure to maintain an active
+26 postsecondary articulation agreement satisfying the requirements of this Section
+27 shall constitute a failure to maintain a Jump Start pathway in good standing
+28 and shall trigger the mid-cycle review process under R.S. 17:189.13.
+29 B. Minimum agreement terms; credit transfer standards.
+Page 62 of 83
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-2719 ORIGINAL
+SB NO. 524
+1 (1) A postsecondary articulation agreement required under Subsection
+2 A of this Section shall, at a minimum, provide all of the following:
+3 (a) A defined transfer pathway entitling students to postsecondary course
+4 credit or equivalency recognition at the contracting postsecondary institution
+5 in an aligned subject area.
+6 (b) A minimum transfer value of three postsecondary credit hours, or
+7 one postsecondary course equivalent, in the relevant subject area or
+8 occupational domain, applied toward the student's program upon enrollment.
+9 (c) The pathway completion requirements for credit transfer eligibility,
+10 including completion of the approved nine-credit Jump Start course sequence
+11 under R.S. 17:189.10, attainment of the required credential under R.S.
+12 17:189.12, or both; eligibility conditions shall not conflict with R.S. 17:189.5.
+13 (d) The procedure by which an eligible student shall document pathway
+14 completion and request credit transfer evaluation by the contracting
+15 postsecondary institution.
+16 (e) An annual review process consistent with Subsection F of this Section.
+17 (2) An articulation agreement required under this Section shall not:
+18 (a) Condition credit transfer eligibility solely on a student's enrollment
+19 in a specific program of study at the contracting postsecondary institution,
+20 except to the extent the transferred credit is applicable only within a defined
+21 postsecondary program aligned to the pathway.
+22 (b) Require a student to repeat or retake coursework that is substantially
+23 equivalent in content to the Jump Start pathway coursework for which the
+24 credit transfer is sought.
+25 (c) Include terms that, in practical effect, render credit transfer
+26 inaccessible.
+27 (3) Nothing in this Section prevents a postsecondary articulation
+28 agreement from providing credit transfer terms more favorable than the
+29 minimums required by Paragraph (1) of this Subsection, including stacked
+Page 63 of 83
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-2719 ORIGINAL
+SB NO. 524
+1 credit applicable to multiple postsecondary programs, advanced-standing
+2 placement, or equivalencies exceeding Subparagraph (1)(b) of this Subsection.
+3 C. Board of Regents coordination; common course numbering
+4 framework.
+5 (1) The Board of Regents, in coordination with the collaborative, shall
+6 develop a common course numbering framework for Jump Start pathway
+7 courses that facilitates consistent transfer credit evaluation by Louisiana public
+8 postsecondary institutions. The framework shall:
+9 (a) Assign to each authorized Jump Start pathway, or to defined clusters
+10 of pathway course sequences, a standardized course identifier that Louisiana
+11 public postsecondary education institutions may use to assess transfer credit
+12 eligibility consistent with their institutional articulation policies and with the
+13 minimum agreement terms required by Subsection B of this Section.
+14 (b) Be organized by career cluster and industry sector, consistent with
+15 the Statewide Priority Industry List established under R.S. 17:189.4, and
+16 updated to reflect additions to and removals from the Priority Industry List as
+17 part of each Biennial Priority Review under R.S. 17:189.4.
+18 (c) Serve as a shared reference system for all articulation agreements
+19 executed under this Section and for the statewide articulation framework
+20 developed under Paragraph (2) of this Subsection.
+21 (2) The Board of Regents shall, not later than two years after the
+22 effective date of this Subpart and in coordination with the Louisiana Jump Start
+23 Collaborative, develop and publish a statewide articulation framework
+24 establishing minimum transfer credit terms applicable to all Louisiana public
+25 postsecondary education institutions for Jump Start pathway course sequences
+26 identified in the common course numbering framework under Paragraph (1)
+27 of this Subsection. The statewide articulation framework shall:
+28 (a) Establish minimum credit transfer terms applicable to completers of
+29 authorized Jump Start pathways aligned to each industry sector on the
+Page 64 of 83
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-2719 ORIGINAL
+SB NO. 524
+1 Statewide Priority Industry List.
+2 (b) Identify the postsecondary degree programs, technical certificate
+3 programs, and workforce certificate programs to which Jump Start pathway
+4 course credit may be applied, consistent with the Board of Regents' program
+5 approval and articulation authority under R.S. 17:3138 et seq.
+6 (c) Be reviewed and updated by the Board of Regents, in coordination
+7 with the collaborative, not less frequently than once every three academic years,
+8 to reflect updates to the common course numbering framework and any
+9 changes to the Statewide Priority Industry List.
+10 D. Statutory timeline for establishment of articulation agreement.
+11 (1) For Jump Start pathway proposals seeking initial authorization
+12 under R.S. 17:189.13, the following requirements govern submission of the
+13 articulation agreement:
+14 (a) A proposal that has an executed postsecondary articulation
+15 agreement meeting Subsection B of this Section at the time of proposal
+16 submission under R.S. 17:189.13 shall submit the agreement with the
+17 authorization proposal.
+18 (b) A proposal that does not yet have a fully executed postsecondary
+19 articulation agreement at the time of proposal submission shall, in lieu of an
+20 executed agreement, submit a documented compliance timeline as part of the
+21 proposal specifying:
+22 (i) The name of each Louisiana public postsecondary institution with
+23 which the local education agency has been or is actively engaged in negotiations
+24 toward execution of an articulation agreement.
+25 (ii) The credit transfer terms tentatively agreed upon or under active
+26 discussion, to the extent determinable.
+27 (iii) A date by which a fully executed articulation agreement will be
+28 submitted to the Louisiana Jump Start Collaborative, which shall not be later
+29 than eighteen months following the date on which the Jump Start pathway is
+Page 65 of 83
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-2719 ORIGINAL
+SB NO. 524
+1 authorized.
+2 (2) An authorized Jump Start pathway operating under an approved
+3 compliance timeline under Paragraph (1) of this Subsection shall not be subject
+4 to R.S. 17:189.13 authorization condition failure solely because no agreement
+5 has yet been executed, provided the local education agency is actively pursuing
+6 execution of the postsecondary articulation agreement and submits an
+7 agreement to the collaborative by the timeline's specified date.
+8 (3) A Jump Start pathway shall not receive reauthorization under R.S.
+9 17:189.13, and shall not be approved or maintained at Tier 2 or Tier 3 pathway
+10 designation under R.S. 17:189.9, unless a fully executed articulation agreement
+11 is in place at the time of the pathway's reauthorization review.
+12 E. Compliance mechanism; consequences of noncompliance.
+13 (1) An authorized Jump Start pathway whose articulation agreement
+14 expires or is terminated without simultaneous execution of a replacement
+15 agreement shall undergo a mid-cycle review by the collaborative, or its
+16 designee, under R.S. 17:189.13.
+17 (2) An authorized Jump Start pathway that fails to maintain an active
+18 articulation agreement for a continuous period exceeding twenty-four months
+19 or without an approved compliance plan shall be subject to pathway suspension
+20 under R.S. 17:189.13 until a compliant agreement is executed and submitted to
+21 the collaborative.
+22 (3) Nothing in this Section requires deauthorization of a Jump Start
+23 pathway solely because a postsecondary institution failed to execute or maintain
+24 a required agreement, where the local education agency has documented good-
+25 faith efforts with at least two Louisiana public postsecondary institutions and
+26 demonstrated that no geographically accessible institution has agreed. In such
+27 circumstances, the collaborative may continue the pathway authorization with
+28 a written finding of institutional noncooperation, reported to the Board of
+29 Regents and legislature under this Section.
+Page 66 of 83
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-2719 ORIGINAL
+SB NO. 524
+1 F. Annual review and update of articulation agreements.
+2 (1) Each postsecondary articulation agreement required under this
+3 Section shall include a provision for annual review by all parties by June first
+4 of each year to assess whether the agreement accurately reflects the pathway's
+5 current curriculum, credentials, and postsecondary program alignments, and
+6 whether modifications are needed to maintain compliance with Subsection B of
+7 this Section.
+8 (2) A local education agency operating an authorized pathway shall
+9 notify the collaborative within thirty calendar days of any of the following
+10 events:
+11 (a) Execution of a new articulation agreement or renewal of an existing
+12 agreement covering the authorized pathway.
+13 (b) A material modification to the credit transfer terms of an existing
+14 articulation agreement.
+15 (c) Expiration of an articulation agreement without simultaneous
+16 execution of a renewal or replacement agreement.
+17 (d) Termination or cancellation of an existing articulation agreement
+18 prior to its stated expiration date.
+19 §189.16. Access to Jump Start pathways; partnering authority
+20 A. All public high schools; access obligation.
+21 (1) Each local education agency operating a public high school shall
+22 provide each enrolled student access to career and technical education courses,
+23 including authorized Jump Start pathways offered pursuant to this Subpart.
+24 (2) Such access obligation includes:
+25 (a) Ensure that at least one authorized Jump Start pathway is available
+26 to students enrolled in grades nine through twelve in each public high school
+27 operated by the local education agency, except as provided in Subsection C of
+28 this Section.
+29 (b) Inform enrolled students and their parents or legal guardians of
+Page 67 of 83
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-2719 ORIGINAL
+SB NO. 524
+1 available Jump Start pathway options during ICAP development, review, and
+2 revision as required under R.S. 17:189.7.
+3 (c) Ensure that the full nine-credit Jump Start course sequence required
+4 for Career Diploma completion under R.S. 17:189.10 is accessible to students
+5 enrolled in an authorized Jump Start pathway, either through direct course
+6 delivery by the local education agency or through a partnering agreement
+7 established under Subsection B of this Section.
+8 (3) Nothing in this Section shall be construed to require a local education
+9 agency to offer a Jump Start pathway in an industry sector not included on the
+10 Statewide Priority Industry List or applicable Regional Priority Industry List
+11 maintained pursuant to R.S. 17:189.4.
+12 B. Partnering authority; agreements with other schools and institutions.
+13 (1) If a local education agency cannot directly provide career and
+14 technical education courses or an authorized Jump Start pathway, the local
+15 education agency may enter into a written partnering agreement with one or
+16 more of the following entities to provide such courses or pathway access to its
+17 enrolled students:
+18 (a) A separate local education agency in the state.
+19 (b) A Louisiana public community or technical college.
+20 (c) A nonprofit proprietary school approved by the State Board of
+21 Elementary and Secondary Education.
+22 (d) A Course Choice provider approved by the State Board of
+23 Elementary and Secondary Education, consistent with R.S. 17:4002.1 et seq.
+24 (2) A partnering agreement entered into under this Subsection shall:
+25 (a) Be in writing and executed by authorized representatives of all
+26 parties.
+27 (b) Specify the career and technical education courses or Jump Start
+28 pathways to which the agreement applies and the terms under which enrolled
+29 students will access the agreed instruction.
+Page 68 of 83
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-2719 ORIGINAL
+SB NO. 524
+1 (c) Address liability, transportation responsibilities, and any cost-sharing
+2 arrangements between the parties.
+3 (d) Be submitted to the collaborative as part of any Jump Start pathway
+4 authorization proposal or reauthorization proposal under R.S. 17:189.13.
+5 (3) A partnering agreement under this Subsection may support the
+6 delivery of one or more components of an authorized Jump Start pathway, but
+7 it shall not substitute for the local education agency's obligation to ensure that
+8 enrolled students receive all required academic core courses, individual career
+9 planning, and counseling services consistent with R.S. 17:189.8 and R.S.
+10 17:189.10.
+11 (4) When a local education agency enters into an arrangement to share
+12 facilities, materials, equipment, or instructors with a Louisiana public
+13 community or technical college:
+14 (a) The local education agency shall be responsible for the cost of
+15 transporting such students to the partnering institution.
+16 (b) Other expenses and issues, including liability, involved in sharing
+17 resources shall be the responsibility of the local education agency.
+18 (5) A regional team formed pursuant to R.S. 17:189.9 shall coordinate
+19 Jump Start pathway and course delivery across local education agency
+20 boundaries and may establish cross-district enrollment agreements and
+21 program-sharing arrangements consistent with R.S. 17:189.9 to support the
+22 goals of this Section.
+23 (6) For rural local education agencies classified under R.S. 17:189.14, the
+24 partnering authority provided by this Subsection is subject to the provisions of
+25 R.S. 17:189.14, including consortium pathway arrangements available to
+26 multiple rural local education agencies under R.S. 17:189.14.
+27 C. Mission-based waiver; the State Board of Elementary and Secondary
+28 Education authority.
+29 (1) If the approved mission or curriculum model of a public high school
+Page 69 of 83
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-2719 ORIGINAL
+SB NO. 524
+1 does not align with providing career and technical education courses or an
+2 authorized Jump Start pathway, the governing authority of the school may
+3 request a waiver from the State Board of Elementary and Secondary Education
+4 of the access obligation established in Subsection A of this Section. Nothing in
+5 this Section shall be interpreted to supersede R.S. 17:4002.1 et seq.
+6 (2) A waiver request submitted under Paragraph (1) of this Subsection
+7 shall:
+8 (a) Describe the school's approved mission or curriculum model and the
+9 basis on which it does not align with providing career and technical education
+10 courses or authorized Jump Start pathways.
+11 (b) Identify any alternative means through which students enrolled at the
+12 waiver-requesting school may access career and technical education courses
+13 consistent with Subsection A of this Section, including through partnering
+14 agreements under Subsection B of this Section.
+15 (3) A waiver granted under this Subsection shall be reviewed by the State
+16 Board of Elementary and Secondary Education not less frequently than once
+17 every five years to assess whether the mission or curriculum basis for the waiver
+18 remains valid.
+19 §189.17. Program delivery methods; instructor qualifications and professional
+20 development
+21 A. Methods of program development and curriculum design options.
+22 (1) To develop and implement a Career Major Program, a local
+23 education agency may use any of the following program development methods:
+24 (a) System-wide development, in which the local education agency
+25 develops a uniform career major program across all schools under the agency's
+26 jurisdiction.
+27 (b) Consortium development, in which the local education agency
+28 collaborates with one or more other local education agencies or a regional team
+29 formed pursuant to R.S. 17:189.9 to jointly develop and deliver a Career Major
+Page 70 of 83
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-2719 ORIGINAL
+SB NO. 524
+1 Program.
+2 (2) The following curriculum design options are available for authorized
+3 Career Major Programs:
+4 (a) Block scheduling arrangements that allow a student to accumulate
+5 Carnegie units in alignment with the nine-credit Jump Start course sequence
+6 established in R.S. 17:189.10.
+7 (b) Coordination of available elective credits into a coherent, sequenced
+8 Career Major Program aligned with an authorized pathway.
+9 (c) State Board of Elementary and Secondary Education-approved new
+10 courses developed to meet the requirements of an authorized Jump Start
+11 pathway.
+12 (d) Sharing of facilities, materials, equipment, and instructors with
+13 community and technical colleges consistent with R.S. 17:189.17.
+14 (e) Organization and sequencing of new courses in accordance with the
+15 appropriate Statewide Priority Industry List or Regional Priority List
+16 established under R.S. 17:189.4.
+17 (f) Arrangements for students to complete work-based learning activities
+18 consistent with the work-based learning quality standards and tiered
+19 requirements established in R.S. 17:189.11.
+20 (3) Each local education agency shall submit proposed Career Major
+21 Programs to the State Board of Elementary and Secondary Education for
+22 approval in accordance with R.S. 17:189.10.
+23 B. Career and technical instructor qualifications.
+24 (1) An instructor assigned to teach a career and technical education
+25 course within an authorized Jump Start pathway shall meet at least one of the
+26 following qualification standards:
+27 (a) Hold a valid teaching certificate issued in accordance with state
+28 standards for certification of school personnel, in the applicable career and
+29 technical education subject area.
+Page 71 of 83
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-2719 ORIGINAL
+SB NO. 524
+1 (b) Be in compliance with the reciprocal instructor certification policy
+2 established by the State Board of Elementary and Secondary Education for
+3 instructors who reside in other states but are employed by authorized providers
+4 and satisfy applicable state certification requirements pursuant to state law.
+5 (2) In addition to Paragraph (1) of this Subsection, the state Department
+6 of Education, in consultation with the collaborative, shall, in coordination with
+7 the State Board of Elementary and Secondary Education, establish or affirm
+8 minimum industry-experience standards for instructors assigned to career and
+9 technical education courses in Jump Start pathways aligned to priority
+10 occupations under R.S. 17:189.4. Such standards shall:
+11 (a) Require, at a minimum, that instructors assigned to designated Jump
+12 Start pathway career and technical education courses hold, or demonstrate the
+13 ability to obtain, the industry-based credentials required for student completion
+14 of the applicable pathway under R.S. 17:189.12.
+15 (b) Recognize demonstrated industry experience in the relevant career
+16 field as a qualification pathway for alternative certification or provisional
+17 authorization, consistent with alternative certification procedures established
+18 by the State Board of Elementary and Secondary Education.
+19 (c) Be established not later than one hundred eighty calendar days
+20 following the effective date of this Subpart and updated as necessary to reflect
+21 changes in priority occupation requirements and industry-based credential
+22 standards.
+23 (4) A local education agency unable to identify a qualified instructor
+24 under Paragraph (1) or (2) of this Subsection for a specific career and technical
+25 education course within an authorized Jump Start pathway may, upon written
+26 acknowledgment from the state Department of Education:
+27 (a) Contract with an approved postsecondary institution, community
+28 college, technical college, or other provider authorized under R.S. 17:189.17 to
+29 deliver the affected course through a formal instructional partnership
+Page 72 of 83
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-2719 ORIGINAL
+SB NO. 524
+1 agreement.
+2 (b) Deliver the affected course through technology-aided instruction
+3 consistent with Subsection D of this Section.
+4 C. Staff development and professional development standards.
+5 (1) Each instructor assigned to teach a career and technical education
+6 course within an authorized Jump Start pathway shall receive staff
+7 development and in-service training addressing both the technical content of the
+8 applicable career field and effective instructional strategies for career and
+9 technical education course delivery, aligned with the Career Major Program
+10 requirements.
+11 (2) Any instructor assigned to teach a career and technical education
+12 course who was not previously certified or trained in the applicable content area
+13 shall receive appropriate staff development and in-service training before
+14 assuming sole instructional responsibility for the course, or shall be supervised
+15 by a qualified instructor until such training is completed.
+16 (3) Local education agencies shall document professional development
+17 activities completed by each instructor assigned to a career and technical
+18 education course within an authorized pathway and shall make such records
+19 available upon request as part of Jump Start pathway oversight under R.S.
+20 17:189.3.
+21 D. Alternative delivery; technology-aided instruction.
+22 (1) An authorized Jump Start pathway course may be delivered through
+23 technology-aided instruction, including virtual, online, or blended delivery
+24 methods, in any of the following circumstances:
+25 (a) A qualified instructor meeting the standards of Subsection B of this
+26 Section is unavailable to provide direct instruction for the course.
+27 (b) The local education agency determines that technology-aided
+28 instruction represents the most practicable means of providing pathway access
+29 to students in rural or geographically remote locations, consistent with the rural
+Page 73 of 83
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-2719 ORIGINAL
+SB NO. 524
+1 access provisions of R.S. 17:189.14.
+2 (c) Technology-aided instruction supplements and supports classroom
+3 instruction, including through digital learning tools, simulations, or virtual
+4 work-based learning components endorsed by the applicable regional team and
+5 consistent with the work-based learning standards of R.S. 17:189.11.
+6 (2) Technology-aided instruction alone shall not substitute for the work-
+7 based learning experiences required under R.S. 17:189.11. For Jump Start
+8 pathways delivered primarily or substantially through technology-aided
+9 instruction, local education agencies shall maintain active employer
+10 partnerships under R.S. 17:189.11 to ensure that students have access to
+11 required work-based learning experiences at the minimum tier level required
+12 by R.S. 17:189.11.
+13 §189.18. Data collection; reporting; transparency
+14 A. Annual public Jump Start data report; mandate and publication
+15 deadline.
+16 (1) The collaborative shall publish annually a comprehensive public
+17 report hereby established as the "Jump Start Annual Data Report". The report
+18 shall be publicly available not later than March first of each year, covering data
+19 from the prior academic year.
+20 (2) The collaborative shall transmit the Jump Start Annual Data Report
+21 to each of the following recipients not later than the publication deadline
+22 established in Paragraph (1) of this Subsection:
+23 (a) The State Board of Elementary and Secondary Education.
+24 (b) The chair of the House Committee on Education and the chair of the
+25 Senate Committee on Education of the Louisiana Legislature.
+26 (c) The governor.
+27 (d) Member agencies of the collaborative.
+28 (3) Each Jump Start Annual Data Report shall be published in a format
+29 and at a level of detail sufficient to allow members of the public and
+Page 74 of 83
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-2719 ORIGINAL
+SB NO. 524
+1 policymakers to assess the performance, quality, and workforce alignment of
+2 Jump Start at the statewide, regional pathway, and local education agency
+3 levels.
+4 B. Required data elements.
+5 (1) Each Jump Start Annual Data Report shall include, at a minimum,
+6 all of the following data elements and all pathway-level performance metrics
+7 reported under this Subsection shall use the standardized metrics established
+8 and updated by the collaborative pursuant to R.S. 17:189.3, ensuring
+9 consistency between the internal shared performance framework and the public
+10 report:
+11 (a) The number of career and technical education concentrators, as
+12 defined in R.S. 17:189.2, enrolled in each authorized Jump Start pathway,
+13 disaggregated by pathway, industry sector, workforce development region,
+14 student subgroup, and grade level.
+15 (b) The number of career and technical education completers, as defined
+16 in R.S. 17:189.2, including both those who earned a Career Diploma under R.S.
+17 17:189.5 and those who completed all Jump Start pathway requirements
+18 without electing a Career Diploma, disaggregated by pathway, industry sector,
+19 workforce development region, student subgroup, and grade level.
+20 (c) Credential attainment rates, including the percentage of career and
+21 technical education concentrators and career and technical education
+22 completers who earned at least one credential, disaggregated by Jump Start
+23 pathway, credential name, credential tier as established under R.S. 17:189.12,
+24 student subgroup, and grade level.
+25 (d) Work-based learning participation rates, including the percentage
+26 of career and technical education concentrators and career and technical
+27 education completers participating in work-based learning activities and the
+28 tier of participation consistent with the tiered work-based learning
+29 requirements of R.S. 17:189.11 disaggregated by Jump Start pathway, industry
+Page 75 of 83
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-2719 ORIGINAL
+SB NO. 524
+1 sector, workforce development region, student subgroup, and grade level.
+2 (e) Early postsecondary credit participation rates, including dual
+3 enrollment participation rates, and articulated credit participation rates, each
+4 reported by Jump Start pathway, consistent with the postsecondary articulation
+5 framework of R.S. 17:189.15 disaggregated by Jump Start pathway, course,
+6 workforce development region, student subgroup, and grade level.
+7 (f) Post-graduation transitions and outcomes measured using enhanced
+8 wage record data described under Subsection E of this Section and collected at
+9 the intervals specified in Subsection D of this Section:
+10 (i) Postsecondary enrollment rates for Career Diploma graduates within
+11 four quarters of graduation, disaggregated by type of postsecondary institution
+12 enrolled program and student subgroup.
+13 (ii) Employment rates and median wages for Career Diploma graduates
+14 within four quarters of graduation disaggregated by industry sector or
+15 occupation and by subgroup.
+16 (iii) Employment rates and median wages for Career Diploma graduates
+17 at the second quarter after graduation disaggregated by industry sector or
+18 occupation and by subgroup.
+19 (g) A summary of career and technical education instructors,
+20 disaggregated by local education agency, pathway, and workforce development
+21 region, as required under R.S. 17:189.18.
+22 (2) Nothing in this Subsection shall be construed to prevent the
+23 collaborative from including additional data elements in the Jump Start Annual
+24 Data Report beyond the minimum floor established in Paragraph (1) of this
+25 Subsection, provided that all additional elements are consistent with the privacy
+26 protections established in Subsection G of this Section.
+27 C. Student subgroup disaggregation; statutory obligation.
+28 (1) All data elements reported in the Jump Start Annual Data Report
+29 under Subsection B of this Section shall be disaggregated, to the extent data are
+Page 76 of 83
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-2719 ORIGINAL
+SB NO. 524
+1 available and the aggregate reporting thresholds established in Subsection G of
+2 this Section permit, by all of the following student subgroup categories:
+3 (a) Race or ethnicity.
+4 (b) Gender.
+5 (c) Economic disadvantage status.
+6 (d) Rural or urban geographic classification of the student's enrolled
+7 school, using the rural local education agency designation criteria established
+8 in R.S. 17:189.14.
+9 (e) Disability status, including students with disabilities receiving services
+10 under an Individualized Education Program (IEP) pursuant to the Individuals
+11 with Disabilities Education Act, 20 U.S.C. 1400 et seq.
+12 (f) English learner status.
+13 (2) The student disaggregation requirement established in this
+14 Subsection is a standalone statutory obligation applicable to the Jump Start
+15 Annual Data Report published under Subsection A of this Section. This
+16 obligation is independent of, and supplementary to, any disaggregation
+17 requirements applicable to the shared performance framework under R.S.
+18 17:189.3.
+19 D. Cross-agency data sharing agreement
+20 (1) As put forth in R.S. 17:189.3, agency members of the Louisiana Jump
+21 Start collaborative shall enter into a written, formal Memorandum of
+22 Understanding that includes cross-agency data sharing for the purpose of
+23 shared performance framework and the transmission of the Jump Start Annual
+24 Data Report.
+25 (2) Nothing in this Subsection shall be construed to require the sharing
+26 of individually identifiable student data with the public. All data made publicly
+27 available in the Jump Start Annual Data Report shall be subject to the
+28 aggregate reporting thresholds and privacy protections established in
+29 Subsection G of this Section.
+Page 77 of 83
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-2719 ORIGINAL
+SB NO. 524
+1 E. Privacy protections; aggregate reporting requirements.
+2 (1) All data published in the Jump Start Annual Data Report shall be
+3 presented in aggregate form only. No individually identifiable student data shall
+4 be disclosed in any public report published under this Section.
+5 (2) For purposes of disaggregation required by Subsection C of this
+6 Section and any other disaggregated data element included in the Jump Start
+7 Annual Data Report, the collaborative shall apply aggregate reporting
+8 thresholds to prevent the identification of individual students from publicly
+9 reported data.
+10 (3) The data privacy protections established in this Subsection shall be
+11 consistent with and no less protective than the requirements of the Family
+12 Educational Rights and Privacy Act, 20 U.S.C. 1232g (FERPA), and any
+13 applicable Louisiana statutes governing the privacy of student records.
+14 (4) Enhanced wage record data shall be subject to the confidentiality
+15 protections applicable to Louisiana Works wage records under Title 23 of the
+16 Louisiana Revised Statutes of 1950 and shall not be used for any purpose other
+17 than the production of the aggregate outcome data required by this Section.
+18 §189.19. Applicability
+19 The requirements of this Subpart shall not apply to any of the following:
+20 (1) Any student who, as of the effective date of this Subpart, is enrolled
+21 in a Career Major Program under the provisions of R.S. 17:183.1 through R.S.
+22 17:183.5 as they existed prior to enactment of this Act shall be entitled to
+23 complete that program and earn a Career Diploma under the requirements
+24 applicable at the time of the student's initial enrollment in the career major
+25 program.
+26 (2) Each Jump Start pathway, Career Major Program, or credential-
+27 bearing program that was authorized by the State Board of Elementary and
+28 Secondary Education under R.S. 17:183.1 through R.S. 17:183.5 as of the
+29 effective date of this Subpart shall continue in effect for a transitional period of
+Page 78 of 83
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-2719 ORIGINAL
+SB NO. 524
+1 not less than eighteen months following the effective date of this Subpart.
+2 (3) An Individual Graduation Plan established for a student under R.S.
+3 17:2925 prior to the effective date of this Subpart shall remain in effect and
+4 shall be honored for purposes of that student's graduation requirements,
+5 subject to the student's rights under Paragraph (1) of this Subsection. Nothing
+6 in this Subpart shall require a student to revise a prior Individual Graduation
+7 Plan solely as a result of the enactment of this Act.
+8 (4) No credential earned by a student under the provisions of R.S.
+9 17:183.1 through R.S. 17:183.5 prior to the effective date of this Subpart shall
+10 be invalidated, reclassified downward, or reduced in value for purposes of that
+11 student's diploma requirements solely by reason of the enactment of this Act or
+12 the credential tier framework established in R.S. 17:189.12.
+13 §189.20. Severability clause
+14 If any provision or item of this Act, or the application thereof, is held
+15 invalid, such invalidity shall not affect other provisions, items, or applications
+16 of the Act which can be given effect without the invalid provision, item, or
+17 application and to this end the provisions of this Act are hereby declared
+18 severable.
+19 Section 2. R.S. 17:183.1 through 183.5 are hereby repealed.
+20 Section 3. The provisions of this Act shall be implemented in Phases as outlined:
+21 Phase I: Shall be known as the "Foundation Phase" which shall take effect not later than
+22 ninety calendar days following the effective date of this Act; and under this Phase the
+23 Louisiana Workforce Investment Council within Louisiana Works shall establish the
+24 administrative and staff support infrastructure required to support the collaborative
+25 operations. Phase II: Shall be known as the "Initial Operational Readiness Phase" which
+26 shall take effect not later than one hundred eighty calendar days following the effective date
+27 of this Act; and under this Phase the Louisiana Jump Start collaborative shall hold its
+28 organizational meeting and adopt operating procedures; the collaborative shall establish the
+29 initial Statewide Priority Industry List; the agency members of the collaborative shall
+Page 79 of 83
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-2719 ORIGINAL
+SB NO. 524
+1 execute the Memorandum of Understanding (MOU); and the State Board of Elementary and
+2 Secondary Education and the state Department of Education shall publish the initial
+3 approved career coaching vendor list. Phase III: Shall be known as the "Pathway
+4 Authorization Cycle Phase" which shall take effect not later than one year following the
+5 effective date of this Act; and under this phase the collaborative shall begin accepting
+6 pathway authorization proposals and each local education agency shall initiate the ICAP
+7 process for incoming seventh grade students beginning with the first academic year
+8 commencing after the effective date of this Act. Phase IV: Shall be known as the "Full
+9 Program Architecture Implementation Phase" which shall take effect not later than two years
+10 following the effective date of this Act; under this Phase the Board of Regents shall, in
+11 coordination with the collaborative, develop and publish the statewide articulation
+12 framework establishing minimum transfer credit terms; the collaborative shall complete the
+13 initial tier designation review for all Jump Start pathways authorized under the new
+14 framework; and regional teams shall submit updated Regional Priority Industry Lists
+15 following the collaborative's completion of the first Biennial Priority Review. Phase V: Shall
+16 be known as the "Steady-State Operation Phase" which shall take effect by the beginning of
+17 the fourth academic year following the effective date of this Act; under this Phase all
+18 authorized Jump Start pathways shall have been reviewed by the collaborative and shall have
+19 received a tier designation; the first cohort of students with ICAPs shall be completing their
+20 high school careers under the four-stage framework; and the annual Jump Start Data Report
+21 shall have been published for the third consecutive year.
+The original instrument and the following digest, which constitutes no part
+of the legislative instrument, were prepared by Senate Legislative Services.
+The keyword, summary, and digest do not constitute part of the law or proof
+or indicia of legislative intent. [R.S. 1:13(B) and 24:177(E)]
+DIGEST
+SB 524 Original 2026 Regular Session Reese
+Proposed law provides for the creation of the Louisiana Jump Start Modernization Act,
+which may be cited as the Louisiana Jump Start Career Diploma Program.
+Proposed law provides for legislative findings and purposes.
+Proposed law provides for definitions.
+Page 80 of 83
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-2719 ORIGINAL
+SB NO. 524
+Proposed law provides for the creation of a membership collaborative to include: The
+secretary of Louisiana Works, or his designee; the state Superintendent of Education, or his
+designee; the commissioner of Higher Education, or his designee; the president of the
+Louisiana Community and Technical Colleges, or his designee; the chairman of the
+Workforce Investment Council, or his designee; and representatives of industry sectors
+designated as priority industries by the Louisiana Workforce Investment Council and
+presidents or senior staff representing statewide business or industry associations
+headquartered in Louisiana.
+Proposed law provides for the collaborative to review proposed decisions and to issue
+written recommendations to the State Board of Elementary and Secondary Education prior
+to and as a condition of BESE's action.
+Proposed law provides for the collaborative to establish, maintain, and update a statewide
+priority industry list identifying industry sectors in the state designated as priority industries
+for purposes of K-12 Jump Start pathway development and credential tier classification.
+Proposed law establishes the Louisiana Jump Start Career Diploma Program which is to be
+know as the "Louisiana Career Diploma" which will be issued by BESE to any student who
+successfully completes all requirements of an approved Louisiana Jump Start pathway.
+Proposed law provides for a four-stage developmental framework for K-12 career and
+technical education. The four stages are Stage I: Career Awareness (grades K-Six); Stage II:
+Career Exploration (grades Seven-Eight); Stage III: Career Concentration (grades Nine-10);
+and Stage IV: Career Completion (grades 11-12).
+Proposed law requires each student to have an individual career and academic plan
+beginning in the seventh grade. This will serve as the primary longitudinal career planning
+instrument connecting a student's activities to the student's selection of an approved K-12
+Jump Start pathway.
+Proposed law provides for career counseling and career coaching standards.
+Proposed law establishes pathway frameworks that must be maintained by the state
+Department of Education who must also publish a current list of all authorized Jump Start
+pathways.
+Proposed law provides for pathway tiers the collaborative must establish and maintain for
+authorized Jump Start pathways, assigning each pathway to tiers based on industry
+alignment, credential value, and postsecondary and occupational outcomes.
+Proposed law provides for a career major program in each authorized K-12 Jump Start
+pathway that constitutes the core academic and technical coursework sequence through
+which a student pursues a Career Diploma and the nine-credit Jump Start career and
+technical education course sequence.
+Proposed law provides for a work-based learning quality continuum, consisting of four
+levels organized from least to most intensive.
+Proposed law provides for the Jump Start pathway authorization application process which
+requires the LEA or regional team to submit a proposal to the collaborative seeking to
+establish an authorized Jump Start pathway. The authorization proposal mandates minimum
+requirements.
+Proposed law provides that rural local education agencies access when they are officially
+classified as a rural education agency by meeting one or more of the following criteria:
+(1) The local education agency is located in a parish where the population density, as
+Page 81 of 83
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-2719 ORIGINAL
+SB NO. 524
+determined from the most recently published federal decennial census data, is fewer
+than 100 persons per square mile.
+(2) The local education agency's total public K-12 student enrollment, as reported in the
+most recently published annual enrollment data of the state Department of Education,
+is fewer than 4,000 students.
+(3) The local education agency's primary service area has been classified as a rural
+locale under the National Center for Education Statistics, NCES, locale classification
+framework maintained by the United States Department of Education, specifically
+as Locale Code 41 Rural Fringe, 42 Rural Distant, or 43 Rural Remote, under the
+most recently published NCES locale classification data.
+Proposed law provides as a condition of Jump Start pathway authorization each local
+education agency shall maintain at least one postsecondary articulation agreement with at
+least one Louisiana public postsecondary institution, with priority given to community and
+technical colleges. The agreement shall be submitted as evidence of compliance in the Jump
+Start pathway authorization proposal. If an executed agreement is not in place at time of
+proposal submission, the local education agency shall submit a compliance timeline under
+proposed law.
+Proposed law requires each local education agency operating a public high school to provide
+each enrolled student access to career and technical education courses, including authorized
+Jump Start pathways offered pursuant to proposed law.
+Proposed law provides to develop and implement a Career Major Program, a local education
+agency can use the following program development methods:
+(1) System-wide development, in which the local education agency develops a uniform
+career major program across all schools under the agency's jurisdiction.
+(2) Consortium development, in which the local education agency collaborates with one
+or more other local education agencies or a regional team formed to jointly develop
+and deliver a Career Major Program.
+Proposed law requires the Jump Start Annual Data Report to be publicly available by March
+first of each year covering data from the prior academic year.
+Proposed law does not apply to the following:
+(1) Any student who, as of the effective date of this Subpart, is enrolled in a Career
+Major Program under the provisions of present law ( R.S. 17:183.1-R.S. 17:183.5)
+shall be entitled to complete that program and earn a Career Diploma under the
+requirements applicable at the time of the student's initial enrollment in the career
+major program.
+(2) Each Jump Start pathway, Career Major Program, or credential-bearing program that
+was authorized by the State Board of Elementary and Secondary Education under
+present law (R.S. 17:183.1-R.S. 17:183.5) shall continue in effect for a transitional
+period of not less than 18 months following the effective date of proposed law.
+(3) An Individual Graduation Plan established for a student under present law (R.S.
+17:2925) shall remain in effect and shall be honored for purposes of that student's
+graduation requirements, subject to the student's rights under proposed law. Nothing
+in proposed law must require a student to revise a prior Individual Graduation Plan
+solely as a result of the enactment of proposed law.
+(4) No credential earned by a student under present law (R.S. 17:183.1-R.S. 17:183.5)
+Page 82 of 83
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-2719 ORIGINAL
+SB NO. 524
+shall be invalidated, reclassified downward, or reduced in value for purposes of that
+student's diploma requirements solely by reason of the enactment of proposed law
+or the credential tier framework established in proposed law.
+Effective August 1, 2026.
+(Adds R.S. 17:189.1-189.20; repeals R.S. 17:183.1-183.5)
+Page 83 of 83
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.

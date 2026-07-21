@@ -1,0 +1,131 @@
+Title: 
+Official Title: 
+Source: versions - HB866 Original
+Media Type: application/pdf
+
+================================================================================
+
+HLS 26RS-835 ORIGINAL
+2026 Regular Session
+HOUSE BILL NO. 866
+BY REPRESENTATIVE DEWITT
+INSURANCE CLAIMS: Prohibits pharmacy benefit managers and managed care plans
+from reducing pharmacy reimbursements
+1 AN ACT
+2 To enact R.S. 22:1867.1, relative to the restrictions and prohibitions of pharmacy benefit
+3 managers and managed care plans for the reduction of pharmacy reimbursements;
+4 to provide for pharmacy benefit managers sanctions; to provide for definitions; and
+5 to provide for related matters.
+6 Be it enacted by the Legislature of Louisiana:
+7 Section 1. R.S. 22:1867.1 is hereby enacted to read as follows:
+8 §1867.1 Pharmacy benefit managers and managed care plans pharmacy
+9 reimbursement restrictions and prohibitions
+10 A. For purposes of this Section, the following definitions apply:
+11 (1) "Acquisition cost (NADAC)" has the same meaning as provided in R.S.
+12 22:1868.
+13 (2) "Effective rate pricing" has the same meaning as provided in R.S.
+14 22:1867.
+15 (3) "Managed care plan" has the same meaning as provided in R.S. 22:1007.
+16 (4) "Pass through pricing" means a transparent pharmacy benefit
+17 management (PBM) contract model where the amount a PBM or managed care plan
+18 pays a pharmacy for a drug is directly passed through to the health plan sponsor.
+19 (5) "Pharmacy benefit manager (PBM)" has the same meaning as provided
+20 in R.S. 22:1863.
+Page 1 of 4
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-835 ORIGINAL
+HB NO. 866
+1 (6) "Reimbursement Formula" has the same meaning as provided in R.S. 22:
+2 1868.
+3 (7) "Spread Pricing" has the same meaning as provided in R.S. 22:1863.
+4 (8) "Steering" has the same meaning as provided in R.S. 40:2870.
+5 B. Pharmacy benefit managers and managed care plans that contract or
+6 provide pharmacy benefit services shall not reimburse any pharmacy located in this
+7 state for any of the following amounts:
+8 (1) An amount less than the amount that is calculated using the
+9 reimbursement formula which shall include this state's professional dispensing fee.
+10 (2) An amount less than the amount that the PBM reimburses a PBM
+11 affiliate, subsidiary, other related entities for dispensing the same prescription drug
+12 as dispensed by the pharmacy.
+13 (3) An amount less than the most recently published NADAC for a
+14 prescription drug plus this state's professional dispensing fee on the date that the
+15 prescription drug is administered or dispensed.
+16 (4) An amount less than the NADAC plus this state's professional dispensing
+17 fee or wholesale acquisition cost plus this state's professional dispensing fee if the
+18 NADAC is unavailable on the date the prescription drug is administered or
+19 dispensed.
+20 C. A pharmacy benefit manager, in this state, may:
+21 (1) Adopt a reimbursement formula using either NADAC as the prescription
+22 drug pricing benchmark plus the state's professional dispensing fee or, with prior
+23 written approval by the commissioner, an alternative prescription drug pricing
+24 benchmark that results in claim payment errors that are both comparable to or less
+25 than NADAC in terms of frequency and smaller than NADAC in terms of
+26 magnitude; or
+27 (2) Adopt a reimbursement formula using an adjustment factor that, based
+28 on claims experience data available to the pharmacy benefit manager, is reasonably
+Page 2 of 4
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-835 ORIGINAL
+HB NO. 866
+1 expected to result in a claim payment error rate of no more than two percent per drug
+2 as identified by its national drug code.
+3 D. Pharmacy benefit managers and managed care plans that contract or
+4 provide pharmacy benefit services, in this state, are prohibited from the following:
+5 (1)(a) Spread Pricing
+6 (b) A PBM or managed care plan may use direct or indirect spread pricing
+7 only if the difference between the amount the third-party payor pays the PBM or
+8 managed care plan for a prescription drug and the amount the PBM or managed care
+9 plan reimburses the dispensing pharmacy or dispensing health care provider for the
+10 prescription drug is passed through by the PBM or managed care plan to the person
+11 contracted to receive third-party payor services.
+12 (2) Steering
+13 (3) Effective rate pricing
+14 (4) Using any other method, other than the methods outlined in this Section,
+15 to calculate reimbursement costs
+16 E. PBMs and managed care plans that contract or provide pharmacy benefit
+17 services, in this state, shall use pass-through pricing for every covered claim
+18 submitted.
+19 F. The failure of a pharmacy benefit manager to reimburse a pharmacy or
+20 pharmacist or his agent for the fees authorized in this Section shall be an act for
+21 which the pharmacy benefit manager or its agents may be sanctioned by the
+22 commissioner; which shall include, but is not limited to, fines in the amount of one
+23 hundred thousand dollars or more per violation within a calendar year.
+24 Section 2. All contracts executed, amended, adjusted, or renewed on or after
+25 July 1, 2026, that are applicable to prescription benefits on or after January 1, 2027,
+26 between a pharmacy benefit manager (PBM) or a managed care plan and a payor, or
+27 between a person and a payor, to use a pass-through pricing model with an exception
+28 as detailed in the bill, and to ensure that payments received by a PBM or managed
+Page 3 of 4
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-835 ORIGINAL
+HB NO. 866
+1 care plans for providing services to a payor or a pharmacy are used or distributed
+2 pursuant to the PBM’s or managed care plan's contract with the payor or with the
+3 pharmacy, or as otherwise required by law.
+DIGEST
+The digest printed below was prepared by House Legislative Services. It constitutes no part
+of the legislative instrument. The keyword, one-liner, abstract, and digest do not constitute
+part of the law or proof or indicia of legislative intent. [R.S. 1:13(B) and 24:177(E)]
+HB 866 Original 2026 Regular Session Dewitt
+Abstract: Prohibits pharmacy benefit managers and managed care plans from reducing
+pharmacy reimbursements. Requires pharmacy benefit managers and managed care
+plans to use the pass-through model to submit covered claims in this state.
+Proposed law prohibits pharmacy benefit managers and managed care plans from reducing
+pharmacy reimbursements by spread pricing, steering, or effective rate pricing.
+Proposed law restricts pharmacy benefit manager services from PBMs if the PBM and
+pharmacy are owned by the same company, including subsidiaries, affiliates, or other related
+entities.
+Proposed law provides guidelines for pharmacy reimbursements in this state.
+Proposed law limits the ways a PBM or a managed care plan reimburses a pharmacy.
+Proposed law adds dates of prescription benefit applicability to all contracts between PBMs,
+managed care plans, and a payor.
+(Adds R.S. 22:1867.1)
+Page 4 of 4
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.

@@ -1,0 +1,194 @@
+Title: 
+Official Title: 
+Source: versions - HB157 Original
+Media Type: application/pdf
+
+================================================================================
+
+HLS 26RS-637 ORIGINAL
+2026 Regular Session
+HOUSE BILL NO. 157
+BY REPRESENTATIVE COX
+TRADEMARKS/TRADE NAMES: Establishes a cause of action for misuse of artificial
+intelligence
+1 AN ACT
+2 To amend and reenact R.S. 51:470.2(introductory paragraph) and (3) through (12), 470.3(F),
+3 470.4(D) through (G), and 470.6(B) and to enact R.S. 51:470.2(13) and 470.4(H),
+4 relative to artificial intelligence; to provide for definitions; to establish a cause of
+5 action; to make technical changes; to provide for an effective date; and to provide
+6 for related matters.
+7 Be it enacted by the Legislature of Louisiana:
+8 Section 1. R.S. 51:470.2(introductory paragraph) and (3) through (12), 470.3(F),
+9 470.4(D) through (G), and 470.6(B) are hereby amended and reenacted and R.S.
+10 51:470.2(13) and 470.4(H) are hereby enacted to read as follows:
+11 §470.2. Definitions
+12 As used in this Subpart, the following words and phrases shall have the
+13 following meanings:
+14 * * *
+15 (3) "Artificial intelligence" means an artificial system developed in computer
+16 software, physical hardware, or other context that solves tasks requiring human-like
+17 perception, cognition, planning, learning, communication, or physical action.
+18 (4) "Commercial purposes" means the use of an individual's identity for any
+19 of the following purposes:
+20 (a) On or in connection with products, merchandise, goods, services,
+21 commercial activities, or performances.
+Page 1 of 6
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-637 ORIGINAL
+HB NO. 157
+1 (b) For advertising, soliciting, or promoting products, merchandise, goods,
+2 services, commercial activities, or performances.
+3 (c) For the purpose of fundraising.
+4 (4) (5) "Digital replica" means a computer-generated or electronic
+5 reproduction of a professional performer's likeness or voice that is so realistic as to
+6 be indistinguishable from the actual likeness or voice of the professional performer.
+7 "Digital replica" does not include the making or duplication of another recording that
+8 consists entirely of an independent fixation of other sounds, even though the sounds
+9 imitate or simulate the voice of the professional performer.
+10 (5) (6) "Expressive work" means such work as a play, book, magazine,
+11 newspaper, musical composition, audiovisual work, radio or television program,
+12 work of art, or a dramatic, literary, or musical work, if it is fictional or nonfictional
+13 entertainment, a work of political or newsworthy value, or an advertisement or
+14 commercial announcement for any of these works.
+15 (6) (7) "Identity" means an individual's name, voice, signature, photograph,
+16 image, likeness, or digital replica.
+17 (7) (8) "Individual" means a living natural person domiciled in Louisiana this
+18 state or a deceased natural person who was domiciled in Louisiana this state at the
+19 time of the individual's death.
+20 (8) (9) "Information content provider" means any person or entity that is
+21 responsible, in whole or in part, for the creation or development of information
+22 provided through the internet or any other interactive computer service.
+23 (9) (10) "Interactive computer service" means any information service,
+24 system, or access software provider that provides or enables computer access by
+25 multiple users to a computer server, including specifically a service or system that
+26 provides access to the internet and such systems operated or services offered by
+27 libraries or educational institutions.
+28 (10) (11) "Internet" means the international computer network of both
+29 federal and nonfederal interoperable packet switched data networks.
+Page 2 of 6
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-637 ORIGINAL
+HB NO. 157
+1 (11) (12) "Performance" means the use of a digital replica to substitute for
+2 a performance by a professional performer in a work in which the professional
+3 performer did not actually appear.
+4 (12) (13) "Professional performer" means an individual who, for gain or
+5 livelihood, is or was regularly engaged in acting, singing, dancing, playing a musical
+6 instrument, or appearing on a news broadcast as an anchor or reporter.
+7 * * *
+8 §470.3. Property right in an individual's identity
+9 * * *
+10 F. The rights provided by this Subpart apply to all individuals whether or not
+11 the individual died before, on, or after August 1, 2022. If the individual died before
+12 August 1, 2022, the rights are considered to have existed on and after the date the
+13 individual died. Notwithstanding the foregoing, a claim for a violation of an
+14 individual's identity rights may shall not be asserted under pursuant to this Subpart
+15 unless the alleged act or event of violation occurs after August 1, 2022. However,
+16 a claim for a violation of an individual's identity rights by artificial intelligence shall
+17 not be asserted pursuant to this Subpart unless the alleged act or event of violation
+18 occurs after August 1, 2026.
+19 * * *
+20 §470.4. Misappropriation of identity
+21 * * *
+22 D. It is a violation of this Subpart to use artificial intelligence to generate or
+23 create audiovisual work of an individual's identity for a commercial purpose without
+24 having first obtained consent from the individual or the individual's authorized
+25 representative.
+26 E. A person who does any of the following shall be deemed to have
+27 submitted to the jurisdiction of this state:
+28 (1) Engages in conduct within Louisiana this state that is prohibited under
+29 pursuant to this Subpart.
+Page 3 of 6
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-637 ORIGINAL
+HB NO. 157
+1 (2) Creates or causes to be created within this state products, merchandise,
+2 goods, services, or other materials prohibited under pursuant to this Subpart.
+3 (3) Transports or causes to be transported into this state products,
+4 merchandise, goods, or other materials created or used in violation of this Subpart.
+5 (4) Knowingly causes advertising or promotional material created or used
+6 in violation of this Subpart to be published, distributed, exhibited, or disseminated
+7 within Louisiana.
+8 E.(1) F.(1) In addition to any other remedy authorized by law, a person who
+9 violates an individual's identity rights may be liable for the greater of one thousand
+10 dollars and the actual damages, and to the extent not duplicative of the plaintiff's
+11 compensatory damages, the disgorgement of profits derived from the unauthorized
+12 use of the individual's identity. For purposes of calculating such profits, the plaintiff
+13 is only required to prove the gross revenue attributable to the unauthorized use, and
+14 the defendant is required to prove properly deductible expenses.
+15 (2) A court of competent jurisdiction may grant the plaintiff, in a proceeding
+16 under pursuant to this Section, a temporary restraining order or an order for
+17 injunctive relief.
+18 F. G. A court may award reasonable attorney fees, costs, and expenses to the
+19 prevailing party in an action under pursuant to this Subpart.
+20 G. H. Any suit arising out of the alleged offending use of a digital replica,
+21 expressive work, identity, or performance, or brought against a newspaper, broadcast
+22 outlet, media outlet, online news outlet, news publication, or other media pursuant
+23 to this Subpart shall be subject to the provisions of Code of Civil Procedure Article
+24 971, and any alleged violation of this Subpart shall be presumed an act in furtherance
+25 of a person's right of petition or free speech under the Constitution of the United
+26 States of America or the Constitution of Louisiana in connection with a public issue
+27 in accordance with Code of Civil Procedure Article 971.
+28 * * *
+Page 4 of 6
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-637 ORIGINAL
+HB NO. 157
+1 §470.6. Construction and applicability
+2 * * *
+3 B.(1) The property rights granted by this Subpart vest with an individual or
+4 the individual's authorized representative on August 1, 2022, except as provided by
+5 Paragraph (2) of this Subsection.
+6 (2) The property rights granted by this Subpart vest with an individual or the
+7 individual's authorized representative on August 1, 2026, if the claims result from
+8 misuse of an individual's identity by artificial intelligence.
+DIGEST
+The digest printed below was prepared by House Legislative Services. It constitutes no part
+of the legislative instrument. The keyword, one-liner, abstract, and digest do not constitute
+part of the law or proof or indicia of legislative intent. [R.S. 1:13(B) and 24:177(E)]
+HB 157 Draft 2026 Regular Session Cox
+Abstract: Establishes a cause of action for misuse of a person's identity by artificial
+intelligence.
+Present law (R.S. 51:470.2) defines "commercial purposes", "digital replica", "expressive
+work", "identity", "individual", "information content provider", "interactive computer
+service", "internet", "performance", and "professional performer".
+Proposed law retains present law and adds the definition of "artificial intelligence".
+Present law (R.S. 51:470.3(F)) establishes that rights provided by present law apply to
+actions occurring after Aug. 1, 2022.
+Proposed law retains present law but creates an exception that proposed law applies to
+actions occurring after Aug. 1, 2026, for claims arising out of the misuse of an individual's
+identity by artificial intelligence.
+Present law (R.S. 51:470.4) provides for certain actions which result in a person submitting
+to the jurisdiction of this state and authorizes certain remedies for damages.
+Present law provides that any suit arising out of the alleged offending use of a digital replica,
+expressive work, identity, or performance, or brought against a newspaper, broadcast outlet,
+media outlet, online news outlet, news publication, or other media is subject to a special
+motion to strike under present law, and any alleged violation is presumed an act in
+furtherance of a person's right of petition or free speech under the U.S. Constitution or the
+La. Constitution in connection with a public issue.
+Proposed law retains present law and establishes a claim for the use of artificial intelligence
+for a commercial purpose without an individual or an individual's authorized representative's
+consent.
+Present law (R.S. 51:470.6) provides an applicability date of Aug. 1, 2022, for property
+rights provided in present law.
+Page 5 of 6
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-637 ORIGINAL
+HB NO. 157
+Proposed law retains present law and establishes the applicability date of Aug. 1, 2026, for
+claims arising out of the misuse of an individual's identity by artificial intelligence.
+(Amends R.S. 51:470.2(intro. para.) and (3)-(12), 470.3(F), 470.4(D)-(G), and 470.6(B);
+Adds R.S. 51:470.2(13) and 470.4(H))
+Page 6 of 6
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.

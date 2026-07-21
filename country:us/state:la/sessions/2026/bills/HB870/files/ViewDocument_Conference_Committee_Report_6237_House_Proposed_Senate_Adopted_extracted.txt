@@ -1,0 +1,159 @@
+Title: 
+Official Title: 
+Source: versions - Conference Committee Report, #6237, House Proposed, Senate Adopted
+Media Type: application/pdf
+
+================================================================================
+
+CCRHB870 4902 6237
+CONFERENCE COMMITTEE REPORT
+HB 870 2026 Regular Session Turner
+May 29, 2026
+To the Honorable Speaker and Members of the House of Representatives and the Honorable
+President and Members of the Senate.
+Ladies and Gentlemen:
+We, the conferees appointed to confer over the disagreement between the two houses
+concerning House Bill No. 870 by Representative Turner, recommend the following
+concerning the Reengrossed bill:
+1. That Senate Committee Amendments Nos. 1 through 9 proposed by the Senate
+Committee on Insurance (#3313) be adopted.
+2. That Senate Committee Amendment No. 10 proposed by the Senate Committee on
+Insurance (#3313) be rejected.
+3. That all Senate Floor Amendment proposed by Senator Bass (#4071) be rejected.
+4. That the following amendments to the Reengrossed bill be adopted:
+AMENDMENT NO. 1
+On page 1, at the beginning of line 2, after "To" insert "amend and reenact R.S. 44:4.1(B)(11)
+and to"
+AMENDMENT NO. 2
+On page 1, line 5, after "definitions;" and before "and" insert "to provide for confidentiality;
+to provide for exception from public records;"
+AMENDMENT NO. 3
+On page 2, line 21, after "drug" and before "on" insert "and any other drug sharing its
+reference listed drug"
+AMENDMENT NO. 4
+On page 3, line 11, after "product" and before "on" insert "and any other biosimilar sharing
+its reference product"
+AMENDMENT NO. 5
+On page 3, after line 26, insert the following:
+"D.(1) A health insurance issuer may utilize net cost calculation in lieu of
+wholesale acquisition cost for purposes of determining placement on the drug
+formulary pursuant to this Section.
+(2) A health insurance issuer shall notify the commissioner in writing within
+thirty days if the health insurance issuer if the health insurance issuer opts to utilize
+the net cost calculation for a branded prescription drug in a drug formulary.
+(3) For each National Drug Code (NDC), the notification shall provide the
+following information for both the branded prescription drug and any available
+generic or biosimilar:
+(a) Wholesale acquisition cost.
+(b) Net cost.
+Page 1 of 4
+
+CCRHB870 4902 6237
+(4) The health insurance issuer shall provide the branded prescription drug
+cost-sharing amount and the cost-sharing amount if the generic or biosimilar was
+added to the drug formulary at a more favorable coverage tier.
+(5) The health insurance issuer shall include in the notification how the issuer
+is utilizing the rebate provided by the manufacturer of the branded prescription drug.
+E.(1) To ensure transparency regarding formulary decisions, the
+commissioner shall provide an annual report, providing a summary of the
+notifications pursuant to this Section, including an analysis of the overall impact on
+patient costs.
+(2) All information and data obtained by the department pursuant to this
+Subpart that is not otherwise publicly available is considered to be a trade secret,
+confidential, and proprietary, is not subject to disclosure pursuant to the Public
+Records Law, R.S. 44:1 et seq., and shall not be disclosed directly or indirectly.
+(3) The Department of Insurance shall impose the confidentiality protections
+of this Section on any third party that may receive or otherwise have access to this
+information.
+Section 2. R.S. 44:4.1(B)(11) is hereby amended and reenacted to read as follows:
+§4.1. Exceptions
+* * *
+B. The legislature further recognizes that there exist exceptions, exemptions,
+and limitations to the laws pertaining to public records throughout the revised
+statutes and codes of this state. Therefore, the following exceptions, exemptions, and
+limitations are hereby continued in effect by incorporation into this Chapter by
+citation:
+* * *
+(11) R.S. 22:2, 14, 31, 42.1, 88, 244, 263, 265, 461, 550.7, 550.22, 550.29, 550.30,
+571, 572, 572.1, 572.2, 574, 601.3, 618, 639, 691.4, 691.5, 691.6, 691.7, 691.8, 691.9,
+691.9.1, 691.10, 691.38, 691.56, 732, 752, 753, 771, 834, 972(D), 976, 1008, 1019.2, 1060.9,
+1203, 1276, 1460, 1464, 1466, 1483.1, 1488, 1546, 1559, 1566(D), 1644, 1656, 1657.1,
+1660.7, 1723, 1796, 1801, 1808.3, 1869, 1927, 1929, 1983, 1984, 2036, 2045, 2056, 2085,
+2091, 2293, 2303, 2508
+* * *"
+Respectfully submitted,
+Representative Christopher Turner Senator Kirk Talbot
+Representative Michael "Gabe" Firment Senator Adam Bass
+Representative Dustin Miller Senator Jimmy Harris
+Page 2 of 4
+
+CCRHB870 4902 6237
+CONFERENCE COMMITTEE REPORT DIGEST
+HB 870 2026 Regular Session Turner
+Keyword and oneliner of the instrument as it left the House
+INSURANCE/HEALTH: Provides relative to formulary placement and cost-sharing
+requirements for certain generic drugs and biosimilars
+Report adopts Senate amendments to:
+1. Define "net cost calculation".
+2. Make technical changes.
+Report rejects Senate amendments which would have:
+1. Required notice if a health insurance issuer uses net cost calculation for a branded
+prescription drug in a drug formulary in lieu of placing a generic or biosimilar on the
+drug formulary.
+2. Provided for the content of the required notice.
+3. Expanded the definition of "net cost calculation".
+4. Required reporting of certain net cost calculations.
+5. Provided for continuity of therapy for certain plan users.
+6. Provided for confidentiality of certain information provided to the Department of
+Insurance under provisions of proposed law.
+Report amends the bill to:
+1. Allow use of a net cost calculation in place of wholesale acquisition cost for purposes
+of determining drug formulary placement.
+2. Require notice if a health insurance issuer uses net cost calculation for a branded
+prescription drug in a drug formulary in lieu of placing a generic or biosimilar on the
+drug formulary.
+3. Provide for the content of the required notice.
+4. Require the inclusion any other generic drug sharing the reference listed generic drug
+to the plan's formulary.
+5. Require the inclusion any other biosimilar drug sharing the reference product of the
+biosimilar drug to the plan's formulary.
+6. Provide for confidentiality of certain information provided to the Department of
+Insurance.
+7. Add an exception from public records law.
+Digest of the bill as proposed by the Conference Committee
+Proposed law defines "biosimilar", "brand drug", "formulary", "generic drug", "net cost
+calculation", "reference listed drug", "reference product", and "wholesale acquisition cost".
+Page 3 of 4
+
+CCRHB870 4902 6237
+Proposed law mandates that health insurance issuers providing coverage for a reference listed
+drug must immediately include a newly marketed generic drug on the plan formulary with
+more favorable cost-sharing arrangements, provided that the wholesale acquisition cost of
+the generic drug is lower than that of the reference listed drug at the time of the generic
+drug's initial marketing date.
+Proposed law prohibits prior authorization, step therapy, or any other restrictions that would
+make accessing the generic drug more challenging than accessing the reference listed drug.
+Proposed law prohibits placing any limitations on the pharmacies through which an enrollee
+can obtain the generic drug.
+Proposed law continues to apply as long as the wholesale acquisition cost of the generic drug
+remains lower than that of the reference listed drug.
+Proposed law further requires health insurance issuers providing coverage for a reference
+product to immediately include at least one biosimilar on the formulary with more favorable
+cost-sharing when the biosimilar's wholesale acquisition cost is lower than that of the
+reference product at its initial marketing date. Similar to the provisions for generics,
+proposed law prohibits prior authorization, step therapy, or limitations that hinder access to
+the biosimilar compared to the reference product, along with prohibiting restrictions on the
+pharmacies that can dispense the biosimilar. Proposed law continues to apply as long as the
+biosimilar's wholesale acquisition cost remains lower than that of the reference product.
+Proposed law requires a notice to the commissioner of insurance if a health insurance issuer
+uses a net cost calculation for a branded prescription drug in a prescription drug formulary
+in lieu of placing a generic or biosimilar on the drug formulary. Proposed law further
+provides for what must be placed in the required notice.
+Proposed law provides that certain information provided to the Department of Insurance
+pursuant to proposed law is not subject to disclosure. Proposed law clarifies and strengthens
+that such information constitutes confidential, proprietary trade secret information and
+explicitly extends non-disclosure protections, including application to third parties with
+access to the information.
+Effective August 1, 2026.
+(Amends R.S. 44:4.1(B)(11); Adds R.S. 22:1060.9)
+Page 4 of 4

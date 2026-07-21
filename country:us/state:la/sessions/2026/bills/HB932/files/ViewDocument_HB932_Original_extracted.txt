@@ -1,0 +1,470 @@
+Title: 
+Official Title: 
+Source: versions - HB932 Original
+Media Type: application/pdf
+
+================================================================================
+
+HLS 26RS-1297 ORIGINAL
+2026 Regular Session
+HOUSE BILL NO. 932
+BY REPRESENTATIVE JORDAN
+INSURANCE: Creates the Louisiana Commercial Trucking Insurance Market Reform Act
+relative to captive insurers
+1 AN ACT
+2 To enact R.S. 22:550.33 through 550.53, relative to commercial trucking insurance; to create
+3 the Louisiana Commercial Trucking Insurance Market Reform Act; to provide for
+4 captive insurer contributions; to create the Louisiana Commercial Trucking Market
+5 Access Fund; to establish a small carrier group purchasing pool; to provide minimum
+6 reserve and surplus requirements for captive insurers; to require disclosure of
+7 insurance coverage in commercial trucking accident claims; to provide for direct
+8 action; to provide for enforcement, penalties, and administration; and to provide for
+9 related matters.
+10 Be it enacted by the Legislature of Louisiana:
+11 Section 1. R.S. 22:550.33 is hereby enacted to read as follows:
+12 §550.33. Short title
+13 A. The Legislature finds that:
+14 (1) Commercial trucking insurance premiums in Louisiana have increased
+15 significantly, with small and independent carriers bearing a disproportionate share
+16 of cost increases.
+17 (2) Large national trucking companies increasingly utilize captive insurance
+18 arrangements that allow them to exit the commercial insurance market and retain
+19 premium dollars rather than purchasing coverage in the commercial insurance
+20 market.
+Page 1 of 13
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1297 ORIGINAL
+HB NO. 932
+1 (3) The exit of high-quality risks through captive arrangements results in
+2 adverse selection and higher premiums for remaining market participants.
+3 (4) Small and independent Louisiana commercial trucking companies,
+4 including minority-owned and disadvantaged business enterprises, lack the scale to
+5 form captive arrangements and therefore bear the full cost burden of the commercial
+6 market.
+7 (5) Captive insurers covering Louisiana commercial trucking risks may
+8 maintain inadequate reserves to satisfy catastrophic claims, leaving injured Louisiana
+9 residents without adequate recovery.
+10 (6) Comprehensive market reform addressing adverse selection, expanding
+11 access for small carriers, establishing minimum solvency standards, and requiring
+12 coverage transparency serves the economic, safety, and equity interests of the state.
+13 B. The purpose of this Act is to:
+14 (1) Correct market distortion created by captive insurance adverse selection.
+15 (2) Expand affordable insurance access for small and minority-owned
+16 Louisiana commercial trucking companies.
+17 (3) Protect accident victims by ensuring captive insurers maintain adequate
+18 reserves.
+19 (4) Promote transparency in insurance coverage available to satisfy
+20 commercial trucking claims.
+21 §550.34. Definitions
+22 As used in this Section, the following terms shall have the meanings ascribed
+23 to them in this Section:
+24 (1) "Captive insurer" means any insurance entity, including a pure captive,
+25 group captive, risk retention group, or protected cell captive, that is owned or
+26 controlled by the insured entity or entities and that provides insurance coverage
+27 primarily or exclusively to the owner or member entities or their affiliates.
+28 (2) "Commissioner" means the Commissioner of the Louisiana Department
+29 of Insurance.
+Page 2 of 13
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1297 ORIGINAL
+HB NO. 932
+1 (3) "Commercial motor vehicle" means any motor vehicle used in commerce
+2 to transport passengers or property that:
+3 (a) has a gross vehicle weight rating or gross combination weight rating of
+4 10,001 pounds or more;
+5 (b) is designed to transport more than eight passengers, including the driver,
+6 for compensation; or
+7 (c) is used in the transportation of materials found to be hazardous under
+8 applicable federal or state law.
+9 (4) "Commercial trucking company" means any person or entity engaged in
+10 the business of transporting property by commercial motor vehicle for compensation
+11 within or through the State of Louisiana.
+12 (5) "Department" means the Louisiana Department of Insurance.
+13 (6) "Louisiana commercial trucking risk" means any risk of liability, cargo
+14 loss, physical damage, or bodily injury arising out of the operation of a commercial
+15 motor vehicle on Louisiana public roadways or arising out of commercial trucking
+16 operations within this state.
+17 (7) "Louisiana-domiciled commercial trucking company" means a
+18 commercial trucking company that:
+19 (a) maintains its principal place of business in Louisiana;
+20 (b) is registered with the Louisiana Secretary of State; or
+21 (c) operates more than fifty percent of its fleet miles within Louisiana.
+22 (8) "Market Access Fund" means the fund established pursuant to §550.36
+23 of this Act.
+24 (9) "Retained premium" means the portion of insurance premium attributable
+25 to Louisiana commercial trucking risks that is retained by a captive insurer and not
+26 ceded to an unaffiliated reinsurer.
+27 (10) "Small carrier" means a Louisiana-domiciled commercial trucking
+28 company that owns, operates, or leases fewer than twenty-five commercial motor
+29 vehicles.
+Page 3 of 13
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1297 ORIGINAL
+HB NO. 932
+1 §550.35. Scope of Application
+2 A. The provisions of this Part shall apply to any captive insurer that covers
+3 Louisiana commercial trucking risks, regardless of the state or jurisdiction in which
+4 the captive insurer is domiciled. As a condition of the right of any commercial
+5 trucking company utilizing a captive insurer to operate commercial motor vehicles
+6 on Louisiana public roadways or to conduct commercial trucking operations within
+7 Louisiana, the captive insurer shall comply with the contribution requirements of this
+8 Part.
+9 §550.36. Louisiana Commercial Trucking Market Access Fund
+10 A. There is hereby established within the state treasury a special fund to be
+11 designated the "Louisiana Commercial Trucking Market Access Fund," hereinafter
+12 referred to as the "Market Access Fund." The monies in the Market Access Fund
+13 shall be appropriated solely for the purposes set forth in this Section.
+14 B. The Department shall administer the Market Access Fund and shall adopt
+15 rules pursuant to the Administrative Procedure Act, R.S. 49:950 et seq., to
+16 implement the provisions of this Part, including rules establishing:
+17 (i) The methodology for calculating retained premium attributable to
+18 Louisiana commercial trucking risks;
+19 (ii) The process and timing for annual contributions;
+20 (iii) Audit rights and examination procedures;
+21 (iv) Penalties for non-compliance; and
+22 (v) Procedures for allocation of Fund resources to the Small Carrier Group
+23 Purchasing Pool established pursuant to Part IV of this Act.
+24 C. Interest earned on monies in the Market Access Fund shall be credited to
+25 the Fund. Unexpended balances in the Fund at the end of any fiscal year shall
+26 remain in the Fund and shall not revert to the general fund.
+27 §550.37. Annual Market Access Fund Contribution
+28 A. Every captive insurer covering Louisiana commercial trucking risks shall
+29 pay an annual Market Access Fund contribution equal to three percent of all retained
+Page 4 of 13
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1297 ORIGINAL
+HB NO. 932
+1 premium attributable to Louisiana commercial trucking risks for the preceding
+2 calendar year.
+3 B. The contribution required by this Section shall be due and payable to the
+4 Department on or before March 31 of each calendar year for the prior year's retained
+5 premium. The Department may, for good cause shown, grant an extension of not
+6 more than sixty days.
+7 C. A captive insurer that fails to timely pay the contribution required by this
+8 Section shall be subject to:
+9 (1) A late payment penalty equal to one percent of the unpaid contribution
+10 for each month or portion thereof that the contribution remains unpaid, not to exceed
+11 twelve percent in the aggregate; and
+12 (2) Suspension of the operating authority of any affiliated commercial
+13 trucking company to operate in Louisiana until the contribution, together with all
+14 applicable penalties and interest, is paid in full.
+15 D. The Department may, by rule, adjust the contribution rate set forth in
+16 Subsection (A) of this Section no more frequently than once every two years,
+17 provided that any adjustment shall be based on actuarial analysis of the adverse
+18 selection impact of captive arrangements on the Louisiana commercial trucking
+19 insurance market and shall not exceed five percent.
+20 §550.38. Annual Reporting
+21 A. Every captive insurer covering Louisiana commercial trucking risks shall
+22 file an annual report with the Department on or before March 31 of each year. The
+23 annual report shall include:
+24 (1) The total amount of insurance premium written for Louisiana commercial
+25 trucking risks during the preceding calendar year;
+26 (2) The total amount of premium ceded to unaffiliated reinsurers;
+27 (3) The retained premium subject to the Market Access Fund contribution;
+28 (4) A certification by a qualified actuary that the captive insurer maintains
+29 adequate reserves for Louisiana commercial trucking risks; and
+Page 5 of 13
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1297 ORIGINAL
+HB NO. 932
+1 (5) A list of all affiliated commercial trucking companies operating
+2 commercial motor vehicles in Louisiana.
+3 B. The Department may examine the books and records of any captive
+4 insurer that covers Louisiana commercial trucking risks to verify the accuracy of any
+5 annual report filed pursuant to this Section. The cost of such examination shall be
+6 borne by the captive insurer examined.
+7 §550.39. Establishment of small carrier group purchasing pool
+8 A. The Commissioner is hereby authorized and directed to establish, within
+9 one year of the effective date of this Act, the Louisiana Small Carrier Commercial
+10 Trucking Insurance Group Purchasing Pool, hereinafter referred to as the "Pool."
+11 B. The Pool shall be organized as a nonprofit association under the laws of
+12 Louisiana and shall be deemed a governmental entity for purposes of state
+13 purchasing and contracting laws. The Commissioner shall appoint an initial board
+14 of directors consisting of:
+15 (1) Three representatives of Louisiana-domiciled small carriers, at least one
+16 of whom shall be the owner or operator of a minority-owned commercial trucking
+17 company;
+18 (2) Two representatives of the Louisiana Department of Insurance;
+19 (3) One representative nominated by the Louisiana Trucking Association;
+20 and
+21 (4) One licensed insurer producer with experience in commercial trucking
+22 insurance.
+23 C. The Pool shall be funded initially from the Market Access Fund
+24 established pursuant to Part III of this Act. The Pool shall be designed to become
+25 actuarially self-sustaining within five years of establishment through pooled
+26 premium contributions from participating small carriers.
+27 §550.40. Eligibility and participation
+28 A. Participation in the Pool shall be available to any Louisiana-domiciled
+29 commercial trucking company that qualifies as a small carrier as defined in §550.34
+Page 6 of 13
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1297 ORIGINAL
+HB NO. 932
+1 of this Act.
+2 B. Participation in the Pool shall be voluntary. No small carrier shall be
+3 required to participate in the Pool as a condition of operating in Louisiana.
+4 C. Small carriers participating in the Pool shall:
+5 (1) Certify their Louisiana domicile and fleet size to the Pool administrator
+6 annually;
+7 (2) Pay premiums determined on an actuarially sound basis reflecting the
+8 pooled risk of Pool participants;
+9 (3) Comply with any safety and loss-control requirements established by the
+10 Pool board; and
+11 (4) Report all claims promptly to the Pool administrator.
+12 D. Small carriers that obtain coverage through the Pool shall be deemed to
+13 have satisfied all applicable Louisiana financial responsibility requirements for
+14 commercial motor vehicles covered under the Pool policy.
+15 §550.41. Minimum reserve requirements
+16 A. Every captive insurer covering Louisiana commercial trucking risks shall
+17 maintain, at all times, loss and loss adjustment expense reserves for Louisiana
+18 commercial trucking risks that are:
+19 (1) Calculated on an actuarially sound basis by a qualified actuary using
+20 methods and assumptions consistent with the Statement of Actuarial Opinion
+21 requirements applicable to admitted insurers under Louisiana law;
+22 (2) Not less than the greater of:
+23 (i) The amount indicated by the actuary's central estimate of ultimate liability
+24 for Louisiana commercial trucking claims;
+25 (ii) The seventy-fifth percentile of the actuarial range of such estimates; and
+26 (iii) Supported by liquid assets consisting of cash, investment-grade fixed
+27 income securities, or letters of credit from federally insured financial institutions
+28 with a face amount not less than the required reserve.
+29 B. A captive insurer that fails to maintain reserves meeting the requirements
+Page 7 of 13
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1297 ORIGINAL
+HB NO. 932
+1 of Subsection (A) shall notify the Department within thirty days of the actuary's
+2 determination and shall submit a plan to achieve compliance within ninety days.
+3 §550.42. Minimum Surplus
+4 A. In addition to the reserve requirements of §550.41 of this Act, every
+5 captive insurer covering Louisiana commercial trucking risks shall maintain a
+6 minimum policyholders' surplus of not less than five hundred thousand dollars
+7 ($500,000) attributable to Louisiana commercial trucking operations, or such greater
+8 amount as may be required by the Department based on the volume and severity of
+9 Louisiana trucking risks insured.
+10 B. The Commissioner shall promulgate rules establishing a risk-based surplus
+11 formula applicable to captive insurers with significant Louisiana commercial
+12 trucking exposure.
+13 § 550.43. Qualified actuary certification
+14 A. Every captive insurer subject to this Part shall obtain an annual opinion
+15 from a qualified actuary, as defined under R.S. 22:591 et seq., certifying that the
+16 reserves maintained for Louisiana commercial trucking risks meet the requirements
+17 of §550.41 of this Act.
+18 B. The actuary's opinion shall be filed with the Department as part of the
+19 annual report required under §550.38 of this Act. The opinion shall be provided in
+20 a form prescribed by the Commissioner.
+21 C. A captive insurer that fails to file the required actuarial opinion shall be
+22 subject to a civil penalty of not more than ten thousand dollars ($10,000) per day of
+23 noncompliance, not to exceed three hundred thousand dollars ($300,000) in the
+24 aggregate for any single violation.
+25 §550.44. Right to direct action.
+26 A. Notwithstanding any other provision of law, a claimant who obtains a final
+27 judgment against a commercial trucking company whose Louisiana commercial
+28 trucking risks are covered by a captive insurer may bring a direct action against the
+29 captive insurer to enforce the judgment to the extent of available coverage.
+Page 8 of 13
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1297 ORIGINAL
+HB NO. 932
+1 B. The direct action right provided in this Section shall not expand the limits
+2 of coverage available under the captive arrangement but shall ensure that available
+3 coverage may be accessed directly by judgment creditors without requirement of a
+4 separate proceeding against the commercial trucking company.
+5 §550.45. Mandatory disclosure at time of claim
+6 A. Within thirty days of receiving written notice of a claim arising out of a
+7 commercial trucking accident occurring in Louisiana, every commercial trucking
+8 company and every insurer, including any captive insurer, providing coverage to
+9 such company for Louisiana commercial trucking risks shall disclose in writing to
+10 the claimant or claimant's representative:
+11 (1) The identity of every insurer or captive insurer providing any coverage
+12 applicable to the claim;
+13 (2) The policy number, policy period, and limits of liability of each
+14 applicable policy or coverage agreement;
+15 (3) The name and contact information of the claims representative
+16 responsible for the claim;
+17 (4) Whether the coverage is provided through a captive insurer or
+18 self-insurance arrangement; and
+19 (5) The name and domicile of the captive insurer, if applicable.
+20 B. If a commercial trucking company is insured through a risk retention
+21 group or similar pooling arrangement, the disclosure required by this Section shall
+22 identify the pool or group and the applicable limits of liability.
+23 §550.46. Penalties for failure to disclose
+24 A. A commercial trucking company or insurer that fails to make the
+25 disclosures required by §550.45 within the time prescribed shall be subject to a civil
+26 penalty of not more than five thousand dollars ($5,000) per claim for which
+27 disclosure was required and not made, enforceable by the Department.
+28 B. Failure to disclose as required by §550.45 shall toll the statute of
+29 limitations for any claim against the commercial trucking company or its insurer
+Page 9 of 13
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1297 ORIGINAL
+HB NO. 932
+1 from the date written notice of claim was given until the date complete disclosure is
+2 made.
+3 C. A claimant may seek enforcement of the disclosure requirements of this
+4 Part in the district court of the parish in which the accident occurred. The court may
+5 award reasonable attorney's fees to a prevailing claimant.
+6 §550.47. Scope of disclosure obligation
+7 A. The disclosure obligation imposed by this Part shall apply regardless of
+8 any of the following:
+9 (a) whether the claimant has filed suit;
+10 (b) whether a reservation of rights has been issued by the insurer; or
+11 (c) whether coverage is disputed.
+12 B. Nothing in this Part shall be construed as an admission of coverage or
+13 liability by any commercial trucking company or captive insurer making the required
+14 disclosures.
+15 §550.48. Rulemaking authority
+16 The Commissioner shall have full authority to promulgate rules and
+17 regulations necessary to implement and administer the provisions of this Act
+18 pursuant to the Administrative Procedure Act, R.S. 49:950 et seq. Initial rules shall
+19 be promulgated within one hundred eighty days of the effective date of this Act.
+20 §550.49. Examinations
+21 The Department may examine the operations and records of any captive
+22 insurer, commercial trucking company, or Pool administrator subject to this Act. The
+23 Commissioner may engage independent examiners or actuaries at the expense of the
+24 entity being examined. Examinations shall be conducted in accordance with the
+25 procedures applicable to insurance company examinations under Title 22 of the
+26 Louisiana Revised Statutes.
+27 §550.50. Suspension of operating authority
+28 (A) Upon a finding that a commercial trucking company has failed to
+29 comply with the requirements of this Act or that a captive insurer covering the
+Page 10 of 13
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1297 ORIGINAL
+HB NO. 932
+1 company's Louisiana risks has failed to comply with the requirements of this Act, the
+2 Commissioner may petition the office having jurisdiction over the company's
+3 authority to operate commercial motor vehicles in Louisiana to suspend such
+4 authority pending compliance.
+5 (B) Any suspension under this Section shall be lifted within five business
+6 days of the Commissioner's certification that the deficiencies have been corrected.
+7 §550.51. Civil penalty schedule
+8 In addition to any other penalty provided by this Act, the Commissioner may
+9 impose civil penalties not to exceed the following amounts for violations of this Act:
+10 (1) Failure to file annual report under §550.38: $5,000 per month of
+11 noncompliance;
+12 (2) Failure to maintain required reserves under §550.41: $25,000 per
+13 examination finding;
+14 (3) Failure to maintain minimum surplus under §550.42: $10,000 per month
+15 of noncompliance;
+16 (4) Failure to disclose under §550.45: $5,000 per claim; and
+17 (5) Willful or fraudulent misrepresentation in any filing required under this
+18 Act: $50,000 per violation.
+19 Civil penalties collected under this Section shall be deposited into the Market
+20 Access Fund.
+21 §550.52. Severability
+22 If any provision of this Act or the application thereof to any person or
+23 circumstance is held invalid, such invalidity shall not affect other provisions or
+24 applications of this Act which can be given effect without the invalid provision or
+25 application, and to this end the provisions of this Act are hereby declared severable.
+26 §550.53. Applicability
+27 (A) Parts III and V of this Act shall apply to all captive insurers covering
+28 Louisiana commercial trucking risks for policy periods commencing on or after
+29 January 1, 2027.
+Page 11 of 13
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1297 ORIGINAL
+HB NO. 932
+1 (B) Part IV of this Act shall become operative twelve months after the
+2 effective date of this Act.
+3 (C) Part VI of this Act shall apply to all claims for which written notice is
+4 received on or after the effective date of this Act.
+5 Section 2. This Act shall become effective upon signature by the governor or, if not
+6 signed by the governor, upon expiration of the time for bills to become law without signature
+7 by the governor, as provided by Article III, Section 18 of the Constitution of Louisiana. If
+8 vetoed by the governor and subsequently approved by the legislature, this Act shall become
+9 effective on the day following such approval.
+DIGEST
+The digest printed below was prepared by House Legislative Services. It constitutes no part
+of the legislative instrument. The keyword, one-liner, abstract, and digest do not constitute
+part of the law or proof or indicia of legislative intent. [R.S. 1:13(B) and 24:177(E)]
+HB 932 Original 2026 Regular Session Jordan
+Abstract: Creates the Louisiana Commercial Trucking Insurance Market Reform Act,
+which establishes a framework for improving the commercial trucking insurance
+landscape in the state. Outlines requirements for captive insurer contributions and
+creates the Louisiana Commercial Trucking Market Access Fund. Introduces a
+small-carrier group purchasing pool, imposes reserve and surplus standards on
+captive insurers, and mandates the disclosure of insurance coverage in commercial
+trucking accident claims. Authorizes direct action against captive insurers and
+provides guidelines for enforcement, penalties, examinations, rulemaking, and
+applicability.
+Proposed law enacts R.S. 22:550.33 through 550.53 to create the Louisiana Commercial
+Trucking Insurance Market Reform Act.
+Proposed law provides legislative findings and states the purposes of the Act, including
+addressing adverse selection caused by captive insurance arrangements, expanding insurance
+access for small carriers, ensuring adequate reserves, and promoting coverage transparency.
+Proposed law defines key terms including “captive insurer”, “commercial motor vehicle”,
+“commercial trucking company”, “Louisiana commercial trucking risk”, “retained
+premium”, and “small carrier”.
+Proposed law applies to any captive insurer covering Louisiana commercial trucking risks,
+regardless of domicile, and conditions a trucking company’s authority to operate in
+Louisiana on compliance by its captive insurer.
+Proposed law creates the Louisiana Commercial Trucking Market Access Fund in the state
+treasury, administered by the Dept. of Insurance, and authorizes rulemaking for contribution
+methodology, audits, penalties, and allocation of fund resources.
+Page 12 of 13
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-1297 ORIGINAL
+HB NO. 932
+Proposed law requires each captive insurer covering Louisiana commercial trucking risks
+to pay an annual contribution equal to 3% of retained premium attributable to Louisiana
+risks, provides for due dates, extensions, penalties, and authorizes the Department to adjust
+the rate by rule based on actuarial analysis.
+Proposed law requires captive insurers to file an annual report including premium data,
+ceded reinsurance, retained premium, actuarial reserve certification, and a list of affiliated
+trucking companies operating in Louisiana, and authorizes examinations at the insurer’s
+expense.
+Proposed law establishes the Louisiana Small Carrier Commercial Trucking Insurance
+Group Purchasing Pool as a nonprofit association and governmental entity for procurement
+purposes, provides for board composition, initial funding from the Market Access Fund, and
+a five-year transition to actuarial self-sufficiency.
+Proposed law provides eligibility and participation requirements for small carriers, including
+domicile certification, actuarially based premiums, safety compliance, and claims reporting,
+and provides that coverage through the Pool satisfies Louisiana financial responsibility
+requirements.
+Proposed law establishes minimum reserve requirements for captive insurers, including
+actuarially sound calculations, minimum thresholds based on central estimates or percentile
+ranges, and support by liquid assets. Proposed law also requires a minimum policyholders'
+surplus of at least $500,000 attributable to Louisiana trucking operations and authorizes a
+risk based surplus formula.
+Proposed law requires an annual actuarial opinion certifying reserve adequacy and imposes
+penalties for failure to file.
+Proposed law authorizes a direct action against a captive insurer by a judgment creditor of
+a commercial trucking company, limited to available coverage.
+Proposed law requires disclosure of insurance coverage information within 30 days of
+written notice of a claim, including insurer identity, policy limits, claims contacts, and
+captive insurer details, and provides for penalties, tolling of prescription, and enforcement
+in district court.
+Proposed law authorizes rulemaking, examinations, suspension of operating authority for
+noncompliance, and establishes a civil penalty schedule, directing collected penalties to the
+Market Access Fund.
+Proposed law provides severability and applicability dates for various Parts of the Act.
+Effective upon signature of governor or lapse of time for gubernatorial action.
+(Adds R.S. 22:550.33-550.53)
+Page 13 of 13
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
