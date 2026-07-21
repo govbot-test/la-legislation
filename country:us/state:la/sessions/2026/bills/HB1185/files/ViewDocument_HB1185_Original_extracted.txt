@@ -1,0 +1,344 @@
+Title: 
+Official Title: 
+Source: versions - HB1185 Original
+Media Type: application/pdf
+
+================================================================================
+
+HLS 26RS-2602 ORIGINAL
+2026 Regular Session
+HOUSE BILL NO. 1185
+BY REPRESENTATIVE MILLER
+MEDICAID: Provides for other rural hospital reimbursement payments and directed
+payments
+1 AN ACT
+2 To enact Part V-B of Subchapter B of Chapter 5-D of Title 40, to be comprised of R.S.
+3 40:1190.1 through 1190.5, relative to payment methodologies for hospitals; to
+4 provide for legislative findings; to provide for definitions; to provide for
+5 reimbursements and directed payments for other rural hospitals; to provide for the
+6 promulgation of rules; to provide for duties of the Louisiana Department of Health;
+7 to provide for applicability; to provide for an effective date; and to provide for
+8 related matters.
+9 Be it enacted by the Legislature of Louisiana:
+10 Section 1. Part V-B of Subchapter B of Chapter 5-D of Title 40, to be comprised of
+11 R.S. 40:1190.1 through 1190.5, is hereby enacted to read as follows:
+12 PART V-B. PRESERVATION ACT FOR OTHER RURAL HOSPITALS
+13 §1190.1. Short title
+14 This Part may be cited as the "Preservation Act For Other Rural Hospitals".
+15 §1190.2. Legislative findings; purpose
+16 The legislature finds that:
+17 (1) Small rural hospitals provide most of the healthcare services required by
+18 a substantial number of low-income rural residents living in the state and therefore
+19 constitute an invaluable part of the healthcare delivery system of the state.
+Page 1 of 10
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-2602 ORIGINAL
+HB NO. 1185
+1 (2) Residents living in rural areas of the state, which consist of sixty-four
+2 percent of the state's parishes, are in poorer health than residents living in the urban
+3 areas of the state and lack adequate public transportation.
+4 (3) Other small rural hospitals are in poor financial condition as a result of
+5 payment reductions in the Medicare and Medicaid programs and as a result of the
+6 advent and penetration of managed care in the state.
+7 (4) Other rural hospitals have a difficult time attracting physicians to practice
+8 in their service areas, thereby resulting in a continued shortage of primary health care
+9 in the state's rural areas.
+10 (5) Reductions in the Medicare and Medicaid programs, changes in
+11 healthcare reimbursement methodologies, and the spread of managed care could
+12 cause the closure of many of the state's other rural hospitals, thereby jeopardizing the
+13 very existence of a vital link in the healthcare delivery systems for residents residing
+14 in rural areas of the state.
+15 (6) Other rural hospitals often constitute the largest single employer of
+16 residents in areas served by them and thus constitute a vital component of many rural
+17 parish economies.
+18 (7) The enactment of the Rural Hospital Preservation Act has preserved
+19 Louisiana's rural hospitals, a key component of the state's healthcare safety net which
+20 is essential to ensuring access to healthcare for Louisiana's rural residents, and other
+21 rural hospitals require the same efforts to survive.
+22 (8) The Preservation Act for Other Rural Hospitals requires the Louisiana
+23 Department of Health to maximize Medicaid reimbursement to other rural hospitals
+24 comparable to rural hospitals.
+25 (9) Congress has established a federal cap on each state's allotment of
+26 Medicaid disproportionate share reimbursement and Louisiana's disproportionate
+27 share expenditures has reached the federal cap.
+28 (10) It is in the state's interest to reduce unreimbursed costs at other rural
+29 hospitals by increasing Medicaid reimbursement for inpatient and outpatient services
+Page 2 of 10
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-2602 ORIGINAL
+HB NO. 1185
+1 at other rural hospitals, including costs associated with services provided at rural
+2 health clinics that are licensed as part of other rural hospitals.
+3 (11) Increasing inpatient and outpatient reimbursement under Medicaid at
+4 other rural hospitals will increase the disproportionate share hospital funding
+5 available to the state for non-rural, hospital-related disproportionate share hospital
+6 payments, thereby permitting the state to meet additional hospital-related
+7 uncompensated care needs.
+8 §1190.3. Definitions
+9 As used in this Part, the following terms have the meaning ascribed in this
+10 Section unless the context clearly indicates otherwise:
+11 (1) "Department" means the Louisiana Department of Health or its successor
+12 in the role of designated state agency under Title XIX of the Social Security Act or
+13 any successor Act including but not limited to block grants or other funding for
+14 medical care of the poor.
+15 (2) "Emergency medical condition" means acute symptoms of sufficient
+16 severity such that the absence of immediate medical attention could reasonably be
+17 expected to result in any one or more of the following:
+18 (a) Placing the health of the individual in serious jeopardy, including the
+19 health of the unborn child in the case of a pregnant woman.
+20 (b) Serious impairment to any bodily function.
+21 (c) Serious dysfunction of any bodily part.
+22 (3) "Health care provider" means a person, corporation, facility, or institution
+23 licensed by the state to provide health care or professional services as a physician,
+24 nurse, or allied health professional.
+25 (4) "Other rural hospital" means a hospital licensed by the department which
+26 has no more than sixty hospital beds, excluding distinct part psychiatric unit beds,
+27 distinct part rehabilitation unit beds, and nursery bassinets, as of October 1, 2024,
+28 and meets all of the following criteria:
+Page 3 of 10
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-2602 ORIGINAL
+HB NO. 1185
+1 (a) Is not located within one of Louisiana's metropolitan statistical areas
+2 (MSA) as delineated in Office of Management and Budget Bulletin No. 23-01.
+3 (b) Has an operational emergency room.
+4 (c) Is located in a municipality with a population of less than twenty-three
+5 thousand as measured by the latest federal decennial census.
+6 (d) Is not a rural hospital as defined in R.S. 40:1189.3, a long-term care
+7 hospital, a rehabilitation hospital, or a free-standing psychiatric hospital.
+8 (5) "Prospective rate approximating cost" means the median cost of an other
+9 rural hospital providing inpatient acute or inpatient psychiatric services plus ten
+10 percent, which cost has been inflated by the Medicare market basket inflation factor
+11 to the midpoint of the state's fiscal year in which services may be furnished. The
+12 median cost and rates shall be re-based by the department at least every other year
+13 using the most current other rural hospital cost reports on file with the department.
+14 (6) "Reasonable cost" means the cost of hospital outpatient services,
+15 including without limitation provider-based rural health clinics, utilizing Medicare
+16 cost reimbursement principles applicable to the respective other rural hospital,
+17 including hospital-based rural health clinics licensed at hospital departments. In the
+18 event a more limited definition of reasonable cost is required to obtain federal
+19 approval for the related state plan amendment for those other rural hospitals that are
+20 reimbursed under Medicare's Prospective Payment System, hereinafter referred to
+21 in this Part as "PPS", the department shall utilize the most liberal definition of
+22 "reasonable cost" for such rural PPS hospitals that is acceptable to the United States
+23 Department of Health and Human Services, Centers for Medicare and Medicaid
+24 Services, hereinafter referred to in this Part as "CMS".
+25 (7) "Rural hospital" means a hospital defined in R.S. 40:1189.3.
+26 (8) "State plan for medical assistance" means the plan promulgated by the
+27 department in accordance with its role as designated state agency under Title XIX
+28 of the Social Security Act, or its successor plan, including but not limited to any plan
+Page 4 of 10
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-2602 ORIGINAL
+HB NO. 1185
+1 adopted pursuant to any federal law creating block grants or other funding for
+2 medical care of the poor.
+3 §1190.4. Medical assistance programs; other rural hospital reimbursement
+4 A. The department shall adopt rules and regulations in accordance with the
+5 Administrative Procedure Act that provide the following:
+6 (1) Allow an other rural hospital to certify as a contributing public agency,
+7 public funds as representing expenditures eligible for federal financial participation
+8 in the Medicaid program to the extent authorized by federal law. The expenditure of
+9 such funds shall be in accordance with rules promulgated by the department.
+10 (2)(a) Maximize funding for services rendered by other rural hospitals to the
+11 extent allowed by federal law, comparable to funding for services rendered by rural
+12 hospitals, and in amounts that may be appropriated by the legislature relative to the
+13 use of Medicaid reimbursement. To the extent that intergovernmental transfers and
+14 the certification of eligible expenditures are available for recognition of state match
+15 for such Medicaid reimbursement, the department shall maximize the use of such
+16 amounts for the benefit of other rural hospitals to increase access to health care for
+17 Medicaid and LaCHIP beneficiaries as well as indigent individuals.
+18 (b) Notwithstanding any provision of law to the contrary, by September 1,
+19 2026, the department shall file a state plan amendment with CMS amending the
+20 Medicaid state plan provisions governing Medicaid hospital reimbursement to
+21 provide that an other rural hospital, as defined in R.S. 40:1190.3, shall be reimbursed
+22 at a rate, comparable to rural hospitals, which equals or approximates one hundred
+23 ten percent, or, if a reduction is required by CMS, the maximum amount acceptable
+24 to CMS, but in no event less than one hundred percent of the appropriate reasonable
+25 cost of providing hospital inpatient and outpatient services, including but not limited
+26 to services provided in rural health clinics licensed as part of an other rural hospital.
+27 The new payment methodology for other rural hospitals shall utilize prospective
+28 rates approximating costs at the time of service for inpatient acute and psychiatric
+29 services. To ensure that outpatient services at other rural hospitals are reimbursed
+Page 5 of 10
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-2602 ORIGINAL
+HB NO. 1185
+1 in the aggregate at one hundred ten percent of the reasonable costs or such lesser
+2 amounts as approved by CMS, but in no event less than one hundred percent of their
+3 reasonable costs, the department shall pay an interim rate for cost-based outpatient
+4 services at one hundred ten percent of reasonable cost during the year and for fee-
+5 based services paid on a claim-by-claim basis, and the department shall make
+6 quarterly estimates of a supplemental payment required to bring the hospital's
+7 reimbursement for such services up to one hundred percent of reasonable costs and
+8 immediately remit such payments to the hospital and at final settlement pay such
+9 amounts as necessary to ensure that all outpatient services in the aggregate, cost
+10 based and fee schedule, are paid at one hundred ten percent of reasonable costs.
+11 (c) On an expedited basis, the department shall take all steps necessary and
+12 available to obtain CMS approval for the state plan amendment and shall,
+13 immediately upon notification of such approval, promulgate an emergency rule to
+14 implement the state plan amendment.
+15 (d) Once the outpatient cost-based reimbursement payment methodology is
+16 implemented, the department shall set and monitor interim payment rates to
+17 minimize the amount of annual cost settlements.
+18 (e) For cost reporting periods ending after July 1, 2026, the department shall
+19 pay, at least comparable to such payment to rural hospitals, seventy-five percent of
+20 interim other rural hospital outpatient cost report settlement amounts due and one
+21 hundred percent of final other rural hospital outpatient cost report settlement
+22 amounts due within fourteen days of receipt by the department of such reports from
+23 the Medicaid audit contractor.
+24 (f) The new payment methodology for other rural hospitals shall be effective
+25 for services provided on or after July 1, 2026, or as soon thereafter as may be
+26 permitted by federal law.
+27 (3)(a) Effective for services provided on or after July 1, 2026, or as soon
+28 thereafter as may be permitted by federal law, the department shall develop and
+29 implement, by emergency rule, a payment methodology comparable to the payment
+Page 6 of 10
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-2602 ORIGINAL
+HB NO. 1185
+1 methodology for rural hospitals, including but not limited to directed payments,
+2 which optimizes Medicaid inpatient and outpatient payments to other rural hospitals.
+3 Payments shall be developed utilizing available Medicare upper payment limits,
+4 average commercial rates, or other standard for inpatient and outpatient services in
+5 accordance with state and federal law. Calculated payments shall be distributed to
+6 qualifying other rural hospitals no less than quarterly, or as authorized by federal
+7 law.
+8 (b) After federal funds are optimized, the remaining appropriated funds for
+9 other rural hospitals may be utilized to develop a state-only funded program to
+10 provide direct funds to qualifying other rural hospitals to support access to services
+11 that would not be available otherwise. In the event the amount appropriated for such
+12 state-only funded program is insufficient in any state fiscal year to meet the total
+13 payments required by all other rural hospitals to recover payment reductions, the
+14 payments to qualifying other rural hospitals pursuant to this state-only funded
+15 program may be reduced proportionately.
+16 (c) The department shall review Medicaid and uninsured cost information,
+17 payment information, patient charges, and hospital financial statements to the extent
+18 required by state or federal law to determine the optimal combination of payments.
+19 (d) Other rural hospitals that do not provide the minimum set of
+20 documentation required in Subparagraph (3)(c) of this Paragraph to determine the
+21 optimal combination of payments shall not be eligible for additional payments.
+22 (e) The department is hereby authorized to publish and promulgate rules in
+23 accordance with the Administrative Procedure Act to implement the provisions of
+24 this Paragraph.
+25 B. The rules promulgated pursuant to Subsection A of this Section shall be
+26 promulgated no later than one hundred twenty days after August 15, 2026. No later
+27 than one hundred twenty days after August 15, 2026, the department shall also
+28 submit to the secretary of the United States Department of Health and Human
+29 Services those amendments to the state plan for medical assistance necessary to
+Page 7 of 10
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-2602 ORIGINAL
+HB NO. 1185
+1 conform the state plan for medical assistance with the provisions of Subsection A of
+2 this Section.
+3 §1190.5. Separate funding
+4 Notwithstanding any provision of law to the contrary, annual funding for
+5 other rural hospitals shall be subject to a separate annual appropriation by the
+6 legislature and shall not be funded from any current or future reimbursement pool,
+7 program, or other funding for other rural hospitals.
+8 Section 2. This Act applies to Other Rural Hospitals as defined in state plan
+9 amendment TN 24-0022, which became effective September 17, 2024. With respect to
+10 reconciliation of managed care of state directed payments made to these hospitals under the
+11 preprint approved by CMS on November 7, 2024, applicable to state fiscal year July 1, 2024
+12 through June 30, 2025, the department shall ensure that these hospitals realize the net
+13 economic benefit they would have received had state plan amendment TN 24-0022 been
+14 effective July 1, 2024.
+15 Section 3. The Louisiana Law Institute is hereby authorized and directed to re-
+16 designate Part Vof Subchapter B of Chapter 5-D of Title 40 comprised of R.S. 40:1189.1
+17 through 1189.7 as Part V-A of Subchapter B of Chapter 5-D of Title 40.
+18 Section 4. This Act shall become effective upon signature by the governor or, if not
+19 signed by the governor, upon expiration of the time for bills to become law without signature
+20 by the governor, as provided by Article III, Section 18 of the Constitution of Louisiana. If
+21 vetoed by the governor and subsequently approved by the legislature, this Act shall become
+22 effective on the day following such approval.
+DIGEST
+The digest printed below was prepared by House Legislative Services. It constitutes no part
+of the legislative instrument. The keyword, one-liner, abstract, and digest do not constitute
+part of the law or proof or indicia of legislative intent. [R.S. 1:13(B) and 24:177(E)]
+HB 1185 Original 2026 Regular Session Miller
+Abstract: Provides for other rural hospital reimbursement payments and directed payments.
+Proposed law enacts the "Preservation Act For Other Rural Hospitals".
+Page 8 of 10
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-2602 ORIGINAL
+HB NO. 1185
+Proposed law defines "other rural hospitals" as a hospital licensed by the La. Dept. of Health
+(LDH) which has no more than 60 hospital beds, excluding distinct part psychiatric beds,
+distinct part rehabilitation unit beds, and nursery bassinets as of October 1, 2024. The
+definition also requires "other rural hospitals" to meet all of the following criteria:
+(1) Is not located within one of La.'s metropolitan statistical areas.
+(2) Has an operational emergency room.
+(3) Is located in a municipality with a population of less than 23,000 as measured by the
+latest federal decennial census.
+(4) Is not a rural hospital as defined in statute, a long-term care hospital, a rehabilitation
+hospital, or a free-standing psychiatric hospital.
+Proposed law allows other rural hospitals to certify as a public agency representing
+expenditures eligible for federal financial participation in the Medicaid program to the extent
+authorized by federal law.
+Proposed law directs LDH to maximize funding for services rendered by other rural
+hospitals (as allowed by federal law) in amounts that may be appropriated by the legislature
+relative to the use of Medicaid reimbursement. Directs LDH to maximize the use of
+intergovernmental transfers (IGT) and certification of eligible expenditures that are available
+for state match for Medicaid reimbursement in order to increase access to health care for
+Medicaid and LaCHIP beneficiaries.
+Proposed law directs LDH to file a state plan amendment with CMS amending the Medicaid
+state plan provisions governing Medicaid hospital reimbursement. The plan shall reimburse
+other rural hospitals at a rate comparable to a rural hospital, equal or approximate to 110%.
+If a reduction is required by CMS, LDH may reduce reimbursement to no less than 100%
+of the appropriate reasonable costs of providing hospital inpatient and outpatient services.
+Requires the new payment methodology to utilize prospective rates approximating costs at
+the time of service of inpatient acute and psychiatric services.
+Proposed law requires LDH to pay an interim rate for cost-based outpatient services at 110%
+of reasonable cost during the year. Requires fee-based services to be paid on a claim-by-
+claim basis and requires LDH to make quarterly estimates of supplemental payments
+required to bring the other rural hospitals' reimbursement to 100% of reasonable costs.
+Requires final settlement to the other rural hospitals to ensure that all outpatient services in
+the aggregate are paid at 110% of reasonable costs.
+Proposed law requires that for cost reporting periods ending after July 1, 2026, LDH shall
+pay 75% of interim other rural hospital outpatient cost report settlement amounts due and
+100% of final other rural hospital outpatient cost report settlement amounts due within 14
+days of receipt by LDH of such reports from the Medicaid audit contractor.
+Proposed law provides for a new payment methodology for other rural hospitals to be
+effective on or after July 1, 2026, or as soon as permitted by federal law. Directs LDH to
+promulgate rules to implement the reimbursement structure. Requires the rules to be
+promulgated no later than 120 days after August 15, 2026. Further requires LDH to
+promulgate emergency rules upon CMS approval of the state plan amendment.
+Proposed law requires that after federal funds are optimized, LDH may develop a state-only
+funded program to provide direct funds to qualifying other rural hospitals to support access
+to services that would otherwise not be available.
+Page 9 of 10
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HLS 26RS-2602 ORIGINAL
+HB NO. 1185
+Proposed law requires annual funding for other rural hospitals to a separate annual
+appropriation by the legislature. Other rural hospitals shall not be funded by current or
+future reimbursement pool, program, or other funding for other rural hospitals.
+Proposed law requires LDH to review Medicaid and uninsured cost information, payment
+information, patient charges, and hospital financial statements to the extent required by state
+or federal law to determine the optimal combination of payments. Other rural hospitals that
+do not provide the minimum set of documentation to LDH to determine optimal combination
+of payments shall not be eligible for additional payments.
+Effective upon signature of the governor or lapse of time for gubernatorial action.
+(Adds R.S. 40:1190.1 through 1190.5)
+Page 10 of 10
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.

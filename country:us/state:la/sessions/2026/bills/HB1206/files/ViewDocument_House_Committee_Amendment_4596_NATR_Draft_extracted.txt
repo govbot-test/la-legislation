@@ -1,0 +1,102 @@
+Title: 
+Official Title: 
+Source: versions - House Committee Amendment, #4596, NATR, Draft
+Media Type: application/pdf
+
+================================================================================
+
+HCAHB1206 4563 4596
+HOUSE COMMITTEE AMENDMENTS
+2026 Regular Session
+Substitute for Original House Bill No. 1206 by Representative Walters as proposed by the
+House Committee on Natural Resources and Environment
+This document reflects the content of a substitute bill but is not in a bill form; page
+numbers in this document DO NOT correspond to page numbers in the substitute bill
+itself.
+To enact R.S. 30:4(U) and Chapter 18 of Subtitle I of Title 30 of the Louisiana Revised
+Statutes of 1950, to be comprised of R.S. 30:1601 through 1603 and Chapter 24 of
+Subtitle II of Title 30 of the Louisiana Revised Statutes of 1950, to be comprised of
+R.S. 30:2591 and 2592, relative to data centers; to provide authority for the secretary
+of the Department of Energy and Conservation to monitor and regulate the
+withdrawal of groundwater and surface waters; to provide for water use permitting;
+to provide for public hearings; to provide for definitions; and to provide for related
+matters.
+Be it enacted by the Legislature of Louisiana:
+U. The secretary shall have the authority to monitor and regulate the
+withdrawal of groundwater and surface waters of the state, subject to the provisions
+of R.S. 30:98.1 et seq,, R.S. 30:1601 et seq., R.S. 38:3071 et seq,, R.S. 38:3091 et
+seq,, and R.S. 38:3097.1 et seq,
+* * *
+CHAPTER 18. DATA CENTERS
+§1601. Definitions
+As used in this Chapter the following term shall have the following meaning
+unless context clearly requires otherwise:
+"Data center" means a facility that is designed to have a load of one hundred
+megawatts or more and whose primary purpose is the storage, management, and
+processing of digital data via the interconnection and operation of information
+technology and network telecommunications equipment, including all related
+facilities and infrastructure for backup electricity generation, power distribution,
+environmental control, cooling, and security.
+Page 1 of 3
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HCAHB1206 4563 4596
+§1602. Permitting
+A. No data center shall commence operations without first obtaining a water
+use permit from the Department of Conservation and Energy.
+B. The secretary shall promulgate and adopt such rules and regulations as are
+necessary to implement this Section by August 31, 2027.
+§1603. Agricultural use exemption
+Notwithstanding any other provision of law to the contrary, nothing in this
+Chapter shall be construed to impact, burden, or impose regulatory requirements or
+fees upon agricultural water users. Agricultural water use, including but not limited
+to irrigation, livestock watering, and other customary agricultural and horticultural
+purposes, shall be explicitly exempt from any regulatory or administrative oversight
+established pursuant to this Chapter. Participation in programs or initiatives
+established in this Chapter by agricultural users shall be strictly voluntary and
+without a fee.
+* * *
+CHAPTER 24. DATA CENTERS
+§2591. Data center permitting; hearings
+A Permits issued by the department for data centers, as defined in R.S.
+30:1601, shall be subject to the requirements of R.S. 30:2017 and 2018 and the
+provisions of LAC 33:IX.3113, 3115, and 3117.
+§2592. Permit transparency
+The department shall assign a unique identifier to each data center project.
+Any permit associated with the data center project, regardless of the named applicant
+or entity seeking the permit, shall include the unique identifier.
+Section 2. The Department of Environmental Quality shall implement the provisions
+of R.S. 30:2592 as enacted by this Act within one year of the effective date of this Act.
+DIGEST
+The digest printed below was prepared by House Legislative Services. It constitutes no part
+of the legislative instrument. The keyword, one-liner, abstract, and digest do not constitute
+part of the law or proof or indicia of legislative intent. [R.S. 1:13(B) and 24:177(E)]
+Page 2 of 3
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.
+
+HCAHB1206 4563 4596
+HB Draft 2026 Regular Session
+Abstract: Provides authority for the secretary of the Dept. of Energy and Conservation to
+monitor and regulate the withdrawal of groundwater and surface waters and provides
+for water use permitting.
+Proposed law authorizes the secretary of the Dept. of Conservation and Energy to monitor
+and regulate the withdrawal of groundwater and surface waters of the state, subject to the
+provisions of present law and proposed law.
+Proposed law provides a definition for "data center".
+Proposed law provides for permitting of data centers by the Dept. of Conservation and
+Energy and for the secretary to promulgate rules and regulation necessary for permitting by
+Aug. 31, 2027.
+Proposed law provides an agricultural use exemption from the requirements applicable to
+data centers.
+Proposed law provides that permits issued by the Dept. of Environmental Quality for data
+centers are subject to the provisions of present law related to public hearings.
+Proposed law requires the Dept. of Environmental Quality to assign a unique identifier to
+data center projects and to include the identifier on all permits associated with a data center
+project and to have a protocol in place to implement the requirement for a unique identifier
+within one year of the effective date of proposed law.
+(Adds R.S. 30:4(U), 1601-1603, and 2591-2592)
+Page 3 of 3
+CODING: Words in struck through type are deletions from existing law; words underscored
+are additions.

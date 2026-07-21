@@ -1,0 +1,795 @@
+Title: 
+Official Title: 
+Source: versions - SB426 Reengrossed
+Media Type: application/pdf
+
+================================================================================
+
+SLS 26RS-1140 REENGROSSED
+2026 Regular Session
+SENATE BILL NO. 426 (Substitute of Senate Bill No. 168 by Senator Stine)
+BY SENATOR STINE
+BEHAVIORAL HEALTH. Provides relative to the Addictive Disorder Regulatory
+Authority. (2/3CA7s2.1(A)) (8/1/26)
+1 AN ACT
+2 To amend and reenact R.S. 37:3386.1, 3386.2(A), the introductory paragraph of 3386.2(B),
+3 and 3386.2(B)(5) and (6), the introductory paragraph of 3386.2(F)(1), and
+4 3386.2(G), 3387.1(A)(2)(b) through (d), 3387.2(A)(2)(b) through (d), 3387.3(B)(4),
+5 3387.6(E)(1) and (3) and (I), 3388.3, 3390.3(A)(11) and (B)(4) and 3390.6(A) and
+6 (B)(6) through (8) and R.S. 40:1203.3(E) and to enact R.S. 37:3386.2(B)(7) through
+7 (10) and (H), 3387.15, 3387.16, 3387.17, 3388.4, and 3390.6(B)(9), relative to the
+8 Addictive Disorder Regulatory Authority; to provide for the board's authority; to
+9 provide for board membership; to provide for definitions; to provide for scope of
+10 practice; to provide for peer support specialists; to provide for peer support specialist
+11 associates; to provide for peer support specialist supervisors; to provide for criminal
+12 background checks; to provide for renewals; to provide for fees; and to provide for
+13 related matters.
+14 Be it enacted by the Legislature of Louisiana:
+15 Section 1. R.S. 37:3386.1, 3386.2(A), the introductory paragraph of 3386.2(B), and
+16 3386.2(B)(5) and (6), the introductory paragraph of 3386.2(F)(1), and 3386.2(G),
+17 3387.1(A)(2)(b) through (d), 3387.2(A)(2)(b) through (d), 3387.3(B)(4), 3387.6(E)(1) and
+Page 1 of 23
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-1140 REENGROSSED
+SB NO. 426
+1 (3) and (I), 3388.3, 3390.3(A)(11) and (B)(4) and 3390.6(A) and (B)(6) through (8) are
+2 hereby amended and reenacted and R.S. 37:3386.2(B)(7) through (10) and (H), 3387.15,
+3 3387.16, 3387.17, 3388.4, and 3390.6(B)(9) are hereby enacted to read as follows:
+4 §3386.1. Definitions
+5 As used in this Chapter, the following terms have the meaning ascribed to
+6 them in this Section:
+7 (1) "Addiction counselor" means any person who is licensed, certified, or
+8 registered in accordance with the provisions of this Chapter and procedures
+9 established by the board and who, by means of his special knowledge acquired
+10 through formal education or practical experience, is qualified to provide addiction
+11 counseling services to those individuals afflicted with or suffering from an addictive
+12 disorder or certain co-occurring disorders. The counseling services provided shall be
+13 those which utilize KSA or core functions, as determined by the board to be
+14 appropriate for the addictive disorder or disorders presented.
+15 (2) "Addictive disorder" means the repeated pathological use of substances
+16 including but not limited to alcohol, drugs, or tobacco, or repeated pathological
+17 compulsive behaviors including but not limited to gambling, which cause physical,
+18 psychological, emotional, economic, legal, social, or other harms to the individual
+19 afflicted with the addiction or to others affected by the individual's affliction. As
+20 used in this Chapter, "addictive disorder" shall include not only those instances
+21 where withdrawal from or tolerance to the substance or behaviors are present but
+22 also those instances involving use and abuse of substances.
+23 (3) "Behavioral health condition" means a condition that affects an
+24 individual's emotional, psychological, cognitive, behavioral, or social
+25 functioning and may impact their ability to pursue health, wellness, recovery,
+26 and quality of life, and includes substance use-related conditions, mental health
+27 conditions, co-occurring conditions, trauma-related impacts, and patterns of
+28 behavior that create functional impairment, distress, or increased risk of harm
+29 to the individual or others.
+Page 2 of 23
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-1140 REENGROSSED
+SB NO. 426
+1 (3)(4) "Board" means the governing body of the Addictive Disorder
+2 Regulatory Authority.
+3 (4)(5) "Certified clinical supervisor" means any person holding the necessary
+4 credential of licensed, certified, or registered addiction counselor or any person who
+5 holds a specialty substance abuse credential in another professional discipline in a
+6 human services field at the master's level or higher; and who has satisfied the
+7 requirements established by the board to provide clinical supervision.
+8 (5)(6) "Client" means the individual, couple, family, group, organization, or
+9 community that seeks or receives addiction counseling services from the addiction
+10 professional or an addiction facility until discharged.
+11 (6)(7) "Clinical supervision" means the interpersonal tutorial relationship
+12 between a certified clinical supervisor and other licensed, certified, or registered
+13 addiction counseling professionals centered on the goals of skill development and
+14 professional growth through learning and practicing. Through observation,
+15 evaluation, and feedback, clinical supervision enables the supervisee to acquire the
+16 competence needed to deliver effective patient care while fulfilling professional
+17 responsibility. Clinical supervision is understood to emphasize improvement of the
+18 counseling skills and effectiveness of the supervisee and is to be distinguished from
+19 administrative supervision.
+20 (7)(8) "Compulsive gambling counselor" means any person holding a
+21 necessary credential as a licensed, certified, or registered addiction counselor, or a
+22 necessary credential as a qualified mental health professional, who is certified by the
+23 board, in accordance with the provisions of this Chapter, as possessing special
+24 knowledge acquired through formal education and clinical experience and thus is
+25 qualified to provide gambling addiction counseling to persons who have a gambling
+26 addiction disorder or who exhibit gambling addictive behaviors.
+27 (8)(9) "Co-occurring disorder" means a disorder in which an individual has
+28 at least one psychiatric disorder as well as an addictive disorder. While these
+29 disorders may interact differently in any one person, at least one disorder of each
+Page 3 of 23
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-1140 REENGROSSED
+SB NO. 426
+1 type can be diagnosed independently of the other.
+2 (9)(10) "Core functions" means the screening, intake, orientation, assessment,
+3 treatment planning, counseling, case management, crisis intervention, client
+4 education, referral, reports, and record-keeping activities associated with counseling
+5 and consultation with other credentialed professionals.
+6 (10)(11) "Counselor-in-training" means any person who has not yet met the
+7 qualification to become a licensed, certified, or registered counselor, but who has
+8 made application to the board in accordance with the provisions of this Chapter and
+9 procedures established by the board.
+10 (12) "Credentialing" means licensing, certification, registration, or
+11 recognition of status of an individual to provide mental health services in
+12 accordance with the provisions of this Chapter.
+13 (11)(13) "Custodial environment" means a setting created by a court system
+14 in which a person has been deprived of freedom of action in any significant way.
+15 (12)(14) "KSA" means the knowledge, skills, and attitudes designated by the
+16 board as being necessary for effective addiction counseling and required by the board
+17 to be utilized by addictive disorders counselors in providing addiction counseling
+18 services.
+19 (15) "Licensed mental health professional" means an individual who is
+20 currently licensed and in good standing in the state of Louisiana to practice
+21 within the scope of all applicable state laws, practice acts, and the individual's
+22 professional license, as one of the following:
+23 (a) Medical psychologist.
+24 (b) Licensed psychologist.
+25 (c) Licensed clinical social worker.
+26 (d) Licensed professional counselor.
+27 (e) Licensed marriage and family therapist.
+28 (f) Licensed addiction counselor.
+29 (g) Advanced practice registered nurse.
+Page 4 of 23
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-1140 REENGROSSED
+SB NO. 426
+1 (h) Licensed rehabilitation counselor.
+2 (16) "Peer support" means nonclinical, strengths-based activities and
+3 services provided by an individual in recovery from a behavioral health
+4 condition to a person experiencing a behavioral health condition. Such services
+5 are grounded in lived experience and include mentoring, guiding, and
+6 supporting individuals in the identification and implementation of recovery
+7 strategies through relationship-based support. Peer support utilizes shared
+8 experience to provide empathy, practical guidance, encouragement, and hope,
+9 and may include assistance with self-advocacy, goal setting, and engagement
+10 with treatment and community-based recovery supports. Peer support services
+11 complement but do not replace clinical treatment and shall not include
+12 diagnosis, clinical assessment, psychotherapy, or any service requiring
+13 professional licensure.
+14 (17) "Peer support specialist" means any person who is credentialed in
+15 accordance with the provisions of this Chapter and procedures established by
+16 the board and who, by means of his special knowledge acquired through formal
+17 education and lived experience, is qualified to provide behavioral health
+18 services to those individuals afflicted with or suffering from a behavioral health
+19 condition. The services provided shall be those which utilize support services or
+20 core functions, as determined by the board.
+21 (18) "Peer support specialist associate" is a status meaning any person
+22 who has not yet met the qualifications to become a peer support specialist, but
+23 who has made application to the board in accordance with the provisions of this
+24 Chapter and procedures established by the board.
+25 (19) "Peer support specialist supervisor" means any person holding the
+26 necessary credential of peer support specialist, licensed mental health
+27 professional, certified, or registered addiction counselor and who has satisfied
+28 the requirements established by the board to provide peer supervision.
+29 (13)(20) "Prevention" means those activities and services that prevent,
+Page 5 of 23
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-1140 REENGROSSED
+SB NO. 426
+1 reduce, or stabilize the incidence of addictive disorders and thereby prevent, reduce,
+2 or stabilize the prevalence of addictive disorders. The activities contemplated by this
+3 definition include services to those at risk of developing an addictive disorder as well
+4 as those individuals who, though not necessarily at risk of developing an addictive
+5 disorder, are nonetheless appropriate for services. In addition, prevention shall be
+6 understood to include educational programs and activities that are designed to raise
+7 the awareness of and encourage healthy behaviors.
+8 (14)(21) "Prevention specialist-in-training" means any person who has not
+9 yet met the qualifications to become a licensed, certified, or registered prevention
+10 professional, but who has made application to the board in accordance with the
+11 provisions of this Chapter and procedures established by the board.
+12 (15) "Qualified mental health professional" means:
+13 (a) A psychiatrist licensed pursuant to R.S. 37:1261 et seq.
+14 (b) A psychologist licensed pursuant to R.S. 37:2351 et seq., or a medical
+15 psychologist licensed pursuant to R.S. 37:1360.51 et seq.
+16 (c) A licensed clinical social worker licensed pursuant to R.S. 37:2701 et seq.
+17 (d) A mental health counselor licensed pursuant to R.S. 37:1101 et seq.
+18 (16)(22) "Substance abuse use disorder" means the repeated pathological use
+19 of drugs, including alcohol, which causes physical, psychological, economic, legal,
+20 or social harm to the individual user or to others affected by the user's behavior.
+21 §3386.2. Addictive Disorder Regulatory Authority
+22 A. The legislature hereby finds it appropriate that the responsibility and
+23 authority to regulate the practice of addictive disorder treatment, and prevention, and
+24 peer support shall be exercised by a licensing board created for that purpose. It is
+25 the intent of the legislature that a single authority issue and recognize
+26 credentials for addictive disorder counseling, prevention, and peer support
+27 professionals in Louisiana, and that such authority shall be the Addictive
+28 Disorder Regulatory Authority.
+29 B. The Addictive Disorder Regulatory Authority (ADRA) is hereby created
+Page 6 of 23
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-1140 REENGROSSED
+SB NO. 426
+1 within the Louisiana Department of Health. The ADRA shall be governed by a board
+2 of directors, referred to hereafter in this Chapter as the "board", consisting of eight
+3 eleven voting members, composed of one member appointed by the secretary of
+4 the Louisiana Department of Health to represent the office of behavioral health
+5 and ten members all of whom shall be appointed by the governor, subject to Senate
+6 confirmation, as follows:
+7 * * *
+8 (5) Three members from a list of nine names divided into three groups of
+9 three names each submitted by the Louisiana Association of Substance Abuse
+10 Counselors and Trainers, Inc. One member with a master's degree in addiction
+11 counseling, counseling, psychology, social work, or another human services field
+12 submitted by the president of the University of Louisiana at Lafayette.
+13 (6) One member with a master's degree in addiction counseling,
+14 counseling, psychology, social work, or another human services field submitted
+15 by the president of Louisiana State University.
+16 (7) One member with a master's degree in addiction counseling,
+17 counseling, psychology, social work, or another human services field submitted
+18 by the president of Southern University New Orleans.
+19 (8) One member with a master's degree in addiction counseling,
+20 counseling, psychology, social work, or another human services field submitted
+21 by the president of Northwestern State University.
+22 (9) One member who is a trained and recognized peer support specialist
+23 with a minimum of three years of experience as a peer support specialist
+24 providing peer support services to persons with addictive disorders.
+25 (6)(10) One member who is a consumer selected from the state at large.
+26 * * *
+27 F. Except for the consumer member, each member of the board shall at
+28 the time of appointment:
+29 (1) Be currently credentialed by the board.
+Page 7 of 23
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-1140 REENGROSSED
+SB NO. 426
+1 (2) Have no discliplinary history with the board.
+2 (3) Be eligible to provide supervised clinical services, mentor trainees, or
+3 participate in board-approved supervision structures.
+4 (4) Demonstrate competency in:
+5 (a) Addiction counseling and recovery-oriented care.
+6 (b) Co-occurring disorder treatment.
+7 (c) Evidence-based behavioral health practices.
+8 (5) Have familiarity with Louisiana's behavioral health infrastructure,
+9 including state agencies, parish level services, and community based recovery
+10 networks.
+11 F.G.(1) The consumer member of the board shall possess all of the following
+12 qualifications:
+13 * * *
+14 G.H. It is the intent of the legislature that the board exercise all regulatory
+15 jurisdiction over the credentialing and practice of addiction counselors, peer support
+16 specialists, prevention professionals, persons holding specialty certifications issued
+17 by the board, paraprofessionals authorized by this Chapter, and those in training to
+18 become addiction counselors and prevention professionals.
+19 * * *
+20 §3387.1. Certified addiction counselor; scope of practice
+21 A. * * *
+22 (2) * * *
+23 (b) The certified addiction counselor shall work only under the supervision
+24 of a licensed addiction counselor or qualified licensed mental health professional.
+25 (c) The certified addiction counselor shall register his supervisory licensed
+26 addiction counselor or qualified licensed mental health professional with the board.
+27 (d) Supervisory contact between the certified addiction counselor and the
+28 supervisory licensed addiction counselor or qualified licensed mental health
+29 professional shall be regular and documented, and shall be provided to the board
+Page 8 of 23
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-1140 REENGROSSED
+SB NO. 426
+1 upon request.
+2 * * *
+3 §3387.2. Registered addiction counselor; scope of practice
+4 A. * * *
+5 (2) * * *
+6 (b) The registered addiction counselor shall work only under the supervision
+7 of a licensed addiction counselor or other qualified licensed mental health
+8 professional.
+9 (c) The registered addiction counselor shall register his supervisory licensed
+10 addiction counselor or other qualified licensed mental health professional with the
+11 Addictive Disorder Regulatory Authority.
+12 (d) Supervisory contact between the registered addiction counselor and the
+13 supervisory licensed addiction counselor or qualified licensed mental health
+14 professional shall be regular and documented, and shall be provided to the board.
+15 * * *
+16 §3387.3. Counselor-in-training
+17 * * *
+18 B. * * *
+19 * * *
+20 (4) The counselor-in-training may work only under the direct supervision of
+21 a licensed addiction counselor, certified addiction counselor, or registered addiction
+22 counselor; or in the absence of a licensed, certified, or registered addiction counselor,
+23 under the direction of a qualified licensed mental health professional.
+24 * * *
+25 §3387.6. Certified compulsive gambling counselor
+26 * * *
+27 E. The board shall recognize as a certified compulsive gambling counselor
+28 each candidate who:
+29 (1) Is a licensed, certified, or registered addiction counselor, or who is a
+Page 9 of 23
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-1140 REENGROSSED
+SB NO. 426
+1 qualified licensed mental health professional.
+2 * * *
+3 (3) Does not have any pending disciplinary action with the board, or, in the
+4 case of a qualified licensed mental health professional, with the appropriate
+5 regulatory board.
+6 * * *
+7 I. The board shall revoke the certification for gambling counseling of any
+8 person who does not maintain the valid and current necessary credential of licensed,
+9 certified, or registered addiction counselor or qualified licensed mental health
+10 professional.
+11 * * *
+12 §3387.15. Peer support specialist; scope of practice
+13 A.(1) The practice of peer support within the meaning and intent of this
+14 Chapter shall consist of the supervised rendering of mentorship, guidance, and
+15 support services to individuals suffering from a behavioral health condition to
+16 assist them in gaining an understanding of the nature of their disorder and
+17 developing and maintaining a responsible lifestyle.
+18 (2) A peer support specialist shall not practice autonomously.
+19 Supervision shall be rendered by a licensed mental health professional or peer
+20 support specialist supervisor. A peer support specialist shall not render clinical
+21 services.
+22 (3) The scope of practice, in addition to any other applicable provision
+23 of this Chapter, shall include implementing strategic support, providing
+24 mentorship to family members, and as appropriate, to others affected by the
+25 individual's behavioral health condition.
+26 B. The board shall adopt and promulgate rules which govern peer
+27 support specialists in accordance with the provisions of this Chapter.
+28 C. Any person seeking to be certified by the board as a peer support
+29 specialist shall submit an application on a form and in a manner prescribed by
+Page 10 of 23
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-1140 REENGROSSED
+SB NO. 426
+1 the board. The initial application form shall be accompanied by an initial
+2 application fee as provided for in this Chapter.
+3 D. Upon investigation of the application, the board shall, within forty-
+4 five days, notify each candidate that the application is satisfactory and accepted
+5 or unsatisfactory and rejected. If an application is rejected, the notice shall state
+6 the reason for such rejection.
+7 E. The board shall recognize, as a peer support specialist, each candidate
+8 who:
+9 (1) Is a legal resident of the United States and at least eighteen years of
+10 age on the date the application is received.
+11 (2) Is not in violation of any ethical standards prescribed by the board.
+12 (3) If the applicant has lived experience with a behavioral health
+13 condition, has attested to at least twelve months of stability and is not currently
+14 engaged in acute treatment at the time the application is received.
+15 (4) Has not been convicted of, or entered a plea of guilty or a plea of nolo
+16 contendere to, a felony. However, the board may, in its discretion, waive this
+17 requirement upon review of the individual's circumstances. Each candidate
+18 shall sign a form prescribed by the board authorizing the board to obtain a
+19 criminal history or to conduct a criminal background check to be performed by
+20 the Bureau of Criminal Identification and Information. The bureau shall, upon
+21 request and after receipt of fingerprints and other identifying information from
+22 the board, make available to the board information contained in the bureau's
+23 criminal history record and identification files, which pertains to the individual
+24 applying to be licensed by the board as a peer support specialist. In addition, in
+25 order to determine the applicant's suitability for licensing, the bureau shall then
+26 forward the applicant's fingerprints to the Federal Bureau of Investigation for
+27 a national criminal history check. The results of the criminal history record
+28 check shall not be released to any other individual or agency outside of the
+29 board. The bureau shall charge a processing fee as provided in R.S.
+Page 11 of 23
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-1140 REENGROSSED
+SB NO. 426
+1 15:587(B)(1).
+2 (5) Signs a form of professional and ethical accountability and
+3 responsibility as prescribed by the board.
+4 (6) Demonstrates professional competence by passing a written
+5 examination.
+6 (a) The board shall determine the scope and administration of the
+7 examination.
+8 (b) The board may provide for circumstances under which a candidate
+9 who fails the examination, but who meets all other requirements, may retake
+10 the examination.
+11 (c) The board shall make reasonable accommodations for those
+12 candidates who demonstrate a special need or disability.
+13 (7) Documents the completion of education specific to the domains of
+14 peer support.
+15 (8) Documents the completion of supervision specific to domains of peer
+16 support and core functions under conditions as shall be determined by the
+17 board. The board may require that such supervision be conducted by an
+18 organization's documented and qualified supervisory staff per job description.
+19 F. The board may prescribe such other qualifications and requirements
+20 for peer support specialists as may be appropriate for the protection of the
+21 public or the enhancement of professional services provided pursuant to the
+22 authority of this Chapter.
+23 §3387.16. Peer support specialist associate; scope of practice
+24 A. The status of a peer support specialist associate within the meaning
+25 and intent of this Chapter shall consist of the supervised rendering of
+26 mentorship, guidance, and support services to individuals suffering from a
+27 behavioral health condition to assist them in gaining an understanding of the
+28 nature of their disorder and developing and maintaining a responsible lifestyle.
+29 B.(1) The status of peer support specialist associate is intended to assist
+Page 12 of 23
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-1140 REENGROSSED
+SB NO. 426
+1 professional development by providing qualified individuals with supervised
+2 professional experience.
+3 (2) The status of peer support specialist associate is, by its very nature,
+4 temporary and it is anticipated that the individual will progress through the
+5 experience to become a peer support specialist or supervisor.
+6 (3) The peer support specialist associate may not practice independently
+7 and cannot render clinical services.
+8 (4) The peer support specialist associate may work only under the direct
+9 supervision of a peer support specialist, peer support supervisor, licensed
+10 mental health provider, certified addiction counselor, or registered addiction
+11 counselor.
+12 (5) The scope of practice, in addition to any other applicable provision
+13 of this Chapter, shall include implementing directly-supervised strategic
+14 support, providing directly-supervised mentorship to family members, and, as
+15 appropriate, to others affected by the individual's behavioral health condition.
+16 C. The board shall adopt and promulgate rules which govern the status
+17 of peer support specialist associate in accordance with the provisions of this
+18 Chapter.
+19 D. Any person seeking to be recognized by the board as a peer support
+20 specialist associate shall submit an application to the board on a form and in a
+21 manner as the board shall prescribe. The initial application form shall be
+22 accompanied by an initial application fee as provided for in this Chapter.
+23 E. Upon investigation of the application, the board shall, within forty-five
+24 days, notify each candidate that the application is satisfactory and accepted or
+25 unsatisfactory and rejected. If an application is rejected, the notice shall state
+26 the reason for such rejection.
+27 F. The board shall recognize, as a peer support specialist associate, each
+28 candidate who:
+29 (1) Is a legal resident of the United States and at least eighteen years of
+Page 13 of 23
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-1140 REENGROSSED
+SB NO. 426
+1 age on the date the application is received.
+2 (2) Is not in violation of any ethical standards prescribed by the board.
+3 (3) If the applicant has lived experience with a behavioral health
+4 condition, has attested to at least twelve months of stability and is not currently
+5 engaged in acute treatment at the time the application is received.
+6 (4) Has not been convicted of, or entered a plea of guilty or a plea of nolo
+7 contendere to, a felony. However, the board may, in its discretion, waive this
+8 requirement upon review of the individual's circumstances. Each candidate
+9 shall sign a form prescribed by the board authorizing the board to obtain a
+10 criminal history or to conduct a criminal background check to be performed by
+11 the Bureau of Criminal Identification and Information. The bureau shall, upon
+12 request and after receipt of fingerprints and other identifying information from
+13 the board, make available to the board information contained in the bureau's
+14 criminal history record and identification files, which pertains to the individual
+15 applying to be licensed by the board as a peer support specialist. In addition, in
+16 order to determine the applicant's suitability for licensing, the bureau shall then
+17 forward the applicant's fingerprints to the Federal Bureau of Investigation for
+18 a national criminal history check. The results of the criminal history record
+19 check shall not be released to any other individual or agency outside of the
+20 board. The bureau shall charge a processing fee as provided in R.S.
+21 15:587(B)(1).
+22 (5) Signs a form of professional and ethical accountability and
+23 responsibility as prescribed by the board.
+24 G. The board may prescribe such other qualifications and requirements
+25 for peer support specialist associate as may be appropriate for the protection
+26 of the public or the enhancement of professional services provided pursuant to
+27 the authority of this Chapter.
+28 §3387.17. Peer support specialist supervisor; scope of practice
+29 A. The legislature finds that peer support is an effective and necessary
+Page 14 of 23
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-1140 REENGROSSED
+SB NO. 426
+1 component in the continuum of behavioral health treatment and services. In
+2 order to better provide for the health and welfare of the citizens of this state, the
+3 legislature desires to enhance the profession of peer support by providing for
+4 a qualified workforce in sufficient numbers to meet the needs of Louisiana and
+5 to contribute to the development of healthy communities within the state. The
+6 legislature finds peer support supervision to be essential for the ongoing
+7 development of a qualified workforce sufficient to meet the present and
+8 anticipated public health needs of the state.
+9 B. The board shall adopt and promulgate rules which govern peer
+10 support specialist supervisors in accordance with the provisions of this Chapter.
+11 C. Any person seeking to be recognized by the board as a peer support
+12 specialist supervisor shall submit an application to the board on a form and in
+13 a manner as the board shall prescribe. The initial application form shall be
+14 accompanied by an initial application fee as provided for in this Chapter.
+15 D. Upon investigation of the application, the board shall, within forty-
+16 five days, notify each candidate that the application is satisfactory and accepted
+17 or unsatisfactory and rejected. If an application is rejected, the notice shall state
+18 the reason for such rejection.
+19 E. The board shall recognize, as a peer support specialist supervisor,
+20 each candidate who:
+21 (1) Is a legal resident of the United States and at least eighteen years of
+22 age on the date the application is received.
+23 (2) Is not in violation of any ethical standards prescribed by the board.
+24 (3) If the applicant has lived experience with a behavior health condition,
+25 has attested to at least twelve months of stability and is not currently engaged
+26 in acute treatment at the time the application is received.
+27 (4) Has not been convicted of, or entered a plea of guilty or a plea of nolo
+28 contendere to, a felony. However, the board may, in its discretion, waive this
+29 requirement upon review of the individual's circumstances. Each candidate
+Page 15 of 23
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-1140 REENGROSSED
+SB NO. 426
+1 shall sign a form prescribed by the board authorizing the board to obtain a
+2 criminal history or to conduct a criminal background check to be performed by
+3 the Bureau of Criminal Identification and Information. The bureau shall, upon
+4 request and after receipt of fingerprints and other identifying information from
+5 the board, make available to the board information contained in the bureau's
+6 criminal history record and identification files, which pertains to the individual
+7 applying to be licensed by the board as a peer support specialist. In addition, in
+8 order to determine the applicant's suitability for licensing, the bureau shall then
+9 forward the applicant's fingerprints to the Federal Bureau of Investigation for
+10 a national criminal history check. The results of the criminal history record
+11 check shall not be released to any other individual or agency outside of the
+12 board. The bureau shall charge a processing fee as provided in R.S.
+13 15:587(B)(1).
+14 (5) Signs a form of professional and ethical accountability and
+15 responsibility as prescribed by the board.
+16 F.(1) Each applicant shall demonstrate professional competence in peer
+17 support supervision by passing a written examination.
+18 (2) The board shall determine the scope and administration of the
+19 examination.
+20 (3) The board may provide for circumstances under which a candidate
+21 who fails the examination, but meets all other requirements, may retake the
+22 examination.
+23 (4) The board shall make reasonable accommodations for those
+24 candidates who demonstrate a special need or disability.
+25 G. A peer support specialist supervisor may provide supervision for any
+26 other peer support specialist or any peer support specialist associate.
+27 * * *
+28 §3388.3. Applicability Peer support specialist renewal
+29 A. It is the intent of the legislature that there be a single authority issuing
+Page 16 of 23
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-1140 REENGROSSED
+SB NO. 426
+1 credentials for addictive disorder counseling and prevention professionals in
+2 Louisiana. The authority for issuing and recognizing credentials for professionals
+3 engaged in the providing of counseling and prevention services for those who suffer
+4 from addictive disorders shall be the Addictive Disorder Regulatory Authority.
+5 Each peer support specialist shall renew his certification annually. Each
+6 peer support specialist associate shall renew his status annually. Each renewal
+7 shall be for a twelve-month period.
+8 B. Within the twelve-month period provided for in Subsection A of this
+9 Section, each peer support specialist and peer support specialist associate shall
+10 provide to the board documentation of successfully completing a minimum of
+11 twenty board-approved continuing educational hours. Such hours shall be
+12 directly related to the area of certification, including six continuing educational
+13 hours in ethics.
+14 C. After initial application, an individual may hold peer support
+15 specialist associate status for up to sixty consecutive months. Failure to renew
+16 his annual status shall disqualify an individual from reapplying for peer
+17 support specialist associate status.
+18 D. Individuals who, prior to July 1, 2026, had maintained peer recovery
+19 support specialist certification, shall be allowed to renew or reapply for peer
+20 support specialist certification.
+21 E. Individuals who, prior to July 1, 2026, had maintained peer recovery
+22 support specialist associate status, shall be allowed to renew or reapply for peer
+23 support specialist associate status.
+24 §3388.4. Peer support specialist supervisor renewal
+25 A. The certification for peer support specialist supervisor shall be
+26 renewed every twenty-four months.
+27 B. Within the twenty-four-month period provided for in Subsection A of
+28 this Section, each peer support supervisor shall provide to the board
+29 documentation of successful completion of a minimum of twenty
+Page 17 of 23
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-1140 REENGROSSED
+SB NO. 426
+1 board-approved continuing educational hours. Such hours shall be directly
+2 related to the area of certification, including six continuing educational hours
+3 in ethics.
+4 C. The documentation required by Subsection B of this Section shall be
+5 provided on a form and in a manner prescribed by the board.
+6 D. The board may prescribe such other requirements for renewal as may
+7 be appropriate for the protection of the public or the enhancement of
+8 professional services as provided under the authority of this Chapter.
+9 * * *
+10 §3390.3. Disciplinary action; administrative fee; causes; hearing; appeal
+11 A. The board shall have the power to deny, revoke, or suspend any credential,
+12 specialty certification, status, or other recognition authorized by this Chapter. In
+13 addition, the board is authorized to impose and collect an administrative fee not to
+14 exceed five hundred dollars per violation or otherwise discipline any person holding
+15 a credential, specialty certification, status, or recognition authorized by this Chapter
+16 who:
+17 * * *
+18 (11) Has been grossly negligent in practice as a licensed, certified, or
+19 registered professional, professional in training, peer support specialist, or assistant,
+20 as provided for in this Chapter.
+21 * * *
+22 B. The board shall adopt rules and procedures establishing a disciplinary
+23 process which shall, at a minimum, comply with the following:
+24 * * *
+25 (4) If the board finds that public health, safety, and welfare requires
+26 emergency action and incorporates a finding to that effect in its order, a summary
+27 suspension of a license, certificate certification, or registration, or status may be
+28 ordered pending proceedings for disciplinary action. Such proceedings shall be
+29 promptly instituted and determined pursuant to rule.
+Page 18 of 23
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-1140 REENGROSSED
+SB NO. 426
+1 * * *
+2 §3390.6. Addictive disorders professionals; fees and penalties
+3 A. The board shall, by rule, adopt a schedule of fees and penalties to be
+4 charged relative to the issuance of licenses, registrations, and certifications, and
+5 statuses provided for in this Chapter.
+6 * * *
+7 B. The board may impose and collect the following fees:
+8 * * *
+9 (6) Each application for a peer support specialist, associate, and
+10 supervisor shall be accompanied by a fee prescribed by the board. The fee for
+11 processing the application shall be in an amount at least sufficient to cover the
+12 cost of processing the application, but shall not be less than fifty dollars nor
+13 more than three hundred dollars. The fee for administering the written
+14 examination shall be in an amount at least sufficient to cover the cost of
+15 administering the written examination, but shall not be less than one hundred
+16 dollars nor more than three hundred dollars. The renewal fee for a peer support
+17 specialist, associate, or supervisor shall not be less than one hundred dollars nor
+18 more than three hundred dollars.
+19 (6)(7) The board may require that each application or request for a copy of
+20 any roster maintained pursuant to R.S. 37:3386.3(A)(9) be accompanied by a fee of
+21 not less than one hundred dollars nor more than three hundred dollars.
+22 (7)(8) Each training or educational institute, provider, or institution shall pay
+23 a fee of not less than two hundred nor more than two hundred fifty dollars to the
+24 board in order to be authorized to provide approved education, training, and courses.
+25 Such authorization shall be valid for a period of one year. For those education
+26 providers who elect not to seek annual approval, the board is authorized to impose
+27 and collect a fee of not less than one hundred nor more than one hundred fifty dollars
+28 for each course approved. In addition, all providers submitting course reports shall
+29 pay a fee of not less than one nor more than five dollars per participant.
+Page 19 of 23
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-1140 REENGROSSED
+SB NO. 426
+1 (8)(9) Any person seeking approval of continuing education credit when
+2 those credits were not approved pursuant to Paragraph (7)(8) of this Subsection, shall
+3 pay a fee of not less than twenty-five dollars nor more than fifty dollars for each
+4 fifteen hours of continuing education credit.
+5 Section 2. R.S. 40:1203.3(E) is hereby amended and reenacted to read as follows:
+6 §1203.3. Refusal to hire or contract; termination of employment; exceptions to
+7 hiring prohibition; appeal procedure; waiver
+8 * * *
+9 E.(1) For purposes of this Subsection, "peer support specialist" means a
+10 behavioral health staff member who possesses lived experience with his own
+11 behavioral health condition and with navigating the behavioral health services
+12 network who seeks employment with a behavioral healthcare facility or program
+13 serving people with behavioral health conditions.
+14 (2)(1) The provisions of this Subsection shall apply exclusively to certified
+15 addiction counselors, registered addiction counselors, counselors in training,
+16 peer support specialists, or peer support specialist associates employed or
+17 contracted with a behavioral health services provider licensed by the department and
+18 shall not be construed to apply to any other person or any licensed personnel.
+19 (3)(2) Notwithstanding any other provision of law, a person shall not be
+20 prohibited or disqualified from employment as a peer support specialist certified
+21 addiction counselor, registered addiction counselor, counselor in training, peer
+22 support specialist, or peer support specialist associate with a licensed behavioral
+23 health services provider if the person's criminal background check reveals he has
+24 been convicted of an offense provided for in R.S. 14:38.1 or 67, or convicted of
+25 distribution or possession with the intent to distribute controlled dangerous
+26 substances listed in Schedules I through V of the Uniform Controlled Dangerous
+27 Substances Law, R.S. 40:961 et seq., if that person meets all of the following
+28 requirements:
+29 (a) No less than three years prior to being hired as a peer support specialist,
+Page 20 of 23
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-1140 REENGROSSED
+SB NO. 426
+1 the person satisfactorily completed his sentence or was lawfully released from
+2 confinement, supervision, or probation imposed by a court for the person's most
+3 recent conviction for an offense listed in this Paragraph.
+4 (b) After satisfactorily completing his sentence or after being lawfully
+5 released from confinement, supervision, or probation for his most recent conviction
+6 for an offense listed in this Paragraph, the person successfully completed all training
+7 and requirements established by the office of behavioral health of the department for
+8 a peer support specialist as evidenced by a Notice of Completion of Training and
+9 Requirements issued by the office of behavioral health or its designee Addictive
+10 Disorder Regulatory Authority.
+11 (4)(3) Nothing in this Subsection shall be construed as creating an obligation
+12 upon an employer to offer employment to a person.
+13 (5)(4) The department Addictive Disorder Regulatory Authority shall
+14 promulgate rules in accordance with the Administrative Procedure Act relating to the
+15 training and requirements of peer support specialists for purposes of implementing
+16 this Subsection.
+17 Section 3.(A) The Addictive Disorder Regulatory Authority shall coordinate with the
+18 Louisiana Department of Health during the transition of peer support specialists from the
+19 department to the board.
+20 (B) Any rules promulgated by the Addictive Disorder Regulatory Authority relative
+21 to peer support specialist associates, peer support specialists, and peer support supervisors
+22 shall align with the Substance Abuse Mental Health Services Administration's (SAMHSA)
+23 National Model Standards for Peer Support Certification in accordance with any federal
+24 requirements by the Centers for Medicare and Medicaid Services (CMS).
+The original instrument and the following digest, which constitutes no part
+of the legislative instrument, were prepared by Senate Legislative Services.
+The keyword, summary, and digest do not constitute part of the law or proof
+or indicia of legislative intent. [R.S. 1:13(B) and 24:177(E)]
+DIGEST
+SB 426 Reengrossed 2026 Regular Session Stine
+Present law establishes the Addictive Disorders Regulatory Authority (ADRA) as the
+Page 21 of 23
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-1140 REENGROSSED
+SB NO. 426
+licensing board with the responsibility and authority to regulate the practice of addictive
+disorder treatment and prevention.
+Proposed law adds that ADRA shall issue and recognize credentials for professionals
+engaged in providing substance use disorder counseling, prevention, and peer support
+services for those who suffer from behavioral health conditions.
+Present law provides for the membership of ADRA.
+Proposed law changes the number of members from 8 to 11 and adds representation from
+the office of behavioral health and higher education and a peer support specialist.
+Proposed law provides for additional qualifications for board members, except for the
+consumer member.
+Present law provides for definitions.
+Proposed law adds definitions for "behavioral health condition", "credentialing", "licensed
+mental health professional", "peer support", "peer support specialist", "peer support
+specialist associate", and "peer support specialist supervisor".
+Proposed law establishes the qualifications, scope of practice, and status renewal process for
+a person to be recognized by ADRA as a peer support specialist, peer support specialist
+associate, and peer support specialist supervisor.
+Proposed law provides for an application fee of not less than $50 and not more than $300,
+an examination fee of not less than $100 and not more than $300, and a renewal fee of not
+less than $100 and not more than $300 for a peer support specialist, associate, or supervisor.
+Present law prohibits a person from being disqualified from employment as a peer support
+specialist with a licensed behavioral health services provider if the person's criminal
+background check reveals certain convictions if the person meets requirements established
+in present law, including successfully completing the La. Dept. of Health's training and
+requirements.
+Proposed law expands present law to apply to certified addiction counselors, registered
+addiction counselors, counselors in training, peer support specialists, or peer support
+specialist associates and changes the reference from the La. Dept. of Health to ADRA.
+Proposed law requires ADRA to coordinate with the La. Dept. of Health during the transition
+of peer support specialists from the department to the board.
+Proposed law provides that any rules promulgated by ADRA relative to peer support
+specialist associates, peer support specialists, and peer support supervisors shall align with
+federal requirements.
+Effective August 1, 2026.
+(Amends R.S. 37:3386.1, 3386.2(A), 3386.2(B)(intro para), and 3386.2(B)(5) and (6),
+3386.2(F)(1)(intro para), and 3386.2(G), 3387.1(A)(2)(b)-(d), 3387.2(A)(2)(b)-(d),
+3387.3(B)(4), 3387.6(E)(1) and (3) and (I), 3388.3, 3390.3(A)(11) and (B)(4) and 3390.6(A)
+and (B)(6)-(8) and R.S. 40:1203.3(E); adds R.S. 37:3386.2(B)(7)-(10) and (H), 3387.15,
+3387.16, 3387.17, 3388.4, and 3390.6(B)(9))
+Summary of Amendments Adopted by Senate
+Senate Floor Amendments to engrossed bill
+Page 22 of 23
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
+
+SLS 26RS-1140 REENGROSSED
+SB NO. 426
+1. Provides for additional qualifications for board members, except for the
+consumer member.
+2. Requires ADRA to coordinate with the La. Dept. of Health during the
+transition of peer support specialists from the department to the board.
+3. Provides that any rules promulgated by ADRA relative to peer support
+specialist associates, peer support specialists, and peer support supervisors
+shall align with federal requirements.
+Page 23 of 23
+Coding: Words which are struck through are deletions from existing law;
+words in boldface type and underscored are additions.
